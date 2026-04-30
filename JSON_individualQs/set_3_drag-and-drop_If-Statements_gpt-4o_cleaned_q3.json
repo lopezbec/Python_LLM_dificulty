@@ -1,0 +1,14 @@
+{
+  "difficulty": 3,
+  "question": "Select the correct comparison operator to complete the if statement for equality.",
+  "code": "if a __operator__ b: \n    print(\"a equals b\")",
+  "options": [
+    "!=",
+    "==",
+    ">",
+    "<"
+  ],
+  "answers": [
+    "=="
+  ]
+}

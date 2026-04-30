@@ -1,0 +1,18 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "topic": "Loops",
+  "question": "Drag and drop the following components to build a for loop with an else clause that prints 'Done' after normal completion.",
+  "drag_items": [
+    "else:",
+    "for num in range(3):",
+    "    print(num)",
+    "    print('Done')"
+  ],
+  "correct_order": [
+    "for num in range(3):",
+    "    print(num)",
+    "else:",
+    "    print('Done')"
+  ]
+}

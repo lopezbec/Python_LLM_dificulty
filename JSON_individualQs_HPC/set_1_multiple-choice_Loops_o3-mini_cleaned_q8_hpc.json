@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "i = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print('done')"
+    ]
+}

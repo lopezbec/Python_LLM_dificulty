@@ -1,0 +1,12 @@
+{
+  "difficulty": 9,
+  "question": "Which statement is TRUE about Python short-circuit evaluation in an if statement that uses the 'and' operator?",
+  "options": [
+    "Python evaluates all conditions regardless of their truth values.",
+    "Python stops evaluating further conditions if the first condition is true.",
+    "Python stops evaluating further conditions if the first condition is false.",
+    "Short-circuit evaluation only applies to the 'or' operator, not 'and'."
+  ],
+  "correctAnswer": "Python stops evaluating further conditions if the first condition is false.",
+  "explanation": "For an 'and' statement, evaluation stops at the first condition that is false, making the expression false without checking subsequent parts."
+}

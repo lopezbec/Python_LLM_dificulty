@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Complete the Python if-statement syntax: \nif _____ < 10: \n    print('Less than 10')",
+  "answer": "x"
+}

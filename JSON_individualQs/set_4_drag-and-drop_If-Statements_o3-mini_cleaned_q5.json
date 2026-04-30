@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct keyword to complete the compound condition in the if-statement.\n\nif x > 0 _____ x < 10:\n    print('x is between 0 and 10')",
+  "blanks": [
+    "Blank1"
+  ],
+  "drag_items": [
+    "and",
+    "or",
+    "if",
+    "elif"
+  ],
+  "correct_mapping": {
+    "Blank1": "and"
+  }
+}

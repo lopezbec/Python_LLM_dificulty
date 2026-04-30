@@ -1,0 +1,6 @@
+{
+  "difficulty": 3,
+  "type": "true-false",
+  "question": "The break statement immediately exits the loop, regardless of remaining iterations.",
+  "correctAnswer": "True"
+}

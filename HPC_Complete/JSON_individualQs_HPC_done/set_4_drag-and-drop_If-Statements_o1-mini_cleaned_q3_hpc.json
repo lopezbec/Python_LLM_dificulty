@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if age __operator1__ 18:\n    print(\"Minor\")\nif score __operator2__ 90:\n    print(\"Excellent\")",
+        "<",
+        ">",
+        "==",
+        "<="
+    ]
+}

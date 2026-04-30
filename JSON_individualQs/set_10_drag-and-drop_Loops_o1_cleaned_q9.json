@@ -1,0 +1,17 @@
+{
+  "question": "Drag and drop the code blocks to iterate over a dictionary's keys and values, printing them in a specific format.",
+  "question_type": "drag-and-drop",
+  "difficulty": 9,
+  "instructions": "Arrange the blocks to display each key-value pair in the format 'Key: x, Value: y'.",
+  "code_blocks": [
+    "for key, value in my_dict.items():",
+    "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+    "for value in my_dict:",
+    "print(f'Key: {key}, Value: {value}')"
+  ],
+  "correct_order": [
+    "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+    "for key, value in my_dict.items():",
+    "print(f'Key: {key}, Value: {value}')"
+  ]
+}

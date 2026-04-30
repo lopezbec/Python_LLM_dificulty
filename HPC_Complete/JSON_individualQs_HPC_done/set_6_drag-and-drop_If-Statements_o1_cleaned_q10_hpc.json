@@ -1,0 +1,32 @@
+{
+    "HPC": [
+        "score = 92",
+        "__1__ score >= 90:",
+        "category = \"A\"",
+        "__2__ score > 95:",
+        "grade = \"A+\"",
+        "__3__:",
+        "grade = \"A\"",
+        "__4__ score >= 80:",
+        "category = \"B\"",
+        "grade = \"B\"",
+        "__5__:",
+        "category = \"C\"",
+        "grade = \"C\"",
+        "if",
+        "elif",
+        "while",
+        "if",
+        "else",
+        "elif",
+        "elif",
+        "except",
+        "else",
+        "if",
+        "elif",
+        "else",
+        "elif",
+        "finally",
+        "else"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "An if-statement in Python can evaluate both numeric and string expressions as conditions.",
+  "correct_answer": "True"
+}

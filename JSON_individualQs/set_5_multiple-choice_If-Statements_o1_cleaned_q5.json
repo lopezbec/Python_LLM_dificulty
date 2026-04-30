@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following expressions will evaluate to True if x = 5 and y = 10?",
+  "choices": {
+    "A": "x > 5 or y > 10",
+    "B": "x == 5 and y > 5",
+    "C": "x < 5 or y == 5",
+    "D": "x >= 10 and y == 10"
+  },
+  "correct_answer": "B",
+  "difficulty": 5
+}

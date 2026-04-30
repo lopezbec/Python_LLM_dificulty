@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 3\nif x == 3:\n    print('Equal)\nelse:\n    print('Not Equal')\n```\n",
+  "options": [
+    "Equal",
+    "Not Equal",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Equal",
+  "difficulty": 2
+}

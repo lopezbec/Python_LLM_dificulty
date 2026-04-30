@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "When a loop in Python is not terminated by a break statement, the else clause (if present) will execute after the loop finishes.",
+  "correct_answer": true
+}

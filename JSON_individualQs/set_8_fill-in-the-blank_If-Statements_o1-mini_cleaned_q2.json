@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to check if the variable `age` is at least 18:\n\n```python\nif ___:\n    print(\"You are an adult.\")\n```",
+  "difficulty": 2,
+  "answer": "age >= 18"
+}

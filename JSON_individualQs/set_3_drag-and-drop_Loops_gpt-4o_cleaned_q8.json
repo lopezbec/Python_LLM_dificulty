@@ -1,0 +1,9 @@
+{
+  "difficulty": 8,
+  "topic": "Loops",
+  "question": "Fill in the blanks to loop over a dictionary and print each key-value pair.",
+  "code": "my_dict = {\"a\": 1, \"b\": 2, \"c\": 3}\nfor key, value in ___.items():\n    print(key,':', value)",
+  "drag_and_drop_options": [
+    "my_dict"
+  ]
+}

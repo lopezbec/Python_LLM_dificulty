@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Given the code:\n\nfor i in range(4):\n    for j in range(2):\n        print(i, j)\n\nHow many times is the print statement executed?",
+  "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+  },
+  "correctAnswer": "D"
+}

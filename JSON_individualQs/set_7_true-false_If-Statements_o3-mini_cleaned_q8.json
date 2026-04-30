@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Using 'elif' in Python is functionally equivalent to writing multiple separate if statements without using the 'elif' keyword.",
+  "answer": false
+}

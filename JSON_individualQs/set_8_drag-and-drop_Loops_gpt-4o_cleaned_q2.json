@@ -1,0 +1,16 @@
+{
+  "difficulty": 2,
+  "question": "Match each scenario with the most suitable type of loop:",
+  "choices": [
+    "for loop",
+    "while loop"
+  ],
+  "scenarios": [
+    "Iterate over a fixed list of elements.",
+    "Keep asking for user input until they enter 'exit'."
+  ],
+  "correct_answers": {
+    "for loop": "Iterate over a fixed list of elements.",
+    "while loop": "Keep asking for user input until they enter 'exit'."
+  }
+}

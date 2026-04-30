@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "x",
+        "x = 7",
+        "____ x % 4 == 0:",
+        "print('Multiple of 4')",
+        "____ x < 10:",
+        "____ x in [2, 3, 5, 7]:",
+        "print('Prime under 10')",
+        "else:",
+        "print('Under 10 but not prime')",
+        "print('Does not meet any condition')",
+        "if",
+        "elif",
+        "while",
+        "for"
+    ]
+}

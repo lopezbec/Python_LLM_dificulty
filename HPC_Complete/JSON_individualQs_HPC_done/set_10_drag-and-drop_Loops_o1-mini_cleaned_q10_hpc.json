@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "def generate_squares(n):\n    for i in range(1, n+1):\n        ___\n",
+        "yield i * i",
+        "return i * i",
+        "print(i * i)",
+        "yield i"
+    ]
+}

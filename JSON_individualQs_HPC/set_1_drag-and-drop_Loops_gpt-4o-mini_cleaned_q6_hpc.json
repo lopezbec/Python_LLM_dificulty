@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "while True: if some_condition: _____",
+        "exit",
+        "break",
+        "return",
+        "stop"
+    ]
+}

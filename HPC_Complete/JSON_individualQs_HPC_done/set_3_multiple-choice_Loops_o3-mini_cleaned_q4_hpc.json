@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for index, value in enumerate(list):",
+        "for index, value in list.enumerate():",
+        "for index, value in enumerate(list()):",
+        "for index in range(len(list)):"
+    ]
+}

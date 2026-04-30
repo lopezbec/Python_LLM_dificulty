@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "True or False: Modifying a dictionary while iterating over it with a for loop is considered safe and will not lead to any errors.",
+  "correct_answer": false
+}

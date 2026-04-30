@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Is it true that using the 'break' statement inside a 'while' loop can terminate the loop before its condition becomes False?",
+  "answer": "True"
+}

@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "if (x > 10) print('x is large')"
+    ]
+}

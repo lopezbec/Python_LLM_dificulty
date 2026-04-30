@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Using range(5, 1, -1) in a 'for' loop generates the sequence 5, 4, 3, 2, 1.",
+  "correct_answer": false
+}

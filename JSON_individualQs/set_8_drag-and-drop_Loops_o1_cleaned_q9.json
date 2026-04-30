@@ -1,0 +1,22 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "question": "Reorder the code so it collects input in a loop until 'stop' is entered, then prints all inputs.",
+  "codeBlocks": [
+    "user_input = ''",
+    "while user_input.lower() != 'stop':",
+    "user_input = input('Enter a value: ')",
+    "entries.append(user_input)",
+    "entries = []",
+    "if True: break"
+  ],
+  "correctOrder": [
+    "entries = []",
+    "user_input = ''",
+    "while user_input.lower() != 'stop':",
+    "user_input = input('Enter a value: ')",
+    "entries.append(user_input)"
+  ],
+  "explanation": "Initialize an empty list and a placeholder for user_input. Loop until 'stop' is entered, storing each input into entries."
+}

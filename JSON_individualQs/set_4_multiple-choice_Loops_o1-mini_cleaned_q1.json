@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "question": "What is the output of the following code?\n\n```python\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\n```",
+  "options": {
+    "A": "0\n1\n2",
+    "B": "1\n2\n3",
+    "C": "0\n1\n2\n3",
+    "D": "Error"
+  },
+  "answer": "A",
+  "difficulty": 1,
+  "topic": "loops",
+  "type": "multiple-choice"
+}

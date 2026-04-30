@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "type": "fill-in-the-blank",
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "In Python, a ______ loop is used to iterate over a sequence of elements.",
+  "answer": "for"
+}

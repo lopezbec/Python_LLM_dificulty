@@ -1,0 +1,5 @@
+{
+  "question": "Chained comparison operators (for example, 1 < x < 10) are valid in Python if statements.",
+  "correct_answer": "True",
+  "difficulty": 9
+}

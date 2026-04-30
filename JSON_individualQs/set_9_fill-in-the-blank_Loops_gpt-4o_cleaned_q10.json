@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A loop that iterates over elements in a list while keeping track of both index and value can be created using the ___ function alongside 'enumerate'.",
+  "answer": "for"
+}

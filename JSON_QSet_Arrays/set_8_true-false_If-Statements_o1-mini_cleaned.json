@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Python, an if-statement is used to execute a block of code only if a specified condition is true.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "In Python, the condition in an if-statement must always be a boolean value (`True` or `False`).",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "Python allows multiple `elif` clauses in an if-elif-else statement to handle multiple conditions.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "In Python, indentation is not required after an if-statement as long as the code is syntactically correct.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "Using an else clause with an if-statement in Python is mandatory to handle all possible conditions.",
+    "answer": false,
+    "difficulty": 5
+  },
+  {
+    "question": "In Python, the `elif` keyword can be used without a preceding `if` statement.",
+    "answer": false,
+    "difficulty": 6
+  },
+  {
+    "question": "A single-line if-statement in Python can be written without using a colon (`:`) at the end of the condition.",
+    "answer": false,
+    "difficulty": 7
+  },
+  {
+    "question": "In Python, logical operators like `and` and `or` can be used within the condition of an if-statement to combine multiple expressions.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "Python evaluates conditions in if-statements using short-circuit evaluation, meaning it stops evaluating once the outcome is determined.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "In Python, an if-statement can control multiple independent blocks of code without using nested if-statements or separate conditions.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

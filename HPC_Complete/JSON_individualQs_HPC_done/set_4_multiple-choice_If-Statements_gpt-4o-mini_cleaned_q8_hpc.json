@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = -5",
+        "y = 0",
+        "if x < 0:",
+        "print('Negative')",
+        "elif y < 0:",
+        "print('Y Negative')",
+        "else:",
+        "print('None')",
+        "Negative",
+        "Y Negative",
+        "None",
+        "Error"
+    ]
+}

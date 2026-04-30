@@ -1,0 +1,15 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question_text": "Drag the lines into the correct order to create a simple for loop that prints 1, 2, 3, then 'Done!'.",
+  "choices": [
+    "print('Done!')",
+    "for i in range(1, 4):",
+    "print(i)"
+  ],
+  "correct_order": [
+    2,
+    3,
+    1
+  ]
+}

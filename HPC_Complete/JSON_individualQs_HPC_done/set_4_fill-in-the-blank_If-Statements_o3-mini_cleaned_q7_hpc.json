@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "num",
+        "if num % 3 == 0 ______ num % 5 == 0:",
+        "print('FizzBuzz')"
+    ]
+}

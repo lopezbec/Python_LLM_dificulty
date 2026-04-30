@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "values = [2, 4, 6, 8]",
+        "for val in values:",
+        "if val % 4 == 0:",
+        "print(val)",
+        "elif val % 2 == 0:",
+        "print(val * 2)",
+        "else:",
+        "print(val - 1)"
+    ]
+}

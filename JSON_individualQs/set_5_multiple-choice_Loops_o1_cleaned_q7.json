@@ -1,0 +1,11 @@
+{
+  "question": "Which type of loop is generally used when the number of iterations is unknown or depends on a condition, rather than iterating over a sequence?",
+  "difficulty": 7,
+  "choices": [
+    "for",
+    "while",
+    "do-while",
+    "recursive"
+  ],
+  "correct_answer": "while"
+}

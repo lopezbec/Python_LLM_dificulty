@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "instruction": "Construct an if-statement that checks if a character is a vowel using a list.",
+  "code": "vowels = ['a', 'e', 'i', 'o', 'u']\nchar = 'a'\n____ char ____ vowels:\n    print('Character is a vowel')",
+  "options": [
+    "if",
+    "not in",
+    "in",
+    "or"
+  ],
+  "answer": [
+    "if",
+    "in"
+  ]
+}

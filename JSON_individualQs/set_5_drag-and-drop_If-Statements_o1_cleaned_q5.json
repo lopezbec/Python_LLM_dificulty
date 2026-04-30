@@ -1,0 +1,16 @@
+{
+  "question": "Complete the code to check two conditions with 'and': 'temperature' above 20 and 'weather' equals 'sunny'.",
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "codeSnippet": "temperature = 25\nweather = \"sunny\"\nif ( {CONDITION1} and {CONDITION2} ):\n    print(\"Perfect for a walk!\")",
+  "dragItems": [
+    "temperature > 20",
+    "temperature == 20",
+    "weather == \"sunny\"",
+    "weather != \"sunny\""
+  ],
+  "correctAnswer": [
+    "temperature > 20",
+    "weather == \"sunny\""
+  ]
+}

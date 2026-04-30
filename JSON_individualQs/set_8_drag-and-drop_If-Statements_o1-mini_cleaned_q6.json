@@ -1,0 +1,20 @@
+{
+  "question": "Organize the following lines to create an if-statement with multiple conditions using logical AND:",
+  "options": [
+    "if",
+    "age >= 18 and citizen == True",
+    ":",
+    "    print(\"Eligible to vote\")",
+    "else:",
+    "    print(\"Not eligible to vote\")"
+  ],
+  "answer": [
+    "if",
+    "age >= 18 and citizen == True",
+    ":",
+    "    print(\"Eligible to vote\")",
+    "else:",
+    "    print(\"Not eligible to vote\")"
+  ],
+  "difficulty": 6
+}

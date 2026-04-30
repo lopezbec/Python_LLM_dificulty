@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "description": "Complete the if-statement to check multiple conditions on a list. The list 'numbers' should contain both positive numbers and the number 10.",
+  "code": "numbers = [10, 12, -2, 8]\nif ( any(n > 0 for n in numbers) and ___(10 in numbers) ):\n    print('Criteria met')",
+  "options": [
+    "all",
+    "any",
+    "not",
+    "all not"
+  ],
+  "correct": [
+    "any"
+  ]
+}

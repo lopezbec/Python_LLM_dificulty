@@ -1,0 +1,39 @@
+{
+  "difficulty": 6,
+  "question": "Rearrange these code snippets to count the number of vowels in a given string using a loop.",
+  "choices": [
+    "count",
+    "0",
+    "for",
+    "char",
+    "in",
+    "string",
+    "if",
+    "char",
+    "in",
+    "vowels",
+    "aeiou",
+    "+=1",
+    ":",
+    "print(count)"
+  ],
+  "correct_order": [
+    "count",
+    "=",
+    "0",
+    "for",
+    "char",
+    "in",
+    "string",
+    ":",
+    "if",
+    "char",
+    "in",
+    "aeiou",
+    ":",
+    "count",
+    "+=",
+    "1",
+    "print(count)"
+  ]
+}

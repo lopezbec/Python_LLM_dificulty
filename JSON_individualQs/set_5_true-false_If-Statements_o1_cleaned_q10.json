@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "You can use 'not' to invert the result of an expression when evaluating an if condition in Python.",
+  "correct_answer": "True"
+}

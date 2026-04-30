@@ -1,0 +1,29 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Arrange the following pieces to create a multi-layered if-elif-else statement that categorizes a character.",
+  "instruction": "Drag the lines in the proper order to distinguish between letters (uppercase/lowercase), digits, and special characters.",
+  "draggable_items": [
+    "        print('Uppercase letter')",
+    "    else:",
+    "elif char.isdigit():",
+    "    if char.isupper():",
+    "if char.isalpha():",
+    "    print('Digit')",
+    "    else:",
+    "        print('Lowercase letter')",
+    "else:",
+    "    print('Special character')"
+  ],
+  "correct_order": [
+    "if char.isalpha():",
+    "    if char.isupper():",
+    "        print('Uppercase letter')",
+    "    else:",
+    "        print('Lowercase letter')",
+    "elif char.isdigit():",
+    "    print('Digit')",
+    "else:",
+    "    print('Special character')"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "If 'break' and 'continue' are both used within a nested loop, what happens when 'break' is executed?",
+  "options": [
+    "It breaks out of the inner loop only",
+    "It breaks out of the outer loop only",
+    "It pauses the loop",
+    "It continues to the next iteration of the inner loop"
+  ],
+  "correctAnswer": "It breaks out of the inner loop only"
+}

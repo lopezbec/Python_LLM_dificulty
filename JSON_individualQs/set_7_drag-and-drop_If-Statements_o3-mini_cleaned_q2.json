@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "type": "drag_and_drop",
+  "difficulty": 2,
+  "prompt": "Complete the if-statement header by adding the correct punctuation.",
+  "instructions": "Drag the correct punctuation mark into the blank.",
+  "displayText": "if x % 2 == 0____",
+  "draggables": [
+    {
+      "id": "A",
+      "text": ":"
+    },
+    {
+      "id": "B",
+      "text": ";"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A"
+  }
+}

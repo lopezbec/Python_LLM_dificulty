@@ -1,0 +1,5 @@
+{
+  "question": "Python does not allow using multiple 'elif' statements after an 'if'.",
+  "difficulty": 3,
+  "correct_answer": "False"
+}

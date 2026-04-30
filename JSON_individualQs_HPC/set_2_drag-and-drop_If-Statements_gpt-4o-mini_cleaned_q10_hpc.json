@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (age < 18 _______ has_permission) { print('Access denied'); }",
+        "age",
+        "or",
+        "and",
+        "not"
+    ]
+}

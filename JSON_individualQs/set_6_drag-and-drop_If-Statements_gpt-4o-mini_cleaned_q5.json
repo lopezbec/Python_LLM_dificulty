@@ -1,0 +1,11 @@
+{
+  "question": "Complete the if-statement by dragging the missing components:\n`if (weather === 'rainy') { ____; }`",
+  "drops": [
+    "take an umbrella;",
+    "play outside;",
+    "stay indoors;",
+    "go for a walk;"
+  ],
+  "correct": "take an umbrella;",
+  "difficulty": 5
+}

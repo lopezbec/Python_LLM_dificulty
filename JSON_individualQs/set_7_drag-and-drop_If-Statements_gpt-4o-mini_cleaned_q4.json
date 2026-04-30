@@ -1,0 +1,14 @@
+{
+  "difficulty": 4,
+  "question": "Match the condition type to the code: 'if (user_age < 18) { print(\"Minor\") }'",
+  "options": {
+    "A": "String comparison",
+    "B": "Numerical comparison",
+    "C": "Logical operation",
+    "D": "Boolean check"
+  },
+  "correctMatch": {
+    "code": "if (user_age < 18) { print(\"Minor\") }",
+    "conditionType": "B"
+  }
+}

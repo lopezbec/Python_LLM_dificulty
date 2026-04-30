@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct Pythonic way to write a one-line if-else statement?",
+  "difficulty": 8,
+  "options": [
+    "result = if condition: x else: y",
+    "result = x if condition else y",
+    "result = x ? condition : y",
+    "result = if condition then x else y"
+  ],
+  "correct_answer": "result = x if condition else y"
+}

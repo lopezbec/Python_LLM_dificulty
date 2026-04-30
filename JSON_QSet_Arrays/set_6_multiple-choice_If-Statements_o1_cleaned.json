@@ -1,0 +1,112 @@
+[
+  {
+    "question": "1) Which Python keyword is used to start a simple if-statement?",
+    "difficulty": 1,
+    "answers": [
+      "if",
+      "else",
+      "for",
+      "while"
+    ],
+    "correct_answer": "if"
+  },
+  {
+    "question": "2) Which of the following best describes the purpose of an if-statement in Python?",
+    "difficulty": 2,
+    "answers": [
+      "To repeat a block of code multiple times",
+      "To execute a block of code only when a certain condition is true",
+      "To define a function",
+      "To handle expected errors"
+    ],
+    "correct_answer": "To execute a block of code only when a certain condition is true"
+  },
+  {
+    "question": "3) Which expression correctly checks if the variable x is equal to 10 in an if-statement?",
+    "difficulty": 3,
+    "answers": [
+      "if x = 10:",
+      "if x == 10:",
+      "if x: 10",
+      "if 10 => x:"
+    ],
+    "correct_answer": "if x == 10:"
+  },
+  {
+    "question": "4) Given the code:\n\nx = 5\nif x > 3:\n    print('x is greater than 3')\n\nWhat will be printed if you run this code?",
+    "difficulty": 4,
+    "answers": [
+      "Nothing is printed.",
+      "x is greater than 3",
+      "x is equal to 3",
+      "A SyntaxError"
+    ],
+    "correct_answer": "x is greater than 3"
+  },
+  {
+    "question": "5) Which statement about indentation in a Python if-statement is correct?",
+    "difficulty": 5,
+    "answers": [
+      "Indentation is optional in Python if-statements.",
+      "Indentation is required and determines which block of code executes under the if condition.",
+      "You can use curly braces {} instead of indentation in Python.",
+      "Use a semicolon to mark the end of the if block."
+    ],
+    "correct_answer": "Indentation is required and determines which block of code executes under the if condition."
+  },
+  {
+    "question": "6) Which of the following code snippets uses 'elif' correctly in a Python conditional structure?",
+    "difficulty": 6,
+    "answers": [
+      "if x > 10:\n    print(\"Greater than 10\")\nelse if x > 5:\n    print(\"Between 6 and 10\")",
+      "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")",
+      "if x > 10:\n    print(\"Greater than 10\")\nelseif x > 0:\n    print(\"Between 1 and 9\")",
+      "if x > 10():\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")"
+    ],
+    "correct_answer": "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")"
+  },
+  {
+    "question": "7) Which if-condition correctly checks if x is between 0 and 10 (inclusive)?",
+    "difficulty": 7,
+    "answers": [
+      "if x >= 0 and x <= 10:",
+      "if x >= 0 or x <= 10:",
+      "if (x >= 0) + (x <= 10):",
+      "if x == range(0, 10):"
+    ],
+    "correct_answer": "if x >= 0 and x <= 10:"
+  },
+  {
+    "question": "8) Which statement is true about short-circuit evaluation with the 'and' operator in Python if-statements?",
+    "difficulty": 8,
+    "answers": [
+      "With 'and', Python always evaluates both expressions.",
+      "With 'or', Python always evaluates both expressions.",
+      "With 'and', Python evaluates the first expression; if it's false, it doesn't evaluate the second.",
+      "Short-circuit evaluation doesn't apply in Python."
+    ],
+    "correct_answer": "With 'and', Python evaluates the first expression; if it's false, it doesn't evaluate the second."
+  },
+  {
+    "question": "9) Given the code:\n\nx = 12\nif x > 10:\n    if x < 15:\n        print('x is between 11 and 14')\n    else:\n        print('x is 15 or more')\nelse:\n    print('x is 10 or less')\n\nWhat will be the output?",
+    "difficulty": 9,
+    "answers": [
+      "No output",
+      "x is between 11 and 14",
+      "x is 10 or less",
+      "x is 15 or more"
+    ],
+    "correct_answer": "x is between 11 and 14"
+  },
+  {
+    "question": "10) Which snippet is the correct usage of Python's ternary operator to set 'result' based on whether x is greater than 10?",
+    "difficulty": 10,
+    "answers": [
+      "result = (x > 10) ? 'Greater' : 'Not Greater'",
+      "result = 'Greater' if x > 10 else 'Not Greater'",
+      "result = if x > 10 else 'Not Greater'",
+      "result = 'Greater' only if x > 10 else 'Not Greater'"
+    ],
+    "correct_answer": "result = 'Greater' if x > 10 else 'Not Greater'"
+  }
+]

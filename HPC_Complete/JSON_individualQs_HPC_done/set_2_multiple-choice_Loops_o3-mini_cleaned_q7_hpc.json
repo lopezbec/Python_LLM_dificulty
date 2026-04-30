@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "count = 0",
+        "for num in range(1, 10, 2):",
+        "count += num",
+        "print(count)",
+        "count"
+    ]
+}

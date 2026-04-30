@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to use the correct comparison operator to check if 'a' is not equal to 'b':\n\n```python\nif a ____ b:\n    print(\"a and b are not equal\")\n```",
+  "answer": "!=",
+  "difficulty": 7,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

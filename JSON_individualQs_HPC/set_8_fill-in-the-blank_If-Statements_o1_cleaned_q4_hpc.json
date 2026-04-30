@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "x",
+        "if x >= 0 ______ x <= 10: print('Between 0 and 10')",
+        "and",
+        "or",
+        "not",
+        "in"
+    ]
+}

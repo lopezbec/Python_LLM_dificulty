@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x __condition__ y: \n    print(\"x is greater\")\nelse:\n    print(\"y is greater or equal\")",
+        ">",
+        "<",
+        "=="
+    ]
+}

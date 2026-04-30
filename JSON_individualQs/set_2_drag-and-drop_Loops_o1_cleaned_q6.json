@@ -1,0 +1,13 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "question": "Drag the correct keyword to execute the block only if no break occurred in the for loop (checking if 7 is prime).",
+  "codeSnippet": "n = 7\nfor i in range(2, n):\n    if n % i == 0:\n        print('Not prime')\n        break\n???:\n    print('Prime')",
+  "options": [
+    "finally",
+    "elif",
+    "except",
+    "else"
+  ],
+  "correctAnswer": "else"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "To compare two values for equality in a Python if-statement, you use '==' and not '='.",
+  "difficulty": 9,
+  "correct_answer": "True"
+}

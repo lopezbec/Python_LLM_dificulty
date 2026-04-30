@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "A single 'if' statement can have multiple independent conditions evaluated using 'and' or 'or'.",
+  "answer": true
+}

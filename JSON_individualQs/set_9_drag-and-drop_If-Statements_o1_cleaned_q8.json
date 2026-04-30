@@ -1,0 +1,23 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "prompt": "Complete the range check to ensure 'grade' is between 90 and 100 inclusive.",
+  "code_with_placeholders": [
+    "grade = 95",
+    "if 90 [__op1__] grade [__op2__] 100:",
+    "    print(\"A grade\")",
+    "else:",
+    "    print(\"Not an A grade\")"
+  ],
+  "drag_items": [
+    "<",
+    "<=",
+    ">",
+    "=="
+  ],
+  "correct_answer": {
+    "__op1__": "<=",
+    "__op2__": "<="
+  }
+}

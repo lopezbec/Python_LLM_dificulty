@@ -1,0 +1,17 @@
+{
+  "question_id": 2,
+  "difficulty": 2,
+  "question_text": "Drag and drop the correct keyword to create an infinite loop that prints \"Looping\" repeatedly.",
+  "code_snippet": "____ True:\n    print('Looping')",
+  "draggable_items": {
+    "blank1": [
+      "while",
+      "if",
+      "for",
+      "def"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "while"
+  }
+}

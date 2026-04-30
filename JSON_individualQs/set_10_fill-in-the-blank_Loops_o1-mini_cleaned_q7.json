@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank to create a list comprehension that uses a for loop to generate a list of squares from 0 to 9.\n\n```python\nsquares = [___ for i in range(10)]\nprint(squares)\n```",
+  "answer": "i**2"
+}

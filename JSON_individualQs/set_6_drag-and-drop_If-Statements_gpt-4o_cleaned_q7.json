@@ -1,0 +1,15 @@
+{
+  "difficulty": 7,
+  "question": "Complete the program using logical operators to evaluate whether a number is between 10 and 20 inclusive.",
+  "code_blocks": [
+    "num = 15",
+    "if num >= 10 and num <= 20:",
+    "print('Within range')"
+  ],
+  "droppable_items": [
+    "if num >= 10 and num <= 20:"
+  ],
+  "solution": [
+    "if num >= 10 and num <= 20:"
+  ]
+}

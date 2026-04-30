@@ -1,0 +1,45 @@
+{
+  "id": 8,
+  "type": "drag_and_drop",
+  "difficulty": 8,
+  "prompt": "Arrange the keywords to complete the nested if-statement correctly.",
+  "instructions": "Drag the correct keyword to each blank in the nested structure.",
+  "displayText": "____ x > 0:\n    ____ x > 10:\n        print('Large number')\n    ____:\n        print('Small positive number')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "if"
+    },
+    {
+      "id": "B",
+      "text": "else"
+    },
+    {
+      "id": "C",
+      "text": "elif"
+    },
+    {
+      "id": "D",
+      "text": "while"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank 1"
+    },
+    {
+      "id": "dz2",
+      "label": "Blank 2"
+    },
+    {
+      "id": "dz3",
+      "label": "Blank 3"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A",
+    "dz2": "A",
+    "dz3": "B"
+  }
+}

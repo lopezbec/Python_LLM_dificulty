@@ -1,0 +1,11 @@
+{
+  "question": "What is the primary purpose of an if-statement in Python?",
+  "difficulty": 1,
+  "options": {
+    "A": "To iterate over a sequence",
+    "B": "To declare a variable",
+    "C": "To execute code only if a condition is true",
+    "D": "To convert data types"
+  },
+  "correct_answer": "C"
+}

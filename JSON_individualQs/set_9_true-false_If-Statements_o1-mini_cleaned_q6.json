@@ -1,0 +1,5 @@
+{
+  "question": "In a Python if-elif-else chain, only the first True condition's block is executed, and the rest are skipped.",
+  "difficulty": 6,
+  "answer": true
+}

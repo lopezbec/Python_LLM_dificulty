@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to check if age is greater than or equal to 18:\n\n```python\nif age ____ 18:\n    print(\"Adult\")\n```",
+  "answer": ">=",
+  "difficulty": 3
+}

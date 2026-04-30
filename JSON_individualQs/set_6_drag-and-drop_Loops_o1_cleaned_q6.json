@@ -1,0 +1,26 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question_text": "Complete this nested loop to print pairs (x,y) where x is from 1 to 2 and y is from 1 to 3.",
+  "code_snippet": "for ____ in ____:\n    for ____ in ____:\n        print((i, j))",
+  "drag_items": [
+    "i",
+    "j",
+    "range(1,3)",
+    "range(1,4)",
+    "range(1,2)",
+    "range(1,3+1)"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2",
+    "Placeholder 3",
+    "Placeholder 4"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "i",
+    "Placeholder 2": "range(1,3)",
+    "Placeholder 3": "j",
+    "Placeholder 4": "range(1,4)"
+  }
+}

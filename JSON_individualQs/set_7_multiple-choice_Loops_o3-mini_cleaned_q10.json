@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "How many times will the while loop iterate in the following code?\n\ni = 1\nwhile i < 100:\n    i *= 2\nprint(i)\n",
+  "options": [
+    "6",
+    "7",
+    "8",
+    "It will run indefinitely"
+  ],
+  "correct_answer": "7"
+}

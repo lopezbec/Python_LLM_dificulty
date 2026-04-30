@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "temperature",
+        "if temperature _____ 0 _____ temperature > 100:",
+        "print('Temperature out of range')"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "a",
+        "if a % 2 == 0 ___ a % 3 == 0:",
+        "print(\"a is divisible by both 2 and 3\")"
+    ]
+}

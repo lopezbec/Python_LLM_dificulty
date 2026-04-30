@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank: In Python, the keyword that begins a for loop is ______.",
+    "correct_answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank: To create a loop that repeats 5 times, you can write: for i in ______(5):",
+    "correct_answer": "range"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank: The loop that continues as long as a condition remains True is called a ______ loop.",
+    "correct_answer": "while"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank: To exit a loop immediately in Python, you can use the ______ statement.",
+    "correct_answer": "break"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank: To skip the current iteration of a loop and continue with the next one, use the ______ statement.",
+    "correct_answer": "continue"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank: In nested loops, the inner loop executes completely for each single ______ of the outer loop.",
+    "correct_answer": "iteration"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank: Some programming languages have a loop that executes the block at least once before checking the condition. This loop is known as a ______ loop, which Python does not natively support but can be emulated.",
+    "correct_answer": "do-while"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank: In Python, a for loop commonly iterates over an ______ such as a list, tuple, or string.",
+    "correct_answer": "iterable"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank: To generate even numbers from 2 to 20 using range(), you can write: range(2, ______, 2).",
+    "correct_answer": "21"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank: When you need both the index and the element while iterating over a list, you can use the ______() function.",
+    "correct_answer": "enumerate"
+  }
+]

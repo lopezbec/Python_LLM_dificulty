@@ -1,0 +1,14 @@
+{
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Replace the placeholder to check if the variable 'a' is less than or equal to the variable 'b' and print 'Valid'.",
+  "code": "a = 3\nb = 4\nif a ______ b:\n    print('Valid')",
+  "options": [
+    "<=",
+    "!=",
+    ">=",
+    "!"
+  ],
+  "correct": "<="
+}

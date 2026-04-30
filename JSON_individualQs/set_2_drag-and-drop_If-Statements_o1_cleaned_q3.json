@@ -1,0 +1,24 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "questionText": "Fill in the blanks to print 'High' if x is greater than 100, 'Medium' if exactly 100, otherwise 'Low'.",
+  "incompleteCode": "[Zone1] x [Zone2] 100 [Zone3]\n    print(\"High\")\n[Zone4] x [Zone5] 100 [Zone6]\n    print(\"Medium\")\n[Zone7]:\n    print(\"Low\")",
+  "dragItems": [
+    "if",
+    "elif",
+    "==",
+    ">",
+    ":",
+    ":"
+  ],
+  "correctAnswer": [
+    "if",
+    ">",
+    ":",
+    "elif",
+    "==",
+    ":",
+    "else"
+  ],
+  "explanation": "The if statement checks if x is greater than 100, the elif checks for equality, and else covers all other cases."
+}

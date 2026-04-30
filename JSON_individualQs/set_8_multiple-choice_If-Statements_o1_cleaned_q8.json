@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following is the correct structure of an if-elif-else chain?",
+  "choices": {
+    "A": "if (condition): elif: else:",
+    "B": "if (condition): elif (condition): else:",
+    "C": "if: elif: else",
+    "D": "if condition: elif: else condition:"
+  },
+  "correct_answer": "B"
+}

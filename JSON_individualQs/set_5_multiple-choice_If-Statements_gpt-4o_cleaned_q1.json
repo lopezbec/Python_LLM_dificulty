@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What does an if-statement in Python do?",
+  "options": [
+    "It performs a computation.",
+    "It repeats code multiple times.",
+    "It executes code only if a certain condition is true.",
+    "It defines a new function."
+  ],
+  "correct_answer": "It executes code only if a certain condition is true."
+}

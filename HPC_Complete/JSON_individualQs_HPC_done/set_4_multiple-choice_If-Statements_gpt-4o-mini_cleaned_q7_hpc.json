@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "num = 7",
+        "if num % 2 == 0:",
+        "print('Even')",
+        "elif num % 2 != 0:",
+        "print('Odd')",
+        "else:",
+        "print('Not a number')",
+        "Even",
+        "Odd",
+        "Not a number",
+        "Error"
+    ]
+}

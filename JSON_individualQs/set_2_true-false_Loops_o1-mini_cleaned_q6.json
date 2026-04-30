@@ -1,0 +1,7 @@
+{
+  "question": "Using a break statement inside a loop will immediately terminate the loop regardless of the loop condition.",
+  "answer": true,
+  "difficulty": 6,
+  "topic": "Loops",
+  "type": "True/False"
+}

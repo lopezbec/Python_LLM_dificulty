@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: To exit a loop immediately before it naturally terminates, the ____ keyword is used.",
+  "answer": "break"
+}

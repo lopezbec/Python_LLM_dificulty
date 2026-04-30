@@ -1,0 +1,37 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Arrange the following lines to form a valid if-else statement.",
+  "drag_options": [
+    "else:",
+    "if x > 5:",
+    "    print('Greater than five')",
+    "    print('Less than or equal to five')"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Line 1",
+      "identifier": "line_1"
+    },
+    {
+      "placeholder": "Line 2",
+      "identifier": "line_2"
+    },
+    {
+      "placeholder": "Line 3",
+      "identifier": "line_3"
+    },
+    {
+      "placeholder": "Line 4",
+      "identifier": "line_4"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if x > 5:",
+    "line_2": "    print('Greater than five')",
+    "line_3": "else:",
+    "line_4": "    print('Less than or equal to five')"
+  }
+}

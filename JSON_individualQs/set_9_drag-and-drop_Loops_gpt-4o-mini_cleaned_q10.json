@@ -1,0 +1,10 @@
+{
+  "difficulty": 10,
+  "question": "Drag the correct code snippet to implement a loop that generates Fibonacci numbers up to a specified limit.",
+  "options": [
+    "a, b = 0, 1\nwhile a <= limit:\n    print(a)\n    a, b = b, a + b",
+    "a, b = 0, 1\nfor i in range(limit):\n    print(a)\n    a, b = b, a + b",
+    "a, b = 0, 1\ndo:\n    print(a)\n    a, b = b, a + b\nwhile a <= limit"
+  ],
+  "answer": "a, b = 0, 1\nwhile a <= limit:\n    print(a)\n    a, b = b, a + b"
+}

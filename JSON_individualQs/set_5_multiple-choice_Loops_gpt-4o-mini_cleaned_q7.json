@@ -1,0 +1,11 @@
+{
+  "question": "What output will this code produce? 'i = 0; while i < 3: print(i); i += 1'",
+  "options": [
+    "A. 0 1 2",
+    "B. 0 1 2 3",
+    "C. 1 2 3",
+    "D. 3 2 1"
+  ],
+  "answer": "A",
+  "difficulty": 7
+}

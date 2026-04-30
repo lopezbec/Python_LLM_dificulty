@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "x",
+        "if x > 10: print(\"High\") else: print(\"Low\")"
+    ]
+}

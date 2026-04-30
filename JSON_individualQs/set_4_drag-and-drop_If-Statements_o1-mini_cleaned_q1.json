@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "If-Statements",
+  "question": "Drag the correct keyword to complete the if statement.",
+  "code_snippet": "x = 10\n__keyword__ x > 5:\n    print(\"x is greater than 5\")",
+  "options": [
+    "else",
+    "if",
+    "elif",
+    "for"
+  ],
+  "answer": "if"
+}

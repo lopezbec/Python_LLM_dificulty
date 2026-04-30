@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following is the correct syntax for an if statement in Python that prints 'Hello' if x is greater than 0?",
+    "options": [
+      "if x > 0: print(\"Hello\")",
+      "if x > 0 then print(\"Hello\")",
+      "if (x > 0) then print(\"Hello\")",
+      "if x > 0 { print(\"Hello\") }"
+    ],
+    "correct_answer": "if x > 0: print(\"Hello\")"
+  },
+  {
+    "difficulty": 2,
+    "question": "What will be the output of the following code if x is set to 5?\n\nx = 5\nif x > 3:\n    print(\"Greater\")",
+    "options": [
+      "Greater",
+      "Nothing",
+      "Error",
+      "None"
+    ],
+    "correct_answer": "Greater"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which of the following examples correctly demonstrates the proper syntax for an if-else statement in Python?",
+    "options": [
+      "if x == 10: print(\"Ten\") else: print(\"Not Ten\")",
+      "if x == 10 then print(\"Ten\") else print(\"Not Ten\")",
+      "if x == 10 { print(\"Ten\") } else { print(\"Not Ten\") }",
+      "if (x == 10) print(\"Ten\"); else print(\"Not Ten\")"
+    ],
+    "correct_answer": "if x == 10: print(\"Ten\") else: print(\"Not Ten\")"
+  },
+  {
+    "difficulty": 4,
+    "question": "Which of the following if-statement examples correctly uses the 'elif' clause in Python?",
+    "options": [
+      "if x < 10: print(\"Less than 10\") elif x == 10: print(\"Equal to 10\") else: print(\"Greater than 10\")",
+      "if x < 10 then print(\"Less than 10\") elif x == 10 then print(\"Equal to 10\") else print(\"Greater than 10\")",
+      "if x < 10: print(\"Less than 10\"); elif x == 10: print(\"Equal to 10\"); else: print(\"Greater than 10\")",
+      "if (x < 10) print(\"Less than 10\") elif (x == 10) print(\"Equal to 10\") else print(\"Greater than 10\")"
+    ],
+    "correct_answer": "if x < 10: print(\"Less than 10\") elif x == 10: print(\"Equal to 10\") else: print(\"Greater than 10\")"
+  },
+  {
+    "difficulty": 5,
+    "question": "Consider the following code snippet:\n\nx = 4\nif x > 2:\n    if x < 5:\n        print(\"A\")\n    else:\n        print(\"B\")\nelse:\n    print(\"C\")\n\nWhat is the output when this code is executed?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Error"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 6,
+    "question": "Which of the following is the correct way to check if a variable 'var' is exactly equal to None in Python?",
+    "options": [
+      "if var == None:",
+      "if var is None:",
+      "if var equals None:",
+      "if var = None:"
+    ],
+    "correct_answer": "if var is None:"
+  },
+  {
+    "difficulty": 7,
+    "question": "Given the following code snippet:\n\nvalue = 15\nif value % 2 == 0:\n    print(\"Even\")\nelif value > 10:\n    print(\"Greater than 10\")\nelse:\n    print(\"Odd\")\n\nWhat will be printed when this code is run?",
+    "options": [
+      "Even",
+      "Odd",
+      "Greater than 10",
+      "15"
+    ],
+    "correct_answer": "Greater than 10"
+  },
+  {
+    "difficulty": 8,
+    "question": "Analyze the following nested if statement and determine what is printed when a = 3 and b = 5:\n\na = 3\nb = 5\nif a > 2:\n    if b < 10:\n        print(\"X\")\n    else:\n        print(\"Y\")\nelif a == 3:\n    print(\"Z\")\nelse:\n    print(\"W\")",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "W"
+    ],
+    "correct_answer": "X"
+  },
+  {
+    "difficulty": 9,
+    "question": "Identify the error in the following code snippet:\n\nif x = 10:\n    print(\"x is 10\")\nelse:\n    print(\"x is not 10\")",
+    "options": [
+      "Using assignment operator instead of equality operator in the if condition.",
+      "Missing colon after else.",
+      "Indentation error.",
+      "Using a relational comparison between x and 10 is not allowed."
+    ],
+    "correct_answer": "Using assignment operator instead of equality operator in the if condition."
+  },
+  {
+    "difficulty": 10,
+    "question": "Consider the following code that assigns a grade based on the score:\n\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= 80:\n    if score >= 85:\n        grade = 'B+'\n    else:\n        grade = 'B'\nelif score >= 70:\n    grade = 'C'\nelse:\n    grade = 'F'\n\nWhat grade is assigned when score is 85?",
+    "options": [
+      "A",
+      "B+",
+      "B",
+      "C"
+    ],
+    "correct_answer": "B+"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "question": "8. Which of the following is a nested if-statement executed when outer condition is true?\n\nx = 10\nif x > 5:\n    if x < 15:\n        print('Within range')",
+  "difficulty": 8,
+  "options": {
+    "a": "Never executes",
+    "b": "Always executes",
+    "c": "Executed when x > 5 and x < 15",
+    "d": "Executed when x > 15"
+  },
+  "correct_answer": "c"
+}

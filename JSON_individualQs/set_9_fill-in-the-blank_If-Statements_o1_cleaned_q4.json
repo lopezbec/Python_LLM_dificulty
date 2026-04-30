@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank to ensure score is at most 100:\n\nif 70 <= score _____ 100:\n    print(\"You pass\")",
+  "answer": "<="
+}

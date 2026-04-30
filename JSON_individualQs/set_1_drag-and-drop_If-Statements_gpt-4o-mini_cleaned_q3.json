@@ -1,0 +1,10 @@
+{
+  "question": "Fill in the correct expression to complete this if-statement: if ( ____ == 'Python') { print('Correct!'); }",
+  "options": [
+    "language",
+    "program",
+    "script"
+  ],
+  "answer": "language",
+  "difficulty": 3
+}

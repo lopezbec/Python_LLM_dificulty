@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "True or False: Using an else clause with a loop in Python will always execute regardless of whether the loop was terminated by a break statement.",
+  "answer": "False"
+}

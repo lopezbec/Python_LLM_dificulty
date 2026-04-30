@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "question": "Complete the nested loop header to iterate over 2 rows and 3 columns. Drag the correct keyword into the blank.",
+  "codeSnippet": "for i in range(2):\n    for j in _____(3):\n        print(i, j)",
+  "dragItems": [
+    "range",
+    "list",
+    "tuple"
+  ],
+  "dropTargets": [
+    "inner_loop_function"
+  ],
+  "correctMap": {
+    "inner_loop_function": "range"
+  }
+}

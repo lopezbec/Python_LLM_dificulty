@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In a nested loop, if the outer loop runs _____ times and the inner loop runs _____ times, the total number of iterations will be the product of both.",
+  "answer": "m, n"
+}

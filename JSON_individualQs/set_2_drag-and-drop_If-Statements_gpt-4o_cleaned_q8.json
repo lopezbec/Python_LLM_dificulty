@@ -1,0 +1,18 @@
+{
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Fill in the blanks to check whether the 'temperature' is outside the range of 0-30 and print 'Extreme weather'.",
+  "code": "temperature = 35\nif temperature < 0 ______ temperature ______ 30:\n    print('Extreme weather')",
+  "options": [
+    "or",
+    "and",
+    "<",
+    ">",
+    "<="
+  ],
+  "correct": [
+    "or",
+    ">"
+  ]
+}

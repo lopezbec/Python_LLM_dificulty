@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "An if-statement can be expanded to include multiple alternative conditions using the _____ keyword.",
+  "correct_answer": "elif",
+  "options": [
+    "else",
+    "elif",
+    "when",
+    "moreif"
+  ]
+}

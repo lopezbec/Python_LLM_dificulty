@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "prompt": "Drag and drop the correct block to complete the reversed loop through the list.",
+  "drag_options": [
+    "i",
+    "reversed",
+    "range",
+    "len"
+  ],
+  "drop_target": "for i in ____ (my_list):"
+}

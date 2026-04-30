@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "x",
+        "if ______ and (y % x == 0):",
+        "print('y is divisible by x')"
+    ]
+}

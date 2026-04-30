@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if-elif-else",
+        "score",
+        "score = 75\nif ( score < 50 ):\n    print('Low')\nelif ( 50 <= score < 80 ):\n    print('Medium')\nelse:\n    print('High')",
+        "<",
+        ">=",
+        "<=",
+        "score",
+        "80"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "The continue statement in Python exits the loop completely, skipping any further iterations.",
+  "answer": "False"
+}

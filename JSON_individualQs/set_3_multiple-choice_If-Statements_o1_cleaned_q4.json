@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following is true about if statements in Python?",
+  "options": [
+    "A) They must always be followed by a semicolon",
+    "B) Indentation determines which statements are executed within the if block",
+    "C) The colon (:) is optional after the condition",
+    "D) Python does not support nested if statements"
+  ],
+  "correctAnswer": "B"
+}

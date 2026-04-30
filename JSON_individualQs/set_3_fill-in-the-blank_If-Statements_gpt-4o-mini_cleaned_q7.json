@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "When you want to execute a block of code only if two conditions are both true, you should use the _____ operator in your if-statement.",
+  "answer": "and"
+}

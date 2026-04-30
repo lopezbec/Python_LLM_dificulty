@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "msg",
+        "'error'",
+        "'failed'",
+        "msg = \"The operation failed unexpectedly\"",
+        "if [BLANK]:",
+        "print(\"Error detected\")",
+        "\"error\" not in msg or \"failed\" not in msg",
+        "\"error\" in msg and \"failed\" in msg",
+        "\"error\" in msg or \"failed\" in msg"
+    ]
+}

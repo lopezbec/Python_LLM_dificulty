@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (age < 18) { ____ } else { print('Adult'); }",
+        "age",
+        "print('Minor');",
+        "pass;",
+        "continue;"
+    ]
+}

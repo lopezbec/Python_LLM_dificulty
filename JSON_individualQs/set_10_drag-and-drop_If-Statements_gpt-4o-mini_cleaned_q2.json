@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the correct code to create a simple if-statement that prints 'Hello' if the variable 'x' equals 5.",
+  "code_fragments": [
+    "if x = 5:",
+    "if x == 5:",
+    "if x != 5:",
+    "if x > 5:"
+  ],
+  "correct_answer": "if x == 5:"
+}

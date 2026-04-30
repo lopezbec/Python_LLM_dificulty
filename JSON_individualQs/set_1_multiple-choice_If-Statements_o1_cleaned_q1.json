@@ -1,0 +1,11 @@
+{
+  "question": "Which keyword is used to check a condition in Python?",
+  "difficulty": 1,
+  "options": [
+    "if",
+    "switch",
+    "check",
+    "test"
+  ],
+  "correct_answer": "if"
+}

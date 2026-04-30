@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In a nested loop, the 'break' statement only exits the innermost loop where it is called.",
+  "answer": true
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which keyword is used to skip only the current iteration in a loop and continue with the next iteration?",
+  "options": [
+    "pass",
+    "break",
+    "skip",
+    "continue"
+  ],
+  "correct_answer": "continue"
+}

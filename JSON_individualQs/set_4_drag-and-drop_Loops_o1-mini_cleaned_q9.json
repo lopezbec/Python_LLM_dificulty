@@ -1,0 +1,21 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the loop to find the sum of all even numbers in a list.",
+  "options": [
+    "total = 0",
+    "for num in numbers:",
+    "    if num % 2 == 0:",
+    "        total += num",
+    "print(total)"
+  ],
+  "correct_order": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

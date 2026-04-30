@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop to complete the loop that iterates through a list:\n `my_list = [1, 2, 3]`\n `for item in ___:`",
+  "options": [
+    "my_list",
+    "item",
+    "range(len(my_list))",
+    "[1, 2, 3]"
+  ],
+  "correctOption": "my_list"
+}

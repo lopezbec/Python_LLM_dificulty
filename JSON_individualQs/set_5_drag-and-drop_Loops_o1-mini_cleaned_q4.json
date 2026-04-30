@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 4,
+  "prompt": "Organize the components to create a loop that iterates over a list of fruits and prints each one.",
+  "draggableItems": [
+    "fruits = ['apple', 'banana', 'cherry']",
+    "for fruit in fruits:",
+    "print(fruit)"
+  ],
+  "dropZones": [
+    "List Initialization",
+    "Loop Statement",
+    "Loop Body"
+  ],
+  "correctMatch": {
+    "List Initialization": "fruits = ['apple', 'banana', 'cherry']",
+    "Loop Statement": "for fruit in fruits:",
+    "Loop Body": "print(fruit)"
+  }
+}

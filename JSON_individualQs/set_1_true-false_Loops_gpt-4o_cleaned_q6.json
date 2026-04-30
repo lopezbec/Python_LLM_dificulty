@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Nested loops allow you to iterate over a sequence while another sequence is being iterated.",
+  "answer": true
+}

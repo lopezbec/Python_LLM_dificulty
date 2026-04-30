@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x = 5",
+        "if x > 3 or x < 2:",
+        "print(\"Condition is True\")",
+        "else:",
+        "print(\"Condition is False\")"
+    ]
+}

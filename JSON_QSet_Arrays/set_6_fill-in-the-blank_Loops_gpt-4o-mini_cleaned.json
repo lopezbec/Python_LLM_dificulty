@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A _____ loop is a control structure that repeatedly executes a block of code while a condition is true.",
+    "answer": "while"
+  },
+  {
+    "difficulty": 2,
+    "question": "The _____ loop is used to execute a block of code a specific number of times.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 3,
+    "question": "In a for loop, the _____ function is often used to create a sequence of numbers.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 4,
+    "question": "The keyword _____ is used to exit a loop prematurely.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 5,
+    "question": "If a loop runs infinitely, it is called an _____ loop.",
+    "answer": "infinite"
+  },
+  {
+    "difficulty": 6,
+    "question": "In Python, the _____ statement can be used to skip the current iteration of a loop.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 7,
+    "question": "The _____ keyword allows you to create a loop that combines elements from multiple lists.",
+    "answer": "zip"
+  },
+  {
+    "difficulty": 8,
+    "question": "When using a while loop, it's important to ensure that the loop has a condition that will eventually become _____ to avoid infinite loops.",
+    "answer": "false"
+  },
+  {
+    "difficulty": 9,
+    "question": "A loop with the _____ statement inside can be used to iterate over a dictionary's key-value pairs.",
+    "answer": "items"
+  },
+  {
+    "difficulty": 10,
+    "question": "When using nested loops, the inner loop runs _____ for each iteration of the outer loop.",
+    "answer": "completely"
+  }
+]

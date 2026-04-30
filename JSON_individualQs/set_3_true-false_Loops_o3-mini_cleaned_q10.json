@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "True or False: Improper updating of loop control variables inside a while loop can result in an infinite loop.",
+  "answer": true
+}

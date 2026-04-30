@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The '________' keyword is used to stop the current iteration and move to the next iteration in a loop.",
+  "answer": "continue"
+}

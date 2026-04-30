@@ -1,0 +1,11 @@
+{
+  "question": "What will this code print if x = 2?\n\nif x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+  "options": [
+    "a) One",
+    "b) Two",
+    "c) Other",
+    "d) None of the above"
+  ],
+  "correct_answer": "b",
+  "difficulty": 10
+}

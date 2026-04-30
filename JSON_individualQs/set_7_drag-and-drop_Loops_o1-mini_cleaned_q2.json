@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "topic": "Loops",
+  "question": "Match the loop type to its description.",
+  "drag_items": [
+    "for loop",
+    "while loop"
+  ],
+  "drop_zones": [
+    "Iterates over a sequence",
+    "Continues until a condition is False"
+  ],
+  "instructions": "Drag each loop type to its corresponding description."
+}

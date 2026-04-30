@@ -1,0 +1,12 @@
+{
+  "difficulty": 10,
+  "topic": "Loops",
+  "question": "Which of the following best describes Python's iterator protocol?",
+  "options": [
+    "It's a set of requirements for objects to be there in a loop body",
+    "It's a specific function signature requirement for iterables",
+    "It's a protocol through which objects need to define __iter__() and __next__() methods",
+    "It's a requirement that loops must follow PEP 8 standards"
+  ],
+  "answer": "It's a protocol through which objects need to define __iter__() and __next__() methods"
+}

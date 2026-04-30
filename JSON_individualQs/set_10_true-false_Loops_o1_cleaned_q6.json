@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "When using a 'while' loop, updating the loop control variable inside the loop is generally necessary to avoid an infinite loop.",
+  "correct_answer": "True"
+}

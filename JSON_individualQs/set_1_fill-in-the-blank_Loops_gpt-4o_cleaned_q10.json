@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, a nested loop refers to a loop that ______.",
+  "answer": "runs inside another loop"
+}

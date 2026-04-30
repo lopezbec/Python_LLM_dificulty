@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is a common type of loop in Python?",
+  "options": [
+    "while loop",
+    "until loop",
+    "repeat loop",
+    "next loop"
+  ],
+  "correct_answer": "while loop",
+  "difficulty": 2
+}

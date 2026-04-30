@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: To create a loop that repeats 5 times, you can write: for i in ______(5):",
+  "correct_answer": "range"
+}

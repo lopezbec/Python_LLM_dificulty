@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 0\nif x:\n    print('True')\nelif not x:\n    print('False')\nelse:\n    print('Neither')\n```\n",
+  "options": [
+    "True",
+    "False",
+    "Neither",
+    "None"
+  ],
+  "correct_answer": "False",
+  "difficulty": 10
+}

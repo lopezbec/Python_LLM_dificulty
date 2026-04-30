@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank: When checking if two values are not equal in an if-statement, you use the ______ operator.",
+  "answer": "!="
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 2,
+  "topic": "Loops",
+  "question": "Which of the following is a type of loop construct in Python?",
+  "options": [
+    "if",
+    "while",
+    "def",
+    "else"
+  ],
+  "answer": "while"
+}

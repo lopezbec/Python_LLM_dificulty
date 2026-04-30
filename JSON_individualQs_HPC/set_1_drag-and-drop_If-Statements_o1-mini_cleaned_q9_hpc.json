@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if x > 10 and y < 5:",
+        "if not (a == b):",
+        "if x > 0 or y > 0:"
+    ]
+}

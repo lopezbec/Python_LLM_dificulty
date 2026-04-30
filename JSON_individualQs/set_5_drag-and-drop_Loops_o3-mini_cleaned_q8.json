@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Arrange the code pieces for nested loops that iterate over a dictionary with list values and print keys with each value.",
+  "instructions": "Drag and drop the items in the correct order to traverse 'my_dict', where each key maps to a list of values.",
+  "dragItems": [
+    "for key in my_dict:",
+    "for value in my_dict[key]:",
+    "print(key, value)"
+  ],
+  "dropZones": [
+    "Outer loop (iterate over keys)",
+    "Inner loop (iterate over associated list)",
+    "Loop body (print key and value)"
+  ],
+  "correctOrder": [
+    "for key in my_dict:",
+    "for value in my_dict[key]:",
+    "print(key, value)"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank in the nested if statement: if x > 5: ______ x % 2 == 0: print('x is greater than 5 and even')",
+  "correct_answer": "if",
+  "incorrect_answers": [
+    "elif",
+    "else",
+    "for"
+  ]
+}

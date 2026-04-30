@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Drag the correct keyword to complete the elif-part of the if-elif-else structure:\n\nif score >= 90:\n    print('A')\n___ score >= 80:\n    print('B')",
+  "dragItems": [
+    "elif",
+    "else",
+    "if"
+  ],
+  "dropZones": {
+    "keyword": "Drop the keyword here"
+  },
+  "correctMapping": {
+    "keyword": "elif"
+  }
+}

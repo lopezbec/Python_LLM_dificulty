@@ -1,0 +1,19 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "question": "Rearrange the code to implement a nested for loop that prints each fruit with each color.",
+  "codeBlocks": [
+    "for color in ['red', 'green', 'blue']:",
+    "for fruit in ['apple', 'banana']:",
+    "print(fruit, 'is', color)",
+    "while color in ['red', 'green']:",
+    "while fruit in ['apple', 'banana']:"
+  ],
+  "correctOrder": [
+    "for fruit in ['apple', 'banana']:",
+    "for color in ['red', 'green', 'blue']:",
+    "print(fruit, 'is', color)"
+  ],
+  "explanation": "We first iterate over fruits, then over colors, and print each combination. The while statements are distractors."
+}

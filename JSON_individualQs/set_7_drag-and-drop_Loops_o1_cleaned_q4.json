@@ -1,0 +1,15 @@
+{
+  "question": "Drag the snippets to write a for loop that prints even numbers from 2 to 6 using range().",
+  "difficulty": 4,
+  "instruction": "Arrange the blocks to form a loop that prints the even numbers 2, 4, and 6.",
+  "options": [
+    "print(num)",
+    "for num in range(2, 8, 2):",
+    "    "
+  ],
+  "correct_order": [
+    "for num in range(2, 8, 2):",
+    "    ",
+    "print(num)"
+  ]
+}

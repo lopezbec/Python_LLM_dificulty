@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "What keyword is used to start a 'for' loop in Python?",
+    "options": [
+      "while",
+      "for",
+      "loop",
+      "iterate"
+    ],
+    "answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which statement is used to exit a loop prematurely in Python?",
+    "options": [
+      "continue",
+      "stop",
+      "exit",
+      "break"
+    ],
+    "answer": "break"
+  },
+  {
+    "difficulty": 3,
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)\n",
+    "options": [
+      "0\n1\n2",
+      "1\n2\n3",
+      "0\n1\n2\n3",
+      "0\n1"
+    ],
+    "answer": "0\n1\n2"
+  },
+  {
+    "difficulty": 4,
+    "question": "How many times will 'Hello' be printed?\n\nfor i in range(4):\n    print('Hello')\n",
+    "options": [
+      "3 times",
+      "4 times",
+      "5 times",
+      "0 times"
+    ],
+    "answer": "4 times"
+  },
+  {
+    "difficulty": 5,
+    "question": "Which of the following is NOT a valid 'while' loop syntax?",
+    "options": [
+      "while x < 10:",
+      "while (x < 10):",
+      "while x < 10",
+      "while: x < 10"
+    ],
+    "answer": "while: x < 10"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will be the final value of 'sum' after executing the following code?\n\nsum = 0\nfor i in range(1, 5):\n    sum += i\n\nprint(sum)",
+    "options": [
+      "4",
+      "5",
+      "10",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "difficulty": 7,
+    "question": "What does the 'enumerate()' function do in a for loop?",
+    "options": [
+      "It adds elements to a list",
+      "It returns the index and value of items in a list",
+      "It removes elements from a list",
+      "It sorts a list"
+    ],
+    "answer": "It returns the index and value of items in a list"
+  },
+  {
+    "difficulty": 8,
+    "question": "In the following code, how many iterations will the loop run?\n\ncount = 0\nwhile count < 10:\n    count += 2\n",
+    "options": [
+      "5 iterations",
+      "10 iterations",
+      "9 iterations",
+      "4 iterations"
+    ],
+    "answer": "5 iterations"
+  },
+  {
+    "difficulty": 9,
+    "question": "What will be the output of the following code?\n\nfor i in range(5):\n    if i == 3:\n        break\n    print(i)\n",
+    "options": [
+      "0\n1\n2\n3",
+      "0\n1\n2",
+      "0\n1\n2\n3\n4",
+      "3"
+    ],
+    "answer": "0\n1\n2"
+  },
+  {
+    "difficulty": 10,
+    "question": "Consider the following code. What will be printed on the screen?\n\nvalues = [1, 2, 3]\nfor index, value in enumerate(values):\n    print(index, value)\n\n",
+    "options": [
+      "0 1\n1 2\n2 3",
+      "1 2\n2 3\n3 4",
+      "0 1\n1 2\n2 3\n4 5",
+      "0 1\n1 2\n2 3"
+    ],
+    "answer": "0 1\n1 2\n2 3"
+  }
+]

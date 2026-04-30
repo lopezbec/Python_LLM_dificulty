@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "question": "Drag and drop the correctly indented loop block.",
+  "options": [
+    "for number in range(5):",
+    "print(number)",
+    "    print(number)",
+    "print(number)"
+  ],
+  "correct_order": [
+    "for number in range(5):",
+    "    print(number)"
+  ],
+  "difficulty": 7
+}

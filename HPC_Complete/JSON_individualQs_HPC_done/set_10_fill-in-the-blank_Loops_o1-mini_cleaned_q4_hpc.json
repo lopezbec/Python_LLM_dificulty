@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "user_input",
+        "while True:",
+        "user_input = input('Enter command: ')",
+        "if user_input == 'exit':",
+        "___",
+        "print('You entered:', user_input)"
+    ]
+}

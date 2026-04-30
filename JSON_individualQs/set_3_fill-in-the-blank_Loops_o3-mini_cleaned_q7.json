@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: The built-in function __ returns a range of numbers and is commonly used for iteration in for loops.",
+  "answer": "range"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (condition) { return value; } else {  ____ ; }",
+        "return otherValue;",
+        "if (otherCondition) { }",
+        "for (i in range(5)) { }"
+    ]
+}

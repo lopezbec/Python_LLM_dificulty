@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Multiple 'elif' statements can appear between an 'if' and an 'else' to handle more complex conditions.",
+  "correct_answer": "True"
+}

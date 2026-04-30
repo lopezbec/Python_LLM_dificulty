@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "True or False: The built-in range() function returns a sequence of numbers that starts at 0 by default and stops before the specified end value.",
+  "correct_answer": true
+}

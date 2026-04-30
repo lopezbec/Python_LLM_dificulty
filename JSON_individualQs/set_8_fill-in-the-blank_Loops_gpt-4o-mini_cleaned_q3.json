@@ -1,0 +1,10 @@
+{
+  "difficulty": 3,
+  "question": "A loop that continues until a certain condition is no longer true is called a ________ loop.",
+  "correct_answer": "while",
+  "incorrect_answers": [
+    "for",
+    "do-while",
+    "nested"
+  ]
+}

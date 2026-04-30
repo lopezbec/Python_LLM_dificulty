@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Using the 'break' statement within a loop exits the loop and skips the rest of the code inside it.",
+  "correct_answer": true
+}

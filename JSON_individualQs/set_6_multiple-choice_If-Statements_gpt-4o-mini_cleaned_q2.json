@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 3\nif x == 2:\n    print('Two')\nelse:\n    print('Not Two')\n```\n",
+  "options": [
+    "Two",
+    "Not Two",
+    "Error",
+    "None of the above"
+  ],
+  "correct_answer": "Not Two",
+  "difficulty": 2
+}

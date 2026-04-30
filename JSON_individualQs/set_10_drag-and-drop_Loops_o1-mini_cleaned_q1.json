@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "Drag the correct keyword to fill in the blank and complete the for loop syntax in Python.",
+  "code_snippet": "for i ___ range(5):",
+  "options": [
+    "in",
+    "on",
+    "into",
+    "within"
+  ],
+  "answer": "in"
+}

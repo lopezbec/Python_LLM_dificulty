@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "temp",
+        "temp = 50",
+        "if [BLANK]:",
+        "print(\"Normal range\")",
+        "temp != 0 and temp != 100",
+        "temp == 0 and temp == 100",
+        "temp < 0 or temp > 100"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "question": "Arrange the following parts to form a complex if-statement with multiple nested conditions and exception handling:",
+  "options": [
+    "try:",
+    "    if user.is_active:",
+    "        if user.has_permission():",
+    "            perform_action()",
+    "        else:",
+    "            raise PermissionError(\"User lacks permissions\")",
+    "    else:",
+    "        print(\"User is not active\")",
+    "except PermissionError as e:",
+    "    print(e)"
+  ],
+  "answer": [
+    "try:",
+    "    if user.is_active:",
+    "        if user.has_permission():",
+    "            perform_action()",
+    "        else:",
+    "            raise PermissionError(\"User lacks permissions\")",
+    "    else:",
+    "        print(\"User is not active\")",
+    "except PermissionError as e:",
+    "    print(e)"
+  ],
+  "difficulty": 10
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank in the nested if-statement to verify it is Monday morning:\nif day == \"Monday\":\n    ______ time == \"morning\":\n        print(\"It's Monday morning!\")",
+  "answer": "if"
+}

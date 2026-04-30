@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "question": "Arrange the nested `for` loops to generate a multiplication table from 1 to 3.",
+  "options": [
+    "for i in range(1, 4):",
+    "for j in range(1, 4):",
+    "print(i * j)",
+    "    print(i * j)"
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "    for j in range(1, 4):",
+    "        print(i * j)"
+  ],
+  "difficulty": 5
+}

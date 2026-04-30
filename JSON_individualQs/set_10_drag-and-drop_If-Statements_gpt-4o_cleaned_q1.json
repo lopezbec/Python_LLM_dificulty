@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "instruction": "Drag and drop the correct values to complete the if-statement.",
+  "code": "x = 10\nif _____ > 5:\n    print('x is greater than 5')",
+  "options": [
+    "x",
+    "y",
+    "z",
+    "w"
+  ],
+  "answer": [
+    "x"
+  ]
+}

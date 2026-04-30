@@ -1,0 +1,11 @@
+{
+  "question": "What will be the value of `x` after the loop?\n\nx = 0\nfor i in range(5):\n    x += i",
+  "options": [
+    "10",
+    "15",
+    "5",
+    "20"
+  ],
+  "answer": "10",
+  "difficulty": 3
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "Loops",
+  "question": "Match the loop optimization techniques to their descriptions.",
+  "drag_items": [
+    "List comprehension",
+    "Generator expressions"
+  ],
+  "drop_zones": [
+    "Creates a new list based on existing iterables",
+    "Generates items on-the-fly without storing the entire list"
+  ],
+  "instructions": "Drag each optimization technique to its correct description."
+}

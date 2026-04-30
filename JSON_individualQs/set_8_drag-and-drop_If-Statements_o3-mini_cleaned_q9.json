@@ -1,0 +1,25 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Drag and drop the correct keywords and operators to complete the nested if structure.",
+  "code_snippet": "if a != b:\n    if a ___ 0:\n        print('a is positive')\n    ___:\n        print('a is not positive')\nelse:\n    print('a and b are equal')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": ">"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "else"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    ">",
+    "<",
+    "==",
+    "!="
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Match the loop type to its correct syntax in Python.",
+  "options": [
+    {
+      "type": "for loop",
+      "syntax": "for item in iterable:"
+    },
+    {
+      "type": "while loop",
+      "syntax": "while condition:"
+    }
+  ],
+  "correct_matching": [
+    {
+      "for loop": "for item in iterable:"
+    },
+    {
+      "while loop": "while condition:"
+    }
+  ]
+}

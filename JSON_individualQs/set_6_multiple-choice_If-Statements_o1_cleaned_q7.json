@@ -1,0 +1,11 @@
+{
+  "question": "7) Which if-condition correctly checks if x is between 0 and 10 (inclusive)?",
+  "difficulty": 7,
+  "answers": [
+    "if x >= 0 and x <= 10:",
+    "if x >= 0 or x <= 10:",
+    "if (x >= 0) + (x <= 10):",
+    "if x == range(0, 10):"
+  ],
+  "correct_answer": "if x >= 0 and x <= 10:"
+}

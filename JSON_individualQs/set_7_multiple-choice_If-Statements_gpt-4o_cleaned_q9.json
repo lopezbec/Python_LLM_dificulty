@@ -1,0 +1,11 @@
+{
+  "question": "9. What is the output of the following code?\n\nx = 10\ny = 5\nif x > y:\n    if y < 3:\n        print('Path A')\n    else:\n        print('Path B')\nelse:\n    print('Path C')",
+  "difficulty": 9,
+  "options": {
+    "a": "Path A",
+    "b": "Path B",
+    "c": "Path C",
+    "d": "No output"
+  },
+  "correct_answer": "b"
+}

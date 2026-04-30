@@ -1,0 +1,18 @@
+{
+  "difficulty": 4,
+  "question": "Complete the nested if-statement to print 'Positive Even' for a positive even number.",
+  "code_blocks": [
+    "num = 8",
+    "if num > 0:",
+    "if num % 2 == 0:",
+    "print('Positive Even')"
+  ],
+  "droppable_items": [
+    "if num % 2 == 0:",
+    "if num > 0:"
+  ],
+  "solution": [
+    "if num > 0:",
+    "if num % 2 == 0:"
+  ]
+}

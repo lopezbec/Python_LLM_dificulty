@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank: When iterating over a dictionary in a for loop, calling the ______() method returns a view object of its keys.",
+  "correct_answer": "keys"
+}

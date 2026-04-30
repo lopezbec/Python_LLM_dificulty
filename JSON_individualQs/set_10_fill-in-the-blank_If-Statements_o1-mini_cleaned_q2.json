@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "question": "Fill in the blank to check equality in the if statement:\n\nif name ___ 'Alice':\n    print('Hello, Alice!')",
+  "answer": "==",
+  "difficulty": 2
+}

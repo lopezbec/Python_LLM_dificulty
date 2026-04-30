@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "def check_number(x):\n    if x % 2 == 0:\n        return \"Even\"\n    return \"Odd\"\n\nprint(check_number(4))",
+        "x % 2 == 0",
+        "return \"Even\"",
+        "return \"Odd\"",
+        "print(check_number(4))",
+        "Even",
+        "Odd",
+        "Error",
+        "None"
+    ]
+}

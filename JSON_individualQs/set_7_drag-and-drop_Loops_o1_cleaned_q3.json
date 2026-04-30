@@ -1,0 +1,17 @@
+{
+  "question": "Drag the snippets to create a while loop that prints numbers from 0 up to (but not including) 3.",
+  "difficulty": 3,
+  "instruction": "Order the blocks correctly so the loop executes until the condition is false.",
+  "options": [
+    "while x < 3:",
+    "x = 0",
+    "x += 1",
+    "print(x)"
+  ],
+  "correct_order": [
+    "x = 0",
+    "while x < 3:",
+    "print(x)",
+    "x += 1"
+  ]
+}

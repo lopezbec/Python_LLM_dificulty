@@ -1,0 +1,6 @@
+{
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to execute code when the condition is false:\n\nif y == 5:\n    print(\"Five\")\n___:",
+  "answer": "else"
+}

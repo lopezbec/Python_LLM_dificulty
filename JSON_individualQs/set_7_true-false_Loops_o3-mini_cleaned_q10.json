@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "When iterating over a dictionary using a for loop in Python, the loop by default iterates over the dictionary\u2019s values rather than its keys.",
+  "correct_answer": false
+}

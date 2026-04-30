@@ -1,0 +1,7 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to use an else clause: \n```python\nage = 18\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")\n``` \nReplace the condition to check if age is less than 18.",
+  "answer": "age < 18"
+}

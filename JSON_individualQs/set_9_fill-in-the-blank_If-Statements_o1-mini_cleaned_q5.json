@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to check multiple conditions using elif:\n\n```python\nif temperature > 30:\n    print(\"Hot\")\n____ temperature > 20:\n    print(\"Warm\")\nelse:\n    print(\"Cold\")\n```",
+  "answer": "elif",
+  "difficulty": 5
+}

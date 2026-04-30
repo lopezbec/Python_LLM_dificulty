@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: In Python, an else clause attached to a loop will execute only if the loop terminates without encountering a ______ statement.",
+  "answer": "break"
+}

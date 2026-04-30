@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "question": "Match each if statement with its output based on the variable x.",
+  "if_statements": [
+    "if x > 10:",
+    "if x == 5:",
+    "if x < 0:"
+  ],
+  "outputs": [
+    "x is positive and less than or equal to 10.",
+    "x is exactly five.",
+    "x is negative."
+  ],
+  "x_values": [
+    12,
+    5,
+    -3
+  ],
+  "answer_mapping": {
+    "if x > 10:": "x is positive and less than or equal to 10.",
+    "if x == 5:": "x is exactly five.",
+    "if x < 0:": "x is negative."
+  }
+}

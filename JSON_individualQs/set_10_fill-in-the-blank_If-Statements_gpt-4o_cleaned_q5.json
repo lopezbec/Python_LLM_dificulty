@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In a chained if-else structure, you can use the keyword ___ to check an additional condition if the first one is false.",
+  "answer": "elif"
+}

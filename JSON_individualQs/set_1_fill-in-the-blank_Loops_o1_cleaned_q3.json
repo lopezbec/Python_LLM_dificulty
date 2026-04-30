@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "type": "fill-in-the-blank",
+  "difficulty": 3,
+  "question": "To exit a loop prematurely, we can use the ______ statement.",
+  "correct_answer": "break"
+}

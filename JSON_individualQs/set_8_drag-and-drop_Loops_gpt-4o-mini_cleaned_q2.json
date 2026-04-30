@@ -1,0 +1,24 @@
+{
+  "difficulty": 2,
+  "question": "Drag the correct keyword to complete the loop structure to iterate through a list.",
+  "code_snippet": "for ____ in my_list:\n    print(item)",
+  "options": [
+    {
+      "id": 1,
+      "text": "each"
+    },
+    {
+      "id": 2,
+      "text": "item"
+    },
+    {
+      "id": 3,
+      "text": "element"
+    },
+    {
+      "id": 4,
+      "text": "var"
+    }
+  ],
+  "correct_option_id": 2
+}

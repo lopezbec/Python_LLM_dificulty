@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "if",
+        "height",
+        "150",
+        "weight",
+        "50",
+        "[BLANK1] height [BLANK2] 150 [BLANK3] weight [BLANK4] 50:",
+        "print('Eligible')",
+        "if",
+        ">=",
+        "and",
+        "<",
+        "or"
+    ]
+}

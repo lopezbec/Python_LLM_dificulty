@@ -1,0 +1,11 @@
+{
+  "question": "In Python, what does the else clause attached to a for loop do?",
+  "difficulty": 8,
+  "choices": [
+    "A) It executes only if the loop encounters a continue statement",
+    "B) It executes only if the loop completes all iterations without a break",
+    "C) It is mandatory for a Python for loop to work",
+    "D) It executes for every iteration of the loop"
+  ],
+  "correct_answer": "B"
+}

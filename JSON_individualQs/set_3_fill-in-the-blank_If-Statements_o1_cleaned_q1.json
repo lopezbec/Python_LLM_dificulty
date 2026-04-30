@@ -1,0 +1,6 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank to complete a basic if-statement that prints 'x is 5' when x equals 5:\n______ x == 5:\n    print('x is 5')",
+  "answer": "if"
+}

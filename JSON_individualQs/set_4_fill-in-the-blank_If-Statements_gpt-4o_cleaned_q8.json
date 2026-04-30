@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To nest one if-statement inside another, correctly indent the inner if-statement block. What would the output be if this code runs with x = 7?\n\nif x > 5:\n    if x < 10:\n        print('x is between 5 and 10')\n\nOutput: '__ is between 5 and 10'.",
+  "answer": "x"
+}

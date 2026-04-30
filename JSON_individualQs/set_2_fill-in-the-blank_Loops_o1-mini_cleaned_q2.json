@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank to create a while loop that runs as long as x is less than 10:\n\n```python\nx = 0\nwhile x ___ 10:\n    print(x)\n    x += 1\n```",
+  "answer": "<"
+}

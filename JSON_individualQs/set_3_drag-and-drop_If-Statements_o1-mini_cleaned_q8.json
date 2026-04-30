@@ -1,0 +1,43 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "question": "Organize the components to create an if-statement with multiple logical conditions.",
+  "options": [
+    "if",
+    "(",
+    ")",
+    "and",
+    "or",
+    "not",
+    "condition1",
+    "condition2",
+    "condition3",
+    ":",
+    "    # code block"
+  ],
+  "targets": [
+    "Start of if-statement",
+    "Opening parenthesis",
+    "First condition",
+    "Logical operator",
+    "Second condition",
+    "Logical operator",
+    "Third condition",
+    "Closing parenthesis",
+    "End of condition",
+    "Code block indentation"
+  ],
+  "correctAnswer": {
+    "Start of if-statement": "if",
+    "Opening parenthesis": "(",
+    "First condition": "condition1",
+    "Logical operator": "or",
+    "Second condition": "condition2",
+    "Third condition": "condition3",
+    "Closing parenthesis": ")",
+    "End of condition": ":",
+    "Code block indentation": "    # code block"
+  }
+}

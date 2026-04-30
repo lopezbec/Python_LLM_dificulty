@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop is used to iterate over a sequence of numbers in Python.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, a 'while' loop will not execute at all if the condition is false at the start.",
+    "answer": true
+  },
+  {
+    "difficulty": 3,
+    "question": "'break' can be used in loops to exit the loop completely.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "It is valid to have a 'for' loop without a body in Python.",
+    "answer": false
+  },
+  {
+    "difficulty": 5,
+    "question": "Nested loops can have different types of loops in Python, such as a 'for' loop inside a 'while' loop.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "The 'continue' statement in a loop will skip the current iteration and move to the next iteration.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "The 'else' statement can be used after a loop in Python to execute a block of code when the loop is not terminated by 'break'.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "A 'for' loop can iterate over a string, treating each character as an individual element.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "Using a loop to iterate over an infinite range in Python will never end unless externally interrupted.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "Python allows 'do-while' loops by using a standard 'while' loop since it does not support the 'do-while' loop structure natively.",
+    "answer": true
+  }
+]

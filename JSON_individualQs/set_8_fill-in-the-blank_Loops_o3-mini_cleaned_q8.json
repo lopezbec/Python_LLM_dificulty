@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: In Python, a for loop commonly iterates over an ______ such as a list, tuple, or string.",
+  "correct_answer": "iterable"
+}

@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "x = True",
+        "y = False",
+        "if x or y:",
+        "if x and not y:",
+        "print('Case 1')",
+        "else:",
+        "print('Case 2')",
+        "else:",
+        "print('Case 3')",
+        "Case 1",
+        "Case 2",
+        "Case 3",
+        "Error"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What does the following if-statement do?\n\nif x > 10:\n    print('x is greater than 10')",
+  "options": [
+    "a) Prints 'x is less than or equal to 10'",
+    "b) Prints 'x is greater than 10'",
+    "c) Raises an error",
+    "d) Does nothing"
+  ],
+  "correct_answer": "b",
+  "difficulty": 1
+}

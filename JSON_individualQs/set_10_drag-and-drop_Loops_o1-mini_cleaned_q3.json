@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "loops",
+  "question": "Drag the appropriate control statement to exit the loop when i equals 3.",
+  "code_snippet": "for i in range(5):\n    if i == 3:\n        ___\n    print(i)",
+  "options": [
+    "continue",
+    "break",
+    "pass",
+    "return"
+  ],
+  "answer": "break"
+}

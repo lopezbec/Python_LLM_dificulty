@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 7\nif x > 5:\n    if x < 10:\n        print(\"x is between 5 and 10\")\n```",
+  "options": {
+    "A": "x is between 5 and 10",
+    "B": "x is greater than 5",
+    "C": "No output",
+    "D": "Error"
+  },
+  "answer": "A"
+}

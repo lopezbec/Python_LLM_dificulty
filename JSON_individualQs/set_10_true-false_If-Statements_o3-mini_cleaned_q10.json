@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In nested if statements, if an inner if statement lacks an else clause, Python automatically provides an else block that returns None.",
+  "answer": false
+}

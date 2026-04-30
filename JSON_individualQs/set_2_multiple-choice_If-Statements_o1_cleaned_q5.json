@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which statement best describes the elif keyword?",
+  "answers": {
+    "A": "elif immediately ends the program.",
+    "B": "elif is used to check an entirely different condition if the previous conditions are False.",
+    "C": "elif can only be used once in a program.",
+    "D": "elif is an alternative to else, but it lacks a condition."
+  },
+  "correctAnswer": "B"
+}

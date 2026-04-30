@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "letters = ['A', 'B']",
+        "for x in letters:",
+        "for y in letters:",
+        "print(x, y)"
+    ]
+}

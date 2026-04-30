@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 4,
+  "question": "Arrange the following lines to create a nested `if` statement.",
+  "options": [
+    "if x > 0:",
+    "    if x % 2 == 0:",
+    "        print(\"Positive even number\")",
+    "    else:",
+    "        print(\"Positive odd number\")",
+    "else:",
+    "    print(\"Non-positive number\")"
+  ],
+  "correct_order": [
+    "if x > 0:",
+    "    if x % 2 == 0:",
+    "        print(\"Positive even number\")",
+    "    else:",
+    "        print(\"Positive odd number\")",
+    "else:",
+    "    print(\"Non-positive number\")"
+  ]
+}

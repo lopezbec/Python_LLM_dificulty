@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct way to start an if-statement in Python?",
+  "difficulty": 2,
+  "options": {
+    "A": "if (condition)",
+    "B": "if condition:",
+    "C": "if condition then",
+    "D": "if: condition"
+  },
+  "correct_answer": "B"
+}

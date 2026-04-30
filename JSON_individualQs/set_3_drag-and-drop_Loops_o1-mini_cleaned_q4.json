@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "topic": "Loop Control Statements",
+  "question": "Match each loop control statement with its purpose.",
+  "drag_items": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "drop_targets": [
+    "Exits the nearest enclosing loop",
+    "Skips the rest of the current loop iteration and moves to the next iteration",
+    "Does nothing and is used as a placeholder"
+  ],
+  "correct_matches": {
+    "break": "Exits the nearest enclosing loop",
+    "continue": "Skips the rest of the current loop iteration and moves to the next iteration",
+    "pass": "Does nothing and is used as a placeholder"
+  }
+}

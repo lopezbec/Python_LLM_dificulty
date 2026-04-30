@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "if-statements",
+  "question": "Arrange the code snippets to implement an `if` statement with multiple conditions using logical operators.",
+  "options": [
+    "    print('Access granted.')",
+    "if age >= 18 and has_license:",
+    "else:",
+    "    print('Access denied.')"
+  ],
+  "answer": [
+    "if age >= 18 and has_license:",
+    "    print('Access granted.')",
+    "else:",
+    "    print('Access denied.')"
+  ]
+}

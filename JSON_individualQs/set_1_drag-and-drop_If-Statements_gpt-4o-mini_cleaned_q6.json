@@ -1,0 +1,10 @@
+{
+  "question": "Fill in the correct code to handle multiple conditions: if (x < 10) { ____ } else if (x < 20) { print('Between 10 and 20'); }",
+  "options": [
+    "print('Less than 10');",
+    "print('Greater than 20');",
+    "print('Equals 10');"
+  ],
+  "answer": "print('Less than 10');",
+  "difficulty": 6
+}

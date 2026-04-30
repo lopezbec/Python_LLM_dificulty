@@ -1,0 +1,16 @@
+{
+  "difficulty": 1,
+  "question": "Complete the simple if-else statement to check if x < 10 and print 'Small' or 'Large'.",
+  "instruction": "Drag the correct items into the placeholders to complete the code.",
+  "partiallyCompletedCode": "x = 8\n____ x < 10 ____\n    print('Small')\nelse:\n    print('Large')",
+  "dragItems": [
+    "if",
+    ":",
+    "elif"
+  ],
+  "correctAnswer": [
+    "if",
+    ":"
+  ],
+  "explanation": "Use 'if' to start the condition (x < 10) and follow it with a colon."
+}

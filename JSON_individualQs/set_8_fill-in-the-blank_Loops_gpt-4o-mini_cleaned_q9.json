@@ -1,0 +1,10 @@
+{
+  "difficulty": 9,
+  "question": "In Python, a common use case for using a loop is to ________ through a sequence like a list or a string.",
+  "correct_answer": "iterate",
+  "incorrect_answers": [
+    "filter",
+    "sort",
+    "modify"
+  ]
+}

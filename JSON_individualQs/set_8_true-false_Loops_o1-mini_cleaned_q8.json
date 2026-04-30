@@ -1,0 +1,6 @@
+{
+  "question": "The following code will result in an infinite loop:\n\n```python\nwhile True:\n    pass\n```",
+  "answer": true,
+  "difficulty": 8,
+  "topic": "Loops"
+}

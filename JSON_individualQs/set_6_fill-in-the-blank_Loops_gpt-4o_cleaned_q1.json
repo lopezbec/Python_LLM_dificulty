@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A ___ loop repeats a block of code as long as a specified condition is true.",
+  "blank": "while"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "question": "Complete the code snippet by dragging in the appropriate keyword so that the else block executes after the loop finishes normally.",
+  "codeSnippet": "for i in range(3):\n    print(i)\n_____:\n    print('done')",
+  "dragItems": [
+    "else",
+    "except",
+    "finally"
+  ],
+  "dropTargets": [
+    "keyword"
+  ],
+  "correctMap": {
+    "keyword": "else"
+  }
+}

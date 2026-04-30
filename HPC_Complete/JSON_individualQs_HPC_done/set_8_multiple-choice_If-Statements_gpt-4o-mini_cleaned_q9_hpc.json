@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "country = 'USA'",
+        "if country in ['USA', 'Canada']:",
+        "print('North America')",
+        "elif country in ['Brazil', 'Argentina']:",
+        "print('South America')",
+        "else:",
+        "print('Other')",
+        "country"
+    ]
+}

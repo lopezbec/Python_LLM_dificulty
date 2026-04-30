@@ -1,0 +1,22 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "question": "Rearrange the following lines to form a while loop that stops when 'num' reaches 2. Drag each line into the correct order.",
+  "dragItems": [
+    "if num == 2:",
+    "while num < 5:",
+    "num += 1",
+    "print(num)",
+    "num = 0",
+    "break"
+  ],
+  "correctOrder": [
+    "num = 0",
+    "while num < 5:",
+    "if num == 2:",
+    "break",
+    "print(num)",
+    "num += 1"
+  ],
+  "explanation": "Initialize num to 0, loop while num < 5, break if num is 2, otherwise print num and increment it."
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Drag and drop the correct keyword to check membership. Print a message if 'toy' is in the list of items.",
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "codeSnippet": "items = [\"book\", \"pen\", \"toy\", \"paper\"]\nif \"toy\" {KEYWORD} items:\n    print(\"Toy found!\")",
+  "dragItems": [
+    "in",
+    "is",
+    "not"
+  ],
+  "correctAnswer": [
+    "in"
+  ]
+}

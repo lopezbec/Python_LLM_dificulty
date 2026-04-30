@@ -1,0 +1,24 @@
+{
+  "question_id": 7,
+  "difficulty": 7,
+  "question_text": "Drag and drop the correct components to complete a nested loop that prints coordinate pairs (i, j) where i ranges from 1 to 2 and j from 'a' to 'b'.",
+  "code_snippet": "for i in ____(1, 3):\n    for j in ____:\n         print((i, j))",
+  "draggable_items": {
+    "blank1": [
+      "range",
+      "list",
+      "enumerate",
+      "tuple"
+    ],
+    "blank2": [
+      "['a', 'b']",
+      "('a', 'b')",
+      "set(['a', 'b'])",
+      "{'a': 1}"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "range",
+    "blank2": "['a', 'b']"
+  }
+}

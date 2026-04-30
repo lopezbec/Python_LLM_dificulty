@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "question": "To stop a loop prematurely in Python, you can use the keyword ________.",
+  "correct_answer": "break",
+  "incorrect_answers": [
+    "continue",
+    "stop",
+    "exit"
+  ]
+}

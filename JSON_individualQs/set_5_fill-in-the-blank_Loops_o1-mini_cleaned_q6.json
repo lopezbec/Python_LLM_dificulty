@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to complete the inner loop in the nested loops that print a 3x2 grid:\n\nfor x in range(3):\n    for y in ____:\n        print(f\"({x}, {y})\")",
+  "answer": "range(2)"
+}

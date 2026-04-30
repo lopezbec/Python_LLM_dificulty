@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "number = 10",
+        "if number > 5:",
+        "if number < 20:",
+        "print('Yes')",
+        "else:",
+        "print('Maybe')",
+        "else:",
+        "print('No')",
+        "Yes",
+        "No",
+        "Maybe",
+        "Error"
+    ]
+}

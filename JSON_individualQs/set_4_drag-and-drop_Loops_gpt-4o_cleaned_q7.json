@@ -1,0 +1,16 @@
+{
+  "difficulty": 7,
+  "question": "Complete the for loop to iterate over a dictionary and print each key-value pair.",
+  "code": "person = {'name': 'John', 'age': 25}\nfor key, value in person.___():\n    ___(key, value)",
+  "options": [
+    "print",
+    "items",
+    "keys",
+    "values",
+    "dict"
+  ],
+  "correct_answers": [
+    "items",
+    "print"
+  ]
+}

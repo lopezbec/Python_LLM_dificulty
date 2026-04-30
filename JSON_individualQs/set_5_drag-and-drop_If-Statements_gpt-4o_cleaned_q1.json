@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "description": "Complete the basic if-statement to print 'Hello!' when condition x is True.",
+  "code": "x = True\nif ( ___ ):\n    print('Hello!')",
+  "options": [
+    "True",
+    "x == True",
+    "x",
+    "False"
+  ],
+  "correct": "x"
+}

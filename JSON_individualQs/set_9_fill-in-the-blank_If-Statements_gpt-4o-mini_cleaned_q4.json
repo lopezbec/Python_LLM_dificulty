@@ -1,0 +1,6 @@
+{
+  "question": "To check for multiple conditions, you can use _____ statements after an if statement.",
+  "difficulty": 4,
+  "answer": "elif",
+  "correct": true
+}

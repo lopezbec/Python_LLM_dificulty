@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "if x == 1:\n    print('One')\notherwise:\n    print('Not One')",
+    "if x == 1:\n    print('One')\nelse if x == 2:\n    print('Two')",
+    "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+    "if x == 1:\n    print('One')\nelseif x == 2:\n    print('Two')"
+  ]
+}

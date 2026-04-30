@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: To iterate over each element in a list named my_list, you would write: for item in ______:",
+  "answer": "my_list"
+}

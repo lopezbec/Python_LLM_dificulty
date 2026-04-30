@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "val = 10",
+        "if val > 5:",
+        "print('A')",
+        "if val < 15:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "A",
+        "B",
+        "A B",
+        "C"
+    ]
+}

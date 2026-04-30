@@ -1,0 +1,17 @@
+{
+  "difficulty": 7,
+  "question": "Complete the code to check if x is a multiple of both 2 and 3 or if x is negative.",
+  "instruction": "Drag the correct items into the placeholders.",
+  "partiallyCompletedCode": "x = 6\n____ (x % 2 == 0 ____ x % 3 == 0):\n    print('Multiple of 2 and 3')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Does not match any condition')",
+  "dragItems": [
+    "if",
+    "elif",
+    "or",
+    "and"
+  ],
+  "correctAnswer": [
+    "if",
+    "and"
+  ],
+  "explanation": "Start with 'if' and use 'and' to require that x be divisible by both 2 and 3."
+}

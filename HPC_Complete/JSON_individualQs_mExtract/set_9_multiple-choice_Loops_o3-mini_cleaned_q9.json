@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "Python",
+    "print(\"-\".join(\"Python\"))",
+    "for char in \"Python\":\n    print(char, end=\"-\")",
+    "for char in \"Python\":\n    print(char, end=\" \")",
+    "print(\"Python\".replace(\"\", \"-\"))"
+  ]
+}

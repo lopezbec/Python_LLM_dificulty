@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Multiple conditions can be checked in a single if-statement using 'and', 'or', and 'not'.",
+  "correct_answer": "True"
+}

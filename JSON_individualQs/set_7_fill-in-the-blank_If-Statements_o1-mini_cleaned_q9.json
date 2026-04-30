@@ -1,0 +1,6 @@
+{
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to prevent code execution when the condition is true without doing anything:\n\nif debug_mode:\n    ___",
+  "answer": "pass"
+}

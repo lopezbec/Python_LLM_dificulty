@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "In Python, a basic loop to iterate over a range of numbers is a ___ loop.",
+  "correct_answer": "for"
+}

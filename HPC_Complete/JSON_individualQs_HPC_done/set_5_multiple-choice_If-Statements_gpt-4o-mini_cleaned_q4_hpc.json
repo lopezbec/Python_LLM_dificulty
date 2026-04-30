@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if x == 10:",
+        "print('X is ten')",
+        "x",
+        "x is less than 10",
+        "x is not equal to 10",
+        "x is greater than 10",
+        "x is exactly 10"
+    ]
+}

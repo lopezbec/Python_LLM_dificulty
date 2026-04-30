@@ -1,0 +1,7 @@
+{
+  "question": "Nested loops allow you to iterate over multi-dimensional data structures by placing one loop inside another.",
+  "answer": true,
+  "difficulty": 5,
+  "topic": "Loops",
+  "type": "True/False"
+}

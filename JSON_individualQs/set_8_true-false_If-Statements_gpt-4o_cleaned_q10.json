@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The 'else' block of an if-else structure is mandatory and must appear after the 'if' block.",
+  "answer": false
+}

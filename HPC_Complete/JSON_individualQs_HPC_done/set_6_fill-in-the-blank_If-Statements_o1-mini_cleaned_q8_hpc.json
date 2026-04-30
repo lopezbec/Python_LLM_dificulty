@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "status",
+        "is_active",
+        "status = \"Active\" if is_active else ____"
+    ]
+}

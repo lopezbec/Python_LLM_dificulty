@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Consider the following code: \n\nx = 5\n\nif x > 3:\n    print('Hello')\n\nWhat will it output?",
+  "options": [
+    "Nothing will be printed.",
+    "An error will occur.",
+    "Hello",
+    "'Hello' will be printed twice."
+  ],
+  "correct_answer": "Hello"
+}

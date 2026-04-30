@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "question": "Which of the following loop constructs is best suited for iterating over the keys of a dictionary in Python?",
+  "options": {
+    "A": "for key in dict.values():",
+    "B": "for key in dict.keys():",
+    "C": "for key in dict.items():",
+    "D": "for key in dict:"
+  },
+  "answer": "D",
+  "difficulty": 7
+}

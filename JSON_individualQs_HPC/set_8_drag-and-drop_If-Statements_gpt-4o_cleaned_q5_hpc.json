@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "b",
+        "if ___ and ___:\n    print('b is positive and even')",
+        "b > 0",
+        "b % 2 == 0",
+        "b < 0"
+    ]
+}

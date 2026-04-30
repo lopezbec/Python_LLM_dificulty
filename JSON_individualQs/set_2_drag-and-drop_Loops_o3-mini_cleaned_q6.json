@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Complete the nested loops to print a 3x3 grid.",
+  "instruction": "Drag and drop the correct range generator into both the outer and inner loop drop zones.",
+  "drag_items": [
+    "range(3)",
+    "range(1,4)",
+    "range(10)",
+    "while True"
+  ],
+  "drop_zones": [
+    "Outer loop (iterating 3 times)",
+    "Inner loop (iterating 3 times)"
+  ],
+  "correct_mapping": {
+    "Outer loop (iterating 3 times)": "range(3)",
+    "Inner loop (iterating 3 times)": "range(3)"
+  }
+}

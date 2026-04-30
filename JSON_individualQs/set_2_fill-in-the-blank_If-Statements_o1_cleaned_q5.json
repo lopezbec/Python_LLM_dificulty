@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question": "Complete the condition to print 'Even' if x is an even number:\n\nif ______:\n    print('Even')",
+  "correct_answer": "x % 2 == 0"
+}

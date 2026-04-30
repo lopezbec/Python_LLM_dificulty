@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 3",
+        "if x == 3:",
+        "print(\"x is three\")",
+        "Indent 'print' with one space",
+        "Indent 'print' with two spaces",
+        "Indent 'print' with four spaces",
+        "No indentation needed"
+    ]
+}

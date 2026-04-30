@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Nested loops in Python can only be constructed using for loops inside while loops.",
+  "answer": false
+}

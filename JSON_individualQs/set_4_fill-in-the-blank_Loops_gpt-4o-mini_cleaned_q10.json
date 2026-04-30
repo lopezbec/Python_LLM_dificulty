@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The loop control structure that allows executing a block of code multiple times based on a condition and can lead to performance issues if not handled properly is known as a ____ loop.",
+  "answer": "nested"
+}

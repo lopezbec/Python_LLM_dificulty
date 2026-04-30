@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "n",
+        "if n > 5:",
+        "print('n is big')",
+        "else:",
+        "print('n is small')"
+    ]
+}

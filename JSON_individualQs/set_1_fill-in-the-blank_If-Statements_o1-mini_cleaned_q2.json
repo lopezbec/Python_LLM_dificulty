@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to complete the else clause in the following if-statement:\n\nage = 18\nif age >= 18:\n    print(\"Adult\")\nelse:\n    ___(\"Minor\")",
+  "answer": "print",
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

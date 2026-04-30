@@ -1,0 +1,6 @@
+{
+  "HPC": [
+    "for i in range(3):\n    print(i)",
+    "i = 0\nwhile i < 3:\n    print(i)\n    i += 1"
+  ]
+}

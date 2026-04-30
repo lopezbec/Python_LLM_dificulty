@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following keywords is used to exit a loop early?",
+  "options": [
+    "A) continue",
+    "B) escape",
+    "C) pass",
+    "D) break"
+  ],
+  "correct_answer": "D"
+}

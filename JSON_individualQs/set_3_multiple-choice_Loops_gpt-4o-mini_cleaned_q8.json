@@ -1,0 +1,11 @@
+{
+  "question": "What will happen if you replace `break` in the following code with `continue`? `for i in range(3): if i == 1: break; print(i)`",
+  "options": [
+    "Outputs 0 and 1",
+    "Outputs 0 and 2",
+    "Outputs 0, 1, and 2",
+    "Outputs 1 and 2"
+  ],
+  "answer": "Outputs 0 and 2",
+  "difficulty": 8
+}

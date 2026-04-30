@@ -1,0 +1,26 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Drag the correct expressions to complete the chained if-elif-else statement for temperature warnings:",
+  "codeSnippet": "if temp >= 100:\n    warning = ___\nelif temp >= 90:\n    warning = ___\nelif temp >= 80:\n    warning = ___\nelse:\n    warning = ___",
+  "dragOptions": [
+    "\"Extreme heat warning!\"",
+    "\"High temperature warning!\"",
+    "\"Moderate temperature.\"",
+    "\"Temperature is normal.\""
+  ],
+  "dropZones": [
+    "___",
+    "___",
+    "___",
+    "___"
+  ],
+  "correctAnswers": {
+    "temp >= 100:": "\"Extreme heat warning!\"",
+    "elif temp >= 90:": "\"High temperature warning!\"",
+    "elif temp >= 80:": "\"Moderate temperature.\"",
+    "else:": "\"Temperature is normal.\""
+  }
+}

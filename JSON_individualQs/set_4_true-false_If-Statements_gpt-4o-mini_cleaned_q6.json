@@ -1,0 +1,5 @@
+{
+  "question": "In Python, using 'if x = 10:' will correctly check if x is equal to 10.",
+  "answer": false,
+  "difficulty": 6
+}

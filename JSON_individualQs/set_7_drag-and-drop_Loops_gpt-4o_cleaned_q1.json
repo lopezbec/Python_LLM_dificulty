@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "question_type": "drag-and-drop",
+  "question": "Drag the correct keyword to complete the loop construct.",
+  "code": "for i ___ range(5):",
+  "options": [
+    "in",
+    "to",
+    "by"
+  ],
+  "correct_option": "in"
+}

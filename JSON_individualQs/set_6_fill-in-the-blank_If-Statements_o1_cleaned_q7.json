@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank to check if 'name' is not 'Alice': if name ___ 'Alice': print(\"Different name\").",
+  "answer": "!="
+}

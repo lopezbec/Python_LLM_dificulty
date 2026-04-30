@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "if-statements",
+  "question": "Arrange the code to handle multiple exclusive conditions using `elif` in an `if` statement.",
+  "options": [
+    "    print('Temperature is warm.')",
+    "elif temperature > 20:",
+    "if temperature <= 0:",
+    "    print('Temperature is freezing.')",
+    "else:",
+    "    print('Temperature is moderate.')"
+  ],
+  "answer": [
+    "if temperature <= 0:",
+    "    print('Temperature is freezing.')",
+    "elif temperature > 20:",
+    "    print('Temperature is warm.')",
+    "else:",
+    "    print('Temperature is moderate.')"
+  ]
+}

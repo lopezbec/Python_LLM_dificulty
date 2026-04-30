@@ -1,0 +1,17 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "questionText": "Drag the correct parts into the blanks so that the code prints 'Positive' if x is greater than 0.",
+  "incompleteCode": "[Zone1] x [Zone2] 0 [Zone3]\n    print(\"Positive\")",
+  "dragItems": [
+    "if",
+    ">",
+    ":"
+  ],
+  "correctAnswer": [
+    "if",
+    ">",
+    ":"
+  ],
+  "explanation": "The if keyword initiates the condition, the '>' operator checks if x is greater than 0, and the colon ends the if statement."
+}

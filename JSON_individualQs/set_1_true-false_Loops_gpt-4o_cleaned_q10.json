@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "It is not possible to have an infinite loop in Python if there is a logical error in the loop condition.",
+  "answer": false
+}

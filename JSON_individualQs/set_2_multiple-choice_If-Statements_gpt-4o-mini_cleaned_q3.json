@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following will print 'Hello' only if the variable x is greater than 10?",
+  "options": [
+    "if x > 10 print('Hello')",
+    "if (x > 10): print('Hello')",
+    "if x > 10: print 'Hello'",
+    "if x > 10 then print('Hello')"
+  ],
+  "answer": "if (x > 10): print('Hello')",
+  "difficulty": 3
+}

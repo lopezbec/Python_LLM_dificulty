@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "In Python, a for loop is used to iterate over the items of a sequence (like a list, tuple, or string).",
+    "correct_answer": true
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "A while loop in Python guarantees that the loop body will execute at least once, regardless of the condition.",
+    "correct_answer": false
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "A for loop in Python can iterate over a string, processing each character one at a time.",
+    "correct_answer": true
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "The break statement in a loop causes the loop to immediately move on to the next iteration.",
+    "correct_answer": false
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "The continue statement in a loop skips the remainder of the current iteration and moves to the next iteration.",
+    "correct_answer": true
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "When a loop in Python is not terminated by a break statement, the else clause (if present) will execute after the loop finishes.",
+    "correct_answer": true
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "After a for loop that iterates over a non-empty sequence, the loop variable retains the value of the last item processed.",
+    "correct_answer": true
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "In Python, the range() function returns a list in Python 2 and a range object (an iterable) in Python 3.",
+    "correct_answer": true
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "When a loop with an else clause is terminated by a break statement, the else block is skipped.",
+    "correct_answer": true
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Modifying a list while iterating over it with a for loop will always produce an error in Python.",
+    "correct_answer": false
+  }
+]

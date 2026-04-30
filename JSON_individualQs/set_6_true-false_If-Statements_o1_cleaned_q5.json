@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "An 'elif' block is evaluated only if all previous conditions in the if-elif chain were False.",
+  "correct_answer": "True"
+}

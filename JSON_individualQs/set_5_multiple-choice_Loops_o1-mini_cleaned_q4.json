@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "question": "Which statement correctly skips the current iteration and moves to the next one in a loop?",
+  "options": {
+    "A": "break",
+    "B": "pass",
+    "C": "continue",
+    "D": "skip"
+  },
+  "answer": "C",
+  "difficulty": 4
+}

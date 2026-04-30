@@ -1,0 +1,5 @@
+{
+  "question": "Nested loops are not allowed in Python, meaning you cannot have a loop inside another loop.",
+  "answer": false,
+  "difficulty": 9
+}

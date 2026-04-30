@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following conditions will trigger the print statement in the code below? \nif x == 10: \n    print('X is ten')\n\nChoose the best option.",
+  "options": {
+    "A": "x is less than 10",
+    "B": "x is not equal to 10",
+    "C": "x is greater than 10",
+    "D": "x is exactly 10"
+  },
+  "correct_answer": "D"
+}

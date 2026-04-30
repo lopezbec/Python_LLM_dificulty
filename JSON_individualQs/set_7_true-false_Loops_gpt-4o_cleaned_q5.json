@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In Python, the range() function used in a 'for' loop can only generate sequences of integers starting from 0.",
+  "answer": false
+}

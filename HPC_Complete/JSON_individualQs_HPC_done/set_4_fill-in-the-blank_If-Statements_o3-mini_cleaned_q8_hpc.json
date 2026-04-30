@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if a == 10\n    print('a is ten')",
+        "a"
+    ]
+}

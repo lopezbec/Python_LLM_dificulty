@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "topic": "Loop Optimization",
+  "question": "Match each optimization technique with its description.",
+  "drag_items": [
+    "Avoiding unnecessary computations within the loop",
+    "Using appropriate loop constructs",
+    "Breaking out of loops early when possible"
+  ],
+  "drop_targets": [
+    "Reducing the number of operations executed each iteration to improve performance",
+    "Choosing between for and while loops based on the specific use case for better efficiency",
+    "Exiting the loop as soon as the desired condition is met to save processing time"
+  ],
+  "correct_matches": {
+    "Avoiding unnecessary computations within the loop": "Reducing the number of operations executed each iteration to improve performance",
+    "Using appropriate loop constructs": "Choosing between for and while loops based on the specific use case for better efficiency",
+    "Breaking out of loops early when possible": "Exiting the loop as soon as the desired condition is met to save processing time"
+  }
+}

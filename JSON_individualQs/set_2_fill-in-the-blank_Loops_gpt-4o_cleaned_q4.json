@@ -1,0 +1,5 @@
+{
+  "level": 4,
+  "question": "In Python, you can exit the current iteration of a loop and move to the next iteration using the _____ statement.",
+  "answer": "continue"
+}

@@ -1,0 +1,10 @@
+{
+  "difficulty": 8,
+  "question": "Complete the following elif statement by dragging the correct response: \nif (score >= 90) { print('A'); } _______ (score >= 80) { print('B'); } else _______ ;",
+  "drops": [
+    "elif",
+    "if",
+    "else"
+  ],
+  "correct": "elif"
+}

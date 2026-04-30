@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "The time complexity of a nested loop where each loop iterates 'n' times is O(___).",
+  "answer": "n^2"
+}

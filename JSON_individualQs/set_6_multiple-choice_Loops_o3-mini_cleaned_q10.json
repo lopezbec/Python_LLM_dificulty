@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Examine the following code snippet:\n\nfound = False\nfor i in range(5):\n    for j in range(5):\n        if i * j > 6:\n            found = True\n            break\n    if found:\n        break\nprint(i, j)\n\nWhat will be the printed output?",
+  "options": [
+    "2 4",
+    "4 2",
+    "3 2",
+    "0 0"
+  ],
+  "correctAnswer": "2 4"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Without specifying a step, range(5, 1) produces a sequence of integers from 5 down to 2.",
+  "correct_answer": "False"
+}

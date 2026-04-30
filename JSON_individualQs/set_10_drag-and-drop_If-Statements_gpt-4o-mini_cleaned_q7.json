@@ -1,0 +1,19 @@
+{
+  "difficulty": 7,
+  "question": "Organize the following lines to construct an if-elif-else ladder that checks the 'temperature' variable: if 'hot', print 'It's hot!', if 'cold', print 'It's cold!', else print 'It's pleasant!'.",
+  "code_fragments": [
+    "print('It's pleasant!')",
+    "print('It's hot!')",
+    "elif temperature == 'cold':",
+    "if temperature == 'hot':",
+    "print('It's cold!')"
+  ],
+  "correct_order": [
+    "if temperature == 'hot':",
+    "print('It's hot!')",
+    "elif temperature == 'cold':",
+    "print('It's cold!')",
+    "else:",
+    "print('It's pleasant!')"
+  ]
+}

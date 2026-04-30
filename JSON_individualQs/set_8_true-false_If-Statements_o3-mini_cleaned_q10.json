@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Examine the following code:\n\nif 5 > 3:\n    print('Yes')\nelse:\n    print('No')\n\nThe else block will always execute regardless of the condition.",
+  "correctAnswer": false
+}

@@ -1,0 +1,25 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "questionText": "Complete the loop to iterate over the indexes of 'my_list' and print only the elements at even indices, skipping odd indices:",
+  "codeSnippet": [
+    "my_list = [10, 20, 30, 40, 50]",
+    "for i in [RANGE_PLACEHOLDER]:",
+    "    [SKIP_CONDITION_PLACEHOLDER]",
+    "    print(my_list[i])"
+  ],
+  "dragItems": [
+    "range(len(my_list))",
+    "range(len(my_list), 0, -1)",
+    "if i % 2 != 0: continue",
+    "if my_list[i] == 30: continue"
+  ],
+  "dropSlots": [
+    "RANGE_PLACEHOLDER",
+    "SKIP_CONDITION_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "RANGE_PLACEHOLDER": "range(len(my_list))",
+    "SKIP_CONDITION_PLACEHOLDER": "if i % 2 != 0: continue"
+  }
+}

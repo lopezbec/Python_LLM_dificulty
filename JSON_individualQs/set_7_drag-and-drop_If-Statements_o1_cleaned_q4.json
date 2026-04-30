@@ -1,0 +1,17 @@
+{
+  "difficulty": 4,
+  "question": "Complete the chain of conditions to categorize x as negative, small positive, or large positive.",
+  "instruction": "Drag the correct statements into the placeholders.",
+  "partiallyCompletedCode": "x = 7\n____ x < 0:\n    print('Negative')\n____ x <= 10:\n    print('Small positive')\nelse:\n    print('Large positive')",
+  "dragItems": [
+    "if",
+    "while",
+    "elif",
+    "for"
+  ],
+  "correctAnswer": [
+    "if",
+    "elif"
+  ],
+  "explanation": "Begin with 'if x < 0' to check negativity, then use 'elif x <= 10' before the final else."
+}

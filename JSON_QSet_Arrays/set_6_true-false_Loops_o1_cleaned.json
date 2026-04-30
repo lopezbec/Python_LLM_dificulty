@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop allows you to iterate over items of a sequence in Python.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "A 'while' loop executes at least once, even if its condition is initially False.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "Using 'break' inside a loop immediately terminates that loop's execution.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, 'for i in range(5):' iterates exactly five times.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "The 'else' clause after a 'for' loop executes only if a 'break' statement is encountered in the loop.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 6,
+    "question": "You can combine 'while' and 'for' loops in the same code block without any issues in Python.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "Using a 'continue' statement will skip all future iterations of the loop.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 8,
+    "question": "Loop variables in Python typically change value in each iteration, often controlled by the 'range' function or other iterable objects.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 9,
+    "question": "Nested loops can never access variables from their outer loops in Python.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 10,
+    "question": "A 'for' loop can be used to directly iterate over a dictionary's keys, values, or key-value pairs using different methods.",
+    "answer": "True"
+  }
+]

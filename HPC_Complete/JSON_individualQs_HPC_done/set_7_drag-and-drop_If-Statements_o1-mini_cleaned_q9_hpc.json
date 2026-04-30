@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "if temp >= 100:",
+        "warning = ___",
+        "elif temp >= 90:",
+        "warning = ___",
+        "elif temp >= 80:",
+        "warning = ___",
+        "else:",
+        "warning = ___",
+        "\"Extreme heat warning!\"",
+        "\"High temperature warning!\"",
+        "\"Moderate temperature.\"",
+        "\"Temperature is normal.\""
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "question": "What is the output of the following code?\n\n```python\nx = 7\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')\n```",
+  "options": [
+    "A) Even",
+    "B) Odd",
+    "C) 7",
+    "D) No output"
+  ],
+  "answer": "B",
+  "difficulty": 5,
+  "topic": "if statements"
+}

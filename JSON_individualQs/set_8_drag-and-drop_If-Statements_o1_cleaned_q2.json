@@ -1,0 +1,19 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "instruction": "Complete the if-else block to check if x is non-negative or negative.",
+  "code_with_blanks": "x = -3\n_____ x >= 0 _____\n    print(\"x is non-negative\")\n_____ _____\n    print(\"x is negative\")",
+  "drag_options": [
+    "if",
+    "else",
+    ":",
+    "while"
+  ],
+  "correct_sequence": [
+    "if",
+    ":",
+    "else",
+    ":"
+  ],
+  "explanation": "Use 'if' for the first condition, ':' to denote the code block, then 'else' and another ':' for the alternative."
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x > 5 __ y < 10:\n    print('Within range')",
+        "or",
+        "and",
+        "not"
+    ]
+}

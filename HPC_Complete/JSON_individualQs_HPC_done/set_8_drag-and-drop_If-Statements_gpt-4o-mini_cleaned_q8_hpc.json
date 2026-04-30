@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if score < 50:",
+        "elif score >= 50 and score < 70:",
+        "else:",
+        "print('Fail')",
+        "print('Pass')",
+        "print('Excellent')"
+    ]
+}

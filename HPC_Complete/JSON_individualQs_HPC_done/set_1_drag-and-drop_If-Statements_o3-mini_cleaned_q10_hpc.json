@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if",
+        "(n := len(input_str))",
+        ">",
+        "5",
+        ":",
+        "print('Long string, length:', n)"
+    ]
+}

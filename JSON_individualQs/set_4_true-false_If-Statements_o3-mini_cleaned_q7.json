@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can execute multiple statements on the same line in an if-statement's block by separating them with semicolons.",
+  "answer": "True"
+}

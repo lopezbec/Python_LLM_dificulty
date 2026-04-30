@@ -1,0 +1,12 @@
+{
+  "question": "Arrange the code to create a loop that iterates through a dictionary and prints each key-value pair.",
+  "options": [
+    "for key, value in my_dict.items():",
+    "print(key, value)"
+  ],
+  "correct_order": [
+    "for key, value in my_dict.items():",
+    "print(key, value)"
+  ],
+  "difficulty": 8
+}

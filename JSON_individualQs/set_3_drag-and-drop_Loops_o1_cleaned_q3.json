@@ -1,0 +1,24 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "questionText": "Complete this while loop so that it only prints the even numbers from 2 to 6:",
+  "codeSnippet": [
+    "number = 1",
+    "while number <= 6:",
+    "    number += 1",
+    "    [CONTINUE_CONDITION_PLACEHOLDER]",
+    "    print(number)"
+  ],
+  "dragItems": [
+    "if number % 2 != 0: continue",
+    "if number % 2 == 0: continue",
+    "if number > 6: continue",
+    "if number < 2: continue"
+  ],
+  "dropSlots": [
+    "CONTINUE_CONDITION_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "CONTINUE_CONDITION_PLACEHOLDER": "if number % 2 != 0: continue"
+  }
+}

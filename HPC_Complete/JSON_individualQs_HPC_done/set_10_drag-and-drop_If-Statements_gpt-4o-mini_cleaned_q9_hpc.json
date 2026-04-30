@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "print('Access denied')",
+        "if user_role == 'admin':",
+        "print('Access granted')",
+        "if user_role == 'admin':",
+        "print('Access granted')",
+        "else:",
+        "print('Access denied')"
+    ]
+}

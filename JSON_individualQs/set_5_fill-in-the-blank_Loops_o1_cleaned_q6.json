@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank: In a 'for' loop, we can add an optional ______ clause that executes only if the loop completes without a break.",
+  "correct_answer": "else"
+}

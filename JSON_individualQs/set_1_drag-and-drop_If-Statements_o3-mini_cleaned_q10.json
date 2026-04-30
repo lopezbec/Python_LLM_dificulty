@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "prompt": "Drag and drop the blocks to form an if\u2010statement using the new walrus operator. The statement should assign the length of input_str to n and, if n is greater than 5, print 'Long string, length:' followed by n.",
+  "drag_items": [
+    "if",
+    "(n := len(input_str))",
+    ">",
+    "5",
+    ":",
+    "print('Long string, length:', n)"
+  ],
+  "correct_order": [
+    "if",
+    "(n := len(input_str))",
+    ">",
+    "5",
+    ":",
+    "print('Long string, length:', n)"
+  ],
+  "explanation": "The walrus operator (:=) assigns the value within an expression. Here, it assigns length of input_str to n, which is then compared to 5."
+}

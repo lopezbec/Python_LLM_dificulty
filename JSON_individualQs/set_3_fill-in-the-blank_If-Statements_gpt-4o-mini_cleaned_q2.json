@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "An if-statement can be followed by an optional _____ block, which executes when the condition is False.",
+  "answer": "else"
+}

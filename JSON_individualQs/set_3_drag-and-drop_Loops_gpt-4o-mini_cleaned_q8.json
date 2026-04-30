@@ -1,0 +1,16 @@
+{
+  "question": "Complete the loop to sum the first 5 integer numbers.",
+  "options": [
+    "total = 0",
+    "for i in range(1, 6):",
+    "total += i",
+    "print(total)"
+  ],
+  "correctOrder": [
+    "total = 0",
+    "for i in range(1, 6):",
+    "total += i",
+    "print(total)"
+  ],
+  "difficulty": 8
+}

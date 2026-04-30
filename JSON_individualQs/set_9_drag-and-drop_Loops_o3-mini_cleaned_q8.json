@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "prompt": "Drag and drop the correct method to iterate over keys in a dictionary:\n\nmy_dict = {'a': 1, 'b': 2}\nfor key in _____:\n    print(key)",
+  "drag_items": [
+    "my_dict.keys()",
+    "my_dict.values()",
+    "my_dict.items()"
+  ],
+  "drop_targets": [
+    "method"
+  ],
+  "correct_mapping": {
+    "method": "my_dict.keys()"
+  }
+}

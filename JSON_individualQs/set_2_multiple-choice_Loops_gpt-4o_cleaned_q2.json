@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is a common use of loops in Python?",
+  "options": [
+    "To perform repetitive tasks",
+    "To declare variables",
+    "To create data types",
+    "To handle exceptions"
+  ],
+  "correct_answer": "To perform repetitive tasks"
+}

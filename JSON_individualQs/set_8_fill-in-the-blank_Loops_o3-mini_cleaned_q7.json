@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: Some programming languages have a loop that executes the block at least once before checking the condition. This loop is known as a ______ loop, which Python does not natively support but can be emulated.",
+  "correct_answer": "do-while"
+}

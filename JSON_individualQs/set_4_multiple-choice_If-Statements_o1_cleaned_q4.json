@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following is the correct syntax to check if x is greater than 10?",
+  "choices": {
+    "A": "if (x > 10);",
+    "B": "if x > 10:",
+    "C": "if x > 10",
+    "D": "if x => 10:"
+  },
+  "correct_answer": "B"
+}

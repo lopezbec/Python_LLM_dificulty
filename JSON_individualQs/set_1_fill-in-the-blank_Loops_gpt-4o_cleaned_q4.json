@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "To loop through a sequence of numbers, you often use the ______ function in Python.",
+  "answer": "range"
+}

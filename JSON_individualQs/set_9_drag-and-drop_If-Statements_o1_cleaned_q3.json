@@ -1,0 +1,24 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "prompt": "Add the missing keyword to check if 'age' is above 18 or at least 13, otherwise print 'Child'.",
+  "code_with_placeholders": [
+    "age = 17",
+    "if age > 18:",
+    "    print(\"Adult\")",
+    "[__keyword__] age >= 13:",
+    "    print(\"Teenager\")",
+    "else:",
+    "    print(\"Child\")"
+  ],
+  "drag_items": [
+    "else if",
+    "elif",
+    "if",
+    "while"
+  ],
+  "correct_answer": {
+    "__keyword__": "elif"
+  }
+}

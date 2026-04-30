@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following values is considered `False` in a Python if statement?",
+  "options": {
+    "A": "1",
+    "B": "True",
+    "C": "\"\" (empty string)",
+    "D": "[0]"
+  },
+  "answer": "C"
+}

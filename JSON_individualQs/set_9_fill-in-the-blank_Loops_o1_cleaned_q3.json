@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank to stop the loop when i reaches 2:\n\nfor i in range(5):\n    if i == 2:\n        __________\n    print(i)",
+  "answer": "break"
+}

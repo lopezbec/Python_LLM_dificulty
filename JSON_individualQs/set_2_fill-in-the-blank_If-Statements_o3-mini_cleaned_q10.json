@@ -1,0 +1,6 @@
+{
+  "difficulty": 10,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: In Python, to verify if an element exists within a list inside an if-statement, use the ____ keyword.",
+  "answer": "in"
+}

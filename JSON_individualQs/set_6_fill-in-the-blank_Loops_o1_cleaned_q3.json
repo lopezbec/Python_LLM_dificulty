@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "The built-in function ________ can be used with a for loop to generate a sequence of numbers from 0 up to but not including a specified value.",
+  "correct_answer": "range"
+}

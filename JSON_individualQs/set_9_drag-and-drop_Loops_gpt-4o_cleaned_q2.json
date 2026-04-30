@@ -1,0 +1,13 @@
+{
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Drag and drop the correct keyword to complete the while loop that prints the numbers 1 to 3.",
+  "code_block": "counter = 1\n___ counter <= 3:\n    print(counter)\n    counter += 1",
+  "options": [
+    "for",
+    "while",
+    "until"
+  ],
+  "correct_answer": "while"
+}

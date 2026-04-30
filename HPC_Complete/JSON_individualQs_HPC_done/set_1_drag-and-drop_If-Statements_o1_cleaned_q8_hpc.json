@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "number",
+        "number = 5",
+        "if [BLANK]:",
+        "10 <= number <= 50",
+        "number < 10 or number > 50",
+        "number > 10 or number < 50"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "grade = __condition__ if score >= 90 else __alternative__",
+        "\"A\"",
+        "\"B\"",
+        "\"C\""
+    ]
+}

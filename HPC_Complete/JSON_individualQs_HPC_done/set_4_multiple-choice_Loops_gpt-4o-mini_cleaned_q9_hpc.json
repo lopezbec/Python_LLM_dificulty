@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for i in range(10):",
+        "while True:",
+        "for i in iter(range(10)):",
+        "while i < n:"
+    ]
+}

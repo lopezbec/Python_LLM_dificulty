@@ -1,0 +1,6 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank to check if the variable n is equal to 10:\n\nif ______:\n    print('n is ten')",
+  "answer": "n == 10"
+}

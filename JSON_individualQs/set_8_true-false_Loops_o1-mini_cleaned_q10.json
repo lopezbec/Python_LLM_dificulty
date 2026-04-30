@@ -1,0 +1,6 @@
+{
+  "question": "Modifying the list you are iterating over in a 'for' loop can lead to unexpected behavior.",
+  "answer": true,
+  "difficulty": 10,
+  "topic": "Loops"
+}

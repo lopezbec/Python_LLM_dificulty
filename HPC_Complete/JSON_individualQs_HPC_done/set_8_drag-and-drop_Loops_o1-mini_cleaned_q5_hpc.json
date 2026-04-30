@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for element in my_list:",
+        "print(element)",
+        "End of loop"
+    ]
+}

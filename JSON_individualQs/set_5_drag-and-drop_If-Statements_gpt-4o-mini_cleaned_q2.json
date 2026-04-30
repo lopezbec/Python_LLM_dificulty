@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank to complete this if statement that checks if a number is even: if x % ",
+  "options": [
+    "1 == 0:",
+    "2 == 0:",
+    "3 == 0:"
+  ],
+  "correct_option": "2 == 0:"
+}

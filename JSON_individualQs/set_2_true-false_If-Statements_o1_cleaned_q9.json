@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Operators like <, <=, ==, !=, >=, and > can be used in if-statements to compare both numbers and strings.",
+  "correct_answer": "True"
+}

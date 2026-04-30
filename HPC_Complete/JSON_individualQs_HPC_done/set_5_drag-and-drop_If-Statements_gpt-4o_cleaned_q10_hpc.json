@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "num",
+        "num = 8",
+        "if ( ((5 < num < 15) and (___num % 2 == 0)) or (num in ___) ):",
+        "print('Condition met')",
+        "not",
+        "{7, 14, 8}",
+        "even",
+        "{0}",
+        "set"
+    ]
+}

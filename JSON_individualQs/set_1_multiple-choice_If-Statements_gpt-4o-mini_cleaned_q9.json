@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will the output of the following code be if the variable x is equal to 10? \n\n```python\nx = 10\nif x < 5:\n    print('Low')\nelif x >= 10:\n    print('Ten or more')\nelse:\n    print('Medium')\n```",
+  "options": [
+    "Low",
+    "Ten or more",
+    "Medium",
+    "Error"
+  ],
+  "correct_answer": "Ten or more"
+}

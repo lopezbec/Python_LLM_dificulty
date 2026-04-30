@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "my_list = [1, 2, 3]",
+        "for item in ___:",
+        "my_list",
+        "item",
+        "range(len(my_list))",
+        "[1, 2, 3]"
+    ]
+}

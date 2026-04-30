@@ -1,0 +1,25 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "topic": "Loops",
+  "question": "Arrange the fragments to create a nested loop: an outer loop iterating over i in range(1, 4) with an inner loop iterating over j in range(1, 4) where if i equals j the inner loop breaks, and an else clause in the outer loop prints 'No Break'.",
+  "drag_items": [
+    "    for j in range(1, 4):",
+    "        if i == j:",
+    "            break",
+    "for i in range(1, 4):",
+    "    else:",
+    "        print('No Break')",
+    "        print(i, j)",
+    "        print(i, j)"
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "    for j in range(1, 4):",
+    "        if i == j:",
+    "            break",
+    "        print(i, j)",
+    "    else:",
+    "        print('No Break')"
+  ]
+}

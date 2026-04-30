@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To ensure that a block of code only runs if a variable 'x' is negative, you would write: 'if x < 0: _____'.",
+  "answer": "code_block"
+}

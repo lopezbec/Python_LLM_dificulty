@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if num < 100:",
+        "else:",
+        "print('Zero or negative')",
+        "print('Positive and less than 100')",
+        "if num > 0:",
+        "else:",
+        "print('Positive but 100 or more')"
+    ]
+}

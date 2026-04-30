@@ -1,0 +1,16 @@
+{
+  "question": "Arrange the following parts to form an if-statement using comparison operators to check if a number is equal to 5:",
+  "options": [
+    "if",
+    "number == 5",
+    ":",
+    "    print(\"Number is five\")"
+  ],
+  "answer": [
+    "if",
+    "number == 5",
+    ":",
+    "    print(\"Number is five\")"
+  ],
+  "difficulty": 4
+}

@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "question": "Analyze the following code and determine its output:\n\nx = 10\ny = 20\nif x > 5:\n    if y > 25:\n        print(\"A\")\n    elif y > 15:\n        print(\"B\")\n    else:\n        print(\"C\")\nelse:\n    print(\"D\")",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D"
+  },
+  "answer": "C",
+  "difficulty": 10
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 8,
+  "question_type": "drag-and-drop",
+  "question": "Complete the nested loop to calculate the sum of Cartesian products.",
+  "code": "total = 0\nfor i in range(3):\n    for j in range(3):\n        ___\nprint(total)",
+  "options": [
+    "total += i * j",
+    "total = i + j",
+    "sum(i, j)"
+  ],
+  "correct_option": "total += i * j"
+}

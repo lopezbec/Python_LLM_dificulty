@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "type": "drag-and-drop",
+    "question": "Fill in the blank to create a basic for loop that iterates 3 times.",
+    "codeSnippet": "_____ i in range(3):\n    print(i)",
+    "dragItems": [
+      "for",
+      "while",
+      "if"
+    ],
+    "dropTargets": [
+      "keyword"
+    ],
+    "correctMap": {
+      "keyword": "for"
+    }
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "type": "drag-and-drop",
+    "question": "Fill in the blank to complete the for loop so that it iterates exactly 5 times using the range function.",
+    "codeSnippet": "for i in range(_____):\n    print(i)",
+    "dragItems": [
+      "5",
+      "4",
+      "6"
+    ],
+    "dropTargets": [
+      "range_end"
+    ],
+    "correctMap": {
+      "range_end": "5"
+    }
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "type": "drag-and-drop",
+    "question": "Complete the loop header to iterate over all elements in the list 'items'. Drag the missing words into the correct positions.",
+    "codeSnippet": "_____ item _____ items:\n    print(item)",
+    "dragItems": [
+      "for",
+      "in",
+      "if",
+      "while"
+    ],
+    "dropTargets": [
+      "first_blank",
+      "second_blank"
+    ],
+    "correctMap": {
+      "first_blank": "for",
+      "second_blank": "in"
+    }
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "type": "drag-and-drop",
+    "question": "Complete the code snippet to sum all numbers in the list 'numbers'. Drag the appropriate code fragments into the blanks.",
+    "codeSnippet": "total = _____\nfor num in numbers:\n    total _____ num\nprint(total)",
+    "dragItems": [
+      "0",
+      "*=",
+      "+=",
+      "in"
+    ],
+    "dropTargets": [
+      "initialization",
+      "accumulation_operator"
+    ],
+    "correctMap": {
+      "initialization": "0",
+      "accumulation_operator": "+="
+    }
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "type": "drag-and-drop",
+    "question": "Reorder the following lines to form a correct for loop that prints each character in the string 'hello'. Drag the correct line into each drop zone.",
+    "codeSnippet": "Drop Zone 1:\n_____\nDrop Zone 2:\n_____",
+    "dragItems": [
+      "for ch in 'hello':",
+      "    print(ch)",
+      "print('done')"
+    ],
+    "dropTargets": [
+      "line1",
+      "line2"
+    ],
+    "correctMap": {
+      "line1": "for ch in 'hello':",
+      "line2": "    print(ch)"
+    }
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "type": "drag-and-drop",
+    "question": "Fill in the blank to complete the for loop that prints even numbers from 0 to 8 by using an appropriate step value.",
+    "codeSnippet": "for i in range(0, 10, _____):\n    print(i)",
+    "dragItems": [
+      "1",
+      "2",
+      "3"
+    ],
+    "dropTargets": [
+      "step_value"
+    ],
+    "correctMap": {
+      "step_value": "2"
+    }
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "type": "drag-and-drop",
+    "question": "Complete the nested loop header to iterate over 2 rows and 3 columns. Drag the correct keyword into the blank.",
+    "codeSnippet": "for i in range(2):\n    for j in _____(3):\n        print(i, j)",
+    "dragItems": [
+      "range",
+      "list",
+      "tuple"
+    ],
+    "dropTargets": [
+      "inner_loop_function"
+    ],
+    "correctMap": {
+      "inner_loop_function": "range"
+    }
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "type": "drag-and-drop",
+    "question": "Complete the code snippet by dragging in the appropriate keyword so that the else block executes after the loop finishes normally.",
+    "codeSnippet": "for i in range(3):\n    print(i)\n_____:\n    print('done')",
+    "dragItems": [
+      "else",
+      "except",
+      "finally"
+    ],
+    "dropTargets": [
+      "keyword"
+    ],
+    "correctMap": {
+      "keyword": "else"
+    }
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "type": "drag-and-drop",
+    "question": "Fill in the blanks to complete a while loop that prints the numbers from 0 to 2. Drag the correct items into each blank.",
+    "codeSnippet": "i = 0\nwhile _____ < 3:\n    print(i)\n    i _____ 1",
+    "dragItems": [
+      "i",
+      "j",
+      "3",
+      "i",
+      "+=",
+      "-="
+    ],
+    "dropTargets": [
+      "loop_variable",
+      "increment_operator"
+    ],
+    "correctMap": {
+      "loop_variable": "i",
+      "increment_operator": "+="
+    }
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "type": "drag-and-drop",
+    "question": "Reorder the following lines to form a complete code snippet that counts down from 5 to 1 using a while loop. Drag the correct line into each drop zone.",
+    "codeSnippet": "Drop Zone 1:\n_____ \nDrop Zone 2:\n_____ \nDrop Zone 3:\n_____ \nDrop Zone 4:\n_____",
+    "dragItems": [
+      "i = 5",
+      "while i > 0:",
+      "    print(i)",
+      "    i -= 1",
+      "print('Done')"
+    ],
+    "dropTargets": [
+      "line1",
+      "line2",
+      "line3",
+      "line4"
+    ],
+    "correctMap": {
+      "line1": "i = 5",
+      "line2": "while i > 0:",
+      "line3": "    print(i)",
+      "line4": "    i -= 1"
+    }
+  }
+]

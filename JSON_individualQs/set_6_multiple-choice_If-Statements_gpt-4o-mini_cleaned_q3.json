@@ -1,0 +1,11 @@
+{
+  "question": "What will be printed when the following code is executed?\n\n```python\nx = 20\nif x < 10:\n    print('Less than 10')\nelif x < 30:\n    print('Less than 30')\nelse:\n    print('30 or more')\n```\n",
+  "options": [
+    "Less than 10",
+    "Less than 30",
+    "30 or more",
+    "None"
+  ],
+  "correct_answer": "Less than 30",
+  "difficulty": 3
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the code snippets to form a for-loop that prints only odd numbers between 0 and 4 by using the continue statement to skip even numbers.",
+  "prompt": "Drag and drop the snippets in the correct order to complete the for-loop that skips printing even numbers.",
+  "dragItems": [
+    "for i in range(5):",
+    "    if i % 2 == 0:",
+    "        continue",
+    "    print(i)"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "for i in range(5):",
+    "    if i % 2 == 0:",
+    "        continue",
+    "    print(i)"
+  ]
+}

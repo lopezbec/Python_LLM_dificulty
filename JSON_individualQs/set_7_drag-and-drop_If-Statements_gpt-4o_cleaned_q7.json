@@ -1,0 +1,17 @@
+{
+  "question": "Level 7: Short-circuit Evaluation",
+  "instruction": "Identify the condition and output of a short-circuit evaluated if statement.",
+  "difficulty": 7,
+  "code_blocks": [
+    "if __condition__:",
+    "    __print_statement__"
+  ],
+  "options": [
+    "x > 0 or y / x > 5",
+    "print('Condition passed')"
+  ],
+  "correct_structure": {
+    "__condition__": "x > 0 or y / x > 5",
+    "__print_statement__": "print('Condition passed')"
+  }
+}

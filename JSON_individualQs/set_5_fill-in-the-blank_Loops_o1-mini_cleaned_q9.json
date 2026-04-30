@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to use enumerate to get both index and value in a loop:\n\nfor index, value in ____(my_list):\n    print(index, value)",
+  "answer": "enumerate"
+}

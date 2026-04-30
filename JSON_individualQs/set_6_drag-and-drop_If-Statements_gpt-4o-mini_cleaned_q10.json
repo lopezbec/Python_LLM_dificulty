@@ -1,0 +1,12 @@
+{
+  "question": "Create a complete if-else if-else structure by filling in the blanks:\n`if (score > 90) { ____; } ____ if (score > 75) { ____; } else { ____; }`",
+  "drops": [
+    "console.log('Grade A');",
+    "console.log('Grade B');",
+    "console.log('Grade C');",
+    "console.log('Grade D');"
+  ],
+  "correct": "console.log('Grade A');",
+  "alternate_correct": "console.log('Grade B');",
+  "difficulty": 10
+}

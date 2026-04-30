@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "How can you create an infinite loop using a 'while' loop?",
+  "options": [
+    "A) while True: pass",
+    "B) while 1: pass",
+    "C) while(1) { }",
+    "D) Both A and B"
+  ],
+  "answer": "D"
+}

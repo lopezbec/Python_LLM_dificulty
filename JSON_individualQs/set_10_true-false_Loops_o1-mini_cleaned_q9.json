@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the time complexity of nested loops is generally quadratic, i.e., O(n\u00b2).",
+  "difficulty": 9,
+  "answer": true
+}

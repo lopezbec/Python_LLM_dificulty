@@ -1,0 +1,10 @@
+{
+  "question": "What does the 'continue' statement do in a loop?",
+  "options": {
+    "A": "Terminates the loop entirely.",
+    "B": "Skips the current iteration and continues with the next one.",
+    "C": "Repeats the current iteration.",
+    "D": "Exits the current function."
+  },
+  "answer": "B"
+}

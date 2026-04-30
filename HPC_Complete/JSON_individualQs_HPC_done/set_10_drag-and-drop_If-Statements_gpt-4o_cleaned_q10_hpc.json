@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "username == 'admin'",
+        "password == '1234'",
+        "print('Welcome, Admin!')",
+        "else:",
+        "print('Invalid credentials')",
+        "if",
+        "and",
+        "then",
+        "or"
+    ]
+}

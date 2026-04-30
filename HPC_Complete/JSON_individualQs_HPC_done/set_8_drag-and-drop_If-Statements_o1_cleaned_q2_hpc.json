@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = -3",
+        "_____ x >= 0 _____",
+        "print(\"x is non-negative\")",
+        "_____ _____",
+        "print(\"x is negative\")",
+        "if",
+        "else",
+        ":",
+        "while"
+    ]
+}

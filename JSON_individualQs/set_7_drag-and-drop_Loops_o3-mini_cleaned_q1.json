@@ -1,0 +1,15 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword into the blank to complete the loop header that iterates over a range of numbers:\n__ i in range(5):",
+  "dragItems": [
+    "for",
+    "while",
+    "if"
+  ],
+  "dropZones": [
+    "Blank"
+  ],
+  "correctMapping": {
+    "Blank": "for"
+  }
+}

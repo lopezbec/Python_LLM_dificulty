@@ -1,0 +1,11 @@
+{
+  "question": "In the code snippet below, what will be printed?\n\n```python\nx = 5\ny = 5\nif x >= y:\n    print('x is greater or equal')\nelif x < y:\n    print('x is lesser')\n```",
+  "difficulty": 6,
+  "choices": {
+    "a": "x is lesser",
+    "b": "x is greater or equal",
+    "c": "Error",
+    "d": "Nothing"
+  },
+  "correct_answer": "b"
+}

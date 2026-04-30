@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Writing 'if (condition):' is valid syntax in Python and functions the same as 'if condition:'.",
+  "correct_answer": "True"
+}

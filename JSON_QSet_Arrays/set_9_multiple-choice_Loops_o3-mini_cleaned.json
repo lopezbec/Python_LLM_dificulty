@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following loop constructs is most commonly used to iterate over a sequence in Python?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do loop",
+      "repeat loop"
+    ],
+    "correct_answer": "for loop"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which keyword is used to exit a loop immediately in Python?",
+    "options": [
+      "break",
+      "exit",
+      "stop",
+      "return"
+    ],
+    "correct_answer": "break"
+  },
+  {
+    "difficulty": 3,
+    "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)\n\nChoose the option that best describes the printed output (each number printed on a new line).",
+    "options": [
+      "0 1 2",
+      "1 2 3",
+      "0 1 2 3",
+      "Error"
+    ],
+    "correct_answer": "0 1 2"
+  },
+  {
+    "difficulty": 4,
+    "question": "What is the role of the else clause in a Python loop?",
+    "options": [
+      "It is executed if the loop terminates normally (i.e., without encountering a break statement).",
+      "It is executed on every iteration of the loop.",
+      "It is executed only if a break statement is encountered within the loop.",
+      "It restarts the loop from the beginning."
+    ],
+    "correct_answer": "It is executed if the loop terminates normally (i.e., without encountering a break statement)."
+  },
+  {
+    "difficulty": 5,
+    "question": "Which loop construct is most appropriate in Python when the number of iterations is not predetermined?",
+    "options": [
+      "while loop",
+      "for loop",
+      "if-else statement",
+      "do-while loop"
+    ],
+    "correct_answer": "while loop"
+  },
+  {
+    "difficulty": 6,
+    "question": "Given the following code snippet:\n\ni = 0\nwhile i < 5:\n    if i == 3:\n        break\n    print(i)\n    i += 1\n\nWhat is the output when this code is executed?",
+    "options": [
+      "0 1 2",
+      "0 1 2 3",
+      "0 1 2 3 4",
+      "1 2 3"
+    ],
+    "correct_answer": "0 1 2"
+  },
+  {
+    "difficulty": 7,
+    "question": "Consider the following code snippet:\n\ncount = 0\nfor i in range(1, 10):\n    if i % 2 == 0:\n        continue\n    count += i\nprint(count)\n\nWhat value is printed?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correct_answer": "25"
+  },
+  {
+    "difficulty": 8,
+    "question": "Identify the error in the following code segment:\n\nfor i in range(5):\n    print(i)\n  else:\n    print(\"Done\")\n\nWhich of the following best explains the problem?",
+    "options": [
+      "The else clause is misaligned, causing an IndentationError.",
+      "A colon is missing after the for statement.",
+      "There is a runtime error because the loop is not properly closed.",
+      "No error exists; the code runs fine."
+    ],
+    "correct_answer": "The else clause is misaligned, causing an IndentationError."
+  },
+  {
+    "difficulty": 9,
+    "question": "Which of the following code snippets correctly prints all characters of the string 'Python' on a single line, separated by hyphens (with no trailing hyphen)?",
+    "options": [
+      "print(\"-\".join(\"Python\"))",
+      "for char in \"Python\":\n    print(char, end=\"-\")",
+      "for char in \"Python\":\n    print(char, end=\" \")",
+      "print(\"Python\".replace(\"\", \"-\"))"
+    ],
+    "correct_answer": "print(\"-\".join(\"Python\"))"
+  },
+  {
+    "difficulty": 10,
+    "question": "Consider the following nested loop code snippet:\n\nfor i in range(1, 4):\n    for j in range(i):\n        print(i, end=' ')\n    print()\n\nWhat is the output of this code?",
+    "options": [
+      "1\n2 2\n3 3 3",
+      "1\n2 2 2\n3 3 3 3",
+      "1 1 1\n2 2 2\n3 3 3",
+      "1 2 3\n1 2 3\n1 2 3"
+    ],
+    "correct_answer": "1\n2 2\n3 3 3"
+  }
+]

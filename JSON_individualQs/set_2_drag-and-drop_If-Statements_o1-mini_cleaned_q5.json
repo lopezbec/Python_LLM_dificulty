@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 5,
+  "question": "Drag the components to complete the `elif` structure in the following Python code.",
+  "options": [
+    "elif score >= 70:",
+    "    print(\"Good\")",
+    "if score >= 90:",
+    "    print(\"Excellent\")",
+    "elif score >= 80:",
+    "    print(\"Very Good\")",
+    "else:",
+    "    print(\"Needs Improvement\")"
+  ],
+  "correct_order": [
+    "if score >= 90:",
+    "    print(\"Excellent\")",
+    "elif score >= 80:",
+    "    print(\"Very Good\")",
+    "elif score >= 70:",
+    "    print(\"Good\")",
+    "else:",
+    "    print(\"Needs Improvement\")"
+  ]
+}

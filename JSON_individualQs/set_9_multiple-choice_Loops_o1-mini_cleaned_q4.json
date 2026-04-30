@@ -1,0 +1,11 @@
+{
+  "question": "Which statement is used to skip the current iteration and continue with the next one in a loop?",
+  "options": [
+    "break",
+    "pass",
+    "continue",
+    "exit"
+  ],
+  "answer": "continue",
+  "difficulty": 4
+}

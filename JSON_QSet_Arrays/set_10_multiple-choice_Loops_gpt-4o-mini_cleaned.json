@@ -1,0 +1,111 @@
+[
+  {
+    "question": "What is the output of the following code? \n\nfor i in range(3): \n    print(i)",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "0\n1\n2"
+    ],
+    "answer": "0\n1\n2",
+    "difficulty": 1
+  },
+  {
+    "question": "Which loop is guaranteed to execute at least once? \n\nA. for loop \nB. while loop \nC. do-while loop \nD. None of the above",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "question": "What will the following code print? \n\nsum = 0 \nfor i in range(5): \n    sum += i \nprint(sum)",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "10",
+    "difficulty": 3
+  },
+  {
+    "question": "In Python, which loop is most suitable for iterating over a list? \n\nA. for loop \nB. while loop \nC. none of the above",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A",
+    "difficulty": 4
+  },
+  {
+    "question": "What will the following code output? \n\nfor i in range(4): \n    if i == 2: \n        break \n    print(i)",
+    "options": [
+      "0\n1\n2",
+      "0\n1",
+      "0\n1\n2\n3",
+      "2"
+    ],
+    "answer": "0\n1",
+    "difficulty": 5
+  },
+  {
+    "question": "What does the 'continue' statement do in a loop? \n\nA. Exits the entire loop \nB. Skips to the next iteration \nC. Stops the program \nD. None of the above",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "B",
+    "difficulty": 6
+  },
+  {
+    "question": "How many times will the following code execute the print statement? \n\ncount = 0 \nwhile count < 3: \n    print(count) \n    count += 1",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "Infinite"
+    ],
+    "answer": "3",
+    "difficulty": 7
+  },
+  {
+    "question": "What is the result of the following code? \n\nfor i in range(1, 10, 2): \n    print(i, end=' ')",
+    "options": [
+      "1 2 3 4 5 6 7 8 9",
+      "1 3 5 7 9",
+      "2 4 6 8",
+      "0 2 4 6 8"
+    ],
+    "answer": "1 3 5 7 9",
+    "difficulty": 8
+  },
+  {
+    "question": "Which of the following loops can be infinite? \n\nA. for loop \nB. while loop \nC. Both A and B \nD. None of the above",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C",
+    "difficulty": 9
+  },
+  {
+    "question": "What will be the output of the following code? \n\nfor i in range(3): \n    for j in range(2): \n        print(i, j)",
+    "options": [
+      "(0,0)\n(0,1)\n(1,0)\n(1,1)\n(2,0)\n(2,1)",
+      "(0,0)\n(1,0)\n(2,0)\n(0,1)\n(1,1)\n(2,1)",
+      "0\n1\n2\n0\n1",
+      "None"
+    ],
+    "answer": "(0,0)\n(0,1)\n(1,0)\n(1,1)\n(2,0)\n(2,1)",
+    "difficulty": 10
+  }
+]

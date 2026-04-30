@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "questionType": "drag-and-drop",
+  "question": "Complete the code to print 'Found!' if 'B' is an element of the list items. Use the membership operator.",
+  "codeSnippet": "items = ['A', 'B', 'C']\nif 'B' ___ items:\n    print('Found!')",
+  "draggables": [
+    "in",
+    "not",
+    "else"
+  ],
+  "correctDrops": [
+    "in"
+  ],
+  "explanation": "The 'in' operator checks if an element is a member of a collection, making 'Found!' print when 'B' is in items."
+}

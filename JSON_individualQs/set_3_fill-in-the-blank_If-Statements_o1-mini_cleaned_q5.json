@@ -1,0 +1,5 @@
+{
+  "level": 5,
+  "question": "Fill in the blank to add an else clause to the if statement:\n\nif x > y:\n    print(\"x is greater\")\n____:\n    print(\"y is greater or equal\")",
+  "answer": "else"
+}

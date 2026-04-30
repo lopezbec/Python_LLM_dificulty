@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "True or False: In Python, if an if statement references an undefined variable in its condition, the condition automatically evaluates to False without causing a runtime error.",
+  "correct_answer": false
+}

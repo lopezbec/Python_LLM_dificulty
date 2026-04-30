@@ -1,0 +1,6 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank to complete the if-elif chain given a score:\n\nif score >= 90:\n    print('A')\nelif ______:\n    print('B')\n\n(Hint: The condition should check for scores in the 80s.)",
+  "answer": "score >= 80"
+}

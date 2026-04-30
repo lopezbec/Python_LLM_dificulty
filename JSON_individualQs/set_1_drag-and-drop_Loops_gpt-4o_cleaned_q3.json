@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Arrange the code to calculate the factorial of a number `n` using a for loop.",
+  "choices": [
+    "factorial = 1",
+    "for i in range(1, n+1):",
+    "    factorial *= i",
+    "n = 5"
+  ],
+  "answer": [
+    "n = 5",
+    "factorial = 1",
+    "for i in range(1, n+1):",
+    "    factorial *= i"
+  ]
+}

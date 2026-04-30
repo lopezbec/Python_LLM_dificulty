@@ -1,0 +1,11 @@
+{
+  "question": "Which condition will cause the following code to print 'Hello'?\n\nx = 8\nif x < 5:\n    print('Hello')\nelif x == 8:\n    print('World')\nelse:\n    print('Test')",
+  "options": [
+    "x < 5",
+    "x == 8",
+    "x > 10",
+    "x == 0"
+  ],
+  "correct_answer": "x == 8",
+  "difficulty": 5
+}

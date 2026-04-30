@@ -1,0 +1,11 @@
+{
+  "question": "What will be printed when this code runs? \n\n```python\nx = '5'\nif int(x) == 5:\n    print('Five')\nelse:\n    print('Not Five')\n```",
+  "options": [
+    "Five",
+    "Not Five",
+    "Error",
+    "No output"
+  ],
+  "correct_answer": "Five",
+  "difficulty": 8
+}

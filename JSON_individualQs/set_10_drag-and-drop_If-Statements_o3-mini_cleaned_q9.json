@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Drag and drop the correct keywords and operator to complete a nested if-else structure that distinguishes between positive even, positive odd, and non-positive values of 'x'.",
+  "codeSnippet": "____ x > 0:\n    if x % 2 ____ 0:\n        print('Positive even')\n    ____:\n        print('Positive odd')\n____:\n    print('Non-positive')",
+  "dragItems": [
+    "if",
+    "==",
+    "else",
+    "else"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3",
+    "drop4"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "==",
+    "drop3": "else",
+    "drop4": "else"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Drag and drop to make a generator expression within a for loop:\n`def generator(n):`\n` for i in ___:`\n` yield i`",
+  "options": [
+    "range(n)",
+    "[i for i in range(n)]",
+    "(x for x in range(n))",
+    "list(range(n))"
+  ],
+  "correctOption": "range(n)"
+}

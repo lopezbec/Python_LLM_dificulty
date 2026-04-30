@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, indentation is not important when writing the body of an 'if' statement.",
+  "answer": false,
+  "difficulty": 4,
+  "topic": "if-statements"
+}

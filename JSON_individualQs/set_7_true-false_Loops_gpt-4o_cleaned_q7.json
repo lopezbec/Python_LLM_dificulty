@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In Python, all iterables support index access, allowing them to be used directly in 'for' loops with indexing.",
+  "answer": false
+}

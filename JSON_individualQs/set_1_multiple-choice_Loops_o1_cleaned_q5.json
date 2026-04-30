@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which of these statements is true about iterating over dictionaries using a for loop in Python?",
+  "options": {
+    "A": "A for loop can directly iterate over the dictionary's values by default",
+    "B": "A for loop can directly iterate over only the dictionary's keys by default",
+    "C": "A for loop can iterate over both keys and values by default",
+    "D": "A for loop cannot iterate over dictionaries by default"
+  },
+  "correctAnswer": "B"
+}

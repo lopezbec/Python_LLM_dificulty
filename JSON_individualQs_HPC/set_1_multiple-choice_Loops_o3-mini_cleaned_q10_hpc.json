@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "def generator():",
+        "for i in range(3):",
+        "yield i",
+        "for value in generator():",
+        "if value == 1:",
+        "break",
+        "else:",
+        "print('Completed')"
+    ]
+}

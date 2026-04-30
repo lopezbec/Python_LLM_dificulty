@@ -1,0 +1,16 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blanks to use a list comprehension inside a loop to generate a list of squares of even numbers up to 10.",
+  "code": "squares = [i**2 for i in <blank> if <blank>]\nprint(squares)",
+  "options": [
+    "range(11)",
+    "range(10)",
+    "range(1, 11, 2)",
+    "i % 2 == 0",
+    "i % 2 != 0"
+  ],
+  "correct_answer": [
+    "range(11)",
+    "i % 2 == 0"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Which built-in function in Python generates a sequence of integers up to (but not including) a specified number for use in a for loop?",
+  "difficulty": 3,
+  "choices": [
+    "A) list()",
+    "B) range()",
+    "C) sequence()",
+    "D) enumerate()"
+  ],
+  "correct_answer": "B"
+}

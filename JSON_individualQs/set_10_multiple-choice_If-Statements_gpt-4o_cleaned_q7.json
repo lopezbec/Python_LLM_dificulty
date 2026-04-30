@@ -1,0 +1,10 @@
+{
+  "question": "7. What will be the output of the following code?\n\n```python\nx = 10\ny = 8\nif x > 5:\n    if y < 10:\n        print('Both conditions met')\n    else:\n        print('Second condition not met')\nelse:\n    print('First condition not met')\n```\n",
+  "options": [
+    "A) Both conditions met",
+    "B) Second condition not met",
+    "C) First condition not met",
+    "D) Error"
+  ],
+  "answer": "A"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In Python, you can loop through the keys of a dictionary using a 'for' loop with 'dict.keys()'.",
+  "answer": true
+}

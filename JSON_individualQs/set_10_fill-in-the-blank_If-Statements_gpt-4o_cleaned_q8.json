@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "The indentation level is crucial in Python. After an if condition, all subsequent lines must be indented by the same number of ___ to be included in the block.",
+  "answer": "spaces"
+}

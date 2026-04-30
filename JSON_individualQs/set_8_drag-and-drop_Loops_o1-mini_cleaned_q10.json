@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Sequence the steps to optimize a loop that searches for a specific value in a large dataset using a `for` loop with a `break` statement.",
+  "options": [
+    "Initialize the dataset and target value",
+    "Start `for` loop to iterate over dataset",
+    "Check if current element matches target",
+    "If match found, perform desired action",
+    "Use `break` to exit loop immediately after finding the match",
+    "Handle case where target is not found after loop ends"
+  ],
+  "correct_order": [
+    "Initialize the dataset and target value",
+    "Start `for` loop to iterate over dataset",
+    "Check if current element matches target",
+    "If match found, perform desired action",
+    "Use `break` to exit loop immediately after finding the match",
+    "Handle case where target is not found after loop ends"
+  ]
+}

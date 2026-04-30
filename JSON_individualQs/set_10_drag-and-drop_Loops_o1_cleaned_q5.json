@@ -1,0 +1,23 @@
+{
+  "question": "Drag and drop the code blocks to search for the number 7 in a list and break out of the loop when found.",
+  "question_type": "drag-and-drop",
+  "difficulty": 5,
+  "instructions": "Arrange the blocks so that 'Found 7' is printed once 7 is located, then exit the loop, and finally print 'End of loop'.",
+  "code_blocks": [
+    "print('End of loop')",
+    "if n < 7: continue",
+    "break",
+    "numbers = [3, 5, 7, 9]",
+    "if n == 7:",
+    "for n in numbers:",
+    "print('Found 7')"
+  ],
+  "correct_order": [
+    "numbers = [3, 5, 7, 9]",
+    "for n in numbers:",
+    "if n == 7:",
+    "print('Found 7')",
+    "break",
+    "print('End of loop')"
+  ]
+}

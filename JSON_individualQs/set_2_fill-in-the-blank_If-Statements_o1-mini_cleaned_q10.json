@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: Complete the following code to check if a number is between 10 and 20.\n\n```python\nnumber = 15\nif number > 10 and number < 20 ____\n    print(\"Number is between 10 and 20\")\nelse ____\n    print(\"Number is not in the range\")\n```",
+  "answer": ":\n    :",
+  "difficulty": 10
+}

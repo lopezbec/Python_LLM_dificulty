@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "[x**2 for x in range(5)]",
+        "[x*2 for x in range(5)]",
+        "list(x**2 for x in range(5))"
+    ]
+}

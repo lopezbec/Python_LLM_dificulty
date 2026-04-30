@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, a loop that iterates over a dictionary values can be achieved by using the _____ method.",
+  "answer": "values"
+}

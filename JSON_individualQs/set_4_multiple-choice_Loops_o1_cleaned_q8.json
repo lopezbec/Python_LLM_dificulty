@@ -1,0 +1,11 @@
+{
+  "question": "Which statement about the 'break' and 'continue' keywords in Python is correct?",
+  "difficulty": 8,
+  "options": [
+    "A. 'break' continues to the next iteration, while 'continue' stops the loop entirely.",
+    "B. 'break' ends only the current iteration, while 'continue' terminates the loop entirely.",
+    "C. 'break' terminates the loop entirely, while 'continue' only skips the current iteration.",
+    "D. Both 'break' and 'continue' skip the remaining iterations of the loop."
+  ],
+  "answer": "C"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "questionType": "drag-and-drop",
+  "question": "Drag the correct keywords to create a nested if statement checking if num is positive and divisible by 3.",
+  "codeSnippet": "num = 9\n___ num > 0:\n    ___ num % 3 == 0:\n        print('Positive and divisible by 3')",
+  "draggables": [
+    "if",
+    "for",
+    "else",
+    "if"
+  ],
+  "correctDrops": [
+    "if",
+    "if"
+  ],
+  "explanation": "Use 'if' to check if num is positive, and a nested 'if' statement to check if it is also divisible by 3."
+}

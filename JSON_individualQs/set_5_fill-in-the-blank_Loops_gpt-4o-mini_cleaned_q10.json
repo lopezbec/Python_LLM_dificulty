@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "To iterate over elements in a dictionary, one can loop through its ___ or use methods like items() or keys().",
+  "answer": "keys"
+}

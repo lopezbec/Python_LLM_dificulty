@@ -1,0 +1,6 @@
+{
+  "difficulty": 3,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: Every if-statement in Python must end its header with a ____.",
+  "answer": "colon"
+}

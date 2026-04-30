@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "x = 9",
+        "_____ x > 0 _____",
+        "print(\"x is positive\")",
+        "_____ x % 3 == 0 _____",
+        "print(\"x is also a multiple of 3\")",
+        "else:",
+        "print(\"x is not positive\")",
+        "if",
+        "elif",
+        "else",
+        ":",
+        "for",
+        "and"
+    ]
+}

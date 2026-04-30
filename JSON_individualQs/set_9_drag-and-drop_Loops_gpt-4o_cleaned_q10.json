@@ -1,0 +1,13 @@
+{
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Complete this program that uses list comprehension with a condition to filter and square only odd numbers from 1 to 10.",
+  "code_block": "squares = [x**2 ___ x in range(1, 11) if x%2 != 0]",
+  "options": [
+    "for",
+    "while",
+    "within"
+  ],
+  "correct_answer": "for"
+}

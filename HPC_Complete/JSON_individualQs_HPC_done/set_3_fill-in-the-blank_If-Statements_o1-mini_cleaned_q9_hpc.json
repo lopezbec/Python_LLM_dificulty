@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "result = \"Pass\" if score >= 50 else ____"
+    ]
+}

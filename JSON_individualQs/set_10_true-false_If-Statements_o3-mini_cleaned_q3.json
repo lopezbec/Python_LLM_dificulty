@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Python's if statements cannot combine multiple conditions with logical operators like 'and' or 'or'.",
+  "answer": false
+}

@@ -1,0 +1,10 @@
+{
+  "difficulty": 9,
+  "question": "Complete the following logical expression in the if statement: \nif (x > 5 _______ y < 10) { print('Valid'); }",
+  "drops": [
+    "&&",
+    "||",
+    "and"
+  ],
+  "correct": "and"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What is the purpose of the 'elif' keyword in an if statement?",
+  "options": [
+    "It indicates an alternative condition to check if the previous condition is False.",
+    "It ends the if-statement.",
+    "It creates a loop for the if-statement.",
+    "It is used to express a logical NOT."
+  ],
+  "answer": "It indicates an alternative condition to check if the previous condition is False."
+}

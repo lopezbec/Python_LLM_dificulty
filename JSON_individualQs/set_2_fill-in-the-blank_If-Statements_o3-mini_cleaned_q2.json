@@ -1,0 +1,6 @@
+{
+  "difficulty": 2,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To check for equality in an if-statement, you must use the operator ____.",
+  "answer": "=="
+}

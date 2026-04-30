@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "question": "If an exception is raised in the condition of an if-statement, the else clause will still execute.",
+  "difficulty": 9,
+  "type": "True/False"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: To iterate over both the index and value of a list in a for loop, the ____ function is commonly used.",
+  "answer": "enumerate",
+  "difficulty": 7
+}

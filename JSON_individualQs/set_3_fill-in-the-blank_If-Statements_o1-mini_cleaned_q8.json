@@ -1,0 +1,5 @@
+{
+  "level": 8,
+  "question": "Complete the if statement to check multiple conditions using a logical AND operator:\n\nif age >= 18 ____ citizen == True:\n    print(\"Eligible to vote\")",
+  "answer": "and"
+}

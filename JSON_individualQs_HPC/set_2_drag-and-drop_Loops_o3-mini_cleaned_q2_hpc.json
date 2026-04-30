@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for i in ______:",
+        "range(3)",
+        "while True"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "squares = [x**2 for x in ___(10)]",
+        "range",
+        "list",
+        "tuple"
+    ]
+}

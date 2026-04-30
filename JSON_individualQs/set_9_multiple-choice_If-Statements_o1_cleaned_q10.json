@@ -1,0 +1,12 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following is a valid one-line if statement in Python that prints 'Positive' if x is greater than 0, otherwise prints 'Non-positive'?",
+  "options": [
+    "print('Positive') if x > 0 else print('Non-positive')",
+    "if x > 0 ? print('Positive') : print('Non-positive')",
+    "print('Positive' if x > 0) else ('Non-positive')",
+    "if x > 0: print('Positive') else: print('Non-positive')"
+  ],
+  "correctAnswer": "print('Positive') if x > 0 else print('Non-positive')",
+  "explanation": "Python supports a ternary conditional expression in the form: <expression1> if <condition> else <expression2>."
+}

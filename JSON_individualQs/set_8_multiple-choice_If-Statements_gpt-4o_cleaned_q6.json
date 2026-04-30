@@ -1,0 +1,13 @@
+{
+  "difficulty": 6,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "What will be printed by the code below?\n\n```\nval = 10\nif val > 5:\n    print('A')\n    if val < 15:\n        print('B')\nelse:\n    print('C')\n```\n",
+  "options": [
+    "A",
+    "B",
+    "A B",
+    "C"
+  ],
+  "correct_answer": "A B"
+}

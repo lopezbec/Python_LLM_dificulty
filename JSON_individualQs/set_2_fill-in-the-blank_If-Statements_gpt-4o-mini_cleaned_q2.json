@@ -1,0 +1,5 @@
+{
+  "question": "To check if a variable 'x' is equal to 10, you would write: if x ___ 10:",
+  "answer": "==",
+  "difficulty": 2
+}

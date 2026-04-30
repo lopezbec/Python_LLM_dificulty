@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "What is the output of the following code?\n\n```python\nnumbers = [1, 2, 3, 4]\nresult = 0\nfor num in numbers:\n    if num % 2 == 0:\n        continue\n    result += num\nprint(result)\n```",
+  "options": [
+    "6",
+    "4",
+    "10",
+    "2"
+  ],
+  "correct_answer": "4"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: To iterate over two (or more) sequences in parallel within a for loop, you make use of the ______ function.",
+  "answer": "zip"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "def check_number(n):\n    ___ n > 0:\n        return 'Positive'\n    ___ n == 0:\n        return 'Zero'\n    ___:\n        return 'Negative'",
+        "if",
+        "elif",
+        "else"
+    ]
+}

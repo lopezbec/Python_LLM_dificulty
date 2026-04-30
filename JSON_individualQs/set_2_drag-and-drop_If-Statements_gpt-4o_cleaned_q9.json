@@ -1,0 +1,18 @@
+{
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Use the blanks to create an if-elif-else statement checking whether the 'value' is a positive, negative, or zero.",
+  "code": "value = 0\nif ______ > 0:\n    print('Positive')\n______ value < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+  "options": [
+    "value",
+    "elif",
+    "==",
+    "=",
+    "else"
+  ],
+  "correct": [
+    "value",
+    "elif"
+  ]
+}

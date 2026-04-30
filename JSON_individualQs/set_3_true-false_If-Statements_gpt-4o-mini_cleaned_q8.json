@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "An if-statement can have several elif clauses, but only one else clause.",
+  "answer": true
+}

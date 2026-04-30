@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank with the correct loop keyword to repeatedly run code as long as x < 3:\n\nx = 0\n________ x < 3:\n    x += 1\n    print(x)",
+  "answer": "while"
+}

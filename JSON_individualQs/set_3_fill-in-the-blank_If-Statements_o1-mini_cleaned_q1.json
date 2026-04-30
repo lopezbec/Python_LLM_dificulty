@@ -1,0 +1,5 @@
+{
+  "level": 1,
+  "question": "Fill in the blank to complete the basic if statement syntax in Python:\n\nif ____:\n    print(\"Condition is True\")",
+  "answer": "condition"
+}

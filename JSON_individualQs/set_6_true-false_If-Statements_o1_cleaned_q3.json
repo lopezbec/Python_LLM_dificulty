@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The keyword 'elif' stands for 'else if' in Python, allowing multiple conditions to be checked in sequence.",
+  "correct_answer": "True"
+}

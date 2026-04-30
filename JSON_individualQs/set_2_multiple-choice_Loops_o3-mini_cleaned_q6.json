@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "In Python, what is the purpose of the 'else' clause in a loop (for or while)?",
+  "options": {
+    "A": "It runs after each iteration regardless of conditions.",
+    "B": "It runs when the loop terminates normally (i.e., when the condition becomes false without a break).",
+    "C": "It runs only if a break statement is encountered.",
+    "D": "It never runs."
+  },
+  "correctAnswer": "B"
+}

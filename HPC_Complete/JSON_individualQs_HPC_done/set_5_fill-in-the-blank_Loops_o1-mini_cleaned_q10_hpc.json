@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "gen = (x for x in range(3))",
+        "while True:",
+        "try:",
+        "value = ____(gen)",
+        "print(value)",
+        "except StopIteration:",
+        "break",
+        "gen"
+    ]
+}

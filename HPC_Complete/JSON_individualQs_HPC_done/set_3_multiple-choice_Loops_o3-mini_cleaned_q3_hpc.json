@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "while",
+        "while True",
+        "while False",
+        "for True",
+        "if True"
+    ]
+}

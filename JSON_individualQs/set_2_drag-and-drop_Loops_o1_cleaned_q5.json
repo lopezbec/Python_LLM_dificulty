@@ -1,0 +1,13 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "question": "Drag the keyword that makes the loop skip printing the number 2.",
+  "codeSnippet": "for i in range(5):\n    if i == 2:\n        ???\n    print(i)",
+  "options": [
+    "break",
+    "pass",
+    "skip",
+    "continue"
+  ],
+  "correctAnswer": "continue"
+}

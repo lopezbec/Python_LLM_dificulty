@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which keyword is used to iterate over the elements of a sequence in Python?",
+    "options": {
+      "A": "for",
+      "B": "if",
+      "C": "while",
+      "D": "switch"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)",
+    "options": {
+      "A": "0 1 2",
+      "B": "1 2 3",
+      "C": "0 1 2 3",
+      "D": "1 2 3 4"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which loop is best used when the number of iterations is not known in advance?",
+    "options": {
+      "A": "for loop",
+      "B": "while loop",
+      "C": "do-while loop",
+      "D": "repeat-until loop"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "difficulty": 4,
+    "question": "Given the following code:\n\ni = 0\nwhile i < 5:\n    i += 1\n    if i == 3:\n        continue\n    print(i)\n\nWhat output does this code produce?",
+    "options": {
+      "A": "0, 1, 2, 3, 4",
+      "B": "1, 2, 3, 4, 5",
+      "C": "1, 2, 4, 5",
+      "D": "2, 3, 4, 5"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "difficulty": 5,
+    "question": "Consider the following nested loop:\n\nfor i in range(2):\n    for j in range(3):\n        print(i, j)\n\nHow many total lines will be printed?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "9"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "difficulty": 6,
+    "question": "In Python, what is the purpose of the 'else' clause in a loop (for or while)?",
+    "options": {
+      "A": "It runs after each iteration regardless of conditions.",
+      "B": "It runs when the loop terminates normally (i.e., when the condition becomes false without a break).",
+      "C": "It runs only if a break statement is encountered.",
+      "D": "It never runs."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "difficulty": 7,
+    "question": "Given the code below, what will be the value of 'count' at the end?\n\ncount = 0\nfor num in range(1, 10, 2):\n    count += num\nprint(count)",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "difficulty": 8,
+    "question": "In the following code:\n\ni = 1\nwhile i < 100:\n    i *= 2\nelse:\n    print('Done')\n\nUnder what condition is the else block executed?",
+    "options": {
+      "A": "Only when i equals 100 exactly.",
+      "B": "Only when a break statement is executed in the loop.",
+      "C": "When the loop condition becomes false without encountering a break.",
+      "D": "When i is incremented by 2."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "difficulty": 9,
+    "question": "Which loop construct in Python is generally preferred when processing an infinite iterator (or generator) that does not have a definite endpoint and must be terminated using a break statement?",
+    "options": {
+      "A": "for loop",
+      "B": "while loop",
+      "C": "do-while loop",
+      "D": "repeat loop"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "difficulty": 10,
+    "question": "Examine the following code snippet:\n\nresult = 0\nfor i in range(5):\n    j = 0\n    while j < i:\n        result += 1\n        j += 1\nprint(result)\n\nWhat is the final output, and why does this nested loop structure yield that result?",
+    "options": {
+      "A": "10, because the inner loop adds numbers from 0 to i-1 for each i, resulting in a total sum of 10.",
+      "B": "5, because only the outer loop runs effectively.",
+      "C": "15, because the nested loop doubles the count in each iteration.",
+      "D": "20, due to the multiplication of loop indices."
+    },
+    "correctAnswer": "A"
+  }
+]

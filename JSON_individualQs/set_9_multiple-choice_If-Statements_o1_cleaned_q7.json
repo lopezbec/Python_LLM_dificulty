@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "question": "Given the code:\n\nx = 8\nif x > 0:\n    if x < 10:\n        print(\"Single digit positive number\")\n    else:\n        print(\"Multiple digit positive number\")\nelse:\n    print(\"Negative number\")\n\nWhat will be printed if x is 8?",
+  "options": [
+    "Single digit positive number",
+    "Multiple digit positive number",
+    "Negative number",
+    "No output"
+  ],
+  "correctAnswer": "Single digit positive number",
+  "explanation": "x=8 is greater than 0 and also less than 10, so the nested if condition prints 'Single digit positive number'."
+}

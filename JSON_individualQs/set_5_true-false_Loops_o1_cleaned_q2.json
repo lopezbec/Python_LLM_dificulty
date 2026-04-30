@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "A 'while' loop continues to run as long as its condition is True and stops when the condition becomes False.",
+  "correctAnswer": "True"
+}

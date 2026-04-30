@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "You can stop a loop prematurely using the 'break' statement.",
+  "correct_answer": true
+}

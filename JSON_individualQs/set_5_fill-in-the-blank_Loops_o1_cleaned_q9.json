@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: The built-in function ______ returns both the index and the value of each element in an iterable during a for loop.",
+  "correct_answer": "enumerate"
+}

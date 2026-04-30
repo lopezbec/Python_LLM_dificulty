@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to skip the current iteration and continue with the next one in a for loop:\n\nfor char in 'python':\n    if char == 'h':\n        ____\n    print(char)",
+  "answer": "continue"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "x = 3",
+        "result = \"Positive\" if x > 0 else \"Non-positive\"",
+        "print(result)",
+        "x > 0"
+    ]
+}

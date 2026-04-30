@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "When iterating over a dictionary, what does the 'items()' method return?",
+  "options": [
+    "A) A list of keys",
+    "B) A list of values",
+    "C) A list of key-value tuples",
+    "D) A single key-value pair"
+  ],
+  "correct_answer": "C) A list of key-value tuples"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "question": "Fill in the blank to handle multiple conditions with elif:\n\nif temperature > 30:\n    weather = 'Hot'\nelif temperature > 20:\n    weather ___ 'Warm'\nelse:\n    weather = 'Cold'",
+  "answer": "=",
+  "difficulty": 6
+}

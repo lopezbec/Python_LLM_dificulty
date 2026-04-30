@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "Arrange the following code blocks to create a loop that iterates through a dictionary and prints its keys and values.",
+  "options": [
+    "for key in my_dict:",
+    "for key, value in ___:",
+    "print(key, value)",
+    "my_dict.items()"
+  ],
+  "answer": [
+    "for key, value in my_dict.items():",
+    "    print(key, value)"
+  ]
+}

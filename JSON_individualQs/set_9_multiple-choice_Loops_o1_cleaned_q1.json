@@ -1,0 +1,13 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "type": "multiple-choice",
+  "question": "Which keyword is used to repeatedly execute a block of code a fixed number of times in Python?",
+  "options": [
+    "A) repeat",
+    "B) for",
+    "C) loop",
+    "D) iterate"
+  ],
+  "correct_answer": "B"
+}

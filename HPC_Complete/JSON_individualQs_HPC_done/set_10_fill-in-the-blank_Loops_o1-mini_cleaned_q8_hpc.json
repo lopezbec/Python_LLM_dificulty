@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "enumerate",
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for index, fruit in ___(fruits):",
+        "print(index, fruit)"
+    ]
+}

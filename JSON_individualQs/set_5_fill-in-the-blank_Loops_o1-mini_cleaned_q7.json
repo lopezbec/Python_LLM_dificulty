@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to add an else clause to a for loop that executes when the loop completes without a break:\n\nfor item in items:\n    if item == target:\n        break\nelse:\n    print(\"____\")",
+  "answer": "Not found"
+}

@@ -1,0 +1,18 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "question": "Arrange the lines to create a while loop that prints numbers 0, 1, and 2, then stops. Drag each line into the correct order.",
+  "dragItems": [
+    "print(num)",
+    "while num < 3:",
+    "num = 0",
+    "num += 1"
+  ],
+  "correctOrder": [
+    "num = 0",
+    "while num < 3:",
+    "print(num)",
+    "num += 1"
+  ],
+  "explanation": "First initialize num to 0, then run while num < 3, printing num, and finally incrementing num."
+}

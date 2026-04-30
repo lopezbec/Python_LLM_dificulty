@@ -1,0 +1,5 @@
+{
+  "question": "In Python, it is not possible to have an if statement inside another if statement (i.e., nested if statements).",
+  "difficulty": 6,
+  "answer": false
+}

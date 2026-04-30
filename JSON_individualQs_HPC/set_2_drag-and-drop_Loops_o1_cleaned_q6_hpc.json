@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "n = 7\nfor i in range(2, n):\n    if n % i == 0:\n        print('Not prime')\n        break\n???:\n    print('Prime')",
+        "for",
+        "break",
+        "else",
+        "finally",
+        "elif",
+        "except"
+    ]
+}

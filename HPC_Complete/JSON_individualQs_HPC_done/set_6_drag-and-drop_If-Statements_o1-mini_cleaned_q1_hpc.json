@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "____ temperature > 30:",
+        "print(\"It's a hot day.\")",
+        "If",
+        "Else",
+        "Elif",
+        "While"
+    ]
+}

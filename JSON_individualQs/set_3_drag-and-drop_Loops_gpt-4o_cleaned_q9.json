@@ -1,0 +1,10 @@
+{
+  "difficulty": 9,
+  "topic": "Loops",
+  "question": "Complete the code to break out of a loop when 'stop' is encountered in the list.",
+  "code": "words = ['go', 'stop', 'proceed']\nfor word in words:\n    if word == '___':\n        ___\n    print(word)",
+  "drag_and_drop_options": [
+    "stop",
+    "break"
+  ]
+}

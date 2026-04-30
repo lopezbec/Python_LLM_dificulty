@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "numbers",
+        "numbers = [10, 12, -2, 8]",
+        "if ( any(n > 0 for n in numbers) and ___(10 in numbers) ):",
+        "any",
+        "all",
+        "not",
+        "all not"
+    ]
+}

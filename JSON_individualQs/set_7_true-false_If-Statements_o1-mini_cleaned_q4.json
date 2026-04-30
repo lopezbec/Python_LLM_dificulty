@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "question": "Python allows multiple if statements at the same indentation level to act as alternate conditions without using elif or else.",
+  "difficulty": 4,
+  "answer": false
+}

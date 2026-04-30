@@ -1,0 +1,19 @@
+{
+  "difficulty": 5,
+  "question": "Arrange the following lines of code to create an if-elif-else statement that checks the variable 'grade'. If it's 'A', print 'Excellent', if 'B', print 'Good', else print 'Needs Improvement'.",
+  "code_fragments": [
+    "print('Needs Improvement')",
+    "elif grade == 'B':",
+    "if grade == 'A':",
+    "print('Excellent')",
+    "print('Good')"
+  ],
+  "correct_order": [
+    "if grade == 'A':",
+    "print('Excellent')",
+    "elif grade == 'B':",
+    "print('Good')",
+    "else:",
+    "print('Needs Improvement')"
+  ]
+}

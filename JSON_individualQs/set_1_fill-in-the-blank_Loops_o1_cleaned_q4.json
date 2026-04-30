@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "type": "fill-in-the-blank",
+  "difficulty": 4,
+  "question": "The '______' statement can be used to skip the current iteration of a loop and continue with the next one.",
+  "correct_answer": "continue"
+}

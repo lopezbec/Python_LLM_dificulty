@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "question_type": "drag-and-drop",
+  "question": "Identify the misplaced keyword that belongs outside the loop.",
+  "code": "___\nfor i in range(3):\n    print(i)\n    pass",
+  "options": [
+    "pass",
+    "continue",
+    "break"
+  ],
+  "correct_option": "pass"
+}

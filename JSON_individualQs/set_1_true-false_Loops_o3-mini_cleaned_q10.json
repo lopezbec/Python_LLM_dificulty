@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When iterating directly over a dictionary using a for loop, the loop will automatically iterate over the dictionary's values.",
+  "answer": "False"
+}

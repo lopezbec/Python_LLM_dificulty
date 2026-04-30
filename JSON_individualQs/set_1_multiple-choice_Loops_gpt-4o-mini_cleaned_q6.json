@@ -1,0 +1,11 @@
+{
+  "question": "What will be printed by the following code? `for i in range(2): for j in range(2): print(i, j)`",
+  "options": [
+    "0 0, 0 1, 1 0, 1 1",
+    "0 0, 1 0",
+    "0 0, 0 1, 1 0",
+    "0 0, 0 1, 1 1"
+  ],
+  "correctAnswer": "0 0, 0 1, 1 0, 1 1",
+  "difficulty": 6
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank: In a for loop iterating over a list, the loop variable automatically takes on the value of each ______ in the list.",
+  "answer": "element"
+}

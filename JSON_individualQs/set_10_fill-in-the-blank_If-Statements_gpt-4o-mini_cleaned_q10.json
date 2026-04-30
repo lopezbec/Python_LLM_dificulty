@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Using an if-statement, if the condition is (x > 10) and you want to check if x is also less than 20, you would write: 'if (x > 10) _____ (x < 20):'",
+  "correct_answer": "and",
+  "options": [
+    "or",
+    "not",
+    "and",
+    "xor"
+  ]
+}

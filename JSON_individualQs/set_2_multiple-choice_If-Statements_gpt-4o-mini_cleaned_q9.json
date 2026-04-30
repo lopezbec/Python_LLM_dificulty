@@ -1,0 +1,11 @@
+{
+  "question": "Given the following code, what will be printed?\n\nvalue = 10\nif value % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+  "options": [
+    "Even",
+    "Odd",
+    "Neither",
+    "Both"
+  ],
+  "answer": "Even",
+  "difficulty": 9
+}

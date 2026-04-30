@@ -1,0 +1,11 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank in this condition to check if 'key' is not in dictionary 'd': if ______ key in d: print('Key not found')",
+  "correct_answer": "not",
+  "incorrect_answers": [
+    "elif",
+    "else",
+    "or"
+  ]
+}

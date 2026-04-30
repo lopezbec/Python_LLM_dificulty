@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "The keyword ______ is used to skip the current iteration of a loop and continue with the next iteration.",
+  "correct_answer": "continue"
+}

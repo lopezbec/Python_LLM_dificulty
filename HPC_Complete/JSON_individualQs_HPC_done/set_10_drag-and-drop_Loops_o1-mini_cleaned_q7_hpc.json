@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "List Comprehension",
+        "Nested Loop",
+        "Creates a new list based on existing lists.",
+        "Loops within loops to handle multi-dimensional data."
+    ]
+}

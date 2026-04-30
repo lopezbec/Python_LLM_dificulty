@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which built-in function in Python allows you to loop through a list while also retrieving both index and value?",
+  "options": [
+    "map()",
+    "enumerate()",
+    "range()",
+    "zip()"
+  ],
+  "correct_answer": "enumerate()"
+}

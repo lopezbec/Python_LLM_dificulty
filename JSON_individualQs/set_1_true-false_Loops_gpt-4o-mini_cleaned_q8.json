@@ -1,0 +1,5 @@
+{
+  "question": "The 'else' clause can be applied to a loop that executes after the loop finishes and no 'break' is encountered.",
+  "answer": true,
+  "difficulty": 8
+}

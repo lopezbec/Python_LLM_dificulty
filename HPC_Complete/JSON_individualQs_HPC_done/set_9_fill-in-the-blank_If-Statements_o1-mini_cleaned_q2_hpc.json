@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if y ____ 0:",
+        "print(\"y is not zero.\")",
+        "y"
+    ]
+}

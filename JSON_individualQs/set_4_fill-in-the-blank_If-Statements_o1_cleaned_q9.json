@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question_text": "Fill in the blank to check if 'choice' appears within the list ['start', 'stop']:\nif choice ______ ['start', 'stop']:\n    print(\"Valid choice\")",
+  "correct_answer": "in"
+}

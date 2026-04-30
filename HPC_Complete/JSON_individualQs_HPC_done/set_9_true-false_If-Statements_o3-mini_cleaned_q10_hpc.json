@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "a and b or c",
+        "((a and b) or c)"
+    ]
+}

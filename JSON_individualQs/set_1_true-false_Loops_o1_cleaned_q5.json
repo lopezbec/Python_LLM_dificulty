@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Is it true that Python's 'else' clause in a loop executes only if the loop finishes without a 'break' statement?",
+  "answer": "True"
+}

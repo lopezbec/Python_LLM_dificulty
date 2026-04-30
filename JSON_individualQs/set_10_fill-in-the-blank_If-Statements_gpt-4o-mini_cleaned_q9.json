@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "In Python, the _____ statement can be used to exit if-statements prematurely based on a condition.",
+  "correct_answer": "break",
+  "options": [
+    "exit",
+    "continue",
+    "break",
+    "stop"
+  ]
+}

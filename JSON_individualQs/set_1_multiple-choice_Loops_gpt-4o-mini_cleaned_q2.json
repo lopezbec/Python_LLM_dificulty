@@ -1,0 +1,11 @@
+{
+  "question": "Which keyword is used to create a loop in Python?",
+  "options": [
+    "loop",
+    "while",
+    "for",
+    "iterate"
+  ],
+  "correctAnswer": "for",
+  "difficulty": 2
+}

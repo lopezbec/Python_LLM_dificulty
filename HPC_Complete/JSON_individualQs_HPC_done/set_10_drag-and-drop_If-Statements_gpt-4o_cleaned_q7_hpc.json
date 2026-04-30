@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if temp < 15:",
+        "print('Cold')",
+        "____ 15 <= temp <= 25:",
+        "print('Normal')",
+        "else:",
+        "print('Hot')",
+        "elif",
+        "else",
+        "if"
+    ]
+}

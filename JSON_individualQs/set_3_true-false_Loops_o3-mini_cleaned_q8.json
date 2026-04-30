@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "True or False: In nested loops, the inner loop executes all of its iterations for every single iteration of the outer loop.",
+  "answer": true
+}

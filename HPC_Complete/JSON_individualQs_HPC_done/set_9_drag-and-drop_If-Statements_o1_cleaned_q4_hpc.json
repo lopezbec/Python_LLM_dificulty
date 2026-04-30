@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "temperature is above 30",
+        "humidity is above 50",
+        "temp = 35",
+        "humidity = 60",
+        "if temp > 30 [__op__] humidity > 50:",
+        "print(\"Hot day\")",
+        "else:",
+        "print(\"Not a hot day\")",
+        "or",
+        "and",
+        "==",
+        "not"
+    ]
+}

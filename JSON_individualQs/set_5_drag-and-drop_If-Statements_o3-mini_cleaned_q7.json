@@ -1,0 +1,18 @@
+{
+  "question": "Complete the comparison operator in the if-statement.",
+  "difficulty": 7,
+  "instructions": "Drag the correct comparison operator to complete the condition.",
+  "codeSnippet": "if x ___ 0:\n    print('x is non-zero')",
+  "dropZones": [
+    {
+      "placeholder": "___",
+      "correctAnswer": "!="
+    }
+  ],
+  "draggableItems": [
+    "==",
+    "!=",
+    ">",
+    "<"
+  ]
+}

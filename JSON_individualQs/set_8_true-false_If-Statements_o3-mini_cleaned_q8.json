@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "An if-statement block in Python can legally be empty if the programmer uses the 'pass' statement as a placeholder.",
+  "correctAnswer": true
+}

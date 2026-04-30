@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "List comprehension can be used as an alternative to loops for creating lists and involves expressions and ___ in a single line.",
+  "answer": "iterables"
+}

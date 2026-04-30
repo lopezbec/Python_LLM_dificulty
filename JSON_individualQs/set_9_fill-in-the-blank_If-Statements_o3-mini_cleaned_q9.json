@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank to complete the generator expression within the any() function:\n\nif any( ______ for num in nums):\n    print('There is a positive number')",
+  "correct_answer": "num > 0"
+}

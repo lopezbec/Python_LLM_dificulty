@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which best describes the time complexity of the following code snippet?\n\nfor i in range(n):\n    for j in range(n):\n        print(i, j)",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(n^3)",
+    "O(log n)"
+  ],
+  "correct_answer": "O(n^2)"
+}

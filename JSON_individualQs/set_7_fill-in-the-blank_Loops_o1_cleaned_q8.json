@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "The single-line syntax for creating a new list by applying an expression to each element of an iterable is called a ______.",
+  "correct_answer": "list comprehension"
+}

@@ -1,0 +1,14 @@
+{
+  "number": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "prompt": "Drag the correct keyword into the blank to complete the statement and print 'Correct' when x is 5.",
+  "code": "x = 5\n_____ x == 5:\n    print(\"Correct\")",
+  "choices": [
+    "if",
+    "def",
+    "while",
+    "return"
+  ],
+  "correct_choice": "if"
+}

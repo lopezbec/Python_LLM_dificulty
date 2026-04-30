@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\nx = 10\ny = 20\nif x == y:\n    print(\"Equal\")\nelse:\n    print(\"Not Equal\")",
+  "options": {
+    "A": "Equal",
+    "B": "Not Equal",
+    "C": "10",
+    "D": "20"
+  },
+  "answer": "B",
+  "difficulty": 5
+}

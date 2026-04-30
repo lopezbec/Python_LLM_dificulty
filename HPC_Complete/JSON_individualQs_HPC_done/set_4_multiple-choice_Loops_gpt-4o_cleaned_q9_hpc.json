@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x",
+        "x = 0",
+        "for i in range(5):",
+        "for j in range(5):",
+        "x += 1",
+        "if j == 3:",
+        "break",
+        "C"
+    ]
+}

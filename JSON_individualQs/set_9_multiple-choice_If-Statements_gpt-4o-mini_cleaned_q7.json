@@ -1,0 +1,11 @@
+{
+  "question": "What will happen if you run this code?\n\nif 'a' in 'apple':\n    print('Contains a')\nelse:\n    print('Does not contain a')",
+  "options": [
+    "a) Contains a",
+    "b) Does not contain a",
+    "c) Error",
+    "d) None of the above"
+  ],
+  "correct_answer": "a",
+  "difficulty": 7
+}

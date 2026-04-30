@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if marks >= 50:",
+        "    print('Pass')",
+        "elif marks >= 40:",
+        "    print('Fail')",
+        "else:",
+        "    print('Resit')"
+    ]
+}

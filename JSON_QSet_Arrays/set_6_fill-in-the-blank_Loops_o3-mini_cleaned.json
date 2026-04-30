@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "Fill in the blank: In Python, the ______ loop repeatedly executes a block of code as long as its condition evaluates to True.",
+    "correct_answer": "while"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "Fill in the blank: A for loop in Python is commonly used to iterate over an ______, such as a list or a string.",
+    "correct_answer": "iterable"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Fill in the blank: The built-in function ______ is used with a for loop to generate a sequence of numbers.",
+    "correct_answer": "range"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "Fill in the blank: The keyword ______ is used to exit a loop prematurely.",
+    "correct_answer": "break"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Fill in the blank: The keyword ______ skips the rest of the code inside the loop for the current iteration and moves to the next iteration.",
+    "correct_answer": "continue"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Fill in the blank: In nested loops, the inner loop executes all its iterations for each iteration of the ______ loop.",
+    "correct_answer": "outer"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Fill in the blank: In Python, the ______ clause of a loop executes only if the loop terminates normally, without encountering a break statement.",
+    "correct_answer": "else"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Fill in the blank: When iterating over a dictionary in a for loop, calling the ______() method returns a view object of its keys.",
+    "correct_answer": "keys"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "Fill in the blank: When iterating in reverse order over a sequence in a loop, Python provides the ______() function to reverse the order.",
+    "correct_answer": "reversed"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Fill in the blank: Python 3.8 introduced the ______ operator (:=), also known as the assignment expression, which can be used within loop conditions to assign and test a variable in a single expression.",
+    "correct_answer": "walrus"
+  }
+]

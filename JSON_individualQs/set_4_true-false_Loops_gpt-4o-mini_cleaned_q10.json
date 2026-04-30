@@ -1,0 +1,5 @@
+{
+  "question": "The 'for' loop in Python can only iterate over iterable objects that are ordered, like lists and tuples.",
+  "answer": false,
+  "difficulty": 10
+}

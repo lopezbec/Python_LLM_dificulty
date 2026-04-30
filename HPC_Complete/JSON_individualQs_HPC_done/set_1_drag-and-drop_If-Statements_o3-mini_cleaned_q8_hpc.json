@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if",
+        "not",
+        "(",
+        "input_value.isdigit()",
+        "and",
+        "int(input_value) > 0",
+        ")",
+        ":",
+        "print('Invalid input')",
+        "input_value"
+    ]
+}

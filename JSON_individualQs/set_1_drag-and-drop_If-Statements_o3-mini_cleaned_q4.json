@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "prompt": "Drag and drop the code blocks to create a multi-branch decision structure that prints a grade: 'A' if score >= 90, 'B' if score >= 80, and 'C' otherwise.",
+  "drag_items": [
+    "if",
+    "score >= 90:",
+    "print('A')",
+    "elif",
+    "score >= 80:",
+    "print('B')",
+    "else:",
+    "print('C')"
+  ],
+  "correct_order": [
+    "if",
+    "score >= 90:",
+    "print('A')",
+    "elif",
+    "score >= 80:",
+    "print('B')",
+    "else:",
+    "print('C')"
+  ],
+  "explanation": "The if-elif-else structure evaluates conditions in order. Once a condition is true, its block runs and the rest are skipped."
+}

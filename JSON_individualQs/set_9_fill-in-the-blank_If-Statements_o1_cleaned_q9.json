@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank in this conditional expression:\n\nresult = \"High\" if score > 80 _____ \"Low\"",
+  "answer": "else"
+}

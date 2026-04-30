@@ -1,0 +1,13 @@
+{
+  "difficulty": 4,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "Which of the following keywords can be used to execute a block of code when an if-statement condition is false?",
+  "options": [
+    "else",
+    "elif",
+    "endif",
+    "none of the above"
+  ],
+  "correct_answer": "else"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "Variables defined inside an if statement in Python are not accessible outside of it.",
+  "difficulty": 8,
+  "answer": false
+}

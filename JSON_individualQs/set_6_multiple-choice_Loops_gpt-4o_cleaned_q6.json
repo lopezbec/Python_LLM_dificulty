@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which loop control statement causes the remaining code inside the loop not to be executed while restarting the loop?",
+  "options": [
+    "A) return",
+    "B) break",
+    "C) continue",
+    "D) pass"
+  ],
+  "answer": "C"
+}

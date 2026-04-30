@@ -1,0 +1,5 @@
+{
+  "question": "Comparison operators such as '==' and '!=' can be used within an if-statement's condition.",
+  "answer": true,
+  "difficulty": 9
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "result",
+        "x > 10",
+        "result = (x > 10) ? 'Greater' : 'Not Greater'",
+        "result = 'Greater' if x > 10 else 'Not Greater'",
+        "result = if x > 10 else 'Not Greater'",
+        "result = 'Greater' only if x > 10 else 'Not Greater'"
+    ]
+}

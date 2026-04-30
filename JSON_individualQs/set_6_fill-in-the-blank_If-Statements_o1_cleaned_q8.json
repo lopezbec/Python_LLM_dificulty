@@ -1,0 +1,6 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank to ensure 'age' is less than or equal to 19: if age >= 13 and age ___ 19: print(\"Teenager!\").",
+  "answer": "<="
+}

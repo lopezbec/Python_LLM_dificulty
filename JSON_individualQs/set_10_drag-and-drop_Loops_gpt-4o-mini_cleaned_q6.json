@@ -1,0 +1,16 @@
+{
+  "question": "Order the statements to correctly implement a loop that breaks when it reaches a certain condition.",
+  "options": [
+    "for i in range(10):",
+    "if i == 5:",
+    "break",
+    "print(i)"
+  ],
+  "correct_order": [
+    "for i in range(10):",
+    "print(i)",
+    "if i == 5:",
+    "break"
+  ],
+  "difficulty": 6
+}

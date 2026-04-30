@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the primary difference between a for loop and a while loop in Python?",
+  "options": [
+    "A for loop always runs infinitely, while a while loop does not",
+    "A for loop iterates over a known sequence or range, while a while loop runs until a condition changes",
+    "The for loop is always slower than the while loop",
+    "A while loop can only iterate over lists, while a for loop can handle any iterable"
+  ],
+  "correct_answer": "A for loop iterates over a known sequence or range, while a while loop runs until a condition changes"
+}

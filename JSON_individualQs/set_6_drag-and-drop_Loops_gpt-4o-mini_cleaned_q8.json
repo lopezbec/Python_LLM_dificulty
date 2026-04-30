@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "question": "Arrange the code snippets to create a loop that prints the first 5 Fibonacci numbers.",
+  "options": [
+    "a, b = 0, 1",
+    "for _ in range(5):",
+    "print(a)",
+    "a, b = b, a + b"
+  ],
+  "correct_order": [
+    "a, b = 0, 1",
+    "for _ in range(5):",
+    "print(a)",
+    "a, b = b, a + b"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the appropriate keyword to create a loop that continues as long as a condition is true.",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "until",
+    "D": "repeat"
+  },
+  "drops": {
+    "Target": "______ condition:"
+  },
+  "correct_order": [
+    "B"
+  ]
+}

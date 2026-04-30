@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: In Python, the ______ loop is best used when you want to repeat an action until a certain condition becomes false.",
+  "answer": "while"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Indentation is not necessary in Python if statements when semicolons are used to separate statements.",
+  "answer": false
+}

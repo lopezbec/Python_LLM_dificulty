@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following is a key difference between a 'for' loop and a 'while' loop in Python?",
+  "options": {
+    "A": "'for' loops require a counter variable, 'while' loops do not.",
+    "B": "'for' loops iterate over a sequence, 'while' loops continue until a condition is met.",
+    "C": "'while' loops can only iterate over lists.",
+    "D": "'for' loops cannot be nested."
+  },
+  "answer": "B"
+}

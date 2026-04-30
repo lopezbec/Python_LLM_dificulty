@@ -1,0 +1,6 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question": "In Python, the statement that immediately ends a loop, skipping all remaining iterations, is the ________ statement.",
+  "correct_answer": "break"
+}

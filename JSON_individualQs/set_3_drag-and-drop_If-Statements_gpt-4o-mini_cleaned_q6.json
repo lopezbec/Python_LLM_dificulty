@@ -1,0 +1,11 @@
+{
+  "question": "Complete the nested if-statement by dragging the appropriate condition: \nif (x > 0) {\n    if ( ______ ) {\n        print('Positive even number');\n    }\n}",
+  "options": [
+    "x % 2 == 0",
+    "x < 10",
+    "x + 1",
+    "print('Even')"
+  ],
+  "correct_answer": "x % 2 == 0",
+  "difficulty": 6
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "Fill in the blank with the correct keyword to start an if-statement in Python:\n\n______ x > 0:\n    print('x is positive')",
+    "answer": "if"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "Fill in the blank to complete the following if-else statement:\n\nif x > 10:\n    print('High')\n______:\n    print('Low')",
+    "answer": "else:"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Complete the missing keyword in this if-elif statement:\n\nif x > 10:\n    print('Too high')\n____ x > 5:\n    print('Normal')",
+    "answer": "elif"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "Fill in the blank to complete the nested if-statement that checks whether a positive number is even:\n\nif x > 0:\n    if x % 2 __ 0:\n        print('Even')",
+    "answer": "=="
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Complete the if-statement header by supplying the missing symbol at the end of the condition:\n\nif score >= 90____ print('Excellent')",
+    "answer": ":"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Fill in the blank with the appropriate logical operator to check if a number is divisible by both 3 and 5:\n\nif n % 3 == 0 ______ n % 5 == 0:\n    print('Divisible by both')",
+    "answer": "and"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Fill in the blank with the keyword that tells Python to do nothing (i.e., a placeholder) in an if block when no action is required:\n\nif condition_met:\n    ______",
+    "answer": "pass"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Fill in the blank with the special variable used to check if the script is being run directly:\n\nif ______ == '__main__':\n    main()",
+    "answer": "__name__"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "Fill in the blank with the correct operator to check if a flag is False in this if-statement:\n\nif ______ flag:\n    print('Flag is false')",
+    "answer": "not"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Fill in the blank with the correct assignment expression operator (walrus operator) to both assign and compare in one line:\n\nif (n ______= len(my_list)) > 0:\n    print(n)",
+    "answer": ":="
+  }
+]

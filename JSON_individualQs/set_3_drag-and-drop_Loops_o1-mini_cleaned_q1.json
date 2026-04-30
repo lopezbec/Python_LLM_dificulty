@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "topic": "Types of Loops",
+  "question": "Match each loop type with its correct description.",
+  "drag_items": [
+    "for loop",
+    "while loop"
+  ],
+  "drop_targets": [
+    "Repeats a block of code a fixed number of times",
+    "Repeats a block of code as long as a condition is true"
+  ],
+  "correct_matches": {
+    "for loop": "Repeats a block of code a fixed number of times",
+    "while loop": "Repeats a block of code as long as a condition is true"
+  }
+}

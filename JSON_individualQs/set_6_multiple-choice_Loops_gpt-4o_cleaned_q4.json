@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What will be the output of the following script?\n\nfor i in range(3):\n    print(i)\nelse:\n    print('Done')",
+  "options": [
+    "A) 012Done",
+    "B) 012",
+    "C) Done",
+    "D) 0123Done"
+  ],
+  "answer": "A"
+}

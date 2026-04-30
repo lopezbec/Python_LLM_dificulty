@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Nested loops (loops within loops) are not allowed in Python.",
+  "correct_answer": false
+}

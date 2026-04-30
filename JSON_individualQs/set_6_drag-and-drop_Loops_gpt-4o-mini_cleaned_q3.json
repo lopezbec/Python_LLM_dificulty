@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Drag the correct code snippets to form a nested loop that prints 1 to 2 for each letter in 'AB'.",
+  "options": [
+    "for letter in 'AB':",
+    "for i in range(1, 3):",
+    "print(i)",
+    "print(letter)"
+  ],
+  "correct_order": [
+    "for letter in 'AB':",
+    "for i in range(1, 3):",
+    "print(i)",
+    "print(letter)"
+  ]
+}

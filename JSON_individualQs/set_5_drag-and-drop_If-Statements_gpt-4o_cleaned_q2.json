@@ -1,0 +1,16 @@
+{
+  "difficulty": 2,
+  "description": "Fill in the blanks to check if a variable 'y' is equal to 10 and then print 'Equal'.",
+  "code": "y = 10\nif ( ___ == ___ ):\n    print('Equal')",
+  "options": [
+    "y",
+    "10",
+    "20",
+    "==",
+    "="
+  ],
+  "correct": [
+    "y",
+    "10"
+  ]
+}

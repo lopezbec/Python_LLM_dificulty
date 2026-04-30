@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following code snippet?\n\n```python\nx = 7\nif x == 5:\n    print(\"Five\")\nelif x == 6:\n    print(\"Six\")\nelif x == 7:\n    print(\"Seven\")\nelse:\n    print(\"Other\")\n```",
+  "options": {
+    "A": "Five",
+    "B": "Six",
+    "C": "Seven",
+    "D": "Other"
+  },
+  "answer": "C"
+}

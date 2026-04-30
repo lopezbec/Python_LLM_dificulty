@@ -1,0 +1,24 @@
+{
+  "question": "Level 3: Nested If-Statements",
+  "instruction": "Organize these blocks into a nested if statement.",
+  "difficulty": 3,
+  "code_blocks": [
+    "if __outer_condition__:",
+    "    if __inner_condition__:",
+    "        __print_statement_1__",
+    "    else:",
+    "        __print_statement_2__"
+  ],
+  "options": [
+    "x > 10",
+    "y == 2",
+    "print('Both conditions met')",
+    "print('Only outer condition met')"
+  ],
+  "correct_structure": {
+    "__outer_condition__": "x > 10",
+    "__inner_condition__": "y == 2",
+    "__print_statement_1__": "print('Both conditions met')",
+    "__print_statement_2__": "print('Only outer condition met')"
+  }
+}

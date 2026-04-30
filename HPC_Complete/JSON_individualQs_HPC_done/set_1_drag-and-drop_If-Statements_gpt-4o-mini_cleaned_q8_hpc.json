@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (user.is_authenticated == True && ____ ) { print('Access granted'); }",
+        "user.is_authenticated",
+        "user.is_active == True",
+        "user.is_authenticated == False",
+        "user.has_perm('view_data')"
+    ]
+}

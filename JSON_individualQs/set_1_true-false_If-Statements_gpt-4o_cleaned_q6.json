@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The 'elif' keyword is used to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions is TRUE.",
+  "answer": "True"
+}

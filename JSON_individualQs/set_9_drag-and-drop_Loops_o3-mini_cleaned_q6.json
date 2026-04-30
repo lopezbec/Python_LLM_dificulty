@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "prompt": "Drag and drop the correct sequence to iterate over all characters in the string by filling in the blank:\n\nfor ch in _____:\n    print(ch)",
+  "drag_items": [
+    "\"Hello\"",
+    "10",
+    "[1, 2, 3]"
+  ],
+  "drop_targets": [
+    "iterable"
+  ],
+  "correct_mapping": {
+    "iterable": "\"Hello\""
+  }
+}

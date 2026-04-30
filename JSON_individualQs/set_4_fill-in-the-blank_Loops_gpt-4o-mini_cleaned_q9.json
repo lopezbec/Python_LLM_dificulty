@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To loop through a dictionary, you can use the items() method to access both the keys and the ____ at the same time.",
+  "answer": "values"
+}

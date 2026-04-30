@@ -1,0 +1,159 @@
+[
+  {
+    "difficulty": 1,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Complete the if-statement to check if the variable 'x' is equal to 10.",
+    "code": "if ______ :\n    print('x is 10')",
+    "options": [
+      "x == 10",
+      "x = 10",
+      "x > 10"
+    ],
+    "correct": "x == 10"
+  },
+  {
+    "difficulty": 2,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Fill in the blanks to print 'Hello' if the variable 'greeting' equals 'hi'.",
+    "code": "greeting = 'hi'\nif ______ :\n    print(______) ",
+    "options": [
+      "greeting == 'hi'",
+      "greeting = 'hi'",
+      "'Hello'",
+      "'Hi'"
+    ],
+    "correct": [
+      "greeting == 'hi'",
+      "'Hello'"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Fill in the missing pieces to check if the variable 'score' is greater than or equal to 50 and print 'Pass'.",
+    "code": "score = 55\nif ______ score ______ 50:\n    ______('Pass')",
+    "options": [
+      ">=",
+      ">",
+      "<",
+      "print",
+      "max"
+    ],
+    "correct": [
+      ">=",
+      "print"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Replace the placeholder to check if the variable 'a' is less than or equal to the variable 'b' and print 'Valid'.",
+    "code": "a = 3\nb = 4\nif a ______ b:\n    print('Valid')",
+    "options": [
+      "<=",
+      "!=",
+      ">=",
+      "!"
+    ],
+    "correct": "<="
+  },
+  {
+    "difficulty": 5,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Fill in the blanks to check whether the variable 'num' is positive and is also less than 100.",
+    "code": "num = 45\nif num > 0 ______ num ______ 100:\n    print('Number in range')",
+    "options": [
+      "and",
+      "or",
+      "not",
+      "<"
+    ],
+    "correct": [
+      "and",
+      "<"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Complete the code to execute a block when neither of the conditions are true.",
+    "code": "x = 10\ny = 20\nif x > y:\n    print('x is greater')\n______:\n    print('x is not greater')",
+    "options": [
+      "else",
+      "elif",
+      "except",
+      "finally"
+    ],
+    "correct": "else"
+  },
+  {
+    "difficulty": 7,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Fill in the placeholders to correctly handle multiple conditions using elif.",
+    "code": "x = 20\nif x < 10:\n    print('Small')\n______ x == 20:\n    print('Medium')\nelse:\n    print('Large')",
+    "options": [
+      "elif",
+      "else",
+      "then",
+      "finally"
+    ],
+    "correct": "elif"
+  },
+  {
+    "difficulty": 8,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Fill in the blanks to check whether the 'temperature' is outside the range of 0-30 and print 'Extreme weather'.",
+    "code": "temperature = 35\nif temperature < 0 ______ temperature ______ 30:\n    print('Extreme weather')",
+    "options": [
+      "or",
+      "and",
+      "<",
+      ">",
+      "<="
+    ],
+    "correct": [
+      "or",
+      ">"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Use the blanks to create an if-elif-else statement checking whether the 'value' is a positive, negative, or zero.",
+    "code": "value = 0\nif ______ > 0:\n    print('Positive')\n______ value < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+    "options": [
+      "value",
+      "elif",
+      "==",
+      "=",
+      "else"
+    ],
+    "correct": [
+      "value",
+      "elif"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "question": "Complete the advanced nested if-else structure to check if 'age' grants special privileges or not.",
+    "code": "age = 65\nif age >= 18:\n    print('Adult')\n    ______ age >= 65:\n        print('Senior Privileges')\n    else:\n        print('Standard Privileges')\nelse:\n    print('Minor')",
+    "options": [
+      "if",
+      "else",
+      "elif",
+      "then"
+    ],
+    "correct": "if"
+  }
+]

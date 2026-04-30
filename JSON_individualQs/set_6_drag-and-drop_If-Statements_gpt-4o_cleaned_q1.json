@@ -1,0 +1,19 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop to complete the basic if-statement that prints 'Hello, World!' if x is 5.",
+  "code_blocks": [
+    "x = 5",
+    "if x == 5:",
+    "print('Hello, World!')"
+  ],
+  "droppable_items": [
+    "x = 5",
+    "if x == 5:",
+    "print('Hello, World!')"
+  ],
+  "solution": [
+    "x = 5",
+    "if x == 5:",
+    "print('Hello, World!')"
+  ]
+}

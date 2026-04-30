@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "___ i in range(5):\n    print(i)",
+        "for",
+        "while"
+    ]
+}

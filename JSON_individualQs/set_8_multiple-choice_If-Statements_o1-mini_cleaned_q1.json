@@ -1,0 +1,10 @@
+{
+  "question": "What is the correct syntax for a simple if statement in Python?",
+  "options": {
+    "A": "if (x > y) {",
+    "B": "if x > y:",
+    "C": "if x > y then",
+    "D": "if x > y do"
+  },
+  "answer": "B"
+}

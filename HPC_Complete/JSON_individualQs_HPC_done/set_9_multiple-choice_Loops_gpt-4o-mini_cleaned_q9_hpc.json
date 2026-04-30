@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "numbers = [1, 2, 3]\nfor num in numbers:\n    if num == 2:\n        break\n    print(num)",
+        "1 2 3",
+        "1 2",
+        "1",
+        "1 2 3 2"
+    ]
+}

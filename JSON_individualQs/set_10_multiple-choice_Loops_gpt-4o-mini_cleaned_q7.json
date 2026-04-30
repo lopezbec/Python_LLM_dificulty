@@ -1,0 +1,11 @@
+{
+  "question": "How many times will the following code execute the print statement? \n\ncount = 0 \nwhile count < 3: \n    print(count) \n    count += 1",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "Infinite"
+  ],
+  "answer": "3",
+  "difficulty": 7
+}

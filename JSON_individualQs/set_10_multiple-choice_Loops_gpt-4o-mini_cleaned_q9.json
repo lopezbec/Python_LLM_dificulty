@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following loops can be infinite? \n\nA. for loop \nB. while loop \nC. Both A and B \nD. None of the above",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "C",
+  "difficulty": 9
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "name = 'Alice'",
+        "___ name == 'Alice':",
+        "print('Hello')",
+        "if",
+        "for",
+        "while"
+    ]
+}

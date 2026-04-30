@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is a valid loop keyword in Python?",
+  "options": [
+    "for",
+    "loop",
+    "iterate",
+    "repeat"
+  ],
+  "correct_answer": "for"
+}

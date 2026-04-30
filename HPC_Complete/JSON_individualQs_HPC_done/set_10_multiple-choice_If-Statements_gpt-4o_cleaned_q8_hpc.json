@@ -1,0 +1,19 @@
+{
+    "HPC": [
+        "x = 5",
+        "y = 10",
+        "z = 15",
+        "if x < y:",
+        "if y < z:",
+        "if x + y > z:",
+        "print('Nested condition met')",
+        "else:",
+        "print('Inner condition not met')",
+        "print('Middle condition not met')",
+        "print('Outer condition not met')",
+        "A) Nested condition met",
+        "B) Inner condition not met",
+        "C) Middle condition not met",
+        "D) Outer condition not met"
+    ]
+}

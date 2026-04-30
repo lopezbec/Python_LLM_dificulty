@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank (Difficulty 3): When you have multiple exclusive conditions, use 'if', ______, and 'else' in a sequence.",
+  "correct_answer": "elif",
+  "difficulty": 3
+}

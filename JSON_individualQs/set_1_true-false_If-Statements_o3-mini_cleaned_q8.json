@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In Python, the code 'if 5 > 3:' will not execute its code block because the condition must always compare a variable.",
+  "answer": false
+}

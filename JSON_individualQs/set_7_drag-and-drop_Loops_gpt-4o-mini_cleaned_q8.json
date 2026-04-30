@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Drag and drop to create a loop that outputs the product of numbers from 1 to n:\n`product = 1`\n `for i in ___:`\n` product *= i`",
+  "options": [
+    "range(n + 1)",
+    "range(n)",
+    "1 to n",
+    "n"
+  ],
+  "correctOption": "range(1, n + 1)"
+}

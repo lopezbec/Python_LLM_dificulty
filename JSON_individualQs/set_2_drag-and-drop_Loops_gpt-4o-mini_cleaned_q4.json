@@ -1,0 +1,24 @@
+{
+  "difficulty": 4,
+  "question": "Order the following statements to create a nested loop that prints a row of stars.",
+  "options": [
+    "for",
+    "i in range(3)",
+    ":",
+    "for",
+    "j in range(5)",
+    ":",
+    "print('*', end='')",
+    "print()"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

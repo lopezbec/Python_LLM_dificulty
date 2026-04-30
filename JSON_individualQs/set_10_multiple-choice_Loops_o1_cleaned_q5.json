@@ -1,0 +1,11 @@
+{
+  "question": "Which built-in function returns both the index and the corresponding item when iterating over a list in a for loop?",
+  "difficulty": 5,
+  "options": [
+    "range()",
+    "enumerate()",
+    "len()",
+    "zip()"
+  ],
+  "answer": "enumerate()"
+}

@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "i == j",
+        "j == 2",
+        "for i in range(4):",
+        "for j in range(4):",
+        "if i == j:",
+        "[___]",
+        "if j == 2:",
+        "[___]",
+        "print(i, j)",
+        "continue",
+        "break",
+        "pass",
+        "i += 1"
+    ]
+}

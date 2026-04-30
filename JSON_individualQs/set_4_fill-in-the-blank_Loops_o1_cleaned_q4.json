@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "To skip the remaining code in the current iteration of a loop and continue with the next iteration, we use the ______ statement.",
+  "correct_answer": "continue"
+}

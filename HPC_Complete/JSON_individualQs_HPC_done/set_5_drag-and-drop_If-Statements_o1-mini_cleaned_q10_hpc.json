@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "classify_triangle(a, b, c):",
+        "if a == b and b == c:",
+        "___(1)___(\"Equilateral\")",
+        "elif a == b or b == c or a == c:",
+        "___(2)___(\"Isosceles\")",
+        "else:",
+        "___(3)___(\"Scalene\")",
+        "print",
+        "return",
+        "elif",
+        "if",
+        "else",
+        "pass"
+    ]
+}

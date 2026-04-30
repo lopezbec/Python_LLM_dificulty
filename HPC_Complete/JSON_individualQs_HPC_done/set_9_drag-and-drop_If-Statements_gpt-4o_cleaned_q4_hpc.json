@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "grade = 85",
+        "if __:",
+        "print('A')",
+        "elif __:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "grade >= 90",
+        "grade >= 80",
+        "grade < 80",
+        "grade"
+    ]
+}

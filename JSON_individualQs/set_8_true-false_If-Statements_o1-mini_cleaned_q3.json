@@ -1,0 +1,5 @@
+{
+  "question": "Python allows multiple `elif` clauses in an if-elif-else statement to handle multiple conditions.",
+  "answer": true,
+  "difficulty": 3
+}

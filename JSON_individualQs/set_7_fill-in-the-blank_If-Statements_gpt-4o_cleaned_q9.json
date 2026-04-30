@@ -1,0 +1,9 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blanks to print 'Invalid input' if 'choice' is neither 'yes' nor 'no':\n\n```python\nif choice _____ 'yes' _____ choice _____ 'no':\n    print('Invalid input')\n```",
+  "blanks": [
+    "!=",
+    "and",
+    "!="
+  ]
+}

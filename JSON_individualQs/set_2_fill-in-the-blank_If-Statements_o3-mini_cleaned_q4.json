@@ -1,0 +1,6 @@
+{
+  "difficulty": 4,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To execute code when an if condition evaluates to False, you can use the ____ clause.",
+  "answer": "else"
+}

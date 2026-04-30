@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank so the code ignores the body when condition is True:\n\nif _____ condition:\n    print(\"Condition is False\")",
+  "answer": "not"
+}

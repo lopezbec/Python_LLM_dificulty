@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for n in range(3):\n    print(n)\n___:\n    print('Loop completed')",
+        "else",
+        "finally",
+        "except"
+    ]
+}

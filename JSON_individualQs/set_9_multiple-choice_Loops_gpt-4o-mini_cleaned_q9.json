@@ -1,0 +1,11 @@
+{
+  "question": "How does the following code behave?\n\nnumbers = [1, 2, 3]\nfor num in numbers:\n    if num == 2:\n        break\n    print(num)\n",
+  "options": [
+    "1 2 3",
+    "1 2",
+    "1",
+    "1 2 3 2"
+  ],
+  "correct_answer": "1",
+  "difficulty": 9
+}

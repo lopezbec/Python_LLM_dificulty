@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank to verify whether 'username' starts with the letter 'A':\n\n```python\nif username.startswith('_____'):\n    print('Username starts with A')\n```",
+  "blank": "A"
+}

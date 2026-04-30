@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The _____ statement is used to exit a loop prematurely in Python.",
+  "answer": "break"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (x > 0 and y > 0) ____ (x < 0 and y < 0):",
+        "print(\"Same sign\")",
+        "else:",
+        "print(\"Different signs\")"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In an if-elif-else chain, all the conditions are evaluated even after one condition is true.",
+  "answer": false
+}

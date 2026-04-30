@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the time complexity of iterating through a list using a for loop in Python?",
+  "options": [
+    "A) O(1)",
+    "B) O(n)",
+    "C) O(log n)",
+    "D) O(n^2)"
+  ],
+  "correct_answer": "B) O(n)"
+}

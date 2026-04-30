@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (score > 50) { if (score > 80) { _____ } else { _____ } } else { _____ }",
+        "print('Great job!')",
+        "print('You passed.')",
+        "print('You failed.')"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which of the following can be used to exit a loop prematurely?",
+  "options": [
+    "A) continue",
+    "B) exit",
+    "C) break",
+    "D) stop"
+  ],
+  "answer": "C"
+}

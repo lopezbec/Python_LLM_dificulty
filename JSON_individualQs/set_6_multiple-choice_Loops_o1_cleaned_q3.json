@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which type of loop continues to run until its condition is no longer true?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "Both for and while loops"
+  ],
+  "correct_answer": "while loop"
+}

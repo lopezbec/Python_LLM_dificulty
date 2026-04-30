@@ -1,0 +1,27 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "questionText": "Drag the correct condition and increment to create a while loop that breaks out when the count reaches 3:",
+  "codeSnippet": [
+    "count = 0",
+    "while True:",
+    "    [INCREMENT_PLACEHOLDER]",
+    "    if [BREAK_CONDITION_PLACEHOLDER]:",
+    "        break",
+    "    print(count)"
+  ],
+  "dragItems": [
+    "count += 1",
+    "count = 0",
+    "count == 3",
+    "count > 5"
+  ],
+  "dropSlots": [
+    "INCREMENT_PLACEHOLDER",
+    "BREAK_CONDITION_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "INCREMENT_PLACEHOLDER": "count += 1",
+    "BREAK_CONDITION_PLACEHOLDER": "count == 3"
+  }
+}

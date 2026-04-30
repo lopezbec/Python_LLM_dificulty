@@ -1,0 +1,18 @@
+{
+  "question": "Complete the if-else statement.",
+  "difficulty": 2,
+  "instructions": "Drag the missing keyword to complete the if-else block.",
+  "codeSnippet": "if x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+  "dropZones": [
+    {
+      "placeholder": "___",
+      "correctAnswer": "else"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "elif",
+    "else",
+    "then"
+  ]
+}

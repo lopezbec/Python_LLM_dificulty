@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In Python, the 'range()' function is commonly used with a 'for' loop to generate a sequence of _____ numbers.",
+  "answer": "integer"
+}

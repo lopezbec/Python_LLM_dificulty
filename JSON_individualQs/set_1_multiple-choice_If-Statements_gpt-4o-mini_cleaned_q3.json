@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will the following code output if x = 5? \n\n```python\nif x < 10:\n    print('Less than 10')\nelse:\n    print('10 or more')\n```",
+  "options": [
+    "Less than 10",
+    "10 or more",
+    "Error",
+    "None of the above"
+  ],
+  "correct_answer": "Less than 10"
+}

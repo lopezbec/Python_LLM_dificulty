@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following code:\n\nx = 10\nif x > 5:\n    x += 2\nelif x == 10:\n    x *= 2\nelse:\n    x -= 1\n\nWhat is the final value of x?",
+  "choices": {
+    "A": "10",
+    "B": "12",
+    "C": "20",
+    "D": "9"
+  },
+  "correct_answer": "B"
+}

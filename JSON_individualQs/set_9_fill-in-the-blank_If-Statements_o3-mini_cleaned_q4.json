@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank to complete the compound condition in the if-statement:\n\nif x > 5 and x ______ 10:\n    print('x is between 6 and 9')",
+  "correct_answer": "<"
+}

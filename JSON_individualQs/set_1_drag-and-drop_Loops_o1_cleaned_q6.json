@@ -1,0 +1,18 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "questionType": "drag-and-drop",
+  "prompt": "Fill in the blanks so the while loop skips printing even numbers using 'continue'.",
+  "codeSnippet": "i = 0\nwhile i < 5:\n    if ???:\n        ???\n    print(i)\n    i += 1",
+  "draggableItems": [
+    "i % 2 == 0",
+    "continue",
+    "break",
+    "i *= 2"
+  ],
+  "correctAnswer": [
+    "i % 2 == 0",
+    "continue"
+  ],
+  "explanation": "Using 'if i % 2 == 0: continue' skips printing even values, proceeding to the next iteration immediately."
+}

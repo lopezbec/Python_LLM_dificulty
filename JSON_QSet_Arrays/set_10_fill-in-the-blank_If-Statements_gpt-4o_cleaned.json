@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if-statement begins with the keyword ___ followed by a condition.",
+    "answer": "if"
+  },
+  {
+    "difficulty": 2,
+    "question": "An if-statement must end with a ___ to indicate the start of its block of code.",
+    "answer": "colon"
+  },
+  {
+    "difficulty": 3,
+    "question": "To check if a variable x is less than 10, the correct if-statement is ___ x < 10:",
+    "answer": "if"
+  },
+  {
+    "difficulty": 4,
+    "question": "A condition in an if-statement can be any ___ expression that evaluates to True or False.",
+    "answer": "boolean"
+  },
+  {
+    "difficulty": 5,
+    "question": "In a chained if-else structure, you can use the keyword ___ to check an additional condition if the first one is false.",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 6,
+    "question": "In an if-statement, multiple conditions can be combined using logical operators such as ___ and or.",
+    "answer": "and"
+  },
+  {
+    "difficulty": 7,
+    "question": "To execute a block of code only if a certain condition is false, use an ___ statement after an if-statement.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 8,
+    "question": "The indentation level is crucial in Python. After an if condition, all subsequent lines must be indented by the same number of ___ to be included in the block.",
+    "answer": "spaces"
+  },
+  {
+    "difficulty": 9,
+    "question": "Inside an if-statement, you can use a nested if-statement by starting it at a further level of ___ than the enclosing block.",
+    "answer": "indentation"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, the ternary conditional operator allows a shorthand if-else statement, formatted as: `___ if condition else ___`.",
+    "answer": "value_if_true, value_if_false"
+  }
+]

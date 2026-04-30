@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Loop variables in Python typically change value in each iteration, often controlled by the 'range' function or other iterable objects.",
+  "answer": "True"
+}

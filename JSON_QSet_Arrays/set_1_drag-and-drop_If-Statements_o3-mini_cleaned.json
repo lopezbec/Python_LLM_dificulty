@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "prompt": "Drag and drop the code blocks to write a simple if\u2010statement that prints 'Hello' when 5 is greater than 3.",
+    "drag_items": [
+      "if",
+      "5 > 3:",
+      "print('Hello')"
+    ],
+    "correct_order": [
+      "if",
+      "5 > 3:",
+      "print('Hello')"
+    ],
+    "explanation": "An if\u2010statement starts with the keyword 'if', followed by a condition ending with a colon, then the indented action."
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "prompt": "Drag and drop the blocks to form an if\u2010statement that checks if variable x is positive, and if so, prints 'Positive'.",
+    "drag_items": [
+      "if",
+      "x > 0:",
+      "print('Positive')"
+    ],
+    "correct_order": [
+      "if",
+      "x > 0:",
+      "print('Positive')"
+    ],
+    "explanation": "The condition x > 0 is checked after the if keyword, and if it's true, the print statement executes."
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "prompt": "Drag and drop to correctly form an if\u2010else statement that prints 'Even' if a number is divisible by 2, otherwise prints 'Odd'.",
+    "drag_items": [
+      "if",
+      "num % 2 == 0:",
+      "print('Even')",
+      "else:",
+      "print('Odd')"
+    ],
+    "correct_order": [
+      "if",
+      "num % 2 == 0:",
+      "print('Even')",
+      "else:",
+      "print('Odd')"
+    ],
+    "explanation": "The if block checks the condition; if false, the else block triggers."
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "prompt": "Drag and drop the code blocks to create a multi-branch decision structure that prints a grade: 'A' if score >= 90, 'B' if score >= 80, and 'C' otherwise.",
+    "drag_items": [
+      "if",
+      "score >= 90:",
+      "print('A')",
+      "elif",
+      "score >= 80:",
+      "print('B')",
+      "else:",
+      "print('C')"
+    ],
+    "correct_order": [
+      "if",
+      "score >= 90:",
+      "print('A')",
+      "elif",
+      "score >= 80:",
+      "print('B')",
+      "else:",
+      "print('C')"
+    ],
+    "explanation": "The if-elif-else structure evaluates conditions in order. Once a condition is true, its block runs and the rest are skipped."
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "prompt": "Drag and drop to complete the nested if\u2010statement. If temperature is greater than 30, then check if humidity is greater than 70. If so, print 'Hot and Humid', otherwise print 'Hot'.",
+    "drag_items": [
+      "if",
+      "temperature > 30:",
+      "if",
+      "humidity > 70:",
+      "print('Hot and Humid')",
+      "else:",
+      "print('Hot')"
+    ],
+    "correct_order": [
+      "if",
+      "temperature > 30:",
+      "if",
+      "humidity > 70:",
+      "print('Hot and Humid')",
+      "else:",
+      "print('Hot')"
+    ],
+    "explanation": "After checking temperature, the nested if determines whether additional conditions (humidity) need to modify the output."
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "prompt": "Drag and drop the blocks to form an if\u2010statement with a nested condition. If user is 'admin', then check if password is '1234'. If it is, print 'Access granted'; otherwise, print 'Wrong password'. If the user is not 'admin', print 'No access'.",
+    "drag_items": [
+      "if",
+      "user == 'admin':",
+      "if",
+      "password == '1234':",
+      "print('Access granted')",
+      "else:",
+      "print('Wrong password')",
+      "else:",
+      "print('No access')"
+    ],
+    "correct_order": [
+      "if",
+      "user == 'admin':",
+      "if",
+      "password == '1234':",
+      "print('Access granted')",
+      "else:",
+      "print('Wrong password')",
+      "else:",
+      "print('No access')"
+    ],
+    "explanation": "This structure first validates the user. If the condition is met, it further checks the password; otherwise, it directly denies access."
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "prompt": "Drag and drop the code blocks to form an if\u2010statement using a compound Boolean condition that prints 'In range' if a number is between 10 and 20 (inclusive).",
+    "drag_items": [
+      "if",
+      "num >= 10",
+      "and",
+      "num <= 20",
+      ":",
+      "print('In range')"
+    ],
+    "correct_order": [
+      "if",
+      "num >= 10",
+      "and",
+      "num <= 20",
+      ":",
+      "print('In range')"
+    ],
+    "explanation": "The condition combines two comparisons with 'and'. The colon indicates the start of the indented block that prints the message."
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "prompt": "Drag and drop the blocks to form an if\u2010statement that uses the 'not' operator and parentheses. The statement should print 'Invalid input' if the input_value is not a positive digit (i.e. if it is not comprised of digits or if its integer value is not greater than 0).",
+    "drag_items": [
+      "if",
+      "not",
+      "(",
+      "input_value.isdigit()",
+      "and",
+      "int(input_value) > 0",
+      ")",
+      ":",
+      "print('Invalid input')"
+    ],
+    "correct_order": [
+      "if",
+      "not",
+      "(",
+      "input_value.isdigit()",
+      "and",
+      "int(input_value) > 0",
+      ")",
+      ":",
+      "print('Invalid input')"
+    ],
+    "explanation": "The 'not' operator inverts the Boolean result of the condition inside the parentheses. If the condition is false, the block prints 'Invalid input'."
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "prompt": "Drag and drop to arrange the blocks that form a nested if-elif-else structure. First, if a is greater than b, then check: if a is greater than c, print 'a is largest'; if c is greater than a, print 'c is largest'; otherwise, print 'a and c are equal'. If a is not greater than b, print 'b is largest'.",
+    "drag_items": [
+      "if",
+      "a > b:",
+      "if",
+      "a > c:",
+      "print('a is largest')",
+      "elif",
+      "c > a:",
+      "print('c is largest')",
+      "else:",
+      "print('a and c are equal')",
+      "else:",
+      "print('b is largest')"
+    ],
+    "correct_order": [
+      "if",
+      "a > b:",
+      "if",
+      "a > c:",
+      "print('a is largest')",
+      "elif",
+      "c > a:",
+      "print('c is largest')",
+      "else:",
+      "print('a and c are equal')",
+      "else:",
+      "print('b is largest')"
+    ],
+    "explanation": "This question tests understanding of nested conditions. The outer if checks if a > b, and the inner if-elif-else distinguishes between the relationships of a and c."
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "prompt": "Drag and drop the blocks to form an if\u2010statement using the new walrus operator. The statement should assign the length of input_str to n and, if n is greater than 5, print 'Long string, length:' followed by n.",
+    "drag_items": [
+      "if",
+      "(n := len(input_str))",
+      ">",
+      "5",
+      ":",
+      "print('Long string, length:', n)"
+    ],
+    "correct_order": [
+      "if",
+      "(n := len(input_str))",
+      ">",
+      "5",
+      ":",
+      "print('Long string, length:', n)"
+    ],
+    "explanation": "The walrus operator (:=) assigns the value within an expression. Here, it assigns length of input_str to n, which is then compared to 5."
+  }
+]

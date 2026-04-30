@@ -1,0 +1,13 @@
+{
+  "id": 9,
+  "question": "Which of the following is a valid way to combine multiple conditions in an if statement using logical operators?",
+  "options": {
+    "A": "if x > 0 and y < 0:",
+    "B": "if x > 0 && y < 0:",
+    "C": "if x > 0 || y < 0:",
+    "D": "if (x > 0) & (y < 0):"
+  },
+  "correct_answer": "A",
+  "difficulty": 9,
+  "topic": "if statements"
+}

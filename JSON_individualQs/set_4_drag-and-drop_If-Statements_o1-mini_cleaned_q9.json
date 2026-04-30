@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to complete the if-elif-else ladder for categorizing age.",
+  "code_snippet": "age = int(input(\"Enter your age: \"))\nif age < 13:\n    category = \"Child\"\nelif __blank__:\n    category = \"Teenager\"\nelif __blank__:\n    category = \"Adult\"\nelse:\n    category = \"Senior\"\nprint(category)",
+  "options": [
+    "13 <= age < 20",
+    "20 <= age < 65",
+    "age >= 65",
+    "age >= 20 and age < 65"
+  ],
+  "answers": {
+    "first_blank": "13 <= age < 20",
+    "second_blank": "20 <= age < 65"
+  }
+}

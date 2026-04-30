@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "if",
+        "(x > 0",
+        "and",
+        "x < 10):",
+        "print('x is in range')",
+        "Blank1",
+        "Blank2",
+        "if",
+        "elif",
+        "and",
+        "or",
+        ":"
+    ]
+}

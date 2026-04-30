@@ -1,0 +1,20 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question_text": "Create a while loop that stops once x reaches 10. Print x in each iteration.",
+  "code_snippet": "x = 0\n\nwhile ____:\n    print(x)\n    ____\n",
+  "drag_items": [
+    "x < 10",
+    "x = 10",
+    "x += 1",
+    "for x in range(10)"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "x < 10",
+    "Placeholder 2": "x += 1"
+  }
+}

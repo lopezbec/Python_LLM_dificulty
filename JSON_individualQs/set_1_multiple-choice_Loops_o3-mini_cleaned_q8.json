@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What is the output of the following code snippet?\n\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print('done')\n",
+  "options": [
+    "0\n1\n2\ndone",
+    "0\n1\n2\n3\ndone",
+    "0\ndone",
+    "Nothing is printed"
+  ],
+  "correct_answer": "0\n1\n2\ndone"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Drag and drop the correct code to use a break statement in a loop: \n`for i in range(10):`\n` if ___:` \n` break`",
+  "options": [
+    "i == 5",
+    "i = 5",
+    "i > 5",
+    "i != 5"
+  ],
+  "correctOption": "i == 5"
+}

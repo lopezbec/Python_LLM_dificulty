@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "range()",
+        "list()",
+        "enumerate()",
+        "sequence()"
+    ]
+}

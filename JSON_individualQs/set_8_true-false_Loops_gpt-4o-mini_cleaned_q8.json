@@ -1,0 +1,5 @@
+{
+  "question": "A while loop could potentially run forever if the condition never evaluates to false.",
+  "answer": true,
+  "difficulty": 8
+}

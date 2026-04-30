@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "question": "Consider the following code snippet:\n\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= 80:\n    grade = 'B'\nelse:\n    grade = 'C'\n\nprint(grade)\n\nWhat will be printed?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "No output"
+  },
+  "answer": "B",
+  "difficulty": 8
+}

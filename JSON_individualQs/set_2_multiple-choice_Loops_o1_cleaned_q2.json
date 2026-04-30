@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which built-in Python function is commonly used to generate a sequence of integers for iteration?",
+  "options": [
+    "range()",
+    "list()",
+    "enumerate()",
+    "sequence()"
+  ],
+  "correct_answer": "range()"
+}

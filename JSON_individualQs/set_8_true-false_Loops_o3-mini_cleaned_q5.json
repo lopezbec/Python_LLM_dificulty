@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "The 'continue' statement in a loop immediately ends the loop entirely.",
+  "correct_answer": "False"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Placing an 'else' clause after a 'while' loop will still execute the 'else' block even if the loop is broken with 'break'.",
+  "correctAnswer": "False"
+}

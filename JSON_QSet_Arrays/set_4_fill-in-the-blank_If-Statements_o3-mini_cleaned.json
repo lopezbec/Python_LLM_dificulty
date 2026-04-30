@@ -1,0 +1,62 @@
+[
+  {
+    "questionNumber": 1,
+    "difficulty": 1,
+    "question": "Fill in the blank to complete the if-statement that checks if the variable x is greater than 5:\n\nif ______:\n    print('x is greater than 5')",
+    "answer": "x > 5"
+  },
+  {
+    "questionNumber": 2,
+    "difficulty": 2,
+    "question": "Fill in the blank to check if the variable n is equal to 10:\n\nif ______:\n    print('n is ten')",
+    "answer": "n == 10"
+  },
+  {
+    "questionNumber": 3,
+    "difficulty": 3,
+    "question": "Fill in the blank for the nested if-statement to check if x is even, after verifying x is positive:\n\nif x > 0:\n    if ______:\n        print('x is positive and even')",
+    "answer": "x % 2 == 0"
+  },
+  {
+    "questionNumber": 4,
+    "difficulty": 4,
+    "question": "Fill in the blank to complete the if-elif chain given a score:\n\nif score >= 90:\n    print('A')\nelif ______:\n    print('B')\n\n(Hint: The condition should check for scores in the 80s.)",
+    "answer": "score >= 80"
+  },
+  {
+    "questionNumber": 5,
+    "difficulty": 5,
+    "question": "Fill in the blank to combine two conditions using a logical operator. The condition should check if age is greater than 18 and less than 65:\n\nif age > 18 ______ age < 65:\n    print('Eligible for working')\n\nWhich operator should be used?",
+    "answer": "and"
+  },
+  {
+    "questionNumber": 6,
+    "difficulty": 6,
+    "question": "Fill in the blank to check that a string variable s is not empty:\n\nif ______:\n    print('Non-empty string')\n\n(Provide a condition that tests for a non-empty string.)",
+    "answer": "s != \"\""
+  },
+  {
+    "questionNumber": 7,
+    "difficulty": 7,
+    "question": "Fill in the blank to check if a variable num is a multiple of both 3 and 5:\n\nif num % 3 == 0 ______ num % 5 == 0:\n    print('FizzBuzz')",
+    "answer": "and"
+  },
+  {
+    "questionNumber": 8,
+    "difficulty": 8,
+    "question": "Fill in the blank to correct the syntax error in the following if statement:\n\nif a == 10\n    print('a is ten')\n\n(What symbol is missing at the end of the if statement line?)",
+    "answer": ":"
+  },
+  {
+    "questionNumber": 9,
+    "difficulty": 9,
+    "question": "Complete the if-else statement by filling in the blank so that the program assigns 'Boiling' when temperature > 100 and 'Normal' otherwise:\n\nif temperature > 100:\n    status = 'Boiling'\nelse:\n    status = ______\n\n(Provide the default string value indicating the normal state.)",
+    "answer": "'Normal'"
+  },
+  {
+    "questionNumber": 10,
+    "difficulty": 10,
+    "question": "Fill in the blank to complete an if-elif-else block which prints 'Error' when status_code is neither 200 nor 404:\n\nif status_code == 200:\n    print('OK')\nelif status_code == 404:\n    print('Not Found')\n______:\n    print('Error')",
+    "answer": "else"
+  }
+]

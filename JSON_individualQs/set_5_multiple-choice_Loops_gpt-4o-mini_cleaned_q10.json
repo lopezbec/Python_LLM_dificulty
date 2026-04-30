@@ -1,0 +1,11 @@
+{
+  "question": "What will the expression 'sum(range(5))' return?",
+  "options": [
+    "A. 5",
+    "B. 10",
+    "C. 15",
+    "D. 0"
+  ],
+  "answer": "B",
+  "difficulty": 10
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to complete the if statement that checks if a variable 'x' is greater than 5:\n\n```python\nif ____ > 5:\n    print(\"x is greater than 5\")\n```",
+  "answer": "x",
+  "difficulty": 1,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

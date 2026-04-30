@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What is the output of this code?\n\nitems = ['a', 'b', 'c']\nfor i in range(len(items)):\n    items[i] = items[i].upper()\n\nprint(items)",
+  "options": [
+    "['A', 'B', 'C']",
+    "['a', 'b', 'c']",
+    "['A', 'b', 'c']",
+    "['a', 'B', 'C']"
+  ],
+  "correct_answer": "['A', 'B', 'C']"
+}

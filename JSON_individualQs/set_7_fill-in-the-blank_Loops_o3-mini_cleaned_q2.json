@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank: The ____ loop in Python repeats a block of code until its condition evaluates to false.",
+  "answer": "while"
+}

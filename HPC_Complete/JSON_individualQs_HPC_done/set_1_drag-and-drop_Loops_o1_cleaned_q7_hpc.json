@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "enumerate",
+        "fruits = [\"apple\", \"banana\", \"cherry\"]",
+        "for ??? in ???:",
+        "print(index, fruit)",
+        "index, fruit",
+        "enumerate(fruits)",
+        "for fruit in fruits:",
+        "for i in range(len(fruits)):"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank to complete the if condition that uses the modulo operator to check if n is even:\n\nif n % ______ == 0:\n    print('Even number!')",
+  "answer": "2"
+}

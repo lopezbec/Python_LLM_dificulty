@@ -1,0 +1,5 @@
+{
+  "question": "The 'continue' statement will cause the loop to skip the remaining code inside the loop block and restart from the beginning of the loop with the next iteration.",
+  "difficulty": 4,
+  "answer": "True"
+}

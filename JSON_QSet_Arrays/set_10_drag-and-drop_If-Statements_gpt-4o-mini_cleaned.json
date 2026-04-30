@@ -1,0 +1,146 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag the correct code fragment to complete the if-statement that checks if a number is greater than 10.",
+    "code_fragments": [
+      "if number > 10:",
+      "if number < 10:",
+      "if number == 10:",
+      "if number >= 10:"
+    ],
+    "correct_answer": "if number > 10:"
+  },
+  {
+    "difficulty": 2,
+    "question": "Drag and drop the correct code to create a simple if-statement that prints 'Hello' if the variable 'x' equals 5.",
+    "code_fragments": [
+      "if x = 5:",
+      "if x == 5:",
+      "if x != 5:",
+      "if x > 5:"
+    ],
+    "correct_answer": "if x == 5:"
+  },
+  {
+    "difficulty": 3,
+    "question": "Arrange the following lines of code to create an if-statement that checks if 'score' is less than 50 and prints 'Fail'.",
+    "code_fragments": [
+      "print('Fail')",
+      "if score < 50:"
+    ],
+    "correct_order": [
+      "if score < 50:",
+      "print('Fail')"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Drag and drop the correct code to complete the if-else statement that checks if 'status' is 'active' and prints 'User is active', otherwise print 'User is inactive'.",
+    "code_fragments": [
+      "if status == 'active':",
+      "print('User is inactive')",
+      "print('User is active')",
+      "if status != 'active':"
+    ],
+    "correct_order": [
+      "if status == 'active':",
+      "print('User is active')",
+      "else:",
+      "print('User is inactive')"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Arrange the following lines of code to create an if-elif-else statement that checks the variable 'grade'. If it's 'A', print 'Excellent', if 'B', print 'Good', else print 'Needs Improvement'.",
+    "code_fragments": [
+      "print('Needs Improvement')",
+      "elif grade == 'B':",
+      "if grade == 'A':",
+      "print('Excellent')",
+      "print('Good')"
+    ],
+    "correct_order": [
+      "if grade == 'A':",
+      "print('Excellent')",
+      "elif grade == 'B':",
+      "print('Good')",
+      "else:",
+      "print('Needs Improvement')"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Drag the code snippets to correctly implement nested if-statements that check if 'age' is above 18 and if 'has_license' is True, then print 'Eligible to drive'.",
+    "code_fragments": [
+      "if age > 18:",
+      "print('Eligible to drive')",
+      "if has_license:",
+      "if age < 18:"
+    ],
+    "correct_order": [
+      "if age > 18:",
+      "if has_license:",
+      "print('Eligible to drive')"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Organize the following lines to construct an if-elif-else ladder that checks the 'temperature' variable: if 'hot', print 'It's hot!', if 'cold', print 'It's cold!', else print 'It's pleasant!'.",
+    "code_fragments": [
+      "print('It's pleasant!')",
+      "print('It's hot!')",
+      "elif temperature == 'cold':",
+      "if temperature == 'hot':",
+      "print('It's cold!')"
+    ],
+    "correct_order": [
+      "if temperature == 'hot':",
+      "print('It's hot!')",
+      "elif temperature == 'cold':",
+      "print('It's cold!')",
+      "else:",
+      "print('It's pleasant!')"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Drag and drop the code fragments to create a consolidated if-statement that checks multiple conditions: if 'x' is greater than 10 and 'y' is less than 5, print 'Condition Met'.",
+    "code_fragments": [
+      "if x > 10 and y < 5:",
+      "print('Condition Met')",
+      "if x < 10 and y > 5:"
+    ],
+    "correct_order": [
+      "if x > 10 and y < 5:",
+      "print('Condition Met')"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Arrange the following code snippets into a complete if-statement that checks whether a user is an 'admin'. If true, print 'Access granted', otherwise, print 'Access denied'.",
+    "code_fragments": [
+      "print('Access denied')",
+      "if user_role == 'admin':",
+      "print('Access granted')"
+    ],
+    "correct_order": [
+      "if user_role == 'admin':",
+      "print('Access granted')",
+      "else:",
+      "print('Access denied')"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Drag and drop the correct code to create a multi-condition if statement that checks 'balance' against two thresholds: if it's greater than 1000 or if it's within 500 of savings, print 'Sufficient funds'.",
+    "code_fragments": [
+      "if balance > 1000 or balance >= savings - 500:",
+      "print('Sufficient funds')",
+      "if balance < 500:"
+    ],
+    "correct_order": [
+      "if balance > 1000 or balance >= savings - 500:",
+      "print('Sufficient funds')"
+    ]
+  }
+]

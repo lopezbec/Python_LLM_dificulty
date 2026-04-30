@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: To check if a variable num is not equal to 5, complete the if-statement:\n  if num _____ 5:\n    print('num is not 5')",
+  "answer": "!="
+}

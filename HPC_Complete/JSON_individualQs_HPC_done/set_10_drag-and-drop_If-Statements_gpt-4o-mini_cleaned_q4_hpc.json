@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if-else",
+        "status",
+        "active",
+        "print",
+        "User is active",
+        "User is inactive",
+        "if status == 'active':",
+        "print('User is inactive')",
+        "print('User is active')",
+        "if status != 'active':"
+    ]
+}

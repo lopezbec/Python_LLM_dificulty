@@ -1,0 +1,5 @@
+{
+  "question": "Using nested loops can lead to exponential time complexity, making the program significantly slower with large datasets.",
+  "answer": true,
+  "difficulty": 8
+}

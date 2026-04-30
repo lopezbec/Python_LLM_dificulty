@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct code fragment to complete the if statement that checks if a number is positive.",
+  "code_snippet": "if x ",
+  "options": [
+    " > 0:",
+    " < 0:",
+    " == 0:"
+  ],
+  "correct_option": "> 0:"
+}

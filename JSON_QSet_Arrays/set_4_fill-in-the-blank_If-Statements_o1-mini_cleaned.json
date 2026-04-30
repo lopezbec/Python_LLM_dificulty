@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Fill in the blank to create a basic if-statement that checks if `x` is equal to 10:\n\n```python\nif x ___ 10:\n    print(\"x is ten\")\n```",
+    "answer": "==",
+    "level": 1
+  },
+  {
+    "question": "Fill in the blank to complete the if-statement that checks if `number` is greater than 0:\n\n```python\nif number ___ 0:\n    print(\"Positive number\")\n```",
+    "answer": ">",
+    "level": 2
+  },
+  {
+    "question": "Fill in the blank to create an if-else statement that prints \"Even\" if `num` is divisible by 2, otherwise prints \"Odd\":\n\n```python\nif num % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"___\")\n```",
+    "answer": "Odd",
+    "level": 3
+  },
+  {
+    "question": "Fill in the blank to complete the nested if-statement that checks if `age` is greater than or equal to 18 and `has_license` is `True`:\n\n```python\nif age >= 18:\n    if has_license ___ True:\n        print(\"Can drive\")\n```",
+    "answer": "==",
+    "level": 4
+  },
+  {
+    "question": "Fill in the blank to use a logical operator in the if-statement that checks if `x` is between 10 and 20:\n\n```python\nif x > 10 ___ x < 20:\n    print(\"x is between 10 and 20\")\n```",
+    "answer": "and",
+    "level": 5
+  },
+  {
+    "question": "Fill in the blank to complete the if-elif-else statement that categorizes `score`:\n\n```python\nif score >= 90:\n    grade = \"A\"\nelif score >= 80:\n    grade = ___\nelse:\n    grade = \"F\"\n```",
+    "answer": "\"B\"",
+    "level": 6
+  },
+  {
+    "question": "Fill in the blank to handle multiple conditions in the if-statement using `or` to check if `day` is either 'Saturday' or 'Sunday':\n\n```python\nif day == 'Saturday' ___ day == 'Sunday':\n    print(\"Weekend\")\n```",
+    "answer": "or",
+    "level": 7
+  },
+  {
+    "question": "Fill in the blank to use the `not` operator in the if-statement that checks if `user` is not an admin:\n\n```python\nif ___ user.is_admin():\n    print(\"Access denied\")\n```",
+    "answer": "not",
+    "level": 8
+  },
+  {
+    "question": "Fill in the blank to complete the if-statement that uses a compound condition to check if `a` is divisible by both 2 and 3:\n\n```python\nif a % 2 == 0 ___ a % 3 == 0:\n    print(\"a is divisible by both 2 and 3\")\n```",
+    "answer": "and",
+    "level": 9
+  },
+  {
+    "question": "Fill in the blank to implement an if-statement that checks if `temperature` is within the comfortable range (20 to 25 degrees inclusive) using comparison operators:\n\n```python\nif ___ <= temperature <= ___:\n    print(\"Temperature is comfortable\")\n```",
+    "answer": "20, 25",
+    "level": 10
+  }
+]

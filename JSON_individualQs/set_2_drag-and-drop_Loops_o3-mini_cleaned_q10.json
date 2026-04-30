@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Implement a custom iterator by completing the __next__ method.",
+  "instruction": "Drag and drop the correct condition that determines when to stop iteration.",
+  "drag_items": [
+    "self.current >= self.limit",
+    "self.current < self.limit",
+    "while True",
+    "self.current == self.limit"
+  ],
+  "drop_zones": [
+    "Missing if condition in __next__ method (i.e., if ______: raise StopIteration)"
+  ],
+  "correct_mapping": {
+    "Missing if condition in __next__ method (i.e., if ______: raise StopIteration)": "self.current >= self.limit"
+  }
+}

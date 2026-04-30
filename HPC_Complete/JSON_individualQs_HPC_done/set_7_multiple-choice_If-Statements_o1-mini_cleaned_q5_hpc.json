@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 20",
+        "if x > y:",
+        "print(\"x is greater\")",
+        "elif x == y:",
+        "print(\"x and y are equal\")",
+        "else:",
+        "print(\"y is greater\")",
+        "x is greater",
+        "x and y are equal",
+        "y is greater",
+        "No output"
+    ]
+}

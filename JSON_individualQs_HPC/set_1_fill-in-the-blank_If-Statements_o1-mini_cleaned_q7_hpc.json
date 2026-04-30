@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x = 5",
+        "y = 10",
+        "if x > 0 ___ y > 5:",
+        "print(\"Both conditions are true\")",
+        "and"
+    ]
+}

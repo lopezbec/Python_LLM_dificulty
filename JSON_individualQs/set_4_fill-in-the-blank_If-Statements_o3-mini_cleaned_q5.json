@@ -1,0 +1,6 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank to combine two conditions using a logical operator. The condition should check if age is greater than 18 and less than 65:\n\nif age > 18 ______ age < 65:\n    print('Eligible for working')\n\nWhich operator should be used?",
+  "answer": "and"
+}

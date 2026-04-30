@@ -1,0 +1,11 @@
+{
+  "question": "What will be the value of 'result' after the following code executes?\n\n```python\nresult = []\nfor i in range(3):\n    for j in range(2):\n        result.append(i * j)\n```",
+  "options": [
+    "[0, 0, 1, 1, 2, 2]",
+    "[0, 1, 2]",
+    "[0, 0, 0]",
+    "[0, 1, 2, 3, 4, 5]"
+  ],
+  "correct_answer": "[0, 0, 1, 1, 2, 2]",
+  "difficulty": 8
+}

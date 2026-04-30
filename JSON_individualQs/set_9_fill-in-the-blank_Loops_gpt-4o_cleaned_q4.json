@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "For a loop to iterate over each character in a string named 'text', we can write: for char in ___.",
+  "answer": "text"
+}

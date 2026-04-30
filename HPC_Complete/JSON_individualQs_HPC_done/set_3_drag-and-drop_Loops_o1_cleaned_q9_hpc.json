@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "my_list",
+        "my_list = [10, 20, 30, 40, 50]",
+        "for i in [RANGE_PLACEHOLDER]:",
+        "[SKIP_CONDITION_PLACEHOLDER]",
+        "print(my_list[i])",
+        "range(len(my_list))",
+        "range(len(my_list), 0, -1)",
+        "if i % 2 != 0: continue",
+        "if my_list[i] == 30: continue",
+        "RANGE_PLACEHOLDER",
+        "SKIP_CONDITION_PLACEHOLDER"
+    ]
+}

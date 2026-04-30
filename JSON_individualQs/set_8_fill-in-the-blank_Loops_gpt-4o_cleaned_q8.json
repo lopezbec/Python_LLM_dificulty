@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In Python, you can use the ___ clause with a loop to define a block of code that executes if no break statement was encountered.",
+  "answer": "else"
+}

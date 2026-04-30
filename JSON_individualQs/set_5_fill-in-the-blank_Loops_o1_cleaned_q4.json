@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: The ______ statement is used to exit a loop immediately from any point in the loop body.",
+  "correct_answer": "break"
+}

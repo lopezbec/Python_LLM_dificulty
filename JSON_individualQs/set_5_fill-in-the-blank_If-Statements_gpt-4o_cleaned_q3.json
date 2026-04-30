@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "In Python, the keyword used to define an alternative block of code when an if condition is False is _____.",
+  "answer": "else"
+}

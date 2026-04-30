@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "How many total iterations will be executed by the inner loop in the following code snippet?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+  "options": {
+    "A": "3",
+    "B": "6",
+    "C": "2",
+    "D": "5"
+  },
+  "correct_answer": "B"
+}

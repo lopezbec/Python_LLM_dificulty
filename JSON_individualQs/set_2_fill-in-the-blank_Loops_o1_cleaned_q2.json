@@ -1,0 +1,5 @@
+{
+  "question": "A loop that continues running as long as a condition is True is called a ______ loop in Python.",
+  "difficulty": 2,
+  "answer": "while"
+}

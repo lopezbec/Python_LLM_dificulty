@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "value = 'Python'",
+        "if 'y' in value:",
+        "print('Found')",
+        "elif 'o' in value:",
+        "print('Also Found')",
+        "else:",
+        "print('Not Found')",
+        "Found",
+        "Also Found",
+        "Not Found",
+        "Error"
+    ]
+}

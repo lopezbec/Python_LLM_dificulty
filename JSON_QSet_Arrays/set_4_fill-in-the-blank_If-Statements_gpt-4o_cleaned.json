@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if-statement begins with the keyword 'if' followed by a _____ statement.",
+    "answer": "conditional"
+  },
+  {
+    "difficulty": 2,
+    "question": "The keyword _____ is used to execute a block of code when the if condition evaluates to False.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 3,
+    "question": "To check multiple conditions in an if-else structure, use the _____ keyword between conditions.",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 4,
+    "question": "In the following code: if x > 5: print('Greater'), what is the purpose of the condition 'x > 5'?\nIt checks if x is _____ than 5.",
+    "answer": "greater"
+  },
+  {
+    "difficulty": 5,
+    "question": "In an if-statement, a condition evaluates to either _____ (for true) or False (for false) to decide execution.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will the following code output if the value of n is 10?\n\nif n > 5:\n    print('n is big')\nelse:\n    print('n is small')\n\nOutput: '_____ is big'.",
+    "answer": "n"
+  },
+  {
+    "difficulty": 7,
+    "question": "An if-statement can control the flow of execution by using comparison operators like >, <, >=, and _____, which stand for equal.",
+    "answer": "=="
+  },
+  {
+    "difficulty": 8,
+    "question": "To nest one if-statement inside another, correctly indent the inner if-statement block. What would the output be if this code runs with x = 7?\n\nif x > 5:\n    if x < 10:\n        print('x is between 5 and 10')\n\nOutput: '__ is between 5 and 10'.",
+    "answer": "x"
+  },
+  {
+    "difficulty": 9,
+    "question": "In the expression 'if x and y:', both x and y are evaluated, and the block is executed if they are both _____.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "What logical operator would you use in an if-statement to execute a block of code when any one of multiple conditions is true?",
+    "answer": "or"
+  }
+]

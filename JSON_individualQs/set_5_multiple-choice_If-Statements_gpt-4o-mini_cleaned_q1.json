@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What will the following code print? \nif True: \n    print('Hello')",
+  "options": {
+    "A": "Hello",
+    "B": "Nothing",
+    "C": "False",
+    "D": "Error"
+  },
+  "correct_answer": "A"
+}

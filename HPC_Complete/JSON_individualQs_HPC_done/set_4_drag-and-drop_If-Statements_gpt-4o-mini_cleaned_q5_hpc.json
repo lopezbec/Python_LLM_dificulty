@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x == 0 { _____ } else { _____ }",
+        "print('x is zero')",
+        "print('x is not zero')",
+        "x = x + 5"
+    ]
+}

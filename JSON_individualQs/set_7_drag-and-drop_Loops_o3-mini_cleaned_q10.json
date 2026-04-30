@@ -1,0 +1,22 @@
+{
+  "difficulty": 10,
+  "question": "Reorder the code segments to correctly implement a multiplication table (numbers 1 to 3) using nested loops. Arrange the segments into the proper structure.",
+  "dragItems": [
+    "for i in range(1, 4):",
+    "for j in range(1, 4):",
+    "print(f'{i}x{j}={i*j}', end=' ')",
+    "print()"
+  ],
+  "dropZones": [
+    "Step 1",
+    "Step 2",
+    "Step 3",
+    "Step 4"
+  ],
+  "correctMapping": {
+    "Step 1": "for i in range(1, 4):",
+    "Step 2": "for j in range(1, 4):",
+    "Step 3": "print(f'{i}x{j}={i*j}', end=' ')",
+    "Step 4": "print()"
+  }
+}

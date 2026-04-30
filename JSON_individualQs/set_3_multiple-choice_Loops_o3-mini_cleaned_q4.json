@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "In a for loop iterating over a list, which option is the correct way to access both the index and the value?",
+  "options": [
+    "for index, value in enumerate(list):",
+    "for index, value in list.enumerate():",
+    "for index, value in enumerate(list()):",
+    "for index in range(len(list)):"
+  ],
+  "correct_answer": "for index, value in enumerate(list):"
+}

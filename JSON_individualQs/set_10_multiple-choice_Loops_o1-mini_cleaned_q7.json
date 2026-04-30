@@ -1,0 +1,11 @@
+{
+  "question": "What does the following code do?\n\n```python\nfor item in [1, 2, 3]:\n    if item == 2:\n        continue\n    print(item)\n```",
+  "options": [
+    "Prints 1, 2, 3",
+    "Prints 1 and 3",
+    "Prints 2",
+    "Does not print anything"
+  ],
+  "correct_answer": "Prints 1 and 3",
+  "difficulty": 7
+}

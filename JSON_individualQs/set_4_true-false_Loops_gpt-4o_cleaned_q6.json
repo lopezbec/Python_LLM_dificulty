@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A 'for' loop can have an 'else' block that executes if the loop is not terminated by a 'break' statement.",
+  "answer": true
+}

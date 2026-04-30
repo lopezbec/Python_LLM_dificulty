@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: To create a loop that iterates over a sequence of numbers from 0 up to but not including 5, complete the statement: for i in ______(5):",
+  "answer": "range"
+}

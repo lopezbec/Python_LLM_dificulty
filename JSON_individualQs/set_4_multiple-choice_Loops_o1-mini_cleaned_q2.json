@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "question": "Which loop is guaranteed to execute its body at least once?",
+  "options": {
+    "A": "for loop",
+    "B": "while loop",
+    "C": "do-while loop",
+    "D": "None of the above"
+  },
+  "answer": "D",
+  "difficulty": 2,
+  "topic": "loops",
+  "type": "multiple-choice"
+}

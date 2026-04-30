@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for",
+        "while",
+        "loop",
+        "each",
+        "______ i in range(5):"
+    ]
+}

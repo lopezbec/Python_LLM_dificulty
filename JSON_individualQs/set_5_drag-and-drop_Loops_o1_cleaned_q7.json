@@ -1,0 +1,21 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question_text": "Put these lines in the correct order to write a for/else loop checking for an even number between 2 and 4. If found, it breaks; otherwise, it prints a message.",
+  "choices": [
+    "for i in range(2, 5):",
+    "if i % 2 == 0:",
+    "print('Found an even number:', i)",
+    "break",
+    "else:",
+    "print('No even number found.')"
+  ],
+  "correct_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

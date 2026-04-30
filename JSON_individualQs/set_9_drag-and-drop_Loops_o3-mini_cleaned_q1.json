@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "prompt": "Drag and drop the correct keyword to complete the loop:\n\n____ i in range(3):\n    print(i)",
+  "drag_items": [
+    "for",
+    "while",
+    "if"
+  ],
+  "drop_targets": [
+    "keyword"
+  ],
+  "correct_mapping": {
+    "keyword": "for"
+  }
+}

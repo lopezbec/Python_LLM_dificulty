@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x",
+        "x > 0",
+        "print('Positive')",
+        "if",
+        "for",
+        "while",
+        "def"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What is the main purpose of a loop in programming?",
+  "options": [
+    "To perform a task repeatedly",
+    "To create a variable",
+    "To define a function",
+    "To end a program"
+  ],
+  "correctAnswer": "To perform a task repeatedly"
+}

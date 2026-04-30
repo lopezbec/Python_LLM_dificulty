@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "An if-statement in Python is used to execute code only when a condition is True.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, an if-statement must always include an else clause.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "An if-statement in Python can test for equality using the '==' operator.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "The 'elif' keyword in Python is a shorthand for 'else if' and is used to test additional conditions sequentially.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "In nested if-statements, the inner if condition is evaluated even if the outer if condition is False.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 6,
+    "question": "Python allows chaining of comparison operators (e.g., 0 < x < 5) in an if-statement without the need for logical operators.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, the condition of an if-statement must be enclosed within parentheses.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 8,
+    "question": "An if-elif-else chain in Python can have multiple elif clauses but only one else clause at the end.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 9,
+    "question": "Using multiple separate if-statements to test mutually exclusive conditions is generally more efficient than an if-elif chain in Python.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 10,
+    "question": "When an if-statement condition in Python involves multiple logical operators, the expressions are evaluated using short-circuit logic.",
+    "answer": "True"
+  }
+]

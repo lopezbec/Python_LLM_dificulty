@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for ____ in ____:\n    print(____)",
+        "i",
+        "range(5)",
+        "j",
+        "len(my_list)"
+    ]
+}

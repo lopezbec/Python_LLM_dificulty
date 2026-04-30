@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "def categorize_temperature(temp):",
+        "if temp > 30:",
+        "category = \"Hot\"",
+        "___ temp > 20:",
+        "category = \"Warm\"",
+        "elif temp > 10:",
+        "category = \"Cool\"",
+        "else:",
+        "category = \"Cold\"",
+        "return category",
+        "elif",
+        "else",
+        "if"
+    ]
+}

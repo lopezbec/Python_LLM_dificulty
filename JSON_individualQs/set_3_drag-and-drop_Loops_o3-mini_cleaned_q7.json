@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "loops",
+  "question": "Arrange the lines to build a nested loop where the inner loop uses a continue statement. The outer loop iterates over letters and the inner loop over numbers; the code should skip printing when the number is 2.",
+  "instructions": "Drag and drop the following lines in the correct order to achieve the desired behavior.",
+  "items": [
+    {
+      "id": "A",
+      "text": "for letter in ['a', 'b']:"
+    },
+    {
+      "id": "B",
+      "text": "    for number in [1, 2, 3]:"
+    },
+    {
+      "id": "C",
+      "text": "        if number == 2:"
+    },
+    {
+      "id": "D",
+      "text": "            continue"
+    },
+    {
+      "id": "E",
+      "text": "        print(letter, number)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
+}

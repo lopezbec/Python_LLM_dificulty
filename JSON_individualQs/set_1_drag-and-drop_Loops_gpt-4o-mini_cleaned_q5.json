@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct code snippets to create a loop that skips even numbers.",
+  "options": {
+    "A": "break",
+    "B": "continue",
+    "C": "pass",
+    "D": "stop"
+  },
+  "drops": {
+    "Target": "for i in range(10): if i % 2 == 0: _____"
+  },
+  "correct_order": [
+    "B"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "In an if-statement, the condition must be an integer for the statement to work properly.",
+  "answer": false
+}

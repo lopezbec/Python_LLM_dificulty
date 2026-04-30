@@ -1,0 +1,11 @@
+{
+  "question": "For the following code, identify the output:\n\n```python\nx = True\ny = False\nif x or y:\n    if x and not y:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    print('Case 3')\n```",
+  "difficulty": 9,
+  "choices": {
+    "a": "Case 1",
+    "b": "Case 2",
+    "c": "Case 3",
+    "d": "Error"
+  },
+  "correct_answer": "a"
+}

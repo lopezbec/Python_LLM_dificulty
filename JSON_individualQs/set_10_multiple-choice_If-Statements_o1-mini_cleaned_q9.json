@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "question": "What is the purpose of the `pass` statement in an if block?",
+  "options": {
+    "A": "To skip the if condition.",
+    "B": "To create an empty block when no action is needed.",
+    "C": "To terminate the program.",
+    "D": "To continue to the next iteration of a loop."
+  },
+  "answer": "B",
+  "difficulty": 9
+}

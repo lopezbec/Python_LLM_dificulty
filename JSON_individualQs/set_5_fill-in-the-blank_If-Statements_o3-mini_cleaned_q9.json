@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank to complete the Python ternary conditional expression that assigns 'Even' if num is even, otherwise 'Odd':\n\nresult = 'Even' if num % 2 == 0 ______ 'Odd'",
+  "answer": "else"
+}

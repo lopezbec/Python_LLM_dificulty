@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Given the code below:\n\nif x < 0:\n    print('Negative')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Positive')\n\nWhat will be printed when x is 0?",
+  "options": [
+    "Zero",
+    "Positive",
+    "Negative",
+    "Nothing"
+  ],
+  "answer": "Zero"
+}

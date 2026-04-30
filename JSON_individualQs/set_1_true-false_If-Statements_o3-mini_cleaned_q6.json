@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The 'elif' clause is mandatory in Python if-statements when an else clause is used.",
+  "answer": false
+}

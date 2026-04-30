@@ -1,0 +1,9 @@
+{
+  "question": "Python allows the use of logical operators like 'and' and 'or' within an if condition.",
+  "difficulty": 7,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "True"
+}

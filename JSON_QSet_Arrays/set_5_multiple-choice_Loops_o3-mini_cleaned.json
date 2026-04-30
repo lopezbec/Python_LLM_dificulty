@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which keyword is used to initiate a loop in Python for iterating over items of a sequence?",
+    "options": {
+      "A": "for",
+      "B": "while",
+      "C": "loop",
+      "D": "repeat"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "What is the output of the following Python code?\n\nfor i in range(3):\n    print(i)",
+    "options": {
+      "A": "1 2 3",
+      "B": "0 1 2",
+      "C": "0 1 2 3",
+      "D": "Error"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which loop is best used when you need to execute a set of statements repeatedly until a specified condition becomes False?",
+    "options": {
+      "A": "for",
+      "B": "while",
+      "C": "if",
+      "D": "repeat-until"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 4,
+    "question": "Which control statement is used to skip the rest of the current loop iteration in Python?",
+    "options": {
+      "A": "break",
+      "B": "skip",
+      "C": "continue",
+      "D": "pass"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 5,
+    "question": "What control statement would you use to exit from a loop immediately, regardless of the loop's condition?",
+    "options": {
+      "A": "exit",
+      "B": "stop",
+      "C": "break",
+      "D": "return"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 6,
+    "question": "How many total iterations will be executed by the inner loop in the following code snippet?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "2",
+      "D": "5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 7,
+    "question": "Which best describes the object returned by the range() function in Python 3?",
+    "options": {
+      "A": "list",
+      "B": "iterator",
+      "C": "range object",
+      "D": "generator"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 8,
+    "question": "What is the output of the following code snippet?\n\ncount = 0\nfor i in range(1, 6):\n    if i % 2 == 0:\n        continue\n    count += 1\nprint(count)",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 9,
+    "question": "What is the final value of 'total' after executing the following code?\n\ntotal = 0\nfor i in range(1, 4):\n    for j in range(i):\n         total += 1\nprint(total)",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 10,
+    "question": "What is the role of the else clause when used with a loop (for or while) in Python?",
+    "options": {
+      "A": "It executes every time the loop iterates",
+      "B": "It executes only if the loop terminates normally without encountering a break",
+      "C": "It executes whenever a break statement is encountered",
+      "D": "It resets the loop counter"
+    },
+    "correct_answer": "B"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "To iterate over items in a sequence with their index, you can use the _____ function.",
+  "answer": "enumerate"
+}

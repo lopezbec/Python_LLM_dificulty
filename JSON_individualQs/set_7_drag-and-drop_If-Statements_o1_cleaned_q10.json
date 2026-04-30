@@ -1,0 +1,18 @@
+{
+  "difficulty": 10,
+  "question": "Complete the code snippet to check if x is a multiple of 4 or if it's a prime under 10.",
+  "instruction": "Drag the correct statements into the placeholders to complete the nested conditions.",
+  "partiallyCompletedCode": "x = 7\n____ x % 4 == 0:\n    print('Multiple of 4')\n____ x < 10:\n    ____ x in [2, 3, 5, 7]:\n        print('Prime under 10')\n    else:\n        print('Under 10 but not prime')\nelse:\n    print('Does not meet any condition')",
+  "dragItems": [
+    "if",
+    "elif",
+    "while",
+    "for"
+  ],
+  "correctAnswer": [
+    "if",
+    "elif",
+    "if"
+  ],
+  "explanation": "Use 'if' to check if x is a multiple of 4, then 'elif' to handle x < 10, and a nested 'if' to see if x is prime under 10."
+}

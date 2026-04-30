@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What is true about the else clause in a Python for or while loop?",
+  "options": [
+    "It always executes before the loop starts",
+    "It executes only if the loop was never entered",
+    "It executes only if the loop completes without a break",
+    "It executes after every iteration"
+  ],
+  "correct_answer": "It executes only if the loop completes without a break"
+}

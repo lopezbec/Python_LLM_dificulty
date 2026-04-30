@@ -1,0 +1,6 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question_text": "In the code below, fill in the blank to provide an additional condition after the if statement:\n\nif x < 0:\n    print(\"x is negative\")\n________ x == 0:\n    print(\"x is zero\")\nelse:\n    print(\"x is positive\")",
+  "correct_answer": "elif"
+}

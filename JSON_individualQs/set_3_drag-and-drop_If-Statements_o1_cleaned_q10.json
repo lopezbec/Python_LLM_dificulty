@@ -1,0 +1,18 @@
+{
+  "number": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "prompt": "Complete the nested if statement. If x is even, then check if x is greater than 10. Print 'Large even' if it is; otherwise print 'Small even'.",
+  "code": "x = 14\nif x % 2 == 0:\n    ________ x > 10:\n        print(\"Large even\")\n    ________:\n        print(\"Small even\")",
+  "choices": [
+    "if",
+    "else",
+    "elif",
+    "while",
+    "for"
+  ],
+  "correct_choice": [
+    "if",
+    "else"
+  ]
+}

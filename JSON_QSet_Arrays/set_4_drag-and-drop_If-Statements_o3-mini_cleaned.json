@@ -1,0 +1,193 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag and drop the correct keyword to complete the if-statement that checks if x is greater than 10.\n\n_____ x > 10:\n    print('x is greater than 10')",
+    "blanks": [
+      "Blank1"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "for",
+      "while"
+    ],
+    "correct_mapping": {
+      "Blank1": "if"
+    }
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the two blanks to create a valid if-statement that checks if x is equal to 10.\n\n_____ x == 10_____\n    print('x is equal to 10')",
+    "blanks": [
+      "Blank1",
+      "Blank2"
+    ],
+    "drag_items": [
+      "if",
+      ":",
+      "elif",
+      "print"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": ":"
+    }
+  },
+  {
+    "difficulty": 3,
+    "question": "Complete the drag-and-drop exercise by filling in the correct keywords for an if-else statement that checks if x is positive.\n\n_____ x > 0:\n    print('x is positive')\n_____:\n    print('x is zero or negative')",
+    "blanks": [
+      "Blank1",
+      "Blank2"
+    ],
+    "drag_items": [
+      "if",
+      "else",
+      "elif",
+      "for"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "else"
+    }
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the missing keywords to complete the if-elif-else structure that compares two variables a and b.\n\n_____ a == b:\n    print('a is equal to b')\n____ a > b:\n    print('a is greater than b')\n_____:\n    print('a is less than b')",
+    "blanks": [
+      "Blank1",
+      "Blank2",
+      "Blank3"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "else",
+      "for",
+      "while"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "elif",
+      "Blank3": "else"
+    }
+  },
+  {
+    "difficulty": 5,
+    "question": "Drag and drop the correct keyword to complete the compound condition in the if-statement.\n\nif x > 0 _____ x < 10:\n    print('x is between 0 and 10')",
+    "blanks": [
+      "Blank1"
+    ],
+    "drag_items": [
+      "and",
+      "or",
+      "if",
+      "elif"
+    ],
+    "correct_mapping": {
+      "Blank1": "and"
+    }
+  },
+  {
+    "difficulty": 6,
+    "question": "Complete the nested if-statements by filling each blank with the correct keyword.\n\n_____ x > 0:\n    _____ y < 5:\n         print('Both conditions are true')",
+    "blanks": [
+      "Blank1",
+      "Blank2"
+    ],
+    "drag_items": [
+      "if",
+      "for",
+      "elif",
+      "while"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "if"
+    }
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blanks to complete the if-statement with a compound condition using parentheses.\n\n_____ (x > 0 _____ x < 10):\n    print('x is in range')",
+    "blanks": [
+      "Blank1",
+      "Blank2"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "and",
+      "or",
+      ":"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "and"
+    }
+  },
+  {
+    "difficulty": 8,
+    "question": "Complete the following if-elif-else structure that assigns a grade based on a score by dragging the correct keywords into the blanks.\n\n_____ score >= 90:\n    grade = 'A'\n_____ score >= 80:\n    grade = 'B'\n_____:\n    grade = 'C'",
+    "blanks": [
+      "Blank1",
+      "Blank2",
+      "Blank3"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "else",
+      "while",
+      "for"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "elif",
+      "Blank3": "else"
+    }
+  },
+  {
+    "difficulty": 9,
+    "question": "Drag and drop the correct keywords to complete the nested if-else structure that evaluates the sign of x and y.\n\n_____ x > 0:\n    _____ y < 0:\n         print('x is positive and y is negative')\n    _____:\n         print('x is positive but y is not negative')",
+    "blanks": [
+      "Blank1",
+      "Blank2",
+      "Blank3"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "else",
+      "for",
+      "while"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "if",
+      "Blank3": "else"
+    }
+  },
+  {
+    "difficulty": 10,
+    "question": "Complete the code below by dragging the missing keywords to build a multi-branch conditional statement that prints messages based on the temperature value.\n\n_____ temperature > 30:\n    print(\"It's hot\")\n_____ temperature <= 30 _____ temperature > 15:\n    print(\"It's warm\")\n_____:\n    print(\"It's cold\")",
+    "blanks": [
+      "Blank1",
+      "Blank2",
+      "Blank3",
+      "Blank4"
+    ],
+    "drag_items": [
+      "if",
+      "elif",
+      "else",
+      "and",
+      "or"
+    ],
+    "correct_mapping": {
+      "Blank1": "if",
+      "Blank2": "elif",
+      "Blank3": "and",
+      "Blank4": "else"
+    }
+  }
+]

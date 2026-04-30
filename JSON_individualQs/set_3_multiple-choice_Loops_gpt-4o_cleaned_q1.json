@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "What is the purpose of a 'for' loop in Python?",
+  "options": [
+    "To iterate over a sequence (such as a list, tuple, or string).",
+    "To repeat a block of code indefinitely.",
+    "To terminate a program.",
+    "To handle exceptions."
+  ],
+  "correct_answer": "To iterate over a sequence (such as a list, tuple, or string)."
+}

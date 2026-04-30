@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In Python, modifying the list you are iterating over within a `for` loop has no effect on the loop's execution.",
+  "answer": "False"
+}

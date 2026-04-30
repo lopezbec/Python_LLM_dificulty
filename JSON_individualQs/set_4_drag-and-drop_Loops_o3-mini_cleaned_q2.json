@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the snippets to create a Python for-loop that prints the numbers 0, 1, and 2.",
+  "prompt": "Drag and drop the code pieces to form a complete for-loop that prints numbers from 0 to 2.",
+  "dragItems": [
+    "for i",
+    "in",
+    "range(3):",
+    "print(i)"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "for i",
+    "in",
+    "range(3):",
+    "print(i)"
+  ]
+}

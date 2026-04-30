@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to check data type using an if-statement:\n\nif isinstance(x, ______):\n    print('x is an integer')",
+  "correct_answer": "int"
+}

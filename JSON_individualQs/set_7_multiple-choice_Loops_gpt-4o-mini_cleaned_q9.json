@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will be the output of the following code?\n\nfor i in range(5):\n    if i == 3:\n        break\n    print(i)\n",
+  "options": [
+    "0\n1\n2\n3",
+    "0\n1\n2",
+    "0\n1\n2\n3\n4",
+    "3"
+  ],
+  "answer": "0\n1\n2"
+}

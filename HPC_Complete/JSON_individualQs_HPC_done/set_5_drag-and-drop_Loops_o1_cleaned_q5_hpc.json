@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for y in range(2):",
+        "for x in range(2):",
+        "print(x, y)",
+        "x",
+        "y",
+        "range(2)"
+    ]
+}

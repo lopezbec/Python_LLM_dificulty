@@ -1,0 +1,10 @@
+{
+  "question": "Which statement correctly exits the current loop and moves to the next iteration in Python?",
+  "options": {
+    "A": "exit",
+    "B": "continue",
+    "C": "pass",
+    "D": "break"
+  },
+  "answer": "B"
+}

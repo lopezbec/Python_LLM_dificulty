@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "____ a > b:\n    print('a is greater')\n____ a == b:\n    print('a equals b')\n____ a < b:\n    print('a is less')",
+        "if",
+        "elif",
+        "else",
+        "for"
+    ]
+}

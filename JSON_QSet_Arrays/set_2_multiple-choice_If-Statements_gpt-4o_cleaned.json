@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the primary purpose of an if-statement in Python?",
+    "difficulty": 1,
+    "options": {
+      "A": "To iterate over a sequence",
+      "B": "To declare a variable",
+      "C": "To execute code only if a condition is true",
+      "D": "To convert data types"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "Which of the following is the correct syntax for an if-statement in Python?",
+    "difficulty": 2,
+    "options": {
+      "A": "if (condition) {}",
+      "B": "if condition:",
+      "C": "if condition then",
+      "D": "if: condition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "What will the following code output?\n\nx = 10\nif x > 5:\n    print('Greater')\nelse:\n    print('Smaller')",
+    "difficulty": 3,
+    "options": {
+      "A": "Greater",
+      "B": "Smaller",
+      "C": "An error",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which operator is used to check if two values are equal in an if-statement?",
+    "difficulty": 4,
+    "options": {
+      "A": "==",
+      "B": "=",
+      "C": "!=",
+      "D": "=>"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question": "Consider the following code:\n\nx = 4\nif x < 6:\n    print('A')\nif x < 5:\n    print('B')\n\nWhat is the output?",
+    "difficulty": 5,
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "A B",
+      "D": "No output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question": "What does the `elif` keyword do in an if-statement?",
+    "difficulty": 6,
+    "options": {
+      "A": "It ends the if-statement",
+      "B": "It specifies an alternative condition",
+      "C": "It restarts the if evaluation",
+      "D": "It catches exceptions"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "In a nested if-statement where the outer condition is false, what happens to the inner condition?",
+    "difficulty": 7,
+    "options": {
+      "A": "It is evaluated",
+      "B": "It is ignored",
+      "C": "The program crashes",
+      "D": "The condition is set to true"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Consider the code:\n\nx = 15\ny = 10\nif x > y:\n    if x < 20:\n        print('x is between y and 20')\nelse:\n    print('x is not greater than y')\n\nWhat is the output?",
+    "difficulty": 8,
+    "options": {
+      "A": "x is not greater than y",
+      "B": "x is between y and 20",
+      "C": "No output",
+      "D": "An error occurs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which of the following if-statement structures allows checking multiple conditions and executing appropriate code for the first true condition?",
+    "difficulty": 9,
+    "options": {
+      "A": "if-else",
+      "B": "if-elif",
+      "C": "if",
+      "D": "while-if"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question": "Given the input: x = 5, y = 10, and z = 15, which block of code will execute in the following?\n\nif x < y:\n    if y < z:\n        if x < z:\n            result = 'Nested'\n        else:\n            result = 'Inner else'\n    else:\n        result = 'Middle else'\nelse:\n    result = 'Outer else'",
+    "difficulty": 10,
+    "options": {
+      "A": "Nested",
+      "B": "Inner else",
+      "C": "Middle else",
+      "D": "Outer else"
+    },
+    "correct_answer": "A"
+  }
+]

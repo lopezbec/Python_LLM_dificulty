@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "Drag the correct keyword to complete the if-statement: ___ x > 0:",
+    "dragItems": [
+      "if",
+      "else",
+      "elif"
+    ],
+    "dropZones": {
+      "keyword": "Drop the keyword here"
+    },
+    "correctMapping": {
+      "keyword": "if"
+    }
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "Complete this if-else structure by dragging the correct keywords into the blanks:\n\n___ x == 10:\n    print('Equal to 10')\n___:\n    print('Not equal to 10')",
+    "dragItems": [
+      "if",
+      "else",
+      "elif"
+    ],
+    "dropZones": {
+      "if_keyword": "Drop keyword for the condition",
+      "else_keyword": "Drop keyword for the alternative"
+    },
+    "correctMapping": {
+      "if_keyword": "if",
+      "else_keyword": "else"
+    }
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Fill in the blank with the correct comparison operator to complete the if-statement:\n\nif x ___ 5:\n    print('x is 5')",
+    "dragItems": [
+      "==",
+      "!=",
+      ">="
+    ],
+    "dropZones": {
+      "operator": "Drop the comparison operator here"
+    },
+    "correctMapping": {
+      "operator": "=="
+    }
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "Insert the missing punctuation to complete the if-statement:\n\nif y < 20___\n    print('Less than 20')",
+    "dragItems": [
+      ":",
+      ";",
+      ","
+    ],
+    "dropZones": {
+      "punctuation": "Drop the punctuation symbol here"
+    },
+    "correctMapping": {
+      "punctuation": ":"
+    }
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Drag the correct keyword to complete the elif-part of the if-elif-else structure:\n\nif score >= 90:\n    print('A')\n___ score >= 80:\n    print('B')",
+    "dragItems": [
+      "elif",
+      "else",
+      "if"
+    ],
+    "dropZones": {
+      "keyword": "Drop the keyword here"
+    },
+    "correctMapping": {
+      "keyword": "elif"
+    }
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Complete the nested if-statement by dragging the correct keyword into the blank:\n\nif a > 0:\n    ___ b > 0:\n        print('Both are positive')",
+    "dragItems": [
+      "if",
+      "else",
+      "elif"
+    ],
+    "dropZones": {
+      "inner_if": "Drop the keyword for the inner condition here"
+    },
+    "correctMapping": {
+      "inner_if": "if"
+    }
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Drag the correct logical operator into the blank to form a compound condition:\n\nif x > 0 ___ x < 10:\n    print('x is between 0 and 10')",
+    "dragItems": [
+      "and",
+      "or",
+      "not"
+    ],
+    "dropZones": {
+      "operator": "Drop the logical operator here"
+    },
+    "correctMapping": {
+      "operator": "and"
+    }
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Complete the conditional statement by dragging the appropriate comparison operator:\n\nif temperature ___ 0:\n    print('Freezing')",
+    "dragItems": [
+      "<=",
+      ">",
+      "=="
+    ],
+    "dropZones": {
+      "operator": "Drop the correct operator here"
+    },
+    "correctMapping": {
+      "operator": "<="
+    }
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "Drag the correct series of keywords to complete the if-elif-else statement:\n\n___ num % 2 == 0:\n    print('Even')\n___ num % 2 != 0:\n    print('Odd')\n___:\n    print('Unknown')",
+    "dragItems": [
+      "if",
+      "elif",
+      "else"
+    ],
+    "dropZones": {
+      "first": "Keyword for first condition",
+      "second": "Keyword for second condition",
+      "third": "Keyword for the default case"
+    },
+    "correctMapping": {
+      "first": "if",
+      "second": "elif",
+      "third": "else"
+    }
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Construct a nested if-elif-else statement by dragging the correct keywords into the blanks:\n\n___ day == 'Saturday' or day == 'Sunday':\n    print('Weekend')\n___ day == 'Friday':\n    print('Almost Weekend')\n___:\n    print('Weekday')",
+    "dragItems": [
+      "if",
+      "elif",
+      "else"
+    ],
+    "dropZones": {
+      "first": "Keyword for weekend check",
+      "second": "Keyword for almost weekend check",
+      "third": "Keyword for other days"
+    },
+    "correctMapping": {
+      "first": "if",
+      "second": "elif",
+      "third": "else"
+    }
+  }
+]

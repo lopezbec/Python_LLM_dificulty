@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In the expression 'if x > y:', the comparison operator __ is being used.",
+  "correct_answer": ">"
+}

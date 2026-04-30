@@ -1,0 +1,15 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blanks to iterate over the elements in the list and print each one:",
+  "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ___:\n    ___(fruit)",
+  "options": [
+    "print",
+    "fruits",
+    "len(fruits)",
+    "fruit"
+  ],
+  "correct_answers": [
+    "fruits",
+    "print"
+  ]
+}

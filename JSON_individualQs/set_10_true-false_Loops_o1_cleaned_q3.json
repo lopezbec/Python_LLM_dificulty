@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "We can use the 'continue' statement to skip the current loop iteration and proceed to the next one.",
+  "correct_answer": "True"
+}

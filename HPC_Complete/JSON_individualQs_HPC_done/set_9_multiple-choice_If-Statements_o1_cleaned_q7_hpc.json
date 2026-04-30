@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "x = 8",
+        "if x > 0:",
+        "if x < 10:",
+        "print(\"Single digit positive number\")",
+        "else:",
+        "print(\"Multiple digit positive number\")",
+        "else:",
+        "print(\"Negative number\")",
+        "x is 8",
+        "Single digit positive number",
+        "Multiple digit positive number",
+        "Negative number",
+        "No output",
+        "x=8"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "2. Which of the following syntax is correct for a basic if-statement?",
+  "difficulty": 2,
+  "options": {
+    "a": "if x = 5:",
+    "b": "if (x == 5)",
+    "c": "if x == 5:",
+    "d": "if x === 5:"
+  },
+  "correct_answer": "c"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Create a list of even numbers from 0 to 9 using a for loop and conditional.",
+  "instruction": "Drag and drop the correct condition to complete the if statement in the code snippet.",
+  "drag_items": [
+    "i % 2 == 0",
+    "i % 2 != 0",
+    "i == 0",
+    "i > 0"
+  ],
+  "drop_zones": [
+    "Missing condition in: if ______:"
+  ],
+  "correct_mapping": {
+    "Missing condition in: if ______:": "i % 2 == 0"
+  }
+}

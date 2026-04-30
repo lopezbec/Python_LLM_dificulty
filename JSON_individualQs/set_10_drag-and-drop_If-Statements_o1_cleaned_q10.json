@@ -1,0 +1,24 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if name is 'Bob' or 'Alice'. Then within that block, check if age is greater than 18.",
+  "codeSnippet": "name = 'Bob'\nage = 20\n[1] name [2] 'Bob' [3] name [4] 'Alice':\n    [5] age [6] 18:\n        print(\"Adult recognized:\", name)\n    else:\n        print(\"Minor recognized:\", name)\nelse:\n    print(\"Name not recognized\")",
+  "dragItems": [
+    "if",
+    "==",
+    "or",
+    "==",
+    "if",
+    ">"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    "or",
+    "==",
+    "if",
+    ">"
+  ],
+  "explanation": "First line checks if name == 'Bob' or name == 'Alice'. The nested line checks if age > 18."
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x = 10\nif x >= 5 ____ x <= 15:\n    print('Between 5 and 15')\nelif x ____ 20:\n    print('Equal to 20')\nelse:\n    print('Outside the range')",
+        "and",
+        "or",
+        ">",
+        "=="
+    ]
+}

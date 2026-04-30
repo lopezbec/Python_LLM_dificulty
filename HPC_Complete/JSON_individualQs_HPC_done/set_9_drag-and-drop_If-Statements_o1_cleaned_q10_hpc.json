@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x",
+        "if x % 2 == 0:",
+        "[__keyword__] x > 100:",
+        "print(\"x is an even number greater than 100\")",
+        "else:",
+        "print(\"x is an even number less or equal to 100\")",
+        "else:",
+        "print(\"x is odd\")",
+        "if",
+        "elif",
+        "while",
+        "else"
+    ]
+}

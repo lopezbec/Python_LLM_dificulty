@@ -1,0 +1,74 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Reconstruct the following complex if-elif-else statement by dragging the code blocks into the correct order.",
+  "drag_options": [
+    "    elif score >= 50:",
+    "        print('Passed')",
+    "if score >= 90:",
+    "        print('Excellent')",
+    "    else:",
+    "    elif score >= 70:",
+    "        print('Good')",
+    "    elif score >= 80:",
+    "        print('Very Good')",
+    "else:",
+    "        print('Needs Improvement')"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Line 1",
+      "identifier": "line_1"
+    },
+    {
+      "placeholder": "Line 2",
+      "identifier": "line_2"
+    },
+    {
+      "placeholder": "Line 3",
+      "identifier": "line_3"
+    },
+    {
+      "placeholder": "Line 4",
+      "identifier": "line_4"
+    },
+    {
+      "placeholder": "Line 5",
+      "identifier": "line_5"
+    },
+    {
+      "placeholder": "Line 6",
+      "identifier": "line_6"
+    },
+    {
+      "placeholder": "Line 7",
+      "identifier": "line_7"
+    },
+    {
+      "placeholder": "Line 8",
+      "identifier": "line_8"
+    },
+    {
+      "placeholder": "Line 9",
+      "identifier": "line_9"
+    },
+    {
+      "placeholder": "Line 10",
+      "identifier": "line_10"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if score >= 90:",
+    "line_2": "        print('Excellent')",
+    "line_3": "    elif score >= 80:",
+    "line_4": "        print('Very Good')",
+    "line_5": "    elif score >= 70:",
+    "line_6": "        print('Good')",
+    "line_7": "    elif score >= 50:",
+    "line_8": "        print('Passed')",
+    "line_9": "    else:",
+    "line_10": "        print('Needs Improvement')"
+  }
+}

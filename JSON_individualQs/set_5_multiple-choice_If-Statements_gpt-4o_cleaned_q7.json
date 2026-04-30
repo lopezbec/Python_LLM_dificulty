@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which statement would correctly handle multiple conditions with elif?",
+  "options": [
+    "if x == 1:\n    print('One')\notherwise:\n    print('Not One')",
+    "if x == 1:\n    print('One')\nelse if x == 2:\n    print('Two')",
+    "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+    "if x == 1:\n    print('One')\nelseif x == 2:\n    print('Two')"
+  ],
+  "correct_answer": "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')"
+}

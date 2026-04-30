@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "When an if-statement condition is met, the code block __ following the statement is executed.",
+  "correct_answer": "indented"
+}

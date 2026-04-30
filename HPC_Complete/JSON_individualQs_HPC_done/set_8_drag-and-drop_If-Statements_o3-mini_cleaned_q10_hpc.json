@@ -1,0 +1,24 @@
+{
+    "HPC": [
+        "def categorize_number(n):",
+        "if n > 0:",
+        "if n ___ 10:",
+        "return 'Small positive'",
+        "___ n >= 10 and n < 100:",
+        "return 'Medium positive'",
+        "___:",
+        "return 'Large positive'",
+        "elif n < 0:",
+        "return 'Negative'",
+        "___:",
+        "return 'Zero'",
+        "if",
+        "elif",
+        "else",
+        "<",
+        ">",
+        "==",
+        "and",
+        "or"
+    ]
+}

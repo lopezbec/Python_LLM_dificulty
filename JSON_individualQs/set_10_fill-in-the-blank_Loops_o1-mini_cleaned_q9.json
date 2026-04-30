@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank to implement a generator function that yields numbers from 0 to 4 using a for loop.\n\n```python\ndef generate_numbers():\n    for i in range(5):\n        ___ i\n\ngen = generate_numbers()\nfor number in gen:\n    print(number)\n```",
+  "answer": "yield"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "A 'for-else' structure in Python executes the else clause only if the loop completes without a break statement.",
+  "correct_answer": "True"
+}

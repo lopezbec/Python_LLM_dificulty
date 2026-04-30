@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\nx = 5\nif x > 3:\n    print('Yes')\nelse:\n    print('No')",
+  "options": [
+    "Yes",
+    "No",
+    "Error",
+    "None"
+  ],
+  "answer": "Yes",
+  "difficulty": 4
+}

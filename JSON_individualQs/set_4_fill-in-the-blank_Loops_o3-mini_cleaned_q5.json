@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: In a loop, if you need to exit the loop immediately when a condition is met, you use the ______ statement.",
+  "answer": "break"
+}

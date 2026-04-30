@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if 'price' in item and item['price'] ___ 100: print(\"High price!\")",
+        "'price'",
+        "item",
+        "item['price']",
+        "100",
+        ">"
+    ]
+}

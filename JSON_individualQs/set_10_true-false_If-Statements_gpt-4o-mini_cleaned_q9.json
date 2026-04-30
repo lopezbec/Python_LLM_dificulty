@@ -1,0 +1,5 @@
+{
+  "question": "In nested if-statements, the inner if will execute even if the outer if fails.",
+  "difficulty": 9,
+  "answer": false
+}

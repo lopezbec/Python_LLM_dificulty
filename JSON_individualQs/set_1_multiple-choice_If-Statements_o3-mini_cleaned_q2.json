@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is the correct syntax for an if-statement that checks if variable 'a' is greater than 10?",
+  "options": [
+    "if a > 10",
+    "if a > 10:",
+    "if (a > 10)",
+    "if (a > 10):"
+  ],
+  "answer": "if a > 10:"
+}

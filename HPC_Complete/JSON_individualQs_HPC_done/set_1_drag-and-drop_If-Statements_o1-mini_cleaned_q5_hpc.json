@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if number > 0:",
+        "    if number % 2 == 0:",
+        "        print('Positive and even')",
+        "    else:",
+        "        print('Positive but odd')",
+        "else:",
+        "    print('Non-positive number')"
+    ]
+}

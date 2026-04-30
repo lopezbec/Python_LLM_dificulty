@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "question": "What is the output of this code snippet?\n\nx = 5\nif x < 10 and x > 2:\n    print(\"Within range\")\nelse:\n    print(\"Out of range\")",
+  "choices": [
+    "A) Within range",
+    "B) Out of range",
+    "C) No output",
+    "D) Error"
+  ],
+  "correct_answer": "A",
+  "explanation": "Since x is 5, which is both less than 10 and greater than 2, it meets the condition and prints \"Within range.\""
+}

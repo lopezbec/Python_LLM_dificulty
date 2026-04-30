@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "In Python, 'break' only skips the current iteration of the loop and does not terminate it.",
+  "correctAnswer": "False"
+}

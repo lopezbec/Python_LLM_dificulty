@@ -1,0 +1,18 @@
+{
+  "question": "Drag the parts to complete the syntax of a 'for' loop that will iterate over a list named 'colors'.",
+  "options": [
+    "for",
+    "color",
+    "in",
+    "colors:",
+    "print(color)"
+  ],
+  "correct_order": [
+    "for",
+    "color",
+    "in",
+    "colors:",
+    "print(color)"
+  ],
+  "difficulty": 3
+}

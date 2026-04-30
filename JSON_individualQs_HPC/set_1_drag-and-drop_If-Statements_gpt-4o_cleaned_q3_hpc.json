@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if <blank>:\n    print('Positive')\nelse:\n    <blank>",
+        "number > 0",
+        "print('Non-positive')",
+        "number == 0"
+    ]
+}

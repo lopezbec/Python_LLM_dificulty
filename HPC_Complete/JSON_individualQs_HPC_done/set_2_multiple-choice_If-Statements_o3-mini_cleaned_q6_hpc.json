@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "if True:\nprint('Hello')"
+    ]
+}

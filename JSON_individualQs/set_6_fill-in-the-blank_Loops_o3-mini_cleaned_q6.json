@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank: In nested loops, the inner loop executes all its iterations for each iteration of the ______ loop.",
+  "correct_answer": "outer"
+}

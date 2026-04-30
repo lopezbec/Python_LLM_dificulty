@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank: A for loop in Python is commonly used to iterate over an ______, such as a list or a string.",
+  "correct_answer": "iterable"
+}

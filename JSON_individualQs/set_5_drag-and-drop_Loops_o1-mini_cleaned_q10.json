@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 10,
+  "prompt": "Organize the generator expression within a loop to yield squares of even numbers from 0 to 10.",
+  "draggableItems": [
+    "def generate_squares():",
+    "    for num in range(0, 11):",
+    "        if num % 2 == 0:",
+    "            yield num ** 2"
+  ],
+  "dropZones": [
+    "Function Definition",
+    "Loop Statement",
+    "Condition to Check Even",
+    "Yield Statement within Condition"
+  ],
+  "correctMatch": {
+    "Function Definition": "def generate_squares():",
+    "Loop Statement": "    for num in range(0, 11):",
+    "Condition to Check Even": "        if num % 2 == 0:",
+    "Yield Statement within Condition": "            yield num ** 2"
+  }
+}

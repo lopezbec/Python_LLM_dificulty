@@ -1,0 +1,11 @@
+{
+  "question": "Which operator is used for testing equality in an if statement in Python?",
+  "choices": [
+    "=",
+    "==",
+    "===",
+    ":"
+  ],
+  "answer": "==",
+  "difficulty": 5
+}

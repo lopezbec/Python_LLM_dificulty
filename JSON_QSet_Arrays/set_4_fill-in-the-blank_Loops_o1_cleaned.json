@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, the ______ keyword is used to create a loop that repeats a block of code as long as a condition is True.",
+    "correct_answer": "while"
+  },
+  {
+    "difficulty": 2,
+    "question": "To iterate over elements of a list, the ______ loop is commonly used in Python.",
+    "correct_answer": "for"
+  },
+  {
+    "difficulty": 3,
+    "question": "To immediately exit a loop and proceed with the next statement after the loop, we use the ______ statement.",
+    "correct_answer": "break"
+  },
+  {
+    "difficulty": 4,
+    "question": "To skip the remaining code in the current iteration of a loop and continue with the next iteration, we use the ______ statement.",
+    "correct_answer": "continue"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank to iterate through numbers 0 to 4: for i in ______(5):",
+    "correct_answer": "range"
+  },
+  {
+    "difficulty": 6,
+    "question": "The optional ______ clause in a loop executes only if the loop exits normally, without encountering a break statement.",
+    "correct_answer": "else"
+  },
+  {
+    "difficulty": 7,
+    "question": "In nested loops, the inner loop runs to completion for each iteration of the ______ loop.",
+    "correct_answer": "outer"
+  },
+  {
+    "difficulty": 8,
+    "question": "When using a while loop, ensure the ______ eventually becomes False to avoid an infinite loop.",
+    "correct_answer": "condition"
+  },
+  {
+    "difficulty": 9,
+    "question": "In a for loop, you can use the built-in function ______ to retrieve both index and value simultaneously.",
+    "correct_answer": "enumerate"
+  },
+  {
+    "difficulty": 10,
+    "question": "A concise way to create a list via looping is using a list ______, such as [x*x for x in range(5)].",
+    "correct_answer": "comprehension"
+  }
+]

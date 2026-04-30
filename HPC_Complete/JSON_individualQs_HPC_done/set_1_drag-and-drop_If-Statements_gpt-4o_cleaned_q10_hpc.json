@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if x > y and z < y:",
+        "elif x < y or z > x:",
+        "print('Condition B')",
+        "else:",
+        "x",
+        "y",
+        "z",
+        "print('Condition A')",
+        "print('Condition C')",
+        "print('x is less than y')"
+    ]
+}

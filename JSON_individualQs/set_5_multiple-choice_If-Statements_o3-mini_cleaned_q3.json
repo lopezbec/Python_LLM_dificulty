@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which keyword allows you to check an additional condition if the previous if condition is false?",
+  "options": {
+    "A": "else",
+    "B": "elif",
+    "C": "except",
+    "D": "finally"
+  },
+  "correct_answer": "B"
+}

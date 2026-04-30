@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "range(start, stop, step)",
+        "for",
+        "step"
+    ]
+}

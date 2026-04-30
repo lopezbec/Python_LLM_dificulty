@@ -1,0 +1,141 @@
+[
+  {
+    "difficulty": 1,
+    "prompt": "Drag and drop the correct keyword to complete the syntax of a basic 'for' loop in Python.",
+    "drag_options": [
+      "in",
+      "if",
+      "else",
+      "while"
+    ],
+    "drop_target": "for x ___ range(5):"
+  },
+  {
+    "difficulty": 2,
+    "prompt": "Identify and drop the correct part of the 'while' loop to complete the statement.",
+    "drag_options": [
+      "==",
+      "i",
+      "print",
+      "10"
+    ],
+    "drop_target": "while ____ < ____ :"
+  },
+  {
+    "difficulty": 3,
+    "prompt": "Drag and drop the correct block to complete the reversed loop through the list.",
+    "drag_options": [
+      "i",
+      "reversed",
+      "range",
+      "len"
+    ],
+    "drop_target": "for i in ____ (my_list):"
+  },
+  {
+    "difficulty": 4,
+    "prompt": "Reorder the code blocks to correctly implement a loop that prints the numbers 1 to 5.",
+    "drag_options": [
+      "for i in range(1, 6):",
+      ":",
+      "print(i)",
+      " "
+    ],
+    "drop_target_ordered": [
+      "for i in range(1, 6):",
+      " ",
+      "print(i)"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "prompt": "Drag and drop the correct number to adjust the range so the loop runs exactly 4 times.",
+    "drag_options": [
+      "0",
+      "3",
+      "4",
+      "5"
+    ],
+    "drop_target": "for i in range(___):"
+  },
+  {
+    "difficulty": 6,
+    "prompt": "Complete the loop to correctly iterate and print each character in the string 'Hello'.",
+    "drag_options": [
+      "char",
+      "in",
+      "for",
+      "string"
+    ],
+    "drop_targets": [
+      "for",
+      "___",
+      "___",
+      " 'Hello':",
+      "print(char)"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "prompt": "Identify the correct keyword to break out of the loop when a condition is met.",
+    "drag_options": [
+      "break",
+      "return",
+      "stop",
+      "end"
+    ],
+    "drop_target": "if condition: ____"
+  },
+  {
+    "difficulty": 8,
+    "prompt": "Arrange the loop in a way to incrementally print numbers starting from 10 and stop at 0.",
+    "drag_options": [
+      "print(i)",
+      "i",
+      "while i >= 0:",
+      "i -= 1"
+    ],
+    "drop_target_ordered": [
+      "i = 10",
+      "while i >= 0:",
+      "print(i)",
+      "i -= 1"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "prompt": "Complete the nested loop to iterate over a 2D list and print each element individually.",
+    "drag_options": [
+      "for",
+      "j",
+      "range",
+      "row"
+    ],
+    "drop_targets": [
+      "for",
+      "____",
+      "in matrix:",
+      "for",
+      "____",
+      "in",
+      "____:",
+      "print(cell)"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "prompt": "Arrange the following blocks to create a loop that uses a generator to iterate over squared values.",
+    "drag_options": [
+      "gen = (x ** 2 for x in range(5))",
+      "print(num)",
+      "for num in gen:",
+      " "
+    ],
+    "drop_target_ordered": [
+      "gen = (x ** 2 for x in range(5))",
+      "for num in gen:",
+      " ",
+      "print(num)"
+    ]
+  }
+]

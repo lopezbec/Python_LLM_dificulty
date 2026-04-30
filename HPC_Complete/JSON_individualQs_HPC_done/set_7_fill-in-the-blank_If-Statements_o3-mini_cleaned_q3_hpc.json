@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x > 10:",
+        "print('Too high')",
+        "____ x > 5:",
+        "print('Normal')"
+    ]
+}

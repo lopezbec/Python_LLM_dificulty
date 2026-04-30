@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Python uses the keyword 'elif' to handle multiple conditions within a single decision structure.",
+  "correctAnswer": true
+}

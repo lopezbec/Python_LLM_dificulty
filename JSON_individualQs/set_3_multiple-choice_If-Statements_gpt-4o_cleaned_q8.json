@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is true about if-statements in Python?",
+  "difficulty": 8,
+  "choices": {
+    "a": "They must always include an else block",
+    "b": "They can contain other if-statements inside them",
+    "c": "Indentation is optional",
+    "d": "Only one elif statement is allowed"
+  },
+  "correct_answer": "b"
+}

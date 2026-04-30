@@ -1,0 +1,11 @@
+{
+  "question": "Analyze the following code and determine if there are any logical errors. If so, identify them.\n\n```python\nscore = 85\nif score > 90:\n    grade = 'A'\nelif score > 80:\n    grade = 'B'\nelif score > 70:\n    grade = 'C'\nelse:\n    grade = 'D'\nprint(grade)\n```\n",
+  "options": {
+    "A": "No logical errors; the code correctly assigns grades based on score.",
+    "B": "The first condition should be `score >= 90`.",
+    "C": "The `elif` statements should use `if` instead.",
+    "D": "The grade for scores above 80 should be 'A', not 'B'."
+  },
+  "answer": "A",
+  "difficulty": 10
+}

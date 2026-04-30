@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The ___ statement is used inside loops to immediately stop the current iteration and move to the next iteration.",
+  "blank": "continue"
+}

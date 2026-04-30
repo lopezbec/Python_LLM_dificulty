@@ -1,0 +1,16 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword to complete the if-statement that checks if x is greater than 10.\n\n_____ x > 10:\n    print('x is greater than 10')",
+  "blanks": [
+    "Blank1"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "for",
+    "while"
+  ],
+  "correct_mapping": {
+    "Blank1": "if"
+  }
+}

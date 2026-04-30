@@ -1,0 +1,12 @@
+{
+  "difficulty": 5,
+  "topic": "Loops",
+  "question": "In a 'for' loop, what does the 'range()' function specify?",
+  "options": [
+    "The start, stop, and step values for iteration",
+    "The data type of loop variable",
+    "The condition to exit the loop",
+    "The function to call at each iteration"
+  ],
+  "answer": "The start, stop, and step values for iteration"
+}

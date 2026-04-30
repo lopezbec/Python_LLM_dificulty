@@ -1,0 +1,6 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank to short-circuit check if x is negative and y is positive:\nif x < 0 ______ y > 0:\n    print('x is negative and y is positive')",
+  "answer": "and"
+}

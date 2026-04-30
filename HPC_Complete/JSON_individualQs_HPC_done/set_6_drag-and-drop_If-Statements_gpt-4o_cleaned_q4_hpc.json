@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if num > 0:",
+        "if num % 2 == 0:",
+        "print('Positive Even')",
+        "num = 8",
+        "if num % 2 == 0:",
+        "if num > 0:"
+    ]
+}

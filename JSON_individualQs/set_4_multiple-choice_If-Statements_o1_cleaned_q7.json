@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In the following snippet, what value will be printed if x=5? (Assume y=10.)\n\nif x > 0:\n    if x < 10:\n        print('Small Positive')\n    else:\n        print('Large Positive')\nelse:\n    print('Non-positive')",
+  "choices": {
+    "A": "Large Positive",
+    "B": "Non-positive",
+    "C": "No output",
+    "D": "Small Positive"
+  },
+  "correct_answer": "D"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In a for loop, the loop variable automatically takes the value of each element in the iterable during each iteration.",
+  "answer": true,
+  "difficulty": 3,
+  "topic": "Loops",
+  "type": "True/False"
+}

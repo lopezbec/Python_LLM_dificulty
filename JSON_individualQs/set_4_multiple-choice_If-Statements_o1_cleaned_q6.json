@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which of the following best describes how Python handles multiple conditions joined by 'and' in an if statement?",
+  "choices": {
+    "A": "Python will run every condition even if one is false.",
+    "B": "Python checks conditions left to right and stops if one condition is false.",
+    "C": "Python converts all conditions to booleans and runs them in random order.",
+    "D": "Python only checks the last condition."
+  },
+  "correct_answer": "B"
+}

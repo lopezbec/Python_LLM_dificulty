@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code block?\n\nx = 15\nif x < 10:\n    print('Small')\nelif x < 20:\n    print('Medium')\nelse:\n    print('Large')",
+  "options": [
+    "a) Small",
+    "b) Medium",
+    "c) Large",
+    "d) None of the above"
+  ],
+  "correct_answer": "b",
+  "difficulty": 5
+}

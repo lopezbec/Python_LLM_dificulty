@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "An if-statement may optionally include an else clause to handle the case when its condition is false.",
+  "correct_answer": "True"
+}

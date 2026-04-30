@@ -1,0 +1,7 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to use the not keyword in an if-statement: \n```python\nis_valid = False\nif not ____:\n    print(\"Invalid\")\n```",
+  "answer": "is_valid"
+}

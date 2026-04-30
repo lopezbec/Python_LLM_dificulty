@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 2",
+        "y = 3",
+        "if x == y:",
+        "print('Equal')",
+        "else:",
+        "print('Not Equal')",
+        "Equal",
+        "Not Equal",
+        "True",
+        "False"
+    ]
+}

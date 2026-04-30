@@ -1,0 +1,14 @@
+{
+  "question": "Arrange the components to loop through a list and print its items.",
+  "options": [
+    "items = ['apple', 'banana', 'cherry']",
+    "for item in items:",
+    "print(item)"
+  ],
+  "correctOrder": [
+    "items = ['apple', 'banana', 'cherry']",
+    "for item in items:",
+    "print(item)"
+  ],
+  "difficulty": 7
+}

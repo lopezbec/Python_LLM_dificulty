@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to handle multiple conditions using nested if-statements to categorize `age`:\n\n```python\nif age < 13:\n    category = \"Child\"\nelif age < 20:\n    ___ age < 65:\n        category = \"Adult\"\n    else:\n        category = \"Senior\"\n```",
+  "difficulty": 10,
+  "answer": "if"
+}

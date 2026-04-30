@@ -1,0 +1,5 @@
+{
+  "question": "The following code will produce a syntax error: 'if x < 10 print(x)'",
+  "difficulty": 5,
+  "answer": true
+}

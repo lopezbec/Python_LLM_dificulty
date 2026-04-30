@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "In Python, what happens to the else clause of a for loop if a break statement is executed inside the loop?",
+  "options": {
+    "A": "The else clause is still executed",
+    "B": "The else clause is skipped",
+    "C": "The else clause is executed in a separate function",
+    "D": "The else clause is repeated for every iteration"
+  },
+  "correctAnswer": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "How can you skip the current iteration in a loop?",
+  "options": [
+    "A. continue",
+    "B. skip",
+    "C. next",
+    "D. pass"
+  ],
+  "answer": "A",
+  "difficulty": 8
+}

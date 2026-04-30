@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "An if-elif-else chain in Python can have multiple elif clauses but only one else clause at the end.",
+  "answer": "True"
+}

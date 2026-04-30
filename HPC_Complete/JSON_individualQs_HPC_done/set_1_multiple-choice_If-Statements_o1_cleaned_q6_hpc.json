@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 7",
+        "y = 3",
+        "if x > 0 and y > 0:",
+        "print('Both positive')",
+        "elif x > 0 or y > 0:",
+        "print('At least one is positive')",
+        "else:",
+        "print('Both are non-positive')",
+        "Both are non-positive",
+        "At least one is positive",
+        "Both positive",
+        "Error: syntax for logical operators is incorrect"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "In Python, if a loop's condition is initially false, the code inside the loop will never execute.",
+  "difficulty": 9,
+  "answer": true
+}

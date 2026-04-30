@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When you need to iterate over an iterable in reverse order, you can use the built-in function ______ in combination with a for loop.",
+  "correct_answer": "reversed"
+}

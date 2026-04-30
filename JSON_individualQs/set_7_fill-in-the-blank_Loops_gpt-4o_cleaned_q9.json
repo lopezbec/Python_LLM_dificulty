@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In a loop, you can often avoid off-by-one errors in range by ensuring proper use of '________' operators.",
+  "answer": "comparison"
+}

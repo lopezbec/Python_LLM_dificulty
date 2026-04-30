@@ -1,0 +1,7 @@
+{
+  "question": "Complete the blanks to handle multiple conditions using elif and ensure that all possible cases are covered:\n\n```python\nif temperature > 30:\n    weather = \"Hot\"\nelif 20 < temperature <= 30:\n    weather = \"Warm\"\nelif 10 < temperature <= 20:\n    weather = \"Cool\"\n____:\n    weather = \"Cold\"\n```",
+  "answer": "else",
+  "difficulty": 10,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

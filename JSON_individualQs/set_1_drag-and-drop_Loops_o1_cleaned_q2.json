@@ -1,0 +1,20 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "questionType": "drag-and-drop",
+  "prompt": "Fill in the blanks to print numbers from 0 to 4 using a while loop.",
+  "codeSnippet": "c = 0\n???\n    ???\n    ???\nprint(\"Loop finished\")",
+  "draggableItems": [
+    "while c < 5:",
+    "for c in range(5):",
+    "c += 1",
+    "print(c)",
+    "break"
+  ],
+  "correctAnswer": [
+    "while c < 5:",
+    "print(c)",
+    "c += 1"
+  ],
+  "explanation": "A while loop runs until the condition is false. 'while c < 5:' keeps looping, 'print(c)' displays c, and 'c += 1' increments c until it reaches 5."
+}

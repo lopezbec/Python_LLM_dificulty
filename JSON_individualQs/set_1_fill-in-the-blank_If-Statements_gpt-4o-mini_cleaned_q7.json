@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The following code checks if 'x' is not equal to 'y': 'if x _____ y:'.",
+  "correct_answer": "!= "
+}

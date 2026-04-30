@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To avoid an infinite loop in a 'while' statement, ensure that the loop's _______ is correctly updated within the block.",
+  "answer": "condition"
+}

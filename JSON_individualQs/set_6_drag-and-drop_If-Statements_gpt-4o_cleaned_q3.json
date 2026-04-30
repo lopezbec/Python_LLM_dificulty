@@ -1,0 +1,19 @@
+{
+  "difficulty": 3,
+  "question": "Complete the if-else statement to print 'Even' if the number is even, otherwise print 'Odd'.",
+  "code_blocks": [
+    "number = 4",
+    "if number % 2 == 0:",
+    "print('Even')",
+    "else:",
+    "print('Odd')"
+  ],
+  "droppable_items": [
+    "if number % 2 == 0:",
+    "else:"
+  ],
+  "solution": [
+    "if number % 2 == 0:",
+    "else:"
+  ]
+}

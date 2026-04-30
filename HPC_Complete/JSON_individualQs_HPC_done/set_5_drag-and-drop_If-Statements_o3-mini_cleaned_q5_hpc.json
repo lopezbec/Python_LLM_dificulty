@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if x > 0:",
+        "___ y > 0:",
+        "print('Both positive')",
+        "if",
+        "else",
+        "elif",
+        "while"
+    ]
+}

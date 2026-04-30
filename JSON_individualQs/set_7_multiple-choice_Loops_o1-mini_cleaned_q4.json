@@ -1,0 +1,10 @@
+{
+  "question": "What is the output of the following code?\n\n```python\nfor i in range(3):\n    print(i)\nelse:\n    print(\"Loop completed\")\n```",
+  "options": {
+    "A": "0\n1\n2",
+    "B": "0\n1\n2\nLoop completed",
+    "C": "0\n1\n2\n3",
+    "D": "Loop completed"
+  },
+  "answer": "B"
+}

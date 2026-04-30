@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "type": "fill-in-the-blank",
+  "difficulty": 7,
+  "topic": "loops",
+  "question": "A list ______ can be used to create a new list by applying an expression to each item in an existing list.",
+  "answer": "comprehension"
+}

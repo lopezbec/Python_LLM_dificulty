@@ -1,0 +1,11 @@
+{
+  "question": "Analyze the following code. What will be the output?\n\n```python\nvalues = [2, 4, 6, 8]\nfor val in values:\n    if val % 4 == 0:\n        print(val)\n    elif val % 2 == 0:\n        print(val * 2)\n    else:\n        print(val - 1)\n```",
+  "options": {
+    "A": "4\n8\n12\n16",
+    "B": "2\n4\n6\n8",
+    "C": "4\n8\n12\n8",
+    "D": "4\n8\n12\n16"
+  },
+  "answer": "C",
+  "difficulty": 10
+}

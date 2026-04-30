@@ -1,0 +1,10 @@
+{
+  "difficulty": 5,
+  "question": "In a for loop, the variable that holds the current value in each iteration is often called the ________ variable.",
+  "correct_answer": "loop",
+  "incorrect_answers": [
+    "control",
+    "iterator",
+    "index"
+  ]
+}

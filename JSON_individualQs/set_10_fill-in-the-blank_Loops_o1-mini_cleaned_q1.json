@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank to create a for loop that prints numbers from 0 to 4.\n\n```python\nfor ___ in range(5):\n    print(___)\n```",
+  "answer": "i, i"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Drag the correct statement so the nested loop prints a 3\u00d73 grid of asterisks.",
+  "codeSnippet": "for x in range(3):\n    for y in range(3):\n        print('*', end='')\n    ____",
+  "options": [
+    "print()",
+    "continue",
+    "end=''"
+  ],
+  "correctAnswer": "print()"
+}

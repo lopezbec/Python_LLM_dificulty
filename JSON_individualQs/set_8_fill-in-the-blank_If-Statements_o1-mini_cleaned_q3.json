@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to ensure proper indentation in the following if-statement:\n\n```python\nif temperature > 30:\n___ print(\"It's a hot day.\")\n```",
+  "difficulty": 3,
+  "answer": "    "
+}

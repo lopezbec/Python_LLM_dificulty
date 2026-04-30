@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "If statements can only handle numeric data types for their conditions.",
+  "correct_answer": "False"
+}

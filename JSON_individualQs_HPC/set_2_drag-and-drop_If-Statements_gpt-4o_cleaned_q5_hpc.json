@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "num",
+        "num = 45",
+        "if num > 0 ______ num ______ 100:",
+        "print('Number in range')",
+        "and",
+        "or",
+        "not",
+        "<"
+    ]
+}

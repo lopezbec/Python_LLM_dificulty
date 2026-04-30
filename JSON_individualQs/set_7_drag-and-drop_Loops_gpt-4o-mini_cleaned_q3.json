@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Drag and drop the correct code for a nested loop: \n`for i in range(3):` \n`for j in ___:`",
+  "options": [
+    "range(3)",
+    "range(i)",
+    "i",
+    "3"
+  ],
+  "correctOption": "range(3)"
+}

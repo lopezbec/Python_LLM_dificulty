@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if x > 0:\n    <blank>",
+        "x",
+        "print('Hello World')",
+        "x = 0",
+        "else"
+    ]
+}

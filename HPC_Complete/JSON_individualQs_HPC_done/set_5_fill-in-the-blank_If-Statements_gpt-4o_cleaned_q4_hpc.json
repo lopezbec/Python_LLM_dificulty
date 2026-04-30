@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if score >= 50 _____ score <= 100:",
+        "score"
+    ]
+}

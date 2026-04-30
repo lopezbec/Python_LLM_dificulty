@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, a 'for' loop can be used to iterate over the elements of a list.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, the 'while' loop executes its block of code at least once regardless of the condition.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "The 'break' statement in a loop exits only the innermost loop when dealing with nested loops.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "Using a 'for' loop to iterate over a string in Python will iterate over its characters.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the 'continue' statement skips the rest of the code inside the loop for the current iteration and moves to the next iteration.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "A 'for' loop in Python can iterate directly over the keys of a dictionary.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, modifying a list while iterating over it with a 'for' loop can lead to unexpected behavior.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "The 'else' clause in a Python loop is executed only if the loop is terminated by a 'break' statement.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, 'nested loops' refer to multiple loops placed inside a single larger loop to iterate over multi-dimensional data structures.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "Using generator expressions in loops can lead to lower memory usage compared to list comprehensions for large datasets in Python.",
+    "answer": true
+  }
+]

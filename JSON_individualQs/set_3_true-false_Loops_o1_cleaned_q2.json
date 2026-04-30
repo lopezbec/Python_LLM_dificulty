@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "A 'while' loop in Python always runs at least once.",
+  "correctAnswer": "False"
+}

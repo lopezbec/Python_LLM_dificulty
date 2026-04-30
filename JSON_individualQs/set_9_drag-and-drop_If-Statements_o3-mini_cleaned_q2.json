@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question_type": "drag-and-drop",
+  "question_text": "Fill in the blanks to check if 'number' is greater than 10 and print 'High':\n[BLANK1] number [BLANK2] 10:\n    print('High')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to begin the condition",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator for greater than comparison",
+      "correct_answer": ">"
+    }
+  ],
+  "options": [
+    "if",
+    ">",
+    "for",
+    "<"
+  ]
+}

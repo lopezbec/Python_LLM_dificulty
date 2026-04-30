@@ -1,0 +1,5 @@
+{
+  "question": "In Python, a 'for' loop can include an 'else' clause, which executes only if no 'break' occurs in the loop.",
+  "difficulty": 7,
+  "correct_answer": "True"
+}

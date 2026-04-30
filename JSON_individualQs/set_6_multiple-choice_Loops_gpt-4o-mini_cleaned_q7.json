@@ -1,0 +1,11 @@
+{
+  "question": "What happens if the following code runs?\n\nx = 0\nwhile x < 5:\n    print(x)\n    x -= 1\n\n",
+  "options": [
+    "It prints numbers indefinitely",
+    "It prints numbers from 0 to 4",
+    "It prints nothing",
+    "It raises a syntax error"
+  ],
+  "correct_answer": "It prints numbers indefinitely",
+  "difficulty": 7
+}

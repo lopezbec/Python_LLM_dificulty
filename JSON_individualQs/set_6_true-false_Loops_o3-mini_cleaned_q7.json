@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "True or False: If the condition in a while loop never becomes False, the loop will run infinitely, potentially causing the program to hang.",
+  "correct_answer": true
+}

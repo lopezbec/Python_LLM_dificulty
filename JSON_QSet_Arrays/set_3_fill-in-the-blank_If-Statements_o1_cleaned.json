@@ -1,0 +1,62 @@
+[
+  {
+    "questionNumber": 1,
+    "difficulty": 1,
+    "question": "Fill in the blank to complete a basic if-statement that prints 'x is 5' when x equals 5:\n______ x == 5:\n    print('x is 5')",
+    "answer": "if"
+  },
+  {
+    "questionNumber": 2,
+    "difficulty": 2,
+    "question": "Fill in the blank: In Python, we use ______ to indicate the block of code that should run if a condition is true.",
+    "answer": "indentation"
+  },
+  {
+    "questionNumber": 3,
+    "difficulty": 3,
+    "question": "Fill in the blank to complete the statement that checks if x is greater than 10 or y is less than 5:\nif x > 10 ______ y < 5:\n    print('Condition met')",
+    "answer": "or"
+  },
+  {
+    "questionNumber": 4,
+    "difficulty": 4,
+    "question": "Fill in the blank to use an else clause after an if-statement that prints 'Even' if x is even and 'Odd' otherwise:\nif x % 2 == 0:\n    print('Even')\n______:\n    print('Odd')",
+    "answer": "else"
+  },
+  {
+    "questionNumber": 5,
+    "difficulty": 5,
+    "question": "Fill in the blank to check a second condition if the first one fails:\nif x > 10:\n    print('Greater')\n______ x == 10:\n    print('Equal')\nelse:\n    print('Less')",
+    "answer": "elif"
+  },
+  {
+    "questionNumber": 6,
+    "difficulty": 6,
+    "question": "Fill in the blank so that the block runs only if x is not equal to 10:\nif x ______ 10:\n    print('Not equal to 10')",
+    "answer": "!="
+  },
+  {
+    "questionNumber": 7,
+    "difficulty": 7,
+    "question": "Fill in the blank so that the statement checks if 'num' is between 5 and 15 (inclusive):\nif 5 <= num ______ 15:\n    print('Within range')",
+    "answer": "<="
+  },
+  {
+    "questionNumber": 8,
+    "difficulty": 8,
+    "question": "Fill in the blank to short-circuit check if x is negative and y is positive:\nif x < 0 ______ y > 0:\n    print('x is negative and y is positive')",
+    "answer": "and"
+  },
+  {
+    "questionNumber": 9,
+    "difficulty": 9,
+    "question": "Fill in the blank to complete the nested if-statement that prints 'Single-digit positive number' if x is between 1 and 9:\nif x > 0:\n    ______ x < 10:\n        print('Single-digit positive number')",
+    "answer": "if"
+  },
+  {
+    "questionNumber": 10,
+    "difficulty": 10,
+    "question": "Fill in the blank to complete the one-line conditional that sets 'message' to 'Positive' if x is greater than 0, or 'Non-positive' otherwise:\nmessage = 'Positive' if x > 0 ______ 'Non-positive'",
+    "answer": "else"
+  }
+]

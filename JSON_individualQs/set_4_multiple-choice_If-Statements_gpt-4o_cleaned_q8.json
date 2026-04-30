@@ -1,0 +1,11 @@
+{
+  "question": "8. How many times will 'Hi' be printed in the following code?\n\n   ```python\n   x = 0\n   if x == 0:\n       print(\"Hi\")\n   if x > 0:\n       print(\"Hi\")\n   ```",
+  "options": {
+    "a": "0 times",
+    "b": "1 time",
+    "c": "2 times",
+    "d": "None of the above"
+  },
+  "correct_answer": "b",
+  "difficulty": 8
+}

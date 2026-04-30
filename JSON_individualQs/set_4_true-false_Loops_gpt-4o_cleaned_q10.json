@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Using a 'while True:' loop is an efficient way to optimize memory usage compared to a finite 'for' loop.",
+  "answer": false
+}

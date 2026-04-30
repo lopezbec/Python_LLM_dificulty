@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "__next__",
+        "self.current >= self.limit",
+        "self.current < self.limit",
+        "while True",
+        "self.current == self.limit",
+        "if ______: raise StopIteration"
+    ]
+}

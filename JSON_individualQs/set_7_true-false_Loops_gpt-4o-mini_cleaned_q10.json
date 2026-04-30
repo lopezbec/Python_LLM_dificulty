@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Python allows 'do-while' loops by using a standard 'while' loop since it does not support the 'do-while' loop structure natively.",
+  "answer": true
+}

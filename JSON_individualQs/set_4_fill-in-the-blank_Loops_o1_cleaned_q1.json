@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "In Python, the ______ keyword is used to create a loop that repeats a block of code as long as a condition is True.",
+  "correct_answer": "while"
+}

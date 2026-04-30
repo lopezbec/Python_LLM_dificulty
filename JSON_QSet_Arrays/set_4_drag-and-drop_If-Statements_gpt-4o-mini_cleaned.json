@@ -1,0 +1,123 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag the correct completion to the if-statement: If x is greater than 10, _____.",
+    "options": [
+      "print('x is greater')",
+      "x = x + 1",
+      "x < 10"
+    ],
+    "correct_answer": "print('x is greater')"
+  },
+  {
+    "difficulty": 2,
+    "question": "Complete the if-statement by dragging the correct option: If x is equal to 5, _____ else print('Not 5').",
+    "options": [
+      "print('Five')",
+      "x += 1",
+      "x = 5"
+    ],
+    "correct_answer": "print('Five')"
+  },
+  {
+    "difficulty": 3,
+    "question": "Drag and drop to create a valid if-statement structure: if (x == 3) { _____ }",
+    "options": [
+      "print('Three')",
+      "x = 4",
+      "print('Not Three')"
+    ],
+    "correct_answer": "print('Three')"
+  },
+  {
+    "difficulty": 4,
+    "question": "Construct a valid conditional statement: if (y < 10) then { _____ }.",
+    "options": [
+      "print('y is less than 10')",
+      "y = 10",
+      "y > 10"
+    ],
+    "correct_answer": "print('y is less than 10')"
+  },
+  {
+    "difficulty": 5,
+    "question": "Arrange the elements to create a valid if-else construct: if x == 0 { _____ } else { _____ }",
+    "options": [
+      "print('x is zero')",
+      "print('x is not zero')",
+      "x = x + 5"
+    ],
+    "correct_answer": [
+      "print('x is zero')",
+      "print('x is not zero')"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blanks for the if-elif-else scenario: If it rains, then _____; elif it snows, _____; else _____;",
+    "options": [
+      "carry an umbrella",
+      "make a snowman",
+      "enjoy the sunshine"
+    ],
+    "correct_answer": [
+      "carry an umbrella",
+      "make a snowman",
+      "enjoy the sunshine"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Differentiate the actions for varying conditions: if (age >= 18) { _____ } else { _____ }",
+    "options": [
+      "print('Adult')",
+      "print('Minor')",
+      "apply for a driving license"
+    ],
+    "correct_answer": [
+      "print('Adult')",
+      "print('Minor')"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "In an if-statement, drag the correct block for the case: if (temperature < 0) _______; else if (temperature >= 0 && temperature < 30) _______;",
+    "options": [
+      "print('Freezing')",
+      "print('Cold')",
+      "print('Warm')"
+    ],
+    "correct_answer": [
+      "print('Freezing')",
+      "print('Cold')"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Construct the nested if-statement: if (score > 50) { if (score > 80) { _____ } else { _____ } } else { _____ };",
+    "options": [
+      "print('Great job!')",
+      "print('You passed.')",
+      "print('You failed.')"
+    ],
+    "correct_answer": [
+      "print('Great job!')",
+      "print('You passed.')",
+      "print('You failed.')"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Create the complete structure for a multiple conditional statement: if (a > b) { _____ } else if (a < b) { _____ } else { _____ };",
+    "options": [
+      "print('a is greater')",
+      "print('b is greater')",
+      "print('a and b are equal')"
+    ],
+    "correct_answer": [
+      "print('a is greater')",
+      "print('b is greater')",
+      "print('a and b are equal')"
+    ]
+  }
+]

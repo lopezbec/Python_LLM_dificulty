@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "topic": "List Comprehensions vs. Loops",
+  "question": "Match each scenario with whether a list comprehension or a traditional loop is more appropriate.",
+  "drag_items": [
+    "Creating a new list by applying a transformation to each element",
+    "Performing multiple operations in a single iteration"
+  ],
+  "drop_targets": [
+    "List comprehension",
+    "Traditional loop"
+  ],
+  "correct_matches": {
+    "Creating a new list by applying a transformation to each element": "List comprehension",
+    "Performing multiple operations in a single iteration": "Traditional loop"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Arrange the components of a for loop that uses a continue statement to skip even numbers.",
+  "instructions": "Drag and drop the code pieces to form a valid loop that prints numbers from a range except when the number is even.",
+  "dragItems": [
+    "for i in range(5):",
+    "if i % 2 == 0:",
+    "continue",
+    "print(i)"
+  ],
+  "dropZones": [
+    "Step 1 (Loop header)",
+    "Step 2 (Conditional check)",
+    "Step 3 (Continue statement)",
+    "Step 4 (Print statement)"
+  ],
+  "correctOrder": [
+    "for i in range(5):",
+    "if i % 2 == 0:",
+    "continue",
+    "print(i)"
+  ]
+}

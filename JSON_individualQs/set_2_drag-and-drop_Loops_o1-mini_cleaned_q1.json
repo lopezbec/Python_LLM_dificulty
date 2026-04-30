@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "question": "Match the loop type to its description.",
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "Loops",
+  "dragItems": [
+    "for loop",
+    "while loop"
+  ],
+  "dropTargets": [
+    "Iterates a fixed number of times",
+    "Continues until a condition is false"
+  ],
+  "correctAssociations": {
+    "for loop": "Iterates a fixed number of times",
+    "while loop": "Continues until a condition is false"
+  }
+}

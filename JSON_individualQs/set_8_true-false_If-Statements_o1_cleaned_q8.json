@@ -1,0 +1,5 @@
+{
+  "question": "Equality comparisons in if statements are only possible with numeric data types in Python.",
+  "correct_answer": "False",
+  "difficulty": 8
+}

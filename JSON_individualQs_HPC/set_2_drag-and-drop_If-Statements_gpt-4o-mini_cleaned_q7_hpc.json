@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (________) { print('Value is high'); }",
+        "value > 100",
+        "value == 100",
+        "value < 100"
+    ]
+}

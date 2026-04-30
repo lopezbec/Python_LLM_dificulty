@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if statement requires a colon (:) at the end of its condition.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "Python's if statement can have more than one else clause.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "Using multiple 'elif' clauses in an if-else chain is equivalent to using multiple independent if statements.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "Indentation is not necessary in Python if statements when semicolons are used to separate statements.",
+    "answer": false
+  },
+  {
+    "difficulty": 5,
+    "question": "The condition in an if statement can be any expression that evaluates to a Boolean value or a truthy/falsy value.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "Python allows you to write an if statement and its associated single statement on the same line.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "An if statement without an else clause in Python will result in a syntax error.",
+    "answer": false
+  },
+  {
+    "difficulty": 8,
+    "question": "Using a non-Boolean value as the condition in a Python if statement will always result in a TypeError.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "The following code snippet will raise a syntax error: if (x > 10) print('x is large')",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "A chained if-elif-else block in Python evaluates conditions sequentially and stops after executing the block for the first true condition.",
+    "answer": true
+  }
+]

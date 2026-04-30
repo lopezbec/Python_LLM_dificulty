@@ -1,0 +1,22 @@
+{
+  "question": "Drag the snippets to create a while loop that prints odd numbers between 1 and 9 using a continue statement when the number is even.",
+  "difficulty": 8,
+  "instruction": "Use the continue statement properly to skip even numbers.",
+  "options": [
+    "while n < 10:",
+    "continue",
+    "n += 1",
+    "print(n)",
+    "if n % 2 == 0:",
+    "n = 1"
+  ],
+  "correct_order": [
+    "n = 1",
+    "while n < 10:",
+    "if n % 2 == 0:",
+    "n += 1",
+    "continue",
+    "print(n)",
+    "n += 1"
+  ]
+}

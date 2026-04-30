@@ -1,0 +1,11 @@
+{
+  "question": "What is the time complexity of a loop nested inside another loop, where both run 'n' times?",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(log n)",
+    "O(1)"
+  ],
+  "answer": "O(n^2)",
+  "difficulty": 9
+}

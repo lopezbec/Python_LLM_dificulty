@@ -1,0 +1,14 @@
+{
+  "question": "Arrange the blocks to create a nested loop that prints a pattern of stars.",
+  "options": [
+    "for i in range(5):",
+    "for j in range(i + 1):",
+    "print('*')"
+  ],
+  "correct_order": [
+    "for i in range(5):",
+    "for j in range(i + 1):",
+    "print('*')"
+  ],
+  "difficulty": 4
+}

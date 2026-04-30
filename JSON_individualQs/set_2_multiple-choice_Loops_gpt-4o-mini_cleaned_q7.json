@@ -1,0 +1,11 @@
+{
+  "question": "What is the purpose of the 'break' statement in a loop?",
+  "options": [
+    "To skip the current iteration and continue with the next one.",
+    "To stop the entire program.",
+    "To exit the loop immediately.",
+    "To restart the loop from the beginning."
+  ],
+  "answer": "To exit the loop immediately.",
+  "difficulty": 7
+}

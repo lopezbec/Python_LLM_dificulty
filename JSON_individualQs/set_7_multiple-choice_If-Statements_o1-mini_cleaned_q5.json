@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "question": "What is the output of the following code?\n\nx = 10\ny = 20\nif x > y:\n    print(\"x is greater\")\nelif x == y:\n    print(\"x and y are equal\")\nelse:\n    print(\"y is greater\")",
+  "options": {
+    "A": "x is greater",
+    "B": "x and y are equal",
+    "C": "y is greater",
+    "D": "No output"
+  },
+  "correct_answer": "C",
+  "difficulty": 5,
+  "topic": "if statements"
+}

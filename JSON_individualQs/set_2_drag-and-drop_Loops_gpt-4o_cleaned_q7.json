@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "prompt": "Identify the correct keyword to break out of the loop when a condition is met.",
+  "drag_options": [
+    "break",
+    "return",
+    "stop",
+    "end"
+  ],
+  "drop_target": "if condition: ____"
+}

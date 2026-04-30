@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "True or False: A loop in Python may include an 'else' clause that executes only if the loop terminates naturally (i.e., without a break statement).",
+  "answer": true
+}

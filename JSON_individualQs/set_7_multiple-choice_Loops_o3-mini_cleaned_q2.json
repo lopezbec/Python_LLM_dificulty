@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Consider the following Python code snippet:\n\nfor i in range(3):\n    print(i, end=' ')\n\nWhat is the output of this code?",
+  "options": [
+    "0 1 2 ",
+    "0 1 2 3 ",
+    "1 2 3 ",
+    "1 2"
+  ],
+  "correct_answer": "0 1 2 "
+}

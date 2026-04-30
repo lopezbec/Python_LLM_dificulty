@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "if",
+        "condition1",
+        ":",
+        "    action1()",
+        "elif",
+        "condition2",
+        ":",
+        "    action2()",
+        "else",
+        ":",
+        "    default_action()"
+    ]
+}

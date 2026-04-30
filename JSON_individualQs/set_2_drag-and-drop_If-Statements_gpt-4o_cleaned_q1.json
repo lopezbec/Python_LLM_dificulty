@@ -1,0 +1,13 @@
+{
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Complete the if-statement to check if the variable 'x' is equal to 10.",
+  "code": "if ______ :\n    print('x is 10')",
+  "options": [
+    "x == 10",
+    "x = 10",
+    "x > 10"
+  ],
+  "correct": "x == 10"
+}

@@ -1,0 +1,22 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Drag the appropriate comparison operator to complete the condition.",
+  "drag_options": [
+    ">",
+    "<",
+    "==",
+    ">="
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "if (age ___ 18):",
+      "identifier": "condition"
+    }
+  ],
+  "correct_answers": {
+    "condition": ">="
+  }
+}

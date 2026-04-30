@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blanks to use a while loop to print values from 0 to 4.",
+  "code": "i = 0\nwhile i < <blank>:\n    print(i)\n    i += <blank>",
+  "options": [
+    "5",
+    "4",
+    "1",
+    "0",
+    "i+"
+  ],
+  "correct_answer": [
+    "5",
+    "1"
+  ]
+}

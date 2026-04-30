@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "A for loop in Python can only iterate over a numeric range of values using the range() function.",
+  "correct_answer": "False"
+}

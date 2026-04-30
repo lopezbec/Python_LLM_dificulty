@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Reorganize the keywords for a comprehensive check of variable 'a' to handle different comparison scenarios.",
+  "code": "if a > b:\n    print('a is greater')\nelif a == b:\n    print('They are equal')\nelse:\n    print('a is less')",
+  "options": [
+    "elif",
+    "else",
+    "if",
+    "end"
+  ],
+  "correct": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "incorrect": [
+    "end"
+  ]
+}

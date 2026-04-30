@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "A for loop in Python can iterate over a string, processing each character one at a time.",
+  "correct_answer": true
+}

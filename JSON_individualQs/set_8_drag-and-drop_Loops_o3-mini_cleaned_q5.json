@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "question": "Reorder the following lines to form a correct for loop that prints each character in the string 'hello'. Drag the correct line into each drop zone.",
+  "codeSnippet": "Drop Zone 1:\n_____\nDrop Zone 2:\n_____",
+  "dragItems": [
+    "for ch in 'hello':",
+    "    print(ch)",
+    "print('done')"
+  ],
+  "dropTargets": [
+    "line1",
+    "line2"
+  ],
+  "correctMap": {
+    "line1": "for ch in 'hello':",
+    "line2": "    print(ch)"
+  }
+}

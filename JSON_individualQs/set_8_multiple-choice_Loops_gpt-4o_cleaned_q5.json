@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What will happen if the conditional statement in a 'while' loop never becomes false?",
+  "options": [
+    "A) The loop will exit immediately.",
+    "B) The loop will run forever.",
+    "C) The program will execute a 'break' automatically.",
+    "D) None of the above."
+  ],
+  "correct_answer": "B"
+}

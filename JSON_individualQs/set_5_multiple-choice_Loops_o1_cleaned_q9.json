@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code snippet?\n\nnum = 5\nwhile num > 0:\n    num -= 1\n    if num == 2:\n        continue\n    print(num, end=' ')",
+  "difficulty": 9,
+  "choices": [
+    "4 3 2 1 0",
+    "4 3 1 0",
+    "5 4 3 2 1 0",
+    "3 2 1 0"
+  ],
+  "correct_answer": "4 3 1 0"
+}

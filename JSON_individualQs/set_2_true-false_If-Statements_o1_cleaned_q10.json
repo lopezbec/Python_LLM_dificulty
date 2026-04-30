@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Python uses short-circuit evaluation in if-statements with 'and' and 'or', skipping further checks if the outcome is already determined.",
+  "correct_answer": "True"
+}

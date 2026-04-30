@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "while",
+        "while True: pass",
+        "while 1: pass",
+        "while(1) { }"
+    ]
+}

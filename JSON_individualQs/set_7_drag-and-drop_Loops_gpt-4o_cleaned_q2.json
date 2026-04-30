@@ -1,0 +1,12 @@
+{
+  "difficulty": 2,
+  "question_type": "drag-and-drop",
+  "question": "Drag the correct block of code to complete the loop that prints numbers 0 to 4.",
+  "code": "for i in range(5):\n    ___",
+  "options": [
+    "print(i)",
+    "i++",
+    "increment(i)"
+  ],
+  "correct_option": "print(i)"
+}

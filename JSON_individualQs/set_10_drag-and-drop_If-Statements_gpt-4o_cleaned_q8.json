@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "instruction": "Complete the logic to check if the user has both a valid id and their age is over 21.",
+  "code": "if valid_id ____ age > 21:\n    print('Access granted')",
+  "options": [
+    "&&",
+    "or",
+    "and",
+    "||"
+  ],
+  "answer": [
+    "and"
+  ]
+}

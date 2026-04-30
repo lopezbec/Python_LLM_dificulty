@@ -1,0 +1,16 @@
+{
+  "difficulty": 7,
+  "question": "Match each loop construct with its typical usage scenario by dragging the correct description to each construct.",
+  "dragItems": [
+    "for loop",
+    "while loop"
+  ],
+  "dropZones": [
+    "Use when the number of iterations is known",
+    "Use when the loop should continue until a condition changes"
+  ],
+  "correctMapping": {
+    "Use when the number of iterations is known": "for loop",
+    "Use when the loop should continue until a condition changes": "while loop"
+  }
+}

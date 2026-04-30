@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A practical example: if __ then execute code inside the block. In Python terms, it will be 'if condition:'.",
+  "correct_answer": "condition is True"
+}

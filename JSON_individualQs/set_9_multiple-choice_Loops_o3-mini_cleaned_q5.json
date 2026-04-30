@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which loop construct is most appropriate in Python when the number of iterations is not predetermined?",
+  "options": [
+    "while loop",
+    "for loop",
+    "if-else statement",
+    "do-while loop"
+  ],
+  "correct_answer": "while loop"
+}

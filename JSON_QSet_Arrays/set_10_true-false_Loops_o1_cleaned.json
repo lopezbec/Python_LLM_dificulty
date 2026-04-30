@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop in Python can iterate over elements of a sequence, such as a list.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "The 'while' loop always iterates a fixed number of times.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "We can use the 'continue' statement to skip the current loop iteration and proceed to the next one.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, for loops must always include an explicit counter variable.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 5,
+    "question": "A 'for' loop in Python cannot iterate over the characters in a string.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 6,
+    "question": "When using a 'while' loop, updating the loop control variable inside the loop is generally necessary to avoid an infinite loop.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python 3, range() generates a list of numbers that can be directly modified within a for loop.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 8,
+    "question": "A 'for-else' structure in Python executes the else clause only if the loop completes without a break statement.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 9,
+    "question": "Nested loops in Python cannot iterate over different sequences simultaneously.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 10,
+    "question": "Using too many nested loops can increase time complexity, making code less efficient.",
+    "correct_answer": "True"
+  }
+]

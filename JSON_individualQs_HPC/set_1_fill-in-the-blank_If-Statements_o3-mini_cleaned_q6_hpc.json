@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if n % 2 == 0:",
+        "print('Even')",
+        "_____",
+        "print('Odd')",
+        "if-else"
+    ]
+}

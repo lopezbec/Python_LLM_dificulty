@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 3:\n\u2003 print(count)\n\u2003 count += 1\n\u2003 else:\n\u2003 print('Done')",
+  "options": [
+    "0 1 2",
+    "0 1 2 Done",
+    "1 2 3 Done",
+    "Infinite loop"
+  ],
+  "answer": "0 1 2 Done",
+  "difficulty": 5
+}

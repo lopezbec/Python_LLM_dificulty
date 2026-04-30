@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "____ temperature > 30:\n    print('Hot')\n____ temperature > 15:\n    print('Warm')\n____:\n    print('Cold')",
+        "if",
+        "elif",
+        "else",
+        "while"
+    ]
+}

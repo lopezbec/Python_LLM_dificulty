@@ -1,0 +1,5 @@
+{
+  "question": "You can check for object identity in an if-statement using the 'is' keyword, for example 'if x is y:'.",
+  "difficulty": 8,
+  "correct_answer": "True"
+}

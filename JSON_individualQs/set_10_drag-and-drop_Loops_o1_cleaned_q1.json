@@ -1,0 +1,15 @@
+{
+  "question": "Drag and drop the code blocks to create a simple for loop that prints 'Hello' three times.",
+  "question_type": "drag-and-drop",
+  "difficulty": 1,
+  "instructions": "Arrange the blocks in the correct order to print 'Hello' exactly three times.",
+  "code_blocks": [
+    "print('Hello')",
+    "print('Hi')",
+    "for i in range(3):"
+  ],
+  "correct_order": [
+    "for i in range(3):",
+    "print('Hello')"
+  ]
+}

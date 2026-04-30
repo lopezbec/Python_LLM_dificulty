@@ -1,0 +1,10 @@
+{
+  "difficulty": 10,
+  "question": "Complete this multi-condition if statement: \nif (age < 18 _______ has_permission) { print('Access denied'); }",
+  "drops": [
+    "or",
+    "and",
+    "not"
+  ],
+  "correct": "or"
+}

@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if condition1:",
+        "// code block",
+        "elif condition2:",
+        "// code block",
+        "else:",
+        "// code block",
+        "print('A')",
+        "print('B')",
+        "print('C')"
+    ]
+}

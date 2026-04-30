@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In nested loops, the inner loop runs to completion for each single iteration of the outer loop.",
+  "answer": "True"
+}

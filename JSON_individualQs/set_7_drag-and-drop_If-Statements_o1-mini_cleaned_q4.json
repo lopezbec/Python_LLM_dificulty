@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Match each condition with the correct output:",
+  "codeSegments": [
+    "if score >= 90:",
+    "elif score >= 75:",
+    "else:"
+  ],
+  "outputOptions": [
+    "Grade A",
+    "Grade B",
+    "Grade C"
+  ],
+  "correctMatches": {
+    "if score >= 90:": "Grade A",
+    "elif score >= 75:": "Grade B",
+    "else:": "Grade C"
+  }
+}

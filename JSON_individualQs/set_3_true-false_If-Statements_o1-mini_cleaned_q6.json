@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Python allows the use of multiple elif clauses in an if-else statement to handle multiple conditions.",
+  "answer": true
+}

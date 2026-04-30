@@ -1,0 +1,24 @@
+{
+  "difficulty": 10,
+  "question": "Complete the complex loop structure that generates a list of squares of even numbers from 0 to 20.",
+  "code_snippet": "squares = [i**2 for i in range(21) if i ____ 0 and i % 2 == 0]",
+  "options": [
+    {
+      "id": 1,
+      "text": ">"
+    },
+    {
+      "id": 2,
+      "text": "<"
+    },
+    {
+      "id": 3,
+      "text": "=="
+    },
+    {
+      "id": 4,
+      "text": "!="
+    }
+  ],
+  "correct_option_id": 1
+}

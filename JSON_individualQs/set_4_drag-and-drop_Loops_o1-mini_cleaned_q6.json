@@ -1,0 +1,19 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the loop with a `break` statement to exit the loop when `i` equals 3.",
+  "options": [
+    "for i in range(1, 6):",
+    "    print(i)",
+    "    if i == 3:",
+    "        break"
+  ],
+  "correct_order": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

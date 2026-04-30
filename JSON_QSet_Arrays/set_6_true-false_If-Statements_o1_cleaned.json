@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "An 'if' statement in Python executes the block of code only if the condition is True.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "Python uses curly braces to define the body of an if statement.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "The keyword 'elif' stands for 'else if' in Python, allowing multiple conditions to be checked in sequence.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, you can only have one 'if' statement in a program.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 5,
+    "question": "An 'elif' block is evaluated only if all previous conditions in the if-elif chain were False.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "You cannot use logical operators like 'and' or 'or' within an if statement condition in Python.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 7,
+    "question": "If statements can be nested inside each other to handle multiple layers of conditions.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "When using multiple 'elif' statements, Python checks all remaining conditions even after one condition evaluates to True.",
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "It is possible to write an 'if' statement in Python without adding an 'else' or 'elif' block.",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, parentheses are required around the condition of an if statement as part of the language syntax.",
+    "correct_answer": "False"
+  }
+]

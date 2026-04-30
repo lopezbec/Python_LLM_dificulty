@@ -1,0 +1,19 @@
+{
+  "question": "Drag and drop the code blocks to print only even numbers from 0 to 10 using a for loop with a continue statement.",
+  "question_type": "drag-and-drop",
+  "difficulty": 3,
+  "instructions": "Arrange the blocks so only the even numbers (0, 2, 4, 6, 8, 10) are printed.",
+  "code_blocks": [
+    "if num < 10: break",
+    "if num % 2 != 0:",
+    "print(num)",
+    "for num in range(11):",
+    "continue"
+  ],
+  "correct_order": [
+    "for num in range(11):",
+    "if num % 2 != 0:",
+    "continue",
+    "print(num)"
+  ]
+}

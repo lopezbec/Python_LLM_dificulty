@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the following code:\n\nfor x in range(3):\n    if x == 5:\n        break\nelse:\n    print(\"No break was encountered\")\n\nWhat is the output?",
+  "choices": {
+    "A": "No output",
+    "B": "No break was encountered",
+    "C": "Break was encountered",
+    "D": "0 1 2"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank to complete the one-line conditional assignment. It should assign 'Positive' if x > 0, otherwise 'Non-positive':\n\nresult = \"Positive\" if x > 0 ______ \"Non-positive\"",
+  "answer": "else"
+}

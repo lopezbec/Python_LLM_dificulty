@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "question": "Sequence the `for` loop with an `else` clause to execute after the loop completes without interruption.",
+  "options": [
+    "for item in iterable:",
+    "print(item)",
+    "else:",
+    "print('Loop completed')"
+  ],
+  "correct_order": [
+    "for item in iterable:",
+    "    print(item)",
+    "else:",
+    "    print('Loop completed')"
+  ],
+  "difficulty": 9
+}

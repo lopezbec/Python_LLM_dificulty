@@ -1,0 +1,10 @@
+{
+  "difficulty": 7,
+  "question": "To iterate over elements in a collection, you can use a for loop which follows the syntax: for ________ in collection.",
+  "correct_answer": "element",
+  "incorrect_answers": [
+    "item",
+    "value",
+    "index"
+  ]
+}

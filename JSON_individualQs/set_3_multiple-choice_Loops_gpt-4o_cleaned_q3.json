@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Which of the following loops is more efficient for iterating over a list?",
+  "options": [
+    "while loop",
+    "for loop",
+    "do-while loop",
+    "loop until"
+  ],
+  "correct_answer": "for loop"
+}

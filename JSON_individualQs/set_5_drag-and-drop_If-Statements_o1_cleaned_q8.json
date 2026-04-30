@@ -1,0 +1,16 @@
+{
+  "question": "Supply the correct conditions to ensure that 'age' is at least 18 OR 'has_permission' is True.",
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "codeSnippet": "age = 16\nhas_permission = True\nif ( {CONDITION1} or {CONDITION2} ):\n    print(\"Access granted\")\nelse:\n    print(\"Access denied\")",
+  "dragItems": [
+    "age >= 18",
+    "age < 0",
+    "has_permission == True",
+    "age == 18"
+  ],
+  "correctAnswer": [
+    "age >= 18",
+    "has_permission == True"
+  ]
+}

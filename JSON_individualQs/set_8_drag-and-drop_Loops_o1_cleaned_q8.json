@@ -1,0 +1,17 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "question": "Construct a for loop that uses the range function to print every third number from 3 to 12.",
+  "codeBlocks": [
+    "print(i)",
+    "for i in range(3, 13, 3):",
+    "for i in range(12):",
+    "if i % 3 == 0:"
+  ],
+  "correctOrder": [
+    "for i in range(3, 13, 3):",
+    "print(i)"
+  ],
+  "explanation": "range(3, 13, 3) generates 3, 6, 9, 12. We then print i. The 'if i % 3 == 0:' block is a distractor."
+}

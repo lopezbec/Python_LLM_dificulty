@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if num >= 0:",
+        "else:",
+        "def check_number(num):",
+        "print('Zero')",
+        "print('Positive number')",
+        "if num == 0:",
+        "print('Negative number')",
+        "else:"
+    ]
+}

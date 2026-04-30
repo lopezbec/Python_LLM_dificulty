@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "prompt": "Drag and drop to correctly form an if\u2010else statement that prints 'Even' if a number is divisible by 2, otherwise prints 'Odd'.",
+  "drag_items": [
+    "if",
+    "num % 2 == 0:",
+    "print('Even')",
+    "else:",
+    "print('Odd')"
+  ],
+  "correct_order": [
+    "if",
+    "num % 2 == 0:",
+    "print('Even')",
+    "else:",
+    "print('Odd')"
+  ],
+  "explanation": "The if block checks the condition; if false, the else block triggers."
+}

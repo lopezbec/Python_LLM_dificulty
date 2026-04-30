@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "result = []",
+        "for i in 'abcd':",
+        "result.append(i)",
+        "print(result)",
+        "result",
+        "i",
+        "A) ['a', 'ab', 'abc', 'abcd']",
+        "B) ['abcd']",
+        "C) ['a', 'b', 'c', 'd']",
+        "D) ['d', 'c', 'b', 'a']"
+    ]
+}

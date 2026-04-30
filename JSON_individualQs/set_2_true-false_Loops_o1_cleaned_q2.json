@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "You can only use 'while' loops to iterate over a range of numbers in Python.",
+  "correct_answer": false
+}

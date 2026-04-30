@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What does the following code do?\n\nx = 5\nif x < 10:\n    if x < 5:\n        print('A')\n    elif x == 5:\n        print('B')\n    else:\n        print('C')\nelse:\n    print('D')",
+  "options": [
+    "Prints 'A'",
+    "Prints 'B'",
+    "Prints 'C'",
+    "Prints 'D'"
+  ],
+  "correct_answer": "Prints 'B'"
+}

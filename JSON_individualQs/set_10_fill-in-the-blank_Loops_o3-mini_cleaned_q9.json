@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: When iterating over a dictionary to obtain both keys and values simultaneously, you use the dictionary\u2019s ______() method.",
+  "answer": "items"
+}

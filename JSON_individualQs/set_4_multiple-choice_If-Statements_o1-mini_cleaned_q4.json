@@ -1,0 +1,10 @@
+{
+  "question": "What does the else block do in an if-else statement?",
+  "options": [
+    "Executes if the if condition is True",
+    "Executes if the if condition is False",
+    "Always executes regardless of the if condition",
+    "Defines a new condition"
+  ],
+  "answer": "B"
+}

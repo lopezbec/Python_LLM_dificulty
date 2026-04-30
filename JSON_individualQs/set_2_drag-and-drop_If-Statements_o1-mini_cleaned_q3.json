@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 3,
+  "question": "Match the conditions with the corresponding actions in the `if` statement.",
+  "options": [
+    "age >= 18",
+    "    print(\"Adult\")",
+    "age < 18",
+    "    print(\"Minor\")"
+  ],
+  "correct_matches": {
+    "age >= 18": "    print(\"Adult\")",
+    "age < 18": "    print(\"Minor\")"
+  }
+}

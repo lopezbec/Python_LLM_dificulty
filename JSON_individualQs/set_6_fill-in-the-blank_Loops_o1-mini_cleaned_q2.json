@@ -1,0 +1,7 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "topic": "loops",
+  "question": "To exit a loop prematurely in Python, you use the ____ statement.",
+  "answer": "break"
+}

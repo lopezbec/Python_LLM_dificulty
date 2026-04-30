@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output if x = -1 in the following code?\n\nif x >= 0:\n    print('Non-negative')\nelse:\n    print('Negative')",
+  "options": [
+    "a) Non-negative",
+    "b) Negative",
+    "c) None",
+    "d) Error"
+  ],
+  "correct_answer": "b",
+  "difficulty": 4
+}

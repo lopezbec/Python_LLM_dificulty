@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "The _____ operator is used to check for equality in an if-statement.",
+  "correct_answer": "==",
+  "options": [
+    "!=",
+    "==",
+    "=",
+    "is"
+  ]
+}

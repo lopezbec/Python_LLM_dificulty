@@ -1,0 +1,16 @@
+{
+  "question": "Fill in the missing parts to cascade multiple elif conditions checking if a value 'x' is 10, 20, 30, or something else. Print matching messages accordingly.",
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "codeSnippet": "x = 20\nif x == 10:\n    print(\"x is 10\")\n{KEYWORD1} x == 20:\n    print(\"x is 20\")\n{KEYWORD2} x == 30:\n    print(\"x is 30\")\nelse:\n    print(\"x is not 10, 20, or 30\")",
+  "dragItems": [
+    "elif",
+    "else",
+    "while",
+    "if"
+  ],
+  "correctAnswer": [
+    "elif",
+    "elif"
+  ]
+}

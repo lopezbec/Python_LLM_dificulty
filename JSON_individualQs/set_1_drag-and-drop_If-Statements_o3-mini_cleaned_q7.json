@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "prompt": "Drag and drop the code blocks to form an if\u2010statement using a compound Boolean condition that prints 'In range' if a number is between 10 and 20 (inclusive).",
+  "drag_items": [
+    "if",
+    "num >= 10",
+    "and",
+    "num <= 20",
+    ":",
+    "print('In range')"
+  ],
+  "correct_order": [
+    "if",
+    "num >= 10",
+    "and",
+    "num <= 20",
+    ":",
+    "print('In range')"
+  ],
+  "explanation": "The condition combines two comparisons with 'and'. The colon indicates the start of the indented block that prints the message."
+}

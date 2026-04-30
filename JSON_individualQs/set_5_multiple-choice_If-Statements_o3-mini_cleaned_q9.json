@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Examine the following Python code:\n\na = 10\nb = 20\nif a > b:\n    print('a is greater')\nelif a == b:\n    print('a and b are equal')\nelse:\n    print('b is greater')\n\nWhat will be printed when this code runs?",
+  "options": {
+    "A": "a is greater",
+    "B": "a and b are equal",
+    "C": "b is greater",
+    "D": "Error"
+  },
+  "correct_answer": "C"
+}

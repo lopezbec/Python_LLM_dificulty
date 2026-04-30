@@ -1,0 +1,5 @@
+{
+  "question": "Multiple conditions can be combined using logical operators like 'and' or 'or' in Python if statements.",
+  "difficulty": 3,
+  "correct_answer": "True"
+}

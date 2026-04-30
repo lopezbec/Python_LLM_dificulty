@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which of the following statements about if-elif-else blocks in Python is correct?",
+  "options": [
+    "A) Only one block can be executed even if multiple conditions are true",
+    "B) All conditions that evaluate to True will be executed",
+    "C) The else block always runs regardless of conditions",
+    "D) 'elif' can appear multiple times only if there is no 'else'"
+  ],
+  "correctAnswer": "A"
+}

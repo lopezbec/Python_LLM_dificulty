@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "The 'continue' statement in Python loops skips the current iteration and exits the loop entirely.",
+  "answer": false
+}

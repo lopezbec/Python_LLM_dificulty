@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if num _____ 15:\n    print('Number is small or equal to 15')",
+        "<=",
+        ">",
+        "!=",
+        "=="
+    ]
+}

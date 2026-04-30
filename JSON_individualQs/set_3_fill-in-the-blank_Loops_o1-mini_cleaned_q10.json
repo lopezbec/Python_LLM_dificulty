@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to implement a generator function that uses a for loop to yield items from a list 'data':\n\ndef generator():\n    for item in data:\n        ___ item",
+  "answer": "yield",
+  "difficulty": 10
+}

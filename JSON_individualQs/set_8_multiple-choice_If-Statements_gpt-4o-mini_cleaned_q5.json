@@ -1,0 +1,11 @@
+{
+  "question": "What will be printed by the following code? \n\n```python\nnumber = 0\nif number:\n    print('True')\nelse:\n    print('False')\n```",
+  "options": [
+    "True",
+    "False",
+    "0",
+    "Error"
+  ],
+  "correct_answer": "False",
+  "difficulty": 5
+}

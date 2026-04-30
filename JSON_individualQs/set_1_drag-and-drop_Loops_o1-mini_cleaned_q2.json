@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "loops",
+  "question": "Match the loop type to its description.",
+  "options": [
+    "for loop",
+    "while loop",
+    "nested loop"
+  ],
+  "matches": {
+    "for loop": "Iterates over a sequence of elements.",
+    "while loop": "Continues execution as long as a condition is true.",
+    "nested loop": "A loop inside another loop."
+  }
+}

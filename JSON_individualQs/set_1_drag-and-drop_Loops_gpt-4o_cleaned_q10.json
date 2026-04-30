@@ -1,0 +1,20 @@
+{
+  "difficulty": 10,
+  "question": "Organize the code to search for a word in a nested list of strings using nested loops.",
+  "choices": [
+    "strings = [['apple', 'banana'], ['cat', 'dog']]",
+    "for sublist in strings:",
+    "for word in sublist:",
+    "if word == 'cat':",
+    "print('Found cat')",
+    "break"
+  ],
+  "answer": [
+    "strings = [['apple', 'banana'], ['cat', 'dog']]",
+    "for sublist in strings:",
+    "    for word in sublist:",
+    "        if word == 'cat':",
+    "            print('Found cat')",
+    "            break"
+  ]
+}

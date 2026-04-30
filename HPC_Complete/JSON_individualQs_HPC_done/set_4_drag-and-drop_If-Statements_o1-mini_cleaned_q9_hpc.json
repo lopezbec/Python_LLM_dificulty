@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "age = int(input(\"Enter your age: \"))",
+        "if age < 13:",
+        "category = \"Child\"",
+        "elif __blank__:",
+        "category = \"Teenager\"",
+        "elif __blank__:",
+        "category = \"Adult\"",
+        "else:",
+        "category = \"Senior\"",
+        "print(category)",
+        "13 <= age < 20",
+        "20 <= age < 65",
+        "age >= 65",
+        "age >= 20 and age < 65"
+    ]
+}

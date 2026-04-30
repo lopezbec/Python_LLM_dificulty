@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 5",
+        "if x > 0 and x < 10:",
+        "print(\"Single digit positive\")",
+        "x",
+        "Single digit positive",
+        "Positive",
+        "10",
+        "No output"
+    ]
+}

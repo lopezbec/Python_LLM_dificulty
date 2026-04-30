@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank with the correct comparison operator to complete the if-statement:\n\nif x ___ 5:\n    print('x is 5')",
+  "dragItems": [
+    "==",
+    "!=",
+    ">="
+  ],
+  "dropZones": {
+    "operator": "Drop the comparison operator here"
+  },
+  "correctMapping": {
+    "operator": "=="
+  }
+}

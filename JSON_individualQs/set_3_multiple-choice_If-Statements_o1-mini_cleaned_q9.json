@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following conditions correctly checks if a variable `x` is either less than 5 or greater than 15 in an if-statement?",
+  "options": {
+    "A": "if x < 5 or x > 15:",
+    "B": "if x < 5 && x > 15:",
+    "C": "if (x < 5) || (x > 15):",
+    "D": "if x < 5 & x > 15:"
+  },
+  "answer": "A",
+  "difficulty": 9
+}

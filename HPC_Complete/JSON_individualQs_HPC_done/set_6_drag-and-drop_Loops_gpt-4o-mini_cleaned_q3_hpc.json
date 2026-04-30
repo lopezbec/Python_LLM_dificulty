@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for letter in 'AB':",
+        "for i in range(1, 3):",
+        "print(i)",
+        "print(letter)"
+    ]
+}

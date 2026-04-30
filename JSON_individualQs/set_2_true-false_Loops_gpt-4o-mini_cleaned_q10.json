@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "It is possible to create an infinite loop in Python if the condition of a 'while' loop is always true.",
+  "answer": true
+}

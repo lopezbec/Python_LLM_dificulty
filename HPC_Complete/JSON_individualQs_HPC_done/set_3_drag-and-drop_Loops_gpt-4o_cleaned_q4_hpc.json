@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "total = 0\nfor n in range(___, ___):\n    total ___ n\nprint(total)",
+        "1",
+        "11",
+        "+="
+    ]
+}

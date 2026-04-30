@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "def generate_squares():",
+        "for num in range(0, 11):",
+        "if num % 2 == 0:",
+        "yield num ** 2"
+    ]
+}

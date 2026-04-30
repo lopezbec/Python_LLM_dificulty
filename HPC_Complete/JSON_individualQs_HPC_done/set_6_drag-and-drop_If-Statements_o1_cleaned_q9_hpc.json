@@ -1,0 +1,25 @@
+{
+    "HPC": [
+        "fruits = [\"apple\", \"banana\", \"cherry\"]",
+        "food = \"APPLE\"",
+        "__1__ food.lower() in fruits:",
+        "__2__ food.isupper():",
+        "print(\"Fruit in uppercase form\")",
+        "__3__:",
+        "print(\"Fruit in non-uppercase form\")",
+        "__4__:",
+        "print(\"Not a fruit\")",
+        "if",
+        "while",
+        "elif",
+        "if",
+        "else",
+        "try",
+        "elif",
+        "return",
+        "else",
+        "elif",
+        "else",
+        "except"
+    ]
+}

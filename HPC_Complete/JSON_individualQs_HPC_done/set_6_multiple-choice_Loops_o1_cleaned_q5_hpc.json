@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "items = ['a', 'b', 'c']",
+        "for i in range(len(items)):",
+        "items[i] = items[i].upper()",
+        "print(items)",
+        "['A', 'B', 'C']",
+        "['a', 'b', 'c']",
+        "['A', 'b', 'c']",
+        "['a', 'B', 'C']"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In Python, what is the purpose of the 'elif' keyword in an if-statement?",
+  "options": {
+    "A": "To conclude the if-statement",
+    "B": "To handle an additional condition if the original if condition fails",
+    "C": "To combine multiple conditions into one statement",
+    "D": "To catch exceptions in the code block"
+  },
+  "answer": "B"
+}

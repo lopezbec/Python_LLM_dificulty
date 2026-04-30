@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "person = {'name': 'John', 'age': 25}",
+        "for key, value in person.___():",
+        "___(key, value)",
+        "print",
+        "items",
+        "keys",
+        "values",
+        "dict"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if (temperature > 30) { /* Code */ }",
+        "temperature"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which function is commonly used with 'for' loops to generate a sequence of numbers in Python?",
+  "choices": {
+    "A": "sequence()",
+    "B": "list()",
+    "C": "range()",
+    "D": "int()"
+  },
+  "correct_answer": "C"
+}

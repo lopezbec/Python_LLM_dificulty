@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Examine the following code:\n\nfor i in range(3):\n    print(i)\nelse:\n    print('Done')\n\nWhat will be printed when this code is executed?",
+  "options": [
+    "0\n1\n2",
+    "Done",
+    "0\n1\n2\nDone",
+    "0\n1\n2\n0\n1\n2\nDone"
+  ],
+  "correct_answer": "0\n1\n2\nDone"
+}

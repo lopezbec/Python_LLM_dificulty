@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Is it true that the 'continue' statement in a loop permanently skips all future iterations?",
+  "answer": "False"
+}

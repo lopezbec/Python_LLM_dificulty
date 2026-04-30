@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Given the nested loop code below, how many times will 'Hello' be printed?\n\nfor i in range(2):\n    for j in range(i):\n        print('Hello')",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "correct_answer": "1"
+}

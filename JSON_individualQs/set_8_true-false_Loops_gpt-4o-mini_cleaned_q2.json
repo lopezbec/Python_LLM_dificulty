@@ -1,0 +1,5 @@
+{
+  "question": "The while loop will execute its block of code at least once, even if the condition is false.",
+  "answer": false,
+  "difficulty": 2
+}

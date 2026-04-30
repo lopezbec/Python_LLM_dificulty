@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "if-statements",
+  "question": "Complete the if-statement so that it always prints 'Hello, World!'.",
+  "instruction": "Drag the correct condition into the blank.",
+  "code": "if ____:\n    print('Hello, World!')",
+  "dragItems": [
+    "True",
+    "False"
+  ],
+  "dropZones": [
+    "[condition]"
+  ],
+  "correctMapping": {
+    "[condition]": "True"
+  }
+}

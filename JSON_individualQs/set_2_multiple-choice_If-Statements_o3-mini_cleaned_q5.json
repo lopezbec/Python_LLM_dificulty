@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which logical operator should you use to combine two conditions in an if-statement when both conditions must be true?",
+  "options": [
+    "or",
+    "and",
+    "not",
+    "=="
+  ],
+  "correct_answer": "and"
+}

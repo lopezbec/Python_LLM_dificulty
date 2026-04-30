@@ -1,0 +1,11 @@
+{
+  "question": "What will be the final value of 'count' after executing the following code? \n\n```python\ncount = 0\nfor j in range(4):\n    count += j\n```",
+  "options": [
+    "6",
+    "4",
+    "10",
+    "12"
+  ],
+  "answer": "6",
+  "difficulty": 3
+}

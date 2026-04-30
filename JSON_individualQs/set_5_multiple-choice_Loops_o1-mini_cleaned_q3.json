@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)",
+  "options": {
+    "A": "0 1 2 3",
+    "B": "1 2 3",
+    "C": "0 1 2",
+    "D": "1 2"
+  },
+  "answer": "C",
+  "difficulty": 3
+}

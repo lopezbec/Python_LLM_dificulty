@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the missing keywords to complete this nested if-else structure.",
+  "code_snippet": "if x > 0:\n    ___ y > 0:\n        print('Both x and y are positive')\n    ___:\n        print('x is positive but y is not')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "if"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "else"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ]
+}

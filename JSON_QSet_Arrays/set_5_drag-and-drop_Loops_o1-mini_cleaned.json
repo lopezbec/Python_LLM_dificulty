@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 1,
+    "prompt": "Arrange the lines to create a basic 'for' loop that prints numbers from 1 to 3.",
+    "draggableItems": [
+      "for i in range(1, 4):",
+      "print(i)"
+    ],
+    "dropZones": [
+      "Loop Statement",
+      "Loop Body"
+    ],
+    "correctMatch": {
+      "Loop Statement": "for i in range(1, 4):",
+      "Loop Body": "print(i)"
+    }
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 2,
+    "prompt": "Fill in the blanks to complete a 'while' loop that counts down from 5 to 1.",
+    "draggableItems": [
+      "count = 5",
+      "while count > 0:",
+      "print(count)",
+      "count -= 1"
+    ],
+    "dropZones": [
+      "Initialization",
+      "Loop Condition",
+      "Loop Body - Print",
+      "Loop Body - Decrement"
+    ],
+    "correctMatch": {
+      "Initialization": "count = 5",
+      "Loop Condition": "while count > 0:",
+      "Loop Body - Print": "print(count)",
+      "Loop Body - Decrement": "count -= 1"
+    }
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 3,
+    "prompt": "Match the loop type with its description.",
+    "draggableItems": [
+      "for loop",
+      "while loop",
+      "nested loop",
+      "infinite loop"
+    ],
+    "dropZones": [
+      "Repeats a block a fixed number of times",
+      "Repeats until a condition is false",
+      "A loop inside another loop",
+      "A loop that never ends without a breaking condition"
+    ],
+    "correctMatch": {
+      "Repeats a block a fixed number of times": "for loop",
+      "Repeats until a condition is false": "while loop",
+      "A loop inside another loop": "nested loop",
+      "A loop that never ends without a breaking condition": "infinite loop"
+    }
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 4,
+    "prompt": "Organize the components to create a loop that iterates over a list of fruits and prints each one.",
+    "draggableItems": [
+      "fruits = ['apple', 'banana', 'cherry']",
+      "for fruit in fruits:",
+      "print(fruit)"
+    ],
+    "dropZones": [
+      "List Initialization",
+      "Loop Statement",
+      "Loop Body"
+    ],
+    "correctMatch": {
+      "List Initialization": "fruits = ['apple', 'banana', 'cherry']",
+      "Loop Statement": "for fruit in fruits:",
+      "Loop Body": "print(fruit)"
+    }
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 5,
+    "prompt": "Complete the nested loop to generate a multiplication table up to 3.",
+    "draggableItems": [
+      "for i in range(1, 4):",
+      "for j in range(1, 4):",
+      "print(i * j)",
+      "    print(i * j)"
+    ],
+    "dropZones": [
+      "Outer Loop",
+      "Inner Loop",
+      "Inner Loop Body",
+      "Indentation for Inner Loop Body"
+    ],
+    "correctMatch": {
+      "Outer Loop": "for i in range(1, 4):",
+      "Inner Loop": "for j in range(1, 4):",
+      "Inner Loop Body": "print(i * j)",
+      "Indentation for Inner Loop Body": "    print(i * j)"
+    }
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 6,
+    "prompt": "Arrange the statements to include a 'break' statement that exits the loop when the number 3 is found.",
+    "draggableItems": [
+      "for number in range(1, 6):",
+      "if number == 3:",
+      "    break",
+      "    print(number)"
+    ],
+    "dropZones": [
+      "Loop Statement",
+      "Condition to Check",
+      "Break Statement",
+      "Loop Body - Print"
+    ],
+    "correctMatch": {
+      "Loop Statement": "for number in range(1, 6):",
+      "Condition to Check": "if number == 3:",
+      "Break Statement": "    break",
+      "Loop Body - Print": "    print(number)"
+    }
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 7,
+    "prompt": "Organize the loop to iterate over a dictionary and print its keys and values.",
+    "draggableItems": [
+      "data = {'a': 1, 'b': 2, 'c': 3}",
+      "for key, value in data.items():",
+      "print(f'Key: {key}, Value: {value}')"
+    ],
+    "dropZones": [
+      "Dictionary Initialization",
+      "Loop Statement",
+      "Loop Body"
+    ],
+    "correctMatch": {
+      "Dictionary Initialization": "data = {'a': 1, 'b': 2, 'c': 3}",
+      "Loop Statement": "for key, value in data.items():",
+      "Loop Body": "print(f'Key: {key}, Value: {value}')"
+    }
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 8,
+    "prompt": "Complete the loop to skip even numbers and print only odd numbers from 1 to 5 using 'continue'.",
+    "draggableItems": [
+      "for num in range(1, 6):",
+      "if num % 2 == 0:",
+      "    continue",
+      "print(num)"
+    ],
+    "dropZones": [
+      "Loop Statement",
+      "Condition to Check Even",
+      "Continue Statement",
+      "Loop Body - Print"
+    ],
+    "correctMatch": {
+      "Loop Statement": "for num in range(1, 6):",
+      "Condition to Check Even": "if num % 2 == 0:",
+      "Continue Statement": "    continue",
+      "Loop Body - Print": "print(num)"
+    }
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 9,
+    "prompt": "Arrange the loop and exception handling to safely iterate over a list and handle possible errors.",
+    "draggableItems": [
+      "try:",
+      "    for item in my_list:",
+      "        print(item)",
+      "except Exception as e:",
+      "    print(f'Error: {e}')"
+    ],
+    "dropZones": [
+      "Try Statement",
+      "Loop Statement within Try",
+      "Loop Body",
+      "Except Statement",
+      "Except Body"
+    ],
+    "correctMatch": {
+      "Try Statement": "try:",
+      "Loop Statement within Try": "    for item in my_list:",
+      "Loop Body": "        print(item)",
+      "Except Statement": "except Exception as e:",
+      "Except Body": "    print(f'Error: {e}')"
+    }
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "topic": "loops",
+    "difficulty": 10,
+    "prompt": "Organize the generator expression within a loop to yield squares of even numbers from 0 to 10.",
+    "draggableItems": [
+      "def generate_squares():",
+      "    for num in range(0, 11):",
+      "        if num % 2 == 0:",
+      "            yield num ** 2"
+    ],
+    "dropZones": [
+      "Function Definition",
+      "Loop Statement",
+      "Condition to Check Even",
+      "Yield Statement within Condition"
+    ],
+    "correctMatch": {
+      "Function Definition": "def generate_squares():",
+      "Loop Statement": "    for num in range(0, 11):",
+      "Condition to Check Even": "        if num % 2 == 0:",
+      "Yield Statement within Condition": "            yield num ** 2"
+    }
+  }
+]

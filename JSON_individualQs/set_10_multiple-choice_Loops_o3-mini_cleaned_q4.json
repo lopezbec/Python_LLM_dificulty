@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What is the output of the following code snippet?\n\nfor i in range(5):\n    if i == 3:\n        break\n    print(i, end=' ')\n\nChoose the correct output.",
+  "options": [
+    "0 1 2",
+    "0 1 2 3",
+    "0 1 2 3 4",
+    "1 2 3"
+  ],
+  "correctAnswer": "0 1 2"
+}

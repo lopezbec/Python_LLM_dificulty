@@ -1,0 +1,16 @@
+{
+  "difficulty": 10,
+  "question": "Pair each possible infinite loop condition to the scenario preventing it.",
+  "choices": [
+    "while True:",
+    "while condition:"
+  ],
+  "prevention_scenarios": [
+    "Include a 'break' statement within the block.",
+    "Ensure 'condition' evaluates to False eventually."
+  ],
+  "correct_answers": {
+    "while True:": "Include a 'break' statement within the block.",
+    "while condition:": "Ensure 'condition' evaluates to False eventually."
+  }
+}

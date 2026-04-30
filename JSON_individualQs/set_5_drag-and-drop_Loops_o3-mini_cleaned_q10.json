@@ -1,0 +1,27 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Arrange the components of a while loop with an else clause that executes when the loop completes normally.",
+  "instructions": "Drag and drop the following code pieces into the correct order to form a while loop where the else block is executed after the loop finishes without encountering a break.",
+  "dragItems": [
+    "while count < 5:",
+    "print(count)",
+    "count += 1",
+    "else:",
+    "print('Loop finished')"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5"
+  ],
+  "correctOrder": [
+    "while count < 5:",
+    "print(count)",
+    "count += 1",
+    "else:",
+    "print('Loop finished')"
+  ]
+}

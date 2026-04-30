@@ -1,0 +1,11 @@
+{
+  "question": "What will this code output? \n\n```python\nx = True\nif x:\n    print('x is True')\nelse:\n    print('x is False')\n```",
+  "options": [
+    "x is True",
+    "x is False",
+    "True",
+    "Error"
+  ],
+  "correct_answer": "x is True",
+  "difficulty": 6
+}

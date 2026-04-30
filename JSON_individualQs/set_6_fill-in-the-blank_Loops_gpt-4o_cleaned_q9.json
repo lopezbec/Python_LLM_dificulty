@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To iterate over a sequence using index and value at the same time, the ___ function is typically used.",
+  "blank": "enumerate"
+}

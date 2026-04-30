@@ -1,0 +1,45 @@
+{
+  "id": 4,
+  "type": "drag_and_drop",
+  "difficulty": 4,
+  "prompt": "Complete the following if-elif-else structure by dragging the correct keywords into the blanks.",
+  "instructions": "Place the correct keyword into each blank.",
+  "displayText": "____ temperature > 30:\n    print('Hot')\n____ temperature > 15:\n    print('Warm')\n____:\n    print('Cold')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "if"
+    },
+    {
+      "id": "B",
+      "text": "elif"
+    },
+    {
+      "id": "C",
+      "text": "else"
+    },
+    {
+      "id": "D",
+      "text": "while"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank 1"
+    },
+    {
+      "id": "dz2",
+      "label": "Blank 2"
+    },
+    {
+      "id": "dz3",
+      "label": "Blank 3"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A",
+    "dz2": "B",
+    "dz3": "C"
+  }
+}

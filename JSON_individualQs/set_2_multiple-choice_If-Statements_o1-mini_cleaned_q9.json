@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\n```python\nnumber = 7\nif number % 2 == 0:\n    print(\"Even\")\nelif number % 3 == 0:\n    print(\"Divisible by 3\")\nelif number % 5 == 0:\n    print(\"Divisible by 5\")\nelse:\n    print(\"Odd\")\n```\n",
+  "options": {
+    "A": "Even",
+    "B": "Divisible by 3",
+    "C": "Divisible by 5",
+    "D": "Odd"
+  },
+  "answer": "D",
+  "difficulty": 9
+}

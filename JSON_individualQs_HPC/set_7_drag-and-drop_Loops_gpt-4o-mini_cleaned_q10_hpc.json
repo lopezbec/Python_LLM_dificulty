@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "def generator(n):",
+        "for i in ___:",
+        "yield i",
+        "range(n)",
+        "[i for i in range(n)]",
+        "(x for x in range(n))",
+        "list(range(n))"
+    ]
+}

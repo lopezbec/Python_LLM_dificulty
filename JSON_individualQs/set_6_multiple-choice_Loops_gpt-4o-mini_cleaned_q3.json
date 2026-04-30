@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\nfor i in range(3):\n    print(i)\n\n",
+  "options": [
+    "0\n1\n2\n3",
+    "1\n2\n3",
+    "0\n1\n2",
+    "3\n2\n1"
+  ],
+  "correct_answer": "0\n1\n2",
+  "difficulty": 3
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "question": "Which keyword is used to specify the alternative block of code that runs if the condition in an if statement is False?",
+  "options": {
+    "A": "else",
+    "B": "elif",
+    "C": "otherwise",
+    "D": "otherwise_if"
+  },
+  "correct_answer": "A",
+  "difficulty": 2,
+  "topic": "if statements"
+}

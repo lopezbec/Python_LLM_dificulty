@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to iterate over each element in the list 'fruits':\n\nfruits = ['apple', 'banana', 'cherry']\nfor fruit in ____:\n    print(fruit)",
+  "answer": "fruits"
+}

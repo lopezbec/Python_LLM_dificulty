@@ -1,0 +1,7 @@
+{
+  "question": "The range(5) function in a for loop generates the sequence of numbers from 1 to 5 inclusive.",
+  "answer": false,
+  "difficulty": 4,
+  "topic": "Loops",
+  "type": "True/False"
+}

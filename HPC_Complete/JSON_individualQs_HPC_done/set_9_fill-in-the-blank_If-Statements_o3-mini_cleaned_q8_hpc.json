@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "walrus operator",
+        "if (n := len(my_list)) ______ 3:",
+        "print('The list has three or more elements')"
+    ]
+}

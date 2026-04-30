@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Which of the following code snippets correctly iterates over a 2D list (matrix) using nested loops?",
+  "options": [
+    "for i in matrix:\n    for j in matrix:\n        print(j)",
+    "for i in matrix:\n    for j in i:\n        print(j)",
+    "for i in matrix:\n    print(i)\nfor j in matrix:\n    print(j)",
+    "for i in matrix:\n    for j in range(len(i)):\n        print(i)"
+  ],
+  "correct_answer": "for i in matrix:\n    for j in i:\n        print(j)"
+}

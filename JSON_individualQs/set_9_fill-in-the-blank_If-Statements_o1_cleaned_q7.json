@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank to check if value is in one of two ranges:\n\nif (1 <= value <= 10) _____ (20 <= value <= 30):\n    print(\"value is in the specified ranges\")",
+  "answer": "or"
+}

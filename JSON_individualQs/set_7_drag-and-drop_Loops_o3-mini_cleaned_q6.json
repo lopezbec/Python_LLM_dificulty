@@ -1,0 +1,25 @@
+{
+  "difficulty": 6,
+  "question": "Reorder the code segments to form a loop that continually generates a random number until it picks 5, then breaks out of the loop. Arrange these segments in the correct sequence:\n\nSegment Options:\n- while True:\n- x = random.randint(1, 10)\n- if x == 5:\n- break\n- print(x)",
+  "dragItems": [
+    "while True:",
+    "x = random.randint(1, 10)",
+    "if x == 5:",
+    "break",
+    "print(x)"
+  ],
+  "dropZones": [
+    "Step 1",
+    "Step 2",
+    "Step 3",
+    "Step 4",
+    "Step 5"
+  ],
+  "correctMapping": {
+    "Step 1": "while True:",
+    "Step 2": "x = random.randint(1, 10)",
+    "Step 3": "if x == 5:",
+    "Step 4": "break",
+    "Step 5": "print(x)"
+  }
+}

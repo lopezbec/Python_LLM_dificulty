@@ -1,0 +1,5 @@
+{
+  "question": "The following if statement is correctly written: if x == 10: print('x is 10')",
+  "answer": true,
+  "difficulty": 8
+}

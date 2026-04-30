@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank with the special variable used to check if the script is being run directly:\n\nif ______ == '__main__':\n    main()",
+  "answer": "__name__"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "A nested loop is a loop inside another loop, which can cause an increase in time complexity.",
+  "answer": true,
+  "difficulty": 7
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Which statement best describes the use of if statements in Python?",
+  "choices": {
+    "A": "They allow the program to handle syntax errors automatically",
+    "B": "They only function inside loops",
+    "C": "They execute a block of code if a given condition is true",
+    "D": "They automatically create a variable inside a function"
+  },
+  "correct_answer": "C",
+  "difficulty": 1
+}

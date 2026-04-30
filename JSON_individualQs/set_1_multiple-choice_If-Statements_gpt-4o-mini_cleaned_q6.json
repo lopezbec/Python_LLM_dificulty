@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will the output be for the following code snippet if x = 5? \n\n```python\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')\n```",
+  "options": [
+    "Positive",
+    "Negative",
+    "Zero",
+    "Error"
+  ],
+  "correct_answer": "Positive"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Arrange the code blocks to complete a nested loop that prints a multiplication table up to 5.",
+  "options": [
+    "for i in range(1, 6):",
+    "    for j in range(1, 6):",
+    "        print(i * j, end=' ')",
+    "    print()"
+  ],
+  "correct_order": [
+    "for i in range(1, 6):",
+    "    for j in range(1, 6):",
+    "        print(i * j, end=' ')",
+    "    print()"
+  ]
+}

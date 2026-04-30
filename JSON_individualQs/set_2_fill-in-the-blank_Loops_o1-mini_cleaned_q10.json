@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blanks to iterate over a file line by line using a for loop and enumerate, starting the count at 1:\n\n```python\nwith open('file.txt', 'r') as file:\n    for ___, line in ___(file, ___):\n        print(f'Line {i}: {line.strip()}')\n```",
+  "answer": "i, enumerate, 1"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "True or False: The range() function requires three arguments (start, stop, and step); therefore, calling range(5) will result in a runtime error.",
+  "answer": "False"
+}

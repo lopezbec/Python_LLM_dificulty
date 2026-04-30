@@ -1,0 +1,15 @@
+{
+  "question": "Drag the snippets to create a for loop that prints each letter in the word 'Loop'.",
+  "difficulty": 2,
+  "instruction": "Rearrange the blocks into a valid code snippet.",
+  "options": [
+    "for letter in 'Loop':",
+    "    ",
+    "print(letter)"
+  ],
+  "correct_order": [
+    "for letter in 'Loop':",
+    "    ",
+    "print(letter)"
+  ]
+}

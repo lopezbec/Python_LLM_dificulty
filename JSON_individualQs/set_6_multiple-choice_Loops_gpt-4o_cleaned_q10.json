@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following code snippet:\n\nhorsemen = ['war', 'famine', 'pestilence']\n\nWhich code snippet adds 'death' to the list without using append method in a loop?",
+  "options": [
+    "A) for name in enumerate(horsemen): horsemen[name] = name + 'death'",
+    "B) for i in range(len(horsemen)): horsemen[i] += 'death'",
+    "C) for i in range(len(horsemen)): horsemen += ['death']",
+    "D) horsemen += ['death']"
+  ],
+  "answer": "D"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "If the following code is executed, what will be printed?\n\n```python\nx = 7\nif x > 10:\n    print('High')\nelif x < 5:\n    print('Low')\nelse:\n    print('Medium')\n```\n",
+  "options": [
+    "High",
+    "Low",
+    "Medium",
+    "None"
+  ],
+  "correct_answer": "Medium",
+  "difficulty": 3
+}

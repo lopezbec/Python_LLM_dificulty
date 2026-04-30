@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (num % 2 == 0) {\n    if (num == 0) { ______ }\n}",
+        "print('Zero')",
+        "print('Even')",
+        "return False",
+        "num = 100"
+    ]
+}

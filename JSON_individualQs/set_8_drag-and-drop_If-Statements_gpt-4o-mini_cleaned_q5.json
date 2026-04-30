@@ -1,0 +1,10 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct code to check if the number is even:\n if number % 2 == 0: \n    _____\n",
+  "options": [
+    "print('Number is odd')",
+    "print('Number is even')",
+    "number += 1"
+  ],
+  "correct_answer": "print('Number is even')"
+}

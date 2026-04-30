@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for char in 'python':",
+        "if char == 'h':",
+        "____",
+        "print(char)"
+    ]
+}

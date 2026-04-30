@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To ensure that a loop executes at least once, ____ is commonly used.",
+  "answer": "do-while"
+}

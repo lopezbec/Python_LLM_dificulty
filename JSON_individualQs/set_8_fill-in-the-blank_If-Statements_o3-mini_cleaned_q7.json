@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: When you want an if-statement to execute if at least one condition is true, the ______ operator is used to combine conditions.",
+  "answer": "or"
+}

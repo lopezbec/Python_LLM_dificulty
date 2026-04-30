@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "By default, Python string comparisons within if-statements are case-insensitive.",
+  "correct_answer": "False"
+}

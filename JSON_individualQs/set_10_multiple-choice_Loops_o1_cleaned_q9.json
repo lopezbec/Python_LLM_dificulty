@@ -1,0 +1,11 @@
+{
+  "question": "Which code snippet correctly iterates over both keys and values of a dictionary named 'my_dict' in Python?",
+  "difficulty": 9,
+  "options": [
+    "for (key, value) in my_dict:",
+    "for key, value in my_dict.items():",
+    "for key in my_dict.keys(), value in my_dict.values():",
+    "for key in my_dict: for value in my_dict:"
+  ],
+  "answer": "for key, value in my_dict.items():"
+}

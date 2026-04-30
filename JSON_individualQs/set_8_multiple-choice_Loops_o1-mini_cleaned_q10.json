@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is a potential issue with using a `while` loop without a proper termination condition?",
+  "options": [
+    "Syntax error",
+    "Infinite loop",
+    "Type mismatch error",
+    "Memory leak"
+  ],
+  "answer": "Infinite loop",
+  "difficulty": 10
+}

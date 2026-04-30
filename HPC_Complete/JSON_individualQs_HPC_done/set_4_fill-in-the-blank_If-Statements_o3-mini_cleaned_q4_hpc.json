@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if score >= 90:",
+        "print('A')",
+        "elif ______:",
+        "print('B')",
+        "score >= 80"
+    ]
+}

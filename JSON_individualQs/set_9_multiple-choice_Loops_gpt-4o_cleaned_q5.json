@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which loop would you use if you know the number of iterations ahead of time?",
+  "choices": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "None"
+  ],
+  "answer": "for loop"
+}

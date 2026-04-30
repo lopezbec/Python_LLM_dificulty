@@ -1,0 +1,13 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "question": "Drag the correct relational operator so that the while loop prints 0, 1, and 2.",
+  "codeSnippet": "x = 0\nwhile x ??? 3:\n    print(x)\n    x += 1",
+  "options": [
+    "=",
+    ">",
+    "<=",
+    "<"
+  ],
+  "correctAnswer": "<"
+}

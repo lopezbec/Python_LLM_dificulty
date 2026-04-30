@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Identify the error in the following code segment:\n\nfor i in range(5):\n    print(i)\n  else:\n    print(\"Done\")\n\nWhich of the following best explains the problem?",
+  "options": [
+    "The else clause is misaligned, causing an IndentationError.",
+    "A colon is missing after the for statement.",
+    "There is a runtime error because the loop is not properly closed.",
+    "No error exists; the code runs fine."
+  ],
+  "correct_answer": "The else clause is misaligned, causing an IndentationError."
+}

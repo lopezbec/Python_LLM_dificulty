@@ -1,0 +1,17 @@
+{
+  "question_id": 3,
+  "difficulty": 3,
+  "question_text": "Complete the while loop by dragging the correct operator that decrements the variable until 0.",
+  "code_snippet": "count = 5\nwhile count > 0:\n    print(count)\n    count ____ 1",
+  "draggable_items": {
+    "blank1": [
+      "-=",
+      "==",
+      "=",
+      "+="
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "-="
+  }
+}

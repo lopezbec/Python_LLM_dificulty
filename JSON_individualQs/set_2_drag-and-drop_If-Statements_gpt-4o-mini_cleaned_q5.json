@@ -1,0 +1,10 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct code to complete the nested if-statement: \nif (a > b) { if (b > c) _______ ; }",
+  "drops": [
+    "print('B is greater')",
+    "else",
+    "print(a)"
+  ],
+  "correct": "print('B is greater')"
+}

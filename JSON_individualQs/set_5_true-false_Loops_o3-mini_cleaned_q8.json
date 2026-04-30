@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "True or False: Nested loops in Python can lead to a time complexity of O(n*m) if they iterate over two lists of lengths n and m respectively.",
+  "answer": "True"
+}

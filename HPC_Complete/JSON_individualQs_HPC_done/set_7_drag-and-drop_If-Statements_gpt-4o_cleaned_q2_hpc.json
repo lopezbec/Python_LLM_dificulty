@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if __condition__:",
+        "__print_statement_1__",
+        "else:",
+        "__print_statement_2__",
+        "x == 5",
+        "print('Equal to five')",
+        "print('Not equal to five')"
+    ]
+}

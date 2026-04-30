@@ -1,0 +1,6 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question_text": "Complete the lambda function to return True if x is even, and False otherwise:\nis_even = lambda x: True if x ______ 2 == 0 else False",
+  "correct_answer": "%"
+}

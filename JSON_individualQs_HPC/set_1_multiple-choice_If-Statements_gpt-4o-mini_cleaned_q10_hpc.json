@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "price = 100",
+        "discount = 10",
+        "if price > 50:",
+        "if discount >= 20:",
+        "print('High Discount')",
+        "print('Low Discount')",
+        "print('No Discount')",
+        "price = 100",
+        "discount = 10",
+        "High Discount",
+        "Low Discount",
+        "No Discount",
+        "Error"
+    ]
+}

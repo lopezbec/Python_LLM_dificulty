@@ -1,0 +1,8 @@
+{
+  "id": 6,
+  "type": "fill-in-the-blank",
+  "difficulty": 6,
+  "topic": "loops",
+  "question": "Using ______ allows you to loop over two lists simultaneously.",
+  "answer": "zip"
+}

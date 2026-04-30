@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "A 'while' loop can be designed to run indefinitely, but it's risky if the exit condition is never met.",
+  "correct_answer": "True"
+}

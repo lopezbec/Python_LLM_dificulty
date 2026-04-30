@@ -1,0 +1,11 @@
+{
+  "question": "2) What is the output of the following code?\n\nx = 5\nif x > 2:\n    print('Greater than 2')\nelse:\n    print('Less than or equal to 2')",
+  "difficulty": 2,
+  "options": {
+    "a": "Greater than 2",
+    "b": "Less than or equal to 2",
+    "c": "No output",
+    "d": "Error"
+  },
+  "correct_answer": "a"
+}

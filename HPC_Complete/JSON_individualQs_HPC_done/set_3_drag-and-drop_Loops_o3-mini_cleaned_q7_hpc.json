@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for letter in ['a', 'b']:",
+        "for number in [1, 2, 3]:",
+        "if number == 2:",
+        "continue",
+        "print(letter, number)"
+    ]
+}

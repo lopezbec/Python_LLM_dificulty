@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Consider the code snippet: 'if x = 10: print(x)'. This snippet is valid Python syntax.",
+  "answer": false
+}

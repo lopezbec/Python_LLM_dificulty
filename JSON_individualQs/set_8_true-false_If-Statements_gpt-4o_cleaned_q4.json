@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "You can use the '==' operator in an if-statement to check for equality between two values.",
+  "answer": true
+}

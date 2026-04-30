@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank to check multiple expressions: \nif score >= 50 _____ score <= 100: \n    print('Good score!')",
+  "answer": "and"
+}

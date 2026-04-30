@@ -1,0 +1,5 @@
+{
+  "question": "The else clause is required whenever we write an if statement in Python.",
+  "difficulty": 5,
+  "correct_answer": "False"
+}

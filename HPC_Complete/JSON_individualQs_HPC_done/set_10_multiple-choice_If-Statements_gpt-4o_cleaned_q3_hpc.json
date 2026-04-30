@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x > 5",
+        "print('x is greater than 5')",
+        "A) A colon ':' after the condition",
+        "B) Nothing, it's correct",
+        "C) Parentheses around the condition",
+        "D) An equal sign '='"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Using multiple separate if-statements to test mutually exclusive conditions is generally more efficient than an if-elif chain in Python.",
+  "answer": "False"
+}

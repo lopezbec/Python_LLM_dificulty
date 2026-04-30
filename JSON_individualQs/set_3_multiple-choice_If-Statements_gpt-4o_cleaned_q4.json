@@ -1,0 +1,11 @@
+{
+  "question": "What is the result of the following code?\n\n```python\nif 3 < 2:\n    print('Hello')\nelse:\n    print('World')\n```",
+  "difficulty": 4,
+  "choices": {
+    "a": "Hello",
+    "b": "World",
+    "c": "HelloWorld",
+    "d": "Error"
+  },
+  "correct_answer": "b"
+}

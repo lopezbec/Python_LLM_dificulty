@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "How does Python determine the block of code that belongs to an if-statement?",
+  "options": [
+    "Curly braces {}",
+    "Parentheses ()",
+    "Indentation",
+    "The 'end' keyword"
+  ],
+  "answer": "Indentation"
+}

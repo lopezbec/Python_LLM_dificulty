@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (temperature < 0) { ____; }",
+        "console.log('It's freezing!');",
+        "console.log('It's warm!');",
+        "console.log('It's hot!');",
+        "console.log('It's cool!');"
+    ]
+}

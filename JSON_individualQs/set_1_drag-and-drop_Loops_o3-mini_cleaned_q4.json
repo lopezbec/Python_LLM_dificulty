@@ -1,0 +1,16 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "topic": "Loops",
+  "question": "Arrange the following code blocks to create a for loop that iterates over the list [1, 2, 3] and prints 'Even' for even numbers.",
+  "drag_items": [
+    "    if num % 2 == 0:",
+    "for num in [1, 2, 3]:",
+    "        print('Even')"
+  ],
+  "correct_order": [
+    "for num in [1, 2, 3]:",
+    "    if num % 2 == 0:",
+    "        print('Even')"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "question": "Rearrange the code blocks to create a simple for loop that prints 'Hello' three times.",
+  "codeBlocks": [
+    "for i in range(3):",
+    "print('Hello')",
+    "print('Bye')"
+  ],
+  "correctOrder": [
+    "for i in range(3):",
+    "print('Hello')"
+  ],
+  "explanation": "The loop uses range(3) for three iterations, printing 'Hello' each time. 'print(\"Bye\")' is a distractor."
+}

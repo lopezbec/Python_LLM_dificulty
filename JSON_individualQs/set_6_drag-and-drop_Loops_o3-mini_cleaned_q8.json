@@ -1,0 +1,17 @@
+{
+  "question_id": 8,
+  "difficulty": 8,
+  "question_text": "Drag and drop the complete method call to iterate directly over a dictionary's keys.",
+  "code_snippet": "student_grades = {'Alice': 85, 'Bob': 92}\nfor key in ____:\n    print(key, student_grades[key])",
+  "draggable_items": {
+    "blank1": [
+      "student_grades",
+      "student_grades.keys()",
+      "student_grades.values()",
+      "student_grades.items()"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "student_grades.keys()"
+  }
+}

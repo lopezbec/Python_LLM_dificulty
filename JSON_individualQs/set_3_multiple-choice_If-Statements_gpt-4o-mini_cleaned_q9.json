@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code block output?\n\nnum = 7\nif num % 2 == 0:\n    print('Even')\nelif num % 3 == 0:\n    print('Divisible by 3')\nelse:\n    print('Odd')",
+  "options": [
+    "Even",
+    "Divisible by 3",
+    "Odd",
+    "None"
+  ],
+  "correct_answer": "Odd",
+  "difficulty": 9
+}

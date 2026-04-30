@@ -1,0 +1,11 @@
+{
+  "question": "How can you check multiple conditions in an if statement using logical operators?",
+  "options": {
+    "A": "if x > 5 and y < 10:",
+    "B": "if x > 5 or y < 10:",
+    "C": "Both A and B",
+    "D": "Neither A nor B"
+  },
+  "answer": "C",
+  "difficulty": 6
+}

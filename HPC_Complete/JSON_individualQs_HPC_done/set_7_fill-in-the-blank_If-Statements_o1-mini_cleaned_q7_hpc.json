@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "result = \"Adult\" ___ age >= 18 ___ \"Minor\"",
+        "age"
+    ]
+}

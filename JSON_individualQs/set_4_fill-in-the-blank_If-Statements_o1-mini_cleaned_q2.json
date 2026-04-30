@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to complete the if-statement that checks if `number` is greater than 0:\n\n```python\nif number ___ 0:\n    print(\"Positive number\")\n```",
+  "answer": ">",
+  "level": 2
+}

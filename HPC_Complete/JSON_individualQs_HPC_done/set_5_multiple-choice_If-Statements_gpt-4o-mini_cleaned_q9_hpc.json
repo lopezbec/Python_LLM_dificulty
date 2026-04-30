@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if 'Hello' in 'Hello World':",
+        "print('Found')",
+        "else:",
+        "print('Not found')",
+        "'Found'",
+        "'Not found'",
+        "'Error'",
+        "'No output'"
+    ]
+}

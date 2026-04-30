@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the primary purpose of an 'if' statement in Python?",
+    "choices": [
+      "To define a function",
+      "To iterate over a sequence",
+      "To execute code based on a condition",
+      "To import modules"
+    ],
+    "answer": "To execute code based on a condition",
+    "difficulty": 1
+  },
+  {
+    "question": "What will the following code output?\n\nx = 7\nif x > 5:\n    print('High')",
+    "choices": [
+      "High",
+      "7",
+      "No output",
+      "Error"
+    ],
+    "answer": "High",
+    "difficulty": 2
+  },
+  {
+    "question": "Given the code below, what is the output?\n\nnum = 3\nif num % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+    "choices": [
+      "Even",
+      "Odd",
+      "Error",
+      "Nothing"
+    ],
+    "answer": "Odd",
+    "difficulty": 3
+  },
+  {
+    "question": "What will be the output of the following code?\n\nx = 10\nif x == 10:\n    print('Ten')\nelse:\n    print('Not Ten')",
+    "choices": [
+      "Ten",
+      "Not Ten",
+      "Error",
+      "10"
+    ],
+    "answer": "Ten",
+    "difficulty": 4
+  },
+  {
+    "question": "Which operator is used for testing equality in an if statement in Python?",
+    "choices": [
+      "=",
+      "==",
+      "===",
+      ":"
+    ],
+    "answer": "==",
+    "difficulty": 5
+  },
+  {
+    "question": "What will be the result of the following code?\n\nscore = 85\nif score >= 90:\n    print('A')\nelif score >= 80:\n    print('B')\nelse:\n    print('C')",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "None"
+    ],
+    "answer": "B",
+    "difficulty": 6
+  },
+  {
+    "question": "Consider the code below. What is the output?\n\nnum = 15\nif num % 3 == 0 and num % 5 == 0:\n    print('FizzBuzz')\nelif num % 3 == 0:\n    print('Fizz')\nelif num % 5 == 0:\n    print('Buzz')\nelse:\n    print(num)",
+    "choices": [
+      "FizzBuzz",
+      "Fizz",
+      "Buzz",
+      "15"
+    ],
+    "answer": "FizzBuzz",
+    "difficulty": 7
+  },
+  {
+    "question": "What does the following code print?\n\nx = 0\nif x:\n    print('True')\nelse:\n    print('False')",
+    "choices": [
+      "True",
+      "False",
+      "0",
+      "Error"
+    ],
+    "answer": "False",
+    "difficulty": 8
+  },
+  {
+    "question": "What will be the output of the following nested if statement?\n\nx = 5\nif x > 0:\n    if x % 2 == 0:\n        print('Positive even')\n    else:\n        print('Positive odd')\nelse:\n    print('Non-positive')",
+    "choices": [
+      "Positive even",
+      "Positive odd",
+      "Non-positive",
+      "Error"
+    ],
+    "answer": "Positive odd",
+    "difficulty": 9
+  },
+  {
+    "question": "Consider the following code that uses nested if-statements and logical operators:\n\nx = 12\ny = 8\nif x > 10:\n    if y < 10:\n        print('A')\n    elif y == 8:\n        print('B')\n    else:\n        print('C')\nelse:\n    print('D')\n\nWhat is the output?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A",
+    "difficulty": 10
+  }
+]

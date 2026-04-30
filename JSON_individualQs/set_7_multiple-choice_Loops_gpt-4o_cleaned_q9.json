@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which loop construct will execute at least once, even if the condition is initially false?",
+  "options": [
+    "A) do-while loop",
+    "B) while loop",
+    "C) for loop",
+    "D) Python does not have this construct"
+  ],
+  "correct_answer": "D) Python does not have this construct"
+}

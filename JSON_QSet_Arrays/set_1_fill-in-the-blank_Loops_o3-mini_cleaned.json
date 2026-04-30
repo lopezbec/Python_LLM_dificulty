@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank: A loop that iterates over a fixed sequence in Python is called a ______ loop.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank: When repeating a code block as long as a condition remains True in Python, you use a ______ loop.",
+    "answer": "while"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank: The ______ function returns a sequence of numbers and is often used to control the number of iterations in a for loop.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank: To immediately exit a loop in Python, you can use the ______ statement.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank: To skip the current iteration in a Python loop and proceed to the next one, use the ______ statement.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank: In a for loop iterating over a list, the loop variable automatically takes on the value of each ______ in the list.",
+    "answer": "element"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank: Consider the following code:\n\n    total = 0\n    for num in range(1, 6):\n        total += num\n    print(total)\n\nThe code will output ______.",
+    "answer": "15"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank: When iterating over a dictionary's keys and values simultaneously in Python, you can use the ______ method.",
+    "answer": "items()"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank: A loop that runs endlessly because it lacks a proper termination condition is commonly known as an ______ loop.",
+    "answer": "infinite"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank: To generate a sequence of even numbers from 0 to 10 (inclusive) using a for loop, you can use range(0, ___, 2). Fill in the blank with the correct endpoint value to include 10.",
+    "answer": "11"
+  }
+]

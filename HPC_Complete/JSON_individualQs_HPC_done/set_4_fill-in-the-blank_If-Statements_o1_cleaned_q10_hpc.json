@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "is_even = lambda x: True if x ______ 2 == 0 else False",
+        "x"
+    ]
+}

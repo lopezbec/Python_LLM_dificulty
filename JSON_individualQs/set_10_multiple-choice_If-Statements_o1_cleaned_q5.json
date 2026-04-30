@@ -1,0 +1,12 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code snippet:\n\nx = 5\nif x < 3:\n    print(\"Small\")\nelif x < 5:\n    print(\"Medium\")\nelse:\n    print(\"Large\")\n\nWhat will it print?",
+  "choices": [
+    "A) Small",
+    "B) Medium",
+    "C) Large",
+    "D) No output"
+  ],
+  "correct_answer": "C",
+  "explanation": "Because x equals 5, the condition x < 3 is false and x < 5 is also false, so the else block executes, printing \"Large\"."
+}

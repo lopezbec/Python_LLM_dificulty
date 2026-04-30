@@ -1,0 +1,10 @@
+{
+  "question": "2. How do you write an if statement in Python to check if x is equal to 10?",
+  "options": [
+    "A) if x != 10",
+    "B) if x = 10",
+    "C) if x == 10",
+    "D) if x => 10"
+  ],
+  "answer": "C"
+}

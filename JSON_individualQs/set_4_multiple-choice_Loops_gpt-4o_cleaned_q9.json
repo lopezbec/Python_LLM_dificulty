@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will be the final value of 'x' after executing the following code?\n\nx = 0\nfor i in range(5):\n    for j in range(5):\n        x += 1\n        if j == 3:\n            break",
+  "options": {
+    "A": "4",
+    "B": "5",
+    "C": "15",
+    "D": "20"
+  },
+  "correct_answer": "C"
+}

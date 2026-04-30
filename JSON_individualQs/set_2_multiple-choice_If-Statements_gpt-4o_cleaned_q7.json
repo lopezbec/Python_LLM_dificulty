@@ -1,0 +1,11 @@
+{
+  "question": "In a nested if-statement where the outer condition is false, what happens to the inner condition?",
+  "difficulty": 7,
+  "options": {
+    "A": "It is evaluated",
+    "B": "It is ignored",
+    "C": "The program crashes",
+    "D": "The condition is set to true"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "Nested loops in Python execute the innermost loop completely every time an outer loop iterates only once.",
+  "difficulty": 6,
+  "answer": true
+}

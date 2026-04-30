@@ -1,0 +1,14 @@
+{
+  "difficulty": 1,
+  "question": "Match the snippet to its purpose: 'if (condition) { doSomething(); }'",
+  "options": {
+    "A": "Executes 'doSomething()' if 'condition' is True.",
+    "B": "Always executes 'doSomething()'.",
+    "C": "Skips 'doSomething()' if 'condition' is True.",
+    "D": "Executes 'doSomething()' if 'condition' is False."
+  },
+  "correctMatch": {
+    "snippet": "if (condition) { doSomething(); }",
+    "purpose": "A"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "question": "How do you add an else clause to an if-statement in Python?",
+  "options": {
+    "A": "Using the `elif` keyword",
+    "B": "Using the `else` keyword",
+    "C": "Using the `endif` keyword",
+    "D": "Using the `otherwise` keyword"
+  },
+  "answer": "B",
+  "difficulty": 4
+}

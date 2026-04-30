@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "loops",
+  "question": "The statement used to skip the current iteration and continue with the next one in Python is ____.",
+  "answer": "continue"
+}

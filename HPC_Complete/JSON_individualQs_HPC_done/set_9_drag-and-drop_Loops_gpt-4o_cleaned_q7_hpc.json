@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "number = 0",
+        "___ True:",
+        "print('Run this loop')",
+        "if number == 0:",
+        "break",
+        "while",
+        "do",
+        "for"
+    ]
+}

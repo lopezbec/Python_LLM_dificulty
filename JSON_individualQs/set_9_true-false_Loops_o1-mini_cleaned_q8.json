@@ -1,0 +1,7 @@
+{
+  "question": "In Python, the 'else' block after a loop is executed only if the loop completes normally without encountering a 'break' statement.",
+  "type": "true/false",
+  "difficulty": 8,
+  "topic": "loops",
+  "correct_answer": "True"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "if-statements",
+  "question": "Rearrange the following lines to implement an if-elif-else structure that categorizes age groups:\n\n1. print(\"Senior\")\n2. elif age >= 65:\n3. if age < 18:\n4. print(\"Adult\")\n5. else:",
+  "options": [
+    "Line 3",
+    "Line 1",
+    "Line 4",
+    "Line 2",
+    "Line 5"
+  ],
+  "correct_order": [
+    "Line 3",
+    "Line 1",
+    "Line 4",
+    "Line 2",
+    "Line 5"
+  ]
+}

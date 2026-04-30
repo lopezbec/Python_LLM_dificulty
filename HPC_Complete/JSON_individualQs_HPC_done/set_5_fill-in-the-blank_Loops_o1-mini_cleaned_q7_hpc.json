@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for item in items:",
+        "if item == target:",
+        "break",
+        "else:",
+        "print(\"____\")"
+    ]
+}

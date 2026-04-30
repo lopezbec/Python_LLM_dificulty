@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 20",
+        "if x < y:",
+        "print('x is less than y')",
+        "else:",
+        "print('x is greater than or equal to y')",
+        "x",
+        "y",
+        "a) x is less than y",
+        "b) x is greater than or equal to y",
+        "c) Error",
+        "d) None of the above"
+    ]
+}

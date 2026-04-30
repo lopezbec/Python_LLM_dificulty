@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "If a nested loop runs i times in its outer loop and j times in its inner loop, what is its general time complexity?",
+  "options": [
+    "O(1)",
+    "O(i + j)",
+    "O(i * j)",
+    "O(i / j)"
+  ],
+  "correct_answer": "O(i * j)"
+}

@@ -1,0 +1,7 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to check membership using in: \n```python\nfruits = ['apple', 'banana', 'cherry']\nif 'banana' ____ fruits:\n    print(\"Banana is in the list\")\n```",
+  "answer": "in"
+}

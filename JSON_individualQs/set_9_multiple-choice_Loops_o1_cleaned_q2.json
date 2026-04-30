@@ -1,0 +1,13 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "type": "multiple-choice",
+  "question": "What is the correct syntax to loop through a list named fruits, printing each element in Python?",
+  "options": [
+    "A) for each fruit in fruits: print(fruit)",
+    "B) for fruit in fruits { print(fruit) }",
+    "C) for(item in fruits): print(item)",
+    "D) for fruit in fruits: print(fruit)"
+  ],
+  "correct_answer": "D"
+}

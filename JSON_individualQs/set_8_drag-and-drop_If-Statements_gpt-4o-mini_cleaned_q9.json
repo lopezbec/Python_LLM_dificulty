@@ -1,0 +1,10 @@
+{
+  "difficulty": 9,
+  "question": "Arrange the following if-statement snippets into a complete valid code:\n 1. if user_input == 'yes':\n 2. print('Proceed')\n 3. else:\n 4. print('Do not proceed')\n",
+  "correct_order": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

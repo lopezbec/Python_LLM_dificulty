@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "For creating complex iterations that involve multiple iterables, a common pattern involves using '________' from the itertools module, which allows efficient looping.",
+  "answer": "zip"
+}

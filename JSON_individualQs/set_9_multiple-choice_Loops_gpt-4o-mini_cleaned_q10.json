@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of this code?\n\nfor i in range(3):\n    for j in range(i):\n        print(j, end=' ')\n    print()\n",
+  "options": [
+    "0\n1\n2\n",
+    "0 1 0 1 2 ",
+    "0 1\n0 1\n0 1 2\n",
+    "0\n0 1\n0 1 2\n"
+  ],
+  "correct_answer": "0\n0 1\n0 1 2\n",
+  "difficulty": 10
+}

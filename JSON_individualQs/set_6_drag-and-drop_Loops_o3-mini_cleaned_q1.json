@@ -1,0 +1,17 @@
+{
+  "question_id": 1,
+  "difficulty": 1,
+  "question_text": "Drag and drop the correct built-in function to complete the code that prints numbers from 0 to 4 using a for loop.",
+  "code_snippet": "for i in ____(0, 5):\n    print(i)",
+  "draggable_items": {
+    "blank1": [
+      "range",
+      "list",
+      "enumerate",
+      "loop"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "range"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "Complete the condition so this code prints 'Zero' when x is equal to 0:\n\nif ______:\n    print('Zero')",
+  "correct_answer": "x == 0"
+}

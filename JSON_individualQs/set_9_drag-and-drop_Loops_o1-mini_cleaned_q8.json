@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "loops",
+  "question": "Complete the list comprehension equivalent of the following `for` loop.",
+  "code": "squares = [__ for x in range(10) if __]",
+  "options": [
+    "x**2",
+    "x % 2 == 0",
+    "x*2",
+    "x > 5"
+  ],
+  "answers": {
+    "blank1": "x**2",
+    "blank2": "x % 2 == 0"
+  }
+}

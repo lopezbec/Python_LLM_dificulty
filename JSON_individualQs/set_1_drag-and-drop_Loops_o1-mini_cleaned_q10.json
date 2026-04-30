@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "Arrange the following code blocks to execute a loop that iterates over a dictionary and prints key-value pairs.",
+  "options": [
+    "for key, value in my_dict.___():",
+    "print(f'{key}: {value}')",
+    "my_dict = {'a': 1, 'b': 2, 'c': 3}"
+  ],
+  "correct_order": [
+    "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+    "for key, value in my_dict.items():",
+    "    print(f'{key}: {value}')"
+  ]
+}

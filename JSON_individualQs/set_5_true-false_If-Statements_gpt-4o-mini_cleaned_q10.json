@@ -1,0 +1,5 @@
+{
+  "question": "The expression used in an if-statement can include function calls, but it must evaluate to a Boolean value.",
+  "answer": true,
+  "difficulty": 10
+}

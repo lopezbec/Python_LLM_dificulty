@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is a type of loop in Python?",
+  "options": [
+    "while loop",
+    "for loop",
+    "do-while loop",
+    "Both A and B"
+  ],
+  "correctAnswer": "Both A and B"
+}

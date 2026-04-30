@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "In Python, which operator precedence rule is true for the expression in an if-statement like: if a or b and c?",
+  "options": [
+    "The 'and' operator has a higher precedence than the 'or' operator, so b and c are evaluated together before or.",
+    "The 'or' operator is evaluated first before 'and'.",
+    "Both 'and' and 'or' are evaluated left to right without precedence.",
+    "The expression is ambiguous and will result in an error."
+  ],
+  "answer": "The 'and' operator has a higher precedence than the 'or' operator, so b and c are evaluated together before or."
+}

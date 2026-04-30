@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "num = 4",
+        "if num % 2 == 0:",
+        "result = 'Even'",
+        "else:",
+        "result = 'Odd'",
+        "print(result)",
+        "Even",
+        "Odd",
+        "None",
+        "Error"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x == 10: print(\"Ten\") else: print(\"Not Ten\")",
+        "if x == 10 then print(\"Ten\") else print(\"Not Ten\")",
+        "if x == 10 { print(\"Ten\") } else { print(\"Not Ten\") }",
+        "if (x == 10) print(\"Ten\"); else print(\"Not Ten\")"
+    ]
+}

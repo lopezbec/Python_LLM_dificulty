@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Complete the while loop that counts from 1 to 5.",
+  "code": "count = 1\nwhile ___ <= ___:\n    print(count)\n    count += 1",
+  "options": [
+    "count",
+    "1",
+    "5",
+    "6",
+    "0"
+  ],
+  "correct_answers": [
+    "count",
+    "5"
+  ]
+}

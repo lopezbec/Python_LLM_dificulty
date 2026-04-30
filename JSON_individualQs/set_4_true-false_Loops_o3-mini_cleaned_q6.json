@@ -1,0 +1,6 @@
+{
+  "difficulty": 6,
+  "type": "true-false",
+  "question": "It is impossible to use nested loops in Python to iterate over more than two levels of data.",
+  "correctAnswer": "False"
+}

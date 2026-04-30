@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank: When nesting an if statement inside another in Python, the nested block must be ______ relative to the outer block.",
+  "answer": "indented"
+}

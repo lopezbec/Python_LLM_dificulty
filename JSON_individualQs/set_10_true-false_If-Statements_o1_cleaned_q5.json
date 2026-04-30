@@ -1,0 +1,9 @@
+{
+  "question": "Parentheses around the if condition are mandatory in Python syntax.",
+  "difficulty": 5,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "False"
+}

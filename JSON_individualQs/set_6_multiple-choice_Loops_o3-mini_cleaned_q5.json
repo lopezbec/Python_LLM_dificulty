@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What is the output of the following Python code?\n\nsum = 0\nfor i in range(5):\n    if i % 2 == 0:\n        continue\n    sum += i\nprint(sum)",
+  "options": [
+    "6",
+    "4",
+    "10",
+    "5"
+  ],
+  "correctAnswer": "4"
+}

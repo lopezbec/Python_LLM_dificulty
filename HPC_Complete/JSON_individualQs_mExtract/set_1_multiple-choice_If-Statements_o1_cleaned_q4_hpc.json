@@ -1,0 +1,10 @@
+{
+  "HPC": [
+        "a", 
+        "b",
+        "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse\n    print('Both are equal')",
+        "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')",
+        "if (a > b)\n    print('a is greater')\nelse if(a < b)\n    print('b is greater')\nelse:\n    print('Both are equal')",
+        "if a > b:\n    print('a is greater')\nelseif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+    ]
+  }

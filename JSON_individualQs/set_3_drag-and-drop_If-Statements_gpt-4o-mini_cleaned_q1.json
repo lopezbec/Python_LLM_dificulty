@@ -1,0 +1,11 @@
+{
+  "question": "Drag the correct condition to complete the if-statement: \nif ( ______ ) {\n    // code block\n}",
+  "options": [
+    "5 > 2",
+    "hello",
+    "function()",
+    "myVariable"
+  ],
+  "correct_answer": "5 > 2",
+  "difficulty": 1
+}

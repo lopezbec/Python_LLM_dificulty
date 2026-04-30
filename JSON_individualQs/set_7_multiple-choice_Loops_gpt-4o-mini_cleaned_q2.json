@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which statement is used to exit a loop prematurely in Python?",
+  "options": [
+    "continue",
+    "stop",
+    "exit",
+    "break"
+  ],
+  "answer": "break"
+}

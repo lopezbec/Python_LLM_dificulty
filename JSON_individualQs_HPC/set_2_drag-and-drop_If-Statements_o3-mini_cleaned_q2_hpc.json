@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "x > y",
+        "print",
+        "if x > y:",
+        "    print('x is greater')"
+    ]
+}

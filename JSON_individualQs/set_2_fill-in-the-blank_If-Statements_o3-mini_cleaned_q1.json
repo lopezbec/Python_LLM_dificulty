@@ -1,0 +1,6 @@
+{
+  "difficulty": 1,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: In Python, an if-statement begins with ____ followed by a condition.",
+  "answer": "if"
+}

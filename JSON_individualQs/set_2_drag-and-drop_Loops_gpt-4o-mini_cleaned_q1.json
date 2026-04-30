@@ -1,0 +1,18 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop to arrange the loop components in a basic for loop in Python.",
+  "options": [
+    "for",
+    "in",
+    "range(5)",
+    ":",
+    "print(i)"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

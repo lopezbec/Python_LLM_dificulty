@@ -1,0 +1,43 @@
+{
+  "question": "Drag and drop the correct keywords to form nested if statements checking if x is even or not, and whether it's negative or positive.",
+  "difficulty": 5,
+  "code": "x = -2\n__1__ x % 2 == 0:\n    __2__ x < 0:\n        print(\"Even Negative\")\n    __3__:\n        print(\"Even Positive\")\n__4__:\n    print(\"Not Even\")",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "id": "__2__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "else",
+        "except"
+      ]
+    },
+    {
+      "id": "__3__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "for",
+        "else"
+      ]
+    },
+    {
+      "id": "__4__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "finally",
+        "else",
+        "with"
+      ]
+    }
+  ]
+}

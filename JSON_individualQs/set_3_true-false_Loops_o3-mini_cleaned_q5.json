@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "True or False: The 'continue' statement causes the loop to skip the rest of the current iteration and immediately start the next iteration.",
+  "answer": true
+}

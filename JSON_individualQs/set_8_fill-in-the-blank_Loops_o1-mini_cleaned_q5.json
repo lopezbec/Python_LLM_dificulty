@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank: When you need both the index and the value of items in a list during iteration, you can use the ____ function in a for loop.",
+  "answer": "enumerate"
+}

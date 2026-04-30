@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "question": "Match the conditions to their corresponding outputs.",
+  "conditions": [
+    "if number % 2 == 0:",
+    "if number > 0:",
+    "if number == 0:"
+  ],
+  "outputs": [
+    "The number is positive.",
+    "The number is even.",
+    "The number is zero."
+  ],
+  "answer_mapping": {
+    "if number % 2 == 0:": "The number is even.",
+    "if number > 0:": "The number is positive.",
+    "if number == 0:": "The number is zero."
+  }
+}

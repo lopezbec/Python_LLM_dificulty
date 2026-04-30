@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 5; y = 10; if x < y and y > 5: print(\"Yes\")",
+        "x",
+        "y",
+        "if x < y and y > 5: print(\"Yes\")",
+        "Yes",
+        "No",
+        "Error",
+        "Nothing"
+    ]
+}

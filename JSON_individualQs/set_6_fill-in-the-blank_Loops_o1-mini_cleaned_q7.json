@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "loops",
+  "question": "In a list comprehension, the keyword used to filter items based on a condition is ____. For example: `[x for x in range(5) ____ x > 2]`.",
+  "answer": "if"
+}

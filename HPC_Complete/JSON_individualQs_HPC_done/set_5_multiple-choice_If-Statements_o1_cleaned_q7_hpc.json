@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 8",
+        "if x > 5:",
+        "if x < 10:",
+        "print(\"x is a single-digit number greater than 5\")",
+        "else:",
+        "print(\"x is 5 or less\")",
+        "x is 5 or less",
+        "x is a single-digit number greater than 5",
+        "No output",
+        "SyntaxError"
+    ]
+}

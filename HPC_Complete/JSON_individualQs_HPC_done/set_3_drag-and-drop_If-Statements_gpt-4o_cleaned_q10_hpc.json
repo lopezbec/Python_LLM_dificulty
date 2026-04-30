@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x > 10: \n    if y < 5: \n        __inner_statement__\nelse:\n    print(\"x is not greater than 10\")",
+        "print(\"Valid Range\")",
+        "continue",
+        "break"
+    ]
+}

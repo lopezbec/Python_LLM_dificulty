@@ -1,0 +1,12 @@
+{
+  "difficulty": 8,
+  "topic": "Loops",
+  "question": "What is the result of executing the following nested loop?\n\nfor i in range(2):\n  for j in range(2):\n    print(i, j)\n",
+  "options": [
+    "(i, j) pairs: (0, 0), (0, 1), (1, 0), (1, 1)",
+    "(i, j) pairs: (0, 0), (1, 1)",
+    "(i, j) pairs: (1, 0), (1, 1)",
+    "Error, nested loop not allowed"
+  ],
+  "answer": "(i, j) pairs: (0, 0), (0, 1), (1, 0), (1, 1)"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\nresult = 1\nfor i in range(1, 4):\n    result *= i\nprint(result)\n",
+  "options": [
+    "6",
+    "9",
+    "24",
+    "3"
+  ],
+  "correct_answer": "6",
+  "difficulty": 6
+}

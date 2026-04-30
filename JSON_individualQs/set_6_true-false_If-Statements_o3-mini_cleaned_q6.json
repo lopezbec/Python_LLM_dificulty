@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "True or False: In Python, an else clause following an if statement is executed when the if condition evaluates to False.",
+  "correct_answer": true
+}

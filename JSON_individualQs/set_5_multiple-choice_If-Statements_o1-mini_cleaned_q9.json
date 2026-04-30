@@ -1,0 +1,12 @@
+{
+  "question": "What is the result of the following code snippet?\n\n```python\nx = 5\nif x == 5:\n    print('Five')\nif x > 3:\n    print('Greater than three')\nelse:\n    print('Not greater than three')\n```",
+  "options": [
+    "A) Five",
+    "A) Five\nGreater than three",
+    "Five\nNot greater than three",
+    "Greater than three"
+  ],
+  "answer": "B",
+  "difficulty": 9,
+  "topic": "if statements"
+}

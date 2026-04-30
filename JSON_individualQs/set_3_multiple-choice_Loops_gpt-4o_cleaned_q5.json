@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Which statement is used to skip the rest of the code inside the loop for the current iteration only?",
+  "options": [
+    "continue",
+    "break",
+    "exit",
+    "pass"
+  ],
+  "correct_answer": "continue"
+}

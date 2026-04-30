@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Arrange the parts of a loop that uses a break statement to exit when a condition is met.",
+  "instructions": "Drag and drop the code parts into the order they should appear, maintaining valid Python indentation logic.",
+  "dragItems": [
+    "for num in range(10):",
+    "if num == 5:",
+    "break",
+    "print(num)"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4"
+  ],
+  "correctOrder": [
+    "for num in range(10):",
+    "if num == 5:",
+    "break",
+    "print(num)"
+  ]
+}

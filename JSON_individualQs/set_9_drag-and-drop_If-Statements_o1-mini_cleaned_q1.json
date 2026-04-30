@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "if-statements",
+  "question": "Arrange the following code snippets to form a basic `if` statement that checks if `x` is greater than 0.",
+  "options": [
+    "    print('x is positive')",
+    "if x > 0:",
+    "x = int(input('Enter a number: '))"
+  ],
+  "answer": [
+    "x = int(input('Enter a number: '))",
+    "if x > 0:",
+    "    print('x is positive')"
+  ]
+}

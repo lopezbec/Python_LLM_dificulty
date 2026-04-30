@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "An if statement in Python can only use the '==' operator for comparison.",
+  "correct_answer": "False"
+}

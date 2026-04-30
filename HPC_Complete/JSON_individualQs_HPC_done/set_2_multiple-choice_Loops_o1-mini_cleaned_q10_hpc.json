@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "def gen_numbers():",
+        "for i in range(3):",
+        "yield i * i",
+        "for number in gen_numbers():",
+        "print(number)"
+    ]
+}

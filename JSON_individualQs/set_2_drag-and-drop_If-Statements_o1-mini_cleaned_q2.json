@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 2,
+  "question": "Drag and drop the keywords to complete the `if-else` statement in Python.",
+  "options": [
+    "else:",
+    "if temperature > 30",
+    "    print(\"It's hot\")",
+    "    print(\"It's cool\")"
+  ],
+  "correct_order": [
+    "if temperature > 30",
+    "    print(\"It's hot\")",
+    "else:",
+    "    print(\"It's cool\")"
+  ]
+}

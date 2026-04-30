@@ -1,0 +1,10 @@
+{
+  "question": "What will the following code output?\n\n```python\nx = 0\nif x:\n    print(\"True\")\nelse:\n    print(\"False\")\n```",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "0",
+    "D": "Error"
+  },
+  "answer": "B"
+}

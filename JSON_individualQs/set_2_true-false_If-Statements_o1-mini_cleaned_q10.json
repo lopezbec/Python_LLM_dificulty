@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "question": "In Python, an if statement can exist without an else or elif clause, but an elif clause cannot appear without a preceding if statement.",
+  "difficulty": 10,
+  "type": "True/False"
+}

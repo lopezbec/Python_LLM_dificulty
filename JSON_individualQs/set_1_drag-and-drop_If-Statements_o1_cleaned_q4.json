@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "question": "Drag the correct snippet to ensure the if block runs only if the variable grade is between 50 and 60 (exclusive).",
+  "code": "grade = 55\nif [BLANK]:\n    print(\"Grade is in the 50s\")",
+  "choices": [
+    "50 < grade < 60",
+    "grade < 50 or grade > 60",
+    "grade == 50 and grade == 60"
+  ],
+  "correctAnswer": "50 < grade < 60"
+}

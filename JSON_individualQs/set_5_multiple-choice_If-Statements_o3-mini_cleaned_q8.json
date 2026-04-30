@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Consider the code:\n\nx = 3\nif x > 5:\n    print('Greater than 5')\nelif x == 3:\n    print('Equal to 3')\nelse:\n    print('Less than 5')\n\nWhat will be printed?",
+  "options": {
+    "A": "Greater than 5",
+    "B": "Equal to 3",
+    "C": "Less than 5",
+    "D": "No output"
+  },
+  "correct_answer": "B"
+}

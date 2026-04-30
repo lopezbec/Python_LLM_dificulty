@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A _____ loop will execute its body at least once, even if the condition is initially false.",
+    "answer": "do-while"
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, the _______ loop is used to iterate over a sequence (like a list or a string).",
+    "answer": "for"
+  },
+  {
+    "difficulty": 3,
+    "question": "In a while loop, the loop continues as long as the _____ evaluates to true.",
+    "answer": "condition"
+  },
+  {
+    "difficulty": 4,
+    "question": "You can use the _____ statement to immediately exit a loop.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 5,
+    "question": "The _____ statement can skip the current iteration of a loop and proceed to the next iteration.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 6,
+    "question": "To iterate over items in a sequence with their index, you can use the _____ function.",
+    "answer": "enumerate"
+  },
+  {
+    "difficulty": 7,
+    "question": "In a nested loop, a loop inside another loop is called an _____ loop.",
+    "answer": "inner"
+  },
+  {
+    "difficulty": 8,
+    "question": "The keyword _____ can be used to create an infinite loop intentionally.",
+    "answer": "while True"
+  },
+  {
+    "difficulty": 9,
+    "question": "If you want to create a loop that runs for a specific number of times, the _____ function is commonly used.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, a loop that iterates over a dictionary values can be achieved by using the _____ method.",
+    "answer": "values"
+  }
+]

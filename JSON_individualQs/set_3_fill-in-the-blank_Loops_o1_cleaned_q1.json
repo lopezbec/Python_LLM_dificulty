@@ -1,0 +1,6 @@
+{
+  "difficulty": 1,
+  "type": "fill-in-the-blank",
+  "question": "In Python, the '___' loop is commonly used to iterate over a sequence of elements.",
+  "correct_answer": "for"
+}

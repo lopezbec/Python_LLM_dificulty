@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "To create an infinite loop, we can use the 'while True' structure. However, to avoid a never-ending process, we must include a(n) ________ statement within that loop.",
+  "correct_answer": "break"
+}

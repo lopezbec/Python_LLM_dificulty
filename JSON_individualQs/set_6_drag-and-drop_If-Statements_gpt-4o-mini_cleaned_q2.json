@@ -1,0 +1,10 @@
+{
+  "question": "Fill in the blanks with the correct code fragments: \n`if (condition) { return value; } else {  ____ ; }`",
+  "drops": [
+    "return otherValue;",
+    "if (otherCondition) { }",
+    "for (i in range(5)) { }"
+  ],
+  "correct": "return otherValue;",
+  "difficulty": 2
+}

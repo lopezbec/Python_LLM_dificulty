@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "if __condition_1__:",
+        "__print_statement_1__",
+        "elif __condition_2__:",
+        "__print_statement_2__",
+        "else:",
+        "__print_statement_3__",
+        "a < 0",
+        "a == 0",
+        "print('Negative number')",
+        "print('Zero')",
+        "print('Positive number')"
+    ]
+}

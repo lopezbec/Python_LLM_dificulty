@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When using nested loops, a ___ loop is defined within the scope of another loop to perform more complex iterations.",
+  "answer": "nested"
+}

@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 3",
+        "if x == 3:",
+        "print('Equal)",
+        "else:",
+        "print('Not Equal')",
+        "Equal",
+        "Not Equal",
+        "Error",
+        "None"
+    ]
+}

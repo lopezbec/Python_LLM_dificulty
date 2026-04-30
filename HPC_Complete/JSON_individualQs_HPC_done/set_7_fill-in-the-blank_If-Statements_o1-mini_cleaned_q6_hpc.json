@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if user_input ___ \"yes\":",
+        "proceed()"
+    ]
+}

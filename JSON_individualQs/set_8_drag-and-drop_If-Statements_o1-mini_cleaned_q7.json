@@ -1,0 +1,20 @@
+{
+  "question": "Arrange the following parts to form an if-else statement that handles different data types for the variable 'data':",
+  "options": [
+    "if",
+    "isinstance(data, int)",
+    ":",
+    "    print(\"Data is an integer\")",
+    "else:",
+    "    print(\"Data is not an integer\")"
+  ],
+  "answer": [
+    "if",
+    "isinstance(data, int)",
+    ":",
+    "    print(\"Data is an integer\")",
+    "else:",
+    "    print(\"Data is not an integer\")"
+  ],
+  "difficulty": 7
+}

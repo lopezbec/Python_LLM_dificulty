@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "question": "Which keyword can be used to check multiple conditions in succession, apart from 'if' and 'else'?",
+  "choices": [
+    "A) elif",
+    "B) else if",
+    "C) or",
+    "D) then"
+  ],
+  "correct_answer": "A",
+  "explanation": "In Python, the 'elif' keyword stands for 'else if' and allows multiple condition checks in an if-else chain."
+}

@@ -1,0 +1,10 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct statement to complete the if-statement: \n if x > 10: \n    _____\n",
+  "options": [
+    "print('x is greater than 10')",
+    "print('x is less than 10')",
+    "print('x equals 10')"
+  ],
+  "correct_answer": "print('x is greater than 10')"
+}

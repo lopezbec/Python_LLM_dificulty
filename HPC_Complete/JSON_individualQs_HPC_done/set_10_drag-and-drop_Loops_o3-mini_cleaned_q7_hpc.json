@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "___ i in range(1, 3):",
+        "___ j in range(1, 4):",
+        "print(i * j)",
+        "for",
+        "while"
+    ]
+}

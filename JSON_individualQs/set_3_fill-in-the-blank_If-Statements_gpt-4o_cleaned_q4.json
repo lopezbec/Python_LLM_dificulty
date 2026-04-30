@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: In an if-statement, the expression inside parentheses needs to return a _____ value.",
+  "answer": "boolean"
+}

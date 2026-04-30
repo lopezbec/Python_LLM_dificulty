@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A while loop is guaranteed to run at least once.",
+  "correct_answer": "False"
+}

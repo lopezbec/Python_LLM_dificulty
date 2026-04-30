@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "choice",
+        "if choice _____ 'yes' _____ choice _____ 'no':",
+        "print('Invalid input')"
+    ]
+}

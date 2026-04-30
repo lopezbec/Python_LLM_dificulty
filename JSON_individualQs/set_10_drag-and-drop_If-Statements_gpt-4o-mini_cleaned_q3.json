@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "question": "Arrange the following lines of code to create an if-statement that checks if 'score' is less than 50 and prints 'Fail'.",
+  "code_fragments": [
+    "print('Fail')",
+    "if score < 50:"
+  ],
+  "correct_order": [
+    "if score < 50:",
+    "print('Fail')"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "question": "Consider the following code. What will be printed if `a = 10`, `b = 20`, and `c = 30`?\n\n```python\nif a > b:\n    if a > c:\n        print(\"a is the largest\")\n    else:\n        print(\"c is the largest\")\nelif b > c:\n    print(\"b is the largest\")\nelse:\n    print(\"c is the largest\")\n```",
+  "options": [
+    "a is the largest",
+    "b is the largest",
+    "c is the largest",
+    "Nothing is printed"
+  ],
+  "answer": "C"
+}

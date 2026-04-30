@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "You can add multiple conditions in an if-statement using the '____' keyword.",
+  "correct_answer": "elif"
+}

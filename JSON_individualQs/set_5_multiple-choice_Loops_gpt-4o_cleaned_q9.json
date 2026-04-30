@@ -1,0 +1,12 @@
+{
+  "difficulty": 9,
+  "topic": "Loops",
+  "question": "Given two lists, 'a = [1, 2]' and 'b = [3, 4]', which code correctly prints every combination of elements from both lists?",
+  "options": [
+    "for x in a:\n  for y in b:\n    print(x, y)",
+    "for x in a:\n  for y in a:\n    print(x, y)",
+    "for x in b:\n  for y in b:\n    print(x, y)",
+    "for x in a:\n  for y in b:\n    pass"
+  ],
+  "answer": "for x in a:\n  for y in b:\n    print(x, y)"
+}

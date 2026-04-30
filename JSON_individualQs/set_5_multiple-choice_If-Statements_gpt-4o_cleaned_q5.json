@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "How do you check if a variable 'y' is either 10 or 20 in an if-statement?",
+  "options": [
+    "if y == 10 or 20:",
+    "if y == 10 and 20:",
+    "if y in (10, 20):",
+    "if y is 10 or 20:"
+  ],
+  "correct_answer": "if y in (10, 20):"
+}

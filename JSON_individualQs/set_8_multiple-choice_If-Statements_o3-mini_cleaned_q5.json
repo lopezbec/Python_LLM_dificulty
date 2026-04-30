@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Given the code snippet below, what will be printed?\n\nx = 3\nif x > 5:\n    print('A')\nelif x == 3:\n    print('B')\nelse:\n    print('C')",
+  "options": [
+    {
+      "label": "A",
+      "text": "A",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "B",
+      "isCorrect": true
+    },
+    {
+      "label": "C",
+      "text": "C",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "No output",
+      "isCorrect": false
+    }
+  ]
+}

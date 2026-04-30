@@ -1,0 +1,40 @@
+{
+  "id": 10,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "question": "Arrange the following code to implement a function that determines if a year is a leap year.",
+  "dragItems": [
+    "def is_leap_year(year):",
+    "    if year % 4 != 0:",
+    "        return False",
+    "    elif year % 100 != 0:",
+    "        return True",
+    "    elif year % 400 != 0:",
+    "        return False",
+    "    else:",
+    "        return True"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6",
+    "Line 7",
+    "Line 8",
+    "Line 9"
+  ],
+  "correctAnswers": {
+    "Line 1": "def is_leap_year(year):",
+    "Line 2": "    if year % 4 != 0:",
+    "Line 3": "        return False",
+    "Line 4": "    elif year % 100 != 0:",
+    "Line 5": "        return True",
+    "Line 6": "    elif year % 400 != 0:",
+    "Line 7": "        return False",
+    "Line 8": "    else:",
+    "Line 9": "        return True"
+  }
+}

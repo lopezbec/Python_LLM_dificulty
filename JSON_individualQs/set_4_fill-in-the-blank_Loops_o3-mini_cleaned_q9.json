@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: In a list comprehension, loops are used to generate lists concisely. The syntax begins with an expression followed by a ______ clause.",
+  "answer": "for"
+}

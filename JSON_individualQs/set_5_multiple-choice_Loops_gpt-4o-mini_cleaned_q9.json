@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code? 'for i in range(5): if i == 2: break; print(i)'",
+  "options": [
+    "A. 0 1 2 3 4",
+    "B. 0 1",
+    "C. 0 1 2",
+    "D. 2 3 4"
+  ],
+  "answer": "B",
+  "difficulty": 9
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank to complete the if-else structure. For example:\n\nif x < 10:\n    print('Small')\n______:\n    print('Large')",
+  "answer": "else"
+}

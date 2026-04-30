@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "If a Python if statement does not include an indented block after the condition, it results in an IndentationError.",
+  "answer": "True"
+}

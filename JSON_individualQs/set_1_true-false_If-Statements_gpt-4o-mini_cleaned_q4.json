@@ -1,0 +1,5 @@
+{
+  "question": "If a condition in an if-statement evaluates to zero, the if block will execute.",
+  "difficulty": 4,
+  "answer": false
+}

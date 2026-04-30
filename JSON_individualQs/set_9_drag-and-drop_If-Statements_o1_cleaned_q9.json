@@ -1,0 +1,25 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "prompt": "Fill in the missing keywords to handle different membership statuses.",
+  "code_with_placeholders": [
+    "member_status = \"Gold\"",
+    "[__keyword1__] member_status == \"Gold\":",
+    "    print(\"Welcome, Gold member!\")",
+    "[__keyword2__] member_status == \"Silver\":",
+    "    print(\"Welcome, Silver member!\")",
+    "else:",
+    "    print(\"Welcome, Guest!\")"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "while",
+    "else if"
+  ],
+  "correct_answer": {
+    "__keyword1__": "if",
+    "__keyword2__": "elif"
+  }
+}

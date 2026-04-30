@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "my_list = [1, 2, 3]",
+        "output = 0",
+        "for x in my_list:",
+        "if x % 2 == 0:",
+        "continue",
+        "output += x",
+        "print(output)",
+        "6",
+        "4",
+        "3",
+        "1"
+    ]
+}

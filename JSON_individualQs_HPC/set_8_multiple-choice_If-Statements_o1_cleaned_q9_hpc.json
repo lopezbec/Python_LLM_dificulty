@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "x = 3",
+        "y = 5",
+        "if x < 4:",
+        "if y > 4:",
+        "print(\"Nested condition met\")",
+        "output"
+    ]
+}

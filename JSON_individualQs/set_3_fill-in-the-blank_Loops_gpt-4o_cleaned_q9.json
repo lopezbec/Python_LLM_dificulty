@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In a nested loop, if you want to exit from all loops, you need to use an additional control mechanism such as a ___ to manage the flow.",
+  "correct_answer": "flag"
+}

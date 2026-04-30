@@ -1,0 +1,22 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Match each fruit to its corresponding color using drag and drop.",
+  "drag_options": [
+    "Apple",
+    "Banana",
+    "Cherry"
+  ],
+  "drop_zones": [
+    "Red",
+    "Yellow",
+    "Red"
+  ],
+  "correct_matches": {
+    "Apple": "Red",
+    "Banana": "Yellow",
+    "Cherry": "Red"
+  }
+}

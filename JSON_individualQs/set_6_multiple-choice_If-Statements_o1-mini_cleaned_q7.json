@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\nx = 3\nresult = \"Positive\" if x > 0 else \"Non-positive\"\nprint(result)",
+  "choices": {
+    "A": "Positive",
+    "B": "Non-positive",
+    "C": "Error",
+    "D": "x > 0"
+  },
+  "answer": "A",
+  "difficulty": 7
+}

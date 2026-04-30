@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output?\n\nif True:\n    print('Hello')\nelse:\n    print('Goodbye')",
+  "options": [
+    "Hello",
+    "Goodbye",
+    "None",
+    "Error"
+  ],
+  "correct_answer": "Hello",
+  "difficulty": 1
+}

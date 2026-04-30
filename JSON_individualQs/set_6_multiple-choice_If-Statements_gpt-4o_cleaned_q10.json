@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following is a logical error in using if-statements?\n\nx = 20\ny = 30\nif x > y:\n    print('x is greater than y')\nelse:\n    print('y is greater than or equal to x')",
+  "choices": [
+    "Incorrect indentations.",
+    "Comparing two variables using '>' instead of '=='.",
+    "Printing a statement in the else clause that implies x is not greater than y.",
+    "Using '=' instead of '=='."
+  ],
+  "correct_answer": "Printing a statement in the else clause that implies x is not greater than y."
+}

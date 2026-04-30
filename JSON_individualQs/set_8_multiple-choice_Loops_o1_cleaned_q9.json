@@ -1,0 +1,11 @@
+{
+  "question": "What is the primary benefit of using enumerate() in a for loop?",
+  "difficulty": 9,
+  "choices": [
+    "A) It returns the sum of all items in the list",
+    "B) It provides both the index and the item during iteration",
+    "C) It sorts the list automatically as it iterates",
+    "D) It terminates the loop after a certain number of iterations"
+  ],
+  "correct_answer": "B"
+}

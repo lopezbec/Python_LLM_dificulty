@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "if-statements",
+  "question": "Drag the correct comparison operators to complete the if statement:\n\nage = 20\nif age ___ 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")",
+  "options": [
+    ">=",
+    "==",
+    "!=",
+    "<"
+  ],
+  "correct_answers": [
+    ">="
+  ]
+}

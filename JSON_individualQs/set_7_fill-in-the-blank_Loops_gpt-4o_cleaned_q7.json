@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can use an 'else' clause with both 'for' and 'while' loops, which will be executed when the loop terminates without a '________' statement.",
+  "answer": "break"
+}

@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, when using an 'if' statement inside a loop, the 'if' condition is evaluated only once before the loop starts.",
+  "answer": false,
+  "difficulty": 7,
+  "topic": "if-statements"
+}

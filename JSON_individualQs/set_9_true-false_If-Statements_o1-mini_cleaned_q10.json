@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the condition in an if statement must evaluate to a boolean value; otherwise, it will raise a TypeError.",
+  "difficulty": 10,
+  "answer": false
+}

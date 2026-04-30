@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to complete a basic for loop that iterates five times in Python:\n\nfor i in ____:\n    print(i)",
+  "answer": "range(5)"
+}

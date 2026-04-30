@@ -1,0 +1,21 @@
+{
+  "difficulty": 8,
+  "question": "Complete the following if-elif-else structure that assigns a grade based on a score by dragging the correct keywords into the blanks.\n\n_____ score >= 90:\n    grade = 'A'\n_____ score >= 80:\n    grade = 'B'\n_____:\n    grade = 'C'",
+  "blanks": [
+    "Blank1",
+    "Blank2",
+    "Blank3"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "else",
+    "while",
+    "for"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": "elif",
+    "Blank3": "else"
+  }
+}

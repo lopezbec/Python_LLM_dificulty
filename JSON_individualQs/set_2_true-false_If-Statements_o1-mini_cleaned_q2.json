@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "question": "The condition in a Python if-statement must evaluate to a Boolean value (True or False).",
+  "difficulty": 2,
+  "type": "True/False"
+}

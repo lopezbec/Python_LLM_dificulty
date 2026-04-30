@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "If the condition in a while loop is false from the start, the loop will not execute at all.",
+  "answer": "True"
+}

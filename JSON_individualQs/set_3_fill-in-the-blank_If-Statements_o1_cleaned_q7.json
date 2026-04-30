@@ -1,0 +1,6 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank so that the statement checks if 'num' is between 5 and 15 (inclusive):\nif 5 <= num ______ 15:\n    print('Within range')",
+  "answer": "<="
+}

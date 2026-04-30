@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "In a for loop, what does the 'break' statement do?",
+  "options": [
+    "Ends the current loop",
+    "Ends all loops",
+    "Pauses the loop execution",
+    "Continues to the next iteration"
+  ],
+  "correctAnswer": "Ends the current loop"
+}

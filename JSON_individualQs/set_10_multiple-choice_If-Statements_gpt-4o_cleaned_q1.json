@@ -1,0 +1,10 @@
+{
+  "question": "1. What will be the output of the following code?\n\n```python\nif 5 > 3:\n    print('Hello')\n```\n",
+  "options": [
+    "A) Hello",
+    "B) 5",
+    "C) 3",
+    "D) Nothing"
+  ],
+  "answer": "A"
+}

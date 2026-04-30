@@ -1,0 +1,7 @@
+{
+  "question": "List comprehensions in Python can be used as an alternative to 'for' loops for creating lists.",
+  "type": "true/false",
+  "difficulty": 9,
+  "topic": "loops",
+  "correct_answer": "True"
+}

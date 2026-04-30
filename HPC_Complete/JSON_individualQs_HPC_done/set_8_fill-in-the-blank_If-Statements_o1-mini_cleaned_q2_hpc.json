@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "age",
+        "if ___:",
+        "print(\"You are an adult.\")",
+        "age >= 18"
+    ]
+}

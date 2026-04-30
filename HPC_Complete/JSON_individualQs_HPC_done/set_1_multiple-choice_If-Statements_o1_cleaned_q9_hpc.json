@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 4",
+        "y = 8",
+        "if x < y < 10:",
+        "print('y is between x and 10')",
+        "else:",
+        "print('Condition not met')",
+        "y is between x and 10",
+        "Condition not met",
+        "SyntaxError",
+        "NameError"
+    ]
+}

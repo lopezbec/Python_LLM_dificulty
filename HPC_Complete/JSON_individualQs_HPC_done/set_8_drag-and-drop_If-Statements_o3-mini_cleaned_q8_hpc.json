@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if a > b:\n    if a ___ c:\n        print('a is the greatest')\n    ___:\n        print('a is greater than b but not c')\nelse:\n    print('a is not greater than b')",
+        "if",
+        "elif",
+        "else",
+        ">",
+        "<",
+        "=="
+    ]
+}

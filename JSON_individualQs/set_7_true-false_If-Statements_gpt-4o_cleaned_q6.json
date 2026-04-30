@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Python's if-statements do not support the elif keyword for adding additional conditions.",
+  "answer": false
+}

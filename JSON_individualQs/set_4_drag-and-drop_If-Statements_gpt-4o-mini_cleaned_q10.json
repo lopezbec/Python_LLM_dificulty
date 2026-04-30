@@ -1,0 +1,14 @@
+{
+  "difficulty": 10,
+  "question": "Create the complete structure for a multiple conditional statement: if (a > b) { _____ } else if (a < b) { _____ } else { _____ };",
+  "options": [
+    "print('a is greater')",
+    "print('b is greater')",
+    "print('a and b are equal')"
+  ],
+  "correct_answer": [
+    "print('a is greater')",
+    "print('b is greater')",
+    "print('a and b are equal')"
+  ]
+}

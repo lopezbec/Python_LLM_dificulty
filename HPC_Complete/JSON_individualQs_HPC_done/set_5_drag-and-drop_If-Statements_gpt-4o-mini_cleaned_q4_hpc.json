@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if status",
+        "status",
+        "== 'active':",
+        "!= 'active':",
+        "is 'active':"
+    ]
+}

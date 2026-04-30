@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "List comprehensions in Python are generally slower than equivalent `for` loops due to their functional nature.",
+  "answer": "False"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "The following code will print 'Yes': if x = 10: print('Yes') # Assuming x is 10.",
+  "answer": true,
+  "difficulty": 6
+}

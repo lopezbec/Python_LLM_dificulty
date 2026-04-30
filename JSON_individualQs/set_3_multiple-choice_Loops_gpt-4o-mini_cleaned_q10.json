@@ -1,0 +1,11 @@
+{
+  "question": "What does the following code do? `while True: print('Hello'); break`?",
+  "options": [
+    "Infinite loop",
+    "Prints 'Hello' once",
+    "Prints nothing",
+    "Prints 'Hello' infinitely"
+  ],
+  "answer": "Prints 'Hello' once",
+  "difficulty": 10
+}

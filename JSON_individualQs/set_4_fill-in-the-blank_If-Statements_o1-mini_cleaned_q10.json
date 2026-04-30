@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to implement an if-statement that checks if `temperature` is within the comfortable range (20 to 25 degrees inclusive) using comparison operators:\n\n```python\nif ___ <= temperature <= ___:\n    print(\"Temperature is comfortable\")\n```",
+  "answer": "20, 25",
+  "level": 10
+}

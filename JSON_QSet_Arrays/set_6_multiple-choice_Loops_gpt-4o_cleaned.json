@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which loop will iterate over each element in a list named 'fruits'?",
+    "options": [
+      "A) for fruit in fruits:",
+      "B) while fruit in fruits:",
+      "C) for i = 0; i < fruits.length; i++",
+      "D) repeat fruits"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "How many times will the following loop execute?\n\nfor i in range(5): print(i)",
+    "options": [
+      "A) 4",
+      "B) 5",
+      "C) 6",
+      "D) Undefined"
+    ],
+    "answer": "B"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which of the following can be used to exit a loop prematurely?",
+    "options": [
+      "A) continue",
+      "B) exit",
+      "C) break",
+      "D) stop"
+    ],
+    "answer": "C"
+  },
+  {
+    "difficulty": 4,
+    "question": "What will be the output of the following script?\n\nfor i in range(3):\n    print(i)\nelse:\n    print('Done')",
+    "options": [
+      "A) 012Done",
+      "B) 012",
+      "C) Done",
+      "D) 0123Done"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 5,
+    "question": "What is the value of 'i' after the loop completes?\n\nfor i in range(10):\n    if i == 5:\n        break",
+    "options": [
+      "A) 4",
+      "B) 5",
+      "C) 6",
+      "D) 10"
+    ],
+    "answer": "B"
+  },
+  {
+    "difficulty": 6,
+    "question": "Which loop control statement causes the remaining code inside the loop not to be executed while restarting the loop?",
+    "options": [
+      "A) return",
+      "B) break",
+      "C) continue",
+      "D) pass"
+    ],
+    "answer": "C"
+  },
+  {
+    "difficulty": 7,
+    "question": "What is a for loop's characteristic ability that a while loop generally lacks?",
+    "options": [
+      "A) Iterating over iterable objects directly",
+      "B) Changing the loop variable inside",
+      "C) Breaking out of the loop",
+      "D) Executing code conditionally"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 8,
+    "question": "Given a list 'numbers = [1, 2, 3]', how to use a loop to create a list of squared values?",
+    "options": [
+      "A) [x ** 2 for x in numbers]",
+      "B) [x * 2 for x in numbers]",
+      "C) [numbers[i] ** 2 for i in numbers]",
+      "D) [i ** 3 for i in numbers]"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 9,
+    "question": "Which of the following loops is most efficient for iterating over a dictionary in Python to get both key and value?",
+    "options": [
+      "A) for key in dictionary.keys()",
+      "B) for value in dictionary.values()",
+      "C) for key, value in dictionary.items()",
+      "D) for item in dictionary"
+    ],
+    "answer": "C"
+  },
+  {
+    "difficulty": 10,
+    "question": "Consider the following code snippet:\n\nhorsemen = ['war', 'famine', 'pestilence']\n\nWhich code snippet adds 'death' to the list without using append method in a loop?",
+    "options": [
+      "A) for name in enumerate(horsemen): horsemen[name] = name + 'death'",
+      "B) for i in range(len(horsemen)): horsemen[i] += 'death'",
+      "C) for i in range(len(horsemen)): horsemen += ['death']",
+      "D) horsemen += ['death']"
+    ],
+    "answer": "D"
+  }
+]

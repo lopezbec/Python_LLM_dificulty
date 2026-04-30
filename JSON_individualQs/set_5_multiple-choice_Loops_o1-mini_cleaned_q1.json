@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "question": "What is the primary purpose of a 'for' loop in Python?",
+  "options": {
+    "A": "To define a function",
+    "B": "To iterate over a sequence",
+    "C": "To handle exceptions",
+    "D": "To import modules"
+  },
+  "answer": "B",
+  "difficulty": 1
+}

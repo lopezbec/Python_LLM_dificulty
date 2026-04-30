@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "The keyword _____ can be used to create an infinite loop intentionally.",
+  "answer": "while True"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What is the final output of the following code?\n\nx = 4\nif x < 5:\n    x += 10\nif x > 10:\n    x -= 3\nif x == 11:\n    x *= 2\nelse:\n    x /= 2\nprint(x)",
+  "choices": {
+    "A": "10",
+    "B": "11",
+    "C": "22",
+    "D": "5"
+  },
+  "correct_answer": "C",
+  "difficulty": 10
+}

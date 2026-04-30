@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if valid_id ____ age > 21:\n    print('Access granted')",
+        "valid_id",
+        "age",
+        "&&",
+        "or",
+        "and",
+        "||"
+    ]
+}

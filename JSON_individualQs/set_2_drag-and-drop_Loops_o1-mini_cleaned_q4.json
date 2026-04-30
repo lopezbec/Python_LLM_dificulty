@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "question": "Match the loop control keyword to its function.",
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "Loops",
+  "dragItems": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "dropTargets": [
+    "Exit the loop entirely",
+    "Skip the current iteration and continue",
+    "Do nothing and continue"
+  ],
+  "correctAssociations": {
+    "break": "Exit the loop entirely",
+    "continue": "Skip the current iteration and continue",
+    "pass": "Do nothing and continue"
+  }
+}

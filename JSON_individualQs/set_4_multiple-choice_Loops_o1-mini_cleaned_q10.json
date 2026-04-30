@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "question": "Identify the error in the following code snippet:\n\n```python\ni = 0\nwhile i < 5:\n    print(i)\n    i -= 1\n```",
+  "options": {
+    "A": "SyntaxError due to incorrect indentation.",
+    "B": "Infinite loop because `i` is decremented.",
+    "C": "Runtime error when `i` becomes negative.",
+    "D": "No error; the code runs correctly.",
+    "E": "Logical error as `i` should be incremented."
+  },
+  "answer": "B",
+  "difficulty": 10,
+  "topic": "loops",
+  "type": "multiple-choice"
+}

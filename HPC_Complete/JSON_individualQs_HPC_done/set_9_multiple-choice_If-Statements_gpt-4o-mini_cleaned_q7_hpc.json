@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "if 'a' in 'apple':",
+        "print('Contains a')",
+        "else:",
+        "print('Does not contain a')",
+        "'a' in 'apple'",
+        "'Contains a'",
+        "'Does not contain a'",
+        "a) Contains a",
+        "b) Does not contain a",
+        "c) Error",
+        "d) None of the above"
+    ]
+}

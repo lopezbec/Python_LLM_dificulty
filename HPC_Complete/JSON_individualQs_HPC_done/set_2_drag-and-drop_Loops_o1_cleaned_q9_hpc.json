@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for index, char in ???('cat'):\n    print(index, char)",
+        "'cat'",
+        "zip",
+        "range",
+        "split",
+        "enumerate"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, creating an infinite loop using a 'for' loop is impossible because 'for' loops require a known sequence to iterate over.",
+  "answer": false
+}

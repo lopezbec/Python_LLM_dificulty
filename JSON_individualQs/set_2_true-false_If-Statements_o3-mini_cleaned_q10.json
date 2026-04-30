@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When an if-statement condition in Python involves multiple logical operators, the expressions are evaluated using short-circuit logic.",
+  "answer": "True"
+}

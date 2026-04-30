@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "question": "Fill in the blank to check for multiple data types in an if statement:\n\nif isinstance(value, (int, ___)):\n    print('Value is a number or float')",
+  "answer": "float",
+  "difficulty": 9
+}

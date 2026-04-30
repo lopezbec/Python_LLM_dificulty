@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank: In Python, to check an additional condition after an if-statement, you use the ______ keyword.",
+  "answer": "elif"
+}

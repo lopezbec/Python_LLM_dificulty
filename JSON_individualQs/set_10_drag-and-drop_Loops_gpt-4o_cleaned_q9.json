@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Complete the loop with the correct block to iterate over only even indices in a list.\n\nlst = [10, 20, 30, 40]\nfor i in range(___, len(lst), ___):\n    print(lst[i])",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "answer": [
+    "0",
+    "2"
+  ]
+}

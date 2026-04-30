@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What keyword is used to create an infinite loop in Python using a while statement?",
+  "options": [
+    "while True",
+    "while False",
+    "for True",
+    "if True"
+  ],
+  "correct_answer": "while True"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "The loop will not execute even once if the condition of a while loop is _____ initially.",
+  "answer": "false"
+}

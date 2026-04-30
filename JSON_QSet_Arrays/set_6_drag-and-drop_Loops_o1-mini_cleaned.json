@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "question": "Arrange the following lines to create a simple `for` loop that prints numbers from 1 to 3.",
+    "options": [
+      "for i in range(1, 4):",
+      "print(i)"
+    ],
+    "correct_order": [
+      "for i in range(1, 4):",
+      "    print(i)"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "Drag and drop the components to form a `while` loop that continues until `count` is less than 5.",
+    "options": [
+      "count = 0",
+      "while count < 5:",
+      "print(count)",
+      "count += 1"
+    ],
+    "correct_order": [
+      "count = 0",
+      "while count < 5:",
+      "    print(count)",
+      "    count += 1"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "Place the loop control statements in the correct order within the `for` loop to skip even numbers.",
+    "options": [
+      "if i % 2 == 0:",
+      "continue",
+      "print(i)"
+    ],
+    "correct_order": [
+      "if i % 2 == 0:",
+      "    continue",
+      "print(i)"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "Match each loop type to its appropriate use case by dragging the correct pair.",
+    "options": [
+      {
+        "type": "for loop",
+        "match": "Iterating over a list"
+      },
+      {
+        "type": "while loop",
+        "match": "Repeating until a condition is false"
+      }
+    ],
+    "correct_matches": [
+      {
+        "type": "for loop",
+        "match": "Iterating over a list"
+      },
+      {
+        "type": "while loop",
+        "match": "Repeating until a condition is false"
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": 5,
+    "question": "Arrange the nested `for` loops to generate a multiplication table from 1 to 3.",
+    "options": [
+      "for i in range(1, 4):",
+      "for j in range(1, 4):",
+      "print(i * j)",
+      "    print(i * j)"
+    ],
+    "correct_order": [
+      "for i in range(1, 4):",
+      "    for j in range(1, 4):",
+      "        print(i * j)"
+    ],
+    "difficulty": 5
+  },
+  {
+    "id": 6,
+    "question": "Fill in the missing parts of the loop to print the following pattern:\n1\n12\n123",
+    "options": [
+      "for i in range(1, 4):",
+      "for j in range(1, i + 1):",
+      "print(j, end='')",
+      "print()"
+    ],
+    "correct_order": [
+      "for i in range(1, 4):",
+      "    for j in range(1, i + 1):",
+      "        print(j, end='')",
+      "    print()"
+    ],
+    "difficulty": 6
+  },
+  {
+    "id": 7,
+    "question": "Drag and drop the correctly indented loop block.",
+    "options": [
+      "for number in range(5):",
+      "print(number)",
+      "    print(number)",
+      "print(number)"
+    ],
+    "correct_order": [
+      "for number in range(5):",
+      "    print(number)"
+    ],
+    "difficulty": 7
+  },
+  {
+    "id": 8,
+    "question": "Arrange the loop with `break` and `continue` statements to find the first even number in the list.",
+    "options": [
+      "for num in numbers:",
+      "if num % 2 == 0:",
+      "print(num)",
+      "    break",
+      "    continue"
+    ],
+    "correct_order": [
+      "for num in numbers:",
+      "    if num % 2 == 0:",
+      "        print(num)",
+      "        break",
+      "    else:",
+      "        continue"
+    ],
+    "difficulty": 8
+  },
+  {
+    "id": 9,
+    "question": "Sequence the `for` loop with an `else` clause to execute after the loop completes without interruption.",
+    "options": [
+      "for item in iterable:",
+      "print(item)",
+      "else:",
+      "print('Loop completed')"
+    ],
+    "correct_order": [
+      "for item in iterable:",
+      "    print(item)",
+      "else:",
+      "    print('Loop completed')"
+    ],
+    "difficulty": 9
+  },
+  {
+    "id": 10,
+    "question": "Drag and drop the code blocks to implement a loop that calculates the factorial of a number.",
+    "options": [
+      "result = 1",
+      "for i in range(1, n + 1):",
+      "result *= i",
+      "print(result)"
+    ],
+    "correct_order": [
+      "result = 1",
+      "for i in range(1, n + 1):",
+      "    result *= i",
+      "print(result)"
+    ],
+    "difficulty": 10
+  }
+]

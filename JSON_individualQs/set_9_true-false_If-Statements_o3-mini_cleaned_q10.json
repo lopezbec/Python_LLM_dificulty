@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In an if statement, the expression 'a and b or c' is evaluated as ((a and b) or c) due to the operator precedence in Python.",
+  "answer": "True"
+}

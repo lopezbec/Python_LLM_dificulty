@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank to add a compound condition that checks if x is between 1 and 10:\n\nif x >= 1 ______ x <= 10:\n    print('x is between 1 and 10')",
+  "answer": "and"
+}

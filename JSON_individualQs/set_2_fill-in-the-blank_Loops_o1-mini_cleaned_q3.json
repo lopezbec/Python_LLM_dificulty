@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank to iterate over each item in the list `fruits` using a for loop:\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor ___ in fruits:\n    print(___)\n```",
+  "answer": "fruit, fruit"
+}

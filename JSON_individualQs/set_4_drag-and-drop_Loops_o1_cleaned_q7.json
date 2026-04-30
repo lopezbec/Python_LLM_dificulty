@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Drag the correct range function to have the loop print numbers from 5 down to 1.",
+  "codeSnippet": "for i in _____:\n    print(i)",
+  "options": [
+    "range(5, 0, -1)",
+    "range(1, 5)",
+    "range(0, 5, -1)"
+  ],
+  "correctAnswer": "range(5, 0, -1)"
+}

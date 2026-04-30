@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following nested if statement?\n\nx = 5\nif x > 0:\n    if x % 2 == 0:\n        print('Positive even')\n    else:\n        print('Positive odd')\nelse:\n    print('Non-positive')",
+  "choices": [
+    "Positive even",
+    "Positive odd",
+    "Non-positive",
+    "Error"
+  ],
+  "answer": "Positive odd",
+  "difficulty": 9
+}

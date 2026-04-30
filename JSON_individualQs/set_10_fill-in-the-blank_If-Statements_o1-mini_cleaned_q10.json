@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "question": "Fill in the blank to implement short-circuit evaluation in an if statement:\n\nif config and config.get('enabled') ___ execute_task():\n    print('Task executed')",
+  "answer": "and",
+  "difficulty": 10
+}

@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "if-statements",
+  "question": "Complete the condition to check if a person is 18 years or older.",
+  "instruction": "Drag the correct condition into the blank.",
+  "code": "age = 20\nif ____:\n    print('Adult')",
+  "dragItems": [
+    "age < 18",
+    "age >= 18",
+    "age == 18"
+  ],
+  "dropZones": [
+    "[condition]"
+  ],
+  "correctMapping": {
+    "[condition]": "age >= 18"
+  }
+}

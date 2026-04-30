@@ -1,0 +1,22 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "prompt": "Use the correct keyword to check if x is not divisible by 3, otherwise print divisible message.",
+  "code_with_placeholders": [
+    "x = 6",
+    "[__keyword__] not (x % 3 == 0):",
+    "    print(\"x is not divisible by 3\")",
+    "else:",
+    "    print(\"x is divisible by 3\")"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "while",
+    "for"
+  ],
+  "correct_answer": {
+    "__keyword__": "if"
+  }
+}

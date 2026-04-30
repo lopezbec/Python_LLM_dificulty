@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if ___:\n    print('Perfect ten')\nelse:\n    print('Not quite')",
+        "y",
+        "print('Perfect ten')",
+        "print('Not quite')",
+        "y == 10",
+        "y > 10",
+        "y < 10"
+    ]
+}

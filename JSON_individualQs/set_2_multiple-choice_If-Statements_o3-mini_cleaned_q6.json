@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Consider the following code snippet:\n\nif True:\nprint('Hello')\n\nWhat type of error will this code produce?",
+  "options": [
+    "SyntaxError",
+    "IndentationError",
+    "NameError",
+    "TypeError"
+  ],
+  "correct_answer": "IndentationError"
+}

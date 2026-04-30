@@ -1,0 +1,25 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 5,
+  "prompt": "Complete the nested loop to generate a multiplication table up to 3.",
+  "draggableItems": [
+    "for i in range(1, 4):",
+    "for j in range(1, 4):",
+    "print(i * j)",
+    "    print(i * j)"
+  ],
+  "dropZones": [
+    "Outer Loop",
+    "Inner Loop",
+    "Inner Loop Body",
+    "Indentation for Inner Loop Body"
+  ],
+  "correctMatch": {
+    "Outer Loop": "for i in range(1, 4):",
+    "Inner Loop": "for j in range(1, 4):",
+    "Inner Loop Body": "print(i * j)",
+    "Indentation for Inner Loop Body": "    print(i * j)"
+  }
+}

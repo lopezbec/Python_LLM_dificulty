@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "In Python, a 'while' loop repeatedly executes its block as long as a given condition is True.",
+  "correct_answer": "True"
+}

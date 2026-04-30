@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "topic": "Loops",
+  "question": "What is the primary purpose of a loop in programming?",
+  "options": [
+    "To repeat a block of code multiple times",
+    "To store values",
+    "To take user input",
+    "To define functions"
+  ],
+  "answer": "To repeat a block of code multiple times"
+}

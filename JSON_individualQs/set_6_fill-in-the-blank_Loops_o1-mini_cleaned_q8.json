@@ -1,0 +1,7 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "loops",
+  "question": "Fill in the blank to create an infinite loop in Python:\n\n```python\nwhile ____:\n    pass\n```",
+  "answer": "True"
+}

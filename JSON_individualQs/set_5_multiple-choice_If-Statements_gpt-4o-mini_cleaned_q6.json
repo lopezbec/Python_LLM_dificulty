@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will the following code output when x = 0?\nif x:\n    print('True')\nelse:\n    print('False')",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Nothing",
+    "D": "Error"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What keyword is used for the 'else if' component in a Python if statement?",
+  "choices": {
+    "A": "elseif",
+    "B": "elsif",
+    "C": "elif",
+    "D": "then if"
+  },
+  "correct_answer": "C"
+}

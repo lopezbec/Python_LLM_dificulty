@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "To loop over two or more sequences at the same time, you can use the ___ function.",
+  "blank": "zip"
+}

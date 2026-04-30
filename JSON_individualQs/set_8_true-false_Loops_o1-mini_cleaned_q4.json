@@ -1,0 +1,6 @@
+{
+  "question": "In Python, using 'continue' inside a loop will skip the rest of the code inside the loop for the current iteration and continue with the next iteration.",
+  "answer": true,
+  "difficulty": 4,
+  "topic": "Loops"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "Arrange the following loop control statements in the order they appear in a loop that skips even numbers and stops at 10.",
+  "options": [
+    "if i % 2 == 0:",
+    "continue",
+    "if i > 10:",
+    "break"
+  ],
+  "correct_order": [
+    "if i % 2 == 0:",
+    "continue",
+    "if i > 10:",
+    "break"
+  ]
+}

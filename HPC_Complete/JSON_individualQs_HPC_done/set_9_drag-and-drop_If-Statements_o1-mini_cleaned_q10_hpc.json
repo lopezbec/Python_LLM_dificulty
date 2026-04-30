@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if len(input_str) < 5:",
+        "    print('Input is too short.')",
+        "elif not input_str.isalnum():",
+        "    print('Input contains special characters.')",
+        "else:",
+        "    print('Input is valid.')"
+    ]
+}

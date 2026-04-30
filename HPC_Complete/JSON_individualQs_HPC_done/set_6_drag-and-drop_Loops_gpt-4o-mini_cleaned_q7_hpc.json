@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'orange', 'apple']",
+        "count = 0",
+        "for fruit in fruits:",
+        "if fruit == 'apple':",
+        "count += 1"
+    ]
+}

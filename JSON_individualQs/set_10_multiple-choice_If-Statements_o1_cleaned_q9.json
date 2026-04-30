@@ -1,0 +1,12 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following is the correct one-line ternary if statement to assign var = 'Positive' if x > 0, otherwise 'Non-positive'?",
+  "choices": [
+    "A) var = 'Positive' if x > 0 else 'Non-positive'",
+    "B) var = if x > 0: 'Positive' else: 'Non-positive'",
+    "C) if x > 0 ? var = 'Positive' : var = 'Non-positive'",
+    "D) var = 'Non-positive' if x > 0 else 'Positive'"
+  ],
+  "correct_answer": "A",
+  "explanation": "Python's ternary operator uses the syntax: <true-value> if <condition> else <false-value>."
+}

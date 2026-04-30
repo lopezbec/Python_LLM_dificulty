@@ -1,0 +1,5 @@
+{
+  "question": "The 'else' clause of a loop in Python executes only if the loop does not encounter a 'break' statement.",
+  "difficulty": 4,
+  "correct_answer": "True"
+}

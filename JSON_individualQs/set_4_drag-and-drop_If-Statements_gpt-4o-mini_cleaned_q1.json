@@ -1,0 +1,10 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct completion to the if-statement: If x is greater than 10, _____.",
+  "options": [
+    "print('x is greater')",
+    "x = x + 1",
+    "x < 10"
+  ],
+  "correct_answer": "print('x is greater')"
+}

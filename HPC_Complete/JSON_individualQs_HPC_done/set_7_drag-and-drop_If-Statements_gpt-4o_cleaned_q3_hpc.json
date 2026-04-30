@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if __outer_condition__:",
+        "if __inner_condition__:",
+        "__print_statement_1__",
+        "else:",
+        "__print_statement_2__",
+        "x > 10",
+        "y == 2",
+        "print('Both conditions met')",
+        "print('Only outer condition met')"
+    ]
+}

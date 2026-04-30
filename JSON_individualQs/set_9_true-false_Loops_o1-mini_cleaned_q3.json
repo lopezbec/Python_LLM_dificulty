@@ -1,0 +1,7 @@
+{
+  "question": "In Python, the 'break' statement can be used to exit a loop prematurely.",
+  "type": "true/false",
+  "difficulty": 3,
+  "topic": "loops",
+  "correct_answer": "True"
+}

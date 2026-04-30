@@ -1,0 +1,19 @@
+{
+  "question": "Drag the snippets to create a loop that collects all multiples of 3 below 15 in a list, then prints the list at the end.",
+  "difficulty": 10,
+  "instruction": "Arrange the code blocks to gather multiples of 3 under 15 and print them.",
+  "options": [
+    "numbers.append(x)",
+    "numbers = []",
+    "if x % 3 == 0:",
+    "for x in range(1, 15):",
+    "print(numbers)"
+  ],
+  "correct_order": [
+    "numbers = []",
+    "for x in range(1, 15):",
+    "if x % 3 == 0:",
+    "numbers.append(x)",
+    "print(numbers)"
+  ]
+}

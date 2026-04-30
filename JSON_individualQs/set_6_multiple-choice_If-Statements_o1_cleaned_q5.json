@@ -1,0 +1,11 @@
+{
+  "question": "5) Which statement about indentation in a Python if-statement is correct?",
+  "difficulty": 5,
+  "answers": [
+    "Indentation is optional in Python if-statements.",
+    "Indentation is required and determines which block of code executes under the if condition.",
+    "You can use curly braces {} instead of indentation in Python.",
+    "Use a semicolon to mark the end of the if block."
+  ],
+  "correct_answer": "Indentation is required and determines which block of code executes under the if condition."
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 9,
+  "question": "Drag to complete the `if` statement that checks for membership in a list.",
+  "options": [
+    "fruits = [\"apple\", \"banana\", \"cherry\"]",
+    "if \"banana\" in fruits:",
+    "    print(\"Banana is available\")",
+    "else:",
+    "    print(\"Banana is not available\")"
+  ],
+  "correct_order": [
+    "fruits = [\"apple\", \"banana\", \"cherry\"]",
+    "if \"banana\" in fruits:",
+    "    print(\"Banana is available\")",
+    "else:",
+    "    print(\"Banana is not available\")"
+  ]
+}

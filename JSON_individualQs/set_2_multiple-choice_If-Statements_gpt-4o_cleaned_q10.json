@@ -1,0 +1,11 @@
+{
+  "question": "Given the input: x = 5, y = 10, and z = 15, which block of code will execute in the following?\n\nif x < y:\n    if y < z:\n        if x < z:\n            result = 'Nested'\n        else:\n            result = 'Inner else'\n    else:\n        result = 'Middle else'\nelse:\n    result = 'Outer else'",
+  "difficulty": 10,
+  "options": {
+    "A": "Nested",
+    "B": "Inner else",
+    "C": "Middle else",
+    "D": "Outer else"
+  },
+  "correct_answer": "A"
+}

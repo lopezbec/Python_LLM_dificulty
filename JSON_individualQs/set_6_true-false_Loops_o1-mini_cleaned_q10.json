@@ -1,0 +1,5 @@
+{
+  "question": "The time complexity of nested loops always results in quadratic time complexity regardless of the loop contents.",
+  "answer": false,
+  "difficulty": 10
+}

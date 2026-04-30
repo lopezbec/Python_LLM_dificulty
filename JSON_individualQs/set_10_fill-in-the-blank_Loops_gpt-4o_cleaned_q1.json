@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A basic loop that repeats a fixed number of times can be created using a ___ loop in Python.",
+  "answer": "for"
+}

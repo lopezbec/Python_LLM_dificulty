@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: In a nested loop structure, the inner loop variables operate within their own ____ relative to the outer loop.",
+  "answer": "scope"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank to create an if-statement that always executes:\n\nif ______:\n    print('Hello, World!')",
+    "correct_answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank to compare equality in the if-statement:\n\nif x ______ 10:\n    print('x is 10')",
+    "correct_answer": "=="
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank to check if two values are not equal:\n\nif a ______ b:\n    print('a is not equal to b')",
+    "correct_answer": "!="
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank to complete the compound condition in the if-statement:\n\nif x > 5 and x ______ 10:\n    print('x is between 6 and 9')",
+    "correct_answer": "<"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank to check data type using an if-statement:\n\nif isinstance(x, ______):\n    print('x is an integer')",
+    "correct_answer": "int"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank to complete the range check using the 'and' operator:\n\nif x > 0 ______ x < 100:\n    print('x is between 1 and 99')",
+    "correct_answer": "and"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank in the if-elif-else structure to check for zero:\n\nif x < 0:\n    print('Negative')\nelif x ______ 0:\n    print('Zero')\nelse:\n    print('Positive')",
+    "correct_answer": "=="
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank using the walrus operator to ensure the list has at least three elements:\n\nif (n := len(my_list)) ______ 3:\n    print('The list has three or more elements')",
+    "correct_answer": ">="
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank to complete the generator expression within the any() function:\n\nif any( ______ for num in nums):\n    print('There is a positive number')",
+    "correct_answer": "num > 0"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank to complete the nested if-elif-else statement that categorizes numeric input:\n\nif user_input.isdigit():\n    num = int(user_input)\n    if num > 0:\n        print('Positive')\n    elif num == 0:\n        print('Zero')\n    ______:\n        print('Negative')",
+    "correct_answer": "else"
+  }
+]

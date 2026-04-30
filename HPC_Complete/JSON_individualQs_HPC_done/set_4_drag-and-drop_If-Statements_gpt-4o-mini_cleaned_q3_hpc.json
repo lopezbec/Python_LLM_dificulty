@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (x == 3) { _____ }",
+        "print('Three')",
+        "x = 4",
+        "print('Not Three')"
+    ]
+}

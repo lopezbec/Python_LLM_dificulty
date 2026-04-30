@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Complete the if-elif statement that assigns grades based on a score.",
+  "instruction": "Arrange the lines properly to form a valid if-elif statement.",
+  "draggable_items": [
+    "elif score >= 80:",
+    "    print('Grade A')",
+    "if score >= 90:",
+    "    print('Grade B')"
+  ],
+  "correct_order": [
+    "if score >= 90:",
+    "    print('Grade A')",
+    "elif score >= 80:",
+    "    print('Grade B')"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "type": "multiple-choice",
+  "question": "In Python, what does the else clause in a for loop do when used?",
+  "options": [
+    "A) Executes only when the for loop encounters a break statement.",
+    "B) Executes only when the for loop completes normally without hitting a break.",
+    "C) Executes regardless of how the for loop terminates.",
+    "D) Executes alongside each iteration of the for loop."
+  ],
+  "correct_answer": "B"
+}

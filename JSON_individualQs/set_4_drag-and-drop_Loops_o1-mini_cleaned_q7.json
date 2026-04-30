@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the loop to calculate the factorial of a number using a `for` loop.",
+  "options": [
+    "result = 1",
+    "for i in range(1, n + 1):",
+    "    result *= i",
+    "print(result)"
+  ],
+  "correct_order": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "age",
+        "age = 65",
+        "if age >= 18:",
+        "print('Adult')",
+        "______ age >= 65:",
+        "print('Senior Privileges')",
+        "else:",
+        "print('Standard Privileges')",
+        "else:",
+        "print('Minor')",
+        "if",
+        "else",
+        "elif",
+        "then"
+    ]
+}

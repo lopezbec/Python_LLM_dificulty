@@ -1,0 +1,6 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank to use an else clause after an if-statement that prints 'Even' if x is even and 'Odd' otherwise:\nif x % 2 == 0:\n    print('Even')\n______:\n    print('Odd')",
+  "answer": "else"
+}

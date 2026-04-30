@@ -1,0 +1,11 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank to handle an alternative scenario: if x >= 0: print('Positive or zero') ______: print('Negative')",
+  "correct_answer": "else",
+  "incorrect_answers": [
+    "pass",
+    "then",
+    "except"
+  ]
+}

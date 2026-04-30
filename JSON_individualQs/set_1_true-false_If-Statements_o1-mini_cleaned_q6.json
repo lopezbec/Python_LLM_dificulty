@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, the 'if' statement can evaluate complex expressions using logical operators like 'and' and 'or'.",
+  "answer": true,
+  "difficulty": 6,
+  "topic": "if-statements"
+}

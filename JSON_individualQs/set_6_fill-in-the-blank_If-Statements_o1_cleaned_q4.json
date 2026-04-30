@@ -1,0 +1,6 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank with the correct comparison for the variable 'status' to be 'complete': if status ___ 'complete': print(\"Done!\").",
+  "answer": "=="
+}

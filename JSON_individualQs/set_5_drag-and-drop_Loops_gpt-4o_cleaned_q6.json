@@ -1,0 +1,16 @@
+{
+  "difficulty": 6,
+  "question": "Complete the loop to break when the item is 'banana' and continue with the next iteration otherwise.",
+  "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in fruits:\n    if fruit == <blank>:\n        <blank>\n    print(fruit)",
+  "options": [
+    "'banana'",
+    "break",
+    "continue",
+    "'apple'",
+    "'cherry'"
+  ],
+  "correct_answer": [
+    "'banana'",
+    "continue"
+  ]
+}

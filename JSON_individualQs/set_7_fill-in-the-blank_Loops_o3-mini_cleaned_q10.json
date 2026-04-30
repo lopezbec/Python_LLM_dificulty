@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank: Python's ____ comprehension provides a concise way to create new lists using a single line that combines iteration and optional conditions.",
+  "answer": "list comprehension"
+}

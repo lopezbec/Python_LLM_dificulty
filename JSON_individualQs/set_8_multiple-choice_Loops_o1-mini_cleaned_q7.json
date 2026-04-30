@@ -1,0 +1,11 @@
+{
+  "question": "What is the purpose of the `continue` statement in a loop?",
+  "options": [
+    "To terminate the loop",
+    "To skip the rest of the current loop iteration and move to the next one",
+    "To restart the loop from the beginning",
+    "To pause the loop execution"
+  ],
+  "answer": "To skip the rest of the current loop iteration and move to the next one",
+  "difficulty": 7
+}

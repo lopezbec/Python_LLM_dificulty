@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "Fill in the blanks to implement a generator using a loop that yields square numbers up to n.",
+  "code_snippet": "def generate_squares(n):\n    for i in range(1, n+1):\n        ___\n",
+  "options": [
+    "yield i * i",
+    "return i * i",
+    "print(i * i)",
+    "yield i"
+  ],
+  "answer": "yield i * i"
+}

@@ -1,0 +1,17 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if user_input is NOT 'quit'. Print 'Still running' if true.",
+  "codeSnippet": "user_input = 'start'\n[1] user_input [2] 'quit':\n    print(\"Still running\")",
+  "dragItems": [
+    "if",
+    "!=",
+    "not"
+  ],
+  "correctAnswer": [
+    "if",
+    "!="
+  ],
+  "explanation": "We use 'if user_input != \"quit\":' to ensure user_input is not 'quit'."
+}

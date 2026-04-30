@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "A loop with the _____ statement inside can be used to iterate over a dictionary's key-value pairs.",
+  "answer": "items"
+}

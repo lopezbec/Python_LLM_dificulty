@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of this code snippet when executed?\n\n```python\nnum = 4\nif num % 2 == 0:\n    result = 'Even'\nelse:\n    result = 'Odd'\nprint(result)\n```\n",
+  "options": [
+    "Even",
+    "Odd",
+    "None",
+    "Error"
+  ],
+  "correct_answer": "Even",
+  "difficulty": 10
+}

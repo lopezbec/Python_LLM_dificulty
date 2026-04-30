@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Drag and drop the following code segments into the correct order to form a valid for loop that prints numbers from 0 to 4.",
+  "dragItems": [
+    "for i in range(5):",
+    "print(i)"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2"
+  ],
+  "correctMapping": {
+    "Line 1": "for i in range(5):",
+    "Line 2": "print(i)"
+  }
+}

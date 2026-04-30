@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Nested if-statements allow for complex decision-making and can be used to evaluate _____ within each decision path.",
+  "answer": "subconditions"
+}

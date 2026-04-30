@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = '5'",
+        "if int(x) == 5:",
+        "print('Five')",
+        "else:",
+        "print('Not Five')",
+        "Five",
+        "Not Five",
+        "Error",
+        "No output"
+    ]
+}

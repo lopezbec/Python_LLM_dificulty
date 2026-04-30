@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the snippets to form a while-loop with an else clause. The code should initialize a variable and print it until a condition is met, then print 'Done' after the loop completes.",
+  "prompt": "Drag and drop the snippets to form a correct while-loop that also uses an else clause.",
+  "dragItems": [
+    "i = 0",
+    "while i < 2:",
+    "    print(i)",
+    "    i += 1",
+    "else:",
+    "    print('Done')"
+  ],
+  "dropZones": 6,
+  "correctSequence": [
+    "i = 0",
+    "while i < 2:",
+    "    print(i)",
+    "    i += 1",
+    "else:",
+    "    print('Done')"
+  ]
+}

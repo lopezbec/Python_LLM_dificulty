@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "i = 1",
+        "while i < 100:",
+        "i *= 2",
+        "else:",
+        "print('Done')",
+        "else block",
+        "break",
+        "loop condition"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 0",
+        "while x < 3:",
+        "x += 1",
+        "print(x)",
+        "loop",
+        "A) 0 times",
+        "B) 1 time",
+        "C) 3 times",
+        "D) 4 times"
+    ]
+}

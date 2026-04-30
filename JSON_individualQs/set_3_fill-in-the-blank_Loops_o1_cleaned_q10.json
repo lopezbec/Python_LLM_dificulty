@@ -1,0 +1,6 @@
+{
+  "difficulty": 10,
+  "type": "fill-in-the-blank",
+  "question": "List comprehensions use a 'for' loop to construct a new list in a concise way. For example, [x**2 for x in range(5)] uses a 'for x in range(5)' loop and returns a '___' of squared numbers.",
+  "correct_answer": "list"
+}

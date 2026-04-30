@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In which scenario is a 'while' loop typically preferred over a 'for' loop in Python?",
+  "choices": {
+    "A": "If the exact range of iterations is known.",
+    "B": "For iterating over a fixed list or tuple.",
+    "C": "When you want to run code until a condition changes.",
+    "D": "When you need the loop to run at least once."
+  },
+  "correct_answer": "C"
+}

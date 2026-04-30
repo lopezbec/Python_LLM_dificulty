@@ -1,0 +1,5 @@
+{
+  "question": "A 'break' statement within nested loops in Python only exits the innermost loop by default.",
+  "difficulty": 10,
+  "correct_answer": "True"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank: In Python, the ______ clause of a loop executes only if the loop terminates normally, without encountering a break statement.",
+  "correct_answer": "else"
+}

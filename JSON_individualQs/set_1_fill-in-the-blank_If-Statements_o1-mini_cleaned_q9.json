@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to implement a guard clause that exits a function if 'value' is None:\n\ndef process(value):\n    if value ___ None:\n        return\n    # Continue processing",
+  "answer": "is not",
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

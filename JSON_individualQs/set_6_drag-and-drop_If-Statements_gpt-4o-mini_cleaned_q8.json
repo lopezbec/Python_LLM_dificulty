@@ -1,0 +1,11 @@
+{
+  "question": "Complete this if-statement with a conditional check: \n`if (temperature < 0) { ____; }`",
+  "drops": [
+    "console.log('It's freezing!');",
+    "console.log('It's warm!');",
+    "console.log('It's hot!');",
+    "console.log('It's cool!');"
+  ],
+  "correct": "console.log('It's freezing!');",
+  "difficulty": 8
+}

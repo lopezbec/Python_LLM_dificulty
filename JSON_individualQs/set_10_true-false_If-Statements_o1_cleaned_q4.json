@@ -1,0 +1,9 @@
+{
+  "question": "The 'elif' keyword is optional when writing multiple if statements in Python.",
+  "difficulty": 4,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "True"
+}

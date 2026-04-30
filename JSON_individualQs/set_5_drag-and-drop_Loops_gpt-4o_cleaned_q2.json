@@ -1,0 +1,16 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blanks to print each character of 'Python' on a new line.",
+  "code": "for <blank> in <blank>: print(char)",
+  "options": [
+    "char",
+    "c",
+    "'Python'",
+    "\"Python\"",
+    "word"
+  ],
+  "correct_answer": [
+    "char",
+    "'Python'"
+  ]
+}

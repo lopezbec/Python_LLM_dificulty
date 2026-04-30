@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "[Zone1] 1 [Zone2] user_input [Zone3] 10 [Zone4]\n    print(\"Valid input\")\n[Zone5]:\n    print(\"Invalid input\")",
+        "user_input",
+        "if",
+        "<=",
+        "<=",
+        ":",
+        "else:",
+        "if 1 <= user_input <= 10:",
+        "else:"
+    ]
+}

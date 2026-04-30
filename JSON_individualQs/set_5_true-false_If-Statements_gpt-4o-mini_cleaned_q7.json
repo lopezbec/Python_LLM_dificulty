@@ -1,0 +1,5 @@
+{
+  "question": "If an if-statement evaluates to False, the code block under that if will still execute if it's indented correctly.",
+  "answer": false,
+  "difficulty": 7
+}

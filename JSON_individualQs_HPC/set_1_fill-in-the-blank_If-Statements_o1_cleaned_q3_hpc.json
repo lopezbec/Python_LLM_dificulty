@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if y > 5:",
+        "print(\"Greater than 5\")",
+        "_____ y == 5:",
+        "print(\"Equal to 5\")",
+        "else:",
+        "print(\"Less than 5\")",
+        "y == 5"
+    ]
+}

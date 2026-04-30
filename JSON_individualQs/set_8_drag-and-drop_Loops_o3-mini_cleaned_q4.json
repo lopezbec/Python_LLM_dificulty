@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "question": "Complete the code snippet to sum all numbers in the list 'numbers'. Drag the appropriate code fragments into the blanks.",
+  "codeSnippet": "total = _____\nfor num in numbers:\n    total _____ num\nprint(total)",
+  "dragItems": [
+    "0",
+    "*=",
+    "+=",
+    "in"
+  ],
+  "dropTargets": [
+    "initialization",
+    "accumulation_operator"
+  ],
+  "correctMap": {
+    "initialization": "0",
+    "accumulation_operator": "+="
+  }
+}

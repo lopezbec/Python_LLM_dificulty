@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "When using a while loop, a _____ condition must eventually become false to prevent an infinite loop.",
+  "answer": "Boolean"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be the value of 'i' after the following loop finishes executing?\n\nfor i in range(5):\n    pass",
+  "options": [
+    "A) 3",
+    "B) 4",
+    "C) 5",
+    "D) None"
+  ],
+  "correct_answer": "B) 4"
+}

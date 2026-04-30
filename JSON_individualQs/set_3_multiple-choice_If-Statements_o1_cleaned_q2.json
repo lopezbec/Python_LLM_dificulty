@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which keyword do you use to handle the scenario when an if statement\u2019s condition is not met?",
+  "options": [
+    "A) else",
+    "B) elif",
+    "C) try",
+    "D) except"
+  ],
+  "correctAnswer": "A"
+}

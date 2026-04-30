@@ -1,0 +1,5 @@
+{
+  "level": 5,
+  "question": "You can use the _____ function to generate a sequence of numbers, often used in loops for counting.",
+  "answer": "range"
+}

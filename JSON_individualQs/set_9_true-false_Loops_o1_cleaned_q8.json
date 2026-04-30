@@ -1,0 +1,5 @@
+{
+  "question": "A 'while' loop is always preferred over a 'for' loop when iterating through a list or string.",
+  "difficulty": 8,
+  "correct_answer": "False"
+}

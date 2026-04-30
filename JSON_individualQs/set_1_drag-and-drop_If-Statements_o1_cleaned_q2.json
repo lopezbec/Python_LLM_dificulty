@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "question": "Complete the if statement to check if a variable score is at least 80. Drag the correct condition into the blank.",
+  "code": "score = 85\nif [BLANK]:\n    print(\"Excellent score\")",
+  "choices": [
+    "score < 80",
+    "score >= 80",
+    "score == 80"
+  ],
+  "correctAnswer": "score >= 80"
+}

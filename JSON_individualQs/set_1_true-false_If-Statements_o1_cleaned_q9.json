@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Short-circuit evaluation in Python means that if the outcome is already determined, the rest of an 'and' or 'or' expression is not evaluated.",
+  "correct_answer": "True"
+}

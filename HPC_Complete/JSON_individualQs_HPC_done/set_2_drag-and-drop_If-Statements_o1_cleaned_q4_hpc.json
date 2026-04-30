@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "has_weapon",
+        "True",
+        "weapon_type",
+        "'sword'",
+        "print(\"Player has a sword\")",
+        "if",
+        "if",
+        "==",
+        ":",
+        "==",
+        ":"
+    ]
+}

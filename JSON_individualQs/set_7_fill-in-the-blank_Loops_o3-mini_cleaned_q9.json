@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank: The built-in function ____ returns both the index and the corresponding item when iterating over a sequence.",
+  "answer": "enumerate"
+}

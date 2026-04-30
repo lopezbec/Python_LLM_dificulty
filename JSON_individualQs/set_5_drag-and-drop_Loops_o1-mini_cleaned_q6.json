@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 6,
+  "prompt": "Arrange the statements to include a 'break' statement that exits the loop when the number 3 is found.",
+  "draggableItems": [
+    "for number in range(1, 6):",
+    "if number == 3:",
+    "    break",
+    "    print(number)"
+  ],
+  "dropZones": [
+    "Loop Statement",
+    "Condition to Check",
+    "Break Statement",
+    "Loop Body - Print"
+  ],
+  "correctMatch": {
+    "Loop Statement": "for number in range(1, 6):",
+    "Condition to Check": "if number == 3:",
+    "Break Statement": "    break",
+    "Loop Body - Print": "    print(number)"
+  }
+}

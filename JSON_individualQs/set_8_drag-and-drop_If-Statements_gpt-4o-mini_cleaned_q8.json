@@ -1,0 +1,14 @@
+{
+  "difficulty": 8,
+  "question": "Complete the if-elif-else statement for checking the range:\n if score < 50: \n    _____\n elif score >= 50 and score < 70: \n    _____\n else: \n    _____\n",
+  "options": [
+    "print('Fail')",
+    "print('Pass')",
+    "print('Excellent')"
+  ],
+  "correct_answers": [
+    "print('Fail')",
+    "print('Pass')",
+    "print('Excellent')"
+  ]
+}

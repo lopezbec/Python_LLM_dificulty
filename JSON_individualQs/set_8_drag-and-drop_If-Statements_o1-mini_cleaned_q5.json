@@ -1,0 +1,16 @@
+{
+  "question": "Drag and drop the components to complete an if-statement that uses logical operators to check if a number is between 10 and 20:",
+  "options": [
+    "if",
+    "10 <= number and number <= 20",
+    ":",
+    "    print(\"Number is between 10 and 20\")"
+  ],
+  "answer": [
+    "if",
+    "10 <= number and number <= 20",
+    ":",
+    "    print(\"Number is between 10 and 20\")"
+  ],
+  "difficulty": 5
+}

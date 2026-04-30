@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Fill in the blank to complete the if statement that checks if a variable 'x' is greater than 5:\n\n```python\nif ____ > 5:\n    print(\"x is greater than 5\")\n```",
+    "answer": "x",
+    "difficulty": 1,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Fill in the blank to complete the if statement that checks if a number is even:\n\n```python\nif number % 2 == ____:\n    print(\"Even number\")\n```",
+    "answer": "0",
+    "difficulty": 2,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Complete the blank to include an else clause that executes when the if condition is False:\n\n```python\nif age >= 18:\n    print(\"Adult\")\n____:\n    print(\"Minor\")\n```",
+    "answer": "else",
+    "difficulty": 3,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Fill in the blanks to create an elif condition that checks if 'score' is between 50 and 80:\n\n```python\nif score > 80:\n    grade = 'A'\nelif ____ <= score <= ____:\n    grade = 'B'\nelse:\n    grade = 'C'\n```",
+    "answer": "50, 80",
+    "difficulty": 4,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Fill in the blank to complete a nested if statement that checks if 'x' is positive and even:\n\n```python\nif x > 0:\n    if x % 2 == ____:\n        print(\"Positive even number\")\n```",
+    "answer": "0",
+    "difficulty": 5,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Complete the blank to use a logical AND operator in the if statement:\n\n```python\nif age >= 18 ____ citizen == True:\n    print(\"Eligible voter\")\n```",
+    "answer": "and",
+    "difficulty": 6,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Fill in the blank to use the correct comparison operator to check if 'a' is not equal to 'b':\n\n```python\nif a ____ b:\n    print(\"a and b are not equal\")\n```",
+    "answer": "!=",
+    "difficulty": 7,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Complete the blank to use an inline if (ternary operator) to assign 'status' based on 'is_active':\n\n```python\nstatus = \"Active\" if is_active else ____\n```",
+    "answer": "\"Inactive\"",
+    "difficulty": 8,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Fill in the blank to check if 'input_str' contains only digits using the if statement:\n\n```python\nif input_str.___():\n    print(\"Input is numeric\")\n```",
+    "answer": "isdigit",
+    "difficulty": 9,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  },
+  {
+    "question": "Complete the blanks to handle multiple conditions using elif and ensure that all possible cases are covered:\n\n```python\nif temperature > 30:\n    weather = \"Hot\"\nelif 20 < temperature <= 30:\n    weather = \"Warm\"\nelif 10 < temperature <= 20:\n    weather = \"Cool\"\n____:\n    weather = \"Cold\"\n```",
+    "answer": "else",
+    "difficulty": 10,
+    "topic": "if-statements",
+    "type": "fill-in-the-blank"
+  }
+]

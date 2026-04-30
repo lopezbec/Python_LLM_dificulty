@@ -1,0 +1,13 @@
+{
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Complete the loop that keeps asking for input until the user enters 'exit'.",
+  "code_block": "while True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___",
+  "options": [
+    "stop",
+    "exit",
+    "break"
+  ],
+  "correct_answer": "break"
+}

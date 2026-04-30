@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In a 'while' loop, the condition is evaluated after the loop body is executed.",
+  "answer": false
+}

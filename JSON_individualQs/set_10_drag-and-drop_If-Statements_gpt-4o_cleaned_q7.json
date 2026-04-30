@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "instruction": "Drag and drop to create an if-else chain to print 'Normal' for temperatures between 15 and 25 inclusive.",
+  "code": "if temp < 15:\n    print('Cold')\n____ 15 <= temp <= 25:\n    print('Normal')\nelse:\n    print('Hot')",
+  "options": [
+    "elif",
+    "then",
+    "else",
+    "if"
+  ],
+  "answer": [
+    "elif"
+  ]
+}

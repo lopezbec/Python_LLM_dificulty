@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "question": "Drag the correct keyword to complete the if-else statement.\n\nif score >= 50:\n    result = \"Pass\"\n___(1)___:\n    result = \"Fail\"",
+  "options": [
+    "elif",
+    "else",
+    "endif",
+    "pass"
+  ],
+  "answers": {
+    "1": "else"
+  }
+}

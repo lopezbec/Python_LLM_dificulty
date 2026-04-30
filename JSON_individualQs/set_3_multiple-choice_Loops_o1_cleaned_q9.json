@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What is the time complexity of the following nested loop structure, in terms of n?\n\nfor i in range(n):\n    for j in range(n):\n        # O(1) operations",
+  "choices": {
+    "A": "O(n)",
+    "B": "O(n^2)",
+    "C": "O(n log n)",
+    "D": "O(log n)"
+  },
+  "correct_answer": "B"
+}

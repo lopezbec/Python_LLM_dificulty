@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the correct code to finish the while loop: `while x ___:`",
+  "options": [
+    "< 10",
+    "== 10",
+    "> 10",
+    "= 10"
+  ],
+  "correctOption": "< 10"
+}

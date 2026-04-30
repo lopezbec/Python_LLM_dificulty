@@ -1,0 +1,5 @@
+{
+  "question": "If you want to handle cases where 'x' is neither less than 5 nor greater than 10 using an if-statement, you would set up an __________ condition.",
+  "answer": "else if",
+  "difficulty": 10
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Drag and drop to build nested if-statements that check if 'score' is greater than 50 and if 'passed' is True.",
+  "code": "if score > 50:\n    <blank>\n        print('Pass')\n    else:\n        <blank>",
+  "options": [
+    "if passed:",
+    "print('Fail')",
+    "print('Score is high')"
+  ]
+}

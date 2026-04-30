@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "An 'if' statement in Python executes the block of code only if the condition is True.",
+  "correct_answer": "True"
+}

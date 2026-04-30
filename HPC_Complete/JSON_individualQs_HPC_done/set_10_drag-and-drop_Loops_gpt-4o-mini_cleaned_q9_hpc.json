@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "squares = []",
+        "for i in range(1, N + 1):",
+        "squares.append(i ** 2)",
+        "return squares"
+    ]
+}

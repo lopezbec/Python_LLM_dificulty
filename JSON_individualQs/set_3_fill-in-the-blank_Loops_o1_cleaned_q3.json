@@ -1,0 +1,6 @@
+{
+  "difficulty": 3,
+  "type": "fill-in-the-blank",
+  "question": "In Python, the '___' statement is used to exit a loop prematurely.",
+  "correct_answer": "break"
+}

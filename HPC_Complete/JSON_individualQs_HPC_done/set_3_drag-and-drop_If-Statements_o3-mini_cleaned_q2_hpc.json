@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "___ x == 10:",
+        "print('Equal to 10')",
+        "___:",
+        "print('Not equal to 10')",
+        "if",
+        "else",
+        "elif"
+    ]
+}

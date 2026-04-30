@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to append the square of 'i' to the 'squares' list inside the loop:\n\nsquares = []\nfor i in range(10):\n    ____.append(i ** 2)",
+  "answer": "squares"
+}

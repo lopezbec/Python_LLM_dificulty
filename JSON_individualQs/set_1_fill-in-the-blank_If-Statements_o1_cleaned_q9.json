@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank so the code prints \"Positive multiple of 5\" when n is both > 0 and a multiple of 5:\nif n > 0 ______ n % 5 == 0:\n    print(\"Positive multiple of 5\")",
+  "answer": "and"
+}

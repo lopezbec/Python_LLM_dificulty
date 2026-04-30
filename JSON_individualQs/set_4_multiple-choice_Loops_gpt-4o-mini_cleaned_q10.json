@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What will be the output of the following code? for i in range(1, 5, 2): print(i ** 2)",
+  "options": [
+    "1 4 9 16",
+    "1 9",
+    "4 16",
+    "1 16"
+  ],
+  "answer": "1 9"
+}

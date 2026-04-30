@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "items = ['apple', 'banana', 'cherry']",
+        "for index, item in __________(items):",
+        "index",
+        "item"
+    ]
+}

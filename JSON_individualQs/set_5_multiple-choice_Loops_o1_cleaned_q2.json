@@ -1,0 +1,11 @@
+{
+  "question": "Which statement in Python is used to skip the rest of the current loop iteration and continue with the next iteration?",
+  "difficulty": 2,
+  "choices": [
+    "continue",
+    "pass",
+    "break",
+    "skip"
+  ],
+  "correct_answer": "continue"
+}

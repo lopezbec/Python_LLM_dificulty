@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "What logical operator would you use in an if-statement to execute a block of code when any one of multiple conditions is true?",
+  "answer": "or"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The 'for-else' construct in Python executes the 'else' block only if the loop raises an exception.",
+  "correct_answer": false
+}

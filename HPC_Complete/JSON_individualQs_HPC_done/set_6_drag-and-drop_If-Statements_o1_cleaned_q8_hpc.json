@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "year = 2020",
+        "__1__ (year % 400 == 0) __2__ (year % 4 == 0 and year % 100 != 0):",
+        "print(\"Leap Year\")",
+        "__3__:",
+        "print(\"Not a Leap Year\")",
+        "if",
+        "elif",
+        "while",
+        "and",
+        "or",
+        "not",
+        "elif",
+        "else",
+        "except"
+    ]
+}

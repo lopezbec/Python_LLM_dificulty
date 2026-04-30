@@ -1,0 +1,14 @@
+{
+  "question": "Drag and drop the conditions to check if `z` is between 1 and 10 (inclusive).",
+  "difficulty": 3,
+  "snippet": "if ___ and ___:\n    print('z is within range')",
+  "options": [
+    "z >= 1",
+    "z <= 10",
+    "z > 10"
+  ],
+  "correctAnswer": [
+    "z >= 1",
+    "z <= 10"
+  ]
+}

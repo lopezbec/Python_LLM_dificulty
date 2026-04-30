@@ -1,0 +1,122 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which Python keyword is used to begin a simple conditional statement?",
+    "options": [
+      "if",
+      "for",
+      "while",
+      "elif"
+    ],
+    "correctAnswer": "if",
+    "explanation": "In Python, 'if' is the keyword used to start a conditional statement."
+  },
+  {
+    "difficulty": 2,
+    "question": "Which of the following demonstrates the correct basic syntax for an if statement checking if x is greater than 5 in Python?",
+    "options": [
+      "if x > 5:",
+      "if x > 5 then:",
+      "if x > 5 =>",
+      "if (x > 5) {}"
+    ],
+    "correctAnswer": "if x > 5:",
+    "explanation": "A colon (:) is required after the condition, and 'then' or braces {} are not used in Python statements."
+  },
+  {
+    "difficulty": 3,
+    "question": "Which of the following is true about indentation in Python if statements?",
+    "options": [
+      "Indentation is optional as long as the code blocks are separated by empty lines.",
+      "Code inside an if block must be consistently indented with the same number of spaces or tabs.",
+      "A semicolon can replace indentation in Python.",
+      "No indentation is required if there is only one line of code in the if block."
+    ],
+    "correctAnswer": "Code inside an if block must be consistently indented with the same number of spaces or tabs.",
+    "explanation": "In Python, indentation is mandatory to define code blocks under keywords like if, for, and while."
+  },
+  {
+    "difficulty": 4,
+    "question": "Which keyword is used to introduce an additional condition after the initial if statement in Python?",
+    "options": [
+      "elseif",
+      "elif",
+      "else if",
+      "otherwise"
+    ],
+    "correctAnswer": "elif",
+    "explanation": "The Python keyword for adding subsequent conditions is 'elif'."
+  },
+  {
+    "difficulty": 5,
+    "question": "In an if statement, which logical operator is used in Python to ensure two conditions must both be true?",
+    "options": [
+      "and",
+      "or",
+      "not",
+      "both"
+    ],
+    "correctAnswer": "and",
+    "explanation": "The 'and' operator in Python requires both operands (conditions) to be true."
+  },
+  {
+    "difficulty": 6,
+    "question": "What is the output of the following code?\n\nx = 10\nif x < 5:\n    print(\"Small\")\nelse:\n    print(\"Large\")",
+    "options": [
+      "Small",
+      "Large",
+      "No output",
+      "An error is raised"
+    ],
+    "correctAnswer": "Large",
+    "explanation": "Since x=10 is not less than 5, the else branch executes, printing 'Large'."
+  },
+  {
+    "difficulty": 7,
+    "question": "Given the code:\n\nx = 8\nif x > 0:\n    if x < 10:\n        print(\"Single digit positive number\")\n    else:\n        print(\"Multiple digit positive number\")\nelse:\n    print(\"Negative number\")\n\nWhat will be printed if x is 8?",
+    "options": [
+      "Single digit positive number",
+      "Multiple digit positive number",
+      "Negative number",
+      "No output"
+    ],
+    "correctAnswer": "Single digit positive number",
+    "explanation": "x=8 is greater than 0 and also less than 10, so the nested if condition prints 'Single digit positive number'."
+  },
+  {
+    "difficulty": 8,
+    "question": "What will the following code print when x = 15?\n\nx = 15\nif x < 5:\n    print(\"Very small\")\nelif x < 10:\n    print(\"Small\")\nelif x < 20:\n    print(\"Medium\")\nelse:\n    print(\"Large\")",
+    "options": [
+      "Very small",
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "correctAnswer": "Medium",
+    "explanation": "Since x=15 is less than 20 but not less than 10, the code prints 'Medium'."
+  },
+  {
+    "difficulty": 9,
+    "question": "Which statement is TRUE about Python short-circuit evaluation in an if statement that uses the 'and' operator?",
+    "options": [
+      "Python evaluates all conditions regardless of their truth values.",
+      "Python stops evaluating further conditions if the first condition is true.",
+      "Python stops evaluating further conditions if the first condition is false.",
+      "Short-circuit evaluation only applies to the 'or' operator, not 'and'."
+    ],
+    "correctAnswer": "Python stops evaluating further conditions if the first condition is false.",
+    "explanation": "For an 'and' statement, evaluation stops at the first condition that is false, making the expression false without checking subsequent parts."
+  },
+  {
+    "difficulty": 10,
+    "question": "Which of the following is a valid one-line if statement in Python that prints 'Positive' if x is greater than 0, otherwise prints 'Non-positive'?",
+    "options": [
+      "print('Positive') if x > 0 else print('Non-positive')",
+      "if x > 0 ? print('Positive') : print('Non-positive')",
+      "print('Positive' if x > 0) else ('Non-positive')",
+      "if x > 0: print('Positive') else: print('Non-positive')"
+    ],
+    "correctAnswer": "print('Positive') if x > 0 else print('Non-positive')",
+    "explanation": "Python supports a ternary conditional expression in the form: <expression1> if <condition> else <expression2>."
+  }
+]

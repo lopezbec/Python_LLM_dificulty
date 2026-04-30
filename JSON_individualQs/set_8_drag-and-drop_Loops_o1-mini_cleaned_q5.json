@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Arrange the following pieces of a `for` loop that iterates over a list and prints each element.",
+  "options": [
+    "for element in my_list:",
+    "print(element)",
+    "End of loop"
+  ],
+  "correct_order": [
+    "for element in my_list:",
+    "print(element)",
+    "End of loop"
+  ]
+}

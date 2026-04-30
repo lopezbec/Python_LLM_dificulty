@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword is used to create a basic if statement in Python?",
+  "choices": {
+    "A": "if",
+    "B": "elif",
+    "C": "else",
+    "D": "then"
+  },
+  "correct_answer": "A"
+}

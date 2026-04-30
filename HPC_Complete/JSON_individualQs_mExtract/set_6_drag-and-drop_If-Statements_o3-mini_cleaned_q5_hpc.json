@@ -1,0 +1,6 @@
+{
+  "HPC": [
+    "if x % 2 == 0:\n    print('Even')",
+    "else:\n    print('Not Even')"
+  ]
+}

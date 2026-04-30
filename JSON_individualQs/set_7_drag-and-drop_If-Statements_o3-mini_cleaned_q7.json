@@ -1,0 +1,31 @@
+{
+  "id": 7,
+  "type": "drag_and_drop",
+  "difficulty": 7,
+  "prompt": "Drag the correct indentation into the blank to properly indent the print statement within the if block.",
+  "instructions": "Drag the appropriate whitespace characters to represent one indentation level (4 spaces).",
+  "displayText": "if x > 5:\n____print('x is greater than 5')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "    "
+    },
+    {
+      "id": "B",
+      "text": "  "
+    },
+    {
+      "id": "C",
+      "text": "\t"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Indentation"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A"
+  }
+}

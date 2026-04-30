@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: The '_____ ' statement in a loop instructs Python to skip the rest of the current iteration and continue with the next one.",
+  "difficulty": 4,
+  "answer": "continue"
+}

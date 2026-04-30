@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet: \n\n```python\ndata = [1, 2, 3]\nfor i in data:\n    for j in range(i):\n        print(i * j)\n``` \nWhat will be the output?",
+  "options": [
+    "0\n1\n0\n2\n0\n3",
+    "0\n0\n0\n1\n0\n2\n0\n3\n0\n1\n0\n2",
+    "0\n2\n0\n6",
+    "0\n2\n0\n6\n0"
+  ],
+  "answer": "0\n1\n0\n2\n0\n3",
+  "difficulty": 6
+}

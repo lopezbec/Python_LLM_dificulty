@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "True or False: In Python, a while loop will continue executing as long as its condition evaluates to True.",
+  "answer": "True"
+}

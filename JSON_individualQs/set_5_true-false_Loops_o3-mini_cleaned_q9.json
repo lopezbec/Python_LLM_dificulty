@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "True or False: Modifying the iterable (such as a list) while iterating over it in a for loop is generally safe and recommended in Python.",
+  "answer": "False"
+}

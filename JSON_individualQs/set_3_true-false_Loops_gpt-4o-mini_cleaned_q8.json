@@ -1,0 +1,5 @@
+{
+  "question": "It is possible to have an infinite loop in Python if the loop condition is never false.",
+  "answer": true,
+  "difficulty": 8
+}

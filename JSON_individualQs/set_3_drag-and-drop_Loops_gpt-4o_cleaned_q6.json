@@ -1,0 +1,10 @@
+{
+  "difficulty": 6,
+  "topic": "Loops",
+  "question": "Fill in the blanks to loop through a list and print each item.",
+  "code": "fruits = ['apple', 'banana', 'cherry']\nfor ___ in fruits:\n    print(___)",
+  "drag_and_drop_options": [
+    "fruit",
+    "fruit"
+  ]
+}

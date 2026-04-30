@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for x in range(4):\n    for y in range(x):\n        print(x, y)",
+        "y",
+        "x"
+    ]
+}

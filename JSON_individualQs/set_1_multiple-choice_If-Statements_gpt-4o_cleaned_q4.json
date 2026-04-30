@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What will the following code output?\n\nx = 3\ny = 7\nif x > 4 and y > 6:\n    print('Yes')\nelse:\n    print('No')",
+  "options": [
+    "Yes",
+    "No",
+    "Error",
+    "Both Yes and No"
+  ],
+  "correct_answer": "No"
+}

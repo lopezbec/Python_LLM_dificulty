@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank to complete the nested if-elif-else statement that categorizes numeric input:\n\nif user_input.isdigit():\n    num = int(user_input)\n    if num > 0:\n        print('Positive')\n    elif num == 0:\n        print('Zero')\n    ______:\n        print('Negative')",
+  "correct_answer": "else"
+}

@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "score",
+        "if score > 90:",
+        "print(\"Excellent\")",
+        "elif ___:",
+        "print(\"Good\")",
+        "else:",
+        "print(\"Average\")"
+    ]
+}

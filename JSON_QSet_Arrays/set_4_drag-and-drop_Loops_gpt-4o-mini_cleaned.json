@@ -1,0 +1,156 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag and drop the correct keyword to create a basic loop in Python.",
+    "options": [
+      "for",
+      "while",
+      "loop"
+    ],
+    "correct_order": [
+      "for"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Drag and drop the correct code snippets to create a simple for loop that prints numbers 1 to 3.",
+    "options": [
+      "print(i)",
+      "for i in range(1, 4):",
+      "i = 1"
+    ],
+    "correct_order": [
+      "for i in range(1, 4):",
+      "print(i)"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Drag and drop to complete the while loop that prints numbers 1 to 5:",
+    "options": [
+      "while i < 6:",
+      "print(i)",
+      "i = 1",
+      "i += 1"
+    ],
+    "correct_order": [
+      "i = 1",
+      "while i < 6:",
+      "print(i)",
+      "i += 1"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Drag and drop the parts of the code to complete a nested loop to print a grid of stars.",
+    "options": [
+      "for x in range(5):",
+      "for y in range(5):",
+      "print('*')"
+    ],
+    "correct_order": [
+      "for x in range(5):",
+      "for y in range(5):",
+      "print('*')"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Drag and drop to create a loop that adds all even numbers from 1 to 10:",
+    "options": [
+      "total = 0",
+      "for i in range(1, 11):",
+      "if i % 2 == 0:",
+      "total += i"
+    ],
+    "correct_order": [
+      "total = 0",
+      "for i in range(1, 11):",
+      "if i % 2 == 0:",
+      "total += i"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Drag and drop to complete a loop that breaks when a certain condition is met:",
+    "options": [
+      "for num in range(10):",
+      "if num == 5:",
+      "break",
+      "print(num)"
+    ],
+    "correct_order": [
+      "for num in range(10):",
+      "print(num)",
+      "if num == 5:",
+      "break"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Drag and drop to create a loop that continues to the next iteration when an odd number is encountered:",
+    "options": [
+      "for num in range(1, 11):",
+      "if num % 2 != 0:",
+      "continue",
+      "print(num)"
+    ],
+    "correct_order": [
+      "for num in range(1, 11):",
+      "if num % 2 != 0:",
+      "continue",
+      "print(num)"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Drag and drop to correctly implement a loop that counts the number of vowels in a given string.",
+    "options": [
+      "vowels = 'aeiou'",
+      "count = 0",
+      "for letter in text:",
+      "if letter in vowels:",
+      "count += 1"
+    ],
+    "correct_order": [
+      "vowels = 'aeiou'",
+      "count = 0",
+      "for letter in text:",
+      "if letter in vowels:",
+      "count += 1"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Drag and drop to create a loop that builds a list of squares for numbers from 1 to 5.",
+    "options": [
+      "squares = []",
+      "for num in range(1, 6):",
+      "squares.append(num ** 2)"
+    ],
+    "correct_order": [
+      "squares = []",
+      "for num in range(1, 6):",
+      "squares.append(num ** 2)"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Drag and drop to create a function that generates a Fibonacci sequence up to n using a loop.",
+    "options": [
+      "def fibonacci(n):",
+      "a, b = 0, 1",
+      "for _ in range(n):",
+      "result.append(a)",
+      "a, b = b, a + b"
+    ],
+    "correct_order": [
+      "def fibonacci(n):",
+      "a, b = 0, 1",
+      "result = []",
+      "for _ in range(n):",
+      "result.append(a)",
+      "a, b = b, a + b"
+    ]
+  }
+]

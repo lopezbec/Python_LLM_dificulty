@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "Arrange the code lines to create a list of squares using a list comprehension and then iterate over the resulting list to print each square.",
+  "instructions": "Drag and drop the following code snippets in the correct sequence.",
+  "items": [
+    {
+      "id": "A",
+      "text": "numbers = [1, 2, 3, 4]"
+    },
+    {
+      "id": "B",
+      "text": "squares = [n**2 for n in numbers]"
+    },
+    {
+      "id": "C",
+      "text": "for square in squares:"
+    },
+    {
+      "id": "D",
+      "text": "    print(square)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}

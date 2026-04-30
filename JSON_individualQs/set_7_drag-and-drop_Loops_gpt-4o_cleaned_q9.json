@@ -1,0 +1,12 @@
+{
+  "difficulty": 9,
+  "question_type": "drag-and-drop",
+  "question": "Identify how to convert this for loop to a list comprehension.",
+  "code": "squares = []\nfor i in range(5):\n    squares.append(i**2)",
+  "options": [
+    "[i**2 for i in range(5)]",
+    "[i^2 for i in range(5)]",
+    "[squares.append(i**2) for i in range(5)]"
+  ],
+  "correct_option": "[i**2 for i in range(5)]"
+}

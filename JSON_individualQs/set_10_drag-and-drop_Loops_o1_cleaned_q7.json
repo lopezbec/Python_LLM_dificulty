@@ -1,0 +1,22 @@
+{
+  "question": "Drag and drop the code blocks to sum only the even numbers from 1 to 5.",
+  "question_type": "drag-and-drop",
+  "difficulty": 7,
+  "instructions": "Arrange the blocks to skip odd numbers and sum the even ones, then display the total.",
+  "code_blocks": [
+    "continue",
+    "for i in range(1, 6):",
+    "if i % 2 != 0:",
+    "sum_even = 0",
+    "print('Sum of even numbers:', sum_even)",
+    "sum_even += i"
+  ],
+  "correct_order": [
+    "sum_even = 0",
+    "for i in range(1, 6):",
+    "if i % 2 != 0:",
+    "continue",
+    "sum_even += i",
+    "print('Sum of even numbers:', sum_even)"
+  ]
+}

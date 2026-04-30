@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "score",
+        "print('Fail')",
+        "if score < 50:"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "difficulty": 4,
+  "question": "Drag the correct part to complete the nested loop that prints coordinates.",
+  "code_snippet": "for i in range(3):\n    for j in range(____):\n        print(i, j)",
+  "options": [
+    {
+      "id": 1,
+      "text": "3"
+    },
+    {
+      "id": 2,
+      "text": "i"
+    },
+    {
+      "id": 3,
+      "text": "0"
+    },
+    {
+      "id": 4,
+      "text": "1"
+    }
+  ],
+  "correct_option_id": 1
+}

@@ -1,0 +1,15 @@
+{
+  "difficulty": 6,
+  "question": "Drag the code snippets to correctly implement nested if-statements that check if 'age' is above 18 and if 'has_license' is True, then print 'Eligible to drive'.",
+  "code_fragments": [
+    "if age > 18:",
+    "print('Eligible to drive')",
+    "if has_license:",
+    "if age < 18:"
+  ],
+  "correct_order": [
+    "if age > 18:",
+    "if has_license:",
+    "print('Eligible to drive')"
+  ]
+}

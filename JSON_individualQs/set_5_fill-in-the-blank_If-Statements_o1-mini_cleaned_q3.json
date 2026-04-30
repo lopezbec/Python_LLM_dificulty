@@ -1,0 +1,7 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to complete the nested if-statement: \n```python\na = 5\nb = 10\nif a < b:\n    if ____ > 5:\n        print(\"b is greater than 5\")\n```",
+  "answer": "b"
+}

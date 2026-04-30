@@ -1,0 +1,14 @@
+{
+  "difficulty": 6,
+  "question": "Match the correct term to the following scenario: 'if (temperature > 30) { /* Code */ }'",
+  "options": {
+    "A": "Nested if statement",
+    "B": "Single condition",
+    "C": "Chained conditions",
+    "D": "Ternary operator"
+  },
+  "correctMatch": {
+    "scenario": "if (temperature > 30) { /* Code */ }",
+    "term": "B"
+  }
+}

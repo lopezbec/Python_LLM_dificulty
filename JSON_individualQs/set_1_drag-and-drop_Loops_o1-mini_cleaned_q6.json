@@ -1,0 +1,19 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "loops",
+  "question": "Arrange the following list comprehension components to create a list of squares from 0 to 4.",
+  "options": [
+    "[",
+    "x**2",
+    "for x in range(5)",
+    "]"
+  ],
+  "correct_order": [
+    "[",
+    "x**2",
+    "for x in range(5)",
+    "]"
+  ]
+}

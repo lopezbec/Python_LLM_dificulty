@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which part of an if statement gets executed when all preceding conditions are False?",
+  "options": [
+    "'if'",
+    "'elif'",
+    "'else'",
+    "'finally'"
+  ],
+  "answer": "'else'"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (weather === 'rainy') { ____; }",
+        "take an umbrella;",
+        "play outside;",
+        "stay indoors;",
+        "go for a walk;"
+    ]
+}

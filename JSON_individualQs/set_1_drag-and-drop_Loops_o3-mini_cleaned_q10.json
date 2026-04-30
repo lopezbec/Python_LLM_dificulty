@@ -1,0 +1,30 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "topic": "Loops",
+  "question": "Arrange the following fragments to form a complex loop that iterates over a matrix, prints odd numbers while skipping even numbers using continue, includes an else clause for complete rows, and breaks the loop when the first element of a row is 3.",
+  "drag_items": [
+    "matrix = [[1, 2], [3, 4]]",
+    "    for num in row:",
+    "        if num % 2 == 0:",
+    "for row in matrix:",
+    "        continue",
+    "    if row[0] == 3:",
+    "        break",
+    "        print(num)",
+    "    else:",
+    "        print('Row complete')"
+  ],
+  "correct_order": [
+    "matrix = [[1, 2], [3, 4]]",
+    "for row in matrix:",
+    "    for num in row:",
+    "        if num % 2 == 0:",
+    "            continue",
+    "        print(num)",
+    "    else:",
+    "        print('Row complete')",
+    "    if row[0] == 3:",
+    "        break"
+  ]
+}

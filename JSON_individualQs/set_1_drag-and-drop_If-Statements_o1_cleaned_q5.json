@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "question": "Complete the conditional check to print if a variable total is either above 100 or exactly 100. Drag the correct snippet into the blank.",
+  "code": "total = 100\nif [BLANK]:\n    print(\"100 or more\")",
+  "choices": [
+    "total >= 100",
+    "total = 100 or total = 0",
+    "total > 100 and total = 100"
+  ],
+  "correctAnswer": "total >= 100"
+}

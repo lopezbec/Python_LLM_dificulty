@@ -1,0 +1,9 @@
+{
+  "difficulty": 10,
+  "topic": "Loops",
+  "question": "Fill in the blanks to use the loop with 'else' to print numbers and end properly.",
+  "code": "for i in range(3):\n    print(i)\nelse:\n    print(\"Finished counting, i is now\", ___)",
+  "drag_and_drop_options": [
+    "3"
+  ]
+}

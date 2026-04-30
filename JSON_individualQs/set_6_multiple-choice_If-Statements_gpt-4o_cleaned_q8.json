@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What will be the output when 'x = None', and executing the following code?\n\nif x:\n    print('True')\nelse:\n    print('False')",
+  "choices": [
+    "True",
+    "False",
+    "None",
+    "Error"
+  ],
+  "correct_answer": "False"
+}

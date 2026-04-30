@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following if-statement:\n\nif (a > 0 and b < 10) or c == 5:\n    print('Condition met')\nIn this case, '____' will print if a is positive, b is less than 10, or c equals 5.",
+  "correct_answer": "Condition met"
+}

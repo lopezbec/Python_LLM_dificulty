@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "age",
+        "if age > 18 ______ age < 65:",
+        "print('Eligible for working')"
+    ]
+}

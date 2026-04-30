@@ -1,0 +1,11 @@
+{
+  "question": "Consider the code:\n\nx = 15\ny = 10\nif x > y:\n    if x < 20:\n        print('x is between y and 20')\nelse:\n    print('x is not greater than y')\n\nWhat is the output?",
+  "difficulty": 8,
+  "options": {
+    "A": "x is not greater than y",
+    "B": "x is between y and 20",
+    "C": "No output",
+    "D": "An error occurs"
+  },
+  "correct_answer": "B"
+}

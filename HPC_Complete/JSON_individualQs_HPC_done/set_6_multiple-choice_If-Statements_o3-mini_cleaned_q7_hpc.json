@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 5",
+        "if x > 2:",
+        "if x < 10:",
+        "print('x is between 3 and 9')",
+        "else:",
+        "print('x is 10 or more')",
+        "else:",
+        "print('x is 2 or less')",
+        "x is 2 or less",
+        "x is 10 or more",
+        "x is between 3 and 9",
+        "Nothing will be printed"
+    ]
+}

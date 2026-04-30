@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "An if-statement without an else block is not allowed in Python.",
+  "answer": false
+}

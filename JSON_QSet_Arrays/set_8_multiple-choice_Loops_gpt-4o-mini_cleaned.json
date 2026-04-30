@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "What is the main purpose of a loop in programming?",
+    "options": [
+      "To perform a task repeatedly",
+      "To create a variable",
+      "To define a function",
+      "To end a program"
+    ],
+    "correctAnswer": "To perform a task repeatedly"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which of the following is a type of loop in Python?",
+    "options": [
+      "while loop",
+      "for loop",
+      "do-while loop",
+      "Both A and B"
+    ],
+    "correctAnswer": "Both A and B"
+  },
+  {
+    "difficulty": 3,
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)\n",
+    "options": [
+      "0 1 2",
+      "1 2 3",
+      "0 1 2 3",
+      "3 2 1"
+    ],
+    "correctAnswer": "0 1 2"
+  },
+  {
+    "difficulty": 4,
+    "question": "What is the result if a while loop condition is never met?",
+    "options": [
+      "The loop runs indefinitely",
+      "The loop runs once",
+      "The loop does not run at all",
+      "The loop will throw an error"
+    ],
+    "correctAnswer": "The loop does not run at all"
+  },
+  {
+    "difficulty": 5,
+    "question": "What will be the output of the following code?\n\ncount = 0\nwhile count < 5:\n    count += 1\nprint(count)\n",
+    "options": [
+      "0",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "difficulty": 6,
+    "question": "In a for loop, what does the 'break' statement do?",
+    "options": [
+      "Ends the current loop",
+      "Ends all loops",
+      "Pauses the loop execution",
+      "Continues to the next iteration"
+    ],
+    "correctAnswer": "Ends the current loop"
+  },
+  {
+    "difficulty": 7,
+    "question": "Consider the following code snippet:\n\nfor i in range(1, 10, 2):\n    print(i)\nWhat will be printed?",
+    "options": [
+      "1 2 3 4 5 6 7 8 9",
+      "1 3 5 7 9",
+      "2 4 6 8",
+      "1 2 3 4 5 6 7 8"
+    ],
+    "correctAnswer": "1 3 5 7 9"
+  },
+  {
+    "difficulty": 8,
+    "question": "What will be the output of the following nested loop code?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)\n",
+    "options": [
+      "(0, 0)\n(0, 1)\n(1, 0)\n(1, 1)",
+      "(1, 1)\n(0, 0)\n(1, 0)\n(0, 1)",
+      "(0, 0)\n(1, 1)\n(0, 1)\n(1, 0)",
+      "(0, 1)\n(1, 0)\n(0, 0)\n(1, 1)"
+    ],
+    "correctAnswer": "(0, 0)\n(0, 1)\n(1, 0)\n(1, 1)"
+  },
+  {
+    "difficulty": 9,
+    "question": "If 'break' and 'continue' are both used within a nested loop, what happens when 'break' is executed?",
+    "options": [
+      "It breaks out of the inner loop only",
+      "It breaks out of the outer loop only",
+      "It pauses the loop",
+      "It continues to the next iteration of the inner loop"
+    ],
+    "correctAnswer": "It breaks out of the inner loop only"
+  },
+  {
+    "difficulty": 10,
+    "question": "What is the time complexity of a nested loop where each loop runs 'n' times?",
+    "options": [
+      "O(n)",
+      "O(n^2)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(n^2)"
+  }
+]

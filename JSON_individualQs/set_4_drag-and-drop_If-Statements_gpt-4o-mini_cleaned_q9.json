@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Construct the nested if-statement: if (score > 50) { if (score > 80) { _____ } else { _____ } } else { _____ };",
+  "options": [
+    "print('Great job!')",
+    "print('You passed.')",
+    "print('You failed.')"
+  ],
+  "correct_answer": [
+    "print('Great job!')",
+    "print('You passed.')",
+    "print('You failed.')"
+  ]
+}

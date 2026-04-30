@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Using generator expressions with loops in Python can reduce memory consumption compared to using list comprehensions for large datasets.",
+  "answer": true
+}

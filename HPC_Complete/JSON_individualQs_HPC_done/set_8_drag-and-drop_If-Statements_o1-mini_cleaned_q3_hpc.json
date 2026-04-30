@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if x > 0:",
+        "    if x > 10:",
+        "        print(\"x is greater than 10\")",
+        "    else:",
+        "        print(\"x is positive but not greater than 10\")",
+        "else:",
+        "    print(\"x is not positive\")"
+    ]
+}

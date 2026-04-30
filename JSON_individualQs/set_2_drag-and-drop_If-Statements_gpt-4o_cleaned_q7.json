@@ -1,0 +1,14 @@
+{
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Fill in the placeholders to correctly handle multiple conditions using elif.",
+  "code": "x = 20\nif x < 10:\n    print('Small')\n______ x == 20:\n    print('Medium')\nelse:\n    print('Large')",
+  "options": [
+    "elif",
+    "else",
+    "then",
+    "finally"
+  ],
+  "correct": "elif"
+}

@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "count = 0",
+        "while True:",
+        "[INCREMENT_PLACEHOLDER]",
+        "if [BREAK_CONDITION_PLACEHOLDER]:",
+        "break",
+        "print(count)",
+        "count += 1",
+        "count = 0",
+        "count == 3",
+        "count > 5",
+        "INCREMENT_PLACEHOLDER",
+        "BREAK_CONDITION_PLACEHOLDER"
+    ]
+}

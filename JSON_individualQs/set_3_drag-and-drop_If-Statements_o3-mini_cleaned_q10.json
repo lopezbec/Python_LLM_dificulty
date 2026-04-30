@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Construct a nested if-elif-else statement by dragging the correct keywords into the blanks:\n\n___ day == 'Saturday' or day == 'Sunday':\n    print('Weekend')\n___ day == 'Friday':\n    print('Almost Weekend')\n___:\n    print('Weekday')",
+  "dragItems": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "dropZones": {
+    "first": "Keyword for weekend check",
+    "second": "Keyword for almost weekend check",
+    "third": "Keyword for other days"
+  },
+  "correctMapping": {
+    "first": "if",
+    "second": "elif",
+    "third": "else"
+  }
+}

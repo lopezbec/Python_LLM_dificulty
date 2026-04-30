@@ -1,0 +1,13 @@
+{
+  "difficulty": 9,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "Identify the issue in the following code:\n\n```\nnum = 10\nif num > 5\n    print('Number is greater than 5')\n```\n",
+  "options": [
+    "Missing colon at the end of if condition",
+    "Indentation error",
+    "num is not defined",
+    "None"
+  ],
+  "correct_answer": "Missing colon at the end of if condition"
+}

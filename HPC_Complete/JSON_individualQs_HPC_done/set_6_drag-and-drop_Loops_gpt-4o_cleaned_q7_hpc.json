@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "target",
+        "10",
+        "for",
+        "if",
+        "==",
+        "num",
+        ":",
+        "break",
+        "in",
+        "numbers",
+        "print",
+        "(",
+        "num",
+        ")"
+    ]
+}

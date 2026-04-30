@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "question": "Fill in the blanks to complete the if-elif-else statement.",
+  "dragItems": [
+    "num > 0",
+    "print('Positive')",
+    "num == 0",
+    "print('Zero')",
+    "print('Negative')"
+  ],
+  "dropZones": [
+    "Condition for elif",
+    "Statement for elif",
+    "Statement for else"
+  ],
+  "correctAnswers": {
+    "Condition for elif": "num == 0",
+    "Statement for elif": "print('Zero')",
+    "Statement for else": "print('Negative')"
+  }
+}

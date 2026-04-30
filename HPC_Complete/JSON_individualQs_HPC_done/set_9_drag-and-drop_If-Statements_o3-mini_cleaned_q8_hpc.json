@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "[BLANK1] score [BLANK2] 90:",
+        "print('Excellent')",
+        "[BLANK3] score [BLANK4] 60:",
+        "print('Good')",
+        "else:",
+        "print('Needs Improvement')",
+        "if",
+        "elif",
+        ">=",
+        "<=",
+        "else"
+    ]
+}

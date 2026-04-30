@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "True or False: In Python, an if statement executes the indented block of code only if the associated condition evaluates to True.",
+  "correct_answer": true
+}

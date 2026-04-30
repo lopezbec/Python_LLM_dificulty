@@ -1,0 +1,11 @@
+{
+  "question": "Complete the multi-condition if statement by dragging the appropriate option: \nif (x > 5 && y < 10) { ______ } else { print('Conditions not met'); }",
+  "options": [
+    "print('Both conditions satisfied')",
+    "return True",
+    "x + y",
+    "print('Single condition met')"
+  ],
+  "correct_answer": "print('Both conditions satisfied')",
+  "difficulty": 10
+}

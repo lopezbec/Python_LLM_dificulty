@@ -1,0 +1,21 @@
+{
+    "HPC": [
+        "x = 8",
+        "if x > 5:",
+        "if x % 2 == 0:",
+        "result = \"Even and greater than 5\"",
+        "else:",
+        "result = \"Odd and greater than 5\"",
+        "elif x == 5:",
+        "result = \"Equal to 5\"",
+        "else:",
+        "result = \"Less than 5\"",
+        "print(result)",
+        "x",
+        "result",
+        "Even and greater than 5",
+        "Odd and greater than 5",
+        "Equal to 5",
+        "Less than 5"
+    ]
+}

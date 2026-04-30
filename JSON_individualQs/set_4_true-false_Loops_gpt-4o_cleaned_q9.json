@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "It is possible to modify the list you are iterating over within a 'for' loop without causing any issues.",
+  "answer": false
+}

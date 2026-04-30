@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "If-Statements",
+  "question": "Complete the if-elif-else structure by dragging the appropriate logical operators.",
+  "codeSnippet": "age = 25\nif age __ operator1 __ 18:\n    print('Minor')\nelif age __ operator2 __ 65:\n    print('Adult')\nelse:\n    print('Senior')",
+  "options": [
+    "<",
+    ">=",
+    "<=",
+    ">",
+    "=="
+  ],
+  "targets": [
+    "operator1",
+    "operator2"
+  ],
+  "correctAnswer": {
+    "operator1": "<",
+    "operator2": "<= "
+  }
+}

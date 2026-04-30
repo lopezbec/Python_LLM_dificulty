@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "numbers = [1, 2, 3]",
+        "squares = []",
+        "for num in numbers:",
+        "for i ___ range(2):",
+        "num = num * num",
+        "squares.append(num)",
+        "in",
+        "of",
+        "within"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "question": "Drag to correctly arrange the pieces to find the total count of 'a' in the string 'banana'.",
+  "options": [
+    "count = 0",
+    "for char in 'banana':",
+    "if char == 'a':",
+    "count += 1",
+    "print(count)"
+  ],
+  "correct_order": [
+    "count = 0",
+    "for char in 'banana':",
+    "if char == 'a':",
+    "count += 1",
+    "print(count)"
+  ],
+  "difficulty": 7
+}

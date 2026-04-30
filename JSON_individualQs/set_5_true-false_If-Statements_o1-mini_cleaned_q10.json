@@ -1,0 +1,5 @@
+{
+  "question": "In Python, an if statement treats empty lists, empty strings, and zero as False.",
+  "difficulty": 10,
+  "answer": true
+}

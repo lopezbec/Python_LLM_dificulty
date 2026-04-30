@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "True or False: A while loop with a condition that never becomes False will eventually raise an error in Python.",
+  "answer": "False"
+}

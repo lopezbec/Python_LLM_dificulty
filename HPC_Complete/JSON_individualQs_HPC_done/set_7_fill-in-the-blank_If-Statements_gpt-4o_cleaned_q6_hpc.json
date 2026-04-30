@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "items",
+        "if len(items) _____ _____:",
+        "print('List is empty')",
+        "==",
+        "0"
+    ]
+}

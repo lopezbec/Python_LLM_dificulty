@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "login_status",
+        "False",
+        "if [BLANK]:",
+        "print(\"User must be logged in\")",
+        "login_status == True",
+        "login_status == False",
+        "login_status >= 1"
+    ]
+}

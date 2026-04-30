@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Nested loops can have multiple 'break' statements in Python.",
+  "answer": true
+}

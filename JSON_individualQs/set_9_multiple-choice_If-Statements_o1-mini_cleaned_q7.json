@@ -1,0 +1,10 @@
+{
+  "question": "Consider the following code. What will be printed?\n\n```python\na = 10\nb = 20\nif a > 5 and b < 25:\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")\n```",
+  "options": {
+    "A": "Condition met",
+    "B": "Condition not met",
+    "C": "Error in condition",
+    "D": "Nothing is printed"
+  },
+  "answer": "A"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if temperature < 10:",
+        "____ is_raining:",
+        "print('Wear a coat')",
+        "temperature < 10",
+        "is_raining"
+    ]
+}

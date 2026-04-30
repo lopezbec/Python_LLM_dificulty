@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank: Unlike while and for loops, Python does not have a built-in ____ loop that executes the loop body at least once before checking the condition.",
+  "answer": "do-while"
+}

@@ -1,0 +1,18 @@
+{
+  "difficulty": 4,
+  "question": "Reorder the code to find the sum of all even numbers from 1 to 10 using a for loop.",
+  "choices": [
+    "total = 0",
+    "for i in range(1, 11):",
+    "    if i % 2 == 0:",
+    "    total += i",
+    "print(total)"
+  ],
+  "answer": [
+    "total = 0",
+    "for i in range(1, 11):",
+    "    if i % 2 == 0:",
+    "        total += i",
+    "print(total)"
+  ]
+}

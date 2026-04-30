@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (x > 10) { console.log('Big'); } ____  { console.log('Small'); }",
+        "else",
+        "elseif",
+        "finally",
+        "try"
+    ]
+}

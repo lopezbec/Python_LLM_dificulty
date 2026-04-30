@@ -1,0 +1,20 @@
+{
+    "HPC": [
+        "n",
+        "if",
+        "elif",
+        "else",
+        "print('Negative')",
+        "print('Zero')",
+        "print('Positive')",
+        "[BLANK1] n [BLANK2] 0:",
+        "[BLANK3] n [BLANK4] 0:",
+        "else:",
+        "if",
+        "elif",
+        "<",
+        "==",
+        "else",
+        ">"
+    ]
+}

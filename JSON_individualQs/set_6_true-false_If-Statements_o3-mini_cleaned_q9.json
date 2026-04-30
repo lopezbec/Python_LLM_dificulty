@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "True or False: Using nested if statements in Python allows for more complex decision-making, although excessive nesting can reduce code readability.",
+  "correct_answer": true
+}

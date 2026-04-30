@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "The loop variable in a Python 'for' loop is local to the loop block and ceases to exist once the loop finishes executing.",
+  "correct_answer": "False"
+}

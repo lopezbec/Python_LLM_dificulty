@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blanks to iterate over a dictionary and print its keys.",
+  "code": "d = {'a': 1, 'b': 2, 'c': 3}\nfor <blank> in <blank>:\n    print(key)",
+  "options": [
+    "key",
+    "d.keys()",
+    "d.values()",
+    "d",
+    "value"
+  ],
+  "correct_answer": [
+    "key",
+    "d.keys()"
+  ]
+}

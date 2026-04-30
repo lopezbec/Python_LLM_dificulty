@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Drag and drop to complete the basic if-statement that prints 'Hello World' if the variable 'x' is greater than 0.",
+  "code": "if x > 0:\n    <blank>",
+  "options": [
+    "print('Hello World')",
+    "x = 0",
+    "else"
+  ]
+}

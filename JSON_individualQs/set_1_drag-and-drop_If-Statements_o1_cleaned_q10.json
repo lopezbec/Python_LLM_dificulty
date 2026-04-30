@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "question": "Complete the condition to check if msg contains the word 'error' or the word 'failed'. Both words, if present, indicate an error message that should be printed.",
+  "code": "msg = \"The operation failed unexpectedly\"\nif [BLANK]:\n    print(\"Error detected\")",
+  "choices": [
+    "\"error\" not in msg or \"failed\" not in msg",
+    "\"error\" in msg and \"failed\" in msg",
+    "\"error\" in msg or \"failed\" in msg"
+  ],
+  "correctAnswer": "\"error\" in msg or \"failed\" in msg"
+}

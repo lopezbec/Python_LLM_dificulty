@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 3,
+  "prompt": "Match the loop type with its description.",
+  "draggableItems": [
+    "for loop",
+    "while loop",
+    "nested loop",
+    "infinite loop"
+  ],
+  "dropZones": [
+    "Repeats a block a fixed number of times",
+    "Repeats until a condition is false",
+    "A loop inside another loop",
+    "A loop that never ends without a breaking condition"
+  ],
+  "correctMatch": {
+    "Repeats a block a fixed number of times": "for loop",
+    "Repeats until a condition is false": "while loop",
+    "A loop inside another loop": "nested loop",
+    "A loop that never ends without a breaking condition": "infinite loop"
+  }
+}

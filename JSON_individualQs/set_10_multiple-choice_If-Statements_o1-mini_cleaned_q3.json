@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "question": "Which keyword is used to provide an alternative block of code if the if condition is False?",
+  "options": {
+    "A": "else",
+    "B": "elif",
+    "C": "otherwise",
+    "D": "fallback"
+  },
+  "answer": "A",
+  "difficulty": 3
+}

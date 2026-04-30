@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Python's loop control constructs such as break and continue can be used to manage flow within generator expressions.",
+  "answer": "False"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if A: if B: doX() else: doY()",
+        "A",
+        "B",
+        "doX()",
+        "doY()"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "if-statements",
+  "question": "Complete the following Python function by dragging the correct statements to handle multiple conditions, including edge cases:\n\n```python\ndef categorize_temperature(temp):\n    if temp > 30:\n        category = \"Hot\"\n    ___ temp > 20:\n        category = \"Warm\"\n    elif temp > 10:\n        category = \"Cool\"\n    else:\n        category = \"Cold\"\n    return category\n```\nOptions:\n- elif\n- else\n- if",
+  "options": [
+    "elif",
+    "else",
+    "if"
+  ],
+  "correct_answers": [
+    "elif"
+  ]
+}

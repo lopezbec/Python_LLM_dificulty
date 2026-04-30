@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "x = 'hello'",
+        "if isinstance(x, str):",
+        "print('x is a string')",
+        "else:",
+        "print('x is not a string')",
+        "x"
+    ]
+}

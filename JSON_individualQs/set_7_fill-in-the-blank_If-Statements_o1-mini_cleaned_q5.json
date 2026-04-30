@@ -1,0 +1,6 @@
+{
+  "difficulty": 5,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to create a nested if statement:\n\nif score >= 50:\n    if score >= 75:\n        print(\"Pass with distinction\")\n    ___:\n        print(\"Pass\")\nelse:\n    print(\"Fail\")",
+  "answer": "else"
+}

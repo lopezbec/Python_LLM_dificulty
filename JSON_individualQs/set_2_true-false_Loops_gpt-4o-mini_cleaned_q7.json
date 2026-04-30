@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can use nested loops in Python, placing one loop inside another loop.",
+  "answer": true
+}

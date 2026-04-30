@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank to iterate backwards through the range:\n\nfor x in __________(range(5)):\n    print(x)",
+  "answer": "reversed"
+}

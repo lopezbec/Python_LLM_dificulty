@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The 'zip()' function can be used in conjunction with loops to iterate over multiple sequences in parallel.",
+  "answer": true
+}

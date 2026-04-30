@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "squares = [x___2 for x in range(10)]",
+        "squares",
+        "x___2",
+        "for x in range(10)"
+    ]
+}

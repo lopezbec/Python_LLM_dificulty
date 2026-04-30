@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code print? \n\nsum = 0 \nfor i in range(5): \n    sum += i \nprint(sum)",
+  "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+  ],
+  "answer": "10",
+  "difficulty": 3
+}

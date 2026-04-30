@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Drag and drop the correct keywords to complete the nested if-statement that checks if 'x' is positive and even.",
+  "codeSnippet": "____ x > 0:\n    ____ x % 2 ____ 0:\n        print('x is positive and even')",
+  "dragItems": [
+    "if",
+    "if",
+    "=="
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "if",
+    "drop3": "=="
+  }
+}

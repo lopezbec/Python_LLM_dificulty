@@ -1,0 +1,10 @@
+{
+  "question": "Drag the missing component to complete the if-statement: if ( ____ ) { print('Hello'); }",
+  "options": [
+    "true",
+    "false",
+    "1 > 2"
+  ],
+  "answer": "true",
+  "difficulty": 1
+}

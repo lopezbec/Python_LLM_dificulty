@@ -1,0 +1,13 @@
+{
+  "difficulty": 3,
+  "question": "Drag and drop the correct statements to show how to use an else clause:\n if age < 18: \n    _____\n else: \n    _____\n",
+  "options": [
+    "print('You are a minor')",
+    "print('You are an adult')",
+    "age += 1"
+  ],
+  "correct_answers": [
+    "print('You are a minor')",
+    "print('You are an adult')"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "The statement 'if True: print('Always True!')' will print 'Always True!' exactly once.",
+  "difficulty": 8,
+  "answer": true
+}

@@ -1,0 +1,11 @@
+{
+  "question": "In the code below, which values of i are printed?\n\nfor i in range(5):\n    if i == 2:\n        break\n    print(i)",
+  "difficulty": 6,
+  "choices": [
+    "A) 0, 1, 2, 3, 4",
+    "B) 0, 1",
+    "C) 2, 3, 4",
+    "D) 0, 1, 2"
+  ],
+  "correct_answer": "B"
+}

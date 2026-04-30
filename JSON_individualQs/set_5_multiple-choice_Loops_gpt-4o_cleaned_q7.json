@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "topic": "Loops",
+  "question": "What does the 'else' block in a loop indicate when attached to a 'for' or 'while' loop?",
+  "options": [
+    "It executes only if the loop encounters a break statement",
+    "It executes when the loop completes all iterations without encountering a break",
+    "It executes before the loop initializes",
+    "It executes in parallel with the loop"
+  ],
+  "answer": "It executes when the loop completes all iterations without encountering a break"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Given the following code, what will be the output?\n\n```\nx = 10\nif x == 5:\n    print('x is 5')\nelse:\n    print('x is not 5')\n```",
+  "difficulty": 5,
+  "options": {
+    "A": "x is 5",
+    "B": "x is not 5",
+    "C": "Error",
+    "D": "No output"
+  },
+  "correct_answer": "B"
+}

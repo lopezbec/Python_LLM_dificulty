@@ -1,0 +1,19 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "instruction": "Drag and drop the correct keywords to check if x is not 5.",
+  "code_with_blanks": "x = 5\n_____ x != 5 _____\n    print(\"x is not 5\")\nelse:\n    print(\"x is 5\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "else",
+    ":",
+    "!=",
+    "not"
+  ],
+  "correct_sequence": [
+    "if",
+    ":"
+  ],
+  "explanation": "Use 'if' to evaluate 'x != 5' and ':' to begin the if block."
+}

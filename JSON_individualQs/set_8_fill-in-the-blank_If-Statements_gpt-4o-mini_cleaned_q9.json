@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In the following code, what will be printed if x = 3? \n\nif x < 5:\n    print('x is less than 5')  \nelse:\n    print('x is 5 or more') \nThe output will be: '____'.",
+  "correct_answer": "x is less than 5"
+}

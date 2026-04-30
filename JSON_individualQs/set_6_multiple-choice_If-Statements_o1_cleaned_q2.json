@@ -1,0 +1,11 @@
+{
+  "question": "2) Which of the following best describes the purpose of an if-statement in Python?",
+  "difficulty": 2,
+  "answers": [
+    "To repeat a block of code multiple times",
+    "To execute a block of code only when a certain condition is true",
+    "To define a function",
+    "To handle expected errors"
+  ],
+  "correct_answer": "To execute a block of code only when a certain condition is true"
+}

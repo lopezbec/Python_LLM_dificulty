@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output? \n\n```python\nx = 10\nif x > 5:\n    print('Greater than 5')\n```\n",
+  "options": [
+    "Greater than 5",
+    "Less than 5",
+    "No output",
+    "Error"
+  ],
+  "correct_answer": "Greater than 5",
+  "difficulty": 1
+}

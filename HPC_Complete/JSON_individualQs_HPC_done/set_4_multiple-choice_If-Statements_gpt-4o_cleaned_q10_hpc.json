@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "def check_value(val):",
+        "if val % 2 == 0:",
+        "if val % 3 == 0:",
+        "return \"Divisible by 6\"",
+        "else:",
+        "return \"Divisible by 2\"",
+        "else:",
+        "return \"Not Divisible by 2\"",
+        "check_value(9)",
+        "Divisible by 6",
+        "Divisible by 2",
+        "Not Divisible by 2",
+        "Undefined behavior"
+    ]
+}

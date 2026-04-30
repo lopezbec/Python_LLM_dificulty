@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In an if-statement, which logical operator correctly checks if both conditions A and B are True?",
+  "options": [
+    "and",
+    "or",
+    "not",
+    "if"
+  ],
+  "answer": "and"
+}

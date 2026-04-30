@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider this nested loop:\n\nresult = []\nfor i in range(2):\n    for j in range(2):\n        if i == j:\n            result.append((i, j))\n\nWhat is contained in 'result' after execution?",
+  "options": {
+    "A": "[(0,0), (0,1), (1,0), (1,1)]",
+    "B": "[(0,0), (1,1)]",
+    "C": "[(0,1), (1,0)]",
+    "D": "[(1,0), (0,1)]"
+  },
+  "correct_answer": "B"
+}

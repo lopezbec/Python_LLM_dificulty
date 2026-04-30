@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A while loop in Python continues as long as a given conditional expression evaluates to True.",
+  "correct_answer": "True"
+}

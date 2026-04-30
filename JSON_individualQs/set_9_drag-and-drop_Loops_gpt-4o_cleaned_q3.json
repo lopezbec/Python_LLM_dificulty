@@ -1,0 +1,13 @@
+{
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Place the correct loop type to iterate over the list elements.",
+  "code_block": "days = ['Mon', 'Tue', 'Wed']\n___ day in days:\n    print(day)",
+  "options": [
+    "for",
+    "while",
+    "do"
+  ],
+  "correct_answer": "for"
+}

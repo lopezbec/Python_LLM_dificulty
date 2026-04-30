@@ -1,0 +1,13 @@
+{
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Choose the correct range function parameters to print even numbers from 2 to 8.",
+  "code_block": "for i in range(___, ___, ___):\n    print(i)",
+  "options": [
+    "2, 10, 2",
+    "1, 8, 1",
+    "2, 8, 1"
+  ],
+  "correct_answer": "2, 10, 2"
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "horsemen = ['war', 'famine', 'pestilence']",
+        "append",
+        "for name in enumerate(horsemen): horsemen[name] = name + 'death'",
+        "for i in range(len(horsemen)): horsemen[i] += 'death'",
+        "for i in range(len(horsemen)): horsemen += ['death']",
+        "horsemen += ['death']"
+    ]
+}

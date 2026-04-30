@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the purpose of the 'else' clause in a loop statement?",
+  "options": [
+    "A) To handle exceptions",
+    "B) To run a block of code if the loop is exited normally",
+    "C) To exit the loop",
+    "D) None of the above"
+  ],
+  "correct_answer": "B"
+}

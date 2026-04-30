@@ -1,0 +1,55 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Arrange the following code snippets to create a nested if statement that checks if a number is positive and even.",
+  "drag_options": [
+    "if number > 0:",
+    "    if number % 2 == 0:",
+    "        print('Positive and even')",
+    "    else:",
+    "        print('Positive but odd')",
+    "else:",
+    "    print('Non-positive number')"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Line 1",
+      "identifier": "line_1"
+    },
+    {
+      "placeholder": "Line 2",
+      "identifier": "line_2"
+    },
+    {
+      "placeholder": "Line 3",
+      "identifier": "line_3"
+    },
+    {
+      "placeholder": "Line 4",
+      "identifier": "line_4"
+    },
+    {
+      "placeholder": "Line 5",
+      "identifier": "line_5"
+    },
+    {
+      "placeholder": "Line 6",
+      "identifier": "line_6"
+    },
+    {
+      "placeholder": "Line 7",
+      "identifier": "line_7"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if number > 0:",
+    "line_2": "    if number % 2 == 0:",
+    "line_3": "        print('Positive and even')",
+    "line_4": "    else:",
+    "line_5": "        print('Positive but odd')",
+    "line_6": "else:",
+    "line_7": "    print('Non-positive number')"
+  }
+}

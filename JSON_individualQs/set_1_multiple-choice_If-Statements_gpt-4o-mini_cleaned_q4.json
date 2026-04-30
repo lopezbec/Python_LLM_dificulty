@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Given the following code snippet, what will it print if x = 10? \n\n```python\nif x == 10:\n    print('Ten')\nelse:\n    print('Not Ten')\n```",
+  "options": [
+    "Ten",
+    "Not Ten",
+    "Error",
+    "0"
+  ],
+  "correct_answer": "Ten"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for i in range(5):\n    ___",
+        "print(i)",
+        "i++",
+        "increment(i)"
+    ]
+}

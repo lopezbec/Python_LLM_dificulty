@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following loop constructs will execute the loop body at least once?",
+  "options": {
+    "A": "for loop",
+    "B": "while loop",
+    "C": "do-while loop",
+    "D": "Both for and while loops"
+  },
+  "answer": "C"
+}

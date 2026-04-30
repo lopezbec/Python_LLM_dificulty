@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code snippet?\n\nx = 8\nif x > 5:\n    if x < 10:\n        print(\"x is a single-digit number greater than 5\")\nelse:\n    print(\"x is 5 or less\")",
+  "choices": {
+    "A": "x is 5 or less",
+    "B": "x is a single-digit number greater than 5",
+    "C": "No output",
+    "D": "SyntaxError"
+  },
+  "correct_answer": "B",
+  "difficulty": 7
+}

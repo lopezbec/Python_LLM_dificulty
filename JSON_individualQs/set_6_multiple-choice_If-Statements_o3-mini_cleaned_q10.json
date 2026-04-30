@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following statements about the evaluation order of logical operators in Python within an if-statement is correct?",
+  "options": [
+    "Passwords are evaluated left-to-right without any precedence rules.",
+    "The 'or' operator is evaluated before the 'and' operator.",
+    "The 'and' operator is evaluated before the 'or' operator.",
+    "Both 'and' and 'or' are evaluated simultaneously."
+  ],
+  "correct_answer": "The 'and' operator is evaluated before the 'or' operator."
+}

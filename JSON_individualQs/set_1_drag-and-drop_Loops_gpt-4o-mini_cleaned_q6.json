@@ -1,0 +1,16 @@
+{
+  "difficulty": 6,
+  "question": "Drag and drop the appropriate keyword to terminate a loop early.",
+  "options": {
+    "A": "exit",
+    "B": "break",
+    "C": "return",
+    "D": "stop"
+  },
+  "drops": {
+    "Target": "while True: if some_condition: _____"
+  },
+  "correct_order": [
+    "B"
+  ]
+}

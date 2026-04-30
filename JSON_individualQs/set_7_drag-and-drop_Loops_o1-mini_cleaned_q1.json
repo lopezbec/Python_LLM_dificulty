@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "Loops",
+  "question": "Arrange the parts of a basic `for` loop in Python in the correct order.",
+  "drag_items": [
+    "for item in iterable:",
+    "    print(item)"
+  ],
+  "drop_zones": [
+    "Start of the loop",
+    "Body of the loop"
+  ],
+  "instructions": "Drag and drop the code snippets into the correct order."
+}

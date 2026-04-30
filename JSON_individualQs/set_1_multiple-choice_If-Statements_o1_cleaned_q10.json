@@ -1,0 +1,11 @@
+{
+  "question": "Which piece of code correctly finds the maximum of three variables, x, y, and z, using a nested if statement?",
+  "difficulty": 10,
+  "options": [
+    "if x > y:\n    if x > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(y)\n    else:\n        print(z)",
+    "if x > y > z:\n    print(x)\nelif y > x > z:\n    print(y)\nelse:\n    print(z)",
+    "if x > y:\n    if y > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(x)\n    else:\n        print(z)",
+    "x = max(x, y, z)\nprint(x)"
+  ],
+  "correct_answer": "if x > y:\n    if x > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(y)\n    else:\n        print(z)"
+}

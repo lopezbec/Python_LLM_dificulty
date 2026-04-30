@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "result",
+        "'Positive'",
+        "x > 0",
+        "'Non-positive'",
+        "result = 'Positive' if x > 0 else 'Non-positive'",
+        "result = if x > 0 then 'Positive' else 'Non-positive'",
+        "if x > 0 ? 'Positive' : 'Non-positive'",
+        "result = ('Positive', 'Non-positive')[x <= 0]"
+    ]
+}

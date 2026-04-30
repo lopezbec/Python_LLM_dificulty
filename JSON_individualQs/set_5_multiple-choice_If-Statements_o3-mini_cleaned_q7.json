@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Given the following code snippet:\n\nx = 7\nif x % 2 == 0:\n    print('Even')\nelif x % 2 != 0:\n    print('Odd')\n\nWhat is the output when the code is executed?",
+  "options": {
+    "A": "Even",
+    "B": "Odd",
+    "C": "0",
+    "D": "Error"
+  },
+  "correct_answer": "B"
+}

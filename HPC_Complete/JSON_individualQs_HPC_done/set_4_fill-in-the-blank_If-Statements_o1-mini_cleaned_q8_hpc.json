@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "not",
+        "if ___ user.is_admin():",
+        "user"
+    ]
+}

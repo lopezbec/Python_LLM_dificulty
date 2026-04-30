@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for x in range(3):\n    if x == 5:\n        break\nelse:\n    print(\"No break was encountered\")",
+        "x",
+        "print",
+        "No break was encountered"
+    ]
+}

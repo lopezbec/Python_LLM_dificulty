@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Drag the correct word blocks to form a loop that prints the elements of a list.\n\nlist = [1, 2, 3]\nfor element in ___ :\n    print(element)",
+  "options": [
+    "list",
+    "range",
+    "string",
+    "object"
+  ],
+  "answer": "list"
+}

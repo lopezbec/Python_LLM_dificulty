@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following nested if statements?\n\n```python\na = 15\nb = 20\nif a > 10:\n    if b > 15:\n        print(\"a > 10 and b > 15\")\n    else:\n        print(\"a > 10 and b <= 15\")\nelse:\n    print(\"a <= 10\")\n```",
+  "options": {
+    "A": "a > 10 and b > 15",
+    "B": "a > 10 and b <= 15",
+    "C": "a <= 10",
+    "D": "Error"
+  },
+  "answer": "A"
+}

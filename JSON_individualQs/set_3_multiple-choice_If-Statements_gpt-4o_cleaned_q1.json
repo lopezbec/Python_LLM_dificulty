@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct syntax for a basic if-statement in Python?",
+  "difficulty": 1,
+  "choices": {
+    "a": "if x = 10:",
+    "b": "if (x == 10):",
+    "c": "if x == 10:",
+    "d": "if x = 10"
+  },
+  "correct_answer": "c"
+}

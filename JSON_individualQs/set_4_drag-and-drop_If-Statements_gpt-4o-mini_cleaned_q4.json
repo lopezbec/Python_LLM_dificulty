@@ -1,0 +1,10 @@
+{
+  "difficulty": 4,
+  "question": "Construct a valid conditional statement: if (y < 10) then { _____ }.",
+  "options": [
+    "print('y is less than 10')",
+    "y = 10",
+    "y > 10"
+  ],
+  "correct_answer": "print('y is less than 10')"
+}

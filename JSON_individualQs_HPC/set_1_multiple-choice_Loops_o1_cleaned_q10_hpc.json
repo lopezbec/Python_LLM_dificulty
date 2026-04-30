@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "list of squares from 0 to 999",
+        "while loop",
+        "for loop",
+        "list.append(x*x)",
+        "[x*x for x in range(1000)]",
+        "generator expression",
+        "list()"
+    ]
+}

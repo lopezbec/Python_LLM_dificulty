@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if-statement can be used to execute a block of code if a specified condition is true.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "The syntax of an if-statement in Python always requires a colon at the end of the condition.",
+    "answer": true
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, an if-statement can only check for equality conditions.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "An if-statement in Python can have multiple elif parts to check additional conditions.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "If-statements in Python require an else part.",
+    "answer": false
+  },
+  {
+    "difficulty": 6,
+    "question": "Python if-statements can only compare integer values.",
+    "answer": false
+  },
+  {
+    "difficulty": 7,
+    "question": "The following code will cause an error: 'if True print('yes'):'.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "The else part of an if-else structure executes when the if condition is true.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, nested if-statements allow you to place an if-statement inside another if-statement.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "The expression inside an if-statement's condition must always return a boolean value.",
+    "answer": false
+  }
+]

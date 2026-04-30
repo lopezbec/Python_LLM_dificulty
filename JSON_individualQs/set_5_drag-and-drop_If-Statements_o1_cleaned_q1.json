@@ -1,0 +1,14 @@
+{
+  "question": "Drag and drop the correct condition to check if 'x' is greater than 3.",
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "codeSnippet": "x = 5\nif ( {CONDITION} ):\n    print(\"x is greater than 3\")",
+  "dragItems": [
+    "x > 3",
+    "x == 3",
+    "x < 3"
+  ],
+  "correctAnswer": [
+    "x > 3"
+  ]
+}

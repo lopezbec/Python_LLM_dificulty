@@ -1,0 +1,14 @@
+{
+  "number": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "prompt": "Complete the code with the correct logical operator so 'Valid' prints only if x is between 10 and 20 (inclusive). Drag the operator into the blank.",
+  "code": "x = 15\nif 10 <= x __________ x <= 20:\n    print(\"Valid\")",
+  "choices": [
+    "and",
+    "or",
+    "not",
+    "=="
+  ],
+  "correct_choice": "and"
+}

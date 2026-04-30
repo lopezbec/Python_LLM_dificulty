@@ -1,0 +1,34 @@
+{
+  "question": "Drag and drop the correct keyword and operator to determine if a given year is a leap year.",
+  "difficulty": 8,
+  "code": "year = 2020\n__1__ (year % 400 == 0) __2__ (year % 4 == 0 and year % 100 != 0):\n    print(\"Leap Year\")\n__3__:\n    print(\"Not a Leap Year\")",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "id": "__2__",
+      "correctAnswer": "or",
+      "possibleAnswers": [
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "id": "__3__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "else",
+        "except"
+      ]
+    }
+  ]
+}

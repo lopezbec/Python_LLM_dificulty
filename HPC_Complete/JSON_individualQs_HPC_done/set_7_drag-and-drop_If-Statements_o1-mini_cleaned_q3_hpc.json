@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if temperature > 30:\n___ print(\"It's a hot day\")\nprint(\"Stay hydrated\")",
+        "temperature",
+        "print",
+        "Drag the correct indentation to complete the if-statement",
+        "    ",
+        "        ",
+        "No indentation",
+        "Invalid indentation"
+    ]
+}

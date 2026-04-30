@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "Loops",
+  "question": "Drag and drop to arrange the components in the correct order to form a valid for loop header that iterates 5 times.",
+  "instructions": "Drag the components into the correct sequence.",
+  "code": "Rearrange the following components:\n[for, i, in, range(5)]",
+  "drag_items": [
+    "for",
+    "i",
+    "in",
+    "range(5)"
+  ],
+  "correct_answers": [
+    "for",
+    "i",
+    "in",
+    "range(5)"
+  ]
+}

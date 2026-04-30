@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Drag the correct statement into the blank to skip printing even numbers.",
+  "codeSnippet": "for i in range(5):\n    if i % 2 == 0:\n        ____\n    print(i)",
+  "options": [
+    "continue",
+    "break",
+    "pass"
+  ],
+  "correctAnswer": "continue"
+}

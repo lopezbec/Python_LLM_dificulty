@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "topic": "loops",
+  "question": "Arrange the code lines to form a for loop that calculates the sum of numbers in a list and then prints the total.",
+  "instructions": "Drag and drop the following snippets to complete the program.",
+  "items": [
+    {
+      "id": "A",
+      "text": "total = 0"
+    },
+    {
+      "id": "B",
+      "text": "for num in [1, 2, 3, 4, 5]:"
+    },
+    {
+      "id": "C",
+      "text": "    total += num"
+    },
+    {
+      "id": "D",
+      "text": "print(total)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}

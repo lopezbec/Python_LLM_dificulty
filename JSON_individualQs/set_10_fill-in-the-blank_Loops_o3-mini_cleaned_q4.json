@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: To exit a loop before it naturally finishes, you include the ______ statement inside the loop.",
+  "answer": "break"
+}

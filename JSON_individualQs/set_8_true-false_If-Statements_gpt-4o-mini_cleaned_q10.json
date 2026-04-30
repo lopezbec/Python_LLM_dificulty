@@ -1,0 +1,5 @@
+{
+  "question": "An if-statement can handle non-boolean values directly, without evaluating their truthiness.",
+  "answer": false,
+  "difficulty": 10
+}

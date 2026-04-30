@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 4",
+        "if x % 2 == 0 and x < 5:",
+        "print(\"Small even\")",
+        "elif x % 2 == 0 and x < 10:",
+        "print(\"Medium even\")",
+        "else:",
+        "print(\"Other\")",
+        "x"
+    ]
+}

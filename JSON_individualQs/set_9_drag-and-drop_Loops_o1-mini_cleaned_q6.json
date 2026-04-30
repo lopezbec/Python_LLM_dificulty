@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "loops",
+  "question": "Complete the `while` loop to calculate the factorial of a number `n`.",
+  "code": "result = 1\nwhile n > 0:\n    result *= __\n    __ -= 1\nprint(result)",
+  "options": [
+    "n",
+    "n",
+    "n",
+    "i"
+  ],
+  "answers": {
+    "blank1": "n",
+    "blank2": "n"
+  }
+}

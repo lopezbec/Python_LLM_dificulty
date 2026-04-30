@@ -1,0 +1,8 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blanks to perform a check if 'temperature' is under 0 or over 100:\n\n```python\nif temperature _____ 0 _____ temperature > 100:\n    print('Temperature out of range')\n```",
+  "blanks": [
+    "<",
+    "or"
+  ]
+}

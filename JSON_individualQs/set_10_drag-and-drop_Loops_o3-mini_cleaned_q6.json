@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "Loops",
+  "question": "Drag and drop the correct indentation to fix the for loop that prints numbers.",
+  "instructions": "Drag the correct number of spaces to indent the print statement.",
+  "code": "for i in range(3):\n___print(i)",
+  "drag_items": [
+    "4 spaces",
+    "2 spaces",
+    "8 spaces"
+  ],
+  "correct_answers": {
+    "___": "4 spaces"
+  }
+}

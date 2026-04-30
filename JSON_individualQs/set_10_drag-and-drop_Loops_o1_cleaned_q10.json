@@ -1,0 +1,24 @@
+{
+  "question": "Drag and drop the code blocks to make a list of squares (except for 5), then print them in reverse order.",
+  "question_type": "drag-and-drop",
+  "difficulty": 10,
+  "instructions": "Arrange the blocks so that the code skips squaring the number 5, stores other squares, and prints them in reverse.",
+  "code_blocks": [
+    "if n == 5:",
+    "for val in reversed(squares):",
+    "squares = []",
+    "for n in range(10):",
+    "squares.append(n*n)",
+    "continue",
+    "print(val)"
+  ],
+  "correct_order": [
+    "squares = []",
+    "for n in range(10):",
+    "if n == 5:",
+    "continue",
+    "squares.append(n*n)",
+    "for val in reversed(squares):",
+    "print(val)"
+  ]
+}

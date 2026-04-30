@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be the output of the following code?\n\nx = 5\nif x < 10:\n    if x % 2 == 0:\n        print('Even')\n    else:\n        print('Odd')",
+  "options": [
+    "Even",
+    "Odd",
+    "Error",
+    "No output"
+  ],
+  "correct_answer": "Odd"
+}

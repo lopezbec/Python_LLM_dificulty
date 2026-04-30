@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "if x > 5: pass\nelse if x < 5: pass",
+    "if x > 5: pass\nelif x < 5: pass\nelse: pass",
+    "if x > 5 then pass\nelif x < 5 then pass",
+    "if x > 5: pass\nelif: x < 5: pass\nelse: pass"
+  ]
+}

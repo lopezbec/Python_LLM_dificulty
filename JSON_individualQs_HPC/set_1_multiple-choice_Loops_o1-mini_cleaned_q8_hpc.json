@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "result = []",
+        "for x in range(5):",
+        "result.append(x * 2)",
+        "result = [x * 2 for x in range(5)]",
+        "result = [x + 2 for x in range(5)]",
+        "result = [2 * x for x in range(5)]"
+    ]
+}

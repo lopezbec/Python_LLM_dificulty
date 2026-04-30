@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 3",
+        "if (x > 5) and not (x > 10):",
+        "print(\"Case 1\")",
+        "elif (x > 1) or (x == 3):",
+        "print(\"Case 2\")",
+        "else:",
+        "print(\"Case 3\")",
+        "x"
+    ]
+}

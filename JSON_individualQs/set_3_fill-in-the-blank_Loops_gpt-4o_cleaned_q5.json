@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "To iterate through a list 'colors', you can use the syntax 'for color in ___:'.",
+  "correct_answer": "colors"
+}

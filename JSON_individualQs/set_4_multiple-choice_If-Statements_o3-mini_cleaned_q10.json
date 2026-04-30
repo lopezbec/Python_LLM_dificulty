@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code that uses nested if-statements and logical operators:\n\nx = 12\ny = 8\nif x > 10:\n    if y < 10:\n        print('A')\n    elif y == 8:\n        print('B')\n    else:\n        print('C')\nelse:\n    print('D')\n\nWhat is the output?",
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "A",
+  "difficulty": 10
+}

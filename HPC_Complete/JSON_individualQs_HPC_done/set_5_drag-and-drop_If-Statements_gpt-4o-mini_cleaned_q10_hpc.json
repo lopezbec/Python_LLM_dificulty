@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if input_type == 'text':",
+        "print('Processing text...')",
+        "elif input_type == 'number':",
+        "print('Processing number...')",
+        "elif input_type == 'boolean':",
+        "print('Processing boolean...')",
+        "else:",
+        "print('Unknown input type')"
+    ]
+}

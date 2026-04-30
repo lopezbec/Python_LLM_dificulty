@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank to start a Python conditional statement that checks if x is greater than 10:\n\n______ x > 10:",
+  "answer": "if"
+}

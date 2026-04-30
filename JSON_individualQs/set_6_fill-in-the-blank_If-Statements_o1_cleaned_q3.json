@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank to combine these conditions: if 5 < x ___ x < 10: print(\"x is between 5 and 10\").",
+  "answer": "and"
+}

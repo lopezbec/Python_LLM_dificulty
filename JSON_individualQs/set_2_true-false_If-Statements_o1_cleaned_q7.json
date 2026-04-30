@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can write a single-line if-statement in Python by placing the action on the same line after a colon.",
+  "correct_answer": "True"
+}

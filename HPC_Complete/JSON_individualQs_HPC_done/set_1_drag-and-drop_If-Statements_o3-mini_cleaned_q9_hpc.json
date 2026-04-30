@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "if",
+        "a > b:",
+        "if",
+        "a > c:",
+        "print('a is largest')",
+        "elif",
+        "c > a:",
+        "print('c is largest')",
+        "else:",
+        "print('a and c are equal')",
+        "else:",
+        "print('b is largest')"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A nested if-statement is placed inside another if-statement. To check a nested condition only when a > 5, write: if a > 5:\n    if b == 10: __",
+  "answer": "execute code block"
+}

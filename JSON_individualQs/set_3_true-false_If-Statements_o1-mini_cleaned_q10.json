@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Within a loop in Python, the condition of an if-statement is re-evaluated each time the loop iterates.",
+  "answer": true
+}

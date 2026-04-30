@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following will correctly check if a number is even within a loop?",
+  "options": [
+    "for i in range(10):\n    if i / 2 == 0:\n        print(i)",
+    "for i in range(10):\n    if i % 2 = 0:\n        print(i)",
+    "for i in range(10):\n    if i % 2 == 0:\n        print(i)",
+    "for i in range(10):\n    if i // 2 == 0:\n        print(i)"
+  ],
+  "answer": "C"
+}

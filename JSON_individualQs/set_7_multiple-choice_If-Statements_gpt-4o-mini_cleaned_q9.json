@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will the output of this code be? \n\nx = 'Python'\nif x == 'Python' and len(x) > 5:\n    print('Correct')\nelse:\n    print('Incorrect')",
+  "options": [
+    "Correct",
+    "Incorrect",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Correct"
+}

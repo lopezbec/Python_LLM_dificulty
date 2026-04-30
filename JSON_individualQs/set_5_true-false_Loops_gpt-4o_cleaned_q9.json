@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "A 'while' loop's condition is evaluated only once, at the beginning of the loop.",
+  "correct_answer": false
+}

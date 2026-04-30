@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "flattened = []",
+        "for sublist in list_of_lists:",
+        "for item in ___:",
+        "flattened.append(item)",
+        "sublist",
+        "list_of_lists",
+        "range(len(sublist))",
+        "[item for item in sublist]"
+    ]
+}

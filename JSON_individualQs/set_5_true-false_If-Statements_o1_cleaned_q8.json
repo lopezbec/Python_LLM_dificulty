@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Python treats non-zero numbers and non-empty containers as True in an if statement.",
+  "correct_answer": "True"
+}

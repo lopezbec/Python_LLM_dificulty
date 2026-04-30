@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 1,
+    "question": "Arrange the following lines to form a basic `if` statement in Python.",
+    "options": [
+      "if condition:",
+      "    print(\"Condition is True\")"
+    ],
+    "correct_order": [
+      "if condition:",
+      "    print(\"Condition is True\")"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 2,
+    "question": "Drag and drop the keywords to complete the `if-else` statement in Python.",
+    "options": [
+      "else:",
+      "if temperature > 30",
+      "    print(\"It's hot\")",
+      "    print(\"It's cool\")"
+    ],
+    "correct_order": [
+      "if temperature > 30",
+      "    print(\"It's hot\")",
+      "else:",
+      "    print(\"It's cool\")"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 3,
+    "question": "Match the conditions with the corresponding actions in the `if` statement.",
+    "options": [
+      "age >= 18",
+      "    print(\"Adult\")",
+      "age < 18",
+      "    print(\"Minor\")"
+    ],
+    "correct_matches": {
+      "age >= 18": "    print(\"Adult\")",
+      "age < 18": "    print(\"Minor\")"
+    }
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 4,
+    "question": "Arrange the following lines to create a nested `if` statement.",
+    "options": [
+      "if x > 0:",
+      "    if x % 2 == 0:",
+      "        print(\"Positive even number\")",
+      "    else:",
+      "        print(\"Positive odd number\")",
+      "else:",
+      "    print(\"Non-positive number\")"
+    ],
+    "correct_order": [
+      "if x > 0:",
+      "    if x % 2 == 0:",
+      "        print(\"Positive even number\")",
+      "    else:",
+      "        print(\"Positive odd number\")",
+      "else:",
+      "    print(\"Non-positive number\")"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 5,
+    "question": "Drag the components to complete the `elif` structure in the following Python code.",
+    "options": [
+      "elif score >= 70:",
+      "    print(\"Good\")",
+      "if score >= 90:",
+      "    print(\"Excellent\")",
+      "elif score >= 80:",
+      "    print(\"Very Good\")",
+      "else:",
+      "    print(\"Needs Improvement\")"
+    ],
+    "correct_order": [
+      "if score >= 90:",
+      "    print(\"Excellent\")",
+      "elif score >= 80:",
+      "    print(\"Very Good\")",
+      "elif score >= 70:",
+      "    print(\"Good\")",
+      "else:",
+      "    print(\"Needs Improvement\")"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 6,
+    "question": "Arrange the following to implement a ternary `if` statement in Python.",
+    "options": [
+      "result = \"Yes\"",
+      "if condition",
+      "else \"No\"",
+      "result = \"No\""
+    ],
+    "correct_order": [
+      "result = \"Yes\" if condition else \"No\""
+    ]
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 7,
+    "question": "Drag and drop to complete the function with multiple `if-elif-else` conditions.",
+    "options": [
+      "def categorize_number(n):",
+      "    if n > 0:",
+      "        return \"Positive\"",
+      "    elif n < 0:",
+      "        return \"Negative\"",
+      "    else:",
+      "        return \"Zero\""
+    ],
+    "correct_order": [
+      "def categorize_number(n):",
+      "    if n > 0:",
+      "        return \"Positive\"",
+      "    elif n < 0:",
+      "        return \"Negative\"",
+      "    else:",
+      "        return \"Zero\""
+    ]
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 8,
+    "question": "Arrange the following to handle multiple conditions using logical operators in an `if` statement.",
+    "options": [
+      "if age >= 18 and citizen:",
+      "    print(\"Eligible to vote\")",
+      "age = 20",
+      "citizen = True"
+    ],
+    "correct_order": [
+      "age = 20",
+      "citizen = True",
+      "if age >= 18 and citizen:",
+      "    print(\"Eligible to vote\")"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 9,
+    "question": "Drag to complete the `if` statement that checks for membership in a list.",
+    "options": [
+      "fruits = [\"apple\", \"banana\", \"cherry\"]",
+      "if \"banana\" in fruits:",
+      "    print(\"Banana is available\")",
+      "else:",
+      "    print(\"Banana is not available\")"
+    ],
+    "correct_order": [
+      "fruits = [\"apple\", \"banana\", \"cherry\"]",
+      "if \"banana\" in fruits:",
+      "    print(\"Banana is available\")",
+      "else:",
+      "    print(\"Banana is not available\")"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "topic": "if-statements",
+    "difficulty": 10,
+    "question": "Arrange the following lines to implement error handling using `if` statements in a function.",
+    "options": [
+      "def divide(a, b):",
+      "    if b == 0:",
+      "        return \"Error: Division by zero\"",
+      "    else:",
+      "        return a / b",
+      "",
+      "",
+      ""
+    ],
+    "correct_order": [
+      "def divide(a, b):",
+      "    if b == 0:",
+      "        return \"Error: Division by zero\"",
+      "    else:",
+      "        return a / b"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "instruction": "Fill in the code to check if x is between 0 and 10 or y is 50. Print \"Condition met\" if true, otherwise \"Condition not met\".",
+  "code_with_blanks": "x = 7\ny = 40\n_____ 0 <= x <= 10 _____ y == 50 _____\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "or",
+    "and",
+    ":",
+    "="
+  ],
+  "correct_sequence": [
+    "if",
+    "or",
+    ":"
+  ],
+  "explanation": "Use 'if' to start the condition, 'or' for the second part, and ':' to begin the block."
+}

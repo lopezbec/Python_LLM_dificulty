@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "In Python, the 'else' block in a 'for' or 'while' loop executes only if:",
+  "options": [
+    "The loop runs at least one iteration",
+    "A 'break' statement was encountered",
+    "No 'break' statement was encountered during the loop",
+    "The loop has an infinite iteration"
+  ],
+  "correct_answer": "No 'break' statement was encountered during the loop"
+}

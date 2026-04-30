@@ -1,0 +1,12 @@
+{
+  "difficulty": 2,
+  "question": "What is the significance of indentation in Python's if statements?",
+  "choices": [
+    "A) It is optional and has no effect on program flow.",
+    "B) It is used arbitrarily to align code.",
+    "C) It defines the block of code controlled by the if statement.",
+    "D) It improves readability but is not enforced."
+  ],
+  "correct_answer": "C",
+  "explanation": "Python uses indentation to group lines of code. Code at the same indentation level belongs to the same block."
+}

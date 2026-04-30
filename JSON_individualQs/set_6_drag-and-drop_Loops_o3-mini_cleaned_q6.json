@@ -1,0 +1,24 @@
+{
+  "question_id": 6,
+  "difficulty": 6,
+  "question_text": "Drag and drop the correct items into the blanks to create a for loop that prints the square of numbers from 1 to 3.",
+  "code_snippet": "for num in ____(1, 4):\n    print(num ____ 2)",
+  "draggable_items": {
+    "blank1": [
+      "range",
+      "list",
+      "tuple",
+      "map"
+    ],
+    "blank2": [
+      "**",
+      "^",
+      "pow",
+      "*"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "range",
+    "blank2": "**"
+  }
+}

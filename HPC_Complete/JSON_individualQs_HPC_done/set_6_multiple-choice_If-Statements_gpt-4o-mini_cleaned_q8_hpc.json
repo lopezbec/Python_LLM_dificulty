@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "number = 0",
+        "if number:",
+        "print('True')",
+        "else:",
+        "print('False')",
+        "number",
+        "'True'",
+        "'False'",
+        "'Error'",
+        "'None'"
+    ]
+}

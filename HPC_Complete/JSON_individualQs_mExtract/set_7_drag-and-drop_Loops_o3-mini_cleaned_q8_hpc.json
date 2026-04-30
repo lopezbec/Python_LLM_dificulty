@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "j",
+    "\n\nfor i in range(3):\n    for j in range(3):\n        __\n        print(i, j)",
+    "if j == 1:\n            break",
+    "if j == 1:\n    break",
+    "if j == 1:\n\tbreak"
+  ]
+}

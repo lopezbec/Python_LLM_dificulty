@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is the proper syntax for a basic if-statement in Python?",
+  "options": [
+    "if x > 0: print('Positive')",
+    "if (x > 0) then: print('Positive')",
+    "if x > 0 print('Positive')",
+    "if (x > 0) { print('Positive') }"
+  ],
+  "answer": "if x > 0: print('Positive')"
+}

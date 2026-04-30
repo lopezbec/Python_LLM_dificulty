@@ -1,0 +1,21 @@
+{
+  "question": "Drag and drop the code blocks to keep asking for user input until 'exit' is typed.",
+  "question_type": "drag-and-drop",
+  "difficulty": 6,
+  "instructions": "Arrange the blocks so that the loop continuously requests input and stops when 'exit' is entered.",
+  "code_blocks": [
+    "if user_input == 'exit':",
+    "continue",
+    "while True:",
+    "print('You entered:', user_input)",
+    "user_input = input('Enter something: ')",
+    "break"
+  ],
+  "correct_order": [
+    "while True:",
+    "user_input = input('Enter something: ')",
+    "if user_input == 'exit':",
+    "break",
+    "print('You entered:', user_input)"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the following lines to form a simple `for` loop that prints numbers from 1 to 3.",
+  "options": [
+    "for i in range(1, 4):",
+    "    print(i)"
+  ],
+  "correct_order": [
+    0,
+    1
+  ]
+}

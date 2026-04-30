@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Drag and drop to create a loop that uses continue:\n `for i in range(5):`\n` if ___:`\n` continue`",
+  "options": [
+    "i == 1",
+    "i != 2",
+    "i < 0",
+    "i == 4"
+  ],
+  "correctOption": "i == 1"
+}

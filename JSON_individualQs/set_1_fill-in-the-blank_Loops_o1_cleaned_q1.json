@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "type": "fill-in-the-blank",
+  "difficulty": 1,
+  "question": "In Python, a ______ loop runs until a certain condition is no longer met.",
+  "correct_answer": "while"
+}

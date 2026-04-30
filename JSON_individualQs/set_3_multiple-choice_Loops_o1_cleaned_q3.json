@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which statement accurately describes how a 'while' loop functions in Python?",
+  "choices": {
+    "A": "It always runs at least once.",
+    "B": "It continues until its condition becomes False.",
+    "C": "It cannot contain a 'break' statement.",
+    "D": "It always requires an 'else' clause."
+  },
+  "correct_answer": "B"
+}

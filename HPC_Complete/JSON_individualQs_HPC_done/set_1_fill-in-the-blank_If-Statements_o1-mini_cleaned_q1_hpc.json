@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "number = 10",
+        "if ___ > 0:",
+        "print(\"Positive\")"
+    ]
+}

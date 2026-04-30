@@ -1,0 +1,21 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "question": "Fill in the two blanks to skip printing when i == j, and break out of the inner loop when j == 2, but continue the outer loop.",
+  "codeSnippet": "for i in range(4):\n    for j in range(4):\n        if i == j:\n            [___]\n        if j == 2:\n            [___]\n        print(i, j)",
+  "dragItems": [
+    "continue",
+    "break",
+    "pass",
+    "i += 1"
+  ],
+  "answerSlots": [
+    "[___]",
+    "[___]"
+  ],
+  "correctAnswer": [
+    "continue",
+    "break"
+  ],
+  "explanation": "Use 'continue' to skip printing when i == j, and 'break' to end the inner loop when j == 2, resuming with the next value of i."
+}

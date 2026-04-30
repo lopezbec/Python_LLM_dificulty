@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Arrange the following statements to create a correct if-else chain:\n\nif (x < 0):\n    ____\nelif (x == 0):\n    ____\nelse:\n    ____",
+  "options": [
+    "print('Negative')",
+    "print('Zero')",
+    "print('Positive')"
+  ],
+  "correct_answers": [
+    "print('Negative')",
+    "print('Zero')",
+    "print('Positive')"
+  ]
+}

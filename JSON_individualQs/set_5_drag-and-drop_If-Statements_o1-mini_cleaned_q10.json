@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to implement a nested if statement that determines the type of triangle based on its sides.\n\ndef classify_triangle(a, b, c):\n    if a == b and b == c:\n        ___(1)___(\"Equilateral\")\n    elif a == b or b == c or a == c:\n        ___(2)___(\"Isosceles\")\n    else:\n        ___(3)___(\"Scalene\")",
+  "options": [
+    "print",
+    "return",
+    "elif",
+    "if",
+    "else",
+    "pass"
+  ],
+  "answers": {
+    "1": "print",
+    "2": "print",
+    "3": "print"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "You must use an iterable object in a 'for' loop in Python.",
+  "answer": true
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, if the if condition evaluates to False, the code inside the else block (if provided) will be executed.",
+  "answer": true
+}

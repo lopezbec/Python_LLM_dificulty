@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the following snippets to create a for-loop that iterates through numbers 0 to 4 but exits the loop when i equals 3 using a break statement.",
+  "prompt": "Drag and drop the items in the correct order to create a for-loop with a conditional break.",
+  "dragItems": [
+    "for i in range(5):",
+    "    if i == 3:",
+    "        break",
+    "    print(i)"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "for i in range(5):",
+    "    if i == 3:",
+    "        break",
+    "    print(i)"
+  ]
+}

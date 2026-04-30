@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "password",
+        "len(password) ___ 8",
+        "'secure' ___ password",
+        "password = 'mysecurepassword'",
+        "if ( len(password) ___ 8 and 'secure' ___ password ):",
+        "print('Valid password')",
+        ">",
+        "<",
+        "==",
+        "in",
+        "not in"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "count = 0",
+        "while count < 3:",
+        "print(count)",
+        "count += 1",
+        "count",
+        "A. It prints 1, 2, 3",
+        "B. It prints 0, 1, 2",
+        "C. It prints 0, 1, 2, 3",
+        "D. It results in an infinite loop"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "prompt": "Drag and drop to complete the nested if\u2010statement. If temperature is greater than 30, then check if humidity is greater than 70. If so, print 'Hot and Humid', otherwise print 'Hot'.",
+  "drag_items": [
+    "if",
+    "temperature > 30:",
+    "if",
+    "humidity > 70:",
+    "print('Hot and Humid')",
+    "else:",
+    "print('Hot')"
+  ],
+  "correct_order": [
+    "if",
+    "temperature > 30:",
+    "if",
+    "humidity > 70:",
+    "print('Hot and Humid')",
+    "else:",
+    "print('Hot')"
+  ],
+  "explanation": "After checking temperature, the nested if determines whether additional conditions (humidity) need to modify the output."
+}

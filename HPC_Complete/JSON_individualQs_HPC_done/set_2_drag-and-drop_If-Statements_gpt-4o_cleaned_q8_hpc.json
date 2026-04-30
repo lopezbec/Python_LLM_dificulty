@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "temperature",
+        "temperature = 35",
+        "if temperature < 0 ______ temperature ______ 30:",
+        "print('Extreme weather')",
+        "or",
+        "and",
+        "<",
+        ">",
+        "<="
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "1) Which keyword is used in Python to begin a simple conditional check?",
+  "difficulty": 1,
+  "options": {
+    "a": "for",
+    "b": "if",
+    "c": "while",
+    "d": "def"
+  },
+  "correct_answer": "b"
+}

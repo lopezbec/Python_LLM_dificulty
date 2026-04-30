@@ -1,0 +1,25 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "prompt": "Complete the nested if-statement to determine whether x is a positive even number or a positive odd number.",
+  "code_with_placeholders": [
+    "x = 10",
+    "if x > 0:",
+    "    [__keyword__] x % 2 == 0:",
+    "        print(\"Positive even\")",
+    "    else:",
+    "        print(\"Positive odd\")",
+    "else:",
+    "    print(\"Non-positive number\")"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "else",
+    "while"
+  ],
+  "correct_answer": {
+    "__keyword__": "if"
+  }
+}

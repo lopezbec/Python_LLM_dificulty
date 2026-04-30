@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Using a loop to iterate over an infinite range in Python will never end unless externally interrupted.",
+  "answer": true
+}

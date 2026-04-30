@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To check if a list 'lst' is non-empty within an if-statement, use: if _____(lst):",
+  "answer": "len"
+}

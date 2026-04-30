@@ -1,0 +1,15 @@
+{
+  "difficulty": 7,
+  "description": "Complete the nested if-statements to print 'Qualified' if conditions are met.",
+  "premise": "temperature = 75\nstatus = 'active'\n\nif __:\n    if __:\n        print('Qualified')",
+  "options": [
+    "temperature > 70",
+    "status == 'active'",
+    "temperature < 70",
+    "status != 'active'"
+  ],
+  "correct_answer": [
+    "temperature > 70",
+    "status == 'active'"
+  ]
+}

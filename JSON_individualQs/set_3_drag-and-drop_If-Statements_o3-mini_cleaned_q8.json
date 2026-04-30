@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Complete the conditional statement by dragging the appropriate comparison operator:\n\nif temperature ___ 0:\n    print('Freezing')",
+  "dragItems": [
+    "<=",
+    ">",
+    "=="
+  ],
+  "dropZones": {
+    "operator": "Drop the correct operator here"
+  },
+  "correctMapping": {
+    "operator": "<="
+  }
+}

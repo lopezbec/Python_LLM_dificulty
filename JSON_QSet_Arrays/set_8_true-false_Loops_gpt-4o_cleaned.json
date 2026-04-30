@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A 'while' loop in Python will continue to execute as long as the condition is 'True'.",
+    "difficulty": 1,
+    "answer": "True"
+  },
+  {
+    "question": "For loops in Python can only iterate over lists.",
+    "difficulty": 2,
+    "answer": "False"
+  },
+  {
+    "question": "The 'break' statement immediately terminates a loop, even if the loop condition is still True.",
+    "difficulty": 3,
+    "answer": "True"
+  },
+  {
+    "question": "The 'continue' statement will cause the loop to skip the remaining code inside the loop block and restart from the beginning of the loop with the next iteration.",
+    "difficulty": 4,
+    "answer": "True"
+  },
+  {
+    "question": "A for loop must always include the 'else' clause.",
+    "difficulty": 5,
+    "answer": "False"
+  },
+  {
+    "question": "A loop can be nested inside another loop without any syntax errors.",
+    "difficulty": 6,
+    "answer": "True"
+  },
+  {
+    "question": "A 'for' loop in Python automatically generates a sequence of numbers for iteration if no iterable is provided.",
+    "difficulty": 7,
+    "answer": "False"
+  },
+  {
+    "question": "Using 'break' inside a nested loop will only terminate the innermost loop.",
+    "difficulty": 8,
+    "answer": "True"
+  },
+  {
+    "question": "In Python, you can modify the loop variable within the loop using arithmetic operations like +=, and it will affect the loop's control.",
+    "difficulty": 9,
+    "answer": "False"
+  },
+  {
+    "question": "When iterating through a dictionary, using a loop will always provide both key and value by default.",
+    "difficulty": 10,
+    "answer": "False"
+  }
+]

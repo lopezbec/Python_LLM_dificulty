@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is a correctly formatted Python 'for' loop?",
+  "options": [
+    "A) for i in range(5): print(i)",
+    "B) for(i=0; i<5; i++): print(i)",
+    "C) foreach i in 5: print(i)",
+    "D) loop i from 0 to 5 print(i)"
+  ],
+  "answer": "A"
+}

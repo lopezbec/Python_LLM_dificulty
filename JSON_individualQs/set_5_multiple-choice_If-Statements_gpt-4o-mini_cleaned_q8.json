@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What will the following code produce?\nif (5 == 5) and (3 > 2):\n    print('Both conditions are true')\nelse:\n    print('At least one condition is false')",
+  "options": {
+    "A": "Both conditions are true",
+    "B": "At least one condition is false",
+    "C": "Nothing",
+    "D": "Error"
+  },
+  "correct_answer": "A"
+}

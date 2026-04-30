@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will the following code output?\n\nnumbers = [1, 2, 3]\nfor i in range(len(numbers)):\n    numbers[i] = numbers[i] * 2\nprint(numbers)",
+  "options": [
+    "[1, 2, 3]",
+    "[2, 4, 6]",
+    "[1, 4, 9]",
+    "[1, 2, 3, 2, 4, 6]"
+  ],
+  "correct_answer": "[2, 4, 6]"
+}

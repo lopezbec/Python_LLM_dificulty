@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of a 'for' loop in Python?",
+    "options": {
+      "A": "To define a function",
+      "B": "To iterate over a sequence",
+      "C": "To handle exceptions",
+      "D": "To import modules"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "Which keyword is used to exit a loop prematurely in Python?",
+    "options": {
+      "A": "exit",
+      "B": "break",
+      "C": "continue",
+      "D": "stop"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)",
+    "options": {
+      "A": "0 1 2 3",
+      "B": "1 2 3",
+      "C": "0 1 2",
+      "D": "1 2"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "Which statement correctly skips the current iteration and moves to the next one in a loop?",
+    "options": {
+      "A": "break",
+      "B": "pass",
+      "C": "continue",
+      "D": "skip"
+    },
+    "answer": "C",
+    "difficulty": 4
+  },
+  {
+    "id": 5,
+    "question": "How can you create a loop that runs indefinitely until explicitly broken?",
+    "options": {
+      "A": "for i in endless:",
+      "B": "while True:",
+      "C": "loop forever:",
+      "D": "repeat until false:"
+    },
+    "answer": "B",
+    "difficulty": 5
+  },
+  {
+    "id": 6,
+    "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 5:\n    print(count)\n    count += 1\nelse:\n    print('Done')",
+    "options": {
+      "A": "0 1 2 3 4",
+      "B": "0 1 2 3 4 Done",
+      "C": "1 2 3 4 5 Done",
+      "D": "0 1 2 3 4 5"
+    },
+    "answer": "B",
+    "difficulty": 6
+  },
+  {
+    "id": 7,
+    "question": "Which of the following loop constructs is best suited for iterating over the keys of a dictionary in Python?",
+    "options": {
+      "A": "for key in dict.values():",
+      "B": "for key in dict.keys():",
+      "C": "for key in dict.items():",
+      "D": "for key in dict:"
+    },
+    "answer": "D",
+    "difficulty": 7
+  },
+  {
+    "id": 8,
+    "question": "What will be the result of the following code?\n\nresult = [x*2 for x in range(3) if x > 0]\nprint(result)",
+    "options": {
+      "A": "[0, 2, 4]",
+      "B": "[2, 4, 6]",
+      "C": "[2, 4]",
+      "D": "[1, 2]"
+    },
+    "answer": "C",
+    "difficulty": 8
+  },
+  {
+    "id": 9,
+    "question": "Consider the following nested loop. How many times will 'Hello' be printed?\n\nfor i in range(2):\n    for j in range(3):\n        print('Hello')",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "D",
+    "difficulty": 9
+  },
+  {
+    "id": 10,
+    "question": "What is the output of the following generator expression when converted to a list?\n\ngen = (x**2 for x in range(4) if x % 2 == 0)\nprint(list(gen))",
+    "options": {
+      "A": "[0, 1, 4]",
+      "B": "[0, 4]",
+      "C": "[0, 4, 16]",
+      "D": "[0, 1, 4, 9]"
+    },
+    "answer": "B",
+    "difficulty": 10
+  }
+]

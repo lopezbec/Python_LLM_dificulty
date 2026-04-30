@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What will happen if you forget the indentation inside an if statement in Python?",
+  "answers": {
+    "A": "The code will still run without error.",
+    "B": "Python will continue execution with unpredictable behavior.",
+    "C": "Python raises an IndentationError.",
+    "D": "The if statement\u2019s body will become part of the else clause."
+  },
+  "correctAnswer": "C"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Python, an if-statement is used to execute a block of code only if the specified condition is true.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "The syntax for an if-statement in Python requires a colon at the end of the condition declaration.",
+    "answer": true,
+    "difficulty": 2
+  },
+  {
+    "question": "An elif clause can be used to specify multiple conditions in an if-statement.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "The default condition for an if-statement in Python is 'false' if not explicitly defined.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "You can have multiple if-statements in a single block, but only one if-statement can be executed at a time.",
+    "answer": false,
+    "difficulty": 5
+  },
+  {
+    "question": "In Python, using 'if x = 10:' will correctly check if x is equal to 10.",
+    "answer": false,
+    "difficulty": 6
+  },
+  {
+    "question": "If a condition in an if-statement evaluates to false, the code block under the if will always run.",
+    "answer": false,
+    "difficulty": 7
+  },
+  {
+    "question": "To check if a variable x is not equal to 5, you would write: if x != 5:.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "In nested if-statements, you can place an if inside another if without any restrictions.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "An if-statement can only evaluate expressions of data type integer.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

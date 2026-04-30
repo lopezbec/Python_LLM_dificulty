@@ -1,0 +1,13 @@
+{
+  "difficulty": 2,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "Which of the following is the correct syntax for an if-statement in Python?",
+  "options": [
+    "if (x == 10)",
+    "if x == 10:",
+    "if x = 10:",
+    "if x 10 then:"
+  ],
+  "correct_answer": "if x == 10:"
+}

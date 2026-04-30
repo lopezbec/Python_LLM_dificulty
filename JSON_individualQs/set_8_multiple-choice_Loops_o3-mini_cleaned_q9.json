@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following statements about Python's for loop is true?",
+  "options": {
+    "A": "The loop variable is re-initialized on each iteration.",
+    "B": "The loop variable retains its last value after the loop completes.",
+    "C": "The loop can only iterate over numeric sequences.",
+    "D": "The loop automatically calls the next() function without an iterator."
+  },
+  "correct_answer": "B"
+}

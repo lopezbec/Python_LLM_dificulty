@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "score = 82",
+        "if score >= 90:",
+        "print('Outstanding')",
+        "elif score >= 75 and score < 90:",
+        "print('Good')",
+        "elif score >= 60 and score < 75:",
+        "print('Satisfactory')",
+        "else:",
+        "print('Needs Improvement')",
+        "if score >= 90:",
+        "elif score >= 75 and score < 90:",
+        "elif score >= 60 and score < 75:",
+        "else:"
+    ]
+}

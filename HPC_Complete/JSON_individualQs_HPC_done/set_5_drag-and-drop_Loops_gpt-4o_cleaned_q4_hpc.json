@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "['apple', 'banana', 'cherry']",
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in <blank>: print(fruit)",
+        "fruits",
+        "fruit",
+        "range(fruits)",
+        "range(3)"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question_text": "Rearrange these lines to create a nested loop that prints a triangle of asterisks using range(1, 4).",
+  "choices": [
+    "for i in range(1, 4):",
+    "for j in range(i):",
+    "print('*', end='')",
+    "print()"
+  ],
+  "correct_order": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

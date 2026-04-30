@@ -1,0 +1,6 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question": "A simple if-statement in Python can have multiple else parts.",
+  "correct_answer": "False"
+}

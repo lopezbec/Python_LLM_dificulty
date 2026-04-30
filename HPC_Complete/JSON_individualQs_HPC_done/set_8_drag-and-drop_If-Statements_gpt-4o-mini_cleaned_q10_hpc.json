@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "def rate_quality(q):",
+        "if q >= 90:",
+        "elif q >= 70:",
+        "else:",
+        "return 'Excellent'",
+        "return 'Good'",
+        "return 'Needs improvement'"
+    ]
+}

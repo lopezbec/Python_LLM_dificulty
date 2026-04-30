@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "question": "Python's if statements do not support the use of ternary conditional operators.",
+  "difficulty": 8,
+  "type": "True/False"
+}

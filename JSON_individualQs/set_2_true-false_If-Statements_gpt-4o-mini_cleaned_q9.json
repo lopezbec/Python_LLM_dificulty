@@ -1,0 +1,5 @@
+{
+  "question": "Python allows the use of ternary conditional operators to simplify simple if-else statements, formatted as: x if condition else y.",
+  "answer": true,
+  "difficulty": 9
+}

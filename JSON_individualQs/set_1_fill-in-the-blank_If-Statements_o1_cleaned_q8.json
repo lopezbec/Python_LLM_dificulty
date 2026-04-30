@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank to complete this one-line if-statement that assigns \"Even\" if x % 2 == 0, otherwise \"Odd\":\nresult = \"Even\" ______ x % 2 == 0 else \"Odd\"",
+  "answer": "if"
+}

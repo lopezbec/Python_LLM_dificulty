@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The _____ keyword allows you to create a loop that combines elements from multiple lists.",
+  "answer": "zip"
+}

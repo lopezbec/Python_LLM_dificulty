@@ -1,0 +1,14 @@
+{
+  "number": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "prompt": "Drag the correct keyword to decide which code block runs if 'temperature' is over 100 or if it is not.",
+  "code": "temperature = 105\nif temperature > 100:\n    print(\"Too hot!\")\n________:\n    print(\"Just right!\")",
+  "choices": [
+    "if",
+    "else",
+    "elif",
+    "for"
+  ],
+  "correct_choice": "else"
+}

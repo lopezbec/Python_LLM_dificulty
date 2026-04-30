@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank to check if the variable 'x' is greater than 10: \n\n```python\nif x _____ 10:\n    print('x is greater than 10')\n```",
+    "blank": ">"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank to complete the if-else statement that checks if 'num' is even:\n\n```python\nif num % 2 == 0:\n    print('Even')\nelse:\n    print('_____')\n```",
+    "blank": "Odd"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blanks to check if 'score' is between 50 and 100: \n\n```python\nif _____ <= score _____ <= 100:\n    print('Score is in range')\n```",
+    "blanks": [
+      "50",
+      "<="
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blanks to print 'x is positive' only if 'x' is positive and less than 100:\n\n```python\nif x > 0 _____ x < 100:\n    print('x is positive')\n```",
+    "blank": "and"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank to evaluate whether a variable 'z' is either negative or exactly zero:\n\n```python\nif z _____ 0:\n    print('z is non-positive')\n```",
+    "blank": "<="
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blanks to execute the given code only if 'items' is an empty list:\n\n```python\nif len(items) _____ _____:\n    print('List is empty')\n```",
+    "blanks": [
+      "==",
+      "0"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank to verify whether 'username' starts with the letter 'A':\n\n```python\nif username.startswith('_____'):\n    print('Username starts with A')\n```",
+    "blank": "A"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blanks to perform a check if 'temperature' is under 0 or over 100:\n\n```python\nif temperature _____ 0 _____ temperature > 100:\n    print('Temperature out of range')\n```",
+    "blanks": [
+      "<",
+      "or"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blanks to print 'Invalid input' if 'choice' is neither 'yes' nor 'no':\n\n```python\nif choice _____ 'yes' _____ choice _____ 'no':\n    print('Invalid input')\n```",
+    "blanks": [
+      "!=",
+      "and",
+      "!="
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blanks to create a multi-conditional if statement that checks if 'number' is prime by iterating up to its square root:\n\n```python\nimport math\nis_prime = True\nfor i in range(2, int(math.sqrt(number)) + 1):\n    if number __ i == 0:\n        is_prime = False\n        break\nif is_prime and number > 1:\n    print('Prime number')\n```",
+    "blank": "%"
+  }
+]

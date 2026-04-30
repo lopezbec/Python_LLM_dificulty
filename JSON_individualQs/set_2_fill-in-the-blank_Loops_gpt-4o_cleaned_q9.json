@@ -1,0 +1,5 @@
+{
+  "level": 9,
+  "question": "When dealing with nested loops, using _____ can help avoid confusion by providing more descriptive identifiers for control variables.",
+  "answer": "descriptive variable names"
+}

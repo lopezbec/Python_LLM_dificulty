@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "List comprehensions in Python provide a concise way to apply a loop to each element in a sequence and generate a new list.",
+  "correct_answer": true
+}

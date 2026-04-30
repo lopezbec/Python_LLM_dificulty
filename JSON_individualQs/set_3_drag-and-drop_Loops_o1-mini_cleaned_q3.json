@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "topic": "Loop Components",
+  "question": "Identify the components of the following while loop.",
+  "loop_code": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+  "drag_items": [
+    "Initialization",
+    "Condition",
+    "Loop Body",
+    "Increment"
+  ],
+  "drop_targets": [
+    "count = 0",
+    "count < 5",
+    "print(count)",
+    "count += 1"
+  ],
+  "correct_matches": {
+    "Initialization": "count = 0",
+    "Condition": "count < 5",
+    "Loop Body": "print(count)",
+    "Increment": "count += 1"
+  }
+}

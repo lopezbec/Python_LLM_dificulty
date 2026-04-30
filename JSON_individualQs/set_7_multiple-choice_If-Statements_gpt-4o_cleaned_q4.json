@@ -1,0 +1,11 @@
+{
+  "question": "4. Which keyword is used to write an alternative block of code that executes when an if condition is false?",
+  "difficulty": 4,
+  "options": {
+    "a": "elseif",
+    "b": "alternate",
+    "c": "otherwise",
+    "d": "else"
+  },
+  "correct_answer": "d"
+}

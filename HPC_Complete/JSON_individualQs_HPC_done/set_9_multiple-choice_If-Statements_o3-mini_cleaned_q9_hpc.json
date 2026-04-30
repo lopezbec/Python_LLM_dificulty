@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if x > 5 and x < 10:\n    print('x is between 6 and 9')\nelse:\n    print('x is out of range')",
+        "x"
+    ]
+}

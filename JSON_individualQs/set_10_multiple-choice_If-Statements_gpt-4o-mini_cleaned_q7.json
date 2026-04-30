@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output?\n\n```python\nx = 12\nif x in [5, 10, 15]:\n    print('Found')\nelse:\n    print('Not Found')\n```\n",
+  "options": [
+    "Found",
+    "Not Found",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Not Found",
+  "difficulty": 7
+}

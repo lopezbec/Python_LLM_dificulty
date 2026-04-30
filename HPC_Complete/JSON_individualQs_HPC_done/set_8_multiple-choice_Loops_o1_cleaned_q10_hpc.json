@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "enumerate()",
+        "range()",
+        "zip()",
+        "map()"
+    ]
+}

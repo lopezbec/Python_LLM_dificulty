@@ -1,0 +1,5 @@
+{
+  "question": "To get both index and value while looping over a list, we can use the built-in function ______.",
+  "difficulty": 6,
+  "answer": "enumerate"
+}

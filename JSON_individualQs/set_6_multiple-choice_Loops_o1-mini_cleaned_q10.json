@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "Analyze the following code and determine its time complexity in terms of Big O notation:\n\n```python\ndef nested_loop(n):\n    count = 0\n    for i in range(n):\n        for j in range(i, n):\n            count += 1\n    return count\n```",
+  "options": [
+    "O(n)",
+    "O(n log n)",
+    "O(n\u00b2)",
+    "O(2^n)"
+  ],
+  "correct_answer": "O(n\u00b2)"
+}

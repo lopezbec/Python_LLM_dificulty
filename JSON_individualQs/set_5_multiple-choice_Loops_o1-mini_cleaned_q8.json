@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "question": "What will be the result of the following code?\n\nresult = [x*2 for x in range(3) if x > 0]\nprint(result)",
+  "options": {
+    "A": "[0, 2, 4]",
+    "B": "[2, 4, 6]",
+    "C": "[2, 4]",
+    "D": "[1, 2]"
+  },
+  "answer": "C",
+  "difficulty": 8
+}

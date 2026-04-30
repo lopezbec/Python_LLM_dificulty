@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "number = 1",
+        "while number <= 6:",
+        "number += 1",
+        "print(number)",
+        "if number % 2 != 0: continue",
+        "if number % 2 == 0: continue",
+        "if number > 6: continue",
+        "if number < 2: continue",
+        "CONTINUE_CONDITION_PLACEHOLDER"
+    ]
+}

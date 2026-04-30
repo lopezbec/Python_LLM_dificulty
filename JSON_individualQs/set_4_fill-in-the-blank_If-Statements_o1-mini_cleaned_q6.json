@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to complete the if-elif-else statement that categorizes `score`:\n\n```python\nif score >= 90:\n    grade = \"A\"\nelif score >= 80:\n    grade = ___\nelse:\n    grade = \"F\"\n```",
+  "answer": "\"B\"",
+  "level": 6
+}

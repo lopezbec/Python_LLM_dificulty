@@ -1,0 +1,14 @@
+{
+  "difficulty": 4,
+  "question": "Drag and drop the parts of the code to complete a nested loop to print a grid of stars.",
+  "options": [
+    "for x in range(5):",
+    "for y in range(5):",
+    "print('*')"
+  ],
+  "correct_order": [
+    "for x in range(5):",
+    "for y in range(5):",
+    "print('*')"
+  ]
+}

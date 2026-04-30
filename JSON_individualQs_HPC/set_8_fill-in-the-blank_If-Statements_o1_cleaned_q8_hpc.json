@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "status = 'valid' if x > 0 ______ 'invalid'",
+        "else",
+        "elif",
+        "except",
+        "for"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "question": "Which keyword is used to introduce an additional condition after the initial if statement in Python?",
+  "options": [
+    "elseif",
+    "elif",
+    "else if",
+    "otherwise"
+  ],
+  "correctAnswer": "elif",
+  "explanation": "The Python keyword for adding subsequent conditions is 'elif'."
+}

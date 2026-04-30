@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if",
+        "is_valid(user_input())",
+        ":",
+        "    process(user_input())",
+        "else:",
+        "    handle_error()"
+    ]
+}

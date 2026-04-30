@@ -1,0 +1,13 @@
+{
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Complete the nested loop structure to square each number in the list of numbers.",
+  "code_block": "numbers = [1, 2, 3]\nsquares = []\nfor num in numbers:\n    for i ___ range(2):\n        num = num * num\n    squares.append(num)",
+  "options": [
+    "in",
+    "of",
+    "within"
+  ],
+  "correct_answer": "in"
+}

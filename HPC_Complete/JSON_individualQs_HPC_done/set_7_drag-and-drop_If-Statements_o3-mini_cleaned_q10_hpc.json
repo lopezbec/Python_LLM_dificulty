@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (x == 10 __1__ x < 20) __2__ (y != 0 __3__ y > -5):\n    print('Condition met')",
+        "or",
+        "and",
+        "not"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "difficulty": 9,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To check that a value is not equal to another in an if condition, you use the ____ operator.",
+  "answer": "!="
+}

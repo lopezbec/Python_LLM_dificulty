@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "It is possible to combine multiple conditions in a single 'if' statement using logical operators in Python.",
+  "answer": "True"
+}

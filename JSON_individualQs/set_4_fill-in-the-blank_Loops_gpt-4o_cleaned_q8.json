@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Nested loops are loops that exist _______ another loop, allowing for the execution of multidimensional iterations.",
+  "answer": "within"
+}

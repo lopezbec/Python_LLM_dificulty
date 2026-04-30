@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When iterating over a dictionary in a Python for loop, the iteration defaults to the dictionary\u2019s keys.",
+  "correctAnswer": "True"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following elif statement correctly checks if x is equal to 0?",
+  "options": {
+    "A": "elif x = 0:",
+    "B": "elif x == 0:",
+    "C": "elif (x == 0)",
+    "D": "Both B and C"
+  },
+  "answer": "D",
+  "difficulty": 8
+}

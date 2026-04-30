@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword is commonly used to repeat a block of code a set number of times in Python?",
+  "options": [
+    "for",
+    "while",
+    "if",
+    "print"
+  ],
+  "correct_answer": "for"
+}

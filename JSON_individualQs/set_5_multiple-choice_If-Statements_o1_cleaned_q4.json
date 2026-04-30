@@ -1,0 +1,11 @@
+{
+  "question": "Given the code snippet:\n\nx = 10\nif x > 5:\n    x = x + 2\nprint(x)\n\nWhat is the output?",
+  "choices": {
+    "A": "7",
+    "B": "8",
+    "C": "10",
+    "D": "12"
+  },
+  "correct_answer": "D",
+  "difficulty": 4
+}

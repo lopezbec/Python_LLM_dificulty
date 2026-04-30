@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements about nested if statements is true?",
+  "choices": {
+    "A": "Nested if statements cannot have else clauses.",
+    "B": "Nested if statements must be on the same indentation level.",
+    "C": "Each nested if statement requires its own indentation.",
+    "D": "Nested if statements can only be used with elif."
+  },
+  "answer": "C",
+  "difficulty": 8
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In a nested loop, what is the typical purpose of an outer loop?",
+  "options": [
+    "A) It determines how many times the inner loop executes fully.",
+    "B) It always executes once.",
+    "C) It initializes the inner loop.",
+    "D) It is used to check conditions outside the inner loop's scope."
+  ],
+  "correct_answer": "A) It determines how many times the inner loop executes fully."
+}

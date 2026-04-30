@@ -1,0 +1,25 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "questionText": "Complete this nested loop structure so it prints the car brands and their models in a pair, skipping any model containing 'X':",
+  "codeSnippet": [
+    "car_brands = ['BrandA', 'BrandB']",
+    "models = ['XModel', 'YModel', 'ZModel']",
+    "for brand in car_brands:",
+    "    for model in models:",
+    "        [SKIP_CONDITION_PLACEHOLDER]",
+    "        print(brand, model)"
+  ],
+  "dragItems": [
+    "if 'X' in model: continue",
+    "if 'X' in brand: continue",
+    "if model == 'XModel': break",
+    "if brand == 'BrandA': continue"
+  ],
+  "dropSlots": [
+    "SKIP_CONDITION_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "SKIP_CONDITION_PLACEHOLDER": "if 'X' in model: continue"
+  }
+}

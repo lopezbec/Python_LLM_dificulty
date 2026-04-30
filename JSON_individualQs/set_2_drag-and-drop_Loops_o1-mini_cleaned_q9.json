@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "question": "Match the loop optimization technique to its description.",
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "Loops",
+  "dragItems": [
+    "Loop unrolling",
+    "Loop fusion",
+    "Loop invariant code motion"
+  ],
+  "dropTargets": [
+    "Combining two adjacent loops into a single loop",
+    "Moving calculations that do not change within the loop outside the loop",
+    "Increasing the loop body size to decrease the number of iterations"
+  ],
+  "correctAssociations": {
+    "Loop unrolling": "Increasing the loop body size to decrease the number of iterations",
+    "Loop fusion": "Combining two adjacent loops into a single loop",
+    "Loop invariant code motion": "Moving calculations that do not change within the loop outside the loop"
+  }
+}

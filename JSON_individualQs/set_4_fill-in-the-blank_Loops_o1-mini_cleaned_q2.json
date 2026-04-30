@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "type": "fill-in-the-blank",
+  "difficulty": 2,
+  "topic": "loops",
+  "question": "In a ______ loop, the code block is executed as long as the condition is true.",
+  "answer": "while"
+}

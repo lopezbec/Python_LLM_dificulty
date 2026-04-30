@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To combine two sequences into a loop, you can use the built-in _____ function.",
+  "answer": "zip"
+}

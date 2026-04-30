@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blanks to create a nested if-statement that checks if `num` is positive and even:\n\n```python\nif num > 0:\n    ___ num % 2 == 0:\n        print(\"Positive even number\")\n```",
+  "difficulty": 7,
+  "answer": "if"
+}

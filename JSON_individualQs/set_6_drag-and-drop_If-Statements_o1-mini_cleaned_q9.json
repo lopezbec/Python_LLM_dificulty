@@ -1,0 +1,25 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "if-statements",
+  "question": "Organize the following code blocks to implement a function that determines if a number is positive, negative, or zero:\n\n1. def check_number(num):\n2. if num > 0:\n3. print(\"Positive\")\n4. elif num < 0:\n5. print(\"Negative\")\n6. else:\n7. print(\"Zero\")",
+  "options": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6",
+    "Line 7"
+  ],
+  "correct_order": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6",
+    "Line 7"
+  ]
+}

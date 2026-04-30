@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "total = 0\nfor i in <blank>: total += <blank>",
+        "range(1, 6)",
+        "i",
+        "range(5)",
+        "5",
+        "range(1, 5)"
+    ]
+}

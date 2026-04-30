@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 14",
+        "if x % 2 == 0:",
+        "________ x > 10:",
+        "print(\"Large even\")",
+        "________:",
+        "print(\"Small even\")",
+        "if",
+        "else",
+        "elif",
+        "while",
+        "for"
+    ]
+}

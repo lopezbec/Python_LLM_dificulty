@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "question": "In Python, an if statement can have multiple else blocks to handle different false conditions.",
+  "difficulty": 10,
+  "answer": false
+}

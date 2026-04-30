@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "An 'if' statement in Python must always be paired with an 'else' clause.",
+  "correct_answer": "False"
+}

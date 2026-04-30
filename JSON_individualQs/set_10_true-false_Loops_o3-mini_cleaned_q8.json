@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "True or False: In Python 3, the range() function used in a for loop returns a list of numbers.",
+  "answer": "False"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which loop is best used when the number of iterations is not known in advance?",
+  "options": {
+    "A": "for loop",
+    "B": "while loop",
+    "C": "do-while loop",
+    "D": "repeat-until loop"
+  },
+  "correctAnswer": "B"
+}

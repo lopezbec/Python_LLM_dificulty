@@ -1,0 +1,158 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag the correct code fragment to complete a for loop that prints numbers 0 to 4.",
+    "options": [
+      "for i in range(5):",
+      "i = 0",
+      "print(i)",
+      "while i < 5:"
+    ],
+    "correct_order": [
+      "for i in range(5):",
+      "print(i)"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Drag the correct lines to create a while loop that prints numbers 1 to 3.",
+    "options": [
+      "i = 1",
+      "while i <= 3:",
+      "i += 1",
+      "print(i)"
+    ],
+    "correct_order": [
+      "i = 1",
+      "while i <= 3:",
+      "print(i)",
+      "i += 1"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Drag the correct code snippets to form a nested loop that prints 1 to 2 for each letter in 'AB'.",
+    "options": [
+      "for letter in 'AB':",
+      "for i in range(1, 3):",
+      "print(i)",
+      "print(letter)"
+    ],
+    "correct_order": [
+      "for letter in 'AB':",
+      "for i in range(1, 3):",
+      "print(i)",
+      "print(letter)"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Drag the right code to form a loop that breaks the loop when 'x' is equal to 5.",
+    "options": [
+      "while True:",
+      "if x == 5:",
+      "break",
+      "print(x)"
+    ],
+    "correct_order": [
+      "while True:",
+      "if x == 5:",
+      "break",
+      "print(x)"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Arrange the code segments to form a loop that sums the numbers from 1 to 10.",
+    "options": [
+      "total = 0",
+      "for i in range(1, 11):",
+      "total += i",
+      "print(total)"
+    ],
+    "correct_order": [
+      "total = 0",
+      "for i in range(1, 11):",
+      "total += i",
+      "print(total)"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Order the code to create a loop that skips even numbers and prints odd numbers from 1 to 10.",
+    "options": [
+      "for i in range(1, 11):",
+      "if i % 2 == 0:",
+      "continue",
+      "print(i)"
+    ],
+    "correct_order": [
+      "for i in range(1, 11):",
+      "if i % 2 == 0:",
+      "continue",
+      "print(i)"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Drag the correct parts to create a loop that counts how many times 'apple' appears in the list.",
+    "options": [
+      "fruits = ['apple', 'orange', 'apple']",
+      "count = 0",
+      "for fruit in fruits:",
+      "if fruit == 'apple':",
+      "count += 1"
+    ],
+    "correct_order": [
+      "fruits = ['apple', 'orange', 'apple']",
+      "count = 0",
+      "for fruit in fruits:",
+      "if fruit == 'apple':",
+      "count += 1"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Arrange the code snippets to create a loop that prints the first 5 Fibonacci numbers.",
+    "options": [
+      "a, b = 0, 1",
+      "for _ in range(5):",
+      "print(a)",
+      "a, b = b, a + b"
+    ],
+    "correct_order": [
+      "a, b = 0, 1",
+      "for _ in range(5):",
+      "print(a)",
+      "a, b = b, a + b"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Order these code fragments to form a loop that prints a multiplication table for 2 up to 10.",
+    "options": [
+      "for i in range(1, 11):",
+      "print('2 x', i, '=', 2 * i)"
+    ],
+    "correct_order": [
+      "for i in range(1, 11):",
+      "print('2 x', i, '=', 2 * i)"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Drag the code snippets to create a loop that reverses a given list.",
+    "options": [
+      "original_list = [1, 2, 3, 4]",
+      "reversed_list = []",
+      "for item in original_list:",
+      "reversed_list.insert(0, item)"
+    ],
+    "correct_order": [
+      "original_list = [1, 2, 3, 4]",
+      "reversed_list = []",
+      "for item in original_list:",
+      "reversed_list.insert(0, item)"
+    ]
+  }
+]

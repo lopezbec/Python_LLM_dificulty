@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if letter ______ in [\"a\", \"e\", \"i\", \"o\", \"u\"]:",
+        "print(\"Consonant\")"
+    ]
+}

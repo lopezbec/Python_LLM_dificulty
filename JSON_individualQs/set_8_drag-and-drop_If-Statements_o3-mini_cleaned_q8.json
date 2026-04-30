@@ -1,0 +1,24 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Complete the nested if-else structure by dragging the correct operator and keyword into the blanks.",
+  "code_snippet": "if a > b:\n    if a ___ c:\n        print('a is the greatest')\n    ___:\n        print('a is greater than b but not c')\nelse:\n    print('a is not greater than b')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": ">"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "else"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    ">",
+    "<",
+    "=="
+  ]
+}

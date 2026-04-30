@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "If you want to skip the current iteration of a loop and proceed with the next iteration, you use the ___ statement.",
+  "answer": "continue"
+}

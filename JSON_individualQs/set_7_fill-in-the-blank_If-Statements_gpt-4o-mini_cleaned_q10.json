@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, if you do not explicitly return a value from a function using an if-statement, the function will return ____ by default.",
+  "answer": "None"
+}

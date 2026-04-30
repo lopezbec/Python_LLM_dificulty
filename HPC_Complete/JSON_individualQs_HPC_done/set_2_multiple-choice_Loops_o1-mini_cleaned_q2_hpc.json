@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "print(fruit)",
+        "for i in 3:",
+        "print(fruits[i])",
+        "for fruit in range(len(fruits)):",
+        "print(fruits)",
+        "while fruit in fruits:",
+        "print(fruit)"
+    ]
+}

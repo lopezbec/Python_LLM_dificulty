@@ -1,0 +1,25 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "questionText": "Complete this for loop to iterate over the given list and print each fruit in uppercase, skipping any fruit that is 'apple':",
+  "codeSnippet": [
+    "fruits = ['apple', 'banana', 'cherry']",
+    "for fruit in fruits:",
+    "    [SKIP_CONDITION_PLACEHOLDER]",
+    "    print([PRINT_PLACEHOLDER])"
+  ],
+  "dragItems": [
+    "if fruit == 'apple': continue",
+    "fruit.upper()",
+    "if fruit != 'apple': continue",
+    "fruit.capitalize()"
+  ],
+  "dropSlots": [
+    "SKIP_CONDITION_PLACEHOLDER",
+    "PRINT_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "SKIP_CONDITION_PLACEHOLDER": "if fruit == 'apple': continue",
+    "PRINT_PLACEHOLDER": "fruit.upper()"
+  }
+}

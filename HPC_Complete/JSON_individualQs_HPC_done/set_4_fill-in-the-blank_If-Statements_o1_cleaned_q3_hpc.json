@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "status",
+        "if status ______ 'active':",
+        "print(\"Status is active\")"
+    ]
+}

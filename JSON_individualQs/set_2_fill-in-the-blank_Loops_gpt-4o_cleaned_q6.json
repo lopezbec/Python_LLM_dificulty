@@ -1,0 +1,5 @@
+{
+  "level": 6,
+  "question": "The syntax of a 'for' loop in Python to iterate over a range of numbers is 'for i in _____(start, stop):'.",
+  "answer": "range"
+}

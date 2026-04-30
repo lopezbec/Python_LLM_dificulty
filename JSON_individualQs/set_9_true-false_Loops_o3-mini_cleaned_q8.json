@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "In Python, the range() function returns a list in Python 2 and a range object (an iterable) in Python 3.",
+  "correct_answer": true
+}

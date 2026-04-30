@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "When using a while loop, if you forget to update the condition, you might create an __________ loop that never stops running.",
+  "answer": "infinite"
+}

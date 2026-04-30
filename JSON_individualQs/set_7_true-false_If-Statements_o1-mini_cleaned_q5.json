@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "question": "In Python, you can have an else block without an accompanying if statement.",
+  "difficulty": 5,
+  "answer": false
+}

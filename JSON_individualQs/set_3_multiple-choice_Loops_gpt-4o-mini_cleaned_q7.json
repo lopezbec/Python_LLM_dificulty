@@ -1,0 +1,11 @@
+{
+  "question": "How many times will 'Hello' be printed in the following code? `count = 0; while count < 5: print('Hello'); count += 1`",
+  "options": [
+    "4",
+    "5",
+    "6",
+    "Infinite"
+  ],
+  "answer": "5",
+  "difficulty": 7
+}

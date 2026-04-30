@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "enumerate",
+        "for index, value in ____(my_list):",
+        "print(index, value)"
+    ]
+}

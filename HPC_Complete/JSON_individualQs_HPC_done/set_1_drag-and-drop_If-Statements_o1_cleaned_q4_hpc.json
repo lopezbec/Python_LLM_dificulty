@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "grade",
+        "grade = 55",
+        "if [BLANK]:",
+        "print(\"Grade is in the 50s\")",
+        "50 < grade < 60",
+        "grade < 50 or grade > 60",
+        "grade == 50 and grade == 60"
+    ]
+}

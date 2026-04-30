@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for",
+        "if",
+        "in",
+        "print",
+        "______(i in range(20)) : _____(i) if i % 2 == 0 else None"
+    ]
+}

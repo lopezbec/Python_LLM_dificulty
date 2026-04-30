@@ -1,0 +1,11 @@
+{
+  "question": "Which statement best describes the else clause in a Python loop?",
+  "difficulty": 5,
+  "options": [
+    "A. It only runs if the loop is forcibly terminated with break.",
+    "B. It always runs after every iteration.",
+    "C. It only runs if the loop completes without encountering a break.",
+    "D. It is only valid for while loops."
+  ],
+  "answer": "C"
+}

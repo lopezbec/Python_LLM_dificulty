@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if-statement is used to _____ a block of code based on a condition.",
+    "answer": "execute"
+  },
+  {
+    "difficulty": 2,
+    "question": "Complete the Python if-statement syntax: \nif _____ < 10: \n    print('Less than 10')",
+    "answer": "x"
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, the keyword used to define an alternative block of code when an if condition is False is _____.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank to check multiple expressions: \nif score >= 50 _____ score <= 100: \n    print('Good score!')",
+    "answer": "and"
+  },
+  {
+    "difficulty": 5,
+    "question": "To check if a variable 'y' does not equal 10 in an if-statement, the correct condition is _____ y == 10.",
+    "answer": "not"
+  },
+  {
+    "difficulty": 6,
+    "question": "In Python, the keyword _____ allows us to check another condition if the first if condition is not met.",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in to create a simple one-liner if-statement: \nprint('Hello') if name is not None _____ name is None.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 8,
+    "question": "To check if a list 'lst' is non-empty within an if-statement, use: if _____(lst):",
+    "answer": "len"
+  },
+  {
+    "difficulty": 9,
+    "question": "In loops, a statement can be skipped using an if-statement combined with the keyword _____.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 10,
+    "question": "For a nested if-statement, to reference an outer condition variable safely, it is common to use Python exception handling, specifically the _____ block.",
+    "answer": "try-except"
+  }
+]

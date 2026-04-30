@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "question": "Arrange the nested if statement correctly.",
+  "dragItems": [
+    "if temperature > 30:",
+    "    print('Hot')",
+    "    if humidity > 70:",
+    "        print('Humid')",
+    "else:",
+    "    print('Not Hot')"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6"
+  ],
+  "correctAnswers": {
+    "Line 1": "if temperature > 30:",
+    "Line 2": "    print('Hot')",
+    "Line 3": "    if humidity > 70:",
+    "Line 4": "        print('Humid')",
+    "Line 5": "else:",
+    "Line 6": "    print('Not Hot')"
+  }
+}

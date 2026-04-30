@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Match the loop control keywords with their uses.",
+  "instruction": "Drag the appropriate keyword to each description.",
+  "drag_items": [
+    "break",
+    "continue"
+  ],
+  "drop_zones": [
+    "Keyword to exit the loop immediately",
+    "Keyword to skip the current iteration and continue with the next"
+  ],
+  "correct_mapping": {
+    "Keyword to exit the loop immediately": "break",
+    "Keyword to skip the current iteration and continue with the next": "continue"
+  }
+}

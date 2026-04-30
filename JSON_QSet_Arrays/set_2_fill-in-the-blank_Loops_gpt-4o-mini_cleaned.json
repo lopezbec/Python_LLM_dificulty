@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A _____ is used to repeat a block of code multiple times in Python.",
+    "answer": "loop"
+  },
+  {
+    "difficulty": 2,
+    "question": "In a 'for' loop, the variable that takes on the value of each item in the sequence is called the _____ variable.",
+    "answer": "iteration"
+  },
+  {
+    "difficulty": 3,
+    "question": "The _____ statement can be used to stop a loop immediately.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 4,
+    "question": "A 'while' loop continues executing as long as the _____ condition is true.",
+    "answer": "boolean"
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the 'range()' function is commonly used with a 'for' loop to generate a sequence of _____ numbers.",
+    "answer": "integer"
+  },
+  {
+    "difficulty": 6,
+    "question": "The statement that allows you to skip the current iteration of a loop is called _____ .",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 7,
+    "question": "Nested loops are loops that run inside of _____ loops.",
+    "answer": "other"
+  },
+  {
+    "difficulty": 8,
+    "question": "If a loop runs indefinitely without a terminating condition, it is known as an _____ loop.",
+    "answer": "infinite"
+  },
+  {
+    "difficulty": 9,
+    "question": "To ensure that a loop executes at least once, ____ is commonly used.",
+    "answer": "do-while"
+  },
+  {
+    "difficulty": 10,
+    "question": "When looping through dictionaries in Python, the method _____ is used to access keys and values simultaneously.",
+    "answer": "items()"
+  }
+]

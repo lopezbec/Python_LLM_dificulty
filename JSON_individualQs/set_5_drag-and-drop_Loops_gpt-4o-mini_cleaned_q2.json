@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Drag the correct keyword to fill in the blanks: 'The ____ loop continues as long as the condition is ____.'",
+  "options": [
+    "for",
+    "while",
+    "break",
+    "continue"
+  ],
+  "correct_answer": "while"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "To create an alternative path when the if condition is not met, you use 'if _____'.",
+  "correct_answer": "else"
+}

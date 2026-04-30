@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Match the loop type with its primary characteristic.",
+  "instruction": "Drag the correct loop type to the drop zone that describes it best.",
+  "drag_items": [
+    "for loop",
+    "while loop"
+  ],
+  "drop_zones": [
+    "Iterates over a sequence of values"
+  ],
+  "correct_mapping": {
+    "Iterates over a sequence of values": "for loop"
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "What keyword is used to start an if-statement in Python?",
+    "options": [
+      "for",
+      "while",
+      "if",
+      "else"
+    ],
+    "correct_answer": "if"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which of the following if-statement structures is correct in Python?",
+    "options": [
+      "if x > 10:",
+      "if (x > 10)",
+      "if x > 10 then:",
+      "if: x > 10"
+    ],
+    "correct_answer": "if x > 10:"
+  },
+  {
+    "difficulty": 3,
+    "question": "What will the following code output if x = 5? \n\n```python\nif x < 10:\n    print('Less than 10')\nelse:\n    print('10 or more')\n```",
+    "options": [
+      "Less than 10",
+      "10 or more",
+      "Error",
+      "None of the above"
+    ],
+    "correct_answer": "Less than 10"
+  },
+  {
+    "difficulty": 4,
+    "question": "Given the following code snippet, what will it print if x = 10? \n\n```python\nif x == 10:\n    print('Ten')\nelse:\n    print('Not Ten')\n```",
+    "options": [
+      "Ten",
+      "Not Ten",
+      "Error",
+      "0"
+    ],
+    "correct_answer": "Ten"
+  },
+  {
+    "difficulty": 5,
+    "question": "What will be the result of the following code if x = 15? \n\n```python\nif x < 10:\n    print('x is small')\nelif x < 20:\n    print('x is medium')\nelse:\n    print('x is large')\n```",
+    "options": [
+      "x is small",
+      "x is medium",
+      "x is large",
+      "No output"
+    ],
+    "correct_answer": "x is medium"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will the output be for the following code snippet if x = 5? \n\n```python\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')\n```",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Error"
+    ],
+    "correct_answer": "Positive"
+  },
+  {
+    "difficulty": 7,
+    "question": "In the following code snippet, what will the output be if y = 0? \n\n```python\nif y:\n    print('Truth')\nelif y is 0:\n    print('Zero')\nelse:\n    print('False')\n```",
+    "options": [
+      "Truth",
+      "Zero",
+      "False",
+      "No output"
+    ],
+    "correct_answer": "Zero"
+  },
+  {
+    "difficulty": 8,
+    "question": "Consider the following code snippet. What will it print if num = -2? \n\n```python\nif num > 0:\n    print('Positive')\nelif num == 0:\n    print('Zero')\nelse:\n    print('Negative')\n```",
+    "options": [
+      "Positive",
+      "Zero",
+      "Negative",
+      "No output"
+    ],
+    "correct_answer": "Negative"
+  },
+  {
+    "difficulty": 9,
+    "question": "What will the output of the following code be if the variable x is equal to 10? \n\n```python\nx = 10\nif x < 5:\n    print('Low')\nelif x >= 10:\n    print('Ten or more')\nelse:\n    print('Medium')\n```",
+    "options": [
+      "Low",
+      "Ten or more",
+      "Medium",
+      "Error"
+    ],
+    "correct_answer": "Ten or more"
+  },
+  {
+    "difficulty": 10,
+    "question": "Given the following code, what will be the output when price = 100 and discount = 10? \n\n```python\nprice = 100\ndiscount = 10\nif price > 50:\n    if discount >= 20:\n        print('High Discount')\n    else:\n        print('Low Discount')\nelse:\n    print('No Discount')\n```",
+    "options": [
+      "High Discount",
+      "Low Discount",
+      "No Discount",
+      "Error"
+    ],
+    "correct_answer": "Low Discount"
+  }
+]

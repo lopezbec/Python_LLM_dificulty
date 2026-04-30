@@ -1,0 +1,11 @@
+{
+  "question": "What does the 'continue' statement do in a loop? \n\nA. Exits the entire loop \nB. Skips to the next iteration \nC. Stops the program \nD. None of the above",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "answer": "B",
+  "difficulty": 6
+}

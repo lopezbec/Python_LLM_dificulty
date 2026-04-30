@@ -1,0 +1,10 @@
+{
+  "question": "What will the following code output?\n\n```python\nnumbers = [1, 2, 3, 4, 5]\nfor num in numbers:\n    if num % 2 == 0:\n        print(num)\n```",
+  "options": {
+    "A": "1 3 5",
+    "B": "2 4",
+    "C": "1 2 3 4 5",
+    "D": "No output"
+  },
+  "answer": "B"
+}

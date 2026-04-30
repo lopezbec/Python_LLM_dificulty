@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if score >= 60:",
+        "result = 'Pass'",
+        "else:",
+        "result ___ 'Fail'"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "True or False: A nested loop in Python is a loop within another loop whose total number of iterations is typically the product of the iterations of each individual loop.",
+  "answer": "True"
+}

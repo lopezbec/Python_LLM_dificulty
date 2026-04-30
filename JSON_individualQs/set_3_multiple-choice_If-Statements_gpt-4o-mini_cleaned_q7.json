@@ -1,0 +1,11 @@
+{
+  "question": "What does the following code output when `day` is set to 'Saturday'?\n\nday = 'Saturday'\nif day == 'Monday':\n    print('Start of the week')\nelif day == 'Saturday':\n    print('Weekend')\nelse:\n    print('Midweek')",
+  "options": [
+    "Start of the week",
+    "Weekend",
+    "Midweek",
+    "Error"
+  ],
+  "correct_answer": "Weekend",
+  "difficulty": 7
+}

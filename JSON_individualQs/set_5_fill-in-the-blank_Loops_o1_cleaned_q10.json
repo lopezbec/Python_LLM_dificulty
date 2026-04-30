@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: A generator expression can be combined with a loop to handle items in a memory-efficient way, by producing them ______ rather than all at once.",
+  "correct_answer": "lazily"
+}

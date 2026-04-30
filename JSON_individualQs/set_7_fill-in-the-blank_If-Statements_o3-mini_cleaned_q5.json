@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Complete the if-statement header by supplying the missing symbol at the end of the condition:\n\nif score >= 90____ print('Excellent')",
+  "answer": ":"
+}

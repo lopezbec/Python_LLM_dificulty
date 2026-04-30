@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "__variable__ = __condition__",
+        "__if_true__ if __boolean_expression__ else __if_false__",
+        "'x is even'",
+        "'x is odd'",
+        "x % 2 == 0",
+        "result"
+    ]
+}

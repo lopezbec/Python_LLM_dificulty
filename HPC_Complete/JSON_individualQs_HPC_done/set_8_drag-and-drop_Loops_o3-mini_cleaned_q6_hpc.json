@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in range(0, 10, _____):",
+        "print(i)",
+        "step_value",
+        "1",
+        "2",
+        "3"
+    ]
+}

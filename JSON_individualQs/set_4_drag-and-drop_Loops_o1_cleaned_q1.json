@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct snippet to complete the for loop that prints 'Hello' three times.",
+  "codeSnippet": "for ____ in range(3):\n    print('Hello')",
+  "options": [
+    "i",
+    "if",
+    "print"
+  ],
+  "correctAnswer": "i"
+}

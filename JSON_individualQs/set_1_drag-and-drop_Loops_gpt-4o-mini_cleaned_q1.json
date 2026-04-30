@@ -1,0 +1,16 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword to create a simple loop in Python.",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "loop",
+    "D": "each"
+  },
+  "drops": {
+    "Target": "______ i in range(5):"
+  },
+  "correct_order": [
+    "A"
+  ]
+}

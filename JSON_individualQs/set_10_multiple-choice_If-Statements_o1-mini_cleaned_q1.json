@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "question": "What is the correct syntax to start an if statement in Python?",
+  "options": {
+    "A": "if x = 5 then",
+    "B": "if x == 5:",
+    "C": "if (x == 5)",
+    "D": "if x equal 5:"
+  },
+  "answer": "B",
+  "difficulty": 1
+}

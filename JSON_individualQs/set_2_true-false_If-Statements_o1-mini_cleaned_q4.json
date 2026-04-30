@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "question": "A Python if-statement can only evaluate a single condition and cannot handle multiple conditions.",
+  "difficulty": 4,
+  "type": "True/False"
+}

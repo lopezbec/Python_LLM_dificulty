@@ -1,0 +1,14 @@
+{
+  "difficulty": 4,
+  "description": "Fill in the blanks to use elif conditions to print the correct message based on the value of variable grade.",
+  "premise": "grade = 85\nif __:\n    print('A')\nelif __:\n    print('B')\nelse:\n    print('C')",
+  "options": [
+    "grade >= 90",
+    "grade >= 80",
+    "grade < 80"
+  ],
+  "correct_answer": [
+    "grade >= 90",
+    "grade >= 80"
+  ]
+}

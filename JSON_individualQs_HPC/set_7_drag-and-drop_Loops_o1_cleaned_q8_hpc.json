@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "while loop",
+        "continue statement",
+        "while n < 10:",
+        "continue",
+        "n += 1",
+        "print(n)",
+        "if n % 2 == 0:",
+        "n = 1"
+    ]
+}

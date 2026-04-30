@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which of the following code snippets properly uses logical operators to check if 'x' is greater than 0 and less than 10?",
+  "options": {
+    "A": "if (x > 0) and (x < 10):\n    print('x is a single digit')",
+    "B": "if x > 0 or x < 10:\n    print('x is a single digit')",
+    "C": "if (x > 0 && x < 10):\n    print('x is a single digit')",
+    "D": "if x > 0 & x < 10:\n    print('x is a single digit')"
+  },
+  "correct_answer": "A"
+}

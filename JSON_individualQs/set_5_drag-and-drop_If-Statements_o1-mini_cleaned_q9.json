@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "question": "Complete the function by dragging the correct logical operator to check if a number is divisible by both 3 and 5.\n\ndef check_divisible(n):\n    if n % 3 == 0 ___(1)___ n % 5 == 0:\n        return True\n    else:\n        return False",
+  "options": [
+    "and",
+    "or",
+    "not",
+    "==",
+    ":",
+    "elif"
+  ],
+  "answers": {
+    "1": "and"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the snippets to create a for-loop with an else clause that prints numbers from 0 to 2 and then prints 'Finished' once the loop concludes normally.",
+  "prompt": "Drag and drop the code snippets in order, ensuring proper indentation for the loop body and the else block.",
+  "dragItems": [
+    "for i in range(3):",
+    "    print(i)",
+    "else:",
+    "    print('Finished')"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "for i in range(3):",
+    "    print(i)",
+    "else:",
+    "    print('Finished')"
+  ]
+}

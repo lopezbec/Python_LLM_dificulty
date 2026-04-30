@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the _______ keyword can be used within a generator to yield values one at a time in a loop.",
+  "answer": "yield",
+  "difficulty": 9
+}

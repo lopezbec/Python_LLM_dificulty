@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "The condition in an if statement can be any expression that evaluates to a Boolean value or a truthy/falsy value.",
+  "answer": true
+}

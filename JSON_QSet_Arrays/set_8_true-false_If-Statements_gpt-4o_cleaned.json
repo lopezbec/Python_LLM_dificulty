@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "An if-statement can be used to execute a block of code only when a certain condition is true.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "The condition inside an if-statement must always evaluate to a boolean value (True or False).",
+    "answer": true
+  },
+  {
+    "difficulty": 3,
+    "question": "An if-statement without an else block is not allowed in Python.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "You can use the '==' operator in an if-statement to check for equality between two values.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, 'elif' is used to check an additional condition if the previous if-statement condition is True.",
+    "answer": false
+  },
+  {
+    "difficulty": 6,
+    "question": "An if-statement can contain multiple elif blocks to check different conditions in sequence.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "It is possible to nest an if-statement inside another if-statement to create more complex decision structures.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "Using indentation incorrectly in an if-statement will not affect the execution of the program.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "Using logical operators like 'and' or 'or' in the condition of an if-statement can allow you to combine multiple conditions.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "The 'else' block of an if-else structure is mandatory and must appear after the 'if' block.",
+    "answer": false
+  }
+]

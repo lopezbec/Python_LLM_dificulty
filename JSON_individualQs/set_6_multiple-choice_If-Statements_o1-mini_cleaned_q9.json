@@ -1,0 +1,11 @@
+{
+  "question": "What will be the value of `result` after executing the following code?\n\nx = 10\ny = 20\nif x > y:\n    result = \"x is greater\"\nelif x == y:\n    result = \"x and y are equal\"\nelse:\n    result = \"y is greater\"",
+  "choices": {
+    "A": "\"x is greater\"",
+    "B": "\"x and y are equal\"",
+    "C": "\"y is greater\"",
+    "D": "None of the above"
+  },
+  "answer": "C",
+  "difficulty": 9
+}

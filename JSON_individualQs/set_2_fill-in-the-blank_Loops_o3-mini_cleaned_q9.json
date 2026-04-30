@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: Complete the countdown function by adding code to decrement n by 1:\n\ndef count_down(n):\n    while n > 0:\n        print(n)\n        ____",
+  "answer": "n -= 1"
+}

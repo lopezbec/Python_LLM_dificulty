@@ -1,0 +1,27 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Which of the following if-statement constructs correctly ensures that the condition 'x is positive and (y is negative or z is zero)' is evaluated as intended?",
+  "options": [
+    {
+      "label": "A",
+      "text": "if x > 0 and y < 0 or z == 0:",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "if (x > 0 and y < 0) or z == 0:",
+      "isCorrect": false
+    },
+    {
+      "label": "C",
+      "text": "if x > 0 and (y < 0 or z == 0):",
+      "isCorrect": true
+    },
+    {
+      "label": "D",
+      "text": "if (x > 0 and y < 0 or z == 0):",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "loops",
+  "question": "Arrange the code lines to iterate over a list of fruits and print each fruit.",
+  "instructions": "Drag and drop the following code snippets in the correct order.",
+  "items": [
+    {
+      "id": "A",
+      "text": "fruits = ['apple', 'banana', 'cherry']"
+    },
+    {
+      "id": "B",
+      "text": "for fruit in fruits:"
+    },
+    {
+      "id": "C",
+      "text": "    print(fruit)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C"
+  ]
+}

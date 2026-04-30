@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "input_str",
+        "if input_str.___():",
+        "print(\"Input is numeric\")"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blanks to print 'x is positive' only if 'x' is positive and less than 100:\n\n```python\nif x > 0 _____ x < 100:\n    print('x is positive')\n```",
+  "blank": "and"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Complete this if-else structure by dragging the correct keywords into the blanks:\n\n___ x == 10:\n    print('Equal to 10')\n___:\n    print('Not equal to 10')",
+  "dragItems": [
+    "if",
+    "else",
+    "elif"
+  ],
+  "dropZones": {
+    "if_keyword": "Drop keyword for the condition",
+    "else_keyword": "Drop keyword for the alternative"
+  },
+  "correctMapping": {
+    "if_keyword": "if",
+    "else_keyword": "else"
+  }
+}

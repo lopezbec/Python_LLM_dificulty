@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "question": "Arrange the following lines to create a simple `for` loop that prints numbers from 1 to 3.",
+  "options": [
+    "for i in range(1, 4):",
+    "print(i)"
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "    print(i)"
+  ],
+  "difficulty": 1
+}

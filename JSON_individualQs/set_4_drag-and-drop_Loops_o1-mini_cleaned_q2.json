@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Match each loop type to its description.",
+  "options": [
+    {
+      "item": "for loop",
+      "match": null
+    },
+    {
+      "item": "while loop",
+      "match": null
+    },
+    {
+      "item": "iterate over a sequence",
+      "match": null
+    },
+    {
+      "item": "continue until condition is false",
+      "match": null
+    }
+  ],
+  "matches": {
+    "for loop": "iterate over a sequence",
+    "while loop": "continue until condition is false"
+  }
+}

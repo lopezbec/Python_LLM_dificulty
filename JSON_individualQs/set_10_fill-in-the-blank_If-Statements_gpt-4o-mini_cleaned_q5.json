@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "In a compound if-statement, the logical operator _____ can be used to check if at least one condition is true.",
+  "correct_answer": "or",
+  "options": [
+    "and",
+    "or",
+    "not",
+    "xor"
+  ]
+}

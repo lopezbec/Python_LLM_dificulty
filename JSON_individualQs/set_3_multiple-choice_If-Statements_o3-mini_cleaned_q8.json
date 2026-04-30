@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Examine the following code:\n\nx = 0\n y = 5\nif x > 0 or y > 0:\n    print(\"At least one is positive\")\nelse:\n    print(\"None is positive\")\n\nWhat is the output?",
+  "options": [
+    "At least one is positive",
+    "None is positive",
+    "Error due to spacing",
+    "At least one is zero"
+  ],
+  "correct_answer": "At least one is positive"
+}

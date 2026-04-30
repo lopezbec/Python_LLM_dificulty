@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to check if a list is empty:\n\n```python\nif not ____:\n    print(\"List is empty\")\n```",
+  "answer": "my_list",
+  "difficulty": 7
+}

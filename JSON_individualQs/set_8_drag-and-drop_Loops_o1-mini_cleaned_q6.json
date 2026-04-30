@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Match the loop with its appropriate use case.",
+  "options": [
+    {
+      "for loop": "Iterating over a range of numbers"
+    },
+    {
+      "while loop": "Repeating until a condition is met"
+    },
+    {
+      "nested loop": "Handling multi-dimensional data structures"
+    }
+  ],
+  "correct_matching": [
+    {
+      "for loop": "Iterating over a range of numbers"
+    },
+    {
+      "while loop": "Repeating until a condition is met"
+    },
+    {
+      "nested loop": "Handling multi-dimensional data structures"
+    }
+  ]
+}

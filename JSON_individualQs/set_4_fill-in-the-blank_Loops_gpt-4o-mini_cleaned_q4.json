@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "To stop the current iteration of a loop and move to the next one, you would use the ____ statement.",
+  "answer": "continue"
+}

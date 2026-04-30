@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 5:\n    print(count)\n    count += 1\nelse:\n    print('Done')",
+  "options": {
+    "A": "0 1 2 3 4",
+    "B": "0 1 2 3 4 Done",
+    "C": "1 2 3 4 5 Done",
+    "D": "0 1 2 3 4 5"
+  },
+  "answer": "B",
+  "difficulty": 6
+}

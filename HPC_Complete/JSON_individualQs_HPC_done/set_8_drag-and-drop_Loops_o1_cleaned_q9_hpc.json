@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "user_input = ''",
+        "while user_input.lower() != 'stop':",
+        "user_input = input('Enter a value: ')",
+        "entries.append(user_input)",
+        "entries = []",
+        "if True: break"
+    ]
+}

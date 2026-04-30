@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Arrange the draggable items to create an if-else statement that checks temperature.",
+  "instruction": "Drag the lines into the correct sequential order to complete the if-else structure.",
+  "draggable_items": [
+    "    print('Not a hot day')",
+    "if temperature > 30:",
+    "else:",
+    "    print('Hot day')"
+  ],
+  "correct_order": [
+    "if temperature > 30:",
+    "    print('Hot day')",
+    "else:",
+    "    print('Not a hot day')"
+  ]
+}

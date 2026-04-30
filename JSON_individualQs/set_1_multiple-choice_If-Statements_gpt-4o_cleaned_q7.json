@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Given the code snippet:\n\na = 5\nb = 10\nif a < b:\n    if b > 5:\n        print('b is greater than 5')\nWhich statement is true?",
+  "options": [
+    "The code prints 'b is greater than 5'",
+    "The code will result in an error",
+    "The code prints nothing",
+    "The code will print 'a is greater than b'"
+  ],
+  "correct_answer": "The code prints 'b is greater than 5'"
+}

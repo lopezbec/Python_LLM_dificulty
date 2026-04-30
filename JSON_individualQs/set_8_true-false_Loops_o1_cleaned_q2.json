@@ -1,0 +1,5 @@
+{
+  "question": "We must convert a range into a list before using it in a 'for' loop in Python.",
+  "difficulty": 2,
+  "correct_answer": "False"
+}

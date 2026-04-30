@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "question": "Nested if statements in Python must maintain consistent indentation for each level of nesting.",
+  "difficulty": 6,
+  "answer": true
+}

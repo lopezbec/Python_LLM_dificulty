@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if number % 2 == 0:",
+        "if number > 0:",
+        "if number == 0:",
+        "The number is positive.",
+        "The number is even.",
+        "The number is zero."
+    ]
+}

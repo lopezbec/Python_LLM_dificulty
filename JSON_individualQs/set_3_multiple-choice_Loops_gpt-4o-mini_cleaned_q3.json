@@ -1,0 +1,11 @@
+{
+  "question": "In Python, which of the following statements is used to exit a loop?",
+  "options": [
+    "stop",
+    "exit",
+    "break",
+    "continue"
+  ],
+  "answer": "break",
+  "difficulty": 3
+}

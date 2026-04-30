@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question": "Within nested loops, to move to the next iteration of the closest enclosing loop without completing the current iteration, we use the ________ statement.",
+  "correct_answer": "continue"
+}

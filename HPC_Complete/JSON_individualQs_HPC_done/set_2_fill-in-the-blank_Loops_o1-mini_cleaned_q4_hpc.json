@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "student = {'name': 'Alice', 'age': 25}",
+        "for ___, ___ in student.___():",
+        "print(key, value)",
+        "student"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Using the _____ operator allows the execution of a block if at least one of the conditions is true.",
+  "answer": "or"
+}

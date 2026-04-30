@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "x",
+    "if (x > 0) and (x < 10):\n    print('x is a single digit')",
+    "if x > 0 or x < 10:\n    print('x is a single digit')",
+    "if (x > 0 && x < 10):\n    print('x is a single digit')",
+    "if x > 0 & x < 10:\n    print('x is a single digit')"
+  ]
+}

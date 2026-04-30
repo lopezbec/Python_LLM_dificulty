@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "True or False: List comprehensions offer a concise alternative for creating lists and can often replace simple for loops in Python.",
+  "correct_answer": true
+}

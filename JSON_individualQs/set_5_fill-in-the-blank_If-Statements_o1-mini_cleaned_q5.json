@@ -1,0 +1,7 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to use the elif statement: \n```python\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __:\n    grade = 'B'\nelse:\n    grade = 'C'\n```",
+  "answer": "80"
+}

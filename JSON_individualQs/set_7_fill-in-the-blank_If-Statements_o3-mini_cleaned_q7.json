@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank with the keyword that tells Python to do nothing (i.e., a placeholder) in an if block when no action is required:\n\nif condition_met:\n    ______",
+  "answer": "pass"
+}

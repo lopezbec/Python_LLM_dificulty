@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "y = 0",
+        "if y:",
+        "print('Truth')",
+        "elif y is 0:",
+        "print('Zero')",
+        "else:",
+        "print('False')"
+    ]
+}

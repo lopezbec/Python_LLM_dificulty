@@ -1,0 +1,15 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "Loops",
+  "question": "Match the loop scenarios to their appropriate loop type.",
+  "drag_items": [
+    "Unknown number of iterations, continue until a condition is met",
+    "Fixed number of iterations based on a sequence"
+  ],
+  "drop_zones": [
+    "while loop",
+    "for loop"
+  ],
+  "instructions": "Drag each scenario to the loop type that best fits."
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In the following code: if x > 5: print('Greater'), what is the purpose of the condition 'x > 5'?\nIt checks if x is _____ than 5.",
+  "answer": "greater"
+}

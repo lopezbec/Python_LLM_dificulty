@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Which of the following is a valid way to iterate through a dictionary?",
+  "options": [
+    "for key in dictionary",
+    "while key in dictionary",
+    "for key dictionary",
+    "do for key in dictionary"
+  ],
+  "correct_answer": "for key in dictionary"
+}

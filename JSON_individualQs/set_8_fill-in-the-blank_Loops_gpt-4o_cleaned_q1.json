@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "The ___ loop in Python is used to iterate over a sequence such as a list, tuple, or string.",
+  "answer": "for"
+}

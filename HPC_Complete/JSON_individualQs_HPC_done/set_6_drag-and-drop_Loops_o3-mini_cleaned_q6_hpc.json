@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "for num in ____(1, 4):\n    print(num ____ 2)",
+        "range",
+        "list",
+        "tuple",
+        "map",
+        "**",
+        "^",
+        "pow",
+        "*"
+    ]
+}

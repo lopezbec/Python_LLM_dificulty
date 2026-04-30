@@ -1,0 +1,17 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "questionType": "drag-and-drop",
+  "question": "Complete the conditions using 'and' to confirm user is logged in and has admin role before printing 'Access Granted'.",
+  "codeSnippet": "logged_in = True\nrole = 'admin'\nif logged_in ___ role == 'admin':\n    print('Access Granted')",
+  "draggables": [
+    "==",
+    "and",
+    "or",
+    "else"
+  ],
+  "correctDrops": [
+    "and"
+  ],
+  "explanation": "We must ensure both conditions are true, so we use 'and' to check logged_in is True and role == 'admin'."
+}

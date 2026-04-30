@@ -1,0 +1,11 @@
+{
+  "question": "What will be the result of running this code?\n\n```\nx = 4\nif x > 3:\n    if x < 5:\n        print('x is between 3 and 5')\n    else:\n        print('x is greater than or equal to 5')\nelse:\n    print('x is 3 or less')\n```",
+  "difficulty": 9,
+  "options": {
+    "A": "x is greater than or equal to 5",
+    "B": "x is 3 or less",
+    "C": "x is between 3 and 5",
+    "D": "No output"
+  },
+  "correct_answer": "C"
+}

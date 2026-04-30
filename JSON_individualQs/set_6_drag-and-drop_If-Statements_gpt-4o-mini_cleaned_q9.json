@@ -1,0 +1,13 @@
+{
+  "question": "Drag the correct operands and comparison operators to form valid conditions:\n`if (a ____ b) { ____; }`",
+  "drops": [
+    "==",
+    ">=",
+    "doSomething();",
+    ">",
+    "console.log('match');"
+  ],
+  "correct": ">",
+  "alternate_correct": "==",
+  "difficulty": 9
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "question": "What is the output of the following code?\n\nx = 10\ny = 20\nz = 30\nif x > y:\n    if y > z:\n        print(\"x > y > z\")\n    else:\n        print(\"x > y and y <= z\")\nelif x > z:\n    print(\"x > z and x <= y\")\nelse:\n    print(\"x <= z and x <= y\")",
+  "options": {
+    "A": "x > y > z",
+    "B": "x > y and y <= z",
+    "C": "x > z and x <= y",
+    "D": "x <= z and x <= y"
+  },
+  "correct_answer": "D",
+  "difficulty": 10,
+  "topic": "if statements"
+}

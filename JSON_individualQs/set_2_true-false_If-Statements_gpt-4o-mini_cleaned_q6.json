@@ -1,0 +1,5 @@
+{
+  "question": "An if statement can only evaluate expressions of types int and float in Python.",
+  "answer": false,
+  "difficulty": 6
+}

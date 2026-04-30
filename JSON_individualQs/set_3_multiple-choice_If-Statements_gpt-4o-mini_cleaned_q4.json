@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output when `x` is 3?\n\nx = 3\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+  "options": [
+    "Positive",
+    "Zero",
+    "Negative",
+    "None"
+  ],
+  "correct_answer": "Positive",
+  "difficulty": 4
+}

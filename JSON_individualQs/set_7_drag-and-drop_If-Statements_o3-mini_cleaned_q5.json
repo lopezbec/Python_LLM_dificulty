@@ -1,0 +1,45 @@
+{
+  "id": 5,
+  "type": "drag_and_drop",
+  "difficulty": 5,
+  "prompt": "Arrange the keywords in the correct order for the following multi-conditional if-statement.",
+  "instructions": "Drag the appropriate keywords into the blanks in sequence.",
+  "displayText": "____ a > b:\n    print('a is greater')\n____ a == b:\n    print('a equals b')\n____ a < b:\n    print('a is less')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "if"
+    },
+    {
+      "id": "B",
+      "text": "elif"
+    },
+    {
+      "id": "C",
+      "text": "else"
+    },
+    {
+      "id": "D",
+      "text": "for"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank 1"
+    },
+    {
+      "id": "dz2",
+      "label": "Blank 2"
+    },
+    {
+      "id": "dz3",
+      "label": "Blank 3"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A",
+    "dz2": "B",
+    "dz3": "C"
+  }
+}

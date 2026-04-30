@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "result = 'Even' if num % 2 == 0 ______ 'Odd'",
+        "num"
+    ]
+}

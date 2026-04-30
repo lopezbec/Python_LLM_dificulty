@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if balance > 1000 or balance >= savings - 500:",
+        "print('Sufficient funds')",
+        "balance",
+        "savings"
+    ]
+}

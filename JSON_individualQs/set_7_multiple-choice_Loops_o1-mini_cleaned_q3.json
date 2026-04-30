@@ -1,0 +1,10 @@
+{
+  "question": "What does the `range(5, 10)` function generate in a for loop?",
+  "options": {
+    "A": "Numbers from 5 to 10 inclusive",
+    "B": "Numbers from 5 to 9",
+    "C": "Numbers from 6 to 10",
+    "D": "Numbers from 0 to 10 with a step of 5"
+  },
+  "answer": "B"
+}

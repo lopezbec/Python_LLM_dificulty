@@ -1,0 +1,6 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "question": "Complete the if-else statement by filling in the blank so that the program assigns 'Boiling' when temperature > 100 and 'Normal' otherwise:\n\nif temperature > 100:\n    status = 'Boiling'\nelse:\n    status = ______\n\n(Provide the default string value indicating the normal state.)",
+  "answer": "'Normal'"
+}

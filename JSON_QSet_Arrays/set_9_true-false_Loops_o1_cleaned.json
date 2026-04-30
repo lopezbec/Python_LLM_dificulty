@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The 'for' loop in Python automatically iterates through each item in a sequence.",
+    "difficulty": 1,
+    "correct_answer": "True"
+  },
+  {
+    "question": "The 'break' statement in a loop continues execution from the next iteration.",
+    "difficulty": 2,
+    "correct_answer": "False"
+  },
+  {
+    "question": "A 'while' loop requires a condition to be evaluated before each iteration.",
+    "difficulty": 3,
+    "correct_answer": "True"
+  },
+  {
+    "question": "A 'for' loop always runs at least once, even if the sequence is empty.",
+    "difficulty": 4,
+    "correct_answer": "False"
+  },
+  {
+    "question": "Using 'continue' inside a loop will skip the rest of the current iteration and move to the next one.",
+    "difficulty": 5,
+    "correct_answer": "True"
+  },
+  {
+    "question": "Loop variables must always be integers in Python.",
+    "difficulty": 6,
+    "correct_answer": "False"
+  },
+  {
+    "question": "In Python, a 'for' loop can include an 'else' clause, which executes only if no 'break' occurs in the loop.",
+    "difficulty": 7,
+    "correct_answer": "True"
+  },
+  {
+    "question": "A 'while' loop is always preferred over a 'for' loop when iterating through a list or string.",
+    "difficulty": 8,
+    "correct_answer": "False"
+  },
+  {
+    "question": "List comprehensions in Python can include conditional statements to filter items.",
+    "difficulty": 9,
+    "correct_answer": "True"
+  },
+  {
+    "question": "Nested loops are more efficient than single loops and produce fewer operations overall.",
+    "difficulty": 10,
+    "correct_answer": "False"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Within an if statement, Python allows the use of the 'in' operator to perform membership tests, such as 'if item in collection:'.",
+  "answer": true
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x = 20\nif x < 10:\n    print('Small')\n______ x == 20:\n    print('Medium')\nelse:\n    print('Large')",
+        "elif",
+        "else",
+        "then",
+        "finally"
+    ]
+}

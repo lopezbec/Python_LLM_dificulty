@@ -1,0 +1,26 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Drag the appropriate logical operators to complete the if statement.",
+  "drag_options": [
+    "and",
+    "or",
+    "not"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "if (x > 0 ___ y < 10):",
+      "identifier": "condition_1"
+    },
+    {
+      "placeholder": "if not (is_raining ___ is_windy):",
+      "identifier": "condition_2"
+    }
+  ],
+  "correct_answers": {
+    "condition_1": "and",
+    "condition_2": "or"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "Match each loop type with its correct description.",
+  "pairs": {
+    "For Loop": "Iterates over a sequence of elements.",
+    "While Loop": "Continues execution as long as a condition is true."
+  },
+  "options": [
+    "For Loop",
+    "While Loop",
+    "Iterates over a sequence of elements.",
+    "Continues execution as long as a condition is true."
+  ]
+}

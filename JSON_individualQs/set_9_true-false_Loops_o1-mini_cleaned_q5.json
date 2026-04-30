@@ -1,0 +1,7 @@
+{
+  "question": "Using the 'continue' statement inside a loop will skip the current iteration and proceed to the next one.",
+  "type": "true/false",
+  "difficulty": 5,
+  "topic": "loops",
+  "correct_answer": "True"
+}

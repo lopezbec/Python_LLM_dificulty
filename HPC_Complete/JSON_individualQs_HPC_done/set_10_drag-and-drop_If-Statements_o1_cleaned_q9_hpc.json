@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "user_input = 'start'\n[1] user_input [2] 'quit':\n    print(\"Still running\")",
+        "if",
+        "!=",
+        "not"
+    ]
+}

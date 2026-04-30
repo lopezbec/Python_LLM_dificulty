@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Drag and drop the lines to complete a simple if statement that checks if x > y and prints a message.",
+  "instruction": "Place each line in the proper order to form the valid if statement.",
+  "draggable_items": [
+    "    print('x is greater')",
+    "if x > y:"
+  ],
+  "correct_order": [
+    "if x > y:",
+    "    print('x is greater')"
+  ]
+}

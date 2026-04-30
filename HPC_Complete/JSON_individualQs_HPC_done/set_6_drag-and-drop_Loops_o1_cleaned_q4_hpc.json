@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "text = 'Python'\n\nfor ____ in ____:\n    print(____)",
+        "'Python'",
+        "char",
+        "text",
+        "i",
+        "len(text)"
+    ]
+}

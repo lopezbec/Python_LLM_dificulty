@@ -1,0 +1,22 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question_text": "Complete this loop to print every fruit in the list fruits = ['apple', 'banana', 'cherry'].",
+  "code_snippet": "fruits = ['apple', 'banana', 'cherry']\n\nfor ____ in ____:\n    print(____)",
+  "drag_items": [
+    "fruit",
+    "fruits",
+    "i",
+    "3"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2",
+    "Placeholder 3"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "fruit",
+    "Placeholder 2": "fruits",
+    "Placeholder 3": "fruit"
+  }
+}

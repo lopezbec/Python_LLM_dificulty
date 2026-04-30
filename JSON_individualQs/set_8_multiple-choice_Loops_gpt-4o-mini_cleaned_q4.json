@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What is the result if a while loop condition is never met?",
+  "options": [
+    "The loop runs indefinitely",
+    "The loop runs once",
+    "The loop does not run at all",
+    "The loop will throw an error"
+  ],
+  "correctAnswer": "The loop does not run at all"
+}

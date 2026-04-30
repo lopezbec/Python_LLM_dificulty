@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the following code:\n\nfor num in range(5):\n    if num == 3:\n        continue\n    print(num)\n\nWhat will be the output?",
+  "options": [
+    "A) 0 1 2 3 4",
+    "B) 0 1 2 4",
+    "C) 1 2 3 4",
+    "D) None"
+  ],
+  "correct_answer": "B) 0 1 2 4"
+}

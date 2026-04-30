@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "questionType": "drag-and-drop",
+  "question": "Drag the correct items to check if y is both greater than 10 and not equal to 15, then print 'Valid'.",
+  "codeSnippet": "y = 12\n___ y > 10 ___ y != 15:\n    print('Valid')",
+  "draggables": [
+    "if",
+    "and",
+    "else",
+    "or"
+  ],
+  "correctDrops": [
+    "if",
+    "and"
+  ],
+  "explanation": "Use 'if' to begin the conditional, then 'and' to combine the two conditions: y > 10 and y != 15."
+}

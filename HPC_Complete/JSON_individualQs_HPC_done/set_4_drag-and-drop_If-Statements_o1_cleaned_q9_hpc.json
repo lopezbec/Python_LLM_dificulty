@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "items = ['A', 'B', 'C']",
+        "if 'B' ___ items:",
+        "print('Found!')",
+        "'B'",
+        "items",
+        "in",
+        "not",
+        "else"
+    ]
+}

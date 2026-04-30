@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "In an if-statement, the condition must evaluate to a Boolean value (or a truthy/falsy value).",
+  "answer": "True"
+}

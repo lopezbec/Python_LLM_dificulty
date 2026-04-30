@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "question": "Which statement correctly describes the use of the 'continue' statement in a loop?",
+  "options": {
+    "A": "It exits the loop entirely.",
+    "B": "It skips the current iteration and continues with the next one.",
+    "C": "It pauses the loop until a condition is met.",
+    "D": "It restarts the loop from the beginning."
+  },
+  "answer": "B",
+  "difficulty": 5,
+  "topic": "loops",
+  "type": "multiple-choice"
+}

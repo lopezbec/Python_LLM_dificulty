@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In Python, you can use an else clause with a for loop, and it will execute if the loop completes without encountering a 'break' statement.",
+  "answer": "True"
+}

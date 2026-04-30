@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What is the output of the following code?\n\nx = [1, 2, 3]\nif x[2] == 3:\n    print('Match')\nelse:\n    print('No Match')",
+  "choices": [
+    "Match",
+    "No Match",
+    "Error",
+    "3"
+  ],
+  "correct_answer": "Match"
+}

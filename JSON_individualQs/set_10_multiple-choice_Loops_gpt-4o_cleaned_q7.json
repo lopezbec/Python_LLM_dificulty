@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which loop should you use when the number of iterations is not known beforehand?",
+  "options": [
+    "A) while",
+    "B) for",
+    "C) do-while",
+    "D) foreach"
+  ],
+  "answer": "A"
+}

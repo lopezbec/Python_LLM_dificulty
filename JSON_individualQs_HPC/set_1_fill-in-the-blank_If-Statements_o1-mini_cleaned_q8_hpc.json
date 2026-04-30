@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "item",
+        "inventory",
+        "inventory = ['apple', 'banana', 'orange']",
+        "item = 'grape'",
+        "if item ___ ___ inventory:",
+        "print(\"Item not found\")"
+    ]
+}

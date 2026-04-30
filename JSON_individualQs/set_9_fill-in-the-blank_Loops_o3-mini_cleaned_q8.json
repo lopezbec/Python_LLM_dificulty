@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: To generate a sequence of numbers from 0 up to (but not including) 10, you can use the ______ function.",
+  "answer": "range"
+}

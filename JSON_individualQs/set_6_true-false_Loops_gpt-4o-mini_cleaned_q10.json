@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Infinite loops can occur if the loop condition never becomes false and the loop does not contain a 'break' statement.",
+  "answer": true
+}

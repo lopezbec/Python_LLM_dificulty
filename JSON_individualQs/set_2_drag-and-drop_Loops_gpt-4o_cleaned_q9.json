@@ -1,0 +1,20 @@
+{
+  "difficulty": 9,
+  "prompt": "Complete the nested loop to iterate over a 2D list and print each element individually.",
+  "drag_options": [
+    "for",
+    "j",
+    "range",
+    "row"
+  ],
+  "drop_targets": [
+    "for",
+    "____",
+    "in matrix:",
+    "for",
+    "____",
+    "in",
+    "____:",
+    "print(cell)"
+  ]
+}

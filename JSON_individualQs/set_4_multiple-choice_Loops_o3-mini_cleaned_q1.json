@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "What keyword is used to start a for loop in Python?",
+  "options": [
+    "for",
+    "loop",
+    "iterate",
+    "while"
+  ],
+  "correct_answer": "for"
+}

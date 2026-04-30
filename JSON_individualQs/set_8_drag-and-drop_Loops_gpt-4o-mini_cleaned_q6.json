@@ -1,0 +1,24 @@
+{
+  "difficulty": 6,
+  "question": "Drag the correct code snippet to create a loop that iterates through the items in a dictionary.",
+  "code_snippet": "for key, value in ____:\n    print(key, value)",
+  "options": [
+    {
+      "id": 1,
+      "text": "items(my_dict)"
+    },
+    {
+      "id": 2,
+      "text": "my_dict.items()"
+    },
+    {
+      "id": 3,
+      "text": "my_dict.keys()"
+    },
+    {
+      "id": 4,
+      "text": "values(my_dict)"
+    }
+  ],
+  "correct_option_id": 2
+}

@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "num",
+        "num > 0",
+        "num % 2",
+        "0",
+        "print('Positive Even')",
+        "if",
+        "==",
+        "while",
+        "for",
+        "and"
+    ]
+}

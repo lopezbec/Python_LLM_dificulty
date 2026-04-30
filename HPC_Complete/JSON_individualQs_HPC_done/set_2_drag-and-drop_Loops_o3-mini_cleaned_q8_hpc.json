@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "for loop",
+        "list comprehension",
+        "squares = [",
+        "i*i",
+        "for i in range(5)",
+        "if ...",
+        "]"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to complete the nested if statement that checks if a number is even and positive.",
+  "options": [
+    "if",
+    "else",
+    "elif",
+    "and",
+    ":",
+    "print"
+  ],
+  "answers": {
+    "1": "if",
+    "2": "if",
+    "3": "and",
+    "4": ":",
+    "5": "print"
+  }
+}

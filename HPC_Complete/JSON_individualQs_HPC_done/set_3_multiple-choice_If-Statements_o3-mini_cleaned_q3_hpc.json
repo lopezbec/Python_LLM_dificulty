@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "x = 0",
+        "if x:",
+        "print(\"Hello\")",
+        "else:",
+        "print(\"World\")",
+        "x"
+    ]
+}

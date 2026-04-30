@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "age = 18",
+        "if age ___(1)___ 18:",
+        "print(\"Eligible to vote\")",
+        "print(\"Not eligible\")",
+        ">",
+        ">=",
+        "<",
+        "<=",
+        "==",
+        "!="
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank: In Python, to start an if-statement that checks whether x is positive, you write:\n_____ x > 0:",
+  "answer": "if"
+}

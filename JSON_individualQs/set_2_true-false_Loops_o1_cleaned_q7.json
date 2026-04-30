@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "When used inside a function, a 'return' statement placed within a loop will exit the entire function, not just the loop.",
+  "correct_answer": true
+}

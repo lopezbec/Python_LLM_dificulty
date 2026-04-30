@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "def square_generator(n):",
+        "for i in range(n):",
+        "____(i**2)"
+    ]
+}

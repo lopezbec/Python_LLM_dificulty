@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank so the code prints 'Flag is False' only when flag is False:\n\nif ______flag:\n    print(\"Flag is False\")",
+  "answer": "not "
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code:\n\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')\nWhat will be printed if x = 7?",
+  "options": [
+    "a) Even",
+    "b) Odd",
+    "c) Error",
+    "d) None of the above"
+  ],
+  "correct_answer": "b",
+  "difficulty": 6
+}

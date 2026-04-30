@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A for loop can iterate over each element in a list.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "A while loop will execute its block of code only as long as a given condition is True.",
+    "answer": true,
+    "difficulty": 2
+  },
+  {
+    "question": "In Python, the range(5) function generates a sequence of numbers from 1 to 5.",
+    "answer": false,
+    "difficulty": 3
+  },
+  {
+    "question": "Nested loops can be used to iterate over multi-dimensional data structures like lists of lists.",
+    "answer": true,
+    "difficulty": 4
+  },
+  {
+    "question": "The 'break' statement inside a loop will skip the current iteration and continue with the next one.",
+    "answer": false,
+    "difficulty": 5
+  },
+  {
+    "question": "In a for loop iterating over a dictionary, it iterates over the dictionary keys by default.",
+    "answer": true,
+    "difficulty": 6
+  },
+  {
+    "question": "In Python, a loop's 'else' block is executed only if the loop is not terminated by a 'break' statement.",
+    "answer": true,
+    "difficulty": 7
+  },
+  {
+    "question": "Using nested loops can lead to exponential time complexity, making the program significantly slower with large datasets.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "Variables defined inside a loop in Python are local to the loop and cannot be accessed outside of it.",
+    "answer": false,
+    "difficulty": 9
+  },
+  {
+    "question": "Generator expressions can be used to create memory-efficient loops by yielding items one at a time on demand.",
+    "answer": true,
+    "difficulty": 10
+  }
+]

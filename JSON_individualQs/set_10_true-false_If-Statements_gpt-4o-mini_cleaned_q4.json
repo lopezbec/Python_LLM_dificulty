@@ -1,0 +1,5 @@
+{
+  "question": "It is legal to have multiple elif clauses in a single if-statement.",
+  "difficulty": 4,
+  "answer": true
+}

@@ -1,0 +1,5 @@
+{
+  "question": "When iterating through a dictionary, using a loop will always provide both key and value by default.",
+  "difficulty": 10,
+  "answer": "False"
+}

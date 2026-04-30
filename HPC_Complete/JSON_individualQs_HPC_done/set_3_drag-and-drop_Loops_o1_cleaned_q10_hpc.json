@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "while loop",
+        "user for input",
+        "'exit'",
+        "list called 'entries'",
+        "entries = []",
+        "while True:",
+        "user_input = input('Enter something (or exit): ')",
+        "[EXIT_CONDITION_PLACEHOLDER]",
+        "[APPEND_PLACEHOLDER]",
+        "if user_input.lower() == 'exit': break",
+        "entries.append(user_input)",
+        "if user_input.lower() == 'exit': continue",
+        "entries.remove(user_input)"
+    ]
+}

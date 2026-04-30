@@ -1,0 +1,25 @@
+{
+  "difficulty": 9,
+  "question": "Reorder the following code segments to compute the sum of all even numbers less than n. Arrange the segments to form a complete program.",
+  "dragItems": [
+    "total = 0",
+    "for i in range(n):",
+    "if i % 2 == 0:",
+    "total += i",
+    "print(total)"
+  ],
+  "dropZones": [
+    "Step 1",
+    "Step 2",
+    "Step 3",
+    "Step 4",
+    "Step 5"
+  ],
+  "correctMapping": {
+    "Step 1": "total = 0",
+    "Step 2": "for i in range(n):",
+    "Step 3": "if i % 2 == 0:",
+    "Step 4": "total += i",
+    "Step 5": "print(total)"
+  }
+}

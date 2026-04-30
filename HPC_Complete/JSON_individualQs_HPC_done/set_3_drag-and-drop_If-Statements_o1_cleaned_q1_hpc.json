@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 5",
+        "_____ x == 5:",
+        "print(\"Correct\")",
+        "if",
+        "def",
+        "while",
+        "return"
+    ]
+}

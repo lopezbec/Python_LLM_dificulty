@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "number = 7",
+        "if number < 5:",
+        "print(\"Less than 5\")",
+        "elif number < 10:",
+        "print(\"Between 5 and 10\")",
+        "else:",
+        "print(\"10 or more\")",
+        "number",
+        "'elif'",
+        "A) Less than 5",
+        "B) Between 5 and 10",
+        "C) 10 or more",
+        "D) Error: 'elif' is not a valid keyword"
+    ]
+}

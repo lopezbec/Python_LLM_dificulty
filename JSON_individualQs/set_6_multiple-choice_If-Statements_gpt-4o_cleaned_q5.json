@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code:\n\nx = 5\nif x > 3:\n    if x < 10:\n        print('Within range')\nWhat will be printed?",
+  "choices": [
+    "Within range",
+    "Nothing",
+    "Error",
+    "5"
+  ],
+  "correct_answer": "Within range"
+}

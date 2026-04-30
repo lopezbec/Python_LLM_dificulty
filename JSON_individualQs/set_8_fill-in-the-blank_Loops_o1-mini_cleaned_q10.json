@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank: Using a generator expression within a loop allows for iteration over data streams without holding the entire sequence in ____. ",
+  "answer": "memory"
+}

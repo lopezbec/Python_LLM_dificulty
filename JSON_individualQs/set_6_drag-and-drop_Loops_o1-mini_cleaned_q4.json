@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "question": "Match each loop type to its appropriate use case by dragging the correct pair.",
+  "options": [
+    {
+      "type": "for loop",
+      "match": "Iterating over a list"
+    },
+    {
+      "type": "while loop",
+      "match": "Repeating until a condition is false"
+    }
+  ],
+  "correct_matches": [
+    {
+      "type": "for loop",
+      "match": "Iterating over a list"
+    },
+    {
+      "type": "while loop",
+      "match": "Repeating until a condition is false"
+    }
+  ],
+  "difficulty": 4
+}

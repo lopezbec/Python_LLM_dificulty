@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, the loop that executes a block of code a set number of times is called a ___.",
+    "answer": "for loop"
+  },
+  {
+    "difficulty": 2,
+    "question": "The ___ statement in Python is used to exit a loop prematurely.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 3,
+    "question": "In a for loop, the variable that takes on each value in a sequence is often called a ___.",
+    "answer": "iterator"
+  },
+  {
+    "difficulty": 4,
+    "question": "To skip the current iteration of a loop and move to the next iteration, Python uses the ___ statement.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the type of loop that continues until a specified condition becomes false is called a ___.",
+    "answer": "while loop"
+  },
+  {
+    "difficulty": 6,
+    "question": "The range function produces a sequence of numbers, which can be used to control a ___ loop.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 7,
+    "question": "When using a while loop, it is essential to modify the condition in order to avoid an _____ loop.",
+    "answer": "infinite"
+  },
+  {
+    "difficulty": 8,
+    "question": "A nested loop is a loop inside another loop, where the inner loop is executed ___ for every iteration of the outer loop.",
+    "answer": "completely"
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, using 'else' after a loop defines a block of code that runs only if the loop is not terminated by a ___.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 10,
+    "question": "To iterate over elements in a dictionary, one can loop through its ___ or use methods like items() or keys().",
+    "answer": "keys"
+  }
+]

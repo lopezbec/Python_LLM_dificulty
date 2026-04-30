@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following expressions checks if variable a is greater than 5 and b is less than 10?",
+  "answers": {
+    "A": "if a > 5 or b < 10:",
+    "B": "if a and b < 5, 10:",
+    "C": "if (a > 5) and (b < 10):",
+    "D": "if a > 5 < b < 10:"
+  },
+  "correctAnswer": "C"
+}

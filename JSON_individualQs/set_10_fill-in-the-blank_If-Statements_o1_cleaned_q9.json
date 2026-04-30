@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank (Difficulty 9): When comparing object identity rather than equality, use the '______' keyword in an if-statement.",
+  "correct_answer": "is",
+  "difficulty": 9
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "A 'for' loop can iterate directly over the keys of a dictionary.",
+  "answer": true
+}

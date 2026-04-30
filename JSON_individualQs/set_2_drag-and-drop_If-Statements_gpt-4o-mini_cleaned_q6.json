@@ -1,0 +1,10 @@
+{
+  "difficulty": 6,
+  "question": "Complete the if-elif-else structure by dragging the correct block: \nif (x < 0) { } _______ (x == 0) { } else _______ ;",
+  "drops": [
+    "elif",
+    "else",
+    "if"
+  ],
+  "correct": "elif"
+}

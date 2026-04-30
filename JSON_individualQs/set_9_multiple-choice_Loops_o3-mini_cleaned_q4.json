@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What is the role of the else clause in a Python loop?",
+  "options": [
+    "It is executed if the loop terminates normally (i.e., without encountering a break statement).",
+    "It is executed on every iteration of the loop.",
+    "It is executed only if a break statement is encountered within the loop.",
+    "It restarts the loop from the beginning."
+  ],
+  "correct_answer": "It is executed if the loop terminates normally (i.e., without encountering a break statement)."
+}

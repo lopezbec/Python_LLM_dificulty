@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 0",
+        "if x:",
+        "print('True')",
+        "elif not x:",
+        "print('False')",
+        "else:",
+        "print('Neither')",
+        "True",
+        "False",
+        "Neither",
+        "None"
+    ]
+}

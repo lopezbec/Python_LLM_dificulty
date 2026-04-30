@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Python allows chaining of comparison operators (e.g., 0 < x < 5) in an if-statement without the need for logical operators.",
+  "answer": "True"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "10. Which of the following statements about if-statements is TRUE?",
+  "difficulty": 10,
+  "options": {
+    "a": "If-statements can only evaluate a single condition at a time.",
+    "b": "If-statements cannot be nested within each other.",
+    "c": "If-statements are used to repeat code multiple times.",
+    "d": "If-statements can evaluate complex expressions involving logical operators.",
+    "correct_answer": "d"
+  }
+}

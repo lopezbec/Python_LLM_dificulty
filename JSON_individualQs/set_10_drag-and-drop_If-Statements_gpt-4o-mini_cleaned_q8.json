@@ -1,0 +1,13 @@
+{
+  "difficulty": 8,
+  "question": "Drag and drop the code fragments to create a consolidated if-statement that checks multiple conditions: if 'x' is greater than 10 and 'y' is less than 5, print 'Condition Met'.",
+  "code_fragments": [
+    "if x > 10 and y < 5:",
+    "print('Condition Met')",
+    "if x < 10 and y > 5:"
+  ],
+  "correct_order": [
+    "if x > 10 and y < 5:",
+    "print('Condition Met')"
+  ]
+}

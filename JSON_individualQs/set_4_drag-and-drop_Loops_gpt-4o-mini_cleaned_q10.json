@@ -1,0 +1,19 @@
+{
+  "difficulty": 10,
+  "question": "Drag and drop to create a function that generates a Fibonacci sequence up to n using a loop.",
+  "options": [
+    "def fibonacci(n):",
+    "a, b = 0, 1",
+    "for _ in range(n):",
+    "result.append(a)",
+    "a, b = b, a + b"
+  ],
+  "correct_order": [
+    "def fibonacci(n):",
+    "a, b = 0, 1",
+    "result = []",
+    "for _ in range(n):",
+    "result.append(a)",
+    "a, b = b, a + b"
+  ]
+}

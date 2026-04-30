@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for i in <blank>: print(i)",
+        "range(5)",
+        "range(0, 5)",
+        "range(1, 4)",
+        "range(1, 5)"
+    ]
+}

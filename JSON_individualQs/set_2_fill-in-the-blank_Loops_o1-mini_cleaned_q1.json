@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank to complete a basic for loop that prints numbers from 0 to 4:\n\n```python\nfor i in range(___):\n    print(i)\n```",
+  "answer": "5"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the purpose of an if-statement in Python?",
+    "options": [
+      "To create loops",
+      "To conditionally execute code",
+      "To define functions",
+      "To create variables"
+    ],
+    "answer": "To conditionally execute code",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the correct syntax for an if-statement in Python?",
+    "options": [
+      "if condition: do_something()",
+      "if (condition) then do_something()",
+      "if condition then do_something():",
+      "if condition: do_something"
+    ],
+    "answer": "if condition: do_something()",
+    "difficulty": 2
+  },
+  {
+    "question": "Which of the following will print 'Hello' only if the variable x is greater than 10?",
+    "options": [
+      "if x > 10 print('Hello')",
+      "if (x > 10): print('Hello')",
+      "if x > 10: print 'Hello'",
+      "if x > 10 then print('Hello')"
+    ],
+    "answer": "if (x > 10): print('Hello')",
+    "difficulty": 3
+  },
+  {
+    "question": "What will be the output of the following code?\n\nx = 5\nif x > 3:\n    print('Yes')\nelse:\n    print('No')",
+    "options": [
+      "Yes",
+      "No",
+      "Error",
+      "None"
+    ],
+    "answer": "Yes",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the result of the following code?\n\nx = 10\nif x < 5:\n    print('Small')\nelif x > 8:\n    print('Medium')\nelse:\n    print('Large')",
+    "options": [
+      "Small",
+      "Medium",
+      "Large",
+      "Error"
+    ],
+    "answer": "Medium",
+    "difficulty": 5
+  },
+  {
+    "question": "Consider the code below. What will it output?\n\nx = 4\nif x == 4:\n    print('Four')\nif x != 4:\n    print('Not Four')",
+    "options": [
+      "Four",
+      "Not Four",
+      "Four Not Four",
+      "Error"
+    ],
+    "answer": "Four",
+    "difficulty": 6
+  },
+  {
+    "question": "What will happen if the following code is executed?\n\nx = -1\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Error"
+    ],
+    "answer": "Negative",
+    "difficulty": 7
+  },
+  {
+    "question": "What will the following code output?\n\nx = [1, 2, 3]\nif len(x) == 3:\n    print('Three')\nelse:\n    print('Not Three')",
+    "options": [
+      "Three",
+      "Not Three",
+      "Error",
+      "None"
+    ],
+    "answer": "Three",
+    "difficulty": 8
+  },
+  {
+    "question": "Given the following code, what will be printed?\n\nvalue = 10\nif value % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+    "options": [
+      "Even",
+      "Odd",
+      "Neither",
+      "Both"
+    ],
+    "answer": "Even",
+    "difficulty": 9
+  },
+  {
+    "question": "What will the following code produce as output?\n\nnum = 0\nif num:\n    print('True')\nelse:\n    print('False')",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "False",
+    "difficulty": 10
+  }
+]

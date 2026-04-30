@@ -1,0 +1,20 @@
+{
+  "question": "Drag and drop the components to complete an if-statement that calls a function within its condition:",
+  "options": [
+    "if",
+    "is_valid(user_input())",
+    ":",
+    "    process(user_input())",
+    "else:",
+    "    handle_error()"
+  ],
+  "answer": [
+    "if",
+    "is_valid(user_input())",
+    ":",
+    "    process(user_input())",
+    "else:",
+    "    handle_error()"
+  ],
+  "difficulty": 8
+}

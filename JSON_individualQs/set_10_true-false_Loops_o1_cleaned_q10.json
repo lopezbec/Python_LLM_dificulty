@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Using too many nested loops can increase time complexity, making code less efficient.",
+  "correct_answer": "True"
+}

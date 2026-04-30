@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Drag and drop the code fragments to build an if statement with nested conditions that evaluates the value of num.",
+  "instruction": "Place the following code snippets in the correct order to form a multi-level conditional statement.",
+  "draggable_items": [
+    "    if num < 100:",
+    "else:",
+    "    print('Zero or negative')",
+    "        print('Positive and less than 100')",
+    "if num > 0:",
+    "    else:",
+    "        print('Positive but 100 or more')"
+  ],
+  "correct_order": [
+    "if num > 0:",
+    "    if num < 100:",
+    "        print('Positive and less than 100')",
+    "    else:",
+    "        print('Positive but 100 or more')",
+    "else:",
+    "    print('Zero or negative')"
+  ]
+}

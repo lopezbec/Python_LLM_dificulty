@@ -1,0 +1,15 @@
+{
+  "difficulty": 10,
+  "description": "Fill in the blanks for a complex if-else structure handling priority and status checks.",
+  "premise": "priority = 1\nstatus = 'pending'\nif __:\n    if __:\n        print('Urgent')\n    else:\n        print('High Priority')\nelse:\n    print('Low Priority')",
+  "options": [
+    "priority == 1",
+    "status == 'pending'",
+    "priority > 1",
+    "status != 'pending'"
+  ],
+  "correct_answer": [
+    "priority == 1",
+    "status == 'pending'"
+  ]
+}

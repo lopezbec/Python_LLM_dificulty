@@ -1,0 +1,11 @@
+{
+  "question": "What does a 'for' loop do in Python?",
+  "options": [
+    "A. It stops the execution of a program.",
+    "B. It allows code to be executed repeatedly.",
+    "C. It defines a function.",
+    "D. It creates a variable."
+  ],
+  "answer": "B",
+  "difficulty": 1
+}

@@ -1,0 +1,5 @@
+{
+  "level": 6,
+  "question": "Complete the nested if statement to check if a number is positive and even:\n\nif num > 0:\n    if num ____ 2 == 0:\n        print(\"Positive even number\")",
+  "answer": "%"
+}

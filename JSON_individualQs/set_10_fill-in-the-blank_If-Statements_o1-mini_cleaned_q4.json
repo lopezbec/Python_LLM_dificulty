@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "question": "Fill in the blank to use the logical AND operator in the if statement:\n\nif age >= 18 ___ citizenship == 'US':\n    print('Eligible to vote')",
+  "answer": "and",
+  "difficulty": 4
+}

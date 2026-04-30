@@ -1,0 +1,14 @@
+{
+  "number": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "prompt": "Complete the program to check two conditions. Print 'In range!' if x is between 0 and 10 or between 20 and 30. Use the correct operators.",
+  "code": "x = 25\nif (0 <= x <= 10) __________ (20 <= x <= 30):\n    print(\"In range!\")",
+  "choices": [
+    "and",
+    "or",
+    "not",
+    "=="
+  ],
+  "correct_choice": "or"
+}

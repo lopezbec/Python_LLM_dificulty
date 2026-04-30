@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "True or False: The break statement in a loop only exits out of the current iteration, not the entire loop.",
+  "answer": "False"
+}

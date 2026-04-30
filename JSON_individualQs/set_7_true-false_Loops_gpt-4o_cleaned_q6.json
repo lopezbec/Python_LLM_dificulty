@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Nested loops occur when a 'while' loop is placed inside a 'for' loop, and this setup can result in a quadratic time complexity (O(n^2)) in many cases.",
+  "answer": true
+}

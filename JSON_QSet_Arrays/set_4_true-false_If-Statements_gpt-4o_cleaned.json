@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an 'if' statement can be used without an 'else' or 'elif'.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "Indentation is not important when using 'if' statements in Python.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, the condition of an 'if' statement needs to be enclosed in parentheses.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "Executing an 'if' statement with a 'False' condition will result in the execution of the block inside the 'if'.",
+    "answer": false
+  },
+  {
+    "difficulty": 5,
+    "question": "The 'elif' keyword in Python is an abbreviation for 'else if'.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "When an 'if' statement block is executed, all subsequent 'elif' and 'else' blocks are ignored.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, a variable created inside an 'if' block is accessible outside of that block.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "An 'else' block is mandatory when writing an 'if' statement in Python.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "Python's 'if' statements can evaluate expressions that return different types, such as lists or dictionaries, as long as the result evaluates to a boolean value.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, the 'and', 'or', and 'not' logical operators can be used within an 'if' condition to evaluate multiple expressions.",
+    "answer": true
+  }
+]

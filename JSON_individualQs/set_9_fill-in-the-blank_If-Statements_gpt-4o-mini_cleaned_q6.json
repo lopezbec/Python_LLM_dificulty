@@ -1,0 +1,6 @@
+{
+  "question": "The indentation level for the code block inside an if statement must be consistent, otherwise Python will raise an _____ error.",
+  "difficulty": 6,
+  "answer": "IndentationError",
+  "correct": true
+}

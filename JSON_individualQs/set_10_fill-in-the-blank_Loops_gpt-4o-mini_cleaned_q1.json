@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A _____ loop will execute its body at least once, even if the condition is initially false.",
+  "answer": "do-while"
+}

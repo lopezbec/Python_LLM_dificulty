@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will the following code output?\n\nx = 4\nif x % 2 == 0 and x < 5:\n    print(\"Small even\")\nelif x % 2 == 0 and x < 10:\n    print(\"Medium even\")\nelse:\n    print(\"Other\")",
+  "options": [
+    "A) Small even",
+    "B) Medium even",
+    "C) Other",
+    "D) Syntax error"
+  ],
+  "correctAnswer": "A"
+}

@@ -1,0 +1,16 @@
+{
+  "question": "Drag and drop the correct keyword to complete the statement so that it prints 'x is greater than 5' when x > 5.",
+  "difficulty": 1,
+  "code": "x = 10\n__1__ x > 5:\n    print(\"x is greater than 5\")",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "while",
+        "func"
+      ]
+    }
+  ]
+}

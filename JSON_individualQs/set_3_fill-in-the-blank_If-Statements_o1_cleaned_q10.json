@@ -1,0 +1,6 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank to complete the one-line conditional that sets 'message' to 'Positive' if x is greater than 0, or 'Non-positive' otherwise:\nmessage = 'Positive' if x > 0 ______ 'Non-positive'",
+  "answer": "else"
+}

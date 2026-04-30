@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Understanding the loop 'else' clause.",
+  "instruction": "Drag and drop the correct keyword to complete the code so that the block executes only if the loop is not terminated by a break.",
+  "drag_items": [
+    "else",
+    "finally",
+    "continue",
+    "pass"
+  ],
+  "drop_zones": [
+    "Code keyword that follows the for loop: ______:"
+  ],
+  "correct_mapping": {
+    "Code keyword that follows the for loop: ______:": "else"
+  }
+}

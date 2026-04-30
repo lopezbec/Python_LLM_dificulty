@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "x",
+        "y",
+        "if x < 0 ____ y < 0:",
+        "print('Negative value found')"
+    ]
+}

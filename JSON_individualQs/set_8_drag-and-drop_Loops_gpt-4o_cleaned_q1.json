@@ -1,0 +1,16 @@
+{
+  "difficulty": 1,
+  "question": "Match each type of loop to the correct description.",
+  "choices": [
+    "for loop",
+    "while loop"
+  ],
+  "descriptions": [
+    "Executes a block of code a specified number of times.",
+    "Continues to execute a block of code as long as a specified condition remains true."
+  ],
+  "correct_answers": {
+    "for loop": "Executes a block of code a specified number of times.",
+    "while loop": "Continues to execute a block of code as long as a specified condition remains true."
+  }
+}

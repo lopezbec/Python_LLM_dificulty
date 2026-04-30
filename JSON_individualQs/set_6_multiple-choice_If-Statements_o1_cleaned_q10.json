@@ -1,0 +1,11 @@
+{
+  "question": "10) Which snippet is the correct usage of Python's ternary operator to set 'result' based on whether x is greater than 10?",
+  "difficulty": 10,
+  "answers": [
+    "result = (x > 10) ? 'Greater' : 'Not Greater'",
+    "result = 'Greater' if x > 10 else 'Not Greater'",
+    "result = if x > 10 else 'Not Greater'",
+    "result = 'Greater' only if x > 10 else 'Not Greater'"
+  ],
+  "correct_answer": "result = 'Greater' if x > 10 else 'Not Greater'"
+}

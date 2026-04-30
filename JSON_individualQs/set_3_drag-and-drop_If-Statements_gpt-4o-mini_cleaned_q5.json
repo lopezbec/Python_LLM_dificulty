@@ -1,0 +1,11 @@
+{
+  "question": "Drag the correct else-if condition into the blank space: \nif (grade >= 90) { print('A'); } ______ { print('B'); }",
+  "options": [
+    "if (grade >= 80)",
+    "grade = 80",
+    "print('Passing')",
+    "if (grade < 90)"
+  ],
+  "correct_answer": "if (grade >= 80)",
+  "difficulty": 5
+}

@@ -1,0 +1,13 @@
+{
+  "difficulty": 10,
+  "question": "Configure the missing elements for a nested if statement.",
+  "code": "if x > 10: \n    if y < 5: \n        __inner_statement__\nelse:\n    print(\"x is not greater than 10\")",
+  "options": [
+    "print(\"Valid Range\")",
+    "continue",
+    "break"
+  ],
+  "answers": [
+    "print(\"Valid Range\")"
+  ]
+}

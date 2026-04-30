@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Variables defined inside a for loop in Python are accessible outside the loop after its execution.",
+  "answer": true
+}

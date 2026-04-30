@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Modifying a list while iterating over it with a for loop will always produce an error in Python.",
+  "correct_answer": false
+}

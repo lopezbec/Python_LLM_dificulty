@@ -1,0 +1,20 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if y is even using (y % 2 == 0). Print 'Even' if true, otherwise print 'Odd'.",
+  "codeSnippet": "y = 5\n[1] y % 2 [2] 0:\n    [3](\"Even\")\n[4]:\n    print(\"Odd\")",
+  "dragItems": [
+    "if",
+    "==",
+    "print",
+    "else"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    "print",
+    "else"
+  ],
+  "explanation": "We first check if y % 2 == 0 with 'if', then use 'else' for printing 'Odd'."
+}

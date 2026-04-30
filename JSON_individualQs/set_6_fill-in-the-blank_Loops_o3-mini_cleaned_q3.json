@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank: The built-in function ______ is used with a for loop to generate a sequence of numbers.",
+  "correct_answer": "range"
+}

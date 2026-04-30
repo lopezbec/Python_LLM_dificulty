@@ -1,0 +1,15 @@
+{
+  "difficulty": 6,
+  "description": "Fill in the blanks to validate an even number and check if greater than 10.",
+  "premise": "num = 14\nif __ and __:\n    print('Pass')",
+  "options": [
+    "num % 2 == 0",
+    "num > 10",
+    "num < 10",
+    "num % 2 != 0"
+  ],
+  "correct_answer": [
+    "num % 2 == 0",
+    "num > 10"
+  ]
+}

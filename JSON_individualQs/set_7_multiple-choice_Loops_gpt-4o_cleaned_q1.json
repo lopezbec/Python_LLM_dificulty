@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What type of loop is used in Python to iterate over a sequence, such as a list or string?",
+  "options": [
+    "A) while loop",
+    "B) for loop",
+    "C) do-while loop",
+    "D) until loop"
+  ],
+  "correct_answer": "B) for loop"
+}

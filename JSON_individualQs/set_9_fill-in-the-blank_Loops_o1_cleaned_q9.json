@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank to iterate over both keys and values of the dictionary:\n\ndata = {'a': 1, 'b': 2}\nfor key, value in data.__________:\n    print(key, value)",
+  "answer": "items"
+}

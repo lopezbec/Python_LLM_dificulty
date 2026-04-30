@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "x",
+        "y",
+        "if x > 10 ______ y < 5:",
+        "print('Condition met')"
+    ]
+}

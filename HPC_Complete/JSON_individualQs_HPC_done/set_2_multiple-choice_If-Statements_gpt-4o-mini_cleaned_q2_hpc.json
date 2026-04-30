@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if condition: do_something()",
+        "if (condition) then do_something()",
+        "if condition then do_something():",
+        "if condition: do_something"
+    ]
+}

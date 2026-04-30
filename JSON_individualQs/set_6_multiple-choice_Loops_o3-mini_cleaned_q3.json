@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be the output of the following Python code?\n\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1",
+  "options": [
+    "0 1 2",
+    "0 1 2 3",
+    "3 2 1",
+    "0 3"
+  ],
+  "correctAnswer": "0 1 2"
+}

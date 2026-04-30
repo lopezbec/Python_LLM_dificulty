@@ -1,0 +1,15 @@
+{
+  "question": "Drag the snippets to form a simple for loop that prints the numbers from 1 to 3.",
+  "difficulty": 1,
+  "instruction": "Arrange the code blocks in the correct order to create a valid loop.",
+  "options": [
+    "print(i)",
+    "for i in range(1, 4):",
+    "    "
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "    ",
+    "print(i)"
+  ]
+}

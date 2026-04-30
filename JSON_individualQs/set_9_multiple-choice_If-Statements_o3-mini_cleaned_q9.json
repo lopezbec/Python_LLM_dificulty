@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the following code:\n\nif x > 5 and x < 10:\n    print('x is between 6 and 9')\nelse:\n    print('x is out of range')\n\nWhat is the printed result when x equals 10?",
+  "options": [
+    "x is out of range",
+    "x is between 6 and 9",
+    "No output because of SyntaxError",
+    "10"
+  ],
+  "answer": "x is out of range"
+}

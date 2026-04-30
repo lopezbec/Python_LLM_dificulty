@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Prevent an infinite loop.",
+  "instruction": "Drag and drop the correct code snippet to update the loop variable within the while loop.",
+  "drag_items": [
+    "i += 1",
+    "i = 0",
+    "continue",
+    "break"
+  ],
+  "drop_zones": [
+    "Missing updater in: while i < 5: print(i) _______"
+  ],
+  "correct_mapping": {
+    "Missing updater in: while i < 5: print(i) _______": "i += 1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in [RANGE_PLACEHOLDER]:",
+        "[PRINT_PLACEHOLDER]",
+        "range(3, 0, -1)",
+        "range(1, 4)",
+        "print(i)",
+        "print(i * -1)"
+    ]
+}

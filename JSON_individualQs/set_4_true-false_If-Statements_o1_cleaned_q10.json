@@ -1,0 +1,5 @@
+{
+  "question": "Placing multiple if statements sequentially in Python automatically makes them part of the same decision chain.",
+  "difficulty": 10,
+  "correct_answer": "False"
+}

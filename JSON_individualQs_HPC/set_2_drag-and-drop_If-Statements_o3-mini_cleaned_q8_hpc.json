@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if char.isalpha():",
+        "    if char.isupper():",
+        "        print('Uppercase letter')",
+        "    else:",
+        "        print('Lowercase letter')",
+        "elif char.isdigit():",
+        "    print('Digit')",
+        "else:",
+        "    print('Special character')"
+    ]
+}

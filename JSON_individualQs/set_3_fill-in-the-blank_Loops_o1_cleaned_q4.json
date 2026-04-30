@@ -1,0 +1,6 @@
+{
+  "difficulty": 4,
+  "type": "fill-in-the-blank",
+  "question": "In a 'for' loop, you can generate a series of numbers using the built-in function '___'.",
+  "correct_answer": "range"
+}

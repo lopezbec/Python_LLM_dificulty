@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "prompt": "Drag and drop the blocks to form an if\u2010statement that uses the 'not' operator and parentheses. The statement should print 'Invalid input' if the input_value is not a positive digit (i.e. if it is not comprised of digits or if its integer value is not greater than 0).",
+  "drag_items": [
+    "if",
+    "not",
+    "(",
+    "input_value.isdigit()",
+    "and",
+    "int(input_value) > 0",
+    ")",
+    ":",
+    "print('Invalid input')"
+  ],
+  "correct_order": [
+    "if",
+    "not",
+    "(",
+    "input_value.isdigit()",
+    "and",
+    "int(input_value) > 0",
+    ")",
+    ":",
+    "print('Invalid input')"
+  ],
+  "explanation": "The 'not' operator inverts the Boolean result of the condition inside the parentheses. If the condition is false, the block prints 'Invalid input'."
+}

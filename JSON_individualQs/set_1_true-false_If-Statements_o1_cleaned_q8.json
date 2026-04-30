@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "You can combine multiple conditions in a single 'if' statement using logical operators like 'and', 'or', and 'not'.",
+  "correct_answer": "True"
+}

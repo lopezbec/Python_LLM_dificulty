@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (condition):",
+        "else:",
+        "print('True branch')",
+        "print('False branch')",
+        "print('Else branch')"
+    ]
+}

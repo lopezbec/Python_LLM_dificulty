@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "while True: print(\"Hello\")",
+        "while (True) print(\"Hello\")",
+        "while True { print(\"Hello\") }",
+        "loop True: print(\"Hello\")"
+    ]
+}

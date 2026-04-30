@@ -1,0 +1,5 @@
+{
+  "question": "If the condition in an if statement is always False, the code block inside the if statement will never execute.",
+  "answer": true,
+  "difficulty": 7
+}

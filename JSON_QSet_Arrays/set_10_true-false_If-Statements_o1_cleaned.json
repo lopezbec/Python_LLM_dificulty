@@ -1,0 +1,92 @@
+[
+  {
+    "question": "An if statement can be used to conditionally run a block of code.",
+    "difficulty": 1,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, an if statement must always end with the 'else' statement.",
+    "difficulty": 2,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "Indentation is used in Python to determine the code that belongs in the if block.",
+    "difficulty": 3,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "The 'elif' keyword is optional when writing multiple if statements in Python.",
+    "difficulty": 4,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "Parentheses around the if condition are mandatory in Python syntax.",
+    "difficulty": 5,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "A colon (:) is necessary at the end of an if statement's header in Python.",
+    "difficulty": 6,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "Python allows the use of logical operators like 'and' and 'or' within an if condition.",
+    "difficulty": 7,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "You can only check for one condition in a single if statement in Python.",
+    "difficulty": 8,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "question": "An if statement can appear inside another if statement, which is known as nesting.",
+    "difficulty": 9,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "True"
+  },
+  {
+    "question": "A Python if statement can always be replaced entirely by a single line ternary operator.",
+    "difficulty": 10,
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_answer": "False"
+  }
+]

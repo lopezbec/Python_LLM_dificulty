@@ -1,0 +1,6 @@
+{
+  "question": "True or False: An 'if' statement in Python can have multiple 'else' clauses to handle different conditions.",
+  "answer": false,
+  "difficulty": 5,
+  "topic": "if-statements"
+}

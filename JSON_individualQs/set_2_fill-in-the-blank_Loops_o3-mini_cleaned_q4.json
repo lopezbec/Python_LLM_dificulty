@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: The ____ function is commonly used with for loops to generate a sequence of numbers.",
+  "answer": "range"
+}

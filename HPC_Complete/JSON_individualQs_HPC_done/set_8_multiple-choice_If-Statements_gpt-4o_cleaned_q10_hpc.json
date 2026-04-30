@@ -1,0 +1,20 @@
+{
+    "HPC": [
+        "x = 8",
+        "y = 12",
+        "if x > 10:",
+        "if y < 15:",
+        "print('Case 1')",
+        "else:",
+        "print('Case 2')",
+        "else:",
+        "if y < 10:",
+        "print('Case 3')",
+        "else:",
+        "print('Case 4')",
+        "Case 1",
+        "Case 2",
+        "Case 3",
+        "Case 4"
+    ]
+}

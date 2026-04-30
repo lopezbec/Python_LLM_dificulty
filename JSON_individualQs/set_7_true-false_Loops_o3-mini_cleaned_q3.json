@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "A 'while' loop in Python can execute indefinitely if its condition never becomes False.",
+  "correct_answer": true
+}

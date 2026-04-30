@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Consider the following code snippet:\n\nx = 0\nif x:\n    print(\"Hello\")\nelse:\n    print(\"World\")\n\nWhat will be printed when this code is executed?",
+  "options": [
+    "Hello",
+    "World",
+    "0",
+    "Nothing is printed"
+  ],
+  "correct_answer": "World"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What keyword is used to start a conditional statement in Python?",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "if",
+    "D": "switch"
+  },
+  "answer": "C",
+  "difficulty": 1
+}

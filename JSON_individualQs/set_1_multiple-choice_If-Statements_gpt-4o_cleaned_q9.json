@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which operator would you use to check if a variable `x` is within the range of 1 to 10 inclusive in a single if-statement?",
+  "options": [
+    "if 1 <= x <= 10:",
+    "if x in range(1, 10):",
+    "if x == 1 or x == 10:",
+    "if x >= 1 and x <= 10:"
+  ],
+  "correct_answer": "if 1 <= x <= 10:"
+}

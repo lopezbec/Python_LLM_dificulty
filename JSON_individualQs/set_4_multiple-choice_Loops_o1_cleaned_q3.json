@@ -1,0 +1,11 @@
+{
+  "question": "What does the following Python code print?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1",
+  "difficulty": 3,
+  "options": [
+    "A. It prints 1, 2, 3",
+    "B. It prints 0, 1, 2",
+    "C. It prints 0, 1, 2, 3",
+    "D. It results in an infinite loop"
+  ],
+  "answer": "B"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "start -= 2",
+        "while start >= 1:",
+        "start = 7",
+        "print(start)"
+    ]
+}

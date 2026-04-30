@@ -1,0 +1,17 @@
+{
+  "difficulty": 10,
+  "question": "Construct a loop that utilizes both a for-loop and an if-statement. Drag the pieces into the correct places.",
+  "options": {
+    "A": "for",
+    "B": "if",
+    "C": "in",
+    "D": "print"
+  },
+  "drops": {
+    "Target": "______(i in range(20)) : _____(i) if i % 2 == 0 else None"
+  },
+  "correct_order": [
+    "A",
+    "B"
+  ]
+}

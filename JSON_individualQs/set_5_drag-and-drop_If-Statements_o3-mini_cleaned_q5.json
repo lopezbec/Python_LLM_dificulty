@@ -1,0 +1,18 @@
+{
+  "question": "Complete the nested if-statement.",
+  "difficulty": 5,
+  "instructions": "Drag the keyword needed for the inner if-statement.",
+  "codeSnippet": "if x > 0:\n    ___ y > 0:\n        print('Both positive')",
+  "dropZones": [
+    {
+      "placeholder": "___",
+      "correctAnswer": "if"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "else",
+    "elif",
+    "while"
+  ]
+}

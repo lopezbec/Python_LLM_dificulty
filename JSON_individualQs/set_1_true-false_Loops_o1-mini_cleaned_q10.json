@@ -1,0 +1,5 @@
+{
+  "question": "Generator expressions can be used to create memory-efficient loops by yielding items one at a time on demand.",
+  "answer": true,
+  "difficulty": 10
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "squares = []",
+        "for i in range(10):",
+        "____.append(i ** 2)",
+        "squares"
+    ]
+}

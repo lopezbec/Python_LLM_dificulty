@@ -1,0 +1,8 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blanks to check if 'score' is between 50 and 100: \n\n```python\nif _____ <= score _____ <= 100:\n    print('Score is in range')\n```",
+  "blanks": [
+    "50",
+    "<="
+  ]
+}

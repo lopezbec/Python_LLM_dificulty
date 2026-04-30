@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Drag the correct call so that you can iterate over two lists simultaneously.",
+  "codeSnippet": "list1 = [1, 2, 3]\nlist2 = [4, 5, 6]\nfor a, b in _____(list1, list2):\n    print(a, b)",
+  "options": [
+    "zip",
+    "enumerate",
+    "range"
+  ],
+  "correctAnswer": "zip"
+}

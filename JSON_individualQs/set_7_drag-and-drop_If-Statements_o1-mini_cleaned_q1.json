@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Drag the correct keyword to complete the if-statement below:",
+  "codeSnippet": "if ___ (x > 10):\n    print(\"x is greater than 10\")",
+  "dragOptions": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ],
+  "dropZones": [
+    "___"
+  ],
+  "correctAnswers": {
+    "___": "if"
+  }
+}

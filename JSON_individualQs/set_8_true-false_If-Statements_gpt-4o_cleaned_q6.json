@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "An if-statement can contain multiple elif blocks to check different conditions in sequence.",
+  "answer": true
+}

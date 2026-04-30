@@ -1,0 +1,13 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "question": "Drag the keyword that immediately stops the for loop when i equals 3.",
+  "codeSnippet": "for i in range(5):\n    if i == 3:\n        ???\n    print(i)",
+  "options": [
+    "pass",
+    "exit",
+    "stop",
+    "break"
+  ],
+  "correctAnswer": "break"
+}

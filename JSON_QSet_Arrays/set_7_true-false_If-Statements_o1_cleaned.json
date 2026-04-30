@@ -1,0 +1,52 @@
+[
+  {
+    "question": "An if-statement is used to check whether a condition is true or false in Python.",
+    "difficulty": 1,
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, you must end an if-statement with the keyword 'endif'.",
+    "difficulty": 2,
+    "correct_answer": "False"
+  },
+  {
+    "question": "Python does not allow using multiple 'elif' statements after an 'if'.",
+    "difficulty": 3,
+    "correct_answer": "False"
+  },
+  {
+    "question": "You can nest an if-statement inside another if-statement in Python.",
+    "difficulty": 4,
+    "correct_answer": "True"
+  },
+  {
+    "question": "You can combine conditions in a single if statement using logical operators like 'and' and 'or'.",
+    "difficulty": 5,
+    "correct_answer": "True"
+  },
+  {
+    "question": "It is valid to have just an if condition without an else clause in Python.",
+    "difficulty": 6,
+    "correct_answer": "True"
+  },
+  {
+    "question": "An if-statement in Python must include both 'if' and 'else' clauses every time.",
+    "difficulty": 7,
+    "correct_answer": "False"
+  },
+  {
+    "question": "You can check for object identity in an if-statement using the 'is' keyword, for example 'if x is y:'.",
+    "difficulty": 8,
+    "correct_answer": "True"
+  },
+  {
+    "question": "To compare two values for equality in a Python if-statement, you use '==' and not '='.",
+    "difficulty": 9,
+    "correct_answer": "True"
+  },
+  {
+    "question": "If statements are limited to evaluating only integer conditions in Python.",
+    "difficulty": 10,
+    "correct_answer": "False"
+  }
+]

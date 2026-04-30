@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "In Python, a 'while' loop repeatedly executes its block as long as a given condition is True.",
+    "correct_answer": "True"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "A 'for' loop in Python can be used to iterate over elements in a list.",
+    "correct_answer": "True"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "The 'break' statement can only be used in 'for' loops and not in 'while' loops.",
+    "correct_answer": "False"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "Proper indentation is necessary for defining the block of code in a loop in Python.",
+    "correct_answer": "True"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "The 'continue' statement in a loop immediately ends the loop entirely.",
+    "correct_answer": "False"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "A 'for' loop in Python requires the programmer to explicitly declare an index variable before iteration.",
+    "correct_answer": "False"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "An infinite 'while' loop without a proper exit condition can cause a program to hang or crash.",
+    "correct_answer": "True"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "In a nested loop, the inner loop completely iterates for each iteration of the outer loop.",
+    "correct_answer": "True"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "The loop variable in a Python 'for' loop is local to the loop block and ceases to exist once the loop finishes executing.",
+    "correct_answer": "False"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "List comprehensions in Python are a concise way of creating lists and can integrate both looping and conditionals similarly to a 'for' loop combined with an 'if' statement.",
+    "correct_answer": "True"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "question": "What is a loop in programming?",
+  "options": [
+    "A way to store data",
+    "A way to repeat a block of code",
+    "A function that returns a value",
+    "A type of variable"
+  ],
+  "correct_answer": "A way to repeat a block of code",
+  "difficulty": 1
+}

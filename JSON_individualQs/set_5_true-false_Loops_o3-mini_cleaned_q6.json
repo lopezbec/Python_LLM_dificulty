@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "True or False: When iterating over a dictionary with a for loop in Python, the loop iterates over the keys by default.",
+  "answer": "True"
+}

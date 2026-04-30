@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blanks to properly use a 'break' statement: 'while True: print(num); if num == 5: ____'.",
+  "options": [
+    "continue",
+    "pass",
+    "break",
+    "return"
+  ],
+  "correct_answer": "break"
+}

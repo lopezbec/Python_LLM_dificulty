@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "In a for loop, you can immediately terminate the loop using the keyword ______.",
+  "correct_answer": "break"
+}

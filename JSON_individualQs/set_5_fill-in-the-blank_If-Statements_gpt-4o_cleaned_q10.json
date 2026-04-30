@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "For a nested if-statement, to reference an outer condition variable safely, it is common to use Python exception handling, specifically the _____ block.",
+  "answer": "try-except"
+}

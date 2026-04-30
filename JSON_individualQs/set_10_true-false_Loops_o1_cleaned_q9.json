@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Nested loops in Python cannot iterate over different sequences simultaneously.",
+  "correct_answer": "False"
+}

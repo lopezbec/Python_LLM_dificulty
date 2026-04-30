@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)\n\nChoose the option that represents the printed output.",
+    "options": [
+      "0 1 2",
+      "1 2 3",
+      "0 1",
+      "Error"
+    ],
+    "correctAnswer": "0 1 2"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which type of loop is most commonly used in Python when you know in advance how many times you want to iterate?",
+    "options": [
+      "while loop",
+      "for loop",
+      "do-while loop",
+      "infinite loop"
+    ],
+    "correctAnswer": "for loop"
+  },
+  {
+    "difficulty": 3,
+    "question": "Consider the following code snippet:\n\nx = 0\nwhile x < 3:\n    print(x)\n\nWhat is the main problem with this code?",
+    "options": [
+      "Infinite loop because x is never incremented",
+      "Syntax error due to incorrect indentation",
+      "Runtime error due to uninitialized variable",
+      "The loop will execute exactly 3 times"
+    ],
+    "correctAnswer": "Infinite loop because x is never incremented"
+  },
+  {
+    "difficulty": 4,
+    "question": "What is the output of the following code snippet?\n\nfor i in range(5):\n    if i == 3:\n        break\n    print(i, end=' ')\n\nChoose the correct output.",
+    "options": [
+      "0 1 2",
+      "0 1 2 3",
+      "0 1 2 3 4",
+      "1 2 3"
+    ],
+    "correctAnswer": "0 1 2"
+  },
+  {
+    "difficulty": 5,
+    "question": "What does the following nested loop code output?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)\n\nSelect the answer that shows the sequence of printed pairs (each pair on a new line).",
+    "options": [
+      "0 0, 0 1, 1 0, 1 1",
+      "0 0, 1 1",
+      "0 0, 0 1",
+      "1 0, 1 1"
+    ],
+    "correctAnswer": "0 0, 0 1, 1 0, 1 1"
+  },
+  {
+    "difficulty": 6,
+    "question": "Given the following code snippet, what is the final output?\n\ntotal = 0\nfor i in range(1, 6):\n    if i % 2 == 0:\n        continue\n    total += i\nprint(total)\n\nChoose the correct value that gets printed.",
+    "options": [
+      "6",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "9"
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, when is the else block of a loop executed?",
+    "options": [
+      "Only when a loop is terminated by a break statement",
+      "Always after the loop completes, regardless of breaks",
+      "Only when the loop terminates normally (i.e., not via a break)",
+      "The else block is never executed in loops"
+    ],
+    "correctAnswer": "Only when the loop terminates normally (i.e., not via a break)"
+  },
+  {
+    "difficulty": 8,
+    "question": "What is the output of the following code snippet?\n\ni = 1\nwhile i < 10:\n    print(i, end=' ')\n    i *= 2\nelse:\n    print('Done', end=' ')\n\nSelect the correct output.",
+    "options": [
+      "1 2 4 8 Done",
+      "1 2 4 8",
+      "1 2 4 8 16 Done",
+      "Infinite loop"
+    ],
+    "correctAnswer": "1 2 4 8 Done"
+  },
+  {
+    "difficulty": 9,
+    "question": "Examine the following code snippet:\n\nmatrix = [[1,2,3], [4,5,6], [7,8,9]]\nfor row in matrix:\n    for num in row:\n        if num == 5:\n            print('Found', end=' ')\n            break\n    else:\n        print('Not Found', end=' ')\n\nWhat is the printed output?",
+    "options": [
+      "Not Found Found Not Found",
+      "Found Not Found Found",
+      "Not Found Not Found Not Found",
+      "Found Found Found"
+    ],
+    "correctAnswer": "Not Found Found Not Found"
+  },
+  {
+    "difficulty": 10,
+    "question": "What will be the output of the following code snippet?\n\nnums = [1, 2, 3, 4]\nresult = []\nfor i in range(len(nums)):\n    if nums[i] % 2 == 0:\n        continue\n    for j in range(nums[i]):\n        result.append(j)\nprint(result)\n\nChoose the correct resulting list.",
+    "options": [
+      "[0, 0, 1, 2]",
+      "[0, 1, 2, 0]",
+      "[0, 0, 0, 1, 2, 3]",
+      "[0, 1, 2]"
+    ],
+    "correctAnswer": "[0, 0, 1, 2]"
+  }
+]

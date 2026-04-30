@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "In Python, a for loop is used to iterate over the items of a sequence (like a list, tuple, or string).",
+  "correct_answer": true
+}

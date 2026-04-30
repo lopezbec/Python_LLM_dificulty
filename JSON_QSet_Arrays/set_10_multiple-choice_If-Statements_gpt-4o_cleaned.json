@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What will be the output of the following code?\n\n```python\nif 5 > 3:\n    print('Hello')\n```\n",
+    "options": [
+      "A) Hello",
+      "B) 5",
+      "C) 3",
+      "D) Nothing"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "2. How do you write an if statement in Python to check if x is equal to 10?",
+    "options": [
+      "A) if x != 10",
+      "B) if x = 10",
+      "C) if x == 10",
+      "D) if x => 10"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "3. What is missing in this if statement?\n\n```python\nx = 10\nif x > 5\n    print('x is greater than 5')\n```\n",
+    "options": [
+      "A) A colon ':' after the condition",
+      "B) Nothing, it's correct",
+      "C) Parentheses around the condition",
+      "D) An equal sign '='"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "4. Which logical operator is used to combine multiple conditions in an if statement?",
+    "options": [
+      "A) ++",
+      "B) and",
+      "C) ||",
+      "D) not"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "5. What will be the output of the following code?\n\n```python\nx = 10\ny = 5\nif x > y and y > 2:\n    print('Condition met')\nelse:\n    print('Condition not met')\n```\n",
+    "options": [
+      "A) Condition met",
+      "B) Condition not met",
+      "C) Syntax error",
+      "D) None"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "6. How can you write a short-hand if-else statement in Python?",
+    "options": [
+      "A) print('Yes') if x > 10 else print('No')",
+      "B) if x > 10: print('Yes') else: print('No')",
+      "C) if (x > 10) print('Yes'); else print('No')",
+      "D) x = 10 if print('Yes') else print('No')"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "7. What will be the output of the following code?\n\n```python\nx = 10\ny = 8\nif x > 5:\n    if y < 10:\n        print('Both conditions met')\n    else:\n        print('Second condition not met')\nelse:\n    print('First condition not met')\n```\n",
+    "options": [
+      "A) Both conditions met",
+      "B) Second condition not met",
+      "C) First condition not met",
+      "D) Error"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "8. What will be the output of the following nested if-statement?\n\n```python\nx = 5\ny = 10\nz = 15\nif x < y:\n    if y < z:\n        if x + y > z:\n            print('Nested condition met')\n        else:\n            print('Inner condition not met')\n    else:\n        print('Middle condition not met')\nelse:\n    print('Outer condition not met')\n```\n",
+    "options": [
+      "A) Nested condition met",
+      "B) Inner condition not met",
+      "C) Middle condition not met",
+      "D) Outer condition not met"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "9. How do you perform a flip of a boolean condition in an if statement using the not operator?",
+    "options": [
+      "A) if not (condition):",
+      "B) if == not condition:",
+      "C) if !! condition:",
+      "D) if condition not:"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "10. Identify the correct structure to implement multiple conditions with varying outcomes using elif:\n\n1. if condition1:\n2. // code block\n3. elif condition2:\n4. // code block\n5. else:\n6. // code block\n\nFill in the // code block placeholders for a function that prints 'A' if condition1 is true, 'B' if condition2 is true, and 'C' otherwise.",
+    "options": [
+      "A) 2. print('A')\n4. print('B')\n6. print('C')",
+      "B) 2. print('B')\n4. print('A')\n6. print('C')",
+      "C) 2. print('B')\n4. print('C')\n6. print('A')",
+      "D) 2. print('C')\n4. print('B')\n6. print('A')"
+    ],
+    "answer": "A"
+  }
+]

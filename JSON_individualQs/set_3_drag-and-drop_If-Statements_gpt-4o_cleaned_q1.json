@@ -1,0 +1,13 @@
+{
+  "difficulty": 1,
+  "question": "Complete the simple if statement. Drag the correct blocks to the right.",
+  "code": "if __condition__: \n    print(\"Hello World!\")",
+  "options": [
+    "x > 5",
+    "x < 10",
+    "True"
+  ],
+  "answers": [
+    "True"
+  ]
+}

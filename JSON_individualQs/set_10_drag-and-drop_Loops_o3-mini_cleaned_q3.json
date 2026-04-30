@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "Loops",
+  "question": "Drag and drop the missing symbol to complete the for loop syntax.",
+  "instructions": "Drag the correct symbol to fill in the blank at the end of the for loop header.",
+  "code": "for i in range(3) ___\n    print(i)",
+  "drag_items": [
+    ":",
+    ";"
+  ],
+  "correct_answers": {
+    "___": ":"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "questionText": "Drag the pieces to check if a user is logged in and has admin access; if only logged in, print 'Welcome User', if admin, print 'Welcome Admin', otherwise 'Please log in'.",
+  "incompleteCode": "[Zone1] is_logged_in [Zone2] True [Zone3]\n    [Zone4] is_admin [Zone5] True [Zone6]\n        print(\"Welcome Admin\")\n    [Zone7]:\n        print(\"Welcome User\")\n[Zone8]:\n    print(\"Please log in\")",
+  "dragItems": [
+    "if",
+    "==",
+    ":",
+    "if",
+    "==",
+    ":",
+    "else",
+    "else:"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    ":",
+    "if",
+    "==",
+    ":",
+    "else",
+    "else:"
+  ],
+  "explanation": "First if checks if the user is logged in; inside that, a second if checks admin status, or else welcomes a regular user; the outer else covers not logged in."
+}

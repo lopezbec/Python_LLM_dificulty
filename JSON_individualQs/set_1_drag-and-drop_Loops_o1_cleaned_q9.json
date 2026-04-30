@@ -1,0 +1,18 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "questionType": "drag-and-drop",
+  "prompt": "Complete the nested loops. Break the inner loop when x equals y, so that pair is not printed.",
+  "codeSnippet": "for x in range(3):\n    for y in range(3):\n        if ???:\n            ???\n        print(x, y)",
+  "draggableItems": [
+    "x == y",
+    "break",
+    "continue",
+    "x != y"
+  ],
+  "correctAnswer": [
+    "x == y",
+    "break"
+  ],
+  "explanation": "When x equals y, 'break' exits the inner loop, so that matching pair is skipped."
+}

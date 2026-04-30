@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: The '_____ ' function can be used within a 'for' loop to retrieve both the index and value of items in a sequence.",
+  "difficulty": 9,
+  "answer": "enumerate"
+}

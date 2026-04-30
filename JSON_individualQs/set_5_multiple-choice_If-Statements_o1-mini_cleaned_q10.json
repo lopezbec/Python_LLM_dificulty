@@ -1,0 +1,12 @@
+{
+  "question": "Identify the error in the following Python if statement:\n\n```python\nif x = 10:\n    print('Ten')\n```",
+  "options": [
+    "A) Missing colon at the end of if statement",
+    "B) Use of single equals for comparison",
+    "C) Indentation error",
+    "D) No error"
+  ],
+  "answer": "B",
+  "difficulty": 10,
+  "topic": "if statements"
+}

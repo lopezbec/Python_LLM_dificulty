@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Arrange the basic components of a `for` loop in Python in the correct order.",
+  "options": [
+    "Initialize loop variable",
+    "Define loop condition",
+    "Execute loop body",
+    "Update loop variable"
+  ],
+  "correct_order": [
+    "Initialize loop variable",
+    "Define loop condition",
+    "Execute loop body",
+    "Update loop variable"
+  ]
+}

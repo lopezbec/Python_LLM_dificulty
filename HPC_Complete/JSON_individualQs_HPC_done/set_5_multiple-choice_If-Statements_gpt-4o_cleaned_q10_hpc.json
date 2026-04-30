@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 'spam'",
+        "y = 'eggs' if x == 'ham' else 'bacon'",
+        "if (len(x) > 4) and (y == 'eggs'):",
+        "print('Good')",
+        "elif (len(x) > 4) or (y == 'bacon'):",
+        "print('Better')",
+        "else:",
+        "print('Best')",
+        "Good",
+        "Better",
+        "Best",
+        "An error will occur"
+    ]
+}

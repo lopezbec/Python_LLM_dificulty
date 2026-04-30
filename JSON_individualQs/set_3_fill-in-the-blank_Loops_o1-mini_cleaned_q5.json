@@ -1,0 +1,5 @@
+{
+  "question": "Complete the while loop condition to keep looping while the variable 'count' is less than 10:\n\nwhile ____:",
+  "answer": "count < 10",
+  "difficulty": 5
+}

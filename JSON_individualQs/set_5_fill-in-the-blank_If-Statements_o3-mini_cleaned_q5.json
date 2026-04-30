@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to use a built-in function within an if-statement:\n\nif ______(nums) > 0:\n    print('List is not empty')",
+  "answer": "len"
+}

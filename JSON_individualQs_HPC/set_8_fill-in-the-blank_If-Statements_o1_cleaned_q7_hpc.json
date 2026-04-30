@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if x > 5: ______ x % 2 == 0: print('x is greater than 5 and even')",
+        "if",
+        "elif",
+        "else",
+        "for"
+    ]
+}

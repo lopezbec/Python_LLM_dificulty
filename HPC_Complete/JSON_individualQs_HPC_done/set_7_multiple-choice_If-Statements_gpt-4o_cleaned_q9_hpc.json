@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 5",
+        "if x > y:",
+        "if y < 3:",
+        "print('Path A')",
+        "else:",
+        "print('Path B')",
+        "else:",
+        "print('Path C')",
+        "Path A",
+        "Path B",
+        "Path C",
+        "No output"
+    ]
+}

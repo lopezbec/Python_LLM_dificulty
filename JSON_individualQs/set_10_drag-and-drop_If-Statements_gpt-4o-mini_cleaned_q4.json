@@ -1,0 +1,16 @@
+{
+  "difficulty": 4,
+  "question": "Drag and drop the correct code to complete the if-else statement that checks if 'status' is 'active' and prints 'User is active', otherwise print 'User is inactive'.",
+  "code_fragments": [
+    "if status == 'active':",
+    "print('User is inactive')",
+    "print('User is active')",
+    "if status != 'active':"
+  ],
+  "correct_order": [
+    "if status == 'active':",
+    "print('User is active')",
+    "else:",
+    "print('User is inactive')"
+  ]
+}

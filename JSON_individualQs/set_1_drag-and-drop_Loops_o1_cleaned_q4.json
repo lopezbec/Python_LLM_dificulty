@@ -1,0 +1,18 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "questionType": "drag-and-drop",
+  "prompt": "Complete the code to use a for-else structure. The 'else' block executes only if the loop never breaks.",
+  "codeSnippet": "???\n    if char == 'x':\n        break\n???\n    print(\"No break encountered\")",
+  "draggableItems": [
+    "for char in 'abc':",
+    "while char != 'x':",
+    "else:",
+    "continue"
+  ],
+  "correctAnswer": [
+    "for char in 'abc':",
+    "else:"
+  ],
+  "explanation": "A for-else construct executes the 'else' block only when the for loop completes without a 'break'."
+}

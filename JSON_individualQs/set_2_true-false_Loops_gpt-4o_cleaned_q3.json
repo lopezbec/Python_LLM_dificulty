@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The range function, when used in a 'for' loop, generates a sequence of numbers that includes the end value.",
+  "correct_answer": false
+}

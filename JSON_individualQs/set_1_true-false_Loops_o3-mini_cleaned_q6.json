@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A for loop in Python can iterate over any iterable object, including strings, tuples, and dictionaries.",
+  "answer": "True"
+}

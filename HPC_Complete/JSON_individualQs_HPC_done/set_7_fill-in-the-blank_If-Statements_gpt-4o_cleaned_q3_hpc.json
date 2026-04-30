@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "score",
+        "if _____ <= score _____ <= 100:",
+        "print('Score is in range')"
+    ]
+}

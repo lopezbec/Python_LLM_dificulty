@@ -1,0 +1,19 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the nested `for` loops to print a 3x3 grid of asterisks (*)",
+  "options": [
+    "print('*', end=' ')",
+    "for j in range(3):",
+    "for i in range(3):",
+    "print()"
+  ],
+  "correct_order": [
+    2,
+    1,
+    0,
+    3
+  ]
+}

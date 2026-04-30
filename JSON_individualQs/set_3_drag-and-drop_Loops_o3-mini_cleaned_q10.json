@@ -1,0 +1,41 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "Arrange the code lines to create a nested loop that identifies prime numbers in the range 2 to 9. The inner loop checks for factors and uses a break statement, while an else clause prints the prime number if no factors are found.",
+  "instructions": "Drag and drop the code snippets in the correct order to form the complete program.",
+  "items": [
+    {
+      "id": "A",
+      "text": "for num in range(2, 10):"
+    },
+    {
+      "id": "B",
+      "text": "    for i in range(2, num):"
+    },
+    {
+      "id": "C",
+      "text": "        if num % i == 0:"
+    },
+    {
+      "id": "D",
+      "text": "            break"
+    },
+    {
+      "id": "E",
+      "text": "    else:"
+    },
+    {
+      "id": "F",
+      "text": "        print(num)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
+}

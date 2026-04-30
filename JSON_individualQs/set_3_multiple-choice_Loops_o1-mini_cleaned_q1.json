@@ -1,0 +1,10 @@
+{
+  "question": "What is the correct syntax for a for loop in Python that iterates over a list called `fruits`?",
+  "options": {
+    "A": "for (fruit in fruits):",
+    "B": "for fruit in fruits:",
+    "C": "foreach fruit in fruits:",
+    "D": "for fruit = fruits:"
+  },
+  "answer": "B"
+}

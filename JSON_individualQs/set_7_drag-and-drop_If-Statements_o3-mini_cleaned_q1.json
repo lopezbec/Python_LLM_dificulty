@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "type": "drag_and_drop",
+  "difficulty": 1,
+  "prompt": "Drag the correct keyword into the blank to complete the basic if-statement.",
+  "instructions": "Drag the correct keyword from the options to fill in the blank.",
+  "displayText": "____ x > 5:",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "if"
+    },
+    {
+      "id": "B",
+      "text": "while"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A"
+  }
+}

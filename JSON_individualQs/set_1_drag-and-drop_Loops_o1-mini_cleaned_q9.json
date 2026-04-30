@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "Fill in the blanks to correctly implement a generator using a for loop and the yield statement.",
+  "code_snippet": "def count_up_to(max):\n    ___ i in range(max):\n        ___ i",
+  "options": [
+    "for",
+    "yield"
+  ],
+  "correct_fill": [
+    "for",
+    "yield"
+  ]
+}

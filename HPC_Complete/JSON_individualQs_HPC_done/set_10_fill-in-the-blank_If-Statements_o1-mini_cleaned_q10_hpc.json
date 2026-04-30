@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if config and config.get('enabled') ___ execute_task():",
+        "config",
+        "config.get('enabled')",
+        "execute_task()"
+    ]
+}

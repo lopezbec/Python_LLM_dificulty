@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In Python, an if-statement can evaluate multiple conditions simultaneously without using logical operators.",
+  "answer": false
+}

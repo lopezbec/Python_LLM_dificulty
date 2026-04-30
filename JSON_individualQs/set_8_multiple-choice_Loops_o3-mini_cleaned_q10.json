@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "In the context of nested loops, what is the time complexity in Big-O notation for a loop that runs n times and within it another loop that also runs n times?",
+  "options": {
+    "A": "O(n)",
+    "B": "O(n^2)",
+    "C": "O(n log n)",
+    "D": "O(n^3)"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What does the `elif` keyword do in an if-statement?",
+  "difficulty": 6,
+  "options": {
+    "A": "It ends the if-statement",
+    "B": "It specifies an alternative condition",
+    "C": "It restarts the if evaluation",
+    "D": "It catches exceptions"
+  },
+  "correct_answer": "B"
+}

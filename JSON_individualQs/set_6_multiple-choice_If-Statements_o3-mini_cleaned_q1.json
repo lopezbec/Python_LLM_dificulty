@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following best describes an if-statement in Python?",
+  "options": [
+    "A loop that repeats code.",
+    "A conditional statement that executes a block of code only if a condition is True.",
+    "A function used to store data.",
+    "A syntax error in Python."
+  ],
+  "correct_answer": "A conditional statement that executes a block of code only if a condition is True."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What is the purpose of the 'else' statement in a Python loop?",
+  "options": [
+    "To execute code when the loop finishes normally",
+    "To execute code when the loop exits via break",
+    "To define an alternative loop condition",
+    "To handle exceptions in the loop"
+  ],
+  "correct_answer": "To execute code when the loop finishes normally",
+  "difficulty": 6
+}

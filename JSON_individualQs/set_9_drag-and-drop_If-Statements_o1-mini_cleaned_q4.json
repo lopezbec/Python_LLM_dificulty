@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "if-statements",
+  "question": "Arrange the following snippets to create a nested `if` statement that checks if `num` is positive and even.",
+  "options": [
+    "        print('The number is even.')",
+    "if num > 0:",
+    "    if num % 2 == 0:",
+    "    print('The number is positive.')",
+    "else:",
+    "    print('The number is not positive.')"
+  ],
+  "answer": [
+    "if num > 0:",
+    "    print('The number is positive.')",
+    "    if num % 2 == 0:",
+    "        print('The number is even.')",
+    "else:",
+    "    print('The number is not positive.')"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword initiates a simple conditional statement in Python?",
+  "answers": {
+    "A": "if",
+    "B": "for",
+    "C": "while",
+    "D": "loop"
+  },
+  "correctAnswer": "A"
+}

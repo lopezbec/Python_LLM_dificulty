@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Arrange the components of nested for loops to print each element of a 2D matrix.",
+  "instructions": "Drag and drop the items in the correct order as they would appear in a nested loop structure.",
+  "dragItems": [
+    "for row in matrix:",
+    "for element in row:",
+    "print(element)"
+  ],
+  "dropZones": [
+    "Outer loop declaration",
+    "Inner loop declaration",
+    "Loop body"
+  ],
+  "correctOrder": [
+    "for row in matrix:",
+    "for element in row:",
+    "print(element)"
+  ]
+}

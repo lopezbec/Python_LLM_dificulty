@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is valid syntax for a while loop that runs as long as x is less than 5?",
+  "difficulty": 2,
+  "choices": [
+    "A) while x < 5:",
+    "B) for x in range(5):",
+    "C) if x < 5:",
+    "D) while x <= 5:"
+  ],
+  "correct_answer": "A"
+}

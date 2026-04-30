@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x == 10:",
+        "print('Ten')",
+        "else:",
+        "print('Not Ten')",
+        "if x > 5:",
+        "print('Greater than 5')",
+        "x",
+        "['Ten\\nGreater than 5', 'Not Ten\\nGreater than 5', 'Ten', 'Greater than 5']"
+    ]
+}

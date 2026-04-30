@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Organize the nested loop structure correctly.",
+  "options": [
+    "Outer loop starts",
+    "Inner loop starts",
+    "Inner loop body",
+    "Inner loop ends",
+    "Outer loop body",
+    "Outer loop ends"
+  ],
+  "correct_order": [
+    "Outer loop starts",
+    "Inner loop starts",
+    "Inner loop body",
+    "Inner loop ends",
+    "Outer loop body",
+    "Outer loop ends"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "Arrange the lines to create a nested for loop that prints pairs (i, j) for i in range(2) and j in range(3).",
+  "instructions": "Drag and drop the code snippets in the correct hierarchical order.",
+  "items": [
+    {
+      "id": "A",
+      "text": "for i in range(2):"
+    },
+    {
+      "id": "B",
+      "text": "    for j in range(3):"
+    },
+    {
+      "id": "C",
+      "text": "        print(i, j)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C"
+  ]
+}

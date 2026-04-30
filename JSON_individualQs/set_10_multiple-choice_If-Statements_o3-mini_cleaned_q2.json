@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "What will be the output of the following code if x is set to 5?\n\nx = 5\nif x > 3:\n    print(\"Greater\")",
+  "options": [
+    "Greater",
+    "Nothing",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Greater"
+}

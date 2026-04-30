@@ -1,0 +1,62 @@
+[
+  {
+    "question_number": 1,
+    "difficulty": 1,
+    "question_text": "To begin a conditional check in Python, we use the ______ keyword.",
+    "correct_answer": "if"
+  },
+  {
+    "question_number": 2,
+    "difficulty": 2,
+    "question_text": "Fill in the blank to check if x is larger than 10: if x ______ 10: print(\"x is larger than 10\")",
+    "correct_answer": ">"
+  },
+  {
+    "question_number": 3,
+    "difficulty": 3,
+    "question_text": "Complete the condition to check if the variable status is equal to 'active': if status ______ 'active': print(\"Status is active\")",
+    "correct_answer": "=="
+  },
+  {
+    "question_number": 4,
+    "difficulty": 4,
+    "question_text": "In the code below, fill in the blank to provide an additional condition after the if statement:\n\nif x < 0:\n    print(\"x is negative\")\n________ x == 0:\n    print(\"x is zero\")\nelse:\n    print(\"x is positive\")",
+    "correct_answer": "elif"
+  },
+  {
+    "question_number": 5,
+    "difficulty": 5,
+    "question_text": "Fill in the blank with the correct operator to require both conditions to be true:\nif x > 0 ______ y > 0:\n    print(\"Both x and y are positive\")",
+    "correct_answer": "and"
+  },
+  {
+    "question_number": 6,
+    "difficulty": 6,
+    "question_text": "In the following code, fill in the blank to invert the condition so this block runs when x is NOT greater than 10:\n\nif ______ (x > 10):\n    print(\"x is not greater than 10\")",
+    "correct_answer": "not"
+  },
+  {
+    "question_number": 7,
+    "difficulty": 7,
+    "question_text": "Complete the one-line if statement to print \"Positive\" if x > 0, otherwise print \"Non-positive\":\nprint(\"Positive\") if x > 0 ______ \"Non-positive\"",
+    "correct_answer": "else"
+  },
+  {
+    "question_number": 8,
+    "difficulty": 8,
+    "question_text": "Complete the condition to print \"Primary color\" if the variable color is either 'red' or 'blue':\nif color == 'red' ______ color == 'blue':\n    print(\"Primary color\")",
+    "correct_answer": "or"
+  },
+  {
+    "question_number": 9,
+    "difficulty": 9,
+    "question_text": "Fill in the blank to check if 'choice' appears within the list ['start', 'stop']:\nif choice ______ ['start', 'stop']:\n    print(\"Valid choice\")",
+    "correct_answer": "in"
+  },
+  {
+    "question_number": 10,
+    "difficulty": 10,
+    "question_text": "Complete the lambda function to return True if x is even, and False otherwise:\nis_even = lambda x: True if x ______ 2 == 0 else False",
+    "correct_answer": "%"
+  }
+]

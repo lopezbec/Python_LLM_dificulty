@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Assume x = 5. Which if condition will print 'x is small'?",
+  "choices": {
+    "A": "if x > 10: print('x is small')",
+    "B": "if x >= 5: print('x is small')",
+    "C": "if x < 10: print('x is small')",
+    "D": "if x <= 5: print('x is small')"
+  },
+  "correct_answer": "C"
+}

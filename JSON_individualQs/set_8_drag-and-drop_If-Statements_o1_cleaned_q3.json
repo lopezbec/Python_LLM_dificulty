@@ -1,0 +1,18 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "instruction": "Drag and drop the appropriate keywords to print \"Within range\" if x is between 10 and 25.",
+  "code_with_blanks": "x = 15\n_____ 10 <= x <= 25 _____\n    print(\"Within range\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "else",
+    ":",
+    "=="
+  ],
+  "correct_sequence": [
+    "if",
+    ":"
+  ],
+  "explanation": "Use 'if' to check the condition '10 <= x <= 25' and ':' to start the if block."
+}

@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "my_list",
+        "for index, value in enumerate(___):"
+    ]
+}

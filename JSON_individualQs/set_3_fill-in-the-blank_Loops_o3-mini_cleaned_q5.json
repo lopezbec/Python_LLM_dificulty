@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: Given the code snippet 'for i in range(3):\\n    for j in range(4):\\n        print(i, j)', the inner loop completes __ iterations for each iteration of the outer loop.",
+  "answer": "4"
+}

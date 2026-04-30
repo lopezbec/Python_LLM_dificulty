@@ -1,0 +1,5 @@
+{
+  "question": "When a 'for' loop completes all its iterations without a 'break', the optional ______ block is executed.",
+  "difficulty": 9,
+  "answer": "else"
+}

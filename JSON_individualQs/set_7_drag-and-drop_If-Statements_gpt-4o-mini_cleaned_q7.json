@@ -1,0 +1,14 @@
+{
+  "difficulty": 7,
+  "question": "Match the code with its flow: 'if A: if B: doX() else: doY()'",
+  "options": {
+    "A": "Single condition evaluation",
+    "B": "Nested conditional evaluation",
+    "C": "Final else execution",
+    "D": "Comparison check"
+  },
+  "correctMatch": {
+    "code": "if A: if B: doX() else: doY()",
+    "flow": "B"
+  }
+}

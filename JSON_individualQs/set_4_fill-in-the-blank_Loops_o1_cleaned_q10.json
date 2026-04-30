@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A concise way to create a list via looping is using a list ______, such as [x*x for x in range(5)].",
+  "correct_answer": "comprehension"
+}

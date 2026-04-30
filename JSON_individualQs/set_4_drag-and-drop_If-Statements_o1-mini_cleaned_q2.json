@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "question": "Arrange the lines to form a valid if-else statement.",
+  "lines": [
+    "print(\"x is not greater than 5\")",
+    "else:",
+    "if x > 5:",
+    "x = 3"
+  ],
+  "answer_order": [
+    "if x > 5:",
+    "    print(\"x is greater than 5\")",
+    "else:",
+    "    print(\"x is not greater than 5\")"
+  ]
+}

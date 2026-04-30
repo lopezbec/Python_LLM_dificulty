@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct syntax for a for loop in Python?",
+  "options": [
+    "A. for i in range(5):",
+    "B. for (i = 0; i < 5; i++):",
+    "C. for i: 0 to 5",
+    "D. for (i in range(5)):"
+  ],
+  "answer": "A",
+  "difficulty": 2
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Python, a loop that iterates over a sequence of items is typically a _______ loop.",
+    "answer": "for",
+    "difficulty": 1
+  },
+  {
+    "question": "The _______ statement is used to create a loop that continues until a certain condition is no longer true.",
+    "answer": "while",
+    "difficulty": 2
+  },
+  {
+    "question": "To skip the current iteration and move to the next one in a loop, you can use the _______ statement.",
+    "answer": "continue",
+    "difficulty": 3
+  },
+  {
+    "question": "To exit a loop immediately before its normal termination, the _______ statement is used.",
+    "answer": "break",
+    "difficulty": 4
+  },
+  {
+    "question": "In a nested loop, the inner loop completes all its iterations for each iteration of the _______ loop.",
+    "answer": "outer",
+    "difficulty": 5
+  },
+  {
+    "question": "The _______ function can be used to iterate over both the index and value of a list in a loop.",
+    "answer": "enumerate",
+    "difficulty": 6
+  },
+  {
+    "question": "A loop that doesn't execute its body even once is known as a _______ loop.",
+    "answer": "zero-iteration",
+    "difficulty": 7
+  },
+  {
+    "question": "Using a _______ expression can make loops more concise when creating new lists based on existing ones.",
+    "answer": "list comprehension",
+    "difficulty": 8
+  },
+  {
+    "question": "In Python, the _______ keyword can be used within a generator to yield values one at a time in a loop.",
+    "answer": "yield",
+    "difficulty": 9
+  },
+  {
+    "question": "When optimizing loops for performance in Python, one common technique is to minimize the use of _______ inside the loop body.",
+    "answer": "function calls",
+    "difficulty": 10
+  }
+]

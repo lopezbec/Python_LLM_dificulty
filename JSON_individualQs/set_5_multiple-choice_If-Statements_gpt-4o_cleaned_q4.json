@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What will be the result of this code snippet?\n\nx = 4\ny = 10\n\nif x > 5:\n    if y > 5:\n        print('A')\nelse:\n    print('B')",
+  "options": [
+    "An error will occur.",
+    "A",
+    "B",
+    "AB"
+  ],
+  "correct_answer": "B"
+}

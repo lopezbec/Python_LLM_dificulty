@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "total",
+        "total = 100",
+        "if [BLANK]:",
+        "print(\"100 or more\")",
+        "total >= 100",
+        "total = 100 or total = 0",
+        "total > 100 and total = 100"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank so the condition checks if x is between 1 and 10:\nif x >= 1 and x ____ 10:\n    print(\"x is between 1 and 10\")",
+  "answer": "<="
+}

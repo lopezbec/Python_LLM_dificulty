@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "question": "Create a loop that runs a specific number of times, dragging the appropriate elements.",
+  "options": {
+    "A": "repeat",
+    "B": "for",
+    "C": "until",
+    "D": "while"
+  },
+  "drops": {
+    "Target": "______(i in range(10))"
+  },
+  "correct_order": [
+    "B"
+  ]
+}

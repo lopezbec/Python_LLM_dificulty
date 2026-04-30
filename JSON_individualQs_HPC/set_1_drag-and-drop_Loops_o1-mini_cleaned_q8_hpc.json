@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "else:",
+        "print('Completed')",
+        "while count < 5:",
+        "    print(count)",
+        "    count += 1",
+        "count = 0"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "question": "Rearrange the code blocks to implement the following logic:\nIf the number is divisible by 2, print 'Even'. If it's divisible by 3, print 'Divisible by 3'. Otherwise, print 'Other'.",
+  "dragItems": [
+    "if number % 2 == 0:",
+    "    print('Even')",
+    "elif number % 3 == 0:",
+    "    print('Divisible by 3')",
+    "else:",
+    "    print('Other')"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6"
+  ],
+  "correctAnswers": {
+    "Line 1": "if number % 2 == 0:",
+    "Line 2": "    print('Even')",
+    "Line 3": "elif number % 3 == 0:",
+    "Line 4": "    print('Divisible by 3')",
+    "Line 5": "else:",
+    "Line 6": "    print('Other')"
+  }
+}

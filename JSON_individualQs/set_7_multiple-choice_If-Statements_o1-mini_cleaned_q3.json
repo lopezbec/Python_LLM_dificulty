@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "question": "What will be the output of the following code?\n\nx = 5\nif x > 3:\n    print(\"Greater\")\nelse:\n    print(\"Smaller\")",
+  "options": {
+    "A": "Greater",
+    "B": "Smaller",
+    "C": "Error",
+    "D": "Nothing is printed"
+  },
+  "correct_answer": "A",
+  "difficulty": 3,
+  "topic": "if statements"
+}

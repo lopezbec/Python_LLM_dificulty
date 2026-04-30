@@ -1,0 +1,11 @@
+{
+  "question": "In the following code, what will be the output if x = 'hello'?\n\nif isinstance(x, str):\n    print('x is a string')\nelse:\n    print('x is not a string')",
+  "options": [
+    "a) x is a string",
+    "b) x is not a string",
+    "c) Error",
+    "d) None of the above"
+  ],
+  "correct_answer": "a",
+  "difficulty": 9
+}

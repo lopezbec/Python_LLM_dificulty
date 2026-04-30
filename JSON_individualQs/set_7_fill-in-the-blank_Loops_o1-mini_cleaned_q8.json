@@ -1,0 +1,5 @@
+{
+  "question": "Using a _______ expression can make loops more concise when creating new lists based on existing ones.",
+  "answer": "list comprehension",
+  "difficulty": 8
+}

@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank with the correct keyword to start an if-statement in Python:\n\n______ x > 0:\n    print('x is positive')",
+  "answer": "if"
+}

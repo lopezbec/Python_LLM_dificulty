@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What control statement would you use to exit from a loop immediately, regardless of the loop's condition?",
+  "options": {
+    "A": "exit",
+    "B": "stop",
+    "C": "break",
+    "D": "return"
+  },
+  "correct_answer": "C"
+}

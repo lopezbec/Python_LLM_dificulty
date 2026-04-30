@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if number % 2 == 0:",
+        "print('Number is odd')",
+        "print('Number is even')",
+        "number += 1"
+    ]
+}

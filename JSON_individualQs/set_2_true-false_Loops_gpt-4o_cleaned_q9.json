@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "It's possible to control a loop with more than one counter variable using the 'for' loop.",
+  "correct_answer": true
+}

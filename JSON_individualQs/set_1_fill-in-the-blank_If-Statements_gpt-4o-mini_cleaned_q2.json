@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "The condition in an if-statement is evaluated as either 'True' or '_____'.",
+  "correct_answer": "False"
+}

@@ -1,0 +1,25 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "prompt": "Complete the nested if-statements to check if x is an even number greater than 100, otherwise print the appropriate message.",
+  "code_with_placeholders": [
+    "x = 120",
+    "if x % 2 == 0:",
+    "    [__keyword__] x > 100:",
+    "        print(\"x is an even number greater than 100\")",
+    "    else:",
+    "        print(\"x is an even number less or equal to 100\")",
+    "else:",
+    "    print(\"x is odd\")"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "while",
+    "else"
+  ],
+  "correct_answer": {
+    "__keyword__": "if"
+  }
+}

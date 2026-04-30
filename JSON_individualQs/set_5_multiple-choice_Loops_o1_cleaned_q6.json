@@ -1,0 +1,11 @@
+{
+  "question": "Which statement about the else clause in a Python for loop is correct?",
+  "difficulty": 6,
+  "choices": [
+    "It always executes at the end of the for loop",
+    "It executes only if a break statement is encountered",
+    "It executes only if the loop completes without a break",
+    "It never executes in for loops"
+  ],
+  "correct_answer": "It executes only if the loop completes without a break"
+}

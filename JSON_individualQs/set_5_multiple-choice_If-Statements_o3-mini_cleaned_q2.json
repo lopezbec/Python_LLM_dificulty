@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which keyword is used to execute a block of code if the condition in an if statement is false?",
+  "options": {
+    "A": "elif",
+    "B": "else",
+    "C": "default",
+    "D": "except"
+  },
+  "correct_answer": "B"
+}

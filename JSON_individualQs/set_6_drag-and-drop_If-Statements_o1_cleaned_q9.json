@@ -1,0 +1,43 @@
+{
+  "question": "Drag and drop the correct keywords to check if a food item is in the fruit list and whether it is uppercase.",
+  "difficulty": 9,
+  "code": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfood = \"APPLE\"\n\n__1__ food.lower() in fruits:\n    __2__ food.isupper():\n        print(\"Fruit in uppercase form\")\n    __3__:\n        print(\"Fruit in non-uppercase form\")\n__4__:\n    print(\"Not a fruit\")",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "while",
+        "elif"
+      ]
+    },
+    {
+      "id": "__2__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "else",
+        "try"
+      ]
+    },
+    {
+      "id": "__3__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "return",
+        "else"
+      ]
+    },
+    {
+      "id": "__4__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "else",
+        "except"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "if not (age ___ 0 ___ age ___ 120):\n    print(\"Invalid age\")\nelse:\n    print(\"Age is valid\")",
+        "age",
+        "___",
+        "___",
+        "___",
+        "<",
+        ">",
+        "and",
+        "or",
+        "<=",
+        ">="
+    ]
+}

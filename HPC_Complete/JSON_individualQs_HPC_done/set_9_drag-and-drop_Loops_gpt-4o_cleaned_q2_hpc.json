@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "counter = 1\n___ counter <= 3:\n    print(counter)\n    counter += 1",
+        "for",
+        "while",
+        "until"
+    ]
+}

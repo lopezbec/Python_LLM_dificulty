@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The loop control variable is often used to keep track of the number of iterations; it is typically initialized _____ the loop starts.",
+  "answer": "before"
+}

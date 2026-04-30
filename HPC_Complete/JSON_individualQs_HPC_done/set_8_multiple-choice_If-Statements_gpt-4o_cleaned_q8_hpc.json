@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "for char in 'Programming':",
+        "if char in 'Python':",
+        "print('Python')",
+        "'Python'",
+        "'2'",
+        "'3'",
+        "'4'",
+        "'5'"
+    ]
+}

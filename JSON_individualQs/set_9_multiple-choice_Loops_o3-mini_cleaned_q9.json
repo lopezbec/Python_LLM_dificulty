@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following code snippets correctly prints all characters of the string 'Python' on a single line, separated by hyphens (with no trailing hyphen)?",
+  "options": [
+    "print(\"-\".join(\"Python\"))",
+    "for char in \"Python\":\n    print(char, end=\"-\")",
+    "for char in \"Python\":\n    print(char, end=\" \")",
+    "print(\"Python\".replace(\"\", \"-\"))"
+  ],
+  "correct_answer": "print(\"-\".join(\"Python\"))"
+}

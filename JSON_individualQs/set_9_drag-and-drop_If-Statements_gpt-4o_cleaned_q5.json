@@ -1,0 +1,15 @@
+{
+  "difficulty": 5,
+  "description": "Select the correct statements to include a check for adults and seniors.",
+  "premise": "age = 45\nif __:\n    print('Adult')\nelif __:\n    print('Senior')",
+  "options": [
+    "age >= 18",
+    "age >= 65",
+    "age < 18",
+    "age < 65"
+  ],
+  "correct_answer": [
+    "age >= 18",
+    "age >= 65"
+  ]
+}

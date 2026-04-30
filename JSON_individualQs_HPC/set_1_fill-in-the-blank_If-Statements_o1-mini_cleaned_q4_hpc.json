@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "temp = 32",
+        "if temp > 30:",
+        "print(\"Warm\")",
+        "___ temp < 32:",
+        "print(\"Freezing\")",
+        "else:",
+        "print(\"Cold\")",
+        "temp"
+    ]
+}

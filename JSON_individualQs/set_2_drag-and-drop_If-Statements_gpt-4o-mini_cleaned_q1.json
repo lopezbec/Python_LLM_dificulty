@@ -1,0 +1,10 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct block to complete the if-statement: \nif (condition) _______ ;",
+  "drops": [
+    "print('Hello')",
+    "else",
+    "for i in range(5)"
+  ],
+  "correct": "print('Hello')"
+}

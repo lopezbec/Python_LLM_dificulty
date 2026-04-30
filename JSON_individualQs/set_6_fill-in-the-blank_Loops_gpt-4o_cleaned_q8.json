@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "List comprehension is a concise way to create lists using ___ loops inside list declarations.",
+  "blank": "for"
+}

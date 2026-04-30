@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank to handle two checks simultaneously:\n\nif x == 5 _____ y != 10:\n    print(\"Special case\")",
+  "answer": "and"
+}

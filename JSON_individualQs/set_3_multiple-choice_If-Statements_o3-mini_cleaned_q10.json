@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Analyze the following code snippet:\n\nx = 8\nif x > 5:\n    if x % 2 == 0:\n         result = \"Even and greater than 5\"\n    else:\n         result = \"Odd and greater than 5\"\nelif x == 5:\n    result = \"Equal to 5\"\nelse:\n    result = \"Less than 5\"\nprint(result)\n\nWhat is the output when this code is executed?",
+  "options": [
+    "Even and greater than 5",
+    "Odd and greater than 5",
+    "Equal to 5",
+    "Less than 5"
+  ],
+  "correct_answer": "Even and greater than 5"
+}

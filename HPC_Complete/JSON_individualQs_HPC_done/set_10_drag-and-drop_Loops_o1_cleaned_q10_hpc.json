@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if n == 5:",
+        "for val in reversed(squares):",
+        "squares = []",
+        "for n in range(10):",
+        "squares.append(n*n)",
+        "continue",
+        "print(val)"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = [1, 2, 3]",
+        "if len(x) == 3:",
+        "print('Three')",
+        "else:",
+        "print('Not Three')",
+        "x",
+        "Three",
+        "Not Three",
+        "Error",
+        "None"
+    ]
+}

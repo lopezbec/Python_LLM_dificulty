@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "with open('file.txt', 'r') as file:",
+        "for ___, line in ___(file, ___):",
+        "print(f'Line {i}: {line.strip()}')",
+        "i",
+        "enumerate",
+        "1"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Python's list comprehension is an alternative to traditional for loops and can be used to generate new lists in one concise expression.",
+  "correct_answer": true
+}

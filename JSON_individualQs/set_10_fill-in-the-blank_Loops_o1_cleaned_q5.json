@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: The built-in '_____ ' function is commonly used with a 'for' loop to iterate over a sequence of numbers.",
+  "difficulty": 5,
+  "answer": "range"
+}

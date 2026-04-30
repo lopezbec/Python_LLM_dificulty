@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "The break statement in a loop causes the loop to immediately move on to the next iteration.",
+  "correct_answer": false
+}

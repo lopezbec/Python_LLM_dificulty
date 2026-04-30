@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "question": "Drag and drop the components to form a `while` loop that continues until `count` is less than 5.",
+  "options": [
+    "count = 0",
+    "while count < 5:",
+    "print(count)",
+    "count += 1"
+  ],
+  "correct_order": [
+    "count = 0",
+    "while count < 5:",
+    "    print(count)",
+    "    count += 1"
+  ],
+  "difficulty": 2
+}

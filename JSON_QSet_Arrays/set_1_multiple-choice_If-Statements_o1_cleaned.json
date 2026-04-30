@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which keyword is used to check a condition in Python?",
+    "difficulty": 1,
+    "options": [
+      "if",
+      "switch",
+      "check",
+      "test"
+    ],
+    "correct_answer": "if"
+  },
+  {
+    "question": "Which statement is correct about Python\u2019s if statements?",
+    "difficulty": 2,
+    "options": [
+      "The condition must be in parentheses",
+      "Indentation does not matter under an if statement",
+      "The if statement is ended with a semicolon",
+      "Indentation is used to group the statements, not braces"
+    ],
+    "correct_answer": "Indentation is used to group the statements, not braces"
+  },
+  {
+    "question": "Choose the correct syntax for a basic if-else statement in Python:",
+    "difficulty": 3,
+    "options": [
+      "if x>0: print('Positive') else: print('Non-positive')",
+      "if x>0\nprint('Positive')\nelse:\nprint('Non-positive')",
+      "if x>0:\n    print('Positive')\nelse:\n    print('Non-positive')",
+      "if (x>0):\n    print('Positive')\n} else {\n    print('Non-positive')\n}"
+    ],
+    "correct_answer": "if x>0:\n    print('Positive')\nelse:\n    print('Non-positive')"
+  },
+  {
+    "question": "Which option correctly evaluates whether 'a' or 'b' is greater using if-elif-else in Python?",
+    "difficulty": 4,
+    "options": [
+      "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse\n    print('Both are equal')",
+      "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')",
+      "if (a > b)\n    print('a is greater')\nelse if(a < b)\n    print('b is greater')\nelse:\n    print('Both are equal')",
+      "if a > b:\n    print('a is greater')\nelseif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+    ],
+    "correct_answer": "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+  },
+  {
+    "question": "What will the following code print if x = 5?\n\nx = 5\nif x > 0:\n    if x < 10:\n        print('Small positive number')\n    else:\n        print('Large positive number')\nelse:\n    print('Non-positive number')",
+    "difficulty": 5,
+    "options": [
+      "Small positive number",
+      "Large positive number",
+      "Non-positive number",
+      "No output"
+    ],
+    "correct_answer": "Small positive number"
+  },
+  {
+    "question": "Consider the following code:\n\nx = 7\ny = 3\nif x > 0 and y > 0:\n    print('Both positive')\nelif x > 0 or y > 0:\n    print('At least one is positive')\nelse:\n    print('Both are non-positive')\n\nWhat is the output?",
+    "difficulty": 6,
+    "options": [
+      "Both are non-positive",
+      "At least one is positive",
+      "Both positive",
+      "Error: syntax for logical operators is incorrect"
+    ],
+    "correct_answer": "Both positive"
+  },
+  {
+    "question": "Which of the following statements correctly checks if x is 5 or 6?",
+    "difficulty": 7,
+    "options": [
+      "if x == 5 or 6:\n    print('x is 5 or 6')",
+      "if x in [5 or 6]:\n    print('x is 5 or 6')",
+      "if x == 5 or x == 6:\n    print('x is 5 or 6')",
+      "if (x == 5) or (6):\n    print('x is 5 or 6')"
+    ],
+    "correct_answer": "if x == 5 or x == 6:\n    print('x is 5 or 6')"
+  },
+  {
+    "question": "Which of the following is the correct Pythonic way to write a one-line if-else statement?",
+    "difficulty": 8,
+    "options": [
+      "result = if condition: x else: y",
+      "result = x if condition else y",
+      "result = x ? condition : y",
+      "result = if condition then x else y"
+    ],
+    "correct_answer": "result = x if condition else y"
+  },
+  {
+    "question": "Given the code:\n\nx = 4\ny = 8\nif x < y < 10:\n    print('y is between x and 10')\nelse:\n    print('Condition not met')\n\nWhat is the output?",
+    "difficulty": 9,
+    "options": [
+      "y is between x and 10",
+      "Condition not met",
+      "SyntaxError",
+      "NameError"
+    ],
+    "correct_answer": "y is between x and 10"
+  },
+  {
+    "question": "Which piece of code correctly finds the maximum of three variables, x, y, and z, using a nested if statement?",
+    "difficulty": 10,
+    "options": [
+      "if x > y:\n    if x > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(y)\n    else:\n        print(z)",
+      "if x > y > z:\n    print(x)\nelif y > x > z:\n    print(y)\nelse:\n    print(z)",
+      "if x > y:\n    if y > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(x)\n    else:\n        print(z)",
+      "x = max(x, y, z)\nprint(x)"
+    ],
+    "correct_answer": "if x > y:\n    if x > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(y)\n    else:\n        print(z)"
+  }
+]

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if score >= 90:",
+        "_____ extra_credit:",
+        "print('Bonus awarded')"
+    ]
+}

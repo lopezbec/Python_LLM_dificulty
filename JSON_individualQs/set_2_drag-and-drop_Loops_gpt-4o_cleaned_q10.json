@@ -1,0 +1,16 @@
+{
+  "difficulty": 10,
+  "prompt": "Arrange the following blocks to create a loop that uses a generator to iterate over squared values.",
+  "drag_options": [
+    "gen = (x ** 2 for x in range(5))",
+    "print(num)",
+    "for num in gen:",
+    " "
+  ],
+  "drop_target_ordered": [
+    "gen = (x ** 2 for x in range(5))",
+    "for num in gen:",
+    " ",
+    "print(num)"
+  ]
+}

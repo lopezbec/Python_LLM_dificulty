@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "print(\"Senior\")",
+        "elif age >= 65:",
+        "if age < 18:",
+        "print(\"Adult\")",
+        "else:",
+        "Line 3",
+        "Line 1",
+        "Line 4",
+        "Line 2",
+        "Line 5"
+    ]
+}

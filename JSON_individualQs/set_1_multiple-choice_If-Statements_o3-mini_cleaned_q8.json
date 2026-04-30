@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What is the output of the following code?\n\nx = 3\n y = 4\nif x == 3 and y == 5:\n    print('A')\nelif x == 3 or y == 4:\n    print('B')\nelse:\n    print('C')",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "Error"
+  ],
+  "answer": "B"
+}

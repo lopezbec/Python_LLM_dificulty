@@ -1,0 +1,369 @@
+[
+  {
+    "id": 1,
+    "type": "drag_and_drop",
+    "difficulty": 1,
+    "prompt": "Drag the correct keyword into the blank to complete the basic if-statement.",
+    "instructions": "Drag the correct keyword from the options to fill in the blank.",
+    "displayText": "____ x > 5:",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "if"
+      },
+      {
+        "id": "B",
+        "text": "while"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A"
+    }
+  },
+  {
+    "id": 2,
+    "type": "drag_and_drop",
+    "difficulty": 2,
+    "prompt": "Complete the if-statement header by adding the correct punctuation.",
+    "instructions": "Drag the correct punctuation mark into the blank.",
+    "displayText": "if x % 2 == 0____",
+    "draggables": [
+      {
+        "id": "A",
+        "text": ":"
+      },
+      {
+        "id": "B",
+        "text": ";"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A"
+    }
+  },
+  {
+    "id": 3,
+    "type": "drag_and_drop",
+    "difficulty": 3,
+    "prompt": "Fill in the blanks in this if/else statement.",
+    "instructions": "Drag the correct keywords into their respective blanks.",
+    "displayText": "____ score >= 60:\n    print('Pass')\n____:\n    print('Fail')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "if"
+      },
+      {
+        "id": "B",
+        "text": "else"
+      },
+      {
+        "id": "C",
+        "text": "for"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank 1"
+      },
+      {
+        "id": "dz2",
+        "label": "Blank 2"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A",
+      "dz2": "B"
+    }
+  },
+  {
+    "id": 4,
+    "type": "drag_and_drop",
+    "difficulty": 4,
+    "prompt": "Complete the following if-elif-else structure by dragging the correct keywords into the blanks.",
+    "instructions": "Place the correct keyword into each blank.",
+    "displayText": "____ temperature > 30:\n    print('Hot')\n____ temperature > 15:\n    print('Warm')\n____:\n    print('Cold')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "if"
+      },
+      {
+        "id": "B",
+        "text": "elif"
+      },
+      {
+        "id": "C",
+        "text": "else"
+      },
+      {
+        "id": "D",
+        "text": "while"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank 1"
+      },
+      {
+        "id": "dz2",
+        "label": "Blank 2"
+      },
+      {
+        "id": "dz3",
+        "label": "Blank 3"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A",
+      "dz2": "B",
+      "dz3": "C"
+    }
+  },
+  {
+    "id": 5,
+    "type": "drag_and_drop",
+    "difficulty": 5,
+    "prompt": "Arrange the keywords in the correct order for the following multi-conditional if-statement.",
+    "instructions": "Drag the appropriate keywords into the blanks in sequence.",
+    "displayText": "____ a > b:\n    print('a is greater')\n____ a == b:\n    print('a equals b')\n____ a < b:\n    print('a is less')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "if"
+      },
+      {
+        "id": "B",
+        "text": "elif"
+      },
+      {
+        "id": "C",
+        "text": "else"
+      },
+      {
+        "id": "D",
+        "text": "for"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank 1"
+      },
+      {
+        "id": "dz2",
+        "label": "Blank 2"
+      },
+      {
+        "id": "dz3",
+        "label": "Blank 3"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A",
+      "dz2": "B",
+      "dz3": "C"
+    }
+  },
+  {
+    "id": 6,
+    "type": "drag_and_drop",
+    "difficulty": 6,
+    "prompt": "Fill in the blank to create a condition that checks if x is not equal to 10.",
+    "instructions": "Drag the correct comparison operator into the blank.",
+    "displayText": "if x __ 10:",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "!="
+      },
+      {
+        "id": "B",
+        "text": "=="
+      },
+      {
+        "id": "C",
+        "text": "<"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A"
+    }
+  },
+  {
+    "id": 7,
+    "type": "drag_and_drop",
+    "difficulty": 7,
+    "prompt": "Drag the correct indentation into the blank to properly indent the print statement within the if block.",
+    "instructions": "Drag the appropriate whitespace characters to represent one indentation level (4 spaces).",
+    "displayText": "if x > 5:\n____print('x is greater than 5')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "    "
+      },
+      {
+        "id": "B",
+        "text": "  "
+      },
+      {
+        "id": "C",
+        "text": "\t"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Indentation"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A"
+    }
+  },
+  {
+    "id": 8,
+    "type": "drag_and_drop",
+    "difficulty": 8,
+    "prompt": "Arrange the keywords to complete the nested if-statement correctly.",
+    "instructions": "Drag the correct keyword to each blank in the nested structure.",
+    "displayText": "____ x > 0:\n    ____ x > 10:\n        print('Large number')\n    ____:\n        print('Small positive number')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "if"
+      },
+      {
+        "id": "B",
+        "text": "else"
+      },
+      {
+        "id": "C",
+        "text": "elif"
+      },
+      {
+        "id": "D",
+        "text": "while"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank 1"
+      },
+      {
+        "id": "dz2",
+        "label": "Blank 2"
+      },
+      {
+        "id": "dz3",
+        "label": "Blank 3"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A",
+      "dz2": "A",
+      "dz3": "B"
+    }
+  },
+  {
+    "id": 9,
+    "type": "drag_and_drop",
+    "difficulty": 9,
+    "prompt": "Complete the if-statement condition so that it executes when both conditions are met.",
+    "instructions": "Drag the correct logical operator into the blank.",
+    "displayText": "if x > 5 __ y < 10:\n    print('Within range')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "or"
+      },
+      {
+        "id": "B",
+        "text": "and"
+      },
+      {
+        "id": "C",
+        "text": "not"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Logical Operator"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "B"
+    }
+  },
+  {
+    "id": 10,
+    "type": "drag_and_drop",
+    "difficulty": 10,
+    "prompt": "Complete the compound if-statement by selecting the correct logical operators for each blank to evaluate a complex condition.",
+    "instructions": "Drag the appropriate operator into each blank. Note: In this problem, the first blank should be filled with 'or', and the second and third blanks with 'and'.",
+    "displayText": "if (x == 10 __1__ x < 20) __2__ (y != 0 __3__ y > -5):\n    print('Condition met')",
+    "draggables": [
+      {
+        "id": "A",
+        "text": "or"
+      },
+      {
+        "id": "B",
+        "text": "and"
+      },
+      {
+        "id": "C",
+        "text": "not"
+      },
+      {
+        "id": "D",
+        "text": "or"
+      },
+      {
+        "id": "E",
+        "text": "and"
+      }
+    ],
+    "dropZones": [
+      {
+        "id": "dz1",
+        "label": "Blank 1"
+      },
+      {
+        "id": "dz2",
+        "label": "Blank 2"
+      },
+      {
+        "id": "dz3",
+        "label": "Blank 3"
+      }
+    ],
+    "correctMapping": {
+      "dz1": "A",
+      "dz2": "B",
+      "dz3": "E"
+    }
+  }
+]

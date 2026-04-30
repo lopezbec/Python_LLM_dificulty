@@ -1,0 +1,5 @@
+{
+  "question": "In a for loop iterating over a dictionary, it iterates over the dictionary keys by default.",
+  "answer": true,
+  "difficulty": 6
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank with the appropriate keyword in this multiple-condition structure: if x < 0: print(\"Negative\") ___ x == 0: print(\"Zero\").",
+  "answer": "elif"
+}

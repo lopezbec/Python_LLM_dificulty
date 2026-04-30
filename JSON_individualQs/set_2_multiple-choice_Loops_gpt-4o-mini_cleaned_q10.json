@@ -1,0 +1,11 @@
+{
+  "question": "In the given snippet, how many times will 'Looping' be printed? \n\n```python\nn = 3\nfor i in range(n):\n    for j in range(n):\n        if i == j:\n            print('Looping')\n```",
+  "options": [
+    "3",
+    "6",
+    "9",
+    "0"
+  ],
+  "answer": "3",
+  "difficulty": 10
+}

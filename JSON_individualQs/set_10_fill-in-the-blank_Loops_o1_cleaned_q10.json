@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: The expression [x**2 for x in range(10)] is an example of a '_____ ' comprehension that uses a 'for' loop inside brackets to build a new list.",
+  "difficulty": 10,
+  "answer": "list"
+}

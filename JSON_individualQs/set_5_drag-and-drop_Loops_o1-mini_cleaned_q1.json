@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 1,
+  "prompt": "Arrange the lines to create a basic 'for' loop that prints numbers from 1 to 3.",
+  "draggableItems": [
+    "for i in range(1, 4):",
+    "print(i)"
+  ],
+  "dropZones": [
+    "Loop Statement",
+    "Loop Body"
+  ],
+  "correctMatch": {
+    "Loop Statement": "for i in range(1, 4):",
+    "Loop Body": "print(i)"
+  }
+}

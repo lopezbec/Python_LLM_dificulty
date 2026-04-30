@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "[Zone1] x [Zone2] 0 [Zone3]\n    print(\"Positive\")",
+        "if",
+        ">",
+        ":"
+    ]
+}

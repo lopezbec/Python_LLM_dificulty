@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "count = 0",
+        "while count < 3:",
+        "print(count)",
+        "count += 1",
+        "else:",
+        "print('Done')",
+        "count",
+        "0 1 2",
+        "0 1 2 Done",
+        "1 2 3 Done",
+        "Infinite loop"
+    ]
+}

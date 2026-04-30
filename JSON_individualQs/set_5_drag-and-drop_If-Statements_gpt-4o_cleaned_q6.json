@@ -1,0 +1,16 @@
+{
+  "difficulty": 6,
+  "description": "Fill in the placeholders to execute the elif branch if 'value' is 0.",
+  "code": "value = 0\nif ( value < 0 ):\n    print('Negative')\nelif ( ___ == ___ ):\n    print('Zero')\nelse:\n    print('Positive')",
+  "options": [
+    "value",
+    "0",
+    "1",
+    "<",
+    ">"
+  ],
+  "correct": [
+    "value",
+    "0"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "What is the purpose of the 'else' clause in a loop construct in Python?",
+  "options": [
+    "It always executes after the loop body regardless of conditions",
+    "It executes only if the loop completes normally without encountering a break",
+    "It executes whenever the loop encounters a continue statement",
+    "There is no else clause applicable to loops in Python"
+  ],
+  "correct_answer": "It executes only if the loop completes normally without encountering a break"
+}

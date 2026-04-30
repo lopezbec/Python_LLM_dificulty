@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "for i in range(3):",
+        "print(i)",
+        "____:",
+        "print('Done')",
+        "else",
+        "finally",
+        "except"
+    ]
+}

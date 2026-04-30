@@ -1,0 +1,10 @@
+{
+  "difficulty": 4,
+  "question": "Complete the if statement to check if the variable 'status' is equal to 'active': if status ",
+  "options": [
+    "== 'active':",
+    "!= 'active':",
+    "is 'active':"
+  ],
+  "correct_option": "== 'active':"
+}

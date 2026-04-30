@@ -1,0 +1,17 @@
+{
+  "difficulty": 6,
+  "prompt": "Complete the loop to correctly iterate and print each character in the string 'Hello'.",
+  "drag_options": [
+    "char",
+    "in",
+    "for",
+    "string"
+  ],
+  "drop_targets": [
+    "for",
+    "___",
+    "___",
+    " 'Hello':",
+    "print(char)"
+  ]
+}

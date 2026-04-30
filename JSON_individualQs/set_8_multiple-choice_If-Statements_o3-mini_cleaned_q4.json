@@ -1,0 +1,27 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "What will be the output of the following code snippet?\n\nx = 10\nif x > 5:\n    print('A')\nelse:\n    print('B')",
+  "options": [
+    {
+      "label": "A",
+      "text": "A",
+      "isCorrect": true
+    },
+    {
+      "label": "B",
+      "text": "B",
+      "isCorrect": false
+    },
+    {
+      "label": "C",
+      "text": "No output",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "Error",
+      "isCorrect": false
+    }
+  ]
+}

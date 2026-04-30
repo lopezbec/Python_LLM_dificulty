@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "description": "Complete the if-statement to print 'Hello' if a variable x is equal to 5.",
+  "premise": "x = 5\nif __:\n    print('Hello')",
+  "options": [
+    "x == 5",
+    "x > 5",
+    "x < 5"
+  ],
+  "correct_answer": "x == 5"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In Python, modifying the loop variable inside a 'for' loop affects the sequence being iterated over.",
+  "type": "true/false",
+  "difficulty": 10,
+  "topic": "loops",
+  "correct_answer": "False"
+}

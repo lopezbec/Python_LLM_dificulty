@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if ___:\n    print('Divisible by both')\nelif ___:\n    print('Divisible by 2')\nelif ___:\n    print('Divisible by 3')",
+        "number",
+        "number % 2 == 0 and number % 3 == 0",
+        "number % 2 == 0",
+        "number % 3 == 0"
+    ]
+}

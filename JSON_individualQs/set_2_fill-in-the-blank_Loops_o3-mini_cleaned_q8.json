@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: In the nested loop code below, replace the blank to iterate 5 times in the inner loop:\n\nfor i in range(3):\n    for j in range(____):\n        print(i, j)",
+  "answer": "5"
+}

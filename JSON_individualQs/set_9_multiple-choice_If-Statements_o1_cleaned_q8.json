@@ -1,0 +1,12 @@
+{
+  "difficulty": 8,
+  "question": "What will the following code print when x = 15?\n\nx = 15\nif x < 5:\n    print(\"Very small\")\nelif x < 10:\n    print(\"Small\")\nelif x < 20:\n    print(\"Medium\")\nelse:\n    print(\"Large\")",
+  "options": [
+    "Very small",
+    "Small",
+    "Medium",
+    "Large"
+  ],
+  "correctAnswer": "Medium",
+  "explanation": "Since x=15 is less than 20 but not less than 10, the code prints 'Medium'."
+}

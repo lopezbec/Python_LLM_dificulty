@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if n > 0 ______ n % 5 == 0:",
+        "print(\"Positive multiple of 5\")",
+        "n"
+    ]
+}

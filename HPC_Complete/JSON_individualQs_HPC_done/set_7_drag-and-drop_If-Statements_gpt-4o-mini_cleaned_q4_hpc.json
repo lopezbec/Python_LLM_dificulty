@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if (user_age < 18) { print(\"Minor\") }",
+        "user_age < 18"
+    ]
+}

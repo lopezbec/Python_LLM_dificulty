@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Complete the nested loops that print pairs of numbers.\n\nfor i in range(3):\n    for j in range(___):\n        print(i, j)",
+  "options": [
+    "3",
+    "2",
+    "1",
+    "4"
+  ],
+  "answer": "3"
+}

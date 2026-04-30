@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "Loops",
+  "question": "Drag and drop the missing function to complete the list comprehension that computes the squares of numbers from 0 to 9.",
+  "instructions": "Drag the correct function name into the blank.",
+  "code": "squares = [x**2 for x in ___(10)]",
+  "drag_items": [
+    "range",
+    "list",
+    "tuple"
+  ],
+  "correct_answers": {
+    "___": "range"
+  }
+}

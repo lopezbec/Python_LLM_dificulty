@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "question": "Which of the following list comprehensions correctly creates a list of squares for numbers from 0 to 4?",
+  "options": {
+    "A": "`[x**2 for x in range(5)]`",
+    "B": "`[x*2 for x in range(5)]`",
+    "C": "`list(x**2 for x in range(5))`",
+    "D": "Both A and C"
+  },
+  "answer": "D",
+  "difficulty": 9
+}

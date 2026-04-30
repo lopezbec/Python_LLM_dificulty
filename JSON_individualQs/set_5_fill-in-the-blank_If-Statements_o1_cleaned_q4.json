@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Complete the code snippet to handle three conditions. It should print 'Positive' if x is greater than 0, 'Zero' if x equals 0, and 'Negative' otherwise:\n\nif x > 0:\n    print(\"Positive\")\n________ x == 0:\n    print(\"Zero\")\nelse:\n    print(\"Negative\")",
+  "answer": "elif"
+}

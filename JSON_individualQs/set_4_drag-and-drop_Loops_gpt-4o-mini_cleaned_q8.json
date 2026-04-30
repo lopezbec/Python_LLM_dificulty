@@ -1,0 +1,18 @@
+{
+  "difficulty": 8,
+  "question": "Drag and drop to correctly implement a loop that counts the number of vowels in a given string.",
+  "options": [
+    "vowels = 'aeiou'",
+    "count = 0",
+    "for letter in text:",
+    "if letter in vowels:",
+    "count += 1"
+  ],
+  "correct_order": [
+    "vowels = 'aeiou'",
+    "count = 0",
+    "for letter in text:",
+    "if letter in vowels:",
+    "count += 1"
+  ]
+}

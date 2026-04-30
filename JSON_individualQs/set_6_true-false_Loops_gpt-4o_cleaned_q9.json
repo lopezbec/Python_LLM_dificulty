@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In Python, list comprehensions can be used as an alternative to traditional for-loops for creating new lists based on existing lists.",
+  "answer": true
+}

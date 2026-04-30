@@ -1,0 +1,11 @@
+{
+  "question": "Fill in the missing condition with the correct option: \nif ( ______ ) { return True; }",
+  "options": [
+    "x != 0",
+    "return False",
+    "True",
+    "x = 0"
+  ],
+  "correct_answer": "x != 0",
+  "difficulty": 3
+}

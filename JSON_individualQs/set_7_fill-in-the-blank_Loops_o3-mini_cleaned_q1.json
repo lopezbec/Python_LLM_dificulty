@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank: In Python, the ____ loop is typically used to iterate over items in a sequence.",
+  "answer": "for"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x",
+        "while True:",
+        "if x == 5:",
+        "break",
+        "print(x)"
+    ]
+}

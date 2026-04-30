@@ -1,0 +1,11 @@
+{
+  "question": "Which option correctly evaluates whether 'a' or 'b' is greater using if-elif-else in Python?",
+  "difficulty": 4,
+  "options": [
+    "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse\n    print('Both are equal')",
+    "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')",
+    "if (a > b)\n    print('a is greater')\nelse if(a < b)\n    print('b is greater')\nelse:\n    print('Both are equal')",
+    "if a > b:\n    print('a is greater')\nelseif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+  ],
+  "correct_answer": "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+}

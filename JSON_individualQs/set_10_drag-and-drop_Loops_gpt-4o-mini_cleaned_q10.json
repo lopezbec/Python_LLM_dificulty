@@ -1,0 +1,17 @@
+{
+  "question": "Order the code snippets to create a 'do while' loop equivalent using 'while' that continues until condition fails.",
+  "options": [
+    "condition = True",
+    "while True:",
+    "print('Looping')",
+    "if not condition:",
+    "break"
+  ],
+  "correct_order": [
+    "while True:",
+    "print('Looping')",
+    "if not condition:",
+    "break"
+  ],
+  "difficulty": 10
+}

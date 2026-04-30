@@ -1,0 +1,11 @@
+{
+  "question": "Drag and drop to complete the if-statement for checking even numbers:\n`if (number ____ 2 == 0):`",
+  "drops": [
+    " / ",
+    " % ",
+    " + ",
+    " - "
+  ],
+  "correct": "%",
+  "difficulty": 3
+}

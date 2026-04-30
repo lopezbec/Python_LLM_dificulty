@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "person = {\"name\": \"Alice\", \"age\": 30}",
+        "for ??? in ???:",
+        "print(key, value)",
+        "key, value",
+        "person.items()",
+        "person.keys()",
+        "age, name"
+    ]
+}

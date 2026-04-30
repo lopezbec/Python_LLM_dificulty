@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Analyze this code snippet. How many times does the inner loop execute in total?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+  "options": [
+    "A) 2",
+    "B) 3",
+    "C) 6",
+    "D) 9"
+  ],
+  "correct_answer": "C"
+}

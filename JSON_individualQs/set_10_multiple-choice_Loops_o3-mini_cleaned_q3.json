@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Consider the following code snippet:\n\nx = 0\nwhile x < 3:\n    print(x)\n\nWhat is the main problem with this code?",
+  "options": [
+    "Infinite loop because x is never incremented",
+    "Syntax error due to incorrect indentation",
+    "Runtime error due to uninitialized variable",
+    "The loop will execute exactly 3 times"
+  ],
+  "correctAnswer": "Infinite loop because x is never incremented"
+}

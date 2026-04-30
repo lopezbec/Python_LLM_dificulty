@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: To add an additional condition between if and else in a decision structure, which keyword should you use? Complete the snippet:\nif age < 13:\n    print('Child')\n_____ age < 20:\n    print('Teenager')\nelse:\n    print('Adult')",
+  "answer": "elif"
+}

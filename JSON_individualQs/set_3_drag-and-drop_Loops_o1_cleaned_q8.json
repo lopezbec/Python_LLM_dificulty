@@ -1,0 +1,29 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "questionText": "Fill in the missing range arguments and print statement to iterate from 10 down to 1 (inclusive), halting early if the number is less than 5:",
+  "codeSnippet": [
+    "for num in [RANGE_PLACEHOLDER]:",
+    "    if num < 5:",
+    "        [BREAK_PLACEHOLDER]",
+    "    [PRINT_PLACEHOLDER]"
+  ],
+  "dragItems": [
+    "range(10, 0, -1)",
+    "range(10, 1)",
+    "print(num)",
+    "break",
+    "print(num + 1)",
+    "continue"
+  ],
+  "dropSlots": [
+    "RANGE_PLACEHOLDER",
+    "BREAK_PLACEHOLDER",
+    "PRINT_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "RANGE_PLACEHOLDER": "range(10, 0, -1)",
+    "BREAK_PLACEHOLDER": "break",
+    "PRINT_PLACEHOLDER": "print(num)"
+  }
+}

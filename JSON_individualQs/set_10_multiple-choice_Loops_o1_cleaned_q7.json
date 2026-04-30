@@ -1,0 +1,11 @@
+{
+  "question": "Which best describes how the 'else' clause works in a Python for loop?",
+  "difficulty": 7,
+  "options": [
+    "It executes if the loop completes normally without a break statement",
+    "It always executes after the loop ends",
+    "It only executes if there's an exception inside the loop",
+    "It never executes when the loop has more than one iteration"
+  ],
+  "answer": "It executes if the loop completes normally without a break statement"
+}

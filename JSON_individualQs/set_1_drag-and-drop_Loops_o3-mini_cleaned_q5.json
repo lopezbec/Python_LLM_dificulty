@@ -1,0 +1,18 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "topic": "Loops",
+  "question": "Drag and drop the segments to form a for loop that prints numbers from 0 to 4, but stops when the number equals 3.",
+  "drag_items": [
+    "    if i == 3:",
+    "for i in range(5):",
+    "        break",
+    "    print(i)"
+  ],
+  "correct_order": [
+    "for i in range(5):",
+    "    if i == 3:",
+    "        break",
+    "    print(i)"
+  ]
+}

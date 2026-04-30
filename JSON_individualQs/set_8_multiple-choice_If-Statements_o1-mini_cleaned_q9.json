@@ -1,0 +1,10 @@
+{
+  "question": "What is the result of the following code?\n\n```python\nx = 10\nif x == 10:\n    print(\"Ten\")\nelif x > 5:\n    print(\"Greater than five\")\nelse:\n    print(\"Less than or equal to five\")\n```",
+  "options": {
+    "A": "Ten",
+    "B": "Greater than five",
+    "C": "Less than or equal to five",
+    "D": "Error"
+  },
+  "answer": "A"
+}

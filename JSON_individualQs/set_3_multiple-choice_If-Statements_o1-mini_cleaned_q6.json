@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct syntax for an if-elif-else statement in Python?",
+  "options": {
+    "A": "if condition:\n  pass\nelseif condition:\n  pass\nelse:\n  pass",
+    "B": "if condition then:\n  pass\nelif condition then:\n  pass\notherwise:\n  pass",
+    "C": "if condition:\n  pass\nelif condition:\n  pass\nelse:\n  pass",
+    "D": "if (condition){\n  pass;\n} elseif (condition){\n  pass;\n} else {\n  pass;\n}"
+  },
+  "answer": "C",
+  "difficulty": 6
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to create a nested if statement.",
+  "code_snippet": "if weather == \"sunny\":\n    if temperature > 25:\n        print(\"Let's go to the beach!\")\n    __blank__:\n        print(\"Let's have a picnic.\")\nelse:\n    print(\"Stay indoors.\")",
+  "options": [
+    "elif temperature > 15:",
+    "else:",
+    "elif temperature > 20:",
+    "pass"
+  ],
+  "answer": "else:"
+}

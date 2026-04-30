@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the following code:\n\nnumbers = [10, 20, 30]\nfor i, val in enumerate(numbers):\n    if val == 20:\n        numbers[i] = 40\nprint(numbers)\n\nWhat will be the output?",
+  "choices": [
+    "[10, 20, 30]",
+    "[10, 40, 30]",
+    "[40, 20, 30]",
+    "[10, 30, 40]"
+  ],
+  "answer": "[10, 40, 30]"
+}

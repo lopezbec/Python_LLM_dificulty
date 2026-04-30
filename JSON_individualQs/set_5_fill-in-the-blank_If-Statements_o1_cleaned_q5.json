@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Given the code snippet below, fill in the blank so 'Valid' prints only if x is greater than 5 and y is not 0:\n\nif x > 5 and __________:\n    print(\"Valid\")",
+  "answer": "y != 0"
+}

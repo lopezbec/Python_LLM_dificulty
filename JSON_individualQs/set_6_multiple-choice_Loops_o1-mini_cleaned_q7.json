@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "What is the purpose of the `else` block in a `for` loop in Python?",
+  "options": [
+    "It executes only if the loop is terminated by a `break` statement.",
+    "It executes after the loop completes normally without encountering a `break`.",
+    "It acts as an alternative loop condition.",
+    "It handles exceptions raised within the loop."
+  ],
+  "correct_answer": "It executes after the loop completes normally without encountering a `break`."
+}

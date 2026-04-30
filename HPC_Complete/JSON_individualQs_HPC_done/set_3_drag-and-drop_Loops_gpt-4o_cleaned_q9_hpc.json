@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "words = ['go', 'stop', 'proceed']\nfor word in words:\n    if word == '___':\n        ___\n    print(word)",
+        "stop",
+        "break"
+    ]
+}

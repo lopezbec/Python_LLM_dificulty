@@ -1,0 +1,14 @@
+{
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Complete the code to execute a block when neither of the conditions are true.",
+  "code": "x = 10\ny = 20\nif x > y:\n    print('x is greater')\n______:\n    print('x is not greater')",
+  "options": [
+    "else",
+    "elif",
+    "except",
+    "finally"
+  ],
+  "correct": "else"
+}

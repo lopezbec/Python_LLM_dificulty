@@ -1,0 +1,202 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag and drop to complete the basic if-statement that prints 'Hello, World!' if x is 5.",
+    "code_blocks": [
+      "x = 5",
+      "if x == 5:",
+      "print('Hello, World!')"
+    ],
+    "droppable_items": [
+      "x = 5",
+      "if x == 5:",
+      "print('Hello, World!')"
+    ],
+    "solution": [
+      "x = 5",
+      "if x == 5:",
+      "print('Hello, World!')"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Drag and drop the missing keyword to complete the sentence: Use the ____ keyword to check if a condition is true.",
+    "code_blocks": [],
+    "droppable_items": [
+      "if",
+      "else",
+      "elif"
+    ],
+    "solution": [
+      "if"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Complete the if-else statement to print 'Even' if the number is even, otherwise print 'Odd'.",
+    "code_blocks": [
+      "number = 4",
+      "if number % 2 == 0:",
+      "print('Even')",
+      "else:",
+      "print('Odd')"
+    ],
+    "droppable_items": [
+      "if number % 2 == 0:",
+      "else:"
+    ],
+    "solution": [
+      "if number % 2 == 0:",
+      "else:"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Complete the nested if-statement to print 'Positive Even' for a positive even number.",
+    "code_blocks": [
+      "num = 8",
+      "if num > 0:",
+      "if num % 2 == 0:",
+      "print('Positive Even')"
+    ],
+    "droppable_items": [
+      "if num % 2 == 0:",
+      "if num > 0:"
+    ],
+    "solution": [
+      "if num > 0:",
+      "if num % 2 == 0:"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Reorganize the if-elif-else structure to check age eligibility for voting (>= 18) and minor status (< 18).",
+    "code_blocks": [
+      "age = 17",
+      "if age >= 18:",
+      "print('Eligible to vote')",
+      "elif age < 18:",
+      "print('Minor')"
+    ],
+    "droppable_items": [
+      "if age >= 18:",
+      "elif age < 18:"
+    ],
+    "solution": [
+      "if age >= 18:",
+      "elif age < 18:"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Drag and drop to construct a chained conditional to print 'A', 'B', or 'C' based on the score range.",
+    "code_blocks": [
+      "score = 75",
+      "if score >= 90:",
+      "print('A')",
+      "elif score >= 70:",
+      "print('B')",
+      "else:",
+      "print('C')"
+    ],
+    "droppable_items": [
+      "if score >= 90:",
+      "elif score >= 70:",
+      "else:"
+    ],
+    "solution": [
+      "if score >= 90:",
+      "elif score >= 70:",
+      "else:"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Complete the program using logical operators to evaluate whether a number is between 10 and 20 inclusive.",
+    "code_blocks": [
+      "num = 15",
+      "if num >= 10 and num <= 20:",
+      "print('Within range')"
+    ],
+    "droppable_items": [
+      "if num >= 10 and num <= 20:"
+    ],
+    "solution": [
+      "if num >= 10 and num <= 20:"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Develop a program fragment using if-statements to determine if two variables are equal and if one exceeds the other.",
+    "code_blocks": [
+      "a = 5",
+      "b = 10",
+      "if a == b:",
+      "print('Equal')",
+      "elif a > b:",
+      "print('a is greater')",
+      "elif a < b:",
+      "print('b is greater')"
+    ],
+    "droppable_items": [
+      "if a == b:",
+      "elif a > b:",
+      "elif a < b:"
+    ],
+    "solution": [
+      "if a == b:",
+      "elif a > b:",
+      "elif a < b:"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Arrange to form a program that checks multiple ranges and prints whether a number is 'Low', 'Medium', or 'High'.",
+    "code_blocks": [
+      "value = 45",
+      "if value <= 30:",
+      "print('Low')",
+      "elif value <= 60:",
+      "print('Medium')",
+      "else:",
+      "print('High')"
+    ],
+    "droppable_items": [
+      "if value <= 30:",
+      "elif value <= 60:",
+      "else:"
+    ],
+    "solution": [
+      "if value <= 30:",
+      "elif value <= 60:",
+      "else:"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Compile a decision-making structure to determine an employee's performance category based on score ranges using compound conditions.",
+    "code_blocks": [
+      "score = 82",
+      "if score >= 90:",
+      "print('Outstanding')",
+      "elif score >= 75 and score < 90:",
+      "print('Good')",
+      "elif score >= 60 and score < 75:",
+      "print('Satisfactory')",
+      "else:",
+      "print('Needs Improvement')"
+    ],
+    "droppable_items": [
+      "if score >= 90:",
+      "elif score >= 75 and score < 90:",
+      "elif score >= 60 and score < 75:",
+      "else:"
+    ],
+    "solution": [
+      "if score >= 90:",
+      "elif score >= 75 and score < 90:",
+      "elif score >= 60 and score < 75:",
+      "else:"
+    ]
+  }
+]

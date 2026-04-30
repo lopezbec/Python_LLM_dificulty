@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which statement immediately ends a loop in Python?",
+  "options": [
+    "continue",
+    "break",
+    "pass",
+    "stop"
+  ],
+  "correct_answer": "break"
+}

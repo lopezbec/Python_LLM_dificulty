@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: To iterate over a list while obtaining both the index and the value, complete this statement: for index, value in ______(my_list):",
+  "answer": "enumerate"
+}

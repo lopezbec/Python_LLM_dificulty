@@ -1,0 +1,17 @@
+{
+  "difficulty": 5,
+  "question": "Complete the nested if and elif statements to check divisibility and magnitude.",
+  "instruction": "Drag the correct items into the placeholders.",
+  "partiallyCompletedCode": "x = 105\nif x > 100:\n    ____ x % 3 == 0:\n        print('Divisible by 3 and greater than 100')\n    else:\n        print('Greater than 100 but not divisible by 3')\n____ x % 5 == 0:\n    print('Divisible by 5')",
+  "dragItems": [
+    "if",
+    "while",
+    "elif",
+    "else"
+  ],
+  "correctAnswer": [
+    "if",
+    "elif"
+  ],
+  "explanation": "Use a nested 'if' to check divisibility by 3 inside 'if x > 100', then 'elif x % 5 == 0' for the next condition."
+}

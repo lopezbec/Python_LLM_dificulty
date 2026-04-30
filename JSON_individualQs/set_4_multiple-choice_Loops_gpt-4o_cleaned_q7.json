@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the code snippet:\n\nnums = [1, 2, 3]\nfor i in nums:\n    if i%2 == 0:\n        continue\n    print(i)\n\nWhat is printed?",
+  "options": {
+    "A": "2",
+    "B": "1\n3",
+    "C": "1\n2",
+    "D": "1\n2\n3"
+  },
+  "correct_answer": "B"
+}

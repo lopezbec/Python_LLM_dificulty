@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword to complete the basic if-statement.",
+  "code_snippet": "___ x > 0:\n    print('x is positive')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "if"
+    }
+  ],
+  "choices": [
+    "if",
+    "for",
+    "while",
+    "elif"
+  ]
+}

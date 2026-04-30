@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In a nested loop, the loop inside the outer loop is called the ____ loop.",
+  "answer": "inner"
+}

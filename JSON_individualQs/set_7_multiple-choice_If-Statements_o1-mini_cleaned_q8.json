@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "question": "Consider the following code snippet:\n\nx = 7\nif x % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")\n    if x > 5:\n        print(\"Greater than 5\")",
+  "options": {
+    "A": "Odd\nGreater than 5",
+    "B": "Odd",
+    "C": "Greater than 5",
+    "D": "Even"
+  },
+  "correct_answer": "A",
+  "difficulty": 8,
+  "topic": "if statements"
+}

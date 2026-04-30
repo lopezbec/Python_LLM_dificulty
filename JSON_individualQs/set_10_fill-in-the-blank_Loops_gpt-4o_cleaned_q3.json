@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "To iterate over a list called `my_list` using a for loop, you can use the syntax `for ___ in my_list:`.",
+  "answer": "item"
+}

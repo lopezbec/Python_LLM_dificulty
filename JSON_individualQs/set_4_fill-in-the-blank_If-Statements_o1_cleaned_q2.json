@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question_text": "Fill in the blank to check if x is larger than 10: if x ______ 10: print(\"x is larger than 10\")",
+  "correct_answer": ">"
+}

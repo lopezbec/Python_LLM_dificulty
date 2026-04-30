@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "[x for x in range(11) if x % 2 ______ 0]",
+        "x",
+        "range",
+        "x % 2"
+    ]
+}

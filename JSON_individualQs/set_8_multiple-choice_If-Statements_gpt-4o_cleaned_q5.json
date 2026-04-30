@@ -1,0 +1,13 @@
+{
+  "difficulty": 5,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "Given the code below, what will be the value of y after execution?\n\n```\nx = 5\nif x < 10:\n    y = 20\nelse:\n    y = 30\n```\n",
+  "options": [
+    "5",
+    "20",
+    "10",
+    "30"
+  ],
+  "correct_answer": "20"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for",
+        "sequence()",
+        "list()",
+        "range()",
+        "int()"
+    ]
+}

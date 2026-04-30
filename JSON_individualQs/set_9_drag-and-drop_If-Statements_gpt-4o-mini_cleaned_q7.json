@@ -1,0 +1,12 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the missing parts of this complex if statement by dragging:\n\nif (age < 18) ____:\n    print('Minor')\nelif ____:\n    print('Adult')",
+  "options": [
+    "pass",
+    "age > 65"
+  ],
+  "correct_answers": [
+    "pass",
+    "age > 18"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "In a generator function, which statement is used instead of 'return' to yield multiple values during iteration?",
+  "answer": "yield"
+}

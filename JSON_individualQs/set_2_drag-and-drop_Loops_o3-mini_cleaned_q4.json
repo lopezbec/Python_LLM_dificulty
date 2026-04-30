@@ -1,0 +1,30 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Arrange the code snippets in the correct order to build a while loop that sums numbers from 1 to 10.",
+  "instruction": "Drag each code fragment to its proper step in the sequence.",
+  "drag_items": [
+    "total = 0",
+    "num = 1",
+    "while num <= 10:",
+    "total += num",
+    "num += 1",
+    "print(total)"
+  ],
+  "drop_zones": [
+    "Step 1: Initialize the accumulator",
+    "Step 2: Initialize the counter",
+    "Step 3: Begin the loop with the correct condition",
+    "Step 4: Add the counter to the accumulator",
+    "Step 5: Increment the counter",
+    "Step 6: Output the result"
+  ],
+  "correct_mapping": {
+    "Step 1: Initialize the accumulator": "total = 0",
+    "Step 2: Initialize the counter": "num = 1",
+    "Step 3: Begin the loop with the correct condition": "while num <= 10:",
+    "Step 4: Add the counter to the accumulator": "total += num",
+    "Step 5: Increment the counter": "num += 1",
+    "Step 6: Output the result": "print(total)"
+  }
+}

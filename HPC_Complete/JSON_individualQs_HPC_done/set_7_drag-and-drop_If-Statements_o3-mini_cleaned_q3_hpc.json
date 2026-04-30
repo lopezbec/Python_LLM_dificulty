@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "____ score >= 60:\n    print('Pass')\n____:\n    print('Fail')",
+        "if",
+        "else",
+        "for"
+    ]
+}

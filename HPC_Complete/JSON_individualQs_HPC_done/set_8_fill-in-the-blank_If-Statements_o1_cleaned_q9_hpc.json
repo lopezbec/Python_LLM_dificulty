@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if ______ key in d: print('Key not found')",
+        "key",
+        "d"
+    ]
+}

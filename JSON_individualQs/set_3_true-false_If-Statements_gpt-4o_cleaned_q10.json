@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Python's conditional expressions, often termed as one-liner if-statements, use the syntax: condition if expression else alternative.",
+  "answer": true
+}

@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 20",
+        "z = 30",
+        "if x < y and y < z:",
+        "if z > 25:",
+        "print(\"All conditions met\")",
+        "else:",
+        "print(\"Condition z failed\")",
+        "else:",
+        "print(\"Condition x or y failed\")"
+    ]
+}

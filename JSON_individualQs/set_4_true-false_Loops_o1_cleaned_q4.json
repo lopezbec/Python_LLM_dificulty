@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "The 'break' statement can be used to exit both 'for' and 'while' loops before they finish all iterations.",
+  "correct_answer": "True"
+}

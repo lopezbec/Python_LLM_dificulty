@@ -1,0 +1,6 @@
+{
+  "difficulty": 8,
+  "type": "true-false",
+  "question": "A for loop in Python can only iterate over lists and tuples, not other iterable types.",
+  "correctAnswer": "False"
+}

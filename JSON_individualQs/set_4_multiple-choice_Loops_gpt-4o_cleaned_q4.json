@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following will cause a 'for' loop to stop its current iteration and move to the next iteration?",
+  "options": {
+    "A": "stop",
+    "B": "skip",
+    "C": "continue",
+    "D": "break"
+  },
+  "correct_answer": "C"
+}

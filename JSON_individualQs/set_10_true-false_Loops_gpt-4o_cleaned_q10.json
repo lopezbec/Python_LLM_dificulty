@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The time complexity of a nested loop is equal to the sum of the complexities of the individual loops.",
+  "answer": false
+}

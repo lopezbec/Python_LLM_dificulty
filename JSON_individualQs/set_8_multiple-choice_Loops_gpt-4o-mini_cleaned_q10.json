@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the time complexity of a nested loop where each loop runs 'n' times?",
+  "options": [
+    "O(n)",
+    "O(n^2)",
+    "O(log n)",
+    "O(n log n)"
+  ],
+  "correctAnswer": "O(n^2)"
+}

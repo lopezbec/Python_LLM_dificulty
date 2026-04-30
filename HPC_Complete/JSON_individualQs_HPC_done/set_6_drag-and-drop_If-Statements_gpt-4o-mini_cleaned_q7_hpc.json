@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (marks >= 50) { ____; } else { ____; }",
+        "console.log('Pass');",
+        "console.log('Fail');",
+        "return 'Pass';",
+        "return 'Fail';"
+    ]
+}

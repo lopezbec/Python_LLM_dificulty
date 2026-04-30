@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if <blank> or <blank>:\n    print('Conditions met')",
+        "'a'",
+        "'b'",
+        "'a' is positive",
+        "'b' is negative",
+        "a > 0",
+        "b < 0",
+        "a < 0"
+    ]
+}

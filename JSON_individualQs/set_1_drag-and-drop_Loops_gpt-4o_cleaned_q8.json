@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "question": "Reorder to create a while loop that repeats the Fibonacci sequence until a number exceeds 50.",
+  "choices": [
+    "a, b, = 0, 1",
+    "while a <= 50:",
+    "    print(a)",
+    "    a, b = b, a + b"
+  ],
+  "answer": [
+    "a, b, = 0, 1",
+    "while a <= 50:",
+    "    print(a)",
+    "    a, b = b, a + b"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "topic": "Loops",
+  "question": "In Python, what keyword is used to stop a loop prematurely?",
+  "options": [
+    "break",
+    "stop",
+    "exit",
+    "end"
+  ],
+  "answer": "break"
+}

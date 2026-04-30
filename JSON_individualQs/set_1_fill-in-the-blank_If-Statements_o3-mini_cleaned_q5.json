@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: Complete the nested if-statement that checks if score is greater than or equal to 90 and then whether extra_credit is True. Insert the missing keyword:\nif score >= 90:\n    _____ extra_credit:\n        print('Bonus awarded')",
+  "answer": "if"
+}

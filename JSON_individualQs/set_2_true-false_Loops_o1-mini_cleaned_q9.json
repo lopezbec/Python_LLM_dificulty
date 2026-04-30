@@ -1,0 +1,7 @@
+{
+  "question": "An infinite loop occurs when the loop's terminating condition is never met, causing the loop to run indefinitely.",
+  "answer": true,
+  "difficulty": 9,
+  "topic": "Loops",
+  "type": "True/False"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "question": "Complete the if statement that checks if a variable x equals 7. Drag the correct condition into the blank.",
+    "code": "x = 7\nif [BLANK]:\n    print(\"x is 7\")",
+    "choices": [
+      "x == 7",
+      "x >= 7",
+      "x < 7"
+    ],
+    "correctAnswer": "x == 7"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "question": "Complete the if statement to check if a variable score is at least 80. Drag the correct condition into the blank.",
+    "code": "score = 85\nif [BLANK]:\n    print(\"Excellent score\")",
+    "choices": [
+      "score < 80",
+      "score >= 80",
+      "score == 80"
+    ],
+    "correctAnswer": "score >= 80"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "question": "Fill in the missing comparison so the if statement prints a message only when y is smaller than 10.",
+    "code": "y = 4\nif [BLANK]:\n    print(\"y is less than 10\")",
+    "choices": [
+      "y > 10",
+      "y <= 10",
+      "y < 10"
+    ],
+    "correctAnswer": "y < 10"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "question": "Drag the correct snippet to ensure the if block runs only if the variable grade is between 50 and 60 (exclusive).",
+    "code": "grade = 55\nif [BLANK]:\n    print(\"Grade is in the 50s\")",
+    "choices": [
+      "50 < grade < 60",
+      "grade < 50 or grade > 60",
+      "grade == 50 and grade == 60"
+    ],
+    "correctAnswer": "50 < grade < 60"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "question": "Complete the conditional check to print if a variable total is either above 100 or exactly 100. Drag the correct snippet into the blank.",
+    "code": "total = 100\nif [BLANK]:\n    print(\"100 or more\")",
+    "choices": [
+      "total >= 100",
+      "total = 100 or total = 0",
+      "total > 100 and total = 100"
+    ],
+    "correctAnswer": "total >= 100"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "question": "Drag the best snippet into the blank so that an action occurs only if login_status is False (meaning the user is not logged in).",
+    "code": "login_status = False\nif [BLANK]:\n    print(\"User must be logged in\")",
+    "choices": [
+      "login_status == True",
+      "login_status == False",
+      "login_status >= 1"
+    ],
+    "correctAnswer": "login_status == False"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "question": "You want the code to print 'Access Granted' when role equals 'admin' and active is True. Drag the correct condition into the blank.",
+    "code": "role = \"admin\"\nactive = True\nif [BLANK]:\n    print(\"Access Granted\")",
+    "choices": [
+      "role == \"admin\" and active == True",
+      "role == \"admin\" or active == True",
+      "role != \"admin\" and not active"
+    ],
+    "correctAnswer": "role == \"admin\" and active == True"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "question": "Select the correct condition to check if the number variable is outside the range of 10 to 50 (inclusive).",
+    "code": "number = 5\nif [BLANK]:\n    print(\"Number is outside 10 to 50\")",
+    "choices": [
+      "10 <= number <= 50",
+      "number < 10 or number > 50",
+      "number > 10 or number < 50"
+    ],
+    "correctAnswer": "number < 10 or number > 50"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "question": "Complete the condition so that it prints a message only if the variable temp is not 0 and not 100. Drag the correct snippet into the blank.",
+    "code": "temp = 50\nif [BLANK]:\n    print(\"Normal range\")",
+    "choices": [
+      "temp != 0 and temp != 100",
+      "temp == 0 and temp == 100",
+      "temp < 0 or temp > 100"
+    ],
+    "correctAnswer": "temp != 0 and temp != 100"
+  },
+  {
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "question": "Complete the condition to check if msg contains the word 'error' or the word 'failed'. Both words, if present, indicate an error message that should be printed.",
+    "code": "msg = \"The operation failed unexpectedly\"\nif [BLANK]:\n    print(\"Error detected\")",
+    "choices": [
+      "\"error\" not in msg or \"failed\" not in msg",
+      "\"error\" in msg and \"failed\" in msg",
+      "\"error\" in msg or \"failed\" in msg"
+    ],
+    "correctAnswer": "\"error\" in msg or \"failed\" in msg"
+  }
+]

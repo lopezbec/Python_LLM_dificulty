@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following code snippet:\n\nx = 10\ny = 20\nif x > 5 and (y < 20 or y == 20):\n    print('Correct')\nelse:\n    print('Incorrect')\n\nWhat will be printed when the code is executed?",
+  "options": {
+    "A": "Correct",
+    "B": "Incorrect",
+    "C": "An error occurs",
+    "D": "Nothing is printed"
+  },
+  "answer": "A"
+}

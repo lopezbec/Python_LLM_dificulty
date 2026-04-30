@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "s",
+        "if s.startswith('A'):",
+        "print('Starts with A')",
+        "if s[0] == 'A':",
+        "print('Starts with A')",
+        "if s == 'A':",
+        "print('Starts with A')",
+        "if s.find('A'):",
+        "print('Starts with A')"
+    ]
+}

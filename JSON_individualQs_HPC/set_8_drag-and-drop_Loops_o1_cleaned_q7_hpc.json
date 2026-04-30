@@ -1,0 +1,20 @@
+{
+    "HPC": [
+        "while loop",
+        "factorial of 4",
+        "4 * 3 * 2 * 1",
+        "result = 1",
+        "while n > 0:",
+        "print(result)",
+        "n = 4",
+        "result *= n",
+        "n += 1",
+        "n = 4",
+        "result = 1",
+        "while n > 0:",
+        "result *= n",
+        "n -= 1",
+        "print(result)",
+        "'n += 1'"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "loops",
+  "question": "Arrange the following lines to create a while loop that prints numbers from 1 to 3.",
+  "options": [
+    "i = 1",
+    "while i <= 3:",
+    "print(i)",
+    "i += 1"
+  ],
+  "answer": [
+    "i = 1",
+    "while i <= 3:",
+    "print(i)",
+    "i += 1"
+  ]
+}

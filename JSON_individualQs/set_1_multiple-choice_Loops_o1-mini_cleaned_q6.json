@@ -1,0 +1,10 @@
+{
+  "question": "What is the output of the following code?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)",
+  "options": {
+    "A": "0 1 0 1",
+    "B": "0 0 1 1",
+    "C": "0 0 0 1 1 0 1 1",
+    "D": "0 0 1 0 0 1 1 1"
+  },
+  "answer": "D"
+}

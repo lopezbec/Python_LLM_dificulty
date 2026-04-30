@@ -1,0 +1,11 @@
+{
+  "question": "In a Python for loop, what does the continue statement do?",
+  "difficulty": 7,
+  "choices": [
+    "A) Terminates the entire program",
+    "B) Skips the remaining code in the loop iteration and moves to the next iteration",
+    "C) Ends the loop permanently",
+    "D) Skips the next line of code outside the loop"
+  ],
+  "correct_answer": "B"
+}

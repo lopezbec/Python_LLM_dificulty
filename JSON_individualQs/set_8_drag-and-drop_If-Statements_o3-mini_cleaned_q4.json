@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Drag and drop the missing keyword to complete this if-elif-else chain.",
+  "code_snippet": "if score >= 90:\n    grade = 'A'\n___ score >= 80:\n    grade = 'B'\nelse:\n    grade = 'F'",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "elif"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ]
+}

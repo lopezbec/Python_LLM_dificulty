@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "name",
+        "if ______:",
+        "print('Name is present')"
+    ]
+}

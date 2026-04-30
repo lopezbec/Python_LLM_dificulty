@@ -1,0 +1,12 @@
+{
+  "question": "Which of the following is the correct way to use multiple conditions in an if statement using logical AND?",
+  "options": [
+    "A) if x > 5 AND y < 10:",
+    "B) if (x > 5) && (y < 10):",
+    "C) if x > 5 and y < 10:",
+    "D) if x > 5 & y < 10:"
+  ],
+  "answer": "C",
+  "difficulty": 6,
+  "topic": "if statements"
+}

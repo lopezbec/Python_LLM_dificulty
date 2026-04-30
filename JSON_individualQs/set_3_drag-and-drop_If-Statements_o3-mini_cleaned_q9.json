@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Drag the correct series of keywords to complete the if-elif-else statement:\n\n___ num % 2 == 0:\n    print('Even')\n___ num % 2 != 0:\n    print('Odd')\n___:\n    print('Unknown')",
+  "dragItems": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "dropZones": {
+    "first": "Keyword for first condition",
+    "second": "Keyword for second condition",
+    "third": "Keyword for the default case"
+  },
+  "correctMapping": {
+    "first": "if",
+    "second": "elif",
+    "third": "else"
+  }
+}

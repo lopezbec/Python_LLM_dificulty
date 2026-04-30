@@ -1,0 +1,14 @@
+{
+  "difficulty": 10,
+  "question": "Drag and drop the complete function that uses if-statements to decide on a rating:\n def rate_quality(q):\n if q >= 90:\n    _____\n elif q >= 70:\n    _____\n else:\n    _____\n",
+  "options": [
+    "return 'Excellent'",
+    "return 'Good'",
+    "return 'Needs improvement'"
+  ],
+  "correct_answers": [
+    "return 'Excellent'",
+    "return 'Good'",
+    "return 'Needs improvement'"
+  ]
+}

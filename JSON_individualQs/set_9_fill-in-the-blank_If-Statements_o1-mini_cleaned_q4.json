@@ -1,0 +1,5 @@
+{
+  "question": "Complete the missing keyword to add an else block:\n\n```python\nif score > 50:\n    print(\"Pass\")\n____:\n    print(\"Fail\")\n```",
+  "answer": "else",
+  "difficulty": 4
+}

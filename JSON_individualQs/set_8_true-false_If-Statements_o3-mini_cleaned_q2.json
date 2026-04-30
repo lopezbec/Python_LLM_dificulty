@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "In Python, every 'if' statement must be accompanied by an 'else' clause.",
+  "correctAnswer": false
+}

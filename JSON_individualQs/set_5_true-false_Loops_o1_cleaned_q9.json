@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "When iterating over a dictionary using a 'for' loop, you must convert the dictionary to a list to access its keys.",
+  "correctAnswer": "False"
+}

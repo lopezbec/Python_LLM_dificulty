@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output?\n\nx = 7\nif x > 5:\n    print('High')",
+  "choices": [
+    "High",
+    "7",
+    "No output",
+    "Error"
+  ],
+  "answer": "High",
+  "difficulty": 2
+}

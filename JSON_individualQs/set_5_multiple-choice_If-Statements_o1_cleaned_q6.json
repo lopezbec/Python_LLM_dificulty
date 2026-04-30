@@ -1,0 +1,11 @@
+{
+  "question": "Which statement about if-elif-else chains in Python is true?",
+  "choices": {
+    "A": "'elif' is mandatory every time you use 'if'",
+    "B": "You can have multiple 'elif' statements in a single chain",
+    "C": "The 'else' must always come before 'elif'",
+    "D": "'elif' can appear only once in a Python file"
+  },
+  "correct_answer": "B",
+  "difficulty": 6
+}

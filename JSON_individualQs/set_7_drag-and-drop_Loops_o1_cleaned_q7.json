@@ -1,0 +1,19 @@
+{
+  "question": "Drag the snippets to form a for loop that stops printing numbers once it reaches 3 using the break statement.",
+  "difficulty": 7,
+  "instruction": "Arrange the code to demonstrate a break statement inside a loop.",
+  "options": [
+    "for i in range(5):",
+    "    ",
+    "print(i)",
+    "if i == 3:",
+    "break"
+  ],
+  "correct_order": [
+    "for i in range(5):",
+    "    ",
+    "if i == 3:",
+    "break",
+    "print(i)"
+  ]
+}

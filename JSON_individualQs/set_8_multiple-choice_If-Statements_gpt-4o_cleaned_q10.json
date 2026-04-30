@@ -1,0 +1,13 @@
+{
+  "difficulty": 10,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "What will the following code output when executed?\n\n```\nx = 8\ny = 12\nif x > 10:\n    if y < 15:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    if y < 10:\n        print('Case 3')\n    else:\n        print('Case 4')\n```\n",
+  "options": [
+    "Case 1",
+    "Case 2",
+    "Case 3",
+    "Case 4"
+  ],
+  "correct_answer": "Case 4"
+}

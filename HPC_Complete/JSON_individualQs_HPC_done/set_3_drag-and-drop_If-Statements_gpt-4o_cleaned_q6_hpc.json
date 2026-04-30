@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if x % 2 == 0 __logical_operator__ x % 3 == 0:",
+        "and",
+        "or",
+        "not"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, the expression 'if (x == 5) and (y != 10):' uses _____ to combine two logical expressions.",
+  "answer": "and"
+}

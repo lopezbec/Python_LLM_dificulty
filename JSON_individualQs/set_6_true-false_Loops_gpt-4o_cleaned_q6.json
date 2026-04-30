@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A 'while' loop is more suited than a 'for' loop when the number of iterations is known beforehand.",
+  "answer": false
+}

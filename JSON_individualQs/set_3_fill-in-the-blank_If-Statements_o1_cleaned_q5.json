@@ -1,0 +1,6 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank to check a second condition if the first one fails:\nif x > 10:\n    print('Greater')\n______ x == 10:\n    print('Equal')\nelse:\n    print('Less')",
+  "answer": "elif"
+}

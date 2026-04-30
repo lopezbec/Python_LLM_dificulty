@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Match each keyword to its correct role in a loop.",
+  "choices": [
+    "break",
+    "continue"
+  ],
+  "roles": [
+    "Exits the loop prematurely.",
+    "Skips the current iteration and moves to the next one."
+  ],
+  "correct_answers": {
+    "break": "Exits the loop prematurely.",
+    "continue": "Skips the current iteration and moves to the next one."
+  }
+}

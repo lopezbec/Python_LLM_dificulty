@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if x > 10 print('Hello')",
+        "if (x > 10): print('Hello')",
+        "if x > 10: print 'Hello'",
+        "if x > 10 then print('Hello')",
+        "x"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 10,
+  "question": "Arrange the following lines to implement error handling using `if` statements in a function.",
+  "options": [
+    "def divide(a, b):",
+    "    if b == 0:",
+    "        return \"Error: Division by zero\"",
+    "    else:",
+    "        return a / b",
+    "",
+    "",
+    ""
+  ],
+  "correct_order": [
+    "def divide(a, b):",
+    "    if b == 0:",
+    "        return \"Error: Division by zero\"",
+    "    else:",
+    "        return a / b"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What is the purpose of the 'else' clause in a loop structure?",
+  "options": {
+    "A": "Executes when the loop condition is initially false",
+    "B": "Executes after the loop if the loop terminates without encountering a 'break'",
+    "C": "Executes when the loop condition is true",
+    "D": "Executes with each iteration of the loop"
+  },
+  "correct_answer": "B"
+}

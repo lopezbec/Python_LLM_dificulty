@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "In Python, an if-statement is used to make _____ based on certain conditions.",
+  "correct_answer": "decisions",
+  "options": [
+    "decisions",
+    "loops",
+    "functions",
+    "calls"
+  ]
+}

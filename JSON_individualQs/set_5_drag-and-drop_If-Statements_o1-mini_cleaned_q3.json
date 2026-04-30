@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "question": "Arrange the following lines to form a valid if statement that checks if a number is positive, negative, or zero.",
+  "options": [
+    "if num > 0:",
+    "print(\"Positive\")",
+    "elif num < 0:",
+    "print(\"Negative\")",
+    "else:",
+    "print(\"Zero\")"
+  ],
+  "answers": {
+    "1": "if num > 0:",
+    "2": "print(\"Positive\")",
+    "3": "elif num < 0:",
+    "4": "print(\"Negative\")",
+    "5": "else:",
+    "6": "print(\"Zero\")"
+  }
+}

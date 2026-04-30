@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code:\n\nx = 7\ny = 3\nif x > 0 and y > 0:\n    print('Both positive')\nelif x > 0 or y > 0:\n    print('At least one is positive')\nelse:\n    print('Both are non-positive')\n\nWhat is the output?",
+  "difficulty": 6,
+  "options": [
+    "Both are non-positive",
+    "At least one is positive",
+    "Both positive",
+    "Error: syntax for logical operators is incorrect"
+  ],
+  "correct_answer": "Both positive"
+}

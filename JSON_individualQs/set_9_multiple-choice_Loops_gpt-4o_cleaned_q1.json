@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following keywords is used to create a simple loop in Python?",
+  "choices": [
+    "if",
+    "for",
+    "else",
+    "def"
+  ],
+  "answer": "for"
+}

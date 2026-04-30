@@ -1,0 +1,5 @@
+{
+  "question": "The following Python code will result in a syntax error:\n\nif x > 0\n    print(\"Positive\")",
+  "difficulty": 9,
+  "answer": true
+}

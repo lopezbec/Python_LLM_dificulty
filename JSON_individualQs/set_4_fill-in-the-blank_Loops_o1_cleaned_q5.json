@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to iterate through numbers 0 to 4: for i in ______(5):",
+  "correct_answer": "range"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "questionType": "drag-and-drop",
+  "questionText": "Rearrange the following snippets to form a nested for-loop that prints pairs of numbers from 0 to 1.",
+  "prompt": "Drag the code snippets in the correct order. Note that the inner loop should be indented within the outer loop and the print statement must be indented accordingly.",
+  "dragItems": [
+    "for i in range(2):",
+    "    for j in range(2):",
+    "        print(i, j)"
+  ],
+  "dropZones": 3,
+  "correctSequence": [
+    "for i in range(2):",
+    "    for j in range(2):",
+    "        print(i, j)"
+  ]
+}

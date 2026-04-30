@@ -1,0 +1,5 @@
+{
+  "question": "An else clause in an if-statement is optional and executes if the associated if condition is false.",
+  "answer": true,
+  "difficulty": 3
+}

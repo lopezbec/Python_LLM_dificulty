@@ -1,0 +1,17 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blanks to calculate the sum of the first 10 natural numbers using a loop.",
+  "code": "total = 0\nfor n in range(___, ___):\n    ___ += n\nprint(total)",
+  "options": [
+    "1",
+    "11",
+    "total",
+    "n",
+    "10"
+  ],
+  "correct_answers": [
+    "1",
+    "11",
+    "total"
+  ]
+}

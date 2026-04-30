@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which code snippet accurately demonstrates nested if statements checking both x and y for specific ranges?",
+  "choices": {
+    "A": "if x > 0:\n    if y > 0:\n        print('Both positive')\n    else:\n        print('x positive, y non-positive')\nelse:\n    print('x non-positive')",
+    "B": "if x > 0:\nelse y > 0:\n    print('Both positive')\nelse:\n    print('One is non-positive')",
+    "C": "if x > 0 and if y > 0:\n    print('Both positive')\nelse:\n    print('Otherwise')",
+    "D": "if x > 0:\n    print('x positive')\nif y > 0:\n    print('y positive')\nelse:\n    print('Both non-positive')"
+  },
+  "correct_answer": "A"
+}

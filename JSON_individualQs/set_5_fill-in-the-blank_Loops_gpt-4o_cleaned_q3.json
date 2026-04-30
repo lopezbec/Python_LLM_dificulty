@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "To iterate over a range of numbers from 0 to 4, you would use the syntax __________.",
+  "answer": "range(5)"
+}

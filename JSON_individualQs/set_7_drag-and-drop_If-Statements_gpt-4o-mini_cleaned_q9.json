@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Match the code pattern with its type: 'if (x < 1 && x > -1)': ",
+  "options": {
+    "A": "Complex logical condition",
+    "B": "Simple conditional check",
+    "C": "Multiple else-if statements",
+    "D": "Statements without conditions"
+  },
+  "correctMatch": {
+    "pattern": "if (x < 1 && x > -1)",
+    "type": "A"
+  }
+}

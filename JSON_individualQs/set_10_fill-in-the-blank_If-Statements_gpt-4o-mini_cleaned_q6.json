@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "To specify a block of code to execute if the if condition is false, you use the _____ clause.",
+  "correct_answer": "else",
+  "options": [
+    "elseif",
+    "else",
+    "not",
+    "when"
+  ]
+}

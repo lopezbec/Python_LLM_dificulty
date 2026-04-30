@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "List comprehensions in Python are a concise way of creating lists and can integrate both looping and conditionals similarly to a 'for' loop combined with an 'if' statement.",
+  "correct_answer": "True"
+}

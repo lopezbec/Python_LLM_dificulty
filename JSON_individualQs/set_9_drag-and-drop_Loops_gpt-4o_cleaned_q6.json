@@ -1,0 +1,13 @@
+{
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Identify the correct method to prematurely exit a loop once a certain condition is met.",
+  "code_block": "for letter in 'Python':\n    if letter == 'h':\n        ___\n    print(letter)",
+  "options": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "correct_answer": "break"
+}

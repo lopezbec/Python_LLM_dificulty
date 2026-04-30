@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Consider the following nested if-statements:\n\nif condition1:\n    if condition2:\n        process_a()\n    else:\n        process_b()\n\nIf the intention is for the else to be associated with the first if-statement rather than the second, which indentation change is necessary?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Indent the 'else' block to align with the inner if-statement.",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "Unindent the 'else' block to align with the outer if-statement.",
+      "isCorrect": true
+    },
+    {
+      "label": "C",
+      "text": "No indentation change is needed; Python associates the else correctly by default.",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "Place a colon after both if-statements to avoid ambiguity.",
+      "isCorrect": false
+    }
+  ]
+}

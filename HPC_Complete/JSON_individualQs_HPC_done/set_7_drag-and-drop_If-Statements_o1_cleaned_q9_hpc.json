@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "def evaluate_grade(grade):\n    ____ grade >= 90:\n        print('A')\n    ____ grade >= 80:\n        print('B')\n    elif grade >= 70:\n        print('C')\n    elif grade >= 60:\n        print('D')\n    else:\n        print('F')",
+        "grade",
+        "if",
+        "elif",
+        "while",
+        "for"
+    ]
+}

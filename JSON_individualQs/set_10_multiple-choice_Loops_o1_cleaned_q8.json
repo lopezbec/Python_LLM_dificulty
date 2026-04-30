@@ -1,0 +1,11 @@
+{
+  "question": "In the following code snippet, how many times will the print statement be executed?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)",
+  "difficulty": 8,
+  "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "answer": "4"
+}

@@ -1,0 +1,10 @@
+{
+  "difficulty": 6,
+  "question": "Complete the if statement to check if 'item' exists in 'items' list: if item ",
+  "options": [
+    "in items:",
+    "not in items:",
+    "exists in items:"
+  ],
+  "correct_option": "in items:"
+}

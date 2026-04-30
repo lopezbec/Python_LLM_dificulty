@@ -1,0 +1,6 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank to complete the if-statement that checks if the variable x is greater than 5:\n\nif ______:\n    print('x is greater than 5')",
+  "answer": "x > 5"
+}

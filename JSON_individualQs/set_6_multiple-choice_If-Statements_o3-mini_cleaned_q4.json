@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Given the statement 'if x > 0: print(\"Positive\")', which of the following is true?",
+  "options": [
+    "The code prints 'Positive' when x is less than or equal to 0.",
+    "The code will always result in an error if x is equal to 0.",
+    "The code prints 'Positive' only when x is greater than 0.",
+    "The code prints 'Positive' regardless of x's value."
+  ],
+  "correct_answer": "The code prints 'Positive' only when x is greater than 0."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What would be printed by the following code snippet?\n\nfor i in range(5):\n    if i == 2:\n        break\n    print(i, end=' ')",
+  "difficulty": 8,
+  "choices": [
+    "0 1 2",
+    "0 1 2 3 4",
+    "2 3 4",
+    "0 1"
+  ],
+  "correct_answer": "0 1"
+}

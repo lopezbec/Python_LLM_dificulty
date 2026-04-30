@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "color",
+        "if color == 'red' ______ color == 'blue':",
+        "print(\"Primary color\")"
+    ]
+}

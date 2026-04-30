@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "All loops in Python are guaranteed to terminate after a fixed number of iterations.",
+  "answer": false
+}

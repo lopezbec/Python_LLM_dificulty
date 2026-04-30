@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "___ num % 2 == 0:",
+        "print('Even')",
+        "___ num % 2 != 0:",
+        "print('Odd')",
+        "___:",
+        "print('Unknown')",
+        "if",
+        "elif",
+        "else"
+    ]
+}

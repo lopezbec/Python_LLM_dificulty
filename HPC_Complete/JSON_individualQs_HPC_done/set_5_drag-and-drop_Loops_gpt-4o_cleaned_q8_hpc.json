@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "d = {'a': 1, 'b': 2, 'c': 3}",
+        "for <blank> in <blank>:",
+        "print(key)",
+        "key",
+        "d.keys()",
+        "d.values()",
+        "d",
+        "value"
+    ]
+}

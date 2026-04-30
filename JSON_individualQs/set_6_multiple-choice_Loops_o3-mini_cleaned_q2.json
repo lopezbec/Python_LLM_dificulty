@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which keyword is used to start a loop that continues until a condition is no longer true in Python?",
+  "options": [
+    "while",
+    "for",
+    "until",
+    "repeat"
+  ],
+  "correctAnswer": "while"
+}

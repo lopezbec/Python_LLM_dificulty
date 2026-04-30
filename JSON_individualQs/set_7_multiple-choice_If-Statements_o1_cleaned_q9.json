@@ -1,0 +1,11 @@
+{
+  "question": "9) Given this code:\n\nx = 10\nif x % 2 == 0:\n    if x % 5 == 0:\n        print('Divisible by 2 and 5')\n    else:\n        print('Divisible by 2 but not by 5')\nelse:\n    print('Not divisible by 2')\n\nWhat will be printed when x = 10?",
+  "difficulty": 9,
+  "options": {
+    "a": "Not divisible by 2",
+    "b": "Divisible by 2 but not by 5",
+    "c": "Divisible by 2 and 5",
+    "d": "Error"
+  },
+  "correct_answer": "c"
+}

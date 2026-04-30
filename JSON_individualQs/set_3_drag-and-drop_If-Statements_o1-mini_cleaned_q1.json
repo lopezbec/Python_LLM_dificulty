@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "If-Statements",
+  "question": "Arrange the following components to form a basic if-statement in Python.",
+  "options": [
+    "if",
+    "condition",
+    ":",
+    "    # code block"
+  ],
+  "targets": [
+    "Start of if-statement",
+    "Condition part",
+    "End of condition",
+    "Code block indentation"
+  ],
+  "correctAnswer": {
+    "Start of if-statement": "if",
+    "Condition part": "condition",
+    "End of condition": ":",
+    "Code block indentation": "    # code block"
+  }
+}

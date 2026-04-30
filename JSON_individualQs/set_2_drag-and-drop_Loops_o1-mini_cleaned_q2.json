@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "question": "Drag the keywords to complete the for loop syntax in Python.",
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "Loops",
+  "dragItems": [
+    "for",
+    "in",
+    "range",
+    ":"
+  ],
+  "dropTargets": [
+    "_1_",
+    "_2_",
+    "_3_",
+    "_4_"
+  ],
+  "correctAssociations": {
+    "for": "_1_",
+    "in": "_2_",
+    "range": "_3_",
+    ":": "_4_"
+  }
+}

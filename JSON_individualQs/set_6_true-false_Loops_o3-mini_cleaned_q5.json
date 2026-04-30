@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "True or False: Nested loops in Python are created by placing one loop inside the block of another loop, enabling iteration over multi-dimensional data.",
+  "correct_answer": true
+}

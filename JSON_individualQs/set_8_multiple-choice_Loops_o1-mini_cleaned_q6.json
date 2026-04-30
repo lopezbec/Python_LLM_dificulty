@@ -1,0 +1,11 @@
+{
+  "question": "Which statement correctly exits a loop prematurely?",
+  "options": [
+    "stop",
+    "exit",
+    "break",
+    "continue"
+  ],
+  "answer": "break",
+  "difficulty": 6
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if a __operator__ b: \n    print(\"a equals b\")",
+        "==",
+        "!=",
+        ">",
+        "<"
+    ]
+}

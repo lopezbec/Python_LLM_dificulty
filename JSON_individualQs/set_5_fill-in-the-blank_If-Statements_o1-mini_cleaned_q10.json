@@ -1,0 +1,7 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to handle multiple conditions with nested if-statements: \n```python\nx = 15\ny = 25\nif x > 10:\n    if y > 20:\n        print(\"x is greater than 10 and y is greater than 20\")\n    else:\n        print(\"x is greater than 10 but y is not greater than 20\")\n____:\n    print(\"x is not greater than 10\")\n```",
+  "answer": "else"
+}

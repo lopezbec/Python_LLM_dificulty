@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "print('Positive') if x > 0 else print('Non-positive')",
+        "if x > 0 ? print('Positive') : print('Non-positive')",
+        "print('Positive' if x > 0) else ('Non-positive')",
+        "if x > 0: print('Positive') else: print('Non-positive')"
+    ]
+}

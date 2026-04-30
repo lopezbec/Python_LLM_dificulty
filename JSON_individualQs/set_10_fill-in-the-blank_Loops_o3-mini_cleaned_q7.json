@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: In a while loop, if the condition is never updated to eventually become false, the loop will run ______.",
+  "answer": "infinite"
+}

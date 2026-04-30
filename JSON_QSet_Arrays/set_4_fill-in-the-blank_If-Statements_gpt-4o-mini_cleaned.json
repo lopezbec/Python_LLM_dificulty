@@ -1,0 +1,52 @@
+[
+  {
+    "question": "An if-statement in Python starts with the keyword __________.",
+    "answer": "if",
+    "difficulty": 1
+  },
+  {
+    "question": "To check if a condition is true, we use an if-statement followed by a __________ symbol.",
+    "answer": ":",
+    "difficulty": 2
+  },
+  {
+    "question": "The correct syntax for an if-statement to check if 'x' is greater than 5 is: if x __________ 5:",
+    "answer": ">",
+    "difficulty": 3
+  },
+  {
+    "question": "To create an alternate path in an if-statement, we use the keyword __________.",
+    "answer": "else",
+    "difficulty": 4
+  },
+  {
+    "question": "To check multiple conditions in an if-statement, we can use the keyword __________.",
+    "answer": "elif",
+    "difficulty": 5
+  },
+  {
+    "question": "If the if-statement condition is False, the code block inside it will __________ execute.",
+    "answer": "not",
+    "difficulty": 6
+  },
+  {
+    "question": "An if-statement can also evaluate multiple expressions using a sequence of __________ logical operators.",
+    "answer": "boolean",
+    "difficulty": 7
+  },
+  {
+    "question": "In Python, the proper way to compare two variables 'a' and 'b' for equality in an if-statement is to use __________.",
+    "answer": "==",
+    "difficulty": 8
+  },
+  {
+    "question": "A nested if-statement is an if-statement placed inside another if-statement, which can allow for __________ checks.",
+    "answer": "multiple",
+    "difficulty": 9
+  },
+  {
+    "question": "If you want to handle cases where 'x' is neither less than 5 nor greater than 10 using an if-statement, you would set up an __________ condition.",
+    "answer": "else if",
+    "difficulty": 10
+  }
+]

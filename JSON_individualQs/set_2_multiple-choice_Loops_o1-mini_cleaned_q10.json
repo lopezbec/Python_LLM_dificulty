@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "question": "What is the output of the following generator loop?\\n\\n```python\\ndef gen_numbers():\\n    for i in range(3):\\n        yield i * i\\n\\nfor number in gen_numbers():\\n    print(number)\\n```",
+  "options": {
+    "A": "0 1 2",
+    "B": "1 4 9",
+    "C": "0 1 4",
+    "D": "0 1 4 9"
+  },
+  "answer": "C",
+  "difficulty": 10
+}

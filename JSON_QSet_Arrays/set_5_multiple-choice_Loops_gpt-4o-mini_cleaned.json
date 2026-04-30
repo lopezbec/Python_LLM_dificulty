@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What does a 'for' loop do in Python?",
+    "options": [
+      "A. It stops the execution of a program.",
+      "B. It allows code to be executed repeatedly.",
+      "C. It defines a function.",
+      "D. It creates a variable."
+    ],
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following is the correct syntax for a for loop in Python?",
+    "options": [
+      "A. for i in range(5):",
+      "B. for (i = 0; i < 5; i++):",
+      "C. for i: 0 to 5",
+      "D. for (i in range(5)):"
+    ],
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "question": "What will be the output of this code: 'for i in range(3): print(i)'?",
+    "options": [
+      "A. 0 1 2",
+      "B. 1 2 3",
+      "C. 0 1 2 3",
+      "D. 3 2 1"
+    ],
+    "answer": "A",
+    "difficulty": 3
+  },
+  {
+    "question": "How many times will the body of this loop execute? 'for i in range(4): print(i)'",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 0"
+    ],
+    "answer": "B",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the purpose of the 'break' statement in a loop?",
+    "options": [
+      "A. It continues to the next iteration.",
+      "B. It exits the current loop.",
+      "C. It pauses the loop temporarily.",
+      "D. It restarts the loop."
+    ],
+    "answer": "B",
+    "difficulty": 5
+  },
+  {
+    "question": "Which loop will execute at least once even if the condition fails?",
+    "options": [
+      "A. for loop",
+      "B. while loop",
+      "C. do-while loop",
+      "D. None of the above"
+    ],
+    "answer": "C",
+    "difficulty": 6
+  },
+  {
+    "question": "What output will this code produce? 'i = 0; while i < 3: print(i); i += 1'",
+    "options": [
+      "A. 0 1 2",
+      "B. 0 1 2 3",
+      "C. 1 2 3",
+      "D. 3 2 1"
+    ],
+    "answer": "A",
+    "difficulty": 7
+  },
+  {
+    "question": "How can you skip the current iteration in a loop?",
+    "options": [
+      "A. continue",
+      "B. skip",
+      "C. next",
+      "D. pass"
+    ],
+    "answer": "A",
+    "difficulty": 8
+  },
+  {
+    "question": "What will be the output of the following code? 'for i in range(5): if i == 2: break; print(i)'",
+    "options": [
+      "A. 0 1 2 3 4",
+      "B. 0 1",
+      "C. 0 1 2",
+      "D. 2 3 4"
+    ],
+    "answer": "B",
+    "difficulty": 9
+  },
+  {
+    "question": "What will the expression 'sum(range(5))' return?",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 15",
+      "D. 0"
+    ],
+    "answer": "B",
+    "difficulty": 10
+  }
+]

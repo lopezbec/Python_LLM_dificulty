@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following keywords is used to create an if-statement in Python?",
+    "options": [
+      "if",
+      "def",
+      "for",
+      "while"
+    ],
+    "correct_answer": "if"
+  },
+  {
+    "difficulty": 2,
+    "question": "What will the following code output?\n\nx = 5\nif x > 3:\n    print('Hello')",
+    "options": [
+      "Hello",
+      "5",
+      "Error",
+      "Nothing"
+    ],
+    "correct_answer": "Hello"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which of the following lines will correctly close an if-statement block?",
+    "options": [
+      "endif",
+      "}",
+      "end",
+      "None of the above"
+    ],
+    "correct_answer": "None of the above"
+  },
+  {
+    "difficulty": 4,
+    "question": "What will the following code output?\n\nx = 3\ny = 7\nif x > 4 and y > 6:\n    print('Yes')\nelse:\n    print('No')",
+    "options": [
+      "Yes",
+      "No",
+      "Error",
+      "Both Yes and No"
+    ],
+    "correct_answer": "No"
+  },
+  {
+    "difficulty": 5,
+    "question": "In the following code snippet, what needs to be fixed to execute without an error?\n\nx = 10\nif x == 10\n    print('x is 10')",
+    "options": [
+      "Add a colon (:) after the if statement",
+      "Change == to =",
+      "Indent the print statement further",
+      "Nothing; the code is correct"
+    ],
+    "correct_answer": "Add a colon (:) after the if statement"
+  },
+  {
+    "difficulty": 6,
+    "question": "Consider the following code:\n\nx = 5\nif x > 0:\n    if x < 10:\n        print('x is positive and less than 10')\nWhat concept is demonstrated?",
+    "options": [
+      "Sequential execution",
+      "Nested if-statements",
+      "Iteration",
+      "Recursion"
+    ],
+    "correct_answer": "Nested if-statements"
+  },
+  {
+    "difficulty": 7,
+    "question": "Given the code snippet:\n\na = 5\nb = 10\nif a < b:\n    if b > 5:\n        print('b is greater than 5')\nWhich statement is true?",
+    "options": [
+      "The code prints 'b is greater than 5'",
+      "The code will result in an error",
+      "The code prints nothing",
+      "The code will print 'a is greater than b'"
+    ],
+    "correct_answer": "The code prints 'b is greater than 5'"
+  },
+  {
+    "difficulty": 8,
+    "question": "How can you avoid executing an if-statement block when a condition is false without using 'else'?",
+    "options": [
+      "Use elif without a statement",
+      "Write a 'pass' statement inside the if block",
+      "None of the above",
+      "Wrap the condition in a function"
+    ],
+    "correct_answer": "None of the above"
+  },
+  {
+    "difficulty": 9,
+    "question": "Which operator would you use to check if a variable `x` is within the range of 1 to 10 inclusive in a single if-statement?",
+    "options": [
+      "if 1 <= x <= 10:",
+      "if x in range(1, 10):",
+      "if x == 1 or x == 10:",
+      "if x >= 1 and x <= 10:"
+    ],
+    "correct_answer": "if 1 <= x <= 10:"
+  },
+  {
+    "difficulty": 10,
+    "question": "What will be the output of the following code?\n\nx = 0\ny = 0\nif (x, y) == (0, 0):\n    print('Both are zero')\nelif x == 0:\n    print('x is zero')\nelif y == 0:\n    print('y is zero')\nelse:\n    print('Neither are zero')",
+    "options": [
+      "Both are zero",
+      "x is zero",
+      "y is zero",
+      "Neither are zero"
+    ],
+    "correct_answer": "Both are zero"
+  }
+]

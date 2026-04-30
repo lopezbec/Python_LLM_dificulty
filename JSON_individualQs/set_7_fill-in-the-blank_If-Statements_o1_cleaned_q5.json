@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank to use an elif statement, checking if 'x' is less than 0:\n\nif x < 0:\n    print('Negative')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Positive')",
+  "correct_answer": "elif"
+}

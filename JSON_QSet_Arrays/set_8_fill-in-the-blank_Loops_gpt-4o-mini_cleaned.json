@@ -1,0 +1,102 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, a loop that iterates a specific number of times is called a(n) ________ loop.",
+    "correct_answer": "for",
+    "incorrect_answers": [
+      "while",
+      "do-while",
+      "repeat"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "To stop a loop prematurely in Python, you can use the keyword ________.",
+    "correct_answer": "break",
+    "incorrect_answers": [
+      "continue",
+      "stop",
+      "exit"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "A loop that continues until a certain condition is no longer true is called a ________ loop.",
+    "correct_answer": "while",
+    "incorrect_answers": [
+      "for",
+      "do-while",
+      "nested"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, the ________ statement can be used to skip the current iteration of a loop.",
+    "correct_answer": "continue",
+    "incorrect_answers": [
+      "break",
+      "pass",
+      "return"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "In a for loop, the variable that holds the current value in each iteration is often called the ________ variable.",
+    "correct_answer": "loop",
+    "incorrect_answers": [
+      "control",
+      "iterator",
+      "index"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "The function ________ can be used to iterate over a list with an index in a for loop.",
+    "correct_answer": "enumerate",
+    "incorrect_answers": [
+      "range",
+      "map",
+      "filter"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "To iterate over elements in a collection, you can use a for loop which follows the syntax: for ________ in collection.",
+    "correct_answer": "element",
+    "incorrect_answers": [
+      "item",
+      "value",
+      "index"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Using nested loops, to print a triangle pattern of asterisks, the outer loop typically controls the number of ________.",
+    "correct_answer": "rows",
+    "incorrect_answers": [
+      "columns",
+      "iterations",
+      "characters"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, a common use case for using a loop is to ________ through a sequence like a list or a string.",
+    "correct_answer": "iterate",
+    "incorrect_answers": [
+      "filter",
+      "sort",
+      "modify"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "The keyword ________ can be used to define a loop with an 'else' clause that executes after the loop finishes if no break statement was encountered.",
+    "correct_answer": "for",
+    "incorrect_answers": [
+      "while",
+      "do-while",
+      "exit"
+    ]
+  }
+]

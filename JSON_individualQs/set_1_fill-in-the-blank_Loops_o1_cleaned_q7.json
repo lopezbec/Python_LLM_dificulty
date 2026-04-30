@@ -1,0 +1,7 @@
+{
+  "id": 7,
+  "type": "fill-in-the-blank",
+  "difficulty": 7,
+  "question": "To loop over a list using both the index and the element, we can use 'for i, item in ______(my_list):'.",
+  "correct_answer": "enumerate"
+}

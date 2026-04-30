@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "True or False: A while loop's condition in Python is always checked before the loop body is executed.",
+  "answer": true
+}

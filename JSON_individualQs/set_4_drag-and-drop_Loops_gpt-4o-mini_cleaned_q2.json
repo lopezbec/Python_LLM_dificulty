@@ -1,0 +1,13 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the correct code snippets to create a simple for loop that prints numbers 1 to 3.",
+  "options": [
+    "print(i)",
+    "for i in range(1, 4):",
+    "i = 1"
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "print(i)"
+  ]
+}

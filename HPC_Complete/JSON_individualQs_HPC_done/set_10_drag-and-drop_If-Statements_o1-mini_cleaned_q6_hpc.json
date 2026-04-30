@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if",
+        "Check if age is greater than 18",
+        "Check if has a valid ID",
+        "Allow access",
+        "Deny access"
+    ]
+}

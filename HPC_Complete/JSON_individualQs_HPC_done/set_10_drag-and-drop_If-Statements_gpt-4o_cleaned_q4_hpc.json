@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if",
+        "a > 0",
+        "b > 0",
+        "print('At least one is positive')",
+        "or"
+    ]
+}

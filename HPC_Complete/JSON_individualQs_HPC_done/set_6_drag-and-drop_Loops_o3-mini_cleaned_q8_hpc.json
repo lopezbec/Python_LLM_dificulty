@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "student_grades = {'Alice': 85, 'Bob': 92}\nfor key in ____:\n    print(key, student_grades[key])",
+        "student_grades",
+        "student_grades.keys()",
+        "student_grades.values()",
+        "student_grades.items()"
+    ]
+}

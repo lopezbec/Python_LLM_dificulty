@@ -1,0 +1,5 @@
+{
+  "question": "Using the 'elif' keyword is optional even if you have multiple conditions to check.",
+  "correct_answer": "True",
+  "difficulty": 3
+}

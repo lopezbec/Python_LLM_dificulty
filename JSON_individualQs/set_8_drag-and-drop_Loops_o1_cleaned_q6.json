@@ -1,0 +1,18 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "question": "Reorder the blocks to produce a for loop that prints only even numbers from a list [1, 2, 3, 4, 5, 6].",
+  "codeBlocks": [
+    "print(num)",
+    "if num % 2 == 0:",
+    "for num in [1, 2, 3, 4, 5, 6]:",
+    "while num <= 6:"
+  ],
+  "correctOrder": [
+    "for num in [1, 2, 3, 4, 5, 6]:",
+    "if num % 2 == 0:",
+    "print(num)"
+  ],
+  "explanation": "We iterate over each number, check if it's even, and then print it. The 'while num <= 6:' fragment is a distractor."
+}

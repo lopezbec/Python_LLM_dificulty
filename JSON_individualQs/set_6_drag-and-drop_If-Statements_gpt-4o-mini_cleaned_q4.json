@@ -1,0 +1,11 @@
+{
+  "question": "Drag the correct answers to fill in the if-else structure:\n`if (x > 10) { console.log('Big'); } ____  { console.log('Small'); }`",
+  "drops": [
+    "else",
+    "elseif",
+    "finally",
+    "try"
+  ],
+  "correct": "else",
+  "difficulty": 4
+}

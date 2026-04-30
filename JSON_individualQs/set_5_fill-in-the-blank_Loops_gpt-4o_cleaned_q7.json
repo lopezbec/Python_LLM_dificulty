@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can iterate over a dictionary's keys and values at the same time by using the __________ method.",
+  "answer": "items"
+}

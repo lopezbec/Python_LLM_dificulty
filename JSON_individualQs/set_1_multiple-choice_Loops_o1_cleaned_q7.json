@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the output of the following code?\n\nx = 5\nwhile x > 0:\n    print(x)\n    x -= 2",
+  "options": {
+    "A": "5 3 1",
+    "B": "5 4 3 2 1",
+    "C": "5 3",
+    "D": "4 2"
+  },
+  "correctAnswer": "A"
+}

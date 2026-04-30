@@ -1,0 +1,39 @@
+{
+  "difficulty": 8,
+  "question": "Arrange the code to skip over numbers divisible by 3 in a loop using 'continue'.",
+  "choices": [
+    "for",
+    "in",
+    ":",
+    "10",
+    "if",
+    "%",
+    "3",
+    "==",
+    "0",
+    "continue",
+    "else",
+    "print(num)",
+    "range("
+  ],
+  "correct_order": [
+    "for",
+    "num",
+    "in",
+    "range(",
+    "10",
+    ")",
+    ":",
+    "if",
+    "num",
+    "%",
+    "3",
+    "==",
+    "0",
+    ":",
+    "continue",
+    "else",
+    ":",
+    "print(num)"
+  ]
+}

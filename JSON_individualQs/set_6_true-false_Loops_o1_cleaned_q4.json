@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, 'for i in range(5):' iterates exactly five times.",
+  "answer": "True"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blanks to create a nested for loop that generates coordinate pairs from two lists `x_values` and `y_values`:\n\n```python\nx_values = [1, 2]\ny_values = [3, 4]\nfor x in x_values:\n    for ___ in ___:\n        print((x, y))\n```",
+  "answer": "y, y_values"
+}

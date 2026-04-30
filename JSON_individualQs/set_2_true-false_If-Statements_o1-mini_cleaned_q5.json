@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "question": "In Python, the elif clause must directly follow an if statement and precede an else clause if one is present.",
+  "difficulty": 5,
+  "type": "True/False"
+}

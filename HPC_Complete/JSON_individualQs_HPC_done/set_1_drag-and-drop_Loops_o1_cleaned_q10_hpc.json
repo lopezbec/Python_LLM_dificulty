@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "for-else",
+        "break",
+        "print 'Prime'",
+        "num = 29",
+        "for i in range(2, num):",
+        "if ???:",
+        "???",
+        "else:",
+        "print(\"Prime\")",
+        "num % i == 0",
+        "break",
+        "continue",
+        "num / i == 0"
+    ]
+}

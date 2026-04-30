@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for i in range(5):",
+        "if i % ___ == 0:",
+        "___",
+        "print(i)",
+        "continue"
+    ]
+}

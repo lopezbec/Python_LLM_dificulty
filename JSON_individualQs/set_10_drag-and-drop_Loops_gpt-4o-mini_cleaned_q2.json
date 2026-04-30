@@ -1,0 +1,16 @@
+{
+  "question": "Arrange the blocks to properly use a 'while' loop that counts down from 5 to 1.",
+  "options": [
+    "count = 5",
+    "while count > 0:",
+    "print(count)",
+    "count -= 1"
+  ],
+  "correct_order": [
+    "count = 5",
+    "while count > 0:",
+    "print(count)",
+    "count -= 1"
+  ],
+  "difficulty": 2
+}

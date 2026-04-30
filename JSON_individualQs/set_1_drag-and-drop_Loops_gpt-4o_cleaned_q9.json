@@ -1,0 +1,16 @@
+{
+  "difficulty": 9,
+  "question": "Arrange the following lines to create a loop that uses the `continue` statement to skip even numbers.",
+  "choices": [
+    "for i in range(10):",
+    "    if i % 2 == 0:",
+    "    continue",
+    "    print(i)"
+  ],
+  "answer": [
+    "for i in range(10):",
+    "    if i % 2 == 0:",
+    "        continue",
+    "    print(i)"
+  ]
+}

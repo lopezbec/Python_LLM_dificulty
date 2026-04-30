@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "if-statements",
+  "question": "Arrange the following lines to form a valid if-else statement:\n\n1. print(\"Good evening.\")\n2. if time < 18:\n3. print(\"Good day.\")\n4. else:",
+  "options": [
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 1"
+  ],
+  "correct_order": [
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 1"
+  ]
+}

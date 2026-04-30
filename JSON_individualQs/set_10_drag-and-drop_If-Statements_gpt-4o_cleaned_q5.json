@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "instruction": "Construct an if-statement to determine if value is between 10 and 20 exclusive.",
+  "code": "if 10 ____ value ____ 20:\n    print('Value is between 10 and 20')",
+  "options": [
+    ">",
+    "<",
+    ">=",
+    "<=",
+    "&&"
+  ],
+  "answer": [
+    "<",
+    "<"
+  ]
+}

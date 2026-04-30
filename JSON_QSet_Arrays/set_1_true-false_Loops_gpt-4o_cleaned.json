@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'while' loop in Python will continue to execute as long as its condition is True.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "The 'for' loop in Python always requires an explicit increment step specified by the user.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "The 'break' statement can immediately terminate a loop without checking the loop's condition.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, you can only iterate over lists using a 'for' loop.",
+    "answer": false
+  },
+  {
+    "difficulty": 5,
+    "question": "The 'continue' statement in Python skips the rest of the code inside a loop for the current iteration and continues with the next iteration of the loop.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "Nested loops allow you to iterate over a sequence while another sequence is being iterated.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "A 'for' loop can iterate directly over the keys of a dictionary.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "Using an else clause with loops in Python will execute the else block only if the loop was not terminated by a 'break' statement.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, 'range(5)' produces the sequence that includes the number 5.",
+    "answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "It is not possible to have an infinite loop in Python if there is a logical error in the loop condition.",
+    "answer": false
+  }
+]

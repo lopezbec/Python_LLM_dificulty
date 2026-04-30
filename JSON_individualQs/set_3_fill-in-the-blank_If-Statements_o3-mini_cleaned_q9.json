@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank: The operator ______ is used in Python to test whether two values are not equal in an if-statement.",
+  "answer": "!="
+}

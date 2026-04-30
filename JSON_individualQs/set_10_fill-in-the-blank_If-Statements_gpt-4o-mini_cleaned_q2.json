@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "The syntax for an if-statement begins with the keyword 'if' followed by a _____ and a colon.",
+  "correct_answer": "condition",
+  "options": [
+    "block",
+    "condition",
+    "parameter",
+    "function"
+  ]
+}

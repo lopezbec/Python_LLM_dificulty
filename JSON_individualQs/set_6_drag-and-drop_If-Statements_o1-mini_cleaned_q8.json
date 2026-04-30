@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "if-statements",
+  "question": "Fill in the blanks to create a compound conditional statement with nested ifs:\n\nscore = 85\nif score >= 70:\n    if score >= 90:\n        grade = 'A'\n    elif ___:\n        grade = 'B'\n    else:\n        grade = 'C'\nelse:\n    grade = 'F'",
+  "options": [
+    "score >= 80",
+    "score >= 85",
+    "score >= 75",
+    "score >= 90"
+  ],
+  "correct_answers": [
+    "score >= 80"
+  ]
+}

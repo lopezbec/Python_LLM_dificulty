@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which operator is used in an if-statement to check if two values are equal?",
+  "options": {
+    "A": "=",
+    "B": "==",
+    "C": "===",
+    "D": "equals"
+  },
+  "answer": "B"
+}

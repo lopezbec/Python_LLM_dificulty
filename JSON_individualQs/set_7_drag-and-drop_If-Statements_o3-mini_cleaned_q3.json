@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "type": "drag_and_drop",
+  "difficulty": 3,
+  "prompt": "Fill in the blanks in this if/else statement.",
+  "instructions": "Drag the correct keywords into their respective blanks.",
+  "displayText": "____ score >= 60:\n    print('Pass')\n____:\n    print('Fail')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "if"
+    },
+    {
+      "id": "B",
+      "text": "else"
+    },
+    {
+      "id": "C",
+      "text": "for"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank 1"
+    },
+    {
+      "id": "dz2",
+      "label": "Blank 2"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A",
+    "dz2": "B"
+  }
+}

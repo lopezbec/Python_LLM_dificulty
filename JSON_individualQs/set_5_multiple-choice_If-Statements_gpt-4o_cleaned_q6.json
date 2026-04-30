@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will be the output of the following code?\n\nx = 3\n\nif x < 5:\n    print('Less than 5')\nif x < 10:\n    print('Less than 10')",
+  "options": [
+    "Less than 5",
+    "Less than 10",
+    "Less than 5\nLess than 10",
+    "An error will occur"
+  ],
+  "correct_answer": "Less than 5\nLess than 10"
+}

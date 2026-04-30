@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "True or False: In Python, a for loop can include an else clause which executes if the loop terminates normally, meaning it didn't encounter a break statement.",
+  "correct_answer": true
+}

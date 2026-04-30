@@ -1,0 +1,10 @@
+{
+  "question": "Fill in the correct logical expression to validate access: if (user.is_authenticated == True && ____ ) { print('Access granted'); }",
+  "options": [
+    "user.is_active == True",
+    "user.is_authenticated == False",
+    "user.has_perm('view_data')"
+  ],
+  "answer": "user.is_active == True",
+  "difficulty": 8
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which Python keyword is used to create a loop that runs for a specified range of values?",
+    "difficulty": 1,
+    "choices": [
+      "A) for",
+      "B) loop",
+      "C) iterate",
+      "D) repeat"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which of the following is valid syntax for a while loop that runs as long as x is less than 5?",
+    "difficulty": 2,
+    "choices": [
+      "A) while x < 5:",
+      "B) for x in range(5):",
+      "C) if x < 5:",
+      "D) while x <= 5:"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Which built-in function in Python generates a sequence of integers up to (but not including) a specified number for use in a for loop?",
+    "difficulty": 3,
+    "choices": [
+      "A) list()",
+      "B) range()",
+      "C) sequence()",
+      "D) enumerate()"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the exact output of the following code?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+    "difficulty": 4,
+    "choices": [
+      "A) 0 0\\n0 1\\n1 0\\n1 1\\n2 0\\n2 1",
+      "B) 0 0\\n1 0\\n2 0\\n0 1\\n1 1\\n2 1",
+      "C) 0,1,2",
+      "D) The code causes an error"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Consider this code:\n\nx = 0\nwhile x < 3:\n    x += 1\n    print(x)\n\nHow many times will the loop run?",
+    "difficulty": 5,
+    "choices": [
+      "A) 0 times",
+      "B) 1 time",
+      "C) 3 times",
+      "D) 4 times"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "In the code below, which values of i are printed?\n\nfor i in range(5):\n    if i == 2:\n        break\n    print(i)",
+    "difficulty": 6,
+    "choices": [
+      "A) 0, 1, 2, 3, 4",
+      "B) 0, 1",
+      "C) 2, 3, 4",
+      "D) 0, 1, 2"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "In a Python for loop, what does the continue statement do?",
+    "difficulty": 7,
+    "choices": [
+      "A) Terminates the entire program",
+      "B) Skips the remaining code in the loop iteration and moves to the next iteration",
+      "C) Ends the loop permanently",
+      "D) Skips the next line of code outside the loop"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "In Python, what does the else clause attached to a for loop do?",
+    "difficulty": 8,
+    "choices": [
+      "A) It executes only if the loop encounters a continue statement",
+      "B) It executes only if the loop completes all iterations without a break",
+      "C) It is mandatory for a Python for loop to work",
+      "D) It executes for every iteration of the loop"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "What is the primary benefit of using enumerate() in a for loop?",
+    "difficulty": 9,
+    "choices": [
+      "A) It returns the sum of all items in the list",
+      "B) It provides both the index and the item during iteration",
+      "C) It sorts the list automatically as it iterates",
+      "D) It terminates the loop after a certain number of iterations"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Which built-in function allows you to iterate over multiple iterables in parallel, stopping at the shortest iterable by default?",
+    "difficulty": 10,
+    "choices": [
+      "A) enumerate()",
+      "B) range()",
+      "C) zip()",
+      "D) map()"
+    ],
+    "correct_answer": "C"
+  }
+]

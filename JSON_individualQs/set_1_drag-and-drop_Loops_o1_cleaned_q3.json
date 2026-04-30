@@ -1,0 +1,18 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "questionType": "drag-and-drop",
+  "prompt": "Complete the for loop to stop printing when i equals 2.",
+  "codeSnippet": "for i in range(5):\n    if ???:\n        ???\n    print(i)",
+  "draggableItems": [
+    "i == 2",
+    "break",
+    "continue",
+    "i = 0"
+  ],
+  "correctAnswer": [
+    "i == 2",
+    "break"
+  ],
+  "explanation": "When i equals 2, using 'break' ends the loop, so the numbers after 2 are not printed."
+}

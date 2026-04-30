@@ -1,0 +1,11 @@
+{
+  "question": "Which loop is guaranteed to execute at least once?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "iteration loop"
+  ],
+  "answer": "do-while loop",
+  "difficulty": 2
+}

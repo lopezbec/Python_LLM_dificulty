@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop to fill in the correct statement: \nif (x > 10) _______ ;",
+  "drops": [
+    "print('Too high')",
+    "if (x < 10)",
+    "x += 1"
+  ],
+  "correct": "print('Too high')"
+}

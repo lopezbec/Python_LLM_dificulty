@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "result = []",
+        "for x in range(3):",
+        "for y in range(2):",
+        "if x == y:",
+        "break",
+        "result.append((x, y))",
+        "else:",
+        "result.append('done')",
+        "print(result)",
+        "result"
+    ]
+}

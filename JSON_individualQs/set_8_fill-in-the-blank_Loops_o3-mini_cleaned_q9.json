@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: To generate even numbers from 2 to 20 using range(), you can write: range(2, ______, 2).",
+  "correct_answer": "21"
+}

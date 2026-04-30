@@ -1,0 +1,6 @@
+{
+  "difficulty": 2,
+  "type": "fill-in-the-blank",
+  "question": "The '___' loop in Python continues to run as long as a specified condition remains True.",
+  "correct_answer": "while"
+}

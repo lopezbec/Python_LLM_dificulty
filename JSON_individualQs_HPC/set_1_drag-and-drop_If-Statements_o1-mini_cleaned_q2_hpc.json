@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "else:",
+        "if x > 5:",
+        "    print('Greater than five')",
+        "    print('Less than or equal to five')"
+    ]
+}

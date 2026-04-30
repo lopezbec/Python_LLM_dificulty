@@ -1,0 +1,18 @@
+{
+  "question": "Complete the basic if-statement keyword.",
+  "difficulty": 1,
+  "instructions": "Drag the correct keyword to complete the statement.",
+  "codeSnippet": "___ (x > 0):\n    print('Positive')",
+  "dropZones": [
+    {
+      "placeholder": "___",
+      "correctAnswer": "if"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "else",
+    "elif",
+    "for"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "type": "drag_and_drop",
+  "difficulty": 10,
+  "prompt": "Complete the compound if-statement by selecting the correct logical operators for each blank to evaluate a complex condition.",
+  "instructions": "Drag the appropriate operator into each blank. Note: In this problem, the first blank should be filled with 'or', and the second and third blanks with 'and'.",
+  "displayText": "if (x == 10 __1__ x < 20) __2__ (y != 0 __3__ y > -5):\n    print('Condition met')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "or"
+    },
+    {
+      "id": "B",
+      "text": "and"
+    },
+    {
+      "id": "C",
+      "text": "not"
+    },
+    {
+      "id": "D",
+      "text": "or"
+    },
+    {
+      "id": "E",
+      "text": "and"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Blank 1"
+    },
+    {
+      "id": "dz2",
+      "label": "Blank 2"
+    },
+    {
+      "id": "dz3",
+      "label": "Blank 3"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "A",
+    "dz2": "B",
+    "dz3": "E"
+  }
+}

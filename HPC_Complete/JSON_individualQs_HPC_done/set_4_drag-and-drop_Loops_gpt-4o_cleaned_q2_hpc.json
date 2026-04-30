@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ___:\n    ___(fruit)",
+        "print",
+        "fruits",
+        "len(fruits)",
+        "fruit"
+    ]
+}

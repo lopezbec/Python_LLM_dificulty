@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: In a generator function used for loop-based iteration, the ______ keyword is used to yield one value at a time, allowing for efficient memory use.",
+  "answer": "yield"
+}

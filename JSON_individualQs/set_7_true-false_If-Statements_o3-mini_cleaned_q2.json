@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "The code 'x = 5\\nif x > 0:\\n    print(\"Positive\")' will print 'Positive' when executed.",
+  "answer": true
+}

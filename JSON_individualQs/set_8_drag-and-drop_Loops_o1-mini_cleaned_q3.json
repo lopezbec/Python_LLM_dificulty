@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Place the following loop control keywords in the order they appear in Python's loop flow control documentation.",
+  "options": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "correct_order": [
+    "break",
+    "continue",
+    "pass"
+  ]
+}

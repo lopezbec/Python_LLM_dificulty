@@ -1,0 +1,22 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question_text": "Drag and drop the correct items into the for loop in order to print numbers from 0 to 4.",
+  "code_snippet": "for ____ in ____:\n    print(____)",
+  "drag_items": [
+    "i",
+    "range(5)",
+    "j",
+    "len(my_list)"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2",
+    "Placeholder 3"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "i",
+    "Placeholder 2": "range(5)",
+    "Placeholder 3": "i"
+  }
+}

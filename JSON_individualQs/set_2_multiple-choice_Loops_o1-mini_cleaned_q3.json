@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "question": "What will the following code print?\n\n```python\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1\n```",
+  "options": {
+    "A": "0 1 2 3",
+    "B": "1 2 3",
+    "C": "0 1 2",
+    "D": "Infinite loop"
+  },
+  "answer": "C",
+  "difficulty": 3
+}

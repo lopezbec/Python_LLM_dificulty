@@ -1,0 +1,19 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "topic": "Looping Through Data Structures",
+  "question": "Associate each loop with the data structure it is best suited for.",
+  "drag_items": [
+    "for loop",
+    "while loop"
+  ],
+  "drop_targets": [
+    "Iterating over elements in a list or other iterable",
+    "Repeating until a certain condition involving the data structure is met"
+  ],
+  "correct_matches": {
+    "for loop": "Iterating over elements in a list or other iterable",
+    "while loop": "Repeating until a certain condition involving the data structure is met"
+  }
+}

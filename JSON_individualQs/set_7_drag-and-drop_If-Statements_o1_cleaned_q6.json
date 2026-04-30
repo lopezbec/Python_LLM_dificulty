@@ -1,0 +1,17 @@
+{
+  "difficulty": 6,
+  "question": "Complete the code to check if x is between 5 and 15 or exactly 20.",
+  "instruction": "Drag the correct operators into the placeholders.",
+  "partiallyCompletedCode": "x = 10\nif x >= 5 ____ x <= 15:\n    print('Between 5 and 15')\nelif x ____ 20:\n    print('Equal to 20')\nelse:\n    print('Outside the range')",
+  "dragItems": [
+    "and",
+    "or",
+    ">",
+    "=="
+  ],
+  "correctAnswer": [
+    "and",
+    "=="
+  ],
+  "explanation": "Use 'and' to ensure x is both \u2265 5 and \u2264 15, then '==' to check if x is exactly 20."
+}

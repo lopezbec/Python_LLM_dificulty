@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, an _____ block can be used after an if-statement to run a block of code if the condition is false.",
+  "answer": "else"
+}

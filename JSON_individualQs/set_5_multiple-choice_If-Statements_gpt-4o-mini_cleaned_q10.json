@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the output of the following code?\na = '10'\nb = 10\nif a == b:\n    print('Equal')\nelif int(a) == b:\n    print('Both are same when converted')\nelse:\n    print('Different')",
+  "options": {
+    "A": "Equal",
+    "B": "Both are same when converted",
+    "C": "Different",
+    "D": "Error"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,13 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct statements into the blanks to complete the code: \n\nif (condition):\n    ____\nelse:\n    ____",
+  "options": [
+    "print('True branch')",
+    "print('False branch')",
+    "print('Else branch')"
+  ],
+  "correct_answers": [
+    "print('True branch')",
+    "print('False branch')"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for ch in 'hello':",
+        "print(ch)",
+        "print('done')"
+    ]
+}

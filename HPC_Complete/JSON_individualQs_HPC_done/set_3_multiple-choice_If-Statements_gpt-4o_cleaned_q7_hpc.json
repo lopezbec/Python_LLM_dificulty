@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 8",
+        "if x < y:",
+        "if x > 5:",
+        "print('Inside Nested If')",
+        "else:",
+        "print('Outside Nested If')",
+        "Inside Nested If",
+        "Outside Nested If",
+        "Error",
+        "None of the above"
+    ]
+}

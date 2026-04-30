@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "A 'while' loop executes at least once, regardless of the given condition.",
+  "answer": false
+}

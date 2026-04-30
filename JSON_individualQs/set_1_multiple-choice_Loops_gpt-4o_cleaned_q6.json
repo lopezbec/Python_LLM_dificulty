@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which of the following loops uses a break statement correctly?\n\nCode: \n1) for i in range(5):\n      if i == 3:\n          break\n   2) while True:\n      break",
+  "options": [
+    "Only 1",
+    "Only 2",
+    "Both 1 and 2",
+    "Neither"
+  ],
+  "correct_answer": "Both 1 and 2"
+}

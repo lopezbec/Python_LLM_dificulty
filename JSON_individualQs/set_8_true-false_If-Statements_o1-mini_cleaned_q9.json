@@ -1,0 +1,5 @@
+{
+  "question": "Python evaluates conditions in if-statements using short-circuit evaluation, meaning it stops evaluating once the outcome is determined.",
+  "answer": true,
+  "difficulty": 9
+}

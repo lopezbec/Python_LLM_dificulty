@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "while True:\n    print('This loop never ends')",
+        "True",
+        "print"
+    ]
+}

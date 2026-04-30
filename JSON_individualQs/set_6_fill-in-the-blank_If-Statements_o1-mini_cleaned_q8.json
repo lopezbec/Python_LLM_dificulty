@@ -1,0 +1,7 @@
+{
+  "question": "Complete the blank to use an inline if (ternary operator) to assign 'status' based on 'is_active':\n\n```python\nstatus = \"Active\" if is_active else ____\n```",
+  "answer": "\"Inactive\"",
+  "difficulty": 8,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

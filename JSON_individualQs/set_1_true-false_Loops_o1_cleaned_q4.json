@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Is it true that a 'for' loop in Python always requires a 'break' statement to end?",
+  "answer": "False"
+}

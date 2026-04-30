@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank: In nested loops, the inner loop is contained completely within the ____ loop.",
+  "answer": "outer"
+}

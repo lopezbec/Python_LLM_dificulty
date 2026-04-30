@@ -1,0 +1,6 @@
+{
+  "question": "True or False: Python allows the use of ternary conditional operators as a shorthand for simple 'if-else' statements.",
+  "answer": true,
+  "difficulty": 8,
+  "topic": "if-statements"
+}

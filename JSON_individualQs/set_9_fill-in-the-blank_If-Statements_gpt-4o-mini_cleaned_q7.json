@@ -1,0 +1,6 @@
+{
+  "question": "In Python, if you want to execute a block only when a variable x is greater than 10, you would write: if x _____ 10:",
+  "difficulty": 7,
+  "answer": ">",
+  "correct": true
+}

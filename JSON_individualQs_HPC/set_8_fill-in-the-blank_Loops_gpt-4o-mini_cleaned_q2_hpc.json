@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "loop",
+        "break",
+        "continue",
+        "stop",
+        "exit"
+    ]
+}

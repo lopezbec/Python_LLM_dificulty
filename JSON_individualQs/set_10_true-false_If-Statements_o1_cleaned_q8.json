@@ -1,0 +1,9 @@
+{
+  "question": "You can only check for one condition in a single if statement in Python.",
+  "difficulty": 8,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "False"
+}

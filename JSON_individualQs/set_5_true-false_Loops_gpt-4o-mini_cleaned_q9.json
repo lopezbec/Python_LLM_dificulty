@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "A 'for' loop can iterate over dictionaries directly without any additional functions.",
+  "answer": true
+}

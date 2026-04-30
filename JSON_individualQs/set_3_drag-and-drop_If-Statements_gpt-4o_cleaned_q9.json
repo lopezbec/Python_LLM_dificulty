@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Select the suitable values to assign a variable based on a computed condition.",
+  "code": "grade = __condition__ if score >= 90 else __alternative__",
+  "options": [
+    "\"A\"",
+    "\"B\"",
+    "\"C\""
+  ],
+  "answers": [
+    "\"A\"",
+    "\"B\""
+  ]
+}

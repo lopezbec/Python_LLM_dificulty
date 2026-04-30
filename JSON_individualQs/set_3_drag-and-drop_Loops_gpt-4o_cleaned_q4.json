@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "topic": "Loops",
+  "question": "Complete the code to use a loop for summing up numbers from 1 to 10.",
+  "code": "total = 0\nfor n in range(___, ___):\n    total ___ n\nprint(total)",
+  "drag_and_drop_options": [
+    "1",
+    "11",
+    "+="
+  ]
+}

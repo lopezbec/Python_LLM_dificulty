@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank to complete the nested if statement which checks if x is even:\n\nif x > 0:\n    if ______:\n         print('x is even')",
+  "answer": "x % 2 == 0"
+}

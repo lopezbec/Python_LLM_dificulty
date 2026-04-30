@@ -1,0 +1,23 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "prompt": "Use the correct logical operator to check if temperature is above 30 and humidity is above 50.",
+  "code_with_placeholders": [
+    "temp = 35",
+    "humidity = 60",
+    "if temp > 30 [__op__] humidity > 50:",
+    "    print(\"Hot day\")",
+    "else:",
+    "    print(\"Not a hot day\")"
+  ],
+  "drag_items": [
+    "or",
+    "and",
+    "==",
+    "not"
+  ],
+  "correct_answer": {
+    "__op__": "and"
+  }
+}

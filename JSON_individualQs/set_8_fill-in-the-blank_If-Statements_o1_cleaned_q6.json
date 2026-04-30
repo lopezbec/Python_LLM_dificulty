@@ -1,0 +1,11 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank to handle more than two conditions with 'elif': if x < 0: print('Negative') ______ x == 0: print('Zero') else: print('Positive')",
+  "correct_answer": "elif",
+  "incorrect_answers": [
+    "else",
+    "and",
+    "or"
+  ]
+}

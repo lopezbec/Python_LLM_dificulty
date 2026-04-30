@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword is used to iterate over the elements of a sequence in Python?",
+  "options": {
+    "A": "for",
+    "B": "if",
+    "C": "while",
+    "D": "switch"
+  },
+  "correctAnswer": "A"
+}

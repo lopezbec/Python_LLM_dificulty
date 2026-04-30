@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if num == 2:",
+        "while num < 5:",
+        "num += 1",
+        "print(num)",
+        "num = 0",
+        "break",
+        "num"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Drop the correct statement to ensure a piece of code is executed at least once in a loop.",
+  "code_block": "number = 0\n___ True:\n    print('Run this loop')\n    if number == 0:\n        break",
+  "options": [
+    "while",
+    "do",
+    "for"
+  ],
+  "correct_answer": "while"
+}

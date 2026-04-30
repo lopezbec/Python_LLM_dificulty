@@ -1,0 +1,27 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "questionText": "Complete the code to check if score is 90 or above for 'A', between 80 and 89 for 'B', or below 80 for 'C'.",
+  "incompleteCode": "[Zone1] score [Zone2] 90 [Zone3]\n    grade = 'A'\n[Zone4] score [Zone5] 80 [Zone6] score [Zone7] 89 [Zone8]\n    grade = 'B'\n[Zone9]:\n    grade = 'C'",
+  "dragItems": [
+    "if",
+    ">=",
+    ":",
+    "elif",
+    ">=",
+    "<=",
+    ":",
+    "else"
+  ],
+  "correctAnswer": [
+    "if",
+    ">=",
+    ":",
+    "elif",
+    ">=",
+    "<=",
+    ":",
+    "else"
+  ],
+  "explanation": "Use if score >= 90: for 'A', elif 80 <= score <= 89: for 'B', else: for 'C'."
+}

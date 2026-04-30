@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Convert the for loop into a list comprehension.",
+  "instruction": "Drag and drop the components to form the equivalent list comprehension that produces the same list of squares.",
+  "drag_items": [
+    "squares = [",
+    "i*i",
+    "for i in range(5)",
+    "if ...",
+    "]"
+  ],
+  "drop_zones": [
+    "List assignment start",
+    "Expression to compute square",
+    "For clause",
+    "List closing bracket"
+  ],
+  "correct_mapping": {
+    "List assignment start": "squares = [",
+    "Expression to compute square": "i*i",
+    "For clause": "for i in range(5)",
+    "List closing bracket": "]"
+  }
+}

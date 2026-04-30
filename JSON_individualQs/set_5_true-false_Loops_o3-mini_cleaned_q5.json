@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "True or False: An infinite loop in Python can be created by using 'while True' without including a break statement.",
+  "answer": "True"
+}

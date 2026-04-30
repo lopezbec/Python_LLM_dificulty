@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to add an elif condition checking if `score` is exactly 75:\n\n```python\nif score > 90:\n    print(\"Excellent\")\nelif ___:\n    print(\"Good\")\nelse:\n    print(\"Average\")\n```",
+  "difficulty": 5,
+  "answer": "score == 75"
+}

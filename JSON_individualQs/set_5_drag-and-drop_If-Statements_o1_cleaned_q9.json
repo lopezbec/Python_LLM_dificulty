@@ -1,0 +1,17 @@
+{
+  "question": "Complete the if-elif-else chain that prints different messages for x < 0, x == 0, or x > 0.",
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "codeSnippet": "x = 0\nif {CONDITION1}:\n    print(\"Negative\")\nelif {CONDITION2}:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+  "dragItems": [
+    "x < 0",
+    "x <= 0",
+    "x == 0",
+    "x != 0",
+    "x > 0"
+  ],
+  "correctAnswer": [
+    "x < 0",
+    "x == 0"
+  ]
+}

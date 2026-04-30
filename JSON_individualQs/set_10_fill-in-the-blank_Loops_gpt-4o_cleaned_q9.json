@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To execute a block of code while iterating over the keys of a dictionary named `my_dict`, the correct loop would be `for key in my_dict.___():`.",
+  "answer": "keys"
+}

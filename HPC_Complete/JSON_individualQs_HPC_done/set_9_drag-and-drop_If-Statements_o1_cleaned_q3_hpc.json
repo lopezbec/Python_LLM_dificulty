@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "age",
+        "age = 17",
+        "if age > 18:",
+        "print(\"Adult\")",
+        "[__keyword__] age >= 13:",
+        "print(\"Teenager\")",
+        "else:",
+        "print(\"Child\")",
+        "else if",
+        "elif",
+        "if",
+        "while"
+    ]
+}

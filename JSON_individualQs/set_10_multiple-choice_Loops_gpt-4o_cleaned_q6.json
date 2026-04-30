@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Consider the following code:\n\nn = 4\nresult = 0\nwhile n > 0:\n    result += n\n    n -= 1\n\nWhat will be the value of 'result' after execution?",
+  "options": [
+    "A) 4",
+    "B) 10",
+    "C) 0",
+    "D) 15"
+  ],
+  "answer": "B"
+}

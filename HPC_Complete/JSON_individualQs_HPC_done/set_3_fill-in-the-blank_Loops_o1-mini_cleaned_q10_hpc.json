@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "generator",
+        "for item in data:",
+        "yield items from a list 'data'",
+        "___ item"
+    ]
+}

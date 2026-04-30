@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "a",
+        "b",
+        "c",
+        "if a % b == 0 ___ a % c == 0:",
+        "print(\"Divisible by both\")"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which type of loop is most commonly used in Python when you know in advance how many times you want to iterate?",
+  "options": [
+    "while loop",
+    "for loop",
+    "do-while loop",
+    "infinite loop"
+  ],
+  "correctAnswer": "for loop"
+}

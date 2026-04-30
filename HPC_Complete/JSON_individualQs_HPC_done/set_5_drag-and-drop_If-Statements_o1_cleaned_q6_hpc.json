@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "score",
+        "if {CONDITION1}:",
+        "if {CONDITION2}:",
+        "score = 120",
+        "score > 0",
+        "score < 0",
+        "score > 100",
+        "score == 100"
+    ]
+}

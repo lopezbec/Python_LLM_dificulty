@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "n",
+        "my_list",
+        "my_list = [x for x in range(n)]",
+        "for i in range(n):",
+        "for j in range(n):",
+        "print(my_list[i] + my_list[j])",
+        "A. O(n)",
+        "B. O(n log n)",
+        "C. O(n^2)",
+        "D. O(1)"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "In Python, an if-statement without an else clause will always execute the else block if the if condition is false.",
+  "difficulty": 10,
+  "answer": false
+}

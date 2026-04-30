@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "Loops",
+  "question": "Drag and drop the missing keyword to exit the for loop early when a condition is met.",
+  "instructions": "Drag the correct keyword into the blank inside the if-statement.",
+  "code": "for i in range(10):\n    if i == 5:\n        ___\n    print(i)",
+  "drag_items": [
+    "continue",
+    "break",
+    "pass"
+  ],
+  "correct_answers": {
+    "___": "break"
+  }
+}

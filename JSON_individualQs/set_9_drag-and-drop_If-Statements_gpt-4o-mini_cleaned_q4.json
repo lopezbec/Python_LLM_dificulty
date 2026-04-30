@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the missing parts of the following code snippet by dragging:\n\nif (temperature > 30):\n    ____\nelse:\n    ____",
+  "options": [
+    "print('It's hot!')",
+    "print('It's cold!')"
+  ],
+  "correct_answers": [
+    "print('It's hot!')",
+    "print('It's cold!')"
+  ]
+}

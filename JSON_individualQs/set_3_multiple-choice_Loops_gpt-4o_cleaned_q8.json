@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "How can you create a loop that runs indefinitely?",
+  "options": [
+    "for i in range(infinity):",
+    "while True:",
+    "do while(True):",
+    "while(1): sleep(1)"
+  ],
+  "correct_answer": "while True:"
+}

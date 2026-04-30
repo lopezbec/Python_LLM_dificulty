@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Drag and drop the tokens to complete the if-statement condition that checks if the variable 'x' is greater than 0.",
+  "codeSnippet": "if ____ ____ ____:\n    print('x is positive')",
+  "dragItems": [
+    "x",
+    ">",
+    "0"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "x",
+    "drop2": ">",
+    "drop3": "0"
+  }
+}

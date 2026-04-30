@@ -1,0 +1,23 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "questionText": "Drag the correct range usage and increment logic to print 3 to 1 in descending order using a for loop:",
+  "codeSnippet": [
+    "for i in [RANGE_PLACEHOLDER]:",
+    "    [PRINT_PLACEHOLDER]"
+  ],
+  "dragItems": [
+    "range(3, 0, -1)",
+    "range(1, 4)",
+    "print(i)",
+    "print(i * -1)"
+  ],
+  "dropSlots": [
+    "RANGE_PLACEHOLDER",
+    "PRINT_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "RANGE_PLACEHOLDER": "range(3, 0, -1)",
+    "PRINT_PLACEHOLDER": "print(i)"
+  }
+}

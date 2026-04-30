@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Examine the following code snippet:\n\nresult = 0\nfor i in range(5):\n    j = 0\n    while j < i:\n        result += 1\n        j += 1\nprint(result)\n\nWhat is the final output, and why does this nested loop structure yield that result?",
+  "options": {
+    "A": "10, because the inner loop adds numbers from 0 to i-1 for each i, resulting in a total sum of 10.",
+    "B": "5, because only the outer loop runs effectively.",
+    "C": "15, because the nested loop doubles the count in each iteration.",
+    "D": "20, due to the multiplication of loop indices."
+  },
+  "correctAnswer": "A"
+}

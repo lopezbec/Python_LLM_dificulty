@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: We use the ______ keyword to repeatedly execute a block of code as long as a condition remains True.",
+  "correct_answer": "while"
+}

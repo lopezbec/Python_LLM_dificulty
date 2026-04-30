@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "A 'for' loop can only iterate over numeric ranges and not over sequences like strings or lists.",
+  "answer": false
+}

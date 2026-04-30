@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is the correct basic syntax for an if statement in Python?",
+  "options": [
+    "A) if condition:",
+    "B) if (condition)",
+    "C) if condition then:",
+    "D) If condition:"
+  ],
+  "correctAnswer": "A"
+}

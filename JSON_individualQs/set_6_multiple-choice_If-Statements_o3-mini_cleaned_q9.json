@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What does the following one-liner if-statement do?\n\nprint('Even') if n % 2 == 0 else print('Odd')",
+  "options": [
+    "It prints 'Even' if n is even, otherwise it prints 'Odd'.",
+    "It always prints 'Even' regardless of n.",
+    "It prints 'Odd' if n is even, otherwise it prints 'Even'.",
+    "It returns 'Even' or 'Odd' but does not print anything."
+  ],
+  "correct_answer": "It prints 'Even' if n is even, otherwise it prints 'Odd'."
+}

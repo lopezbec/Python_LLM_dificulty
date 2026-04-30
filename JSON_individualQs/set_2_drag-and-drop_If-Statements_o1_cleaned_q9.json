@@ -1,0 +1,23 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "questionText": "Drag the components to create a conditional that displays 'Access Granted' only if BOTH conditions in required_flags are True.",
+  "incompleteCode": "required_flags = [True, True]\n[Zone1] required_flags[0] [Zone2] True [Zone3] required_flags[1] [Zone4] True [Zone5]\n    print(\"Access Granted\")\n[Zone6]:\n    print(\"Access Denied\")",
+  "dragItems": [
+    "if",
+    "and",
+    "==",
+    "==",
+    ":",
+    "else:"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    "and",
+    "==",
+    ":",
+    "else:"
+  ],
+  "explanation": "We check if the first flag is True and the second flag is True simultaneously using and."
+}

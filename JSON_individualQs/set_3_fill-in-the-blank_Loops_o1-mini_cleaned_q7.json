@@ -1,0 +1,5 @@
+{
+  "question": "To create a nested loop, you place one loop inside another. Fill in the blank to set the range for the inner loop to run 2 times:\n\nfor i in range(3):\n    for j in range(___):\n        print(i, j)",
+  "answer": "2",
+  "difficulty": 7
+}

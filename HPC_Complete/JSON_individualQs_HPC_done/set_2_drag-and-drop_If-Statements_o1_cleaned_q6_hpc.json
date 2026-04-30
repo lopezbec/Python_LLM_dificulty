@@ -1,0 +1,19 @@
+{
+    "HPC": [
+        "is_logged_in",
+        "True",
+        "is_admin",
+        "True",
+        "print(\"Welcome Admin\")",
+        "print(\"Welcome User\")",
+        "print(\"Please log in\")",
+        "if",
+        "==",
+        ":",
+        "if",
+        "==",
+        ":",
+        "else",
+        "else:"
+    ]
+}

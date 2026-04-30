@@ -1,0 +1,30 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the snippets to form a complex nested loop that uses both continue and break. The outer loop iterates from 0 to 2 and the inner loop iterates from 0 to 2. In the inner loop, skip the iteration when j equals 1. After the inner loop, print 'Inner loop complete'. Finally, in the outer loop, break when i equals 2.",
+  "prompt": "Drag and drop the code fragments in the correct order, ensuring proper indentation for nested loops, conditionals, and control flow statements.",
+  "dragItems": [
+    "for i in range(3):",
+    "    for j in range(3):",
+    "        if j == 1:",
+    "            continue",
+    "        print(i, j)",
+    "    else:",
+    "        print('Inner loop complete')",
+    "    if i == 2:",
+    "        break"
+  ],
+  "dropZones": 9,
+  "correctSequence": [
+    "for i in range(3):",
+    "    for j in range(3):",
+    "        if j == 1:",
+    "            continue",
+    "        print(i, j)",
+    "    else:",
+    "        print('Inner loop complete')",
+    "    if i == 2:",
+    "        break"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "for num in [RANGE_PLACEHOLDER]:",
+        "if num < 5:",
+        "[BREAK_PLACEHOLDER]",
+        "[PRINT_PLACEHOLDER]",
+        "range(10, 0, -1)",
+        "range(10, 1)",
+        "print(num)",
+        "break",
+        "print(num + 1)",
+        "continue"
+    ]
+}

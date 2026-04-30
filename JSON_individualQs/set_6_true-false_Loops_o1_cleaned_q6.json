@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "You can combine 'while' and 'for' loops in the same code block without any issues in Python.",
+  "answer": "True"
+}

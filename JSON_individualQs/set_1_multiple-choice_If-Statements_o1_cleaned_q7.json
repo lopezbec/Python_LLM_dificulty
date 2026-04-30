@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements correctly checks if x is 5 or 6?",
+  "difficulty": 7,
+  "options": [
+    "if x == 5 or 6:\n    print('x is 5 or 6')",
+    "if x in [5 or 6]:\n    print('x is 5 or 6')",
+    "if x == 5 or x == 6:\n    print('x is 5 or 6')",
+    "if (x == 5) or (6):\n    print('x is 5 or 6')"
+  ],
+  "correct_answer": "if x == 5 or x == 6:\n    print('x is 5 or 6')"
+}

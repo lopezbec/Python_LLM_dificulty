@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if x == 1:\nprint('Condition Met')\n   print('Still inside')",
+        "Indent both print",
+        "Indent second print"
+    ]
+}

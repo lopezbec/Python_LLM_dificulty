@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 7",
+        "if x == 5:",
+        "print(\"Five\")",
+        "elif x == 6:",
+        "print(\"Six\")",
+        "elif x == 7:",
+        "print(\"Seven\")",
+        "else:",
+        "print(\"Other\")",
+        "x"
+    ]
+}

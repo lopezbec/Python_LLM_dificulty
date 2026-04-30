@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Python allows nesting one if-statement inside another.",
+  "correct_answer": "True"
+}

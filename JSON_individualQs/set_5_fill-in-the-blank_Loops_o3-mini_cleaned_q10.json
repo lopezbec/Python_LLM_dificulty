@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: Using a list comprehension, complete the condition to filter even numbers from 0 to 10: [x for x in range(11) if x % 2 ______ 0]",
+  "answer": "=="
+}

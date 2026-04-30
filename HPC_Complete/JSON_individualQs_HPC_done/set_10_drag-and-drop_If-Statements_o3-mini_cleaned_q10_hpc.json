@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if",
+        "elif",
+        "and",
+        "else",
+        "x >= 10 and x <= 20",
+        "print('x is between 10 and 20')",
+        "x > 20",
+        "x < 30",
+        "print('x is between 21 and 29')",
+        "print('x is out of range')"
+    ]
+}

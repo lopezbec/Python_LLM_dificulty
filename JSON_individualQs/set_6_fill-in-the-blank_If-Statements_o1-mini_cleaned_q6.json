@@ -1,0 +1,7 @@
+{
+  "question": "Complete the blank to use a logical AND operator in the if statement:\n\n```python\nif age >= 18 ____ citizen == True:\n    print(\"Eligible voter\")\n```",
+  "answer": "and",
+  "difficulty": 6,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

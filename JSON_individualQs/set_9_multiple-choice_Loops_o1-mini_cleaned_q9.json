@@ -1,0 +1,11 @@
+{
+  "question": "In Python, what is the purpose of the 'else' block in a for loop?",
+  "options": [
+    "To execute code if the loop was terminated by a break statement.",
+    "To execute code after the loop completes normally without a break.",
+    "To handle exceptions that occur within the loop.",
+    "To define an alternative loop condition."
+  ],
+  "answer": "To execute code after the loop completes normally without a break.",
+  "difficulty": 9
+}

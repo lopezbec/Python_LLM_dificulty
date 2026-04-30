@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "num = 0",
+        "if num > 0:",
+        "print(\"Positive\")",
+        "[__keyword1__] num < 0:",
+        "print(\"Negative\")",
+        "[__keyword2__]:",
+        "print(\"Zero\")",
+        "if",
+        "elif",
+        "else if",
+        "else"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "question": "Drag the missing keyword to complete the for loop that prints numbers from 0 to 2.",
+  "codeSnippet": "for i ??? range(3):\n    print(i)",
+  "options": [
+    "from",
+    "at",
+    "in",
+    "while"
+  ],
+  "correctAnswer": "in"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop in Python is used to iterate over a sequence, such as a list.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "A 'while' loop in Python executes as long as a specified condition is 'True'.",
+    "answer": true
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, the 'break' statement can be used to exit a loop, skipping the execution of remaining iterations.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "The 'continue' statement in a loop causes the program to exit the loop entirely and resume execution after the loop.",
+    "answer": false
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the range() function used in a 'for' loop can only generate sequences of integers starting from 0.",
+    "answer": false
+  },
+  {
+    "difficulty": 6,
+    "question": "Nested loops occur when a 'while' loop is placed inside a 'for' loop, and this setup can result in a quadratic time complexity (O(n^2)) in many cases.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, all iterables support index access, allowing them to be used directly in 'for' loops with indexing.",
+    "answer": false
+  },
+  {
+    "difficulty": 8,
+    "question": "The 'else' clause in a loop executes only if the loop completes all its iterations without encountering a 'break' statement.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "A Python loop can have multiple 'else' clauses, just like 'if' statements.",
+    "answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, creating an infinite loop using a 'for' loop is impossible because 'for' loops require a known sequence to iterate over.",
+    "answer": false
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Generators in Python can be used to create objects that produce sequence elements on demand. A special form of loop, the __________ comprehension, can often replace simple loops to build lists efficiently.",
+  "answer": "list"
+}

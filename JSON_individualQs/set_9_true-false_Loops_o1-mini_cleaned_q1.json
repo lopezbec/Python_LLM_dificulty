@@ -1,0 +1,7 @@
+{
+  "question": "In Python, a 'for' loop can iterate over elements of a list.",
+  "type": "true/false",
+  "difficulty": 1,
+  "topic": "loops",
+  "correct_answer": "True"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "question": "Complete the condition so that it prints a message only if the variable temp is not 0 and not 100. Drag the correct snippet into the blank.",
+  "code": "temp = 50\nif [BLANK]:\n    print(\"Normal range\")",
+  "choices": [
+    "temp != 0 and temp != 100",
+    "temp == 0 and temp == 100",
+    "temp < 0 or temp > 100"
+  ],
+  "correctAnswer": "temp != 0 and temp != 100"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank to include only even squares in the list comprehension:\n\nsquares = [i**2 for i in range(5) if __________]",
+  "answer": "i % 2 == 0"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "True or False: A for loop in Python is used to iterate over items of a sequence, such as a list.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "True or False: A while loop in Python is guaranteed to execute its code block at least once even if its condition is initially False.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "True or False: In Python, the break statement can only be used inside a while loop.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 4,
+    "question": "True or False: The continue statement in Python causes the loop to skip the rest of the code for the current iteration and proceed with the next iteration.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "True or False: For loops in Python can only iterate over numeric ranges.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 6,
+    "question": "True or False: In Python, you can use a loop to iterate directly over characters in a string.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "True or False: A while loop with a condition that never becomes False will eventually raise an error in Python.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 8,
+    "question": "True or False: In Python 3, the range() function used in a for loop returns a list of numbers.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "True or False: A nested loop in Python is a loop within another loop whose total number of iterations is typically the product of the iterations of each individual loop.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "True or False: When using an else clause with a loop in Python, the else block will execute regardless of whether the loop terminated normally or was exited using a break statement.",
+    "answer": "False"
+  }
+]

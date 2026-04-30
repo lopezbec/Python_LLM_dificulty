@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "question": "Match the loop type to its appropriate use case.",
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "Loops",
+  "dragItems": [
+    "for loop",
+    "while loop",
+    "nested loop"
+  ],
+  "dropTargets": [
+    "Iterating over items in a list",
+    "Repeating until a user inputs 'quit'",
+    "Processing a matrix with rows and columns"
+  ],
+  "correctAssociations": {
+    "for loop": "Iterating over items in a list",
+    "while loop": "Repeating until a user inputs 'quit'",
+    "nested loop": "Processing a matrix with rows and columns"
+  }
+}

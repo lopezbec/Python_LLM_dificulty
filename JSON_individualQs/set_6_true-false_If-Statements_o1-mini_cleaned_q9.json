@@ -1,0 +1,5 @@
+{
+  "question": "In Python, nested if statements can lead to increased code complexity and should always be avoided in favor of logical operators.",
+  "answer": false,
+  "difficulty": 9
+}

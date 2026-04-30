@@ -1,0 +1,15 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "questionType": "drag-and-drop",
+  "question": "Decide between 'and' or 'or' to check if x is less than 0 or greater than 100. If so, print 'Out of Range'.",
+  "codeSnippet": "x = 150\nif x < 0 ___ x > 100:\n    print('Out of Range')",
+  "draggables": [
+    "and",
+    "or"
+  ],
+  "correctDrops": [
+    "or"
+  ],
+  "explanation": "We want to check if at least one of the conditions (x < 0 or x > 100) is true, so we use 'or'."
+}

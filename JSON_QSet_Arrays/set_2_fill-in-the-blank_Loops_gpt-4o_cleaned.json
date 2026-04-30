@@ -1,0 +1,52 @@
+[
+  {
+    "level": 1,
+    "question": "A _____ loop repeats a block of code as long as a given condition is True.",
+    "answer": "while"
+  },
+  {
+    "level": 2,
+    "question": "A _____ loop is used to iterate over a sequence (such as a list, tuple, dictionary, set, or string).",
+    "answer": "for"
+  },
+  {
+    "level": 3,
+    "question": "The statement used to immediately terminate a loop and continue execution at the next statement is _____.",
+    "answer": "break"
+  },
+  {
+    "level": 4,
+    "question": "In Python, you can exit the current iteration of a loop and move to the next iteration using the _____ statement.",
+    "answer": "continue"
+  },
+  {
+    "level": 5,
+    "question": "You can use the _____ function to generate a sequence of numbers, often used in loops for counting.",
+    "answer": "range"
+  },
+  {
+    "level": 6,
+    "question": "The syntax of a 'for' loop in Python to iterate over a range of numbers is 'for i in _____(start, stop):'.",
+    "answer": "range"
+  },
+  {
+    "level": 7,
+    "question": "To loop over the keys and values of a dictionary at the same time, you can use the _____ method.",
+    "answer": "items"
+  },
+  {
+    "level": 8,
+    "question": "The _____ clause in a loop is executed when the loop has finished iterating over all items, without encountering a break statement.",
+    "answer": "else"
+  },
+  {
+    "level": 9,
+    "question": "When dealing with nested loops, using _____ can help avoid confusion by providing more descriptive identifiers for control variables.",
+    "answer": "descriptive variable names"
+  },
+  {
+    "level": 10,
+    "question": "When processing multiple sequences in parallel, you can use the _____ function to iterate over two lists simultaneously in a loop.",
+    "answer": "zip"
+  }
+]

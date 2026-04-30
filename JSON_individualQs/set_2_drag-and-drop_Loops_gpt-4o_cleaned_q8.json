@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "prompt": "Arrange the loop in a way to incrementally print numbers starting from 10 and stop at 0.",
+  "drag_options": [
+    "print(i)",
+    "i",
+    "while i >= 0:",
+    "i -= 1"
+  ],
+  "drop_target_ordered": [
+    "i = 10",
+    "while i >= 0:",
+    "print(i)",
+    "i -= 1"
+  ]
+}

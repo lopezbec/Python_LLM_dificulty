@@ -1,0 +1,17 @@
+{
+  "difficulty": 8,
+  "question": "Complete the nested if statement to classify a score as 'Excellent', 'Passing', or 'Failing'.",
+  "instruction": "Drag the correct statements into the placeholders.",
+  "partiallyCompletedCode": "score = 95\n____ score > 50:\n    ____ score > 90:\n        print('Excellent')\n    else:\n        print('Passing')\nelse:\n    print('Failing')",
+  "dragItems": [
+    "if",
+    "elif",
+    "while",
+    "for"
+  ],
+  "correctAnswer": [
+    "if",
+    "if"
+  ],
+  "explanation": "Use 'if score > 50' for the first condition, then a nested 'if' for 'score > 90'."
+}

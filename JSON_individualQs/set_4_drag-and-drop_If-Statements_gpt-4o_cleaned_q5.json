@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the nested if-statement to print 'Teenager' only if 'person' is of the age between 13-19.",
+  "code": "if person:\n    if 13 <= person.age <= 19:\n        print('Teenager')",
+  "options": [
+    "True",
+    "pass",
+    "continue",
+    "break"
+  ],
+  "correct": [
+    "True"
+  ],
+  "incorrect": [
+    "pass",
+    "continue",
+    "break"
+  ]
+}

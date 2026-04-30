@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "num = 25",
+        "if num > 20 ___ num < 30:",
+        "print(\"Number is between 21 and 29\")",
+        "and",
+        "or",
+        "not"
+    ]
+}

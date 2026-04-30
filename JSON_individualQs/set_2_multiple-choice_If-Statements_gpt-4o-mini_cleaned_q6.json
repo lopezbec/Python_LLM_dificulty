@@ -1,0 +1,11 @@
+{
+  "question": "Consider the code below. What will it output?\n\nx = 4\nif x == 4:\n    print('Four')\nif x != 4:\n    print('Not Four')",
+  "options": [
+    "Four",
+    "Not Four",
+    "Four Not Four",
+    "Error"
+  ],
+  "answer": "Four",
+  "difficulty": 6
+}

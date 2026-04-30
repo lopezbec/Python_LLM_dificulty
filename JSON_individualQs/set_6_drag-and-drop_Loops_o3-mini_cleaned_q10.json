@@ -1,0 +1,31 @@
+{
+  "question_id": 10,
+  "difficulty": 10,
+  "question_text": "Complete the list comprehension by dragging the correct expressions into the blanks to create a list of squares from 1 to 5.",
+  "code_snippet": "squares = [____ for ____ in ____(1, 6)]\nprint(squares)",
+  "draggable_items": {
+    "blank1": [
+      "x**2",
+      "x*2",
+      "square",
+      "pow(x, 2)"
+    ],
+    "blank2": [
+      "x",
+      "i",
+      "num",
+      "item"
+    ],
+    "blank3": [
+      "range",
+      "list",
+      "enumerate",
+      "tuple"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "x**2",
+    "blank2": "x",
+    "blank3": "range"
+  }
+}

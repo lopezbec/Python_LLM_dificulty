@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank to complete the following if-else statement:\n\nif x > 10:\n    print('High')\n______:\n    print('Low')",
+  "answer": "else:"
+}

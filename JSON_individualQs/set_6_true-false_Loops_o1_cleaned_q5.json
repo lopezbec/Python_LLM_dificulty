@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "The 'else' clause after a 'for' loop executes only if a 'break' statement is encountered in the loop.",
+  "answer": "False"
+}

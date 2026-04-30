@@ -1,0 +1,11 @@
+{
+  "question": "How many lines of output are produced by the following code snippet?\n\nletters = ['A', 'B']\nfor x in letters:\n    for y in letters:\n        print(x, y)",
+  "difficulty": 5,
+  "choices": [
+    "2",
+    "3",
+    "4",
+    "6"
+  ],
+  "correct_answer": "4"
+}

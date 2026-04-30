@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "To check if a variable x is less than 10, the correct if-statement is ___ x < 10:",
+  "answer": "if"
+}

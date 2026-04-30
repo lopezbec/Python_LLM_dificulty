@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: In Python, the block of code under an if-statement is defined by its ______ rather than curly braces.",
+  "answer": "indentation"
+}

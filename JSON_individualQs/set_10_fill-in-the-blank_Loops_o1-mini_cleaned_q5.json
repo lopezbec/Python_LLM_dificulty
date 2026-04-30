@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Fill in the blank to create a nested loop that prints a 3x3 grid of asterisks.\n\n```python\nfor i in range(3):\n    for j in ___(3):\n        print('*', end=' ')\n    print()\n```",
+  "answer": "range"
+}

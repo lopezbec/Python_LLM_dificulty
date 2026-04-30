@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following is a correct syntax for a while loop in Python?",
+  "options": {
+    "A": "while (i < 5) { ... }",
+    "B": "while i < 5:\n    # code block",
+    "C": "while i < 5 do\n    # code block",
+    "D": "while i < 5 then\n    # code block"
+  },
+  "answer": "B"
+}

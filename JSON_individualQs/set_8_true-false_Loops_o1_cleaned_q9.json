@@ -1,0 +1,5 @@
+{
+  "question": "Python's 'for' keyword can iterate over any iterable object, such as lists, tuples, and generators.",
+  "difficulty": 9,
+  "correct_answer": "True"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank to check for an additional condition if y == 5:\nif y > 5:\n    print(\"Greater than 5\")\n_____ y == 5:\n    print(\"Equal to 5\")\nelse:\n    print(\"Less than 5\")",
+  "answer": "elif"
+}

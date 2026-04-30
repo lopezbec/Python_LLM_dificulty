@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Iterable objects like lists and strings can be directly used in a Python 'for' loop.",
+  "correctAnswer": "True"
+}

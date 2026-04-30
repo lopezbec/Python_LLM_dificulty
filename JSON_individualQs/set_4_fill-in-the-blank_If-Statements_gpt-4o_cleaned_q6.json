@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "What will the following code output if the value of n is 10?\n\nif n > 5:\n    print('n is big')\nelse:\n    print('n is small')\n\nOutput: '_____ is big'.",
+  "answer": "n"
+}

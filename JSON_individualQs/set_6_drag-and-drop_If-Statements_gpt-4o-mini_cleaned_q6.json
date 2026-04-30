@@ -1,0 +1,11 @@
+{
+  "question": "Complete the nested if-statement below:\n`if (x > 0) { if (x > 10) { ____; } }`",
+  "drops": [
+    "console.log('X is large');",
+    "console.log('X is negative');",
+    "console.log('X is small'),",
+    "continue;"
+  ],
+  "correct": "console.log('X is large');",
+  "difficulty": 6
+}

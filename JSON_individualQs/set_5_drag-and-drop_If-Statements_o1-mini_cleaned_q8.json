@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "question": "Arrange the following lines to implement an if-elif-else ladder that categorizes age groups.\n\nage = 25\nprint(\"Senior\")\nelse:\nprint(\"Adult\")\nif age < 13:\nprint(\"Child\")\nelif age < 20:",
+  "options": [
+    "if age < 13:",
+    "print(\"Child\")",
+    "elif age < 20:",
+    "print(\"Teenager\")",
+    "else:",
+    "print(\"Adult\")"
+  ],
+  "answers": {
+    "1": "if age < 13:",
+    "2": "print(\"Child\")",
+    "3": "elif age < 20:",
+    "4": "print(\"Teenager\")",
+    "5": "else:",
+    "6": "print(\"Adult\")"
+  }
+}

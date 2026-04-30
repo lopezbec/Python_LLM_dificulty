@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which keyword is used to introduce an alternate block of code when the if-statement's condition is False?",
+  "options": [
+    "else",
+    "elif",
+    "otherwise",
+    "finally"
+  ],
+  "answer": "else"
+}

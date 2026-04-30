@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following loops is most efficient for iterating over a dictionary in Python to get both key and value?",
+  "options": [
+    "A) for key in dictionary.keys()",
+    "B) for value in dictionary.values()",
+    "C) for key, value in dictionary.items()",
+    "D) for item in dictionary"
+  ],
+  "answer": "C"
+}

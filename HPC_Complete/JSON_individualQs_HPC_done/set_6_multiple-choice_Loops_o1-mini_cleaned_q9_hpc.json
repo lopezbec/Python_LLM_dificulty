@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "numbers = [1, 2, 3, 4]",
+        "result = 0",
+        "for num in numbers:",
+        "if num % 2 == 0:",
+        "continue",
+        "result += num",
+        "print(result)",
+        "6",
+        "4",
+        "10",
+        "2"
+    ]
+}

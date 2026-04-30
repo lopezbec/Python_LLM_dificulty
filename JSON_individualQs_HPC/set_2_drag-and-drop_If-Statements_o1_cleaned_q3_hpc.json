@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "x",
+        "100",
+        "print(\"High\")",
+        "print(\"Medium\")",
+        "print(\"Low\")",
+        "[Zone1] x [Zone2] 100 [Zone3]",
+        "[Zone4] x [Zone5] 100 [Zone6]",
+        "[Zone7]:",
+        "if",
+        "elif",
+        "==",
+        ">",
+        ":",
+        ":"
+    ]
+}

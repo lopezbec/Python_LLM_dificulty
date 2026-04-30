@@ -1,0 +1,18 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "question": "Fill the blank with the correct keyword to stop printing once the loop variable 'i' equals 3.",
+  "codeSnippet": "for i in range(5):\n    if i == 3:\n        [___]\n    print(i)",
+  "dragItems": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "answerSlots": [
+    "[___]"
+  ],
+  "correctAnswer": [
+    "break"
+  ],
+  "explanation": "Using 'break' exits the loop when i is 3. 'continue' would skip only that iteration, and 'pass' does nothing."
+}

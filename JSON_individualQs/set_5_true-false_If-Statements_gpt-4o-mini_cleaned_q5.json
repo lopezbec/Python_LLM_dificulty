@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the comparison operator '==' checks for reference equality rather than value equality.",
+  "answer": false,
+  "difficulty": 5
+}

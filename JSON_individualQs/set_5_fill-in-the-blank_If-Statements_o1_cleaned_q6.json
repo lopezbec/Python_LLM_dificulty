@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank so the code prints 'True' if x is less than 0 or greater than 10:\n\nif x < 0 ______ x > 10:\n    print(\"True\")",
+  "answer": "or"
+}

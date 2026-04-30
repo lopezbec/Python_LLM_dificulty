@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "You can use the 'if' keyword inline in Python to conditionally assign a value with the syntax x = a if condition else b.",
+  "correct_answer": "True"
+}

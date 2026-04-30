@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "A 'for' loop using the 'range()' function can only increment by 1 each time through the loop.",
+  "answer": false
+}

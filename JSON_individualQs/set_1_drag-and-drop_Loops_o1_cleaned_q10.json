@@ -1,0 +1,18 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "questionType": "drag-and-drop",
+  "prompt": "Use a for-else structure to check if the number is prime. If a divisor is found, break; otherwise print 'Prime'.",
+  "codeSnippet": "num = 29\nfor i in range(2, num):\n    if ???:\n        ???\nelse:\n    print(\"Prime\")",
+  "draggableItems": [
+    "num % i == 0",
+    "break",
+    "continue",
+    "num / i == 0"
+  ],
+  "correctAnswer": [
+    "num % i == 0",
+    "break"
+  ],
+  "explanation": "If 'num % i == 0', the number is divisible, so 'break' stops the loop. The else block only runs if no break occurs, indicating num is prime."
+}

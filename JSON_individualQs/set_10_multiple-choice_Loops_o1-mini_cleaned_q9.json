@@ -1,0 +1,11 @@
+{
+  "question": "What does the 'enumerate' function do when used in a for loop?",
+  "options": [
+    "It returns the index and value of each item in the loop",
+    "It counts the number of times the loop has run",
+    "It alternates the looping direction",
+    "It filters out duplicate items"
+  ],
+  "correct_answer": "It returns the index and value of each item in the loop",
+  "difficulty": 9
+}

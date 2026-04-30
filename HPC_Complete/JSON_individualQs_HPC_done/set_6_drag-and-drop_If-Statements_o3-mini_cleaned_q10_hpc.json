@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x",
+        "if x > 0:",
+        "if x % 2 == 0:",
+        "print('Valid')",
+        "elif x > 5:",
+        "print('Valid')",
+        "else:",
+        "print('Invalid')"
+    ]
+}

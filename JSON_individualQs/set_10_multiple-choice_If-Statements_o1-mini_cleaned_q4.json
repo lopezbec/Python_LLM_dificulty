@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "question": "What will the following code output?\n\nnum = 7\nif num % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")",
+  "options": {
+    "A": "Even",
+    "B": "Odd",
+    "C": "7",
+    "D": "No output"
+  },
+  "answer": "B",
+  "difficulty": 4
+}

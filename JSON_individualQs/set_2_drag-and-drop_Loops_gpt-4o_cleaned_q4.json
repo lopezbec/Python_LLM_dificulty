@@ -1,0 +1,15 @@
+{
+  "difficulty": 4,
+  "prompt": "Reorder the code blocks to correctly implement a loop that prints the numbers 1 to 5.",
+  "drag_options": [
+    "for i in range(1, 6):",
+    ":",
+    "print(i)",
+    " "
+  ],
+  "drop_target_ordered": [
+    "for i in range(1, 6):",
+    " ",
+    "print(i)"
+  ]
+}

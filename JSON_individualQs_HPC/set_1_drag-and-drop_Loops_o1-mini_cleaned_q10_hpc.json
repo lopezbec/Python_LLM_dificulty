@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for key, value in my_dict.___():",
+        "print(f'{key}: {value}')",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}"
+    ]
+}

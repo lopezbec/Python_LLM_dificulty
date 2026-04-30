@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "question": "Drag the correct indentation to complete the nested if statement.",
+  "code_snippet": "if user.is_admin:\n__blank__ if user.has_access():\n        print(\"Access granted.\")\n    else:\n        print(\"Access denied.\")\nelse:\n    print(\"User is not an admin.\")",
+  "options": [
+    "        ",
+    "    ",
+    "            ",
+    "no indentation"
+  ],
+  "answer": "    "
+}

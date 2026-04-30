@@ -1,0 +1,11 @@
+{
+  "question": "5. What does the following code output?\n\n   ```python\n   n = -1\n   if n > 0:\n       print(\"Positive\")\n   elif n == 0:\n       print(\"Zero\")\n   else:\n       print(\"Negative\")\n   ```",
+  "options": {
+    "a": "Positive",
+    "b": "Zero",
+    "c": "Negative",
+    "d": "No output"
+  },
+  "correct_answer": "c",
+  "difficulty": 5
+}

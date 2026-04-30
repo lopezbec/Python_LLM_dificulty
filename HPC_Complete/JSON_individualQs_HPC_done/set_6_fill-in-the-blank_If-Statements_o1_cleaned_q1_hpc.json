@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if x ___ 5: print(\"Greater than 5\")",
+        "x"
+    ]
+}

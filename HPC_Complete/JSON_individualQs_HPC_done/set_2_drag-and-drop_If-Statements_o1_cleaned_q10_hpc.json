@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if user_type == 'member':",
+        "elif loyalty_points > 1000:",
+        "print(\"VIP\")",
+        "print(\"Member\")",
+        "else:",
+        "else:",
+        "print(\"Guest\")",
+        "user_type",
+        "loyalty_points > 1000"
+    ]
+}

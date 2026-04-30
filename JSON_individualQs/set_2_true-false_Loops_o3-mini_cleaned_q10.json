@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Recursion is considered a type of loop in Python because it repeatedly calls a function until a base condition is met.",
+  "correct_answer": false
+}

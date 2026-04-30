@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the most efficient approach for building a list of squares from 0 to 999 in Python?",
+  "options": {
+    "A": "Using a while loop that appends squares",
+    "B": "Using a for loop with list.append(x*x)",
+    "C": "Using a list comprehension: [x*x for x in range(1000)]",
+    "D": "Using a generator expression inside a list() call"
+  },
+  "correctAnswer": "C"
+}

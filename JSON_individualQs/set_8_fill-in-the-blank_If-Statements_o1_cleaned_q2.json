@@ -1,0 +1,11 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank in the code snippet to handle multiple conditions: if x > 10: print('Large') ______ x == 10: print('Exactly ten')",
+  "correct_answer": "elif",
+  "incorrect_answers": [
+    "else",
+    "if",
+    "for"
+  ]
+}

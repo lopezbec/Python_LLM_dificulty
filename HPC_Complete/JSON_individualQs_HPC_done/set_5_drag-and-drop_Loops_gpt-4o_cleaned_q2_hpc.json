@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "print",
+        "'Python'",
+        "for <blank> in <blank>: print(char)",
+        "char"
+    ]
+}

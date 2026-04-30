@@ -1,0 +1,19 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "questionText": "Complete the if-else statement so it prints 'Positive' if x is at least 0, otherwise prints 'Negative'.",
+  "incompleteCode": "[Zone1] x [Zone2] 0 [Zone3]\n    print(\"Positive\")\n[Zone4]\n    print(\"Negative\")",
+  "dragItems": [
+    "if",
+    ">=",
+    ":",
+    "else:"
+  ],
+  "correctAnswer": [
+    "if",
+    ">=",
+    ":",
+    "else:"
+  ],
+  "explanation": "Use if x >= 0: for non-negative values, and else: for the negative case."
+}

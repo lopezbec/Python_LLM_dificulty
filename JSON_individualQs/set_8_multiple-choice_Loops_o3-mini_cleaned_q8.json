@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Consider the following code snippet:\n\ni = 0\nnums = []\nwhile i < 5:\n    nums.append(i)\n    i += 2\n\nWhat is the final value of the list nums?",
+  "options": {
+    "A": "[0, 2, 4]",
+    "B": "[0, 2, 4, 6]",
+    "C": "[0, 1, 2, 3, 4]",
+    "D": "[2, 4, 6, 8]"
+  },
+  "correct_answer": "A"
+}

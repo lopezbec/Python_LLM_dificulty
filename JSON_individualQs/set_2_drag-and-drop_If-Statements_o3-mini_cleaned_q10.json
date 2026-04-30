@@ -1,0 +1,26 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Drag and drop the code lines to correctly construct a function that checks a number and prints whether it is zero, positive, or negative using nested if statements.",
+  "instruction": "Arrange these code snippets in the proper order so that the function is correctly defined.",
+  "draggable_items": [
+    "    if num >= 0:",
+    "    else:",
+    "def check_number(num):",
+    "        print('Zero')",
+    "        print('Positive number')",
+    "        if num == 0:",
+    "    print('Negative number')",
+    "        else:"
+  ],
+  "correct_order": [
+    "def check_number(num):",
+    "    if num >= 0:",
+    "        if num == 0:",
+    "            print('Zero')",
+    "        else:",
+    "            print('Positive number')",
+    "    else:",
+    "        print('Negative number')"
+  ]
+}

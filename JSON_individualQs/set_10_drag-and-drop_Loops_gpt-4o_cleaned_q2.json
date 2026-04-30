@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blanks to complete a loop that prints numbers 0 to 4.\n\nfor i in range(___):\n    print(i)",
+  "options": [
+    "4",
+    "5",
+    "0",
+    "10"
+  ],
+  "answer": "5"
+}

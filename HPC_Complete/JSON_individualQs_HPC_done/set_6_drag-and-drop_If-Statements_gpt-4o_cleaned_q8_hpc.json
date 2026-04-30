@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if a == b:",
+        "elif a > b:",
+        "elif a < b:"
+    ]
+}

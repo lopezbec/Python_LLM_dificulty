@@ -1,0 +1,6 @@
+{
+  "question": "When using an if statement, if no conditions are met, Python will simply _____ without throwing an error.",
+  "difficulty": 9,
+  "answer": "continue",
+  "correct": true
+}

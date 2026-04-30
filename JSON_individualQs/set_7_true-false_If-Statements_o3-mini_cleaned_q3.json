@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "An if-statement's block in Python is executed even if the condition is False.",
+  "answer": false
+}

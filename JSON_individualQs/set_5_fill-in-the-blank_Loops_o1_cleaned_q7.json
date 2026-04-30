@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: The ______ statement is used as a placeholder in a loop or function body where no code is executed.",
+  "correct_answer": "pass"
+}

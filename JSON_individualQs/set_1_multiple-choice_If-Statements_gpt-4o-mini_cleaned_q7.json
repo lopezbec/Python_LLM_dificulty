@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In the following code snippet, what will the output be if y = 0? \n\n```python\nif y:\n    print('Truth')\nelif y is 0:\n    print('Zero')\nelse:\n    print('False')\n```",
+  "options": [
+    "Truth",
+    "Zero",
+    "False",
+    "No output"
+  ],
+  "correct_answer": "Zero"
+}

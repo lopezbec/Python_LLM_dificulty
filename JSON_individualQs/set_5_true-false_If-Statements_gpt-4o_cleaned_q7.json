@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The condition in an 'if' statement can only be an expression that evaluates to a boolean.",
+  "answer": false
+}

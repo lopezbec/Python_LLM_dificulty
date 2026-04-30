@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "for num in range(5):",
+        "if num == 3:",
+        "continue",
+        "print(num)",
+        "num",
+        "A) 0 1 2 3 4",
+        "B) 0 1 2 4",
+        "C) 1 2 3 4",
+        "D) None"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Using a loop with a collection like a dictionary will allow you to iterate through its _____ and values.",
+  "answer": "keys"
+}

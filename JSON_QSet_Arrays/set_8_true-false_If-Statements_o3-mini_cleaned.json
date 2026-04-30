@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "The 'if' statement in Python is used to execute a block of code only if a specified condition is true.",
+    "correctAnswer": true
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "In Python, every 'if' statement must be accompanied by an 'else' clause.",
+    "correctAnswer": false
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Python uses the keyword 'elif' to handle multiple conditions within a single decision structure.",
+    "correctAnswer": true
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "The colon ':' at the end of an if-statement header in Python is optional.",
+    "correctAnswer": false
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "It is possible to nest if-statements within other if-statements in Python.",
+    "correctAnswer": true
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Python's if-statements do not support inequality operators like '>' or '<', and can only test for equality.",
+    "correctAnswer": false
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Using a single equal sign '=' in the condition of an if-statement in Python will result in an assignment rather than a comparison, leading to a syntax error.",
+    "correctAnswer": true
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "An if-statement block in Python can legally be empty if the programmer uses the 'pass' statement as a placeholder.",
+    "correctAnswer": true
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "Indentation in Python is essential as it determines the grouping of statements under an if-statement block.",
+    "correctAnswer": true
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Examine the following code:\n\nif 5 > 3:\n    print('Yes')\nelse:\n    print('No')\n\nThe else block will always execute regardless of the condition.",
+    "correctAnswer": false
+  }
+]

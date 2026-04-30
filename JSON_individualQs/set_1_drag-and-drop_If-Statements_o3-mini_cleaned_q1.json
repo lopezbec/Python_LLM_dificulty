@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "prompt": "Drag and drop the code blocks to write a simple if\u2010statement that prints 'Hello' when 5 is greater than 3.",
+  "drag_items": [
+    "if",
+    "5 > 3:",
+    "print('Hello')"
+  ],
+  "correct_order": [
+    "if",
+    "5 > 3:",
+    "print('Hello')"
+  ],
+  "explanation": "An if\u2010statement starts with the keyword 'if', followed by a condition ending with a colon, then the indented action."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, the basic syntax for an if-statement starts with the keyword 'if' followed by a _____ (e.g., if condition:).",
+    "answer": "condition"
+  },
+  {
+    "difficulty": 2,
+    "question": "An if-statement can be followed by an optional _____ block, which executes when the condition is False.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 3,
+    "question": "In an if-statement, the _____ keyword allows you to test multiple conditions at once.",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 4,
+    "question": "The correct indentation for blocks of code under an if-statement in Python is typically _____ spaces.",
+    "answer": "4"
+  },
+  {
+    "difficulty": 5,
+    "question": "To compare two values in an if-statement, you can use the _____ operator, which evaluates whether two values are equal.",
+    "answer": "=="
+  },
+  {
+    "difficulty": 6,
+    "question": "The else block in an if-statement must be placed _____ the if block in order to be syntactically correct.",
+    "answer": "after"
+  },
+  {
+    "difficulty": 7,
+    "question": "When you want to execute a block of code only if two conditions are both true, you should use the _____ operator in your if-statement.",
+    "answer": "and"
+  },
+  {
+    "difficulty": 8,
+    "question": "If you want to check if a variable 'x' is either less than 10 or greater than 20, the correct condition would be 'if _____ or x > 20:'.",
+    "answer": "x < 10"
+  },
+  {
+    "difficulty": 9,
+    "question": "To ensure that a block of code only runs if a variable 'x' is negative, you would write: 'if x < 0: _____'.",
+    "answer": "code_block"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, the expression 'if (x == 5) and (y != 10):' uses _____ to combine two logical expressions.",
+    "answer": "and"
+  }
+]

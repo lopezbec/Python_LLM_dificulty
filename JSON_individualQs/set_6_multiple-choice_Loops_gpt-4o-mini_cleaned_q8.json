@@ -1,0 +1,11 @@
+{
+  "question": "What will the result of the following code be?\n\nfor x in range(4):\n    for y in range(x):\n        print(x, y)\n\n",
+  "options": [
+    "No output",
+    "Pairs of numbers where y is less than x",
+    "Pairs of numbers where x is less than y",
+    "Pairs of numbers 0,1; 0,2; 1,2"
+  ],
+  "correct_answer": "Pairs of numbers where y is less than x",
+  "difficulty": 8
+}

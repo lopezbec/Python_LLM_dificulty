@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "question": "Fill in the missing comparison so the if statement prints a message only when y is smaller than 10.",
+  "code": "y = 4\nif [BLANK]:\n    print(\"y is less than 10\")",
+  "choices": [
+    "y > 10",
+    "y <= 10",
+    "y < 10"
+  ],
+  "correctAnswer": "y < 10"
+}

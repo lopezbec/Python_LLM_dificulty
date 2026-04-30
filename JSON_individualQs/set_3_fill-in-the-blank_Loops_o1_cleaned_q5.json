@@ -1,0 +1,6 @@
+{
+  "difficulty": 5,
+  "type": "fill-in-the-blank",
+  "question": "In Python, a '___' statement inside a loop can be used to skip the rest of the current iteration and continue with the next iteration.",
+  "correct_answer": "continue"
+}

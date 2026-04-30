@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "An if-statement checks whether a condition is __ to decide whether to execute a block of code.",
+  "correct_answer": "True"
+}

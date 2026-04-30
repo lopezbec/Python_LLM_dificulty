@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Python's 'for' loop implicitly creates an iterator and iterates until it raises a StopIteration exception.",
+  "answer": true
+}

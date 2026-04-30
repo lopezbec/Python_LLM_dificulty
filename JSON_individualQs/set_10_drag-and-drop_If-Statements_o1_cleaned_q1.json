@@ -1,0 +1,18 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if x is greater than 3. Print 'Yes' if the condition is true.",
+  "codeSnippet": "x = 4\n[1] x [2] 3:\n    [3](\"Yes\")",
+  "dragItems": [
+    "if",
+    ">",
+    "print"
+  ],
+  "correctAnswer": [
+    "if",
+    ">",
+    "print"
+  ],
+  "explanation": "Use 'if x > 3:' and then call 'print(\"Yes\")' inside the if-block."
+}

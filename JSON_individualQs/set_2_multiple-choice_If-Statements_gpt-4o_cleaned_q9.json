@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following if-statement structures allows checking multiple conditions and executing appropriate code for the first true condition?",
+  "difficulty": 9,
+  "options": {
+    "A": "if-else",
+    "B": "if-elif",
+    "C": "if",
+    "D": "while-if"
+  },
+  "correct_answer": "B"
+}

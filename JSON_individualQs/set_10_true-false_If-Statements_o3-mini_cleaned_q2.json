@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "The code snippet 'if x = 10:\\n    print(\"Yes\")' is a valid if statement in Python.",
+  "answer": false
+}

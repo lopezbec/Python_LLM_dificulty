@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "It is not possible to nest a 'for' loop inside a 'while' loop in Python.",
+  "correctAnswer": "False"
+}

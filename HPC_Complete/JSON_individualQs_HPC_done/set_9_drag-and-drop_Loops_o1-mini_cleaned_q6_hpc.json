@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "while",
+        "n",
+        "result = 1\nwhile n > 0:\n    result *= __\n    __ -= 1\nprint(result)",
+        "n",
+        "n",
+        "n",
+        "i"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Writing an if statement without indenting the subsequent block properly will result in an IndentationError in Python.",
+  "answer": true
+}

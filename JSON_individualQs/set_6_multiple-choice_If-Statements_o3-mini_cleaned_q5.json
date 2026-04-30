@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which of the following correctly uses an if-elif-else statement to check if a number n is positive, negative, or zero?",
+  "options": [
+    "if n > 0:\n    print('Positive')\nelif n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+    "if n > 0:\n    print('Positive')\nelse if n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+    "if (n > 0): print('Positive')\nif (n < 0): print('Negative')\nif (n == 0): print('Zero')",
+    "if n > 0 then print('Positive') else if n < 0 then print('Negative') else print('Zero')"
+  ],
+  "correct_answer": "if n > 0:\n    print('Positive')\nelif n < 0:\n    print('Negative')\nelse:\n    print('Zero')"
+}

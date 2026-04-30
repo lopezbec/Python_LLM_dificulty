@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What is the output of the following code snippet?\n\ni = 1\nwhile i < 10:\n    print(i, end=' ')\n    i *= 2\nelse:\n    print('Done', end=' ')\n\nSelect the correct output.",
+  "options": [
+    "1 2 4 8 Done",
+    "1 2 4 8",
+    "1 2 4 8 16 Done",
+    "Infinite loop"
+  ],
+  "correctAnswer": "1 2 4 8 Done"
+}

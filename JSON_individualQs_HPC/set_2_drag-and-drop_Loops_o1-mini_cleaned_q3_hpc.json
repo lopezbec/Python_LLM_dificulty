@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "initialize loop",
+        "check condition",
+        "execute body",
+        "update counter"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements correctly breaks out of a loop in Python?",
+  "difficulty": 3,
+  "options": [
+    "continue",
+    "break",
+    "pass",
+    "exit"
+  ],
+  "answer": "break"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "Using a 'for' loop, you can modify the elements of a list directly while iterating over it.",
+  "answer": false,
+  "difficulty": 3
+}

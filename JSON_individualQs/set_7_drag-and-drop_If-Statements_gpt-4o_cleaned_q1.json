@@ -1,0 +1,17 @@
+{
+  "question": "Level 1: Basic If-statement Structure",
+  "instruction": "Drag each component to its correct position in the if-statement.",
+  "difficulty": 1,
+  "code_blocks": [
+    "if __condition__:",
+    "    __print_statement__"
+  ],
+  "options": [
+    "x > 0",
+    "print('Positive number')"
+  ],
+  "correct_structure": {
+    "__condition__": "x > 0",
+    "__print_statement__": "print('Positive number')"
+  }
+}

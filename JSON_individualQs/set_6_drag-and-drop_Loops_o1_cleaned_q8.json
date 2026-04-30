@@ -1,0 +1,18 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question_text": "Complete the while loop so that it prints only odd numbers from 1 to 9.",
+  "code_snippet": "num = 1\nwhile num < 10:\n    if num % 2 == 1:\n        print(num)\n    ____",
+  "drag_items": [
+    "num += 1",
+    "num -= 1",
+    "continue",
+    "break"
+  ],
+  "drop_zones": [
+    "Placeholder 1"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "num += 1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blanks for the if-elif-else scenario: If it rains, then _____; elif it snows, _____; else _____;",
+  "options": [
+    "carry an umbrella",
+    "make a snowman",
+    "enjoy the sunshine"
+  ],
+  "correct_answer": [
+    "carry an umbrella",
+    "make a snowman",
+    "enjoy the sunshine"
+  ]
+}

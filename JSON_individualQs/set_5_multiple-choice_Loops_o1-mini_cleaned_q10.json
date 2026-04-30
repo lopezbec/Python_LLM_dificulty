@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "question": "What is the output of the following generator expression when converted to a list?\n\ngen = (x**2 for x in range(4) if x % 2 == 0)\nprint(list(gen))",
+  "options": {
+    "A": "[0, 1, 4]",
+    "B": "[0, 4]",
+    "C": "[0, 4, 16]",
+    "D": "[0, 1, 4, 9]"
+  },
+  "answer": "B",
+  "difficulty": 10
+}

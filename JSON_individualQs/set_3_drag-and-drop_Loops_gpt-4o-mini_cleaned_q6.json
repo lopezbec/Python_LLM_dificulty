@@ -1,0 +1,16 @@
+{
+  "question": "Structure the loop to break when a number equals 3.",
+  "options": [
+    "for number in range(6):",
+    "if number == 3:",
+    "break",
+    "print(number)"
+  ],
+  "correctOrder": [
+    "for number in range(6):",
+    "print(number)",
+    "if number == 3:",
+    "break"
+  ],
+  "difficulty": 6
+}

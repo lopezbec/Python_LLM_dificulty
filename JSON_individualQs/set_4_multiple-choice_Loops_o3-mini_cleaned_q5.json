@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Consider the following code snippet:\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count -= 1\n\nWhat will happen when this code is executed?",
+  "options": [
+    "It creates an infinite loop printing decreasing numbers",
+    "It prints 0, 1, 2 and then stops",
+    "It results in a runtime error because subtraction in a while loop is not allowed",
+    "It prints nothing because the loop condition is never met"
+  ],
+  "correct_answer": "It creates an infinite loop printing decreasing numbers"
+}

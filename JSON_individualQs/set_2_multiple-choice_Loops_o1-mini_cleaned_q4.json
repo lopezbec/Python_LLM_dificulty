@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "question": "What is the purpose of the `break` statement in a loop?",
+  "options": {
+    "A": "To skip the current iteration and continue with the next one",
+    "B": "To terminate the loop immediately",
+    "C": "To pause the loop execution temporarily",
+    "D": "To restart the loop from the beginning"
+  },
+  "answer": "B",
+  "difficulty": 4
+}

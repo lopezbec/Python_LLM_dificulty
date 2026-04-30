@@ -1,0 +1,13 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "type": "multiple-choice",
+  "question": "What happens if you omit the break statement inside a while loop that has a condition guaranteed to be true (e.g., while True:)?",
+  "options": [
+    "A) The loop finishes automatically after one iteration.",
+    "B) Python raises a SyntaxError.",
+    "C) The loop will run indefinitely unless another way of exiting the loop is provided.",
+    "D) The loop body is skipped entirely."
+  ],
+  "correct_answer": "C"
+}

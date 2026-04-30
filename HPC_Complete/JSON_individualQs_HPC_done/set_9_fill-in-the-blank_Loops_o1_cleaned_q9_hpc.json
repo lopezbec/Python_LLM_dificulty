@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "data = {'a': 1, 'b': 2}",
+        "for key, value in data.__________:",
+        "print(key, value)"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "dictionary.items() returns key-value pairs in a guaranteed sorted order by keys when using a 'for' loop.",
+  "correct_answer": false
+}

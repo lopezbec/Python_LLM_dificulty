@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "An if-statement can be followed by optional clauses such as 'elif', which stands for ____ ____.",
+  "answer": "else if"
+}

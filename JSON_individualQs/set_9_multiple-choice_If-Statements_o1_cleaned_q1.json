@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "question": "Which Python keyword is used to begin a simple conditional statement?",
+  "options": [
+    "if",
+    "for",
+    "while",
+    "elif"
+  ],
+  "correctAnswer": "if",
+  "explanation": "In Python, 'if' is the keyword used to start a conditional statement."
+}

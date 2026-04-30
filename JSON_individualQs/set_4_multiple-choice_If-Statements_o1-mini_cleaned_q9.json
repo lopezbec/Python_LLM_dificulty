@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 5\nif x > 3 or x < 2:\n    print(\"Condition is True\")\nelse:\n    print(\"Condition is False\")\n```",
+  "options": [
+    "Condition is True",
+    "Condition is False",
+    "Nothing is printed",
+    "An error occurs"
+  ],
+  "answer": "A"
+}

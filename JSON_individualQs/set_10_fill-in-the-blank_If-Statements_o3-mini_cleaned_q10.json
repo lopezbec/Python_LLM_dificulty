@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank: Identify the missing keyword in the following code snippet:\n\nif x > 10:\n    print('Greater than 10')\n_____ x == 10:\n    print('Equal to 10')\nelse:\n    print('Less than 10')\n\nFill in the blank with the correct keyword.",
+  "answer": "elif"
+}

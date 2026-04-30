@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Match each loop with an appropriate use case.",
+  "choices": [
+    "for loop",
+    "while loop"
+  ],
+  "use_cases": [
+    "Count down from 10 to 1.",
+    "Prompt user to guess a number until correct."
+  ],
+  "correct_answers": {
+    "for loop": "Count down from 10 to 1.",
+    "while loop": "Prompt user to guess a number until correct."
+  }
+}

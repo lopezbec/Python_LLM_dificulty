@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (condition): elif: else:",
+        "if (condition): elif (condition): else:",
+        "if: elif: else",
+        "if condition: elif: else condition:"
+    ]
+}

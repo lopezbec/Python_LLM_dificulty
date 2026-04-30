@@ -1,0 +1,6 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank with the correct operator to check if x is greater than 5: if x ___ 5: print(\"Greater than 5\").",
+  "answer": ">"
+}

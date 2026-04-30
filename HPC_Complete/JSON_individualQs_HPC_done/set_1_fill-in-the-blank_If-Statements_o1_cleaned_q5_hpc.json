@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if day == \"Monday\":",
+        "______ time == \"morning\":",
+        "print(\"It's Monday morning!\")"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "result = 'Yes' ____ condition else 'No'",
+        "'result'",
+        "'Yes'",
+        "'condition'",
+        "'No'"
+    ]
+}

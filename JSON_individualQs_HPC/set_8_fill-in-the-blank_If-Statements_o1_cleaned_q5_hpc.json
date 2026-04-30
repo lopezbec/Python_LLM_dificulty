@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "fruit",
+        "if fruit == 'apple' ______ fruit == 'banana': print('Fruit is either apple or banana')",
+        "or",
+        "and",
+        "else",
+        "not"
+    ]
+}

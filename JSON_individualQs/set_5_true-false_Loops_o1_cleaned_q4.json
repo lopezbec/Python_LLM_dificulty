@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "A 'for' loop can iterate over the values of a dictionary by using the values() method.",
+  "correctAnswer": "True"
+}

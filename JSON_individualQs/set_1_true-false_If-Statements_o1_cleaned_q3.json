@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Python enforces indentation for code within an 'if' statement.",
+  "correct_answer": "True"
+}

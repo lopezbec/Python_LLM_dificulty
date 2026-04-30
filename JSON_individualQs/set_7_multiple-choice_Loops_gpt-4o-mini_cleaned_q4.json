@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "How many times will 'Hello' be printed?\n\nfor i in range(4):\n    print('Hello')\n",
+  "options": [
+    "3 times",
+    "4 times",
+    "5 times",
+    "0 times"
+  ],
+  "answer": "4 times"
+}

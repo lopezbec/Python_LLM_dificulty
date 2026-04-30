@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the code:\n\nnumber = 7\nif number < 5:\n    print(\"Less than 5\")\nelif number < 10:\n    print(\"Between 5 and 10\")\nelse:\n    print(\"10 or more\")\n\nWhat is the output?",
+  "options": [
+    "A) Less than 5",
+    "B) Between 5 and 10",
+    "C) 10 or more",
+    "D) Error: 'elif' is not a valid keyword"
+  ],
+  "correctAnswer": "B"
+}

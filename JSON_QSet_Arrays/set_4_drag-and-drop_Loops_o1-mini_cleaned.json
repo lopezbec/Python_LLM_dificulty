@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the following lines to form a simple `for` loop that prints numbers from 1 to 3.",
+    "options": [
+      "for i in range(1, 4):",
+      "    print(i)"
+    ],
+    "correct_order": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Match each loop type to its description.",
+    "options": [
+      {
+        "item": "for loop",
+        "match": null
+      },
+      {
+        "item": "while loop",
+        "match": null
+      },
+      {
+        "item": "iterate over a sequence",
+        "match": null
+      },
+      {
+        "item": "continue until condition is false",
+        "match": null
+      }
+    ],
+    "matches": {
+      "for loop": "iterate over a sequence",
+      "while loop": "continue until condition is false"
+    }
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the `for` loop components in the correct order.",
+    "options": [
+      "defining the range: `range(5)`",
+      "iterating variable: `for i in`",
+      "loop body: `print(i)`"
+    ],
+    "correct_order": [
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the nested `for` loops to print a 3x3 grid of asterisks (*)",
+    "options": [
+      "print('*', end=' ')",
+      "for j in range(3):",
+      "for i in range(3):",
+      "print()"
+    ],
+    "correct_order": [
+      2,
+      1,
+      0,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the loop with a conditional statement to print only even numbers from 1 to 5.",
+    "options": [
+      "for num in range(1, 6):",
+      "if num % 2 == 0:",
+      "print(num)"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the loop with a `break` statement to exit the loop when `i` equals 3.",
+    "options": [
+      "for i in range(1, 6):",
+      "    print(i)",
+      "    if i == 3:",
+      "        break"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the loop to calculate the factorial of a number using a `for` loop.",
+    "options": [
+      "result = 1",
+      "for i in range(1, n + 1):",
+      "    result *= i",
+      "print(result)"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the nested loops to create a multiplication table up to 3.",
+    "options": [
+      "print(i * j, end=' ')",
+      "for i in range(1, 4):",
+      "    for j in range(1, 4):",
+      "    print()"
+    ],
+    "correct_order": [
+      1,
+      2,
+      0,
+      3
+    ]
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the loop to find the sum of all even numbers in a list.",
+    "options": [
+      "total = 0",
+      "for num in numbers:",
+      "    if num % 2 == 0:",
+      "        total += num",
+      "print(total)"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question_type": "drag-and-drop",
+    "topic": "loops",
+    "question": "Arrange the nested loops with multiple conditions to generate all possible coordinate pairs (x, y) where x and y range from 1 to 3, but exclude pairs where x equals y.",
+    "options": [
+      "for x in range(1, 4):",
+      "    for y in range(1, 4):",
+      "        if x != y:",
+      "            print(f'({x}, {y})')"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

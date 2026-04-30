@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "counter = 0",
+        "while counter [___] 4:",
+        "print(\"Looping\")",
+        "counter += 1",
+        "[___]",
+        "<",
+        "<=",
+        "=="
+    ]
+}

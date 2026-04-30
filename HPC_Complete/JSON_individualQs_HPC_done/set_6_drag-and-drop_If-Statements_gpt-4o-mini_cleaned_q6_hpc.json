@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (x > 0) { if (x > 10) { ____; } }",
+        "console.log('X is large');",
+        "console.log('X is negative');",
+        "console.log('X is small'),",
+        "continue;"
+    ]
+}

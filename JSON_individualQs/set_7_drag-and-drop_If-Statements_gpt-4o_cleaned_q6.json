@@ -1,0 +1,21 @@
+{
+  "question": "Level 6: Multiple Conditions with Or",
+  "instruction": "Formulate a statement that involves an or logic.",
+  "difficulty": 6,
+  "code_blocks": [
+    "if __complex_condition__:",
+    "    __print_statement_1__",
+    "else:",
+    "    __print_statement_2__"
+  ],
+  "options": [
+    "x == 1 or y == 1",
+    "print('One of the conditions is true')",
+    "print('Neither condition is true')"
+  ],
+  "correct_structure": {
+    "__complex_condition__": "x == 1 or y == 1",
+    "__print_statement_1__": "print('One of the conditions is true')",
+    "__print_statement_2__": "print('Neither condition is true')"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "question": "Complete the following code snippet: if (age < 18) { ____ } else { print('Adult'); }",
+  "options": [
+    "print('Minor');",
+    "pass;",
+    "continue;"
+  ],
+  "answer": "print('Minor');",
+  "difficulty": 5
+}

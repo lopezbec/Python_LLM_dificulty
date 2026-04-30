@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Given the code snippet below, what will be the output?\n\nx = 'spam'\n\ny = 'eggs' if x == 'ham' else 'bacon'\n\nif (len(x) > 4) and (y == 'eggs'):\n    print('Good')\nelif (len(x) > 4) or (y == 'bacon'):\n    print('Better')\nelse:\n    print('Best')",
+  "options": [
+    "Good",
+    "Better",
+    "Best",
+    "An error will occur"
+  ],
+  "correct_answer": "Better"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Using the `break` statement inside a loop will terminate the nearest enclosing loop immediately.",
+  "answer": "True"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Every if statement in Python must have an accompanying else clause to handle the false condition.",
+  "answer": "False"
+}

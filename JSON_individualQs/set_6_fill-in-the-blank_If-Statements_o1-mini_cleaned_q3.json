@@ -1,0 +1,7 @@
+{
+  "question": "Complete the blank to include an else clause that executes when the if condition is False:\n\n```python\nif age >= 18:\n    print(\"Adult\")\n____:\n    print(\"Minor\")\n```",
+  "answer": "else",
+  "difficulty": 3,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

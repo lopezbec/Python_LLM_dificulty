@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if day == 'Monday':\n    <blank>\nelif <blank>:\n    print('Midweek')\nelse:\n    print('Weekend')",
+        "day",
+        "print('Start of week')",
+        "day == 'Wednesday'",
+        "day == 'Friday'"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The opposite of the logical operator '==' in an if-statement is the ____ operator.",
+  "answer": "!="
+}

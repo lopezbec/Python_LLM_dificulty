@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank to complete the optional clause for a for-else structure:\n\nfor x in range(3):\n    if x == 1:\n        break\n________:\n    print(\"Loop completed without a break\")",
+  "answer": "else"
+}

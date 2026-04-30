@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the code snippet:\n\nnumbers = [3, 5, 7]\nfor num in numbers:\n    if num % 2 == 0:\n        print('Even number found:', num)\n        break\nelse:\n    print('No even number found')\n\nWhat is the output?",
+  "options": [
+    "Even number found: 5",
+    "Even number found: 7",
+    "No even number found",
+    "SyntaxError: else must not follow a 'for'"
+  ],
+  "correct_answer": "No even number found"
+}

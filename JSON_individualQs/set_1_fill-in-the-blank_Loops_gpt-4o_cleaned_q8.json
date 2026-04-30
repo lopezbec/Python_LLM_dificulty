@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To avoid infinite loops, the ______ within the loop must eventually evaluate to False.",
+  "answer": "condition"
+}

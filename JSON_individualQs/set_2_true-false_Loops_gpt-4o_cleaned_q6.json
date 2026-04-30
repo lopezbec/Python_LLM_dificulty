@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A loop can be used to apply the same operation to all elements of a list without modifying the original list.",
+  "correct_answer": true
+}

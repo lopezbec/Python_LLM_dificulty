@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: In a for loop, the statement `range(5)` generates numbers starting from ____, up to but not including ____, with a default step of ____. ",
+  "answer": "0, 5, 1",
+  "difficulty": 3
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "description": "Fill in the blanks to print 'Yes' if the value of y is not zero.",
+  "premise": "y = 3\nif __:\n    print('Yes')",
+  "options": [
+    "y != 0",
+    "y == 0",
+    "y > 0"
+  ],
+  "correct_answer": "y != 0"
+}

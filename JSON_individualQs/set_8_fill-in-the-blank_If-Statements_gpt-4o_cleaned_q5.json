@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "To check if two values are not equal inside an if-statement, you use the __ operator.",
+  "answer": "!="
+}

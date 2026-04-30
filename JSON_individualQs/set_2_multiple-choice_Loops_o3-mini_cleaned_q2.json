@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)",
+  "options": {
+    "A": "0 1 2",
+    "B": "1 2 3",
+    "C": "0 1 2 3",
+    "D": "1 2 3 4"
+  },
+  "correctAnswer": "A"
+}

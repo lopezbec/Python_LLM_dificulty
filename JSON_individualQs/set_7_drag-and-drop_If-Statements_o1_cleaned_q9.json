@@ -1,0 +1,17 @@
+{
+  "difficulty": 9,
+  "question": "Complete the function to assign a letter grade based on the numeric score in 'grade'.",
+  "instruction": "Drag the correct statements into the placeholders.",
+  "partiallyCompletedCode": "def evaluate_grade(grade):\n    ____ grade >= 90:\n        print('A')\n    ____ grade >= 80:\n        print('B')\n    elif grade >= 70:\n        print('C')\n    elif grade >= 60:\n        print('D')\n    else:\n        print('F')",
+  "dragItems": [
+    "if",
+    "elif",
+    "while",
+    "for"
+  ],
+  "correctAnswer": [
+    "if",
+    "elif"
+  ],
+  "explanation": "Begin with 'if grade >= 90' for an A, then use 'elif grade >= 80' to proceed through the other letter grades."
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output?\n\nx = [1, 2, 3]\nif len(x) == 3:\n    print('Three')\nelse:\n    print('Not Three')",
+  "options": [
+    "Three",
+    "Not Three",
+    "Error",
+    "None"
+  ],
+  "answer": "Three",
+  "difficulty": 8
+}

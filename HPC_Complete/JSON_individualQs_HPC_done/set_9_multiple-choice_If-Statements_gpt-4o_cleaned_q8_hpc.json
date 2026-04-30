@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 3",
+        "y = 4",
+        "if x > y:",
+        "print('x is greater')",
+        "print('Comparison done')",
+        "else:",
+        "print('y is greater or equal')",
+        "else"
+    ]
+}

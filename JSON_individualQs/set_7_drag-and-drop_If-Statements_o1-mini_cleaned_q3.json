@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Drag the correct indentation to complete the if-statement:",
+  "codeSnippet": "if temperature > 30:\n___ print(\"It's a hot day\")\nprint(\"Stay hydrated\")",
+  "dragOptions": [
+    "    ",
+    "        ",
+    "No indentation",
+    "Invalid indentation"
+  ],
+  "dropZones": [
+    "___"
+  ],
+  "correctAnswers": {
+    "___": "    "
+  }
+}

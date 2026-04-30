@@ -1,0 +1,5 @@
+{
+  "question": "The call 'range(5)' in a 'for' loop will iterate over the values 1, 2, 3, 4, 5 in Python.",
+  "difficulty": 8,
+  "correct_answer": "False"
+}

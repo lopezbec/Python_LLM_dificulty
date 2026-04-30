@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "The conditional expression using the _____ operator allows a short-hand way to return a value based on a condition.",
+  "answer": "ternary"
+}

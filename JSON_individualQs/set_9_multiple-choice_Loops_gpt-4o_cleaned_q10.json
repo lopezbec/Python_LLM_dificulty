@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the output of this nested loop code?\n\nfor i in range(1, 4):\n    for j in range(i):\n        print(i, end='')\n    print()\n",
+  "choices": [
+    "1\n22\n333",
+    "1\n12\n123",
+    "123\n",
+    "Error"
+  ],
+  "answer": "1\n22\n333"
+}

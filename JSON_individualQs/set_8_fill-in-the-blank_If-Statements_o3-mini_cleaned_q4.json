@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: The ______ clause in Python is used to specify a block of code that runs when the if-statement condition is false.",
+  "answer": "else"
+}

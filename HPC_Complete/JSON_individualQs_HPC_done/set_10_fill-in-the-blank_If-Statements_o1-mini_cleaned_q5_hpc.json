@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if not ___:",
+        "print('The list is empty')"
+    ]
+}

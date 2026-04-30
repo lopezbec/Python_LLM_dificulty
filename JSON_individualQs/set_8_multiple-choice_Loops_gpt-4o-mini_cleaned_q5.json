@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What will be the output of the following code?\n\ncount = 0\nwhile count < 5:\n    count += 1\nprint(count)\n",
+  "options": [
+    "0",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": "5"
+}

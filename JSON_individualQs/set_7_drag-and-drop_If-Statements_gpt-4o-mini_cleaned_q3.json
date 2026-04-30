@@ -1,0 +1,14 @@
+{
+  "difficulty": 3,
+  "question": "Match the statement to its type: 'if (x == 10) { /* Code */ }'",
+  "options": {
+    "A": "Conditional statement",
+    "B": "Looping statement",
+    "C": "Function definition",
+    "D": "Return statement"
+  },
+  "correctMatch": {
+    "statement": "if (x == 10) { /* Code */ }",
+    "type": "A"
+  }
+}

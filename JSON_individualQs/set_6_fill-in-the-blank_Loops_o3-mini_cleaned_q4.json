@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank: The keyword ______ is used to exit a loop prematurely.",
+  "correct_answer": "break"
+}

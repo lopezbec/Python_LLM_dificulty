@@ -1,0 +1,10 @@
+{
+  "question": "Choose the right condition to set the flag if x is equal to 10: if ( ____ ) { flag = True; }",
+  "options": [
+    "x == 10",
+    "x != 10",
+    "x > 10"
+  ],
+  "answer": "x == 10",
+  "difficulty": 4
+}

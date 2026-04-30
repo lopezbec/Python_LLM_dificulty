@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "prompt": "Drag and drop the blocks to form an if\u2010statement that checks if variable x is positive, and if so, prints 'Positive'.",
+  "drag_items": [
+    "if",
+    "x > 0:",
+    "print('Positive')"
+  ],
+  "correct_order": [
+    "if",
+    "x > 0:",
+    "print('Positive')"
+  ],
+  "explanation": "The condition x > 0 is checked after the if keyword, and if it's true, the print statement executes."
+}

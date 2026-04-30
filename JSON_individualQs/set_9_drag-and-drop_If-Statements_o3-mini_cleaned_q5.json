@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question_type": "drag-and-drop",
+  "question_text": "Drag and drop the missing tokens to complete the if-statement that checks if 'number' is less than or equal to 100:\n[BLANK1] number [BLANK2] 100:\n    print('Valid')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to begin an if-statement",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator for less than or equal comparison",
+      "correct_answer": "<="
+    }
+  ],
+  "options": [
+    "if",
+    "<=",
+    "==",
+    ">"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "difficulty": 5,
+  "type": "true-false",
+  "question": "An else clause after a for loop in Python executes only when the loop has finished normally without encountering a break statement.",
+  "correctAnswer": "True"
+}

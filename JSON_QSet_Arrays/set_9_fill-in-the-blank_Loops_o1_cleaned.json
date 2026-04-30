@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank so this for loop prints numbers 0, 1, and 2:\n\nfor i in __________:\n    print(i)",
+    "answer": "range(3)"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank with the correct loop keyword to repeatedly run code as long as x < 3:\n\nx = 0\n________ x < 3:\n    x += 1\n    print(x)",
+    "answer": "while"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank to stop the loop when i reaches 2:\n\nfor i in range(5):\n    if i == 2:\n        __________\n    print(i)",
+    "answer": "break"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank to skip printing the number 2:\n\nfor i in range(4):\n    if i == 2:\n        __________\n    print(i)",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank so that only the outer loop variable j is printed in this nested loop:\n\nfor j in range(2):\n    for k in range(2):\n        print(________)",
+    "answer": "j"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank to complete the optional clause for a for-else structure:\n\nfor x in range(3):\n    if x == 1:\n        break\n________:\n    print(\"Loop completed without a break\")",
+    "answer": "else"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank to access both index and item:\n\nitems = ['apple', 'banana', 'cherry']\nfor index, item in __________(items):\n    print(index, item)",
+    "answer": "enumerate"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank to include only even squares in the list comprehension:\n\nsquares = [i**2 for i in range(5) if __________]",
+    "answer": "i % 2 == 0"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank to iterate over both keys and values of the dictionary:\n\ndata = {'a': 1, 'b': 2}\nfor key, value in data.__________:\n    print(key, value)",
+    "answer": "items"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank to iterate backwards through the range:\n\nfor x in __________(range(5)):\n    print(x)",
+    "answer": "reversed"
+  }
+]

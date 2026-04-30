@@ -1,0 +1,11 @@
+{
+  "question": "Which Python keyword is used to create a loop that runs for a specified range of values?",
+  "difficulty": 1,
+  "choices": [
+    "A) for",
+    "B) loop",
+    "C) iterate",
+    "D) repeat"
+  ],
+  "correct_answer": "A"
+}

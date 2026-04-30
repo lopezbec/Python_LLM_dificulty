@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "A 'for' loop in Python can only iterate over lists and tuples, but not over dictionaries.",
+  "correct_answer": false
+}

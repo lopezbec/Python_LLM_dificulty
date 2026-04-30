@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "After a for loop that iterates over a non-empty sequence, the loop variable retains the value of the last item processed.",
+  "correct_answer": true
+}

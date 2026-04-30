@@ -1,0 +1,52 @@
+{
+  "question": "Drag and drop the correct keywords to assign grades based on score, using nested if-statements and multiple conditions.",
+  "difficulty": 10,
+  "code": "score = 92\n__1__ score >= 90:\n    category = \"A\"\n    __2__ score > 95:\n        grade = \"A+\"\n    __3__:\n        grade = \"A\"\n__4__ score >= 80:\n    category = \"B\"\n    grade = \"B\"\n__5__:\n    category = \"C\"\n    grade = \"C\"",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "id": "__2__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "id": "__3__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "except",
+        "else"
+      ]
+    },
+    {
+      "id": "__4__",
+      "correctAnswer": "elif",
+      "possibleAnswers": [
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "id": "__5__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "finally",
+        "else"
+      ]
+    }
+  ]
+}

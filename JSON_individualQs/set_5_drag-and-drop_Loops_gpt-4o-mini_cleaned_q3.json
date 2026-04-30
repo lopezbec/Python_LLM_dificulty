@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Complete the code with proper syntax by dragging the correct elements: 'for i in ____: print(i)'",
+  "options": [
+    "range(5)",
+    "5",
+    "index(5)",
+    "list"
+  ],
+  "correct_answer": "range(5)"
+}

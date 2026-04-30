@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "questionType": "drag-and-drop",
+  "question": "Fill the placeholders to utilize if-elif-else and print 'Hot' if temp > 30, 'Warm' if 20 <= temp <= 30, otherwise 'Cold'.",
+  "codeSnippet": "temp = 25\nif temp > 30:\n    print(___)\n___ 20 <= temp <= 30:\n    print(___)\n___:\n    print(___)",
+  "draggables": [
+    "else",
+    "elif",
+    "Hot",
+    "Warm",
+    "Cold"
+  ],
+  "correctDrops": [
+    "Hot",
+    "elif",
+    "Warm",
+    "else",
+    "Cold"
+  ],
+  "explanation": "First branch is if temp > 30 prints 'Hot', second branch uses 'elif' for 20 <= temp <= 30 prints 'Warm', final 'else' prints 'Cold'."
+}

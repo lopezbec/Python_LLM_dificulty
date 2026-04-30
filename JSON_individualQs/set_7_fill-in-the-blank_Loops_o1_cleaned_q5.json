@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "A nested loop occurs when a loop is placed ______ another loop.",
+  "correct_answer": "inside"
+}

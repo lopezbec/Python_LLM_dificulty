@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "question_type": "drag-and-drop",
+  "question": "Drag the correct keyword to break the loop when 'i' equals 2.",
+  "code": "for i in range(5):\n    if i == 2:\n        ___\n    print(i)",
+  "options": [
+    "break",
+    "stop",
+    "exit"
+  ],
+  "correct_option": "break"
+}

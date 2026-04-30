@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Python's range() function used in a 'for' loop can take a negative step value to iterate backwards.",
+  "correct_answer": true
+}

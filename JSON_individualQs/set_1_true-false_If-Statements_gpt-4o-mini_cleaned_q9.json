@@ -1,0 +1,5 @@
+{
+  "question": "In Python, if the first if condition is true, the following elif conditions will still be checked.",
+  "difficulty": 9,
+  "answer": false
+}

@@ -1,0 +1,6 @@
+{
+  "difficulty": 6,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To combine two conditions that both must be True in an if-statement, you use the ____ operator.",
+  "answer": "and"
+}

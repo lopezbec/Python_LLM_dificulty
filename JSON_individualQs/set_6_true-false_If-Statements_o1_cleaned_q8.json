@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "When using multiple 'elif' statements, Python checks all remaining conditions even after one condition evaluates to True.",
+  "correct_answer": "False"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "In the following code snippet, what needs to be fixed to execute without an error?\n\nx = 10\nif x == 10\n    print('x is 10')",
+  "options": [
+    "Add a colon (:) after the if statement",
+    "Change == to =",
+    "Indent the print statement further",
+    "Nothing; the code is correct"
+  ],
+  "correct_answer": "Add a colon (:) after the if statement"
+}

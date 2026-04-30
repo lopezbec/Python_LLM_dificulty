@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for loop",
+        "range()",
+        "enumerate()",
+        "len()",
+        "zip()"
+    ]
+}

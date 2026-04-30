@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank to add an alternative condition:\n\nif x < 0:\n    print(\"Negative\")\n_____ x == 0:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+  "answer": "elif"
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if temperature > 30:",
+        "print('Hot')",
+        "if humidity > 70:",
+        "print('Humid')",
+        "else:",
+        "print('Not Hot')"
+    ]
+}

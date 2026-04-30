@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "How does a `while` loop in Python differ from a `for` loop?",
+  "options": [
+    "A `while` loop repeats based on a condition, a `for` loop iterates over a sequence.",
+    "A `for` loop repeats based on a condition, a `while` loop iterates over a sequence.",
+    "They are identical in functionality.",
+    "A `while` loop is used only with lists, a `for` loop with dictionaries."
+  ],
+  "correct_answer": "A `while` loop repeats based on a condition, a `for` loop iterates over a sequence."
+}

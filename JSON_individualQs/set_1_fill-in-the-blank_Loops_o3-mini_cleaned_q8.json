@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: When iterating over a dictionary's keys and values simultaneously in Python, you can use the ______ method.",
+  "answer": "items()"
+}

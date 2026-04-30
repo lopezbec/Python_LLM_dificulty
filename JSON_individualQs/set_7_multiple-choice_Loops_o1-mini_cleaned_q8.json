@@ -1,0 +1,10 @@
+{
+  "question": "What is the output of the following nested loop code?\n\n```python\nfor i in range(2):\n    for j in range(2):\n        print(i, j)\n```",
+  "options": {
+    "A": "0 0\n0 1\n1 0\n1 1",
+    "B": "0 0\n1 1",
+    "C": "0 1\n1 0",
+    "D": "0 0 1 1"
+  },
+  "answer": "A"
+}

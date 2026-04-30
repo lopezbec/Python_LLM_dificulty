@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "In Python, what happens when a 'for' loop iterates over an empty sequence and has an 'else' clause?",
+  "options": [
+    "The else clause is executed.",
+    "The else clause is not executed.",
+    "A runtime error occurs.",
+    "The code enters an infinite loop."
+  ],
+  "correct_answer": "The else clause is executed."
+}

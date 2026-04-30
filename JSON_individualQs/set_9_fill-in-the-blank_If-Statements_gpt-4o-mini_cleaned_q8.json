@@ -1,0 +1,6 @@
+{
+  "question": "To nest an if statement inside another, the inner if must be properly _____ to maintain its scope.",
+  "difficulty": 8,
+  "answer": "indented",
+  "correct": true
+}

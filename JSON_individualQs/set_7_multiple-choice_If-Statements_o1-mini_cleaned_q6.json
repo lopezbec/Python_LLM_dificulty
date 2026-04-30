@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "question": "Which of the following statements about if-elif-else chains is True in Python?",
+  "options": {
+    "A": "Only the first True condition is executed",
+    "B": "All True conditions are executed",
+    "C": "elif can only follow an else statement",
+    "D": "else can come before elif"
+  },
+  "correct_answer": "A",
+  "difficulty": 6,
+  "topic": "if statements"
+}

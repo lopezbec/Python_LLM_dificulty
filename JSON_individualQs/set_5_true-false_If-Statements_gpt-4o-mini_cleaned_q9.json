@@ -1,0 +1,5 @@
+{
+  "question": "An if-statement can be nested within another if-statement, allowing for the creation of complex decision structures in Python.",
+  "answer": true,
+  "difficulty": 9
+}

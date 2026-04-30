@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "To prevent errors from variable comparisons in an if-statement, use the ___ operator for equality checks.",
+  "answer": "=="
+}

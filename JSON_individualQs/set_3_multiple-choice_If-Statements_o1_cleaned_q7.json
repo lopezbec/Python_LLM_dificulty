@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In Python, what happens if none of the if or elif conditions are True and an else clause is specified?",
+  "options": [
+    "A) The program raises a SyntaxError",
+    "B) The first if statement is re-executed",
+    "C) The statements within the else block are run",
+    "D) Nothing happens; the else is ignored"
+  ],
+  "correctAnswer": "C"
+}

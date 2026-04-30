@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "while",
+        "for",
+        "do-while",
+        "foreach"
+    ]
+}

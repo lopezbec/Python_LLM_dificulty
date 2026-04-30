@@ -1,0 +1,10 @@
+{
+  "question": "Which indentation is correct for the if statement below?\n\n```python\nx = 3\nif x == 3:\nprint(\"x is three\")\n```",
+  "options": [
+    "Indent 'print' with one space",
+    "Indent 'print' with two spaces",
+    "Indent 'print' with four spaces",
+    "No indentation needed"
+  ],
+  "answer": "C"
+}

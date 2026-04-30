@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "if-statements",
+  "question": "Arrange the snippets to create an `if` statement that includes a compound condition with `or`.",
+  "options": [
+    "    print('At least one condition is true.')",
+    "if a > b or c < d:",
+    "    print('All conditions are false.')"
+  ],
+  "answer": [
+    "if a > b or c < d:",
+    "    print('At least one condition is true.')",
+    "else:",
+    "    print('All conditions are false.')"
+  ]
+}

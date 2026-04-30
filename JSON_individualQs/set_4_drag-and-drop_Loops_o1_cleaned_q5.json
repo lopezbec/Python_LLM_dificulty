@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct statement to stop this loop if i exceeds 10.",
+  "codeSnippet": "for i in range(20):\n    if i > 10:\n        ____\n    print(i)",
+  "options": [
+    "continue",
+    "break",
+    "pass"
+  ],
+  "correctAnswer": "break"
+}

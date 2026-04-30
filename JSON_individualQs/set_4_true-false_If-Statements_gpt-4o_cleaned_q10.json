@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, the 'and', 'or', and 'not' logical operators can be used within an 'if' condition to evaluate multiple expressions.",
+  "answer": true
+}

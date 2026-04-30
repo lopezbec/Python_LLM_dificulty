@@ -1,0 +1,10 @@
+{
+  "difficulty": 6,
+  "question": "Drag the correct snippet to create a nested loop that prints a multiplication table.",
+  "options": [
+    "for i in range(1, 5):\n    for j in range(1, 5):\n        print(i * j)",
+    "for i in range(1, 5):\n    for j in range(5):\n        print(i * j)",
+    "for i in range(0, 5):\n    for j in range(1, 6):\n        print(i * j)"
+  ],
+  "answer": "for i in range(1, 5):\n    for j in range(1, 5):\n        print(i * j)"
+}

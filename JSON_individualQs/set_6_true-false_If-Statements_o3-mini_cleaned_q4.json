@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "True or False: It is valid in Python to have multiple independent if statements to evaluate separate conditions.",
+  "correct_answer": true
+}

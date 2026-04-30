@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "To repeat a block of code as long as a condition remains True, we use the ________ statement in Python.",
+  "correct_answer": "while"
+}

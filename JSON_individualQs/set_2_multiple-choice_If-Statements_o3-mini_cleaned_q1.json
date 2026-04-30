@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is the proper way to start an if-statement in Python that checks if the variable x is greater than 10?",
+  "options": [
+    "if x > 10:",
+    "if (x > 10) then:",
+    "if: x > 10",
+    "if x > 10 {"
+  ],
+  "correct_answer": "if x > 10:"
+}

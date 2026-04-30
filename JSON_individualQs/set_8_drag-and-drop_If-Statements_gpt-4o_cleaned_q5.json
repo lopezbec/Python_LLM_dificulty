@@ -1,0 +1,14 @@
+{
+  "question": "Drag and drop the logical operators to evaluate if `b` is positive and even.",
+  "difficulty": 5,
+  "snippet": "if ___ and ___:\n    print('b is positive and even')",
+  "options": [
+    "b > 0",
+    "b % 2 == 0",
+    "b < 0"
+  ],
+  "correctAnswer": [
+    "b > 0",
+    "b % 2 == 0"
+  ]
+}

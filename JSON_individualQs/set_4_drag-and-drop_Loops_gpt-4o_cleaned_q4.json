@@ -1,0 +1,16 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blanks to print only the even numbers from 1 to 10 using a for loop.",
+  "code": "for i in range(1, 11):\n    if i % ___ == 0:\n        ___(i)",
+  "options": [
+    "print",
+    "2",
+    "0",
+    "i",
+    "10"
+  ],
+  "correct_answers": [
+    "2",
+    "print"
+  ]
+}

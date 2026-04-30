@@ -1,0 +1,17 @@
+{
+  "question_id": 4,
+  "difficulty": 4,
+  "question_text": "Drag and drop the correct variable to iterate over a list of fruits using a for loop.",
+  "code_snippet": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ____:\n    print(fruit)",
+  "draggable_items": {
+    "blank1": [
+      "fruits",
+      "range(fruits)",
+      "list",
+      "enumerate(fruits)"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "fruits"
+  }
+}

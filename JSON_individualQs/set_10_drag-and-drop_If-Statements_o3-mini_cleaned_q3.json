@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Drag and drop the correct keywords and operator to complete the if-else statement that checks if 'x' is greater than 0.",
+  "codeSnippet": "____ x ____ 0:\n    print('Positive')\n____:\n    print('Non-positive')",
+  "dragItems": [
+    "if",
+    ">",
+    "else"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": ">",
+    "drop3": "else"
+  }
+}

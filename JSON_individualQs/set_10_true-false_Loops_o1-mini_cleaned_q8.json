@@ -1,0 +1,5 @@
+{
+  "question": "In Python, omitting the condition in a 'while' loop will result in a syntax error.",
+  "difficulty": 8,
+  "answer": true
+}

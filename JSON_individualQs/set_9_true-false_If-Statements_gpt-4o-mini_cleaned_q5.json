@@ -1,0 +1,5 @@
+{
+  "question": "If-else statements in Python can only be used with boolean values; other data types cannot be used as conditions.",
+  "difficulty": 5,
+  "answer": false
+}

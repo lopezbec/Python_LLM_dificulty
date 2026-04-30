@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be the output of the following code?\n\nresult = []\nfor i in 'abcd':\n    result.append(i)\nprint(result)",
+  "options": [
+    "A) ['a', 'ab', 'abc', 'abcd']",
+    "B) ['abcd']",
+    "C) ['a', 'b', 'c', 'd']",
+    "D) ['d', 'c', 'b', 'a']"
+  ],
+  "correct_answer": "C"
+}

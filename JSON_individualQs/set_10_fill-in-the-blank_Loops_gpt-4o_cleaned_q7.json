@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "To iterate over a list of tuples called `pairs` where each tuple contains two elements, you can use the syntax `for x, y in ___:`.",
+  "answer": "pairs"
+}

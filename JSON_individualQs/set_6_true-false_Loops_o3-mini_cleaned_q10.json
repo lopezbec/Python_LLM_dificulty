@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "True or False: The step parameter in the range() function is compulsory; without it, a for loop will not work correctly.",
+  "correct_answer": false
+}

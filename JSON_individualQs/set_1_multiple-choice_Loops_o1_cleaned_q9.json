@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "In Python, which loop structure would you choose to simultaneously track the index and value of items in a list without manually incrementing a counter?",
+  "options": {
+    "A": "while with break",
+    "B": "for i, v in enumerate(sequence)",
+    "C": "for i in sequence",
+    "D": "for x, y in zip(sequence)"
+  },
+  "correctAnswer": "B"
+}

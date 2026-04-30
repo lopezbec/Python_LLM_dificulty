@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (grade >= 90) { print('A'); } ______ { print('B'); }",
+        "if (grade >= 80)",
+        "grade = 80",
+        "print('Passing')",
+        "if (grade < 90)"
+    ]
+}

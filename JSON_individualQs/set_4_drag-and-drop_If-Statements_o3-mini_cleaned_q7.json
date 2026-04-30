@@ -1,0 +1,19 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blanks to complete the if-statement with a compound condition using parentheses.\n\n_____ (x > 0 _____ x < 10):\n    print('x is in range')",
+  "blanks": [
+    "Blank1",
+    "Blank2"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "and",
+    "or",
+    ":"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": "and"
+  }
+}

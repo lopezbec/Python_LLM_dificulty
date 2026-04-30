@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "a = 10",
+        "b = 20",
+        "if a > 5 and b < 25:",
+        "print(\"Condition met\")",
+        "else:",
+        "print(\"Condition not met\")",
+        "Condition met",
+        "Condition not met",
+        "Error in condition",
+        "Nothing is printed"
+    ]
+}

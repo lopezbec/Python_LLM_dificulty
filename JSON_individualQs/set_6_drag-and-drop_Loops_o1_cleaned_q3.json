@@ -1,0 +1,20 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question_text": "Drag and drop the correct items to create a while loop that prints the numbers 1 to 3.",
+  "code_snippet": "num = 1\n\nwhile ____:\n    print(num)\n    ____\n",
+  "drag_items": [
+    "num < 4",
+    "num += 1",
+    "range(4)",
+    "for num in range(1, 4)"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "num < 4",
+    "Placeholder 2": "num += 1"
+  }
+}

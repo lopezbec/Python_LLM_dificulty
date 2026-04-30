@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In the context of loops, what does the 'continue' statement do?",
+  "options": [
+    "Exits the loop entirely.",
+    "Skips the current iteration and continues with the next.",
+    "Restarts the loop from the beginning.",
+    "Terminates the program."
+  ],
+  "correct_answer": "Skips the current iteration and continues with the next."
+}

@@ -1,0 +1,21 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question_text": "Drag these snippets into place to build a while loop that uses both continue and break statements, printing x values accordingly.",
+  "choices": [
+    "x = 0",
+    "while x < 5:",
+    "x += 1",
+    "if x == 2: continue",
+    "if x == 4: break",
+    "print(x)"
+  ],
+  "correct_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

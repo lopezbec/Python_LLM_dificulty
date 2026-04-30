@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The 'enumerate()' function can be used within a 'for' loop to obtain both the index and the element in each iteration.",
+  "correctAnswer": "True"
+}

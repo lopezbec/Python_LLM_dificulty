@@ -1,0 +1,27 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Which of the following code snippets demonstrates the use of an if-statement within a function to check if a number is positive?",
+  "options": [
+    {
+      "label": "A",
+      "text": "def check_number(x):\n    if x < 0:\n        return True\n    else:\n        return False",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "def check_number(x):\n    if x > 0:\n        return 'Positive'\n    else:\n        return 'Non-positive'",
+      "isCorrect": true
+    },
+    {
+      "label": "C",
+      "text": "def check_number(x):\n    if x == 0:\n        return 'Zero'\n    print('Non-zero')",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "def check_number(x):\n    print('Checking...')\n    return x",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Drag and drop the correct keywords to complete the if-elif-else statement that evaluates the sign of 'x'.",
+  "codeSnippet": "____ x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\n____:\n    print('Negative')",
+  "dragItems": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "elif",
+    "drop3": "else"
+  }
+}

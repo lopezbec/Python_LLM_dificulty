@@ -1,0 +1,16 @@
+{
+  "difficulty": 4,
+  "question": "Pair each loop type with its syntax style in Python.",
+  "choices": [
+    "for loop",
+    "while loop"
+  ],
+  "syntax": [
+    "for i in range(n):",
+    "while condition:"
+  ],
+  "correct_answers": {
+    "for loop": "for i in range(n):",
+    "while loop": "while condition:"
+  }
+}

@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of the following code?\n\n```python\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\n```",
+    "options": {
+      "A": "0\n1\n2",
+      "B": "1\n2\n3",
+      "C": "0\n1\n2\n3",
+      "D": "Error"
+    },
+    "answer": "A",
+    "difficulty": 1,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 2,
+    "question": "Which loop is guaranteed to execute its body at least once?",
+    "options": {
+      "A": "for loop",
+      "B": "while loop",
+      "C": "do-while loop",
+      "D": "None of the above"
+    },
+    "answer": "D",
+    "difficulty": 2,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 3,
+    "question": "How many times will the loop execute?\n\n```python\nfor i in range(2, 10, 3):\n    print(i)\n```",
+    "options": {
+      "A": "2 times",
+      "B": "3 times",
+      "C": "4 times",
+      "D": "5 times"
+    },
+    "answer": "B",
+    "difficulty": 3,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 4,
+    "question": "What will be the output of the following code?\n\n```python\nfor i in range(3):\n    if i == 1:\n        break\n    print(i)\nelse:\n    print(\"Completed\")\n```",
+    "options": {
+      "A": "0\n1\nCompleted",
+      "B": "0\n1",
+      "C": "0",
+      "D": "0\n1\n2\nCompleted"
+    },
+    "answer": "B",
+    "difficulty": 4,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 5,
+    "question": "Which statement correctly describes the use of the 'continue' statement in a loop?",
+    "options": {
+      "A": "It exits the loop entirely.",
+      "B": "It skips the current iteration and continues with the next one.",
+      "C": "It pauses the loop until a condition is met.",
+      "D": "It restarts the loop from the beginning."
+    },
+    "answer": "B",
+    "difficulty": 5,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 6,
+    "question": "What is the result of the following list comprehension?\n\n```python\nresult = [x*2 for x in range(5) if x % 2 == 0]\nprint(result)\n```",
+    "options": {
+      "A": "[0, 2, 4, 6, 8]",
+      "B": "[0, 4, 8]",
+      "C": "[0, 2, 4]",
+      "D": "[2, 4, 6]"
+    },
+    "answer": "B",
+    "difficulty": 6,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 7,
+    "question": "Consider the following code snippet. What will be the final value of `total`?\n\n```python\ntotal = 0\nfor i in range(1, 6):\n    if i == 3:\n        continue\n    total += i\nprint(total)\n```",
+    "options": {
+      "A": "15",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    },
+    "answer": "D",
+    "difficulty": 7,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 8,
+    "question": "What will the following code output?\n\n```python\nfor i in range(2, -3, -1):\n    if i == 0:\n        pass\n    print(i)\n```",
+    "options": {
+      "A": "2\n1\n0\n-1\n-2",
+      "B": "2\n1\n-1\n-2",
+      "C": "2\n1\n0",
+      "D": "Error"
+    },
+    "answer": "A",
+    "difficulty": 8,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 9,
+    "question": "How many times will \"Hello\" be printed?\n\n```python\ndef func(n):\n    for i in range(n):\n        for j in range(i):\n            print(\"Hello\")\n\nfunc(4)\n```",
+    "options": {
+      "A": "6",
+      "B": "4",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "A",
+    "difficulty": 9,
+    "topic": "loops",
+    "type": "multiple-choice"
+  },
+  {
+    "id": 10,
+    "question": "Identify the error in the following code snippet:\n\n```python\ni = 0\nwhile i < 5:\n    print(i)\n    i -= 1\n```",
+    "options": {
+      "A": "SyntaxError due to incorrect indentation.",
+      "B": "Infinite loop because `i` is decremented.",
+      "C": "Runtime error when `i` becomes negative.",
+      "D": "No error; the code runs correctly.",
+      "E": "Logical error as `i` should be incremented."
+    },
+    "answer": "B",
+    "difficulty": 10,
+    "topic": "loops",
+    "type": "multiple-choice"
+  }
+]

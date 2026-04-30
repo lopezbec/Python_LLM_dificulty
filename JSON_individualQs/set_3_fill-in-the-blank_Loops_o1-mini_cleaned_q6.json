@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to iterate over both the index and value of a list 'my_list' using enumerate:\n\nfor index, value in enumerate(___):",
+  "answer": "my_list",
+  "difficulty": 6
+}

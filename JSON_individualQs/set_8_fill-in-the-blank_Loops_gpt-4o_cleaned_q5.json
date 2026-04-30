@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In nested loops, the ____ loop is executed once for each iteration of the outer loop.",
+  "answer": "inner"
+}

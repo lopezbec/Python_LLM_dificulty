@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "prompt": "Drag and drop the missing keyword to complete this while loop:\n\ni = 0\n____ i < 3:\n    print(i)\n    i += 1",
+  "drag_items": [
+    "while",
+    "if",
+    "for"
+  ],
+  "drop_targets": [
+    "keyword"
+  ],
+  "correct_mapping": {
+    "keyword": "while"
+  }
+}

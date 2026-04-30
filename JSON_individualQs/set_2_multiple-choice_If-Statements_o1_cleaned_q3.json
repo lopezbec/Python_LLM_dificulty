@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "In Python, what is required right after the condition in an if statement?",
+  "answers": {
+    "A": "A semicolon (;)",
+    "B": "A colon (:)",
+    "C": "Double equals (==)",
+    "D": "Nothing special; just a newline"
+  },
+  "correctAnswer": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is a correct Python if statement checking if x is greater than 5?",
+  "answers": {
+    "A": "if x => 5:",
+    "B": "if x > 5:",
+    "C": "if (x) > 5",
+    "D": "if x > 5 then"
+  },
+  "correctAnswer": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What will be the result of the following code if x = 15? \n\n```python\nif x < 10:\n    print('x is small')\nelif x < 20:\n    print('x is medium')\nelse:\n    print('x is large')\n```",
+  "options": [
+    "x is small",
+    "x is medium",
+    "x is large",
+    "No output"
+  ],
+  "correct_answer": "x is medium"
+}

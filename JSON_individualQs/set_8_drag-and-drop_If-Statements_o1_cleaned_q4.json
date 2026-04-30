@@ -1,0 +1,19 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "instruction": "Fill in the nested if statement to check if x is positive and less than 10.",
+  "code_with_blanks": "x = 5\nif x > 0:\n    _____ x < 10 _____\n        print(\"Positive and less than 10\")",
+  "drag_options": [
+    "elif",
+    "if",
+    "else",
+    ":",
+    "for",
+    "="
+  ],
+  "correct_sequence": [
+    "if",
+    ":"
+  ],
+  "explanation": "Inside the outer if block, we use another 'if' and ':' to nest the condition for x < 10."
+}

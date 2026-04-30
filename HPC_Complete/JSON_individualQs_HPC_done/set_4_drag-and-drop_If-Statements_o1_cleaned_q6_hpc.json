@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "num = 9",
+        "___ num > 0:",
+        "___ num % 3 == 0:",
+        "print('Positive and divisible by 3')",
+        "if",
+        "for",
+        "else",
+        "if"
+    ]
+}

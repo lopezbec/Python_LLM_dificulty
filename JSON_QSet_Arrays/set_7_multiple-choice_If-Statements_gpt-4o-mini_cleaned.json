@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "What is the correct syntax for an if statement in Python?",
+    "options": [
+      "if x == 10:",
+      "if (x == 10)",
+      "if x = 10:",
+      "if: x == 10"
+    ],
+    "correct_answer": "if x == 10:"
+  },
+  {
+    "difficulty": 2,
+    "question": "What will the following code output? \n\nx = 5\nif x > 3:\n    print('Hello')",
+    "options": [
+      "Hello",
+      "5",
+      "Error",
+      "Nothing"
+    ],
+    "correct_answer": "Hello"
+  },
+  {
+    "difficulty": 3,
+    "question": "What will the following code output? \n\nx = 2\nif x < 5:\n    print('A')\nelif x < 3:\n    print('B')",
+    "options": [
+      "A",
+      "B",
+      "Nothing",
+      "Error"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 4,
+    "question": "What will be the output of this code? \n\nx = 10\nif x == 10:\n    print('Ten')\nelse:\n    print('Not Ten')\nif x > 5:\n    print('Greater than 5')",
+    "options": [
+      "Ten\nGreater than 5",
+      "Not Ten\nGreater than 5",
+      "Ten",
+      "Greater than 5"
+    ],
+    "correct_answer": "Ten\nGreater than 5"
+  },
+  {
+    "difficulty": 5,
+    "question": "What is the output of the following code? \n\nage = 20\nif age < 18:\n    print('Minor')\nelif age < 65:\n    print('Adult')\nelse:\n    print('Senior')",
+    "options": [
+      "Minor",
+      "Adult",
+      "Senior",
+      "Error"
+    ],
+    "correct_answer": "Adult"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will happen if the following code is executed? \n\nx = -1\nif x >= 0:\n    print('Positive')\nelse:\n    print('Negative')",
+    "options": [
+      "Prints 'Positive'",
+      "Prints 'Negative'",
+      "Throws an error",
+      "Does nothing"
+    ],
+    "correct_answer": "Prints 'Negative'"
+  },
+  {
+    "difficulty": 7,
+    "question": "What will be the result of this code? \n\nnum = 15\nif num % 2 == 0:\n    print('Even')\nelif num % 3 == 0:\n    print('Divisible by 3')\nelse:\n    print('Odd')",
+    "options": [
+      "Even",
+      "Divisible by 3",
+      "Odd",
+      "Error"
+    ],
+    "correct_answer": "Odd"
+  },
+  {
+    "difficulty": 8,
+    "question": "In the following code, which statement will be printed? \n\nx = 0\nif x:\n    print('True')\nelse:\n    print('False')",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "Nothing"
+    ],
+    "correct_answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "What will the output of this code be? \n\nx = 'Python'\nif x == 'Python' and len(x) > 5:\n    print('Correct')\nelse:\n    print('Incorrect')",
+    "options": [
+      "Correct",
+      "Incorrect",
+      "Error",
+      "None"
+    ],
+    "correct_answer": "Correct"
+  },
+  {
+    "difficulty": 10,
+    "question": "What will the output of the following code? \n\nscore = 75\nif score >= 90:\n    print('A')\nelif score >= 75:\n    print('B')\nelif score >= 60:\n    print('C')\nelse:\n    print('D')",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "B"
+  }
+]

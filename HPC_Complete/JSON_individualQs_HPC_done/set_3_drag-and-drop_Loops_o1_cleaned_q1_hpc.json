@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "numbers = 1",
+        "while [CONDITION_PLACEHOLDER]:",
+        "print(numbers)",
+        "[INCREMENT_PLACEHOLDER]",
+        "numbers < 4",
+        "numbers += 1",
+        "numbers > 3",
+        "numbers -= 1",
+        "CONDITION_PLACEHOLDER",
+        "INCREMENT_PLACEHOLDER"
+    ]
+}

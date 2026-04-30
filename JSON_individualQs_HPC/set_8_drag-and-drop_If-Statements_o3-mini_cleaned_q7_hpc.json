@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "def is_even(n):\n    ___ n % 2 ___ 0:\n        return True\n    return False",
+        "if",
+        "==",
+        "for",
+        "while",
+        "=",
+        "!="
+    ]
+}

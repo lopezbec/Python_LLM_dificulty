@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "For an indefinite loop where you're awaiting a condition to become False, use a loop with the condition ___ at the beginning.",
+  "correct_answer": "while True"
+}

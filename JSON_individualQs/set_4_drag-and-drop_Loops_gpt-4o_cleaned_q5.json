@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Complete the nested loop to print a 3x3 grid of asterisks.",
+  "code": "for i in range(___):\n    for j in range(___):\n        print('*', end=' ')\n    print()",
+  "options": [
+    "3",
+    "2",
+    "4",
+    "j",
+    "i"
+  ],
+  "correct_answers": [
+    "3",
+    "3"
+  ]
+}

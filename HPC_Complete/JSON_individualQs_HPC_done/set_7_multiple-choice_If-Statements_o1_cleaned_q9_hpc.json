@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x % 2 == 0:",
+        "if x % 5 == 0:",
+        "print('Divisible by 2 and 5')",
+        "else:",
+        "print('Divisible by 2 but not by 5')",
+        "else:",
+        "print('Not divisible by 2')",
+        "x = 10",
+        "Not divisible by 2",
+        "Divisible by 2 but not by 5",
+        "Divisible by 2 and 5",
+        "Error"
+    ]
+}

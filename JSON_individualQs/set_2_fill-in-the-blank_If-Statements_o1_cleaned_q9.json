@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank to check x is not zero before verifying if y is divisible by x:\n\nif ______ and (y % x == 0):\n    print('y is divisible by x')",
+  "correct_answer": "x != 0"
+}

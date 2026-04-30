@@ -1,0 +1,10 @@
+{
+  "question": "Drag the correct code to handle all possible cases: if (state == 'on') { print('Light is on'); } else if (state == 'off') { ____ } else { print('Unknown state'); }",
+  "options": [
+    "print('Light is off');",
+    "raise Error;",
+    "print('State is not valid');"
+  ],
+  "answer": "print('Light is off');",
+  "difficulty": 10
+}

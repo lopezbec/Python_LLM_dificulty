@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "age",
+        "has_permission",
+        "age = 16",
+        "has_permission = True",
+        "if ( {CONDITION1} or {CONDITION2} ):",
+        "print(\"Access granted\")",
+        "print(\"Access denied\")",
+        "age >= 18",
+        "age < 0",
+        "has_permission == True",
+        "age == 18"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What distinguishes the output of this code? \nif 'Hello' in 'Hello World':\n    print('Found')\nelse:\n    print('Not found')",
+  "options": {
+    "A": "Found",
+    "B": "Not found",
+    "C": "Error",
+    "D": "No output"
+  },
+  "correct_answer": "A"
+}

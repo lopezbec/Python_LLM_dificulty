@@ -1,0 +1,10 @@
+{
+  "difficulty": 10,
+  "question": "The keyword ________ can be used to define a loop with an 'else' clause that executes after the loop finishes if no break statement was encountered.",
+  "correct_answer": "for",
+  "incorrect_answers": [
+    "while",
+    "do-while",
+    "exit"
+  ]
+}

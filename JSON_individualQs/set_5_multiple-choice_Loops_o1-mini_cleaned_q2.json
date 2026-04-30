@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "question": "Which keyword is used to exit a loop prematurely in Python?",
+  "options": {
+    "A": "exit",
+    "B": "break",
+    "C": "continue",
+    "D": "stop"
+  },
+  "answer": "B",
+  "difficulty": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "if-statements",
+  "question": "Arrange the code snippets to create a complex `if-elif-else` statement that validates user input for multiple criteria.",
+  "options": [
+    "    print('Input is too short.')",
+    "        print('Input is valid.')",
+    "elif not input_str.isalnum():",
+    "if len(input_str) < 5:",
+    "    print('Input is valid.')",
+    "    print('Input contains special characters.')",
+    "else:"
+  ],
+  "answer": [
+    "if len(input_str) < 5:",
+    "    print('Input is too short.')",
+    "elif not input_str.isalnum():",
+    "    print('Input contains special characters.')",
+    "else:",
+    "    print('Input is valid.')"
+  ]
+}

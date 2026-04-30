@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "question": "Drag the correct statements to handle multiple conditions using elif.",
+  "codeSnippet": "score = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __ operator1 __:\n    grade = 'B'\nelif score >= __ operator2 __:\n    grade = 'C'\nelse:\n    grade = 'F'",
+  "options": [
+    "80",
+    "70",
+    "60",
+    "85",
+    "75"
+  ],
+  "targets": [
+    "operator1",
+    "operator2"
+  ],
+  "correctAnswer": {
+    "operator1": "80",
+    "operator2": "70"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Complete the nested if-statement by dragging the correct keyword into the blank:\n\nif a > 0:\n    ___ b > 0:\n        print('Both are positive')",
+  "dragItems": [
+    "if",
+    "else",
+    "elif"
+  ],
+  "dropZones": {
+    "inner_if": "Drop the keyword for the inner condition here"
+  },
+  "correctMapping": {
+    "inner_if": "if"
+  }
+}

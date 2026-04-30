@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if ___ (x > 10):\n    print(\"x is greater than 10\")",
+        "if",
+        "elif",
+        "else",
+        "for"
+    ]
+}

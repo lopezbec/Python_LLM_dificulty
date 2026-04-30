@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if x > 0 _____ x < 10:",
+        "print('x is between 0 and 10')",
+        "and",
+        "or",
+        "if",
+        "elif"
+    ]
+}

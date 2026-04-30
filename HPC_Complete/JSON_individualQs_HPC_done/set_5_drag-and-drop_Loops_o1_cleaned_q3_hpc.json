@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if i == 3: break",
+        "for i in range(5):",
+        "print(i)"
+    ]
+}

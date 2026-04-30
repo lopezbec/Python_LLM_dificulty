@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "items = [\"book\", \"pen\", \"toy\", \"paper\"]",
+        "if \"toy\" {KEYWORD} items:",
+        "print(\"Toy found!\")",
+        "'toy'",
+        "items",
+        "in",
+        "is",
+        "not"
+    ]
+}

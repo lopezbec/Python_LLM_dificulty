@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Using a 'for' loop, we can generate a range of numbers from 0 to 9 using the expression 'for i in range(___):'",
+  "answer": "10"
+}

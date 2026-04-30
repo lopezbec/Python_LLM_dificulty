@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Drag the correct logical operator into the blank to form a compound condition:\n\nif x > 0 ___ x < 10:\n    print('x is between 0 and 10')",
+  "dragItems": [
+    "and",
+    "or",
+    "not"
+  ],
+  "dropZones": {
+    "operator": "Drop the logical operator here"
+  },
+  "correctMapping": {
+    "operator": "and"
+  }
+}

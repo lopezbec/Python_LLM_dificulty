@@ -1,0 +1,27 @@
+{
+  "question": "Level 4: Using Else If (Elif)",
+  "instruction": "Rearrange to form a correct if-elif-else structure.",
+  "difficulty": 4,
+  "code_blocks": [
+    "if __condition_1__:",
+    "    __print_statement_1__",
+    "elif __condition_2__:",
+    "    __print_statement_2__",
+    "else:",
+    "    __print_statement_3__"
+  ],
+  "options": [
+    "a < 0",
+    "a == 0",
+    "print('Negative number')",
+    "print('Zero')",
+    "print('Positive number')"
+  ],
+  "correct_structure": {
+    "__condition_1__": "a < 0",
+    "__print_statement_1__": "print('Negative number')",
+    "__condition_2__": "a == 0",
+    "__print_statement_2__": "print('Zero')",
+    "__print_statement_3__": "print('Positive number')"
+  }
+}

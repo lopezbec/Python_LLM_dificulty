@@ -1,0 +1,10 @@
+{
+  "question": "In Python, which loop is most suitable for iterating over a list? \n\nA. for loop \nB. while loop \nC. none of the above",
+  "options": [
+    "A",
+    "B",
+    "C"
+  ],
+  "answer": "A",
+  "difficulty": 4
+}

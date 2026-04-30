@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "To immediately exit a loop and proceed with the next statement after the loop, we use the ______ statement.",
+  "correct_answer": "break"
+}

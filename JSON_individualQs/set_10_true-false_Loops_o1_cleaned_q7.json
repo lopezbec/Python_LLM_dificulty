@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In Python 3, range() generates a list of numbers that can be directly modified within a for loop.",
+  "correct_answer": "False"
+}

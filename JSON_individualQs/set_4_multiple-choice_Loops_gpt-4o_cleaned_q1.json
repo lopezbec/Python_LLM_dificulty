@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which Python keyword is used to create a loop that continues until a condition becomes false?",
+  "options": {
+    "A": "for",
+    "B": "loop",
+    "C": "while",
+    "D": "until"
+  },
+  "correct_answer": "C"
+}

@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank in the if-statement: \n if y == 5: \n    _____\n",
+  "options": [
+    "y += 1",
+    "print('y is not 5')",
+    "y = 0"
+  ],
+  "correct_answer": "y += 1"
+}

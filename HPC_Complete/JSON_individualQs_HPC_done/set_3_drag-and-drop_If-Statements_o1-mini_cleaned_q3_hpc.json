@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "number = 10\nif number __ operator1 __ 5:\n    print('Greater than 5')\nelif number __ operator2 __ 10:\n    print('Equal to 10')\nelse:\n    print('Less than 5')",
+        ">",
+        "==",
+        "<",
+        ">=",
+        "<="
+    ]
+}

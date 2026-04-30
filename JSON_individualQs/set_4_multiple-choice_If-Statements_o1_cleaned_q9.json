@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following uses Python's ternary conditional operator to assign the variable result to 'High' if x > 100, otherwise 'Low'?",
+  "choices": {
+    "A": "result = if x > 100: 'High' else: 'Low'",
+    "B": "result = 'High' if x > 100 else 'Low'",
+    "C": "result = 'Low' if x < 100 else 'High'",
+    "D": "result = x > 100 ? 'High' : 'Low'"
+  },
+  "correct_answer": "B"
+}

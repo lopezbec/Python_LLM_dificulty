@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Drag and drop the parts to form a basic if statement in Python.",
+  "instruction": "Arrange the components in the correct order to create a valid if statement.",
+  "draggable_items": [
+    "Indented code block",
+    "if condition:"
+  ],
+  "correct_order": [
+    "if condition:",
+    "Indented code block"
+  ]
+}

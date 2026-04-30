@@ -1,0 +1,11 @@
+{
+  "question": "5) What does the following code print?\n\nmy_list = []\nif my_list:\n    print('List is not empty')\nelse:\n    print('List is empty')",
+  "difficulty": 5,
+  "options": {
+    "a": "List is not empty",
+    "b": "List is empty",
+    "c": "Error",
+    "d": "None"
+  },
+  "correct_answer": "b"
+}

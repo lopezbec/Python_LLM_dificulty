@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will happen if the if condition is False and there is no else clause in a Python script?",
+  "choices": {
+    "A": "An error will occur",
+    "B": "The program will terminate immediately",
+    "C": "Nothing will happen; the code block inside if is skipped",
+    "D": "A warning will be shown but the code will proceed"
+  },
+  "correct_answer": "C"
+}

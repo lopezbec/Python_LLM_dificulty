@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "True or False: The break statement inside a loop causes the current iteration to be skipped, and the loop continues with the next iteration.",
+  "correct_answer": false
+}

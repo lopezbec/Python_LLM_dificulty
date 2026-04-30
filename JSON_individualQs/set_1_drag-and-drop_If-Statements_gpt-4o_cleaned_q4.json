@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Choose the correct comparison operator to complete the if-statement, checking if 'a' is not equal to 5.",
+  "code": "if a <blank>:\n    print('a is not 5')",
+  "options": [
+    "!= 5",
+    "== 5",
+    "> 5"
+  ]
+}

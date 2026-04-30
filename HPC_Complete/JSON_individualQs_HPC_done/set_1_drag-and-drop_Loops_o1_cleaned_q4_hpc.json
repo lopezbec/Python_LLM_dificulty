@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "for-else",
+        "else",
+        "break",
+        "if char == 'x':",
+        "print(\"No break encountered\")",
+        "for char in 'abc':",
+        "while char != 'x':",
+        "else:",
+        "continue"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank to complete the statement that checks if x is greater than 10 or y is less than 5:\nif x > 10 ______ y < 5:\n    print('Condition met')",
+  "answer": "or"
+}

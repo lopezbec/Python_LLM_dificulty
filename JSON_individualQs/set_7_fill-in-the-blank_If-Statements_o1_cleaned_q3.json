@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank to check if 'score' is at least 80:\n\nif score __ 80:\n    print('Passed')",
+  "correct_answer": ">="
+}

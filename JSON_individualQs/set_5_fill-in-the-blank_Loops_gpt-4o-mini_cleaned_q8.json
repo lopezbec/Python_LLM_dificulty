@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "A nested loop is a loop inside another loop, where the inner loop is executed ___ for every iteration of the outer loop.",
+  "answer": "completely"
+}

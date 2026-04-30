@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "is_active",
+        "if ___ not is_active:\n    print('Inactive')",
+        "not",
+        "!",
+        "no"
+    ]
+}

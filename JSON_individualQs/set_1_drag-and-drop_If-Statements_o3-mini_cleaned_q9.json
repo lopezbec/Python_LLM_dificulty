@@ -1,0 +1,34 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "prompt": "Drag and drop to arrange the blocks that form a nested if-elif-else structure. First, if a is greater than b, then check: if a is greater than c, print 'a is largest'; if c is greater than a, print 'c is largest'; otherwise, print 'a and c are equal'. If a is not greater than b, print 'b is largest'.",
+  "drag_items": [
+    "if",
+    "a > b:",
+    "if",
+    "a > c:",
+    "print('a is largest')",
+    "elif",
+    "c > a:",
+    "print('c is largest')",
+    "else:",
+    "print('a and c are equal')",
+    "else:",
+    "print('b is largest')"
+  ],
+  "correct_order": [
+    "if",
+    "a > b:",
+    "if",
+    "a > c:",
+    "print('a is largest')",
+    "elif",
+    "c > a:",
+    "print('c is largest')",
+    "else:",
+    "print('a and c are equal')",
+    "else:",
+    "print('b is largest')"
+  ],
+  "explanation": "This question tests understanding of nested conditions. The outer if checks if a > b, and the inner if-elif-else distinguishes between the relationships of a and c."
+}

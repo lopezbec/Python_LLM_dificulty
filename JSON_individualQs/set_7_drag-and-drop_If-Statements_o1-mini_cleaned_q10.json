@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Construct the following if-elif-else statement by dragging the correct code blocks into the appropriate positions:",
+  "description": "Create a function that categorizes a number as 'Negative', 'Zero', or 'Positive'. Use if-elif-else statements.",
+  "dragOptions": [
+    "def categorize_number(n):",
+    "    if n < 0:",
+    "        return \"Negative\"",
+    "    elif n == 0:",
+    "        return \"Zero\"",
+    "    else:",
+    "        return \"Positive\""
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6",
+    "Line 7"
+  ],
+  "correctAnswers": {
+    "Line 1": "def categorize_number(n):",
+    "Line 2": "    if n < 0:",
+    "Line 3": "        return \"Negative\"",
+    "Line 4": "    elif n == 0:",
+    "Line 5": "        return \"Zero\"",
+    "Line 6": "    else:",
+    "Line 7": "        return \"Positive\""
+  }
+}

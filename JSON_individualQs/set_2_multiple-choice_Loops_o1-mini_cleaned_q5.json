@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "question": "What does the `continue` statement do in the following code?\n\n```python\nfor i in range(5):\n    if i == 3:\n        continue\n    print(i)\n```",
+  "options": {
+    "A": "Terminates the loop when i equals 3",
+    "B": "Skips the rest of the loop body when i equals 3 and continues with the next iteration",
+    "C": "Pauses the loop when i equals 3",
+    "D": "Restarts the loop when i equals 3"
+  },
+  "answer": "B",
+  "difficulty": 5
+}

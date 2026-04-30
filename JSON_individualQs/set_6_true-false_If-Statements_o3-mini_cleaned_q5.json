@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "True or False: A Python if-else statement only allows one alternative branch and does not support multiple conditions beyond this pair.",
+  "correct_answer": false
+}

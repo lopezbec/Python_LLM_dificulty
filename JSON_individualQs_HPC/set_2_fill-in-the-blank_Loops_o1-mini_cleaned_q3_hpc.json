@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for ___ in fruits:",
+        "print(___)",
+        "fruits"
+    ]
+}

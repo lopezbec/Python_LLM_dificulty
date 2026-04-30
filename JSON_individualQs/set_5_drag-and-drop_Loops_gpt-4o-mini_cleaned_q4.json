@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "To count down from 10 to 1 using a loop, drag the correct line of code to this blank: 'for i in ____:'",
+  "options": [
+    "range(10, 0, -1)",
+    "range(1, 10)",
+    "range(0, 10)",
+    "range(10, 1)"
+  ],
+  "correct_answer": "range(10, 0, -1)"
+}

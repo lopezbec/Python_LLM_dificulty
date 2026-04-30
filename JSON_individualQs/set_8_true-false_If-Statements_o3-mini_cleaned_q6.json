@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Python's if-statements do not support inequality operators like '>' or '<', and can only test for equality.",
+  "correctAnswer": false
+}

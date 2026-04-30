@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Using 'else' with a loop will execute the 'else' block only if the loop finishes its iterations normally.",
+  "answer": true
+}

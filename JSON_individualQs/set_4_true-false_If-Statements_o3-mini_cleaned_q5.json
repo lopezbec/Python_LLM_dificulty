@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "An if-statement's condition in Python can combine multiple conditions using 'and' and 'or'.",
+  "answer": "True"
+}

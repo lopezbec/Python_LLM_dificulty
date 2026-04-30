@@ -1,0 +1,9 @@
+{
+  "difficulty": 7,
+  "topic": "Loops",
+  "question": "Complete the nested loop structure to print a 3x3 grid of * symbols.",
+  "code": "for i in range(3):\n    for j in range(3):\n        print('*', end='___')\n    print()",
+  "drag_and_drop_options": [
+    " "
+  ]
+}

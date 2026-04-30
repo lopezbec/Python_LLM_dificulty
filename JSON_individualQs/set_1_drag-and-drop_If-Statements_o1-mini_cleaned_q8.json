@@ -1,0 +1,43 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Rearrange the following code blocks to fix the indentation error in the nested if statement.",
+  "drag_options": [
+    "if temperature > 30:",
+    "print('It is hot outside.')",
+    "    if humidity > 70:",
+    "        print('It is also humid.')",
+    "print('Check complete.')"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Line 1",
+      "identifier": "line_1"
+    },
+    {
+      "placeholder": "Line 2",
+      "identifier": "line_2"
+    },
+    {
+      "placeholder": "Line 3",
+      "identifier": "line_3"
+    },
+    {
+      "placeholder": "Line 4",
+      "identifier": "line_4"
+    },
+    {
+      "placeholder": "Line 5",
+      "identifier": "line_5"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if temperature > 30:",
+    "line_2": "    print('It is hot outside.')",
+    "line_3": "    if humidity > 70:",
+    "line_4": "        print('It is also humid.')",
+    "line_5": "print('Check complete.')"
+  }
+}

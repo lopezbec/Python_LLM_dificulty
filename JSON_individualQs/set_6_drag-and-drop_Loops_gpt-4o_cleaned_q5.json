@@ -1,0 +1,41 @@
+{
+  "difficulty": 5,
+  "question": "Arrange the statements to print only even numbers in a given range using a loop and conditional.",
+  "choices": [
+    "for",
+    "if",
+    "%",
+    ":",
+    "==",
+    "0",
+    "print(num)",
+    "num",
+    "in",
+    "range",
+    "(",
+    "1",
+    ",",
+    "11",
+    ")"
+  ],
+  "correct_order": [
+    "for",
+    "num",
+    "in",
+    "range",
+    "(",
+    "1",
+    ",",
+    "11",
+    ")",
+    ":",
+    "if",
+    "num",
+    "%",
+    "2",
+    "==",
+    "0",
+    ":",
+    "print(num)"
+  ]
+}

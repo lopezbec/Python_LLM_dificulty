@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, the condition in an 'if' statement must always evaluate to a boolean value.",
+  "answer": false,
+  "difficulty": 2,
+  "topic": "if-statements"
+}

@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "door = 'locked'",
+        "key = True",
+        "if door __________ 'locked' __________ key:",
+        "print(\"Open\")",
+        "==",
+        "!=",
+        "and",
+        "or",
+        "elif"
+    ]
+}

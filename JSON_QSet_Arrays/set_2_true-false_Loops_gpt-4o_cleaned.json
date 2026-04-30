@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop is used in Python to iterate over a sequence.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "In a 'while' loop, the condition is checked after executing the loop body.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "The range function, when used in a 'for' loop, generates a sequence of numbers that includes the end value.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "A 'for' loop can iterate over the keys in a dictionary.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "Using the 'break' statement within a loop exits the loop and skips the rest of the code inside it.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "A loop can be used to apply the same operation to all elements of a list without modifying the original list.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "Nested loops can only be two levels deep.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 8,
+    "question": "The 'continue' statement in a loop can be used to skip the current iteration and proceed to the next one.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "It's possible to control a loop with more than one counter variable using the 'for' loop.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "A 'while' loop can simulate a 'for' loop's functionality by carefully managing a counter variable.",
+    "correct_answer": true
+  }
+]

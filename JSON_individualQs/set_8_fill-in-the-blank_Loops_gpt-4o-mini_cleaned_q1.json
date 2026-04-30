@@ -1,0 +1,10 @@
+{
+  "difficulty": 1,
+  "question": "In Python, a loop that iterates a specific number of times is called a(n) ________ loop.",
+  "correct_answer": "for",
+  "incorrect_answers": [
+    "while",
+    "do-while",
+    "repeat"
+  ]
+}

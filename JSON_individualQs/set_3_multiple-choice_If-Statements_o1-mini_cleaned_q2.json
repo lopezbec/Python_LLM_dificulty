@@ -1,0 +1,11 @@
+{
+  "question": "Which keyword is used to specify the condition in an if-statement?",
+  "options": {
+    "A": "when",
+    "B": "unless",
+    "C": "if",
+    "D": "loop"
+  },
+  "answer": "C",
+  "difficulty": 2
+}

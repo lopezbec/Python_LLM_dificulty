@@ -1,0 +1,10 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct code snippet to complete the for loop that prints numbers from 1 to 3.",
+  "options": [
+    "for i in range(1, 4):",
+    "for i in range(3):",
+    "for i in range(0, 3):"
+  ],
+  "answer": "for i in range(1, 4):"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Python's 'if' statements can evaluate expressions that return different types, such as lists or dictionaries, as long as the result evaluates to a boolean value.",
+  "answer": true
+}

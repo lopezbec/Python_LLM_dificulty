@@ -1,0 +1,5 @@
+{
+  "question": "Nested loops are not allowed in Python and will result in a syntax error.",
+  "answer": false,
+  "difficulty": 6
+}

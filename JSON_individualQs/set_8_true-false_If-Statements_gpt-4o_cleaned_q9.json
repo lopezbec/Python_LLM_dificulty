@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Using logical operators like 'and' or 'or' in the condition of an if-statement can allow you to combine multiple conditions.",
+  "answer": true
+}

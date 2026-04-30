@@ -1,0 +1,10 @@
+{
+  "question": "6. How can you write a short-hand if-else statement in Python?",
+  "options": [
+    "A) print('Yes') if x > 10 else print('No')",
+    "B) if x > 10: print('Yes') else: print('No')",
+    "C) if (x > 10) print('Yes'); else print('No')",
+    "D) x = 10 if print('Yes') else print('No')"
+  ],
+  "answer": "A"
+}

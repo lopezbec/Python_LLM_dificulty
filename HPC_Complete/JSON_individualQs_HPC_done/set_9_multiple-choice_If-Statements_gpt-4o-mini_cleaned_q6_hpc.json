@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+        "x = 7",
+        "b) Odd"
+    ]
+}

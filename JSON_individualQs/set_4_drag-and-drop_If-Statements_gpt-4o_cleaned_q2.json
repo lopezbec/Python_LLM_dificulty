@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the if-elif statement to print 'Greater', 'Equal', or 'Lesser' based on the value of num.",
+  "code": "if num > 5:\n    print('Greater')\nelif num == 5:\n    print('Equal')\n__:\n    print('Lesser')",
+  "options": [
+    "else",
+    "elif",
+    "endif"
+  ],
+  "correct": [
+    "else"
+  ],
+  "incorrect": [
+    "elif",
+    "endif"
+  ]
+}

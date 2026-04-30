@@ -1,0 +1,6 @@
+{
+  "difficulty": 7,
+  "type": "fill-in-the-blank",
+  "question": "To create a loop that goes from 10 down to 1 in steps of -1, we can use range(10, 0, ___).",
+  "correct_answer": "-1"
+}

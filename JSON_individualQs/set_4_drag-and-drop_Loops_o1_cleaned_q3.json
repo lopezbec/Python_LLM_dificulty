@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Drag the correct condition so this while loop executes exactly four times.",
+  "codeSnippet": "count = 0\nwhile _____:\n    print('Loop #', count)\n    count += 1",
+  "options": [
+    "count < 4",
+    "count > 4",
+    "count = 4"
+  ],
+  "correctAnswer": "count < 4"
+}

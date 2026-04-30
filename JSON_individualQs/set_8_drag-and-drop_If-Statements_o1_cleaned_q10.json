@@ -1,0 +1,21 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "instruction": "Drag the correct keywords to check if x is a 'Special multiple' of 5 or 7, but not both.",
+  "code_with_blanks": "x = 35\n_____ (x % 5 == 0 or x % 7 == 0) _____ (x % 5 == 0 and x % 7 == 0) _____\n    print(\"Special multiple\")\nelse:\n    print(\"Regular number\")",
+  "drag_options": [
+    "if",
+    "and",
+    "not",
+    ":",
+    "or",
+    "elif"
+  ],
+  "correct_sequence": [
+    "if",
+    "and",
+    "not",
+    ":"
+  ],
+  "explanation": "Use 'if' to start the condition, 'and not' to exclude the case where x is a multiple of both 5 and 7, and ':' for the code block."
+}

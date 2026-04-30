@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which of the following loop structures can potentially cause an infinite loop?",
+  "options": [
+    "for i in range(10):",
+    "while True:",
+    "for i in iter(range(10)):",
+    "while i < n:"
+  ],
+  "answer": "while True:"
+}

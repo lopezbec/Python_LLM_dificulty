@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code if x = 5?\n\nif x < 10:\n    print('Small')\nelse:\n    print('Large')",
+  "options": [
+    "a) Small",
+    "b) Large",
+    "c) Small and Large",
+    "d) None of the above"
+  ],
+  "correct_answer": "a",
+  "difficulty": 2
+}

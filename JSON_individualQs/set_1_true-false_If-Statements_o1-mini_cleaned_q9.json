@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, the scope of variables defined inside an 'if' statement is limited to the 'if' block.",
+  "answer": false,
+  "difficulty": 9,
+  "topic": "if-statements"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "fruits",
+        "for each fruit in fruits: print(fruit)",
+        "for fruit in fruits { print(fruit) }",
+        "for(item in fruits): print(item)",
+        "for fruit in fruits: print(fruit)"
+    ]
+}

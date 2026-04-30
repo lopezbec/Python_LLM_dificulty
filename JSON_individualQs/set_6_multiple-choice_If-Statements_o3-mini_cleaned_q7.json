@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the following code snippet:\n\nx = 5\nif x > 2:\n    if x < 10:\n        print('x is between 3 and 9')\n    else:\n        print('x is 10 or more')\nelse:\n    print('x is 2 or less')\n\nWhat will be printed?",
+  "options": [
+    "x is 2 or less",
+    "x is 10 or more",
+    "x is between 3 and 9",
+    "Nothing will be printed"
+  ],
+  "correct_answer": "x is between 3 and 9"
+}

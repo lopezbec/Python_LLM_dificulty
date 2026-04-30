@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What error will you most likely encounter if you fail to indent the code block following an if-statement in Python?",
+  "options": {
+    "A": "TypeError",
+    "B": "NameError",
+    "C": "IndentationError",
+    "D": "SyntaxWarning"
+  },
+  "answer": "C"
+}

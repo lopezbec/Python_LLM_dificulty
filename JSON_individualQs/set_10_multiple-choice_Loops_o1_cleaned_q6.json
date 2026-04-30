@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code snippet?\n\nitems = [\"apple\", \"banana\", \"cherry\"]\nfor i in range(len(items)):\n    if i == 1:\n        continue\n    print(items[i])",
+  "difficulty": 6,
+  "options": [
+    "apple banana cherry",
+    "apple cherry",
+    "banana",
+    "apple banana"
+  ],
+  "answer": "apple cherry"
+}

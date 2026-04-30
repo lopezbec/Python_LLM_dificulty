@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which snippet correctly checks if a list named items is not empty before printing the first item?",
+  "choices": {
+    "A": "if len(items) =! 0:\n    print(items[0])",
+    "B": "if len(items) > 0:\n    print(items[0])",
+    "C": "if items != '':\n    print(items[0])",
+    "D": "if items is not None:\n    print(items[0])"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "grade",
+        "90",
+        "100",
+        "grade = 95",
+        "if 90 [__op1__] grade [__op2__] 100:",
+        "print(\"A grade\")",
+        "else:",
+        "print(\"Not an A grade\")",
+        "<",
+        "<=",
+        ">",
+        "=="
+    ]
+}

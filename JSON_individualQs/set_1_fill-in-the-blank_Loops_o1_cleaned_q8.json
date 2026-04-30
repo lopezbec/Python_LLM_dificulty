@@ -1,0 +1,7 @@
+{
+  "id": 8,
+  "type": "fill-in-the-blank",
+  "difficulty": 8,
+  "question": "When iterating over multiple iterables at once in a for loop, we can combine them using ______.",
+  "correct_answer": "zip"
+}

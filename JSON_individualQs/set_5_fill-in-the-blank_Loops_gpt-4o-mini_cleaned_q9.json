@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In Python, using 'else' after a loop defines a block of code that runs only if the loop is not terminated by a ___.",
+  "answer": "break"
+}

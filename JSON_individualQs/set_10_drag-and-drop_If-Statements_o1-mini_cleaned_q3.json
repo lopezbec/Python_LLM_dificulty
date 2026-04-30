@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "question": "Place the components of the following if-else statement in the correct order.",
+  "dragItems": [
+    "if score >= 60:",
+    "    print('Passed')",
+    "else:",
+    "    print('Failed')"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4"
+  ],
+  "correctAnswers": {
+    "Line 1": "if score >= 60:",
+    "Line 2": "    print('Passed')",
+    "Line 3": "else:",
+    "Line 4": "    print('Failed')"
+  }
+}

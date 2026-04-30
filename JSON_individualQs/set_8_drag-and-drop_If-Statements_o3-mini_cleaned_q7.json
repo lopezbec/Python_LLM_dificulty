@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Drag and drop the missing keywords to complete the function that checks if a number is even.",
+  "code_snippet": "def is_even(n):\n    ___ n % 2 ___ 0:\n        return True\n    return False",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "if"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "=="
+    }
+  ],
+  "choices": [
+    "if",
+    "for",
+    "while",
+    "==",
+    "=",
+    "!="
+  ]
+}

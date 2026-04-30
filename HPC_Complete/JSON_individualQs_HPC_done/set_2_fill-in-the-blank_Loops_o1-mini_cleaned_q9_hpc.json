@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "count_up_to",
+        "max",
+        "while",
+        "i = 1",
+        "while i <= max:",
+        "yield ___",
+        "___",
+        "for number in count_up_to(3):",
+        "print(number)"
+    ]
+}

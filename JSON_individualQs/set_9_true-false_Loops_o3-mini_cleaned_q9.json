@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "When a loop with an else clause is terminated by a break statement, the else block is skipped.",
+  "correct_answer": true
+}

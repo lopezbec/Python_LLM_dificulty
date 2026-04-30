@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to evaluate if a number is even:\n\n```python\nif number % 2 ____ 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")\n```",
+  "answer": "==",
+  "difficulty": 6
+}

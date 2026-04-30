@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "while True: print('Hello'); break",
+        "Prints 'Hello' once",
+        "Infinite loop",
+        "Prints nothing",
+        "Prints 'Hello' infinitely"
+    ]
+}

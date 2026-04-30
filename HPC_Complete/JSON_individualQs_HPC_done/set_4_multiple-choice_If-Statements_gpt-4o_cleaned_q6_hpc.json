@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if age is >= 18",
+        "if age >= 18:",
+        "if age >= 18 then:",
+        "if (age >= 18)",
+        "age"
+    ]
+}

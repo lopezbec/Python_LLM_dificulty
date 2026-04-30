@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Complete the nested if statement so that it checks 'y > 10' only when 'x > 0'. Fill in the blank in the second line:\n\nif x > 0:\n    ______ y > 10:\n        print(\"Both conditions met\")",
+  "answer": "if"
+}

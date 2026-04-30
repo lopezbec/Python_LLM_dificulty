@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if char == 'a': continue",
+        "print(char)",
+        "for char in 'banana':"
+    ]
+}

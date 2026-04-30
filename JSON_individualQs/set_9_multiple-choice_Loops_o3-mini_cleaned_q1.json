@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following loop constructs is most commonly used to iterate over a sequence in Python?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do loop",
+    "repeat loop"
+  ],
+  "correct_answer": "for loop"
+}

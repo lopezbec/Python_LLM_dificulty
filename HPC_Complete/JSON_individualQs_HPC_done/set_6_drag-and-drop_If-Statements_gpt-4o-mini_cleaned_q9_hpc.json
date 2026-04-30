@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if (a ____ b) { ____; }",
+        "==",
+        ">=",
+        "doSomething();",
+        ">",
+        "console.log('match');"
+    ]
+}

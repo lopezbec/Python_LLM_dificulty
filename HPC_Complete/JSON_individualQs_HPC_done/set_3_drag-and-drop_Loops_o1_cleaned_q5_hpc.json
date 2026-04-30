@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "if fruit == 'apple': continue",
+        "fruit.upper()",
+        "if fruit != 'apple': continue",
+        "fruit.capitalize()",
+        "SKIP_CONDITION_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+    ]
+}

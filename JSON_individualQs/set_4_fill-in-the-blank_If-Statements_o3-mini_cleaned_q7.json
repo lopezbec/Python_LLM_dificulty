@@ -1,0 +1,6 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank to check if a variable num is a multiple of both 3 and 5:\n\nif num % 3 == 0 ______ num % 5 == 0:\n    print('FizzBuzz')",
+  "answer": "and"
+}

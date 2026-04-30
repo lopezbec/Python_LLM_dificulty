@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "Loops",
+  "question": "Arrange the loop with an `else` clause correctly.",
+  "drag_items": [
+    "for item in iterable:",
+    "    if condition:",
+    "        break",
+    "else:",
+    "    print('Completed without break')"
+  ],
+  "drop_zones": [
+    "Loop start",
+    "Condition check",
+    "Break statement",
+    "Else clause",
+    "Else body"
+  ],
+  "instructions": "Drag the code snippets into the proper `for-else` structure."
+}

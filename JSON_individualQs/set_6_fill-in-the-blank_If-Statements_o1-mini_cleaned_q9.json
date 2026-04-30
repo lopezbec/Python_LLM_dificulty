@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to check if 'input_str' contains only digits using the if statement:\n\n```python\nif input_str.___():\n    print(\"Input is numeric\")\n```",
+  "answer": "isdigit",
+  "difficulty": 9,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

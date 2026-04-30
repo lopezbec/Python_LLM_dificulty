@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: To iterate over two sequences simultaneously, you can use the ______ function, which pairs elements from each sequence together.",
+  "answer": "zip"
+}

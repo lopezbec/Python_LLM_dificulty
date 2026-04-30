@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "logged_in = True",
+        "role = 'admin'",
+        "if logged_in ___ role == 'admin':",
+        "print('Access Granted')",
+        "and"
+    ]
+}

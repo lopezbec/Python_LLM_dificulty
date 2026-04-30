@@ -1,0 +1,11 @@
+{
+  "question": "5. How can you check multiple conditions using if-statements?",
+  "difficulty": 5,
+  "options": {
+    "a": "Using elif for additional conditions",
+    "b": "Using endif to conclude conditions",
+    "c": "Using switch-case statements",
+    "d": "Using conditional loops"
+  },
+  "correct_answer": "a"
+}

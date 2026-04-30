@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if isinstance(x, ______):",
+        "int"
+    ]
+}

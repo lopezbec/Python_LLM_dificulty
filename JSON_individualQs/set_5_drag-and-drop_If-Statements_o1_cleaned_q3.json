@@ -1,0 +1,14 @@
+{
+  "question": "Fill in the missing condition to check if 'x' is not equal to 10, then print a message. Otherwise, print another message.",
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "codeSnippet": "x = 10\nif ( {CONDITION} ):\n    print(\"x is not 10\")\nelse:\n    print(\"x is 10\")",
+  "dragItems": [
+    "x != 10",
+    "x == 10",
+    "x > 10"
+  ],
+  "correctAnswer": [
+    "x != 10"
+  ]
+}

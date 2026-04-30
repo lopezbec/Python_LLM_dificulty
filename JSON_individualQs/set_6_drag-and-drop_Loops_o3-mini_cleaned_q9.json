@@ -1,0 +1,17 @@
+{
+  "question_id": 9,
+  "difficulty": 9,
+  "question_text": "Drag and drop the correct function to explicitly convert a list of tuples into an iterator for iteration.",
+  "code_snippet": "coordinates = [(1, 2), (3, 4), (5, 6)]\nfor pair in ____(coordinates):\n    print(pair)",
+  "draggable_items": {
+    "blank1": [
+      "iter",
+      "enumerate",
+      "range",
+      "zip"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "iter"
+  }
+}

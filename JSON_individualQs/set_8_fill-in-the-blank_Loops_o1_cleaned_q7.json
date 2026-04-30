@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can use an __________ clause after a loop to execute a block of code only if the loop completes normally without a break statement.",
+  "answer": "else"
+}

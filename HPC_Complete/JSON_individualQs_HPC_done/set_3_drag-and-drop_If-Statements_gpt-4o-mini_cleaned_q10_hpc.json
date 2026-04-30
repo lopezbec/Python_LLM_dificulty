@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (x > 5 && y < 10) { ______ } else { print('Conditions not met'); }",
+        "print('Both conditions satisfied')",
+        "return True",
+        "x + y",
+        "print('Single condition met')"
+    ]
+}

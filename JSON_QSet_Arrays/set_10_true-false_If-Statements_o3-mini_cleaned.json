@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if statement requires a colon (:) at the end of its header line.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "The code snippet 'if x = 10:\\n    print(\"Yes\")' is a valid if statement in Python.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "Python's if statements cannot combine multiple conditions with logical operators like 'and' or 'or'.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "An if statement in Python can include an else clause to execute code when the condition is false.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "Python supports inline if statements using a ternary operator, for example: 'result = \"Yes\" if condition else \"No\"'.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "In an if-elif chain, all conditions are evaluated even after a true condition is encountered.",
+    "answer": false
+  },
+  {
+    "difficulty": 7,
+    "question": "When using nested if statements in Python, the inner if is executed only when its outer if condition is True.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "Within an if statement, Python allows the use of the 'in' operator to perform membership tests, such as 'if item in collection:'.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "The expressions 'if not x is None:' and 'if x is not None:' are equivalent in Python.",
+    "answer": true
+  },
+  {
+    "difficulty": 10,
+    "question": "In nested if statements, if an inner if statement lacks an else clause, Python automatically provides an else block that returns None.",
+    "answer": false
+  }
+]

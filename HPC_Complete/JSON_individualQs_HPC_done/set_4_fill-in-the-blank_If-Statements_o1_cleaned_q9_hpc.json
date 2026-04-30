@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "choice",
+        "['start', 'stop']",
+        "if choice ______ ['start', 'stop']:",
+        "print(\"Valid choice\")"
+    ]
+}

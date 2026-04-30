@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Fill in the blank to complete a basic for loop that iterates five times in Python:\n\nfor i in ____:\n    print(i)",
+    "answer": "range(5)"
+  },
+  {
+    "question": "Fill in the blank to initialize a while loop that continues as long as 'count' is less than 10:\n\ncount = 0\nwhile ____ < 10:\n    count += 1",
+    "answer": "count"
+  },
+  {
+    "question": "Fill in the blank to iterate over each element in the list 'fruits':\n\nfruits = ['apple', 'banana', 'cherry']\nfor fruit in ____:\n    print(fruit)",
+    "answer": "fruits"
+  },
+  {
+    "question": "Fill in the blank to exit a loop when a certain condition is met:\n\nfor num in range(10):\n    if num == 5:\n        ____",
+    "answer": "break"
+  },
+  {
+    "question": "Fill in the blank to skip the current iteration and continue with the next one in a for loop:\n\nfor char in 'python':\n    if char == 'h':\n        ____\n    print(char)",
+    "answer": "continue"
+  },
+  {
+    "question": "Fill in the blank to complete the inner loop in the nested loops that print a 3x2 grid:\n\nfor x in range(3):\n    for y in ____:\n        print(f\"({x}, {y})\")",
+    "answer": "range(2)"
+  },
+  {
+    "question": "Fill in the blank to add an else clause to a for loop that executes when the loop completes without a break:\n\nfor item in items:\n    if item == target:\n        break\nelse:\n    print(\"____\")",
+    "answer": "Not found"
+  },
+  {
+    "question": "Fill in the blank to append the square of 'i' to the 'squares' list inside the loop:\n\nsquares = []\nfor i in range(10):\n    ____.append(i ** 2)",
+    "answer": "squares"
+  },
+  {
+    "question": "Fill in the blank to use enumerate to get both index and value in a loop:\n\nfor index, value in ____(my_list):\n    print(index, value)",
+    "answer": "enumerate"
+  },
+  {
+    "question": "Fill in the blank to retrieve the next item from the generator 'gen' inside a while loop:\n\ngen = (x for x in range(3))\nwhile True:\n    try:\n        value = ____(gen)\n        print(value)\n    except StopIteration:\n        break",
+    "answer": "next"
+  }
+]

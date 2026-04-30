@@ -1,0 +1,7 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to evaluate multiple conditions using logical AND: \n```python\nx = 10\ny = 20\nif x > 5 ____ y < 25:\n    print(\"Both conditions are True\")\n```",
+  "answer": "and"
+}

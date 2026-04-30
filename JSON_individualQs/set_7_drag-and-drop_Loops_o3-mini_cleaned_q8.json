@@ -1,0 +1,15 @@
+{
+  "difficulty": 8,
+  "question": "Drag and drop the correct code snippet into the blank to complete the inner loop such that it exits when j equals 1. The intended behavior is to break out of the inner loop early:\n\nfor i in range(3):\n    for j in range(3):\n        __\n        print(i, j)",
+  "dragItems": [
+    "if j == 1:\n            break",
+    "if j == 1:\n    break",
+    "if j == 1:\n\tbreak"
+  ],
+  "dropZones": [
+    "Blank"
+  ],
+  "correctMapping": {
+    "Blank": "if j == 1:\n            break"
+  }
+}

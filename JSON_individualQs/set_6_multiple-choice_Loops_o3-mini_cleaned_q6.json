@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What is the role of the 'else' clause following a loop in Python?",
+  "options": [
+    "It executes after the loop completes normally.",
+    "It creates an infinite loop.",
+    "It resets the loop variable.",
+    "It terminates the loop immediately."
+  ],
+  "correctAnswer": "It executes after the loop completes normally."
+}

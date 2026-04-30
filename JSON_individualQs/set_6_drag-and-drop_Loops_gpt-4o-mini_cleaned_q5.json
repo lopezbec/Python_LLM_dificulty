@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Arrange the code segments to form a loop that sums the numbers from 1 to 10.",
+  "options": [
+    "total = 0",
+    "for i in range(1, 11):",
+    "total += i",
+    "print(total)"
+  ],
+  "correct_order": [
+    "total = 0",
+    "for i in range(1, 11):",
+    "total += i",
+    "print(total)"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which statement ends the current iteration of a loop and continues with the next iteration?",
+  "options": [
+    "break",
+    "continue",
+    "pass",
+    "exit"
+  ],
+  "correct_answer": "continue"
+}

@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "value = 0",
+        "if ( value < 0 ):",
+        "print('Negative')",
+        "elif ( ___ == ___ ):",
+        "print('Zero')",
+        "else:",
+        "print('Positive')",
+        "value",
+        "0",
+        "1",
+        "<",
+        ">"
+    ]
+}

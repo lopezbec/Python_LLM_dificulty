@@ -1,0 +1,17 @@
+{
+  "difficulty": 4,
+  "description": "Fill in the blanks to check if the variable 'age' is within the range of 13 to 19 inclusive.",
+  "code": "age = 15\nif ( ___ <= age ___ ___ ):\n    print('Teenager')",
+  "options": [
+    "13",
+    "<=",
+    "==",
+    "19",
+    ">="
+  ],
+  "correct": [
+    "13",
+    "<=",
+    "19"
+  ]
+}

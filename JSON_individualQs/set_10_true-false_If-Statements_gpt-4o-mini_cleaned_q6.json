@@ -1,0 +1,5 @@
+{
+  "question": "If the condition of an if-statement is false, all subsequent elif clauses are also skipped.",
+  "difficulty": 6,
+  "answer": false
+}

@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "number",
+        "if (number % 2) ___ 0: print(\"Even\")"
+    ]
+}

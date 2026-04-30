@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "result = 0",
+        "for i in range(5):",
+        "j = 0",
+        "while j < i:",
+        "result += 1",
+        "j += 1",
+        "print(result)"
+    ]
+}

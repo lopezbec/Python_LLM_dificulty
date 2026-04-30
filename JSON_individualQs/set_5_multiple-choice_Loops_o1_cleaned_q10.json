@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet:\n\nfor n in range(2, 10):\n    for x in range(2, n):\n        if n % x == 0:\n            print(n, 'equals', x, '*', n//x)\n            break\n    else:\n        print(n, 'is a prime number')\n\nWhich of the following statements best describes what this code does?",
+  "difficulty": 10,
+  "choices": [
+    "It prints all numbers from 2 to 9 that are not prime",
+    "It identifies prime numbers from 2 to 9 and prints a factorization for non-prime numbers",
+    "It calculates the sum of all prime numbers in the range 2 to 9",
+    "It prints only the prime numbers from 2 to 9"
+  ],
+  "correct_answer": "It identifies prime numbers from 2 to 9 and prints a factorization for non-prime numbers"
+}

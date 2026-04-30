@@ -1,0 +1,5 @@
+{
+  "question": "The module ______ provides specialized tools for creating and working with complex iterators in Python.",
+  "difficulty": 10,
+  "answer": "itertools"
+}

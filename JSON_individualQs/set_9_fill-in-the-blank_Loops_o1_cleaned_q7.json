@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank to access both index and item:\n\nitems = ['apple', 'banana', 'cherry']\nfor index, item in __________(items):\n    print(index, item)",
+  "answer": "enumerate"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What will this code output if x = 10 and y = 20?\n\nif x < y:\n    print('x is less than y')\nelse:\n    print('x is greater than or equal to y')",
+  "options": [
+    "a) x is less than y",
+    "b) x is greater than or equal to y",
+    "c) Error",
+    "d) None of the above"
+  ],
+  "correct_answer": "a",
+  "difficulty": 8
+}

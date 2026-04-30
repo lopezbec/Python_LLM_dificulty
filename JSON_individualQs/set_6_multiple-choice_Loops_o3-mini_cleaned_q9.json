@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the following code. What is its output?\n\nn = 3\nfor i in range(n):\n    for j in range(n - i):\n        print('*', end='')\n    print()",
+  "options": [
+    "***\n**\n*",
+    "*\n**\n***",
+    "***\n*\n**",
+    "Error"
+  ],
+  "correctAnswer": "***\n**\n*"
+}

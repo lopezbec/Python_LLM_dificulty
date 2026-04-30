@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "How can you avoid executing an if-statement block when a condition is false without using 'else'?",
+  "options": [
+    "Use elif without a statement",
+    "Write a 'pass' statement inside the if block",
+    "None of the above",
+    "Wrap the condition in a function"
+  ],
+  "correct_answer": "None of the above"
+}

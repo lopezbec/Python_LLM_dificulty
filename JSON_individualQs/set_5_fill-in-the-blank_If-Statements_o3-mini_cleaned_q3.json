@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank to provide an alternate branch for the following code:\n\nif x > 0:\n    print('Positive')\n______:\n    print('Non-positive')",
+  "answer": "else:"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In the following code:\n\ni = 1\nwhile i < 100:\n    i *= 2\nelse:\n    print('Done')\n\nUnder what condition is the else block executed?",
+  "options": {
+    "A": "Only when i equals 100 exactly.",
+    "B": "Only when a break statement is executed in the loop.",
+    "C": "When the loop condition becomes false without encountering a break.",
+    "D": "When i is incremented by 2."
+  },
+  "correctAnswer": "C"
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Construct the nested if-statements: \n\nFirst, check if `c` is a string and if so, then check if `c` is equal to `hello`.",
+  "difficulty": 6,
+  "snippet": "if ___:\n    if ___:\n        print('c is hello')",
+  "options": [
+    "isinstance(c, str)",
+    "c == 'hello'",
+    "c != 'hello'"
+  ],
+  "correctAnswer": [
+    "isinstance(c, str)",
+    "c == 'hello'"
+  ]
+}

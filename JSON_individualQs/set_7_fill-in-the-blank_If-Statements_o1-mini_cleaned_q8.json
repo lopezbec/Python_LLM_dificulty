@@ -1,0 +1,6 @@
+{
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to handle multiple exclusive conditions using logical OR:\n\nif temperature < 0 ___ temperature > 100:\n    print(\"Extreme temperature\")",
+  "answer": "or"
+}

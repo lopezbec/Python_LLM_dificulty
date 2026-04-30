@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if num < 10: break",
+        "if num % 2 != 0:",
+        "print(num)",
+        "for num in range(11):",
+        "continue"
+    ]
+}

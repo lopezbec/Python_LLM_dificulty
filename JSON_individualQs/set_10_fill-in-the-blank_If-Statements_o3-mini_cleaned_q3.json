@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank: To compare if two values are equal in a Python if-statement, you use the ______ operator.",
+  "answer": "=="
+}

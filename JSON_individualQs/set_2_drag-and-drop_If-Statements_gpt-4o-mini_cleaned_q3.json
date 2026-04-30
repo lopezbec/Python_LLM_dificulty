@@ -1,0 +1,10 @@
+{
+  "difficulty": 3,
+  "question": "Complete the if-statement by dragging the correct else block: \nif (x == 5) { } else _______ ;",
+  "drops": [
+    "print('Not five')",
+    "if (x != 5)",
+    "x = 5"
+  ],
+  "correct": "print('Not five')"
+}

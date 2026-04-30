@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank with the appropriate logical operator to check if a number is divisible by both 3 and 5:\n\nif n % 3 == 0 ______ n % 5 == 0:\n    print('Divisible by both')",
+  "answer": "and"
+}

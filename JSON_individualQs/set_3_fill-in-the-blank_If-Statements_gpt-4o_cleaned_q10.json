@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: When nesting if-statements, it's crucial to maintain proper ____ to avoid syntax errors and unexpected behaviors.",
+  "answer": "indentation"
+}

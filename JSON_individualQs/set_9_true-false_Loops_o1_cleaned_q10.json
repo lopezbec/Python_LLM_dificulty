@@ -1,0 +1,5 @@
+{
+  "question": "Nested loops are more efficient than single loops and produce fewer operations overall.",
+  "difficulty": 10,
+  "correct_answer": "False"
+}

@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "values = [1, 2, 3]\nfor index, value in enumerate(values):\n    print(index, value)"
+    ]
+}

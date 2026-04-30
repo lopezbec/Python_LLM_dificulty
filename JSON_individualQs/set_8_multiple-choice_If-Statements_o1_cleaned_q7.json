@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "How can you execute multiple statements only if a certain condition is True?",
+  "choices": {
+    "A": "By writing them on the same line after the if keyword",
+    "B": "By indenting all statements under the if line",
+    "C": "By placing a semicolon after the if keyword",
+    "D": "By using parentheses around each statement"
+  },
+  "correct_answer": "B"
+}

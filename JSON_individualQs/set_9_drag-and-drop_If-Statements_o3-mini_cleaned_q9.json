@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question_type": "drag-and-drop",
+  "question_text": "Fill in the blanks to create an if-elif-else structure that categorizes a number 'n' as negative, zero, or positive:\n[BLANK1] n [BLANK2] 0:\n    print('Negative')\n[BLANK3] n [BLANK4] 0:\n    print('Zero')\nelse:\n    print('Positive')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to start the condition for negative numbers",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to check if n is less than 0",
+      "correct_answer": "<"
+    },
+    {
+      "id": "BLANK3",
+      "description": "Keyword for the else-if condition",
+      "correct_answer": "elif"
+    },
+    {
+      "id": "BLANK4",
+      "description": "Operator to check if n is equal to 0",
+      "correct_answer": "=="
+    }
+  ],
+  "options": [
+    "if",
+    "elif",
+    "<",
+    "==",
+    "else",
+    ">"
+  ]
+}

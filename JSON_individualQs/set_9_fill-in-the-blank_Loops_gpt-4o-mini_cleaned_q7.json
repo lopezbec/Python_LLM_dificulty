@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In a for loop, we can iterate over elements of a list by using _____ as the iterable.",
+  "answer": "list"
+}

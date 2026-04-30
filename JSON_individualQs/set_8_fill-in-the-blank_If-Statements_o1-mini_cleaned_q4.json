@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to add an else clause to the if-statement:\n\n```python\nif score >= 50:\n    print(\"Pass\")\n___:\n    print(\"Fail\")\n```",
+  "difficulty": 4,
+  "answer": "else"
+}

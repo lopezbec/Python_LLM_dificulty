@@ -1,0 +1,18 @@
+{
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Fill in the missing pieces to check if the variable 'score' is greater than or equal to 50 and print 'Pass'.",
+  "code": "score = 55\nif ______ score ______ 50:\n    ______('Pass')",
+  "options": [
+    ">=",
+    ">",
+    "<",
+    "print",
+    "max"
+  ],
+  "correct": [
+    ">=",
+    "print"
+  ]
+}

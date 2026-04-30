@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Using 'continue' inside a loop will terminate the loop and continue with the next iteration.",
+  "answer": false
+}

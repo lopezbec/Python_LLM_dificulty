@@ -1,0 +1,10 @@
+{
+  "difficulty": 3,
+  "question": "Drag and drop to create a valid if-statement structure: if (x == 3) { _____ }",
+  "options": [
+    "print('Three')",
+    "x = 4",
+    "print('Not Three')"
+  ],
+  "correct_answer": "print('Three')"
+}

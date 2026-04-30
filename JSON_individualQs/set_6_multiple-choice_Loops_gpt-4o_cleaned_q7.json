@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is a for loop's characteristic ability that a while loop generally lacks?",
+  "options": [
+    "A) Iterating over iterable objects directly",
+    "B) Changing the loop variable inside",
+    "C) Breaking out of the loop",
+    "D) Executing code conditionally"
+  ],
+  "answer": "A"
+}

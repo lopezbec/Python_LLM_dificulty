@@ -1,0 +1,17 @@
+{
+  "question": "Drag the snippets to make a while loop that subtracts 2 from a variable until it goes below 1.",
+  "difficulty": 5,
+  "instruction": "Rearrange the snippets into a valid while loop structure.",
+  "options": [
+    "start -= 2",
+    "while start >= 1:",
+    "start = 7",
+    "print(start)"
+  ],
+  "correct_order": [
+    "start = 7",
+    "while start >= 1:",
+    "print(start)",
+    "start -= 2"
+  ]
+}

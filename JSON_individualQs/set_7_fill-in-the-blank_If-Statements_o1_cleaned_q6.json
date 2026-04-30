@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank to combine conditions in a single if statement to check if 'temperature < 0' and 'humidity > 80':\n\nif temperature < 0 ____ humidity > 80:\n    print('Freezing and Humid')",
+  "correct_answer": "and"
+}

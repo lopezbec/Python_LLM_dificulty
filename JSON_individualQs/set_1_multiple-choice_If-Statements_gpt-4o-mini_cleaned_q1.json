@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What keyword is used to start an if-statement in Python?",
+  "options": [
+    "for",
+    "while",
+    "if",
+    "else"
+  ],
+  "correct_answer": "if"
+}

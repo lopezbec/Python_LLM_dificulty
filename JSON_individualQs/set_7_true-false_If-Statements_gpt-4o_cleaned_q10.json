@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, you can use assignment expressions (also known as the walrus operator) in the condition of if-statements to both test and assign a value simultaneously.",
+  "answer": true
+}

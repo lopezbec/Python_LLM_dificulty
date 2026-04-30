@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "topic": "Loop with Enumerate",
+  "question": "Match each part of the loop using enumerate() with its function.",
+  "loop_code": "for index, value in enumerate(my_list):\n    print(index, value)",
+  "drag_items": [
+    "enumerate(my_list)",
+    "index",
+    "value"
+  ],
+  "drop_targets": [
+    "Provides both the index and value of each item in the iterable",
+    "Represents the current index in the loop",
+    "Represents the current item value in the loop"
+  ],
+  "correct_matches": {
+    "enumerate(my_list)": "Provides both the index and value of each item in the iterable",
+    "index": "Represents the current index in the loop",
+    "value": "Represents the current item value in the loop"
+  }
+}

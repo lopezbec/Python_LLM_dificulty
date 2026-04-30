@@ -1,0 +1,6 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question": "The optional else clause in a Python for loop is executed only when the loop completes without encountering a ________ statement.",
+  "correct_answer": "break"
+}

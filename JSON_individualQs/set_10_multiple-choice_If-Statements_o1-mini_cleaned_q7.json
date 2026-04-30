@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "question": "Which of the following is a valid use of an elif statement?",
+  "options": {
+    "A": "To check multiple exclusive conditions after the initial if.",
+    "B": "To execute code only when all previous conditions are False.",
+    "C": "To create an infinite loop.",
+    "D": "To terminate an if statement."
+  },
+  "answer": "A",
+  "difficulty": 7
+}

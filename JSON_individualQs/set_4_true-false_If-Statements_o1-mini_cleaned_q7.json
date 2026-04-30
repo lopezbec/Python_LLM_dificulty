@@ -1,0 +1,5 @@
+{
+  "question": "Using a single equals sign (=) in the condition of an if-statement assigns a value rather than comparing values.",
+  "difficulty": 7,
+  "answer": true
+}

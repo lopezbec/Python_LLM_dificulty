@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blanks to create a for loop that iterates through the keys and values of a dictionary `student`:\n\n```python\nstudent = {'name': 'Alice', 'age': 25}\nfor ___, ___ in student.___():\n    print(key, value)\n```",
+  "answer": "key, value, items"
+}

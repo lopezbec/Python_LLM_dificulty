@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "A while loop in Python guarantees that the loop body will execute at least once, regardless of the condition.",
+  "correct_answer": false
+}

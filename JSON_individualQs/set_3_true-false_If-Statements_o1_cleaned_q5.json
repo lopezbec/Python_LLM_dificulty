@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question": "Indentation does not affect the execution of code inside an if-statement in Python.",
+  "correct_answer": "False"
+}

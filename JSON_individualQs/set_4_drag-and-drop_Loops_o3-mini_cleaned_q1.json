@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the code snippets to create a basic Python for-loop that prints 'Hello' exactly once.",
+  "prompt": "Drag and drop the following snippets in the correct order to form a valid for-loop.",
+  "dragItems": [
+    "for i",
+    "in",
+    "range(1):",
+    "print('Hello')"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "for i",
+    "in",
+    "range(1):",
+    "print('Hello')"
+  ]
+}

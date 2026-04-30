@@ -1,0 +1,5 @@
+{
+  "level": 4,
+  "question": "Complete the if statement to check if a number is positive:\n\nif num > ____:\n    print(\"Positive number\")",
+  "answer": "0"
+}

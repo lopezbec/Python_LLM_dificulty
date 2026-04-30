@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (condition) _______ ;",
+        "print('Hello')",
+        "else",
+        "for i in range(5)"
+    ]
+}

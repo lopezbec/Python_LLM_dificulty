@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Nested loops can exist in Python, where one loop runs inside another loop.",
+  "answer": true
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In the following code, what will be printed? \n\nnum = 7 \nif num % 2 == 0:\n    print('Even') \nelif num % 2 != 0:\n    print('Odd') \nelse:\n    print('Not a number')",
+  "options": [
+    "Even",
+    "Odd",
+    "Not a number",
+    "Error"
+  ],
+  "correct_answer": "Odd"
+}

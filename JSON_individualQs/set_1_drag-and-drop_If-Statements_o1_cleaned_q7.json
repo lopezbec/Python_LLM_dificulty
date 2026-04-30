@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "question": "You want the code to print 'Access Granted' when role equals 'admin' and active is True. Drag the correct condition into the blank.",
+  "code": "role = \"admin\"\nactive = True\nif [BLANK]:\n    print(\"Access Granted\")",
+  "choices": [
+    "role == \"admin\" and active == True",
+    "role == \"admin\" or active == True",
+    "role != \"admin\" and not active"
+  ],
+  "correctAnswer": "role == \"admin\" and active == True"
+}

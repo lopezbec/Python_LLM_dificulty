@@ -1,0 +1,7 @@
+{
+  "question": "The continue statement in a loop skips the current iteration and exits the loop entirely.",
+  "answer": false,
+  "difficulty": 7,
+  "topic": "Loops",
+  "type": "True/False"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What is the primary purpose of using a loop in Python?",
+  "options": [
+    "A) To repeat a block of code multiple times",
+    "B) To call a function",
+    "C) To declare variables",
+    "D) To import libraries"
+  ],
+  "correct_answer": "A"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Drag and drop the correct condition to complete the if-statement: \n`if ( ):`",
+  "drops": [
+    "x > 10",
+    "x == 10",
+    "x < 5",
+    "x = 5"
+  ],
+  "correct": "x == 10",
+  "difficulty": 1
+}

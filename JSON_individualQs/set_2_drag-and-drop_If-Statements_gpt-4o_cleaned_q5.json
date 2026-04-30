@@ -1,0 +1,17 @@
+{
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Fill in the blanks to check whether the variable 'num' is positive and is also less than 100.",
+  "code": "num = 45\nif num > 0 ______ num ______ 100:\n    print('Number in range')",
+  "options": [
+    "and",
+    "or",
+    "not",
+    "<"
+  ],
+  "correct": [
+    "and",
+    "<"
+  ]
+}

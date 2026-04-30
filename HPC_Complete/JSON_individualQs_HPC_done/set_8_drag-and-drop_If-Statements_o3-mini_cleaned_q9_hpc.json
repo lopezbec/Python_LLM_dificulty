@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if a != b:\n    if a ___ 0:\n        print('a is positive')\n    ___:\n        print('a is not positive')\nelse:\n    print('a and b are equal')",
+        "if",
+        "elif",
+        "else",
+        ">",
+        "<",
+        "==",
+        "!="
+    ]
+}

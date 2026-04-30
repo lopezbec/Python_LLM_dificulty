@@ -1,0 +1,10 @@
+{
+  "difficulty": 4,
+  "question": "Complete the code snippet by dragging the correct condition: \n if _____: \n    print('True condition')\n",
+  "options": [
+    "x != 0",
+    "x == 0",
+    "x < 0"
+  ],
+  "correct_answer": "x != 0"
+}

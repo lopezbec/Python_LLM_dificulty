@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if x > 10: print('Large') ______ x == 10: print('Exactly ten')",
+        "elif",
+        "else",
+        "if",
+        "for"
+    ]
+}

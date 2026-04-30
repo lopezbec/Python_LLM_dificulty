@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "question": "What is the output of the following code using `enumerate`?\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor index, fruit in enumerate(fruits, start=1):\n    print(index, fruit)\n```",
+  "options": {
+    "A": "0 apple\n1 banana\n2 cherry",
+    "B": "1 apple\n2 banana\n3 cherry",
+    "C": "apple 1\nbanana 2\ncherry 3",
+    "D": "apple banana cherry"
+  },
+  "answer": "B",
+  "difficulty": 8
+}

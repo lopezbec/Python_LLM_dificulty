@@ -1,0 +1,5 @@
+{
+  "level": 8,
+  "question": "The _____ clause in a loop is executed when the loop has finished iterating over all items, without encountering a break statement.",
+  "answer": "else"
+}

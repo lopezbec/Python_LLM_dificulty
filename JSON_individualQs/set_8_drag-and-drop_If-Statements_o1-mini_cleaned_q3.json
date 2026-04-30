@@ -1,0 +1,22 @@
+{
+  "question": "Organize the following lines to create a nested if-statement where the inner condition checks if x is positive:",
+  "options": [
+    "if x > 0:",
+    "    if x > 10:",
+    "        print(\"x is greater than 10\")",
+    "    else:",
+    "        print(\"x is positive but not greater than 10\")",
+    "else:",
+    "    print(\"x is not positive\")"
+  ],
+  "answer": [
+    "if x > 0:",
+    "    if x > 10:",
+    "        print(\"x is greater than 10\")",
+    "    else:",
+    "        print(\"x is positive but not greater than 10\")",
+    "else:",
+    "    print(\"x is not positive\")"
+  ],
+  "difficulty": 3
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In an if-elif-else chain, more than one block can be executed if multiple conditions evaluate to True.",
+  "answer": "False"
+}

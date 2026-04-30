@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of these statements about nested loops is true?",
+  "options": [
+    "They cannot be used with lists.",
+    "The inner loop executes fully for each iteration of the outer loop.",
+    "They must have the same range.",
+    "Only one loop can be nested at a time."
+  ],
+  "correct_answer": "The inner loop executes fully for each iteration of the outer loop."
+}

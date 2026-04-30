@@ -1,0 +1,11 @@
+{
+  "question": "Given the following code, what will be printed?\n\n```python\nx = 10\nif x >= 10:\n    print('Exactly or more')\nelif x < 10:\n    print('Less')\nelse:\n    print('Something else')\n```\n",
+  "options": [
+    "Exactly or more",
+    "Less",
+    "Something else",
+    "None"
+  ],
+  "correct_answer": "Exactly or more",
+  "difficulty": 5
+}

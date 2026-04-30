@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Analyze the following nested if statement and determine what is printed when a = 3 and b = 5:\n\na = 3\nb = 5\nif a > 2:\n    if b < 10:\n        print(\"X\")\n    else:\n        print(\"Y\")\nelif a == 3:\n    print(\"Z\")\nelse:\n    print(\"W\")",
+  "options": [
+    "X",
+    "Y",
+    "Z",
+    "W"
+  ],
+  "correct_answer": "X"
+}

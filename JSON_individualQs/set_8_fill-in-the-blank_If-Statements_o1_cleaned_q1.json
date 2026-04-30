@@ -1,0 +1,11 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question": "Fill in the blank to check if x is greater than 0: ______ x > 0: print('Positive')",
+  "correct_answer": "if",
+  "incorrect_answers": [
+    "for",
+    "while",
+    "def"
+  ]
+}

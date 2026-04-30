@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "instruction": "Complete the if-statement by dragging the correct operation to check if a number is less than or equal to 15.",
+  "code": "if num _____ 15:\n    print('Number is small or equal to 15')",
+  "options": [
+    ">",
+    "<=",
+    "!=",
+    "=="
+  ],
+  "answer": [
+    "<="
+  ]
+}

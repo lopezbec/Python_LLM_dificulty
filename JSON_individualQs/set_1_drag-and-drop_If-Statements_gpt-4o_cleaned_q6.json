@@ -1,0 +1,12 @@
+{
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the code to print different messages based on the value of 'day'.",
+  "code": "if day == 'Monday':\n    <blank>\nelif <blank>:\n    print('Midweek')\nelse:\n    print('Weekend')",
+  "options": [
+    "print('Start of week')",
+    "day == 'Wednesday'",
+    "day == 'Friday'"
+  ]
+}

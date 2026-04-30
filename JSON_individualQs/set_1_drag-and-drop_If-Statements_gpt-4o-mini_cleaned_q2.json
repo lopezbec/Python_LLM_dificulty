@@ -1,0 +1,10 @@
+{
+  "question": "Drag and drop the correct code to complete the if-else statement: if (x > 5) { ____ } else { print('x is not greater than 5'); }",
+  "options": [
+    "print('x is greater than 5');",
+    "print('x is less than or equal to 5');",
+    "pass;"
+  ],
+  "answer": "print('x is greater than 5');",
+  "difficulty": 2
+}

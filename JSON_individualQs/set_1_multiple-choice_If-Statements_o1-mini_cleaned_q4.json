@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct way to add an else statement to an if statement?",
+  "options": {
+    "A": "if x > 0:\n    print(\"Positive\")\nelse:\n    print(\"Non-positive\")",
+    "B": "if x > 0:\n    print(\"Positive\")\notherwise:\n    print(\"Non-positive\")",
+    "C": "if x > 0:\n    print(\"Positive\")\nelse if:\n    print(\"Non-positive\")",
+    "D": "if x > 0:\n    print(\"Positive\")\nend"
+  },
+  "answer": "A",
+  "difficulty": 4
+}

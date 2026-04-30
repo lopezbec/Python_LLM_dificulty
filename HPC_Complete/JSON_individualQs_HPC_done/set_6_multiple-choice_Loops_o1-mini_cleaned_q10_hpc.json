@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "def nested_loop(n):\n    count = 0\n    for i in range(n):\n        for j in range(i, n):\n            count += 1\n    return count",
+        "O(n)",
+        "O(n log n)",
+        "O(n\u00b2)",
+        "O(2^n)"
+    ]
+}

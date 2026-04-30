@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "def test(n):\n    if n > 10:\n        if n % 2 == 0:\n            return 'Even and large'\n        else:\n            return 'Odd and large'\n    elif n > 5:\n        if n % 2 == 0:\n            return 'Even and medium'\n        else:\n            return 'Odd and medium'\n    else:\n        return 'Small'\n\nprint(test(7))",
+        "test(7)",
+        "Even and large",
+        "Odd and large",
+        "Odd and medium",
+        "Small"
+    ]
+}

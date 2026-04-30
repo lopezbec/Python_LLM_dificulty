@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "count = 0",
+        "while _____:",
+        "print('Loop #', count)",
+        "count += 1",
+        "count < 4",
+        "count > 4",
+        "count = 4"
+    ]
+}

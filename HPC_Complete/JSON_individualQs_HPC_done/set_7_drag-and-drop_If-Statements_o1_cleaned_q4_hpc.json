@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 7",
+        "____ x < 0:",
+        "print('Negative')",
+        "____ x <= 10:",
+        "print('Small positive')",
+        "else:",
+        "print('Large positive')",
+        "if",
+        "while",
+        "elif",
+        "for"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In Python, nested loops refer to placing one loop inside another loop.",
+  "type": "true/false",
+  "difficulty": 6,
+  "topic": "loops",
+  "correct_answer": "True"
+}

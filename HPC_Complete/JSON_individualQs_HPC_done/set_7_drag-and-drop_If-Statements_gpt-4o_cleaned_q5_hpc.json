@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if __complex_condition__:",
+        "__print_statement__",
+        "x > 0 and y < 5",
+        "print('Condition met')"
+    ]
+}

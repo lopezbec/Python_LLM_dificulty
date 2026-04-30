@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank: Given the following code snippet, complete the while loop condition so that the loop continues as long as x is greater than 0:\n\nx = 10\nwhile ____:\n    print(x)\n    x -= 1",
+  "answer": "x > 0"
+}

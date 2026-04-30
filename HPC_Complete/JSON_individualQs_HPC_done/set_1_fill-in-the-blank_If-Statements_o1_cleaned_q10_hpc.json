@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if data is not None ______ (status == \"active\" or status == \"pending\"):",
+        "print(\"Data is usable\")",
+        "data",
+        "status"
+    ]
+}

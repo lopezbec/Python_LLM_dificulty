@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "value",
+        "process(value):",
+        "if value ___ None:",
+        "return"
+    ]
+}

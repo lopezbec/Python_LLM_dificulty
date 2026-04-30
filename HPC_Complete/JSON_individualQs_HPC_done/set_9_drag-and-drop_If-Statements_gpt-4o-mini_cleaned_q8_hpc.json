@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (x <= y) ____ (z == 0):",
+        "print('Condition met')",
+        "and",
+        "or"
+    ]
+}

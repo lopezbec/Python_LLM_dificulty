@@ -1,0 +1,17 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "question": "Arrange the code fragments to print each character of 'cat' using a for loop.",
+  "codeBlocks": [
+    "print(char)",
+    "for char in 'cat':",
+    "char = 0",
+    "while char != 'cat':"
+  ],
+  "correctOrder": [
+    "for char in 'cat':",
+    "print(char)"
+  ],
+  "explanation": "We iterate over the string 'cat', printing each character. 'char = 0' and the while statement are incorrect here."
+}

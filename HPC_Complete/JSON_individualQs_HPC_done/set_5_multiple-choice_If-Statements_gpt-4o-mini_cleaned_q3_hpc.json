@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if 2 == 2: \n    print('Equal')\nelse: \n    print('Not Equal')",
+        "Equal",
+        "Not Equal",
+        "Error",
+        "None of the above"
+    ]
+}

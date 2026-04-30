@@ -1,0 +1,10 @@
+{
+  "question": "What is the time complexity of nested loops where the outer loop runs `n` times and the inner loop runs `m` times?",
+  "options": {
+    "A": "O(n)",
+    "B": "O(m)",
+    "C": "O(n + m)",
+    "D": "O(n * m)"
+  },
+  "answer": "D"
+}

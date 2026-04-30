@@ -1,0 +1,32 @@
+{
+  "difficulty": 10,
+  "question": "Complete the loop to calculate a running total. Use given variables and operators.",
+  "choices": [
+    "total",
+    "0",
+    "for",
+    "amount",
+    "in",
+    "transactions",
+    "total",
+    "=",
+    "print",
+    "total",
+    "+="
+  ],
+  "correct_order": [
+    "total",
+    "=",
+    "0",
+    "for",
+    "amount",
+    "in",
+    "transactions",
+    ":",
+    "total",
+    "+=",
+    "amount",
+    "print",
+    "total"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question": "Complete the nested if statement to print 'Wear a coat' if 'temperature < 10' and 'is_raining' is True:\n\nif temperature < 10:\n    ____ is_raining:\n        print('Wear a coat')",
+  "correct_answer": "if"
+}

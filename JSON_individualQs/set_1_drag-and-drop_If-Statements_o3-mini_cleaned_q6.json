@@ -1,0 +1,28 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "prompt": "Drag and drop the blocks to form an if\u2010statement with a nested condition. If user is 'admin', then check if password is '1234'. If it is, print 'Access granted'; otherwise, print 'Wrong password'. If the user is not 'admin', print 'No access'.",
+  "drag_items": [
+    "if",
+    "user == 'admin':",
+    "if",
+    "password == '1234':",
+    "print('Access granted')",
+    "else:",
+    "print('Wrong password')",
+    "else:",
+    "print('No access')"
+  ],
+  "correct_order": [
+    "if",
+    "user == 'admin':",
+    "if",
+    "password == '1234':",
+    "print('Access granted')",
+    "else:",
+    "print('Wrong password')",
+    "else:",
+    "print('No access')"
+  ],
+  "explanation": "This structure first validates the user. If the condition is met, it further checks the password; otherwise, it directly denies access."
+}

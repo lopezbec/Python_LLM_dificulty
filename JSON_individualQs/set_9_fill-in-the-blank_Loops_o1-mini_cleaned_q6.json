@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blanks: In a nested loop structure, the inner loop runs ____ times for each iteration of the ____ loop.",
+  "answer": "all outer, outer",
+  "difficulty": 6
+}

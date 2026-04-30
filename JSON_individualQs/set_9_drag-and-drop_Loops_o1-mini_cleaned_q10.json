@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "Fill in the blanks to implement a generator function using a `while` loop that yields even numbers up to `n`.",
+  "code": "def even_generator(n):\n    current = 0\n    while __ < __:\n        if current % 2 == 0:\n            __\n        current += 1",
+  "options": [
+    "current",
+    "n",
+    "yield current",
+    "return",
+    "break"
+  ],
+  "answers": {
+    "blank1": "current",
+    "blank2": "n",
+    "blank3": "yield current"
+  }
+}

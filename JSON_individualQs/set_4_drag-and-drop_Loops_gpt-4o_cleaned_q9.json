@@ -1,0 +1,19 @@
+{
+  "difficulty": 9,
+  "question": "Complete the loop to create a list of squares of numbers from 1 to 5 using list comprehension.",
+  "code": "squares = [___**2 for ___ in ___(___, ___)]",
+  "options": [
+    "number",
+    "range",
+    "6",
+    "1",
+    "2"
+  ],
+  "correct_answers": [
+    "number",
+    "number",
+    "range",
+    "1",
+    "6"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "difficulty": 4,
+  "question": "Complete the loop that prints odd numbers from 1 to 10.\n\nfor i in range(___, 11, ___):\n    print(i)",
+  "options": [
+    "2",
+    "3",
+    "1",
+    "0"
+  ],
+  "answer": [
+    "1",
+    "2"
+  ]
+}

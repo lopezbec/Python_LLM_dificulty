@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In a for loop, you can use the built-in function ______ to retrieve both index and value simultaneously.",
+  "correct_answer": "enumerate"
+}

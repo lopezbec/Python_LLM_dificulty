@@ -1,0 +1,150 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Complete the following code to create a loop that prints numbers 0 to 4.",
+    "code": "for i in <blank>: print(i)",
+    "options": [
+      "range(5)",
+      "range(0, 5)",
+      "range(1, 4)",
+      "range(1, 5)"
+    ],
+    "correct_answer": "range(5)"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blanks to print each character of 'Python' on a new line.",
+    "code": "for <blank> in <blank>: print(char)",
+    "options": [
+      "char",
+      "c",
+      "'Python'",
+      "\"Python\"",
+      "word"
+    ],
+    "correct_answer": [
+      "char",
+      "'Python'"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Complete the code to sum the numbers from 1 to 5.",
+    "code": "total = 0\nfor i in <blank>: total += <blank>",
+    "options": [
+      "range(1, 6)",
+      "i",
+      "range(5)",
+      "5",
+      "range(1, 5)"
+    ],
+    "correct_answer": [
+      "range(1, 6)",
+      "i"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Insert the correct condition to loop over the list ['apple', 'banana', 'cherry'].",
+    "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in <blank>: print(fruit)",
+    "options": [
+      "fruits",
+      "fruit",
+      "range(fruits)",
+      "range(3)"
+    ],
+    "correct_answer": "fruits"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blanks to use a while loop to print values from 0 to 4.",
+    "code": "i = 0\nwhile i < <blank>:\n    print(i)\n    i += <blank>",
+    "options": [
+      "5",
+      "4",
+      "1",
+      "0",
+      "i+"
+    ],
+    "correct_answer": [
+      "5",
+      "1"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Complete the loop to break when the item is 'banana' and continue with the next iteration otherwise.",
+    "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in fruits:\n    if fruit == <blank>:\n        <blank>\n    print(fruit)",
+    "options": [
+      "'banana'",
+      "break",
+      "continue",
+      "'apple'",
+      "'cherry'"
+    ],
+    "correct_answer": [
+      "'banana'",
+      "continue"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Complete the loop declaration to iterate over even numbers from 2 to 10 using step.",
+    "code": "for i in <blank>:\n    print(i)",
+    "options": [
+      "range(2, 11, 2)",
+      "range(2, 10)",
+      "range(0, 11, 2)",
+      "range(1, 10, 2)"
+    ],
+    "correct_answer": "range(2, 11, 2)"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blanks to iterate over a dictionary and print its keys.",
+    "code": "d = {'a': 1, 'b': 2, 'c': 3}\nfor <blank> in <blank>:\n    print(key)",
+    "options": [
+      "key",
+      "d.keys()",
+      "d.values()",
+      "d",
+      "value"
+    ],
+    "correct_answer": [
+      "key",
+      "d.keys()"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Insert code to use a nested loop to print the coordinates from (0,0) to (2,2).",
+    "code": "for i in <blank>:\n    for j in <blank>:\n        print('({}, {})'.format(i, j))",
+    "options": [
+      "range(3)",
+      "range(2)",
+      "range(0, 3)",
+      "range(1, 3)",
+      "range(0, 2)"
+    ],
+    "correct_answer": [
+      "range(3)",
+      "range(3)"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blanks to use a list comprehension inside a loop to generate a list of squares of even numbers up to 10.",
+    "code": "squares = [i**2 for i in <blank> if <blank>]\nprint(squares)",
+    "options": [
+      "range(11)",
+      "range(10)",
+      "range(1, 11, 2)",
+      "i % 2 == 0",
+      "i % 2 != 0"
+    ],
+    "correct_answer": [
+      "range(11)",
+      "i % 2 == 0"
+    ]
+  }
+]

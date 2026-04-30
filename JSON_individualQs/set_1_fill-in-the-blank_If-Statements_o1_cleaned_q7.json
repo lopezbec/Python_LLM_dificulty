@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank so the code prints \"Consonant\" if letter is absent from the vowels:\nif letter ______ in [\"a\", \"e\", \"i\", \"o\", \"u\"]:\n    print(\"Consonant\")",
+  "answer": "not"
+}

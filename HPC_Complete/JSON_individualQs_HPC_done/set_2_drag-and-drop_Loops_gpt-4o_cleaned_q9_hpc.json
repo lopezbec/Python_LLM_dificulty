@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "for",
+        "j",
+        "range",
+        "row",
+        "for",
+        "____",
+        "in matrix:",
+        "for",
+        "____",
+        "in",
+        "____:",
+        "print(cell)"
+    ]
+}

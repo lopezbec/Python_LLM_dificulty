@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "result",
+        "'High'",
+        "x > 100",
+        "'Low'",
+        "result = if x > 100: 'High' else: 'Low'",
+        "result = 'High' if x > 100 else 'Low'",
+        "result = 'Low' if x < 100 else 'High'",
+        "result = x > 100 ? 'High' : 'Low'"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "If-Statements",
+  "question": "Rearrange the following code segments to implement a function that checks eligibility for a loan.",
+  "code_segments": [
+    "def check_eligibility(age, income, credit_score):",
+    "    if age >= 18:",
+    "        if income >= 50000:",
+    "            if credit_score >= 700:",
+    "                return \"Eligible\"",
+    "            else:",
+    "                return \"Ineligible due to credit score\"",
+    "        else:",
+    "            return \"Ineligible due to income\"",
+    "    else:",
+    "        return \"Ineligible due to age\""
+  ],
+  "answer_order": [
+    "def check_eligibility(age, income, credit_score):",
+    "    if age >= 18:",
+    "        if income >= 50000:",
+    "            if credit_score >= 700:",
+    "                return \"Eligible\"",
+    "            else:",
+    "                return \"Ineligible due to credit score\"",
+    "        else:",
+    "            return \"Ineligible due to income\"",
+    "    else:",
+    "        return \"Ineligible due to age\""
+  ]
+}

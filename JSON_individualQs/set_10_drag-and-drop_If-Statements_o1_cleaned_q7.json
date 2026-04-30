@@ -1,0 +1,28 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if x is in (0,5) or in (10,20). Print 'Condition met' if either is true.",
+  "codeSnippet": "x = 3\n[1] (x [2] 0 [3] x [4] 5) [5] (x [6] 10 [7] x [8] 20):\n    print(\"Condition met\")",
+  "dragItems": [
+    "if",
+    ">",
+    "and",
+    "<",
+    "or",
+    ">",
+    "and",
+    "<"
+  ],
+  "correctAnswer": [
+    "if",
+    ">",
+    "and",
+    "<",
+    "or",
+    ">",
+    "and",
+    "<"
+  ],
+  "explanation": "The condition is '(x > 0 and x < 5) or (x > 10 and x < 20)'."
+}

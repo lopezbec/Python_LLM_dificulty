@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "day == 'Saturday' or day == 'Sunday':",
+        "print('Weekend')",
+        "day == 'Friday':",
+        "print('Almost Weekend')",
+        "print('Weekday')",
+        "if",
+        "elif",
+        "else"
+    ]
+}

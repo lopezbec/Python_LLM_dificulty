@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Python supports inline if statements using a ternary operator, for example: 'result = \"Yes\" if condition else \"No\"'.",
+  "answer": true
+}

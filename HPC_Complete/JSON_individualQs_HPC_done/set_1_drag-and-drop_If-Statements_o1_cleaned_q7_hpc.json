@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "role",
+        "admin",
+        "active",
+        "True",
+        "role = \"admin\"",
+        "active = True",
+        "if [BLANK]:",
+        "print(\"Access Granted\")",
+        "role == \"admin\" and active == True",
+        "role == \"admin\" or active == True",
+        "role != \"admin\" and not active"
+    ]
+}

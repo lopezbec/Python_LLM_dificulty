@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "while",
+        "Initialize sum and counter variables",
+        "Check if counter <= 10",
+        "Add counter to sum",
+        "Increment counter",
+        "End loop when condition is false"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if ____:\n    print('Hello, World!')",
+        "True",
+        "False"
+    ]
+}

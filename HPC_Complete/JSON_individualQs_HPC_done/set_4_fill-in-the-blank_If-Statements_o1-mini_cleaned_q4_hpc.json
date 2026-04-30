@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "age",
+        "if age >= 18:",
+        "has_license",
+        "if has_license ___ True:",
+        "print(\"Can drive\")"
+    ]
+}

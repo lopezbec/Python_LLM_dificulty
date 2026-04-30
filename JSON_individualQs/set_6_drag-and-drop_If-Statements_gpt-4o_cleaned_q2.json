@@ -1,0 +1,13 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the missing keyword to complete the sentence: Use the ____ keyword to check if a condition is true.",
+  "code_blocks": [],
+  "droppable_items": [
+    "if",
+    "else",
+    "elif"
+  ],
+  "solution": [
+    "if"
+  ]
+}

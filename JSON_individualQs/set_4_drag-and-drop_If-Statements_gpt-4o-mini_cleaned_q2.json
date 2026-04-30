@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "question": "Complete the if-statement by dragging the correct option: If x is equal to 5, _____ else print('Not 5').",
+  "options": [
+    "print('Five')",
+    "x += 1",
+    "x = 5"
+  ],
+  "correct_answer": "print('Five')"
+}

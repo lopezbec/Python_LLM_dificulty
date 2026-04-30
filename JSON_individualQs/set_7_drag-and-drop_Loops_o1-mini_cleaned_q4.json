@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "Loops",
+  "question": "Match the loop control statements to their function.",
+  "drag_items": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "drop_zones": [
+    "Exit the loop immediately",
+    "Skip to the next iteration",
+    "Do nothing and continue"
+  ],
+  "instructions": "Drag each control statement to its correct description."
+}

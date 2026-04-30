@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: Placing an if-statement inside another if-statement is known as ______, a technique often used to handle complex conditions.",
+  "answer": "nesting"
+}

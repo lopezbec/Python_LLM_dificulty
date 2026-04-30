@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank to complete the while loop that runs as long as `count` is less than 3.\n\n```python\ncount = 0\nwhile ___ < 3:\n    print(count)\n    count += 1\n```",
+  "answer": "count"
+}

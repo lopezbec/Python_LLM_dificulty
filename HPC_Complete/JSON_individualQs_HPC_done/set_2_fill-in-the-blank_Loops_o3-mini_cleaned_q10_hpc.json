@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "result = [x for x in my_list if ____]",
+        "my_list",
+        "x > 10"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to check if 'item' is not in 'inventory' using an if-statement:\n\ninventory = ['apple', 'banana', 'orange']\nitem = 'grape'\nif item ___ ___ inventory:\n    print(\"Item not found\")",
+  "answer": "not in",
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

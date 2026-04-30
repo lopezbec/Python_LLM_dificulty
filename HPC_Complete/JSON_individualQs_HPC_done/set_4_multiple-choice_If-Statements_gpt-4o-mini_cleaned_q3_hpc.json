@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x < 5:",
+        "print('Low')",
+        "elif x < 15:",
+        "print('Medium')",
+        "else:",
+        "print('High')",
+        "x",
+        "['Low', 'Medium', 'High', 'Error']"
+    ]
+}

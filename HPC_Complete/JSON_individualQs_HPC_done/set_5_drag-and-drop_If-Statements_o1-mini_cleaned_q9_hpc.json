@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "def check_divisible(n):",
+        "if n % 3 == 0 ___(1)___ n % 5 == 0:",
+        "return True",
+        "return False",
+        "and",
+        "or",
+        "not",
+        "==",
+        ":",
+        "elif"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "List comprehensions cannot be used as an alternative to loops for creating new lists based on an existing list.",
+  "correct_answer": "False"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for i in ____(0, 5):\n    print(i)",
+        "range",
+        "list",
+        "enumerate",
+        "loop"
+    ]
+}

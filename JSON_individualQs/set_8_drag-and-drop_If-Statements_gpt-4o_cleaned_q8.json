@@ -1,0 +1,15 @@
+{
+  "question": "Construct the if-else-if ladder to check if `number` is divisible by 2, 3 or both.",
+  "difficulty": 8,
+  "snippet": "if ___:\n    print('Divisible by both')\nelif ___:\n    print('Divisible by 2')\nelif ___:\n    print('Divisible by 3')",
+  "options": [
+    "number % 2 == 0 and number % 3 == 0",
+    "number % 2 == 0",
+    "number % 3 == 0"
+  ],
+  "correctAnswer": [
+    "number % 2 == 0 and number % 3 == 0",
+    "number % 2 == 0",
+    "number % 3 == 0"
+  ]
+}

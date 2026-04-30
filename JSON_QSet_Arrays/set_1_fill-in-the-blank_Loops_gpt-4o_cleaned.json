@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A loop that repeats a block of code a specified number of times is called a ______ loop.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, the keyword used for an unconditional loop is ______.",
+    "answer": "while"
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, the keyword that stops the current loop iteration and continues to the next iteration is ______.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 4,
+    "question": "To loop through a sequence of numbers, you often use the ______ function in Python.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 5,
+    "question": "The ______ statement is used to exit a loop prematurely.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 6,
+    "question": "The for-loop syntax 'for item in ______: ' is used to iterate over lists, tuples, or other iterable objects.",
+    "answer": "iterable"
+  },
+  {
+    "difficulty": 7,
+    "question": "When using a while loop, the condition expression is evaluated ______ each iteration.",
+    "answer": "before"
+  },
+  {
+    "difficulty": 8,
+    "question": "To avoid infinite loops, the ______ within the loop must eventually evaluate to False.",
+    "answer": "condition"
+  },
+  {
+    "difficulty": 9,
+    "question": "The control structure '______ else' can be used to execute code after a loop finishes without a 'break'.",
+    "answer": "for/while"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, a nested loop refers to a loop that ______.",
+    "answer": "runs inside another loop"
+  }
+]

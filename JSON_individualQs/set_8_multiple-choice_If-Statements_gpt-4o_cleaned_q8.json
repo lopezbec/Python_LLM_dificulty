@@ -1,0 +1,13 @@
+{
+  "difficulty": 8,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "How many times will the word 'Python' be printed in the following code?\n\n```\nfor char in 'Programming':\n    if char in 'Python':\n        print('Python')\n```\n",
+  "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "correct_answer": "3"
+}

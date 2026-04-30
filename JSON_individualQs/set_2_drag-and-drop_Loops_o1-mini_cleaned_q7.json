@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "question": "Match the loop construct to its equivalent behavior in a different programming language.",
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "Loops",
+  "dragItems": [
+    "for item in collection:",
+    "foreach ($item in collection)",
+    "for (int i = 0; i < len; i++)"
+  ],
+  "dropTargets": [
+    "Python equivalent",
+    "PHP equivalent",
+    "C-style equivalent"
+  ],
+  "correctAssociations": {
+    "for item in collection:": "Python equivalent",
+    "foreach ($item in collection)": "PHP equivalent",
+    "for (int i = 0; i < len; i++)": "C-style equivalent"
+  }
+}

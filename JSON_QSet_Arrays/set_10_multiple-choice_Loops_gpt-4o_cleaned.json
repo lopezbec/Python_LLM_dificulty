@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following is a correctly formatted Python 'for' loop?",
+    "options": [
+      "A) for i in range(5): print(i)",
+      "B) for(i=0; i<5; i++): print(i)",
+      "C) foreach i in 5: print(i)",
+      "D) loop i from 0 to 5 print(i)"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "What is the output of the following code?\n\nfor i in range(3):\n    print(i)",
+    "options": [
+      "A) 0 1 2",
+      "B) 1 2 3",
+      "C) 0 1 2 3",
+      "D) 1 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 3,
+    "question": "How many times will the loop execute?\n\nfor i in range(2, 10, 2):\n    print(i)",
+    "options": [
+      "A) 4",
+      "B) 5",
+      "C) 2",
+      "D) 8"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 4,
+    "question": "Which statement correctly stops a loop prematurely in Python?",
+    "options": [
+      "A) break",
+      "B) stop",
+      "C) exit",
+      "D) terminate"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 5,
+    "question": "What is the purpose of 'continue' in a loop?",
+    "options": [
+      "A) It skips the rest of the loop's code and starts the next iteration immediately.",
+      "B) It stops the loop from executing further.",
+      "C) It repeats the current iteration.",
+      "D) It initializes the loop state."
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 6,
+    "question": "Consider the following code:\n\nn = 4\nresult = 0\nwhile n > 0:\n    result += n\n    n -= 1\n\nWhat will be the value of 'result' after execution?",
+    "options": [
+      "A) 4",
+      "B) 10",
+      "C) 0",
+      "D) 15"
+    ],
+    "answer": "B"
+  },
+  {
+    "difficulty": 7,
+    "question": "Which loop should you use when the number of iterations is not known beforehand?",
+    "options": [
+      "A) while",
+      "B) for",
+      "C) do-while",
+      "D) foreach"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 8,
+    "question": "What will be the output of the following code snippet?\n\nnums = [10, 20, 30]\nfor num in nums:\n    if num == 20:\n        break\n    print(num)",
+    "options": [
+      "A) 10",
+      "B) 10 20",
+      "C) 10 30",
+      "D) 30"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 9,
+    "question": "How can you create an infinite loop using a 'while' loop?",
+    "options": [
+      "A) while True: pass",
+      "B) while 1: pass",
+      "C) while(1) { }",
+      "D) Both A and B"
+    ],
+    "answer": "D"
+  },
+  {
+    "difficulty": 10,
+    "question": "What will be the final sum of 's' in the following code?\n\ns = 0\nfor i in range(1, 10):\n    if i % 2 == 0:\n        continue\n    s += i\n",
+    "options": [
+      "A) 25",
+      "B) 30",
+      "C) 45",
+      "D) 20"
+    ],
+    "answer": "A"
+  }
+]

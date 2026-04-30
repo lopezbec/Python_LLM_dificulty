@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following is the correct basic syntax for an if statement in Python?",
+    "options": {
+      "A": "if x > 0: print('positive')",
+      "B": "if x > 0 then print('positive')",
+      "C": "if (x > 0) print('positive')",
+      "D": "if x > 0: then print('positive')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which keyword is used to execute a block of code if the condition in an if statement is false?",
+    "options": {
+      "A": "elif",
+      "B": "else",
+      "C": "default",
+      "D": "except"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which keyword allows you to check an additional condition if the previous if condition is false?",
+    "options": {
+      "A": "else",
+      "B": "elif",
+      "C": "except",
+      "D": "finally"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 4,
+    "question": "What is the output of the following code?\n\nx = 5\nif x < 10:\n    print('Low')\nelse:\n    print('High')",
+    "options": {
+      "A": "High",
+      "B": "Low",
+      "C": "None",
+      "D": "Error"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 5,
+    "question": "Consider the following nested if statement:\n\nx = 10\nif x > 5:\n    if x < 15:\n        print('Mid range')\n\nWhat is printed when this code is executed?",
+    "options": {
+      "A": "Mid range",
+      "B": "Nothing",
+      "C": "Error",
+      "D": "Out of range"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 6,
+    "question": "Which of the following code snippets properly uses logical operators to check if 'x' is greater than 0 and less than 10?",
+    "options": {
+      "A": "if (x > 0) and (x < 10):\n    print('x is a single digit')",
+      "B": "if x > 0 or x < 10:\n    print('x is a single digit')",
+      "C": "if (x > 0 && x < 10):\n    print('x is a single digit')",
+      "D": "if x > 0 & x < 10:\n    print('x is a single digit')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 7,
+    "question": "Given the following code snippet:\n\nx = 7\nif x % 2 == 0:\n    print('Even')\nelif x % 2 != 0:\n    print('Odd')\n\nWhat is the output when the code is executed?",
+    "options": {
+      "A": "Even",
+      "B": "Odd",
+      "C": "0",
+      "D": "Error"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 8,
+    "question": "Consider the code:\n\nx = 3\nif x > 5:\n    print('Greater than 5')\nelif x == 3:\n    print('Equal to 3')\nelse:\n    print('Less than 5')\n\nWhat will be printed?",
+    "options": {
+      "A": "Greater than 5",
+      "B": "Equal to 3",
+      "C": "Less than 5",
+      "D": "No output"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 9,
+    "question": "Examine the following Python code:\n\na = 10\nb = 20\nif a > b:\n    print('a is greater')\nelif a == b:\n    print('a and b are equal')\nelse:\n    print('b is greater')\n\nWhat will be printed when this code runs?",
+    "options": {
+      "A": "a is greater",
+      "B": "a and b are equal",
+      "C": "b is greater",
+      "D": "Error"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 10,
+    "question": "Which of the following code snippets correctly checks if a variable 's' (a string) is non-empty and starts with the uppercase letter 'A', while avoiding errors if the string is empty?",
+    "options": {
+      "A": "if s.startswith('A'):\n    print('Starts with A')",
+      "B": "if s[0] == 'A':\n    print('Starts with A')",
+      "C": "if s == 'A':\n    print('Starts with A')",
+      "D": "if s.find('A'):\n    print('Starts with A')"
+    },
+    "correct_answer": "A"
+  }
+]

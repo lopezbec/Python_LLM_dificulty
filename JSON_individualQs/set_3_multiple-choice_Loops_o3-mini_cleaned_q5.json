@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which of the following is a valid way to prematurely exit a loop?",
+  "options": [
+    "continue",
+    "pass",
+    "break",
+    "exit()"
+  ],
+  "correct_answer": "break"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "What is the output of the following code?\n\n```python\nfor i in range(2, 10, 3):\n    print(i, end=' ')",
+  "options": [
+    "2 5 8",
+    "2 3 4",
+    "2 5",
+    "2 6 9"
+  ],
+  "correct_answer": "2 5 8"
+}

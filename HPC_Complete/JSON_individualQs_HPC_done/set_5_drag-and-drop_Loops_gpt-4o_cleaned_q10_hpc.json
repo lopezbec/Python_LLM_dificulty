@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "squares = [i**2 for i in <blank> if <blank>]",
+        "print(squares)",
+        "range(11)",
+        "range(10)",
+        "range(1, 11, 2)",
+        "i % 2 == 0",
+        "i % 2 != 0"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "question": "Drag the components to correctly construct a nested for loop that iterates over a 2D list in Python.",
+  "type": "drag-and-drop",
+  "difficulty": 10,
+  "topic": "Loops",
+  "dragItems": [
+    "for row in matrix:",
+    "    for item in row:",
+    "        print(item)"
+  ],
+  "dropTargets": [
+    "_1_",
+    "_2_",
+    "_3_"
+  ],
+  "correctAssociations": {
+    "for row in matrix:": "_1_",
+    "for item in row:": "_2_",
+    "print(item)": "_3_"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Indentation is mandatory after an if statement if it has a block of code to execute in Python.",
+  "correct_answer": "True"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which operator correctly tests equality in an if-statement in Python?",
+  "options": [
+    "==",
+    "=",
+    "<>",
+    "!="
+  ],
+  "answer": "=="
+}

@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "if ____: \n    print(\"Condition is True\")"
+    ]
+}

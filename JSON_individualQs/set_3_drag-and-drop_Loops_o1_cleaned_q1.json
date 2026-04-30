@@ -1,0 +1,25 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "questionText": "Drag the correct condition and increment statement to complete this while loop that prints numbers 1 through 3:",
+  "codeSnippet": [
+    "numbers = 1",
+    "while [CONDITION_PLACEHOLDER]:",
+    "    print(numbers)",
+    "    [INCREMENT_PLACEHOLDER]"
+  ],
+  "dragItems": [
+    "numbers < 4",
+    "numbers += 1",
+    "numbers > 3",
+    "numbers -= 1"
+  ],
+  "dropSlots": [
+    "CONDITION_PLACEHOLDER",
+    "INCREMENT_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "CONDITION_PLACEHOLDER": "numbers < 4",
+    "INCREMENT_PLACEHOLDER": "numbers += 1"
+  }
+}

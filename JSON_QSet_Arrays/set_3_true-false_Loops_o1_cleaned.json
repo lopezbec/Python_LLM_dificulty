@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop in Python can iterate over each character in a string.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "A 'while' loop in Python always runs at least once.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "The 'break' statement in Python ends the current iteration and moves to the next iteration.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 4,
+    "question": "Iterable objects like lists and strings can be directly used in a Python 'for' loop.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "You can nest multiple loops within each other in Python.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "Using 'continue' in a Python loop will skip the rest of the current iteration and move to the next iteration.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "The 'else' clause in a Python loop executes only if the loop exits normally, without encountering a 'break'.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "In Python, 'for i in range(5):' will iterate i from 1 through 5.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "List comprehensions do not use any kind of looping mechanism in Python.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 10,
+    "question": "When iterating over a dictionary in a Python for loop, the iteration defaults to the dictionary\u2019s keys.",
+    "correctAnswer": "True"
+  }
+]

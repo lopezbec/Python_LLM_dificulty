@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which loop will execute the code block the correct number of times?\n\nLoop: for i in range(2, 5):",
+  "options": [
+    "Executes 4 times",
+    "Executes 2 times",
+    "Executes 3 times",
+    "Executes 5 times"
+  ],
+  "correct_answer": "Executes 3 times"
+}

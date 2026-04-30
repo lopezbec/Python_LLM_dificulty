@@ -1,0 +1,5 @@
+{
+  "question": "When using a 'for' loop, the variable in the loop's declaration cannot be used outside of the loop.",
+  "answer": false,
+  "difficulty": 9
+}

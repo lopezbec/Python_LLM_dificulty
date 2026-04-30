@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, 'if' statements can only compare equality and cannot use operators like '<' or '!='.",
+  "answer": "False"
+}

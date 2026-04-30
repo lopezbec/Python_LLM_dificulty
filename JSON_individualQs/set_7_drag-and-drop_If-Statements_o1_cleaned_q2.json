@@ -1,0 +1,17 @@
+{
+  "difficulty": 2,
+  "question": "Complete the code snippet to print 'Negative', 'Zero', or 'Positive' based on x.",
+  "instruction": "Drag and drop the correct statements into the placeholders.",
+  "partiallyCompletedCode": "x = 0\n____ x < 0:\n    print('Negative')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Positive')",
+  "dragItems": [
+    "if",
+    "while",
+    "elif",
+    "for"
+  ],
+  "correctAnswer": [
+    "if",
+    "elif"
+  ],
+  "explanation": "We start with 'if x < 0' and then use 'elif x == 0' before the else condition."
+}

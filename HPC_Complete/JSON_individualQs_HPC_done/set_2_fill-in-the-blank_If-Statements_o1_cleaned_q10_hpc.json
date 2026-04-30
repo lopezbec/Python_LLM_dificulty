@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "result",
+        "if ______:",
+        "result > 100 or result < -100"
+    ]
+}

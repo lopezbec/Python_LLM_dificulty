@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "question": "Which of the following is a correct way to iterate over all elements in the list `fruits = ['apple', 'banana', 'cherry']`?",
+  "options": {
+    "A": "`for fruit in fruits:`\n    `print(fruit)`",
+    "B": "`for i in 3:`\n    `print(fruits[i])`",
+    "C": "`for fruit in range(len(fruits)):`\n    `print(fruits)`",
+    "D": "`while fruit in fruits:`\n    `print(fruit)`"
+  },
+  "answer": "A",
+  "difficulty": 2
+}

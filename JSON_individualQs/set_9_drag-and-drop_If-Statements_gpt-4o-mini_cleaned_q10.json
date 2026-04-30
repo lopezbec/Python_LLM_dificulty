@@ -1,0 +1,14 @@
+{
+  "difficulty": 10,
+  "question": "Drag the correct elements to build a ternary operator equivalent to an if-statement:\n\nresult = ____ ? ____ : ____",
+  "options": [
+    "x > y",
+    "'X is greater' ",
+    "'Y is greater'"
+  ],
+  "correct_answers": [
+    "x > y",
+    "'X is greater' ",
+    "'Y is greater'"
+  ]
+}

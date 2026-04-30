@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "How many times will the loop 'for i in range(3):' execute?",
+  "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4"
+  },
+  "correct_answer": "C"
+}

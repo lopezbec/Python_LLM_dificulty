@@ -1,0 +1,11 @@
+{
+  "question": "What is the default increment step in the range() function for a for loop in Python if not specified?",
+  "difficulty": 2,
+  "options": [
+    "1",
+    "2",
+    "0",
+    "-1"
+  ],
+  "answer": "1"
+}

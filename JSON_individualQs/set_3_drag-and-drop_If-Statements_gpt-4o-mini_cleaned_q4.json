@@ -1,0 +1,11 @@
+{
+  "question": "Complete this if-else statement by dragging the correct option to the blank: \nif (y < 0) { ______ } else { print(y) }",
+  "options": [
+    "print('Negative')",
+    "y * 2",
+    "True",
+    "y = 1"
+  ],
+  "correct_answer": "print('Negative')",
+  "difficulty": 4
+}

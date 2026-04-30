@@ -1,0 +1,17 @@
+{
+  "question": "Level 9: Checking Membership in Lists",
+  "instruction": "Set up a condition that checks membership within a list.",
+  "difficulty": 9,
+  "code_blocks": [
+    "if __membership_condition__:",
+    "    __print_statement__"
+  ],
+  "options": [
+    "element in my_list",
+    "print('Element found')"
+  ],
+  "correct_structure": {
+    "__membership_condition__": "element in my_list",
+    "__print_statement__": "print('Element found')"
+  }
+}

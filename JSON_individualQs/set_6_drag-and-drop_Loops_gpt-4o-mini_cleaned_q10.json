@@ -1,0 +1,16 @@
+{
+  "difficulty": 10,
+  "question": "Drag the code snippets to create a loop that reverses a given list.",
+  "options": [
+    "original_list = [1, 2, 3, 4]",
+    "reversed_list = []",
+    "for item in original_list:",
+    "reversed_list.insert(0, item)"
+  ],
+  "correct_order": [
+    "original_list = [1, 2, 3, 4]",
+    "reversed_list = []",
+    "for item in original_list:",
+    "reversed_list.insert(0, item)"
+  ]
+}

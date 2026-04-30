@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in range(2, 5):",
+        "if i % 2 == 0:",
+        "print('Found an even number:', i)",
+        "break",
+        "else:",
+        "print('No even number found.')"
+    ]
+}

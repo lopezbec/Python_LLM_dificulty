@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The 'range' function in a 'for' loop generates numbers starting from 0 by default.",
+  "answer": true
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if statement",
+        "Syntax error due to ':'' after condition",
+        "Runtime error due to inconsistent spaces",
+        "NameError when condition variable is not defined",
+        "Logic error where variable is assigned instead of compared"
+    ]
+}

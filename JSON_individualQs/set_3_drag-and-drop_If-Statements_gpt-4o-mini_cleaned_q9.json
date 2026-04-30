@@ -1,0 +1,11 @@
+{
+  "question": "Fill in the code correctly within the nested if-statement: \nif (num % 2 == 0) {\n    if (num == 0) { ______ }\n}",
+  "options": [
+    "print('Zero')",
+    "print('Even')",
+    "return False",
+    "num = 100"
+  ],
+  "correct_answer": "print('Zero')",
+  "difficulty": 9
+}

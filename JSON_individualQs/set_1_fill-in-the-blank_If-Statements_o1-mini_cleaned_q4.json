@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to include an elif clause that checks if 'temp' is below freezing:\n\ntemp = 32\nif temp > 30:\n    print(\"Warm\")\n___ temp < 32:\n    print(\"Freezing\")\nelse:\n    print(\"Cold\")",
+  "answer": "elif",
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

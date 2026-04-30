@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A for loop in Python is used to repeat a block of code a specific number of times.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "The while loop will execute its block of code at least once, even if the condition is false.",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "In a for loop, the range function can be used to generate a sequence of numbers.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "The loop control variable must be declared outside the loop in Python.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "The break statement in a loop is used to exit the loop immediately.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "A nested loop is a loop inside another loop, which is always executed at least once.",
+    "answer": false,
+    "difficulty": 6
+  },
+  {
+    "question": "The continue statement skips the current iteration of the loop and proceeds to the next iteration.",
+    "answer": true,
+    "difficulty": 7
+  },
+  {
+    "question": "A while loop could potentially run forever if the condition never evaluates to false.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "A for loop can iterate over strings, allowing you to access each character in the string.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "In Python, the number of iterations in a while loop cannot be determined at runtime.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

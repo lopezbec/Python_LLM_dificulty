@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in range(3):",
+        "for j in ___:",
+        "range(3)",
+        "range(i)",
+        "i",
+        "3"
+    ]
+}

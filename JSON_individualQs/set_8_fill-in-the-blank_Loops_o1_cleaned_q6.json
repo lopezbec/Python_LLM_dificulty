@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A for loop that iterates using the __________ function allows you to generate a sequence of numbers, such as from 0 to 9.",
+  "answer": "range"
+}

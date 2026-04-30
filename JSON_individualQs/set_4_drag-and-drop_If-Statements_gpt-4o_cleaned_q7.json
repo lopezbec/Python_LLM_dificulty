@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Modify the placeholder to include the negation of 'is_active'.",
+  "code": "if ___ not is_active:\n    print('Inactive')",
+  "options": [
+    "not",
+    "!",
+    "no"
+  ],
+  "correct": [
+    "not"
+  ],
+  "incorrect": [
+    "!",
+    "no"
+  ]
+}

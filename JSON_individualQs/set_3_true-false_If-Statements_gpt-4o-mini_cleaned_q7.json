@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In Python, an if-statement can directly evaluate the value of a string to determine if it is True or False.",
+  "answer": true
+}

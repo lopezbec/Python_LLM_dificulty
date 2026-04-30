@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "balance = 200",
+        "min_balance = 100",
+        "if __:",
+        "if __:",
+        "print('Sufficient')",
+        "balance >= min_balance",
+        "balance <= min_balance",
+        "balance < min_balance",
+        "balance >= 150"
+    ]
+}

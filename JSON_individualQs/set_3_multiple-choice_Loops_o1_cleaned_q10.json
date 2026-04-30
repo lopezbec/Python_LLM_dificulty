@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which statement correctly describes generator expressions in Python, especially regarding memory usage?",
+  "choices": {
+    "A": "They evaluate all items at once, storing them in memory.",
+    "B": "They cannot be used with built-in functions like sum().",
+    "C": "They yield items lazily, generally consuming less memory.",
+    "D": "They must conclude with a 'break' statement."
+  },
+  "correct_answer": "C"
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "name",
+        "if name ___ 'Alice': print(\"Different name\")",
+        "!="
+    ]
+}

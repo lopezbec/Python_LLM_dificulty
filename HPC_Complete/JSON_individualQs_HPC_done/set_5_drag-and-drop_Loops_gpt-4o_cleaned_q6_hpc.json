@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "if fruit == <blank>:",
+        "<blank>",
+        "print(fruit)",
+        "'banana'",
+        "break",
+        "continue",
+        "'apple'",
+        "'cherry'"
+    ]
+}

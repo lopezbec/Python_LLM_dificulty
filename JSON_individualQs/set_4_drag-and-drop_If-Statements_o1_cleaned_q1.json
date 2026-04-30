@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "questionType": "drag-and-drop",
+  "question": "Drag the correct keyword to complete a simple if statement that prints 'Hello' if the name is 'Alice'.",
+  "codeSnippet": "name = 'Alice'\n___ name == 'Alice':\n    print('Hello')",
+  "draggables": [
+    "if",
+    "for",
+    "while"
+  ],
+  "correctDrops": [
+    "if"
+  ],
+  "explanation": "Only 'if' is the correct keyword to start the conditional check for name == 'Alice'."
+}

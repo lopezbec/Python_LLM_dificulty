@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The ___ function in Python can be used to create a sequence of numbers suitable for iteration with a for loop.",
+  "answer": "range"
+}

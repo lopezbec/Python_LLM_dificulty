@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if True:\n    print('Yes')",
+        "Yes",
+        "No",
+        "Error",
+        "Nothing"
+    ]
+}

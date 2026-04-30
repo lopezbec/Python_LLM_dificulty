@@ -1,0 +1,43 @@
+{
+  "id": 9,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "question": "Organize the following code to handle multiple conditions for grading.",
+  "dragItems": [
+    "if score >= 90:",
+    "    grade = 'A'",
+    "elif score >= 80:",
+    "    grade = 'B'",
+    "elif score >= 70:",
+    "    grade = 'C'",
+    "elif score >= 60:",
+    "    grade = 'D'",
+    "else:",
+    "    grade = 'F'"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4",
+    "Line 5",
+    "Line 6",
+    "Line 7",
+    "Line 8",
+    "Line 9",
+    "Line 10"
+  ],
+  "correctAnswers": {
+    "Line 1": "if score >= 90:",
+    "Line 2": "    grade = 'A'",
+    "Line 3": "elif score >= 80:",
+    "Line 4": "    grade = 'B'",
+    "Line 5": "elif score >= 70:",
+    "Line 6": "    grade = 'C'",
+    "Line 7": "elif score >= 60:",
+    "Line 8": "    grade = 'D'",
+    "Line 9": "else:",
+    "Line 10": "    grade = 'F'"
+  }
+}

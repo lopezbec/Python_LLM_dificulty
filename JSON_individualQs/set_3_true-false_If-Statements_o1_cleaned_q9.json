@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "An if-statement in Python cannot include logical operators such as 'and' or 'or'.",
+  "correct_answer": "False"
+}

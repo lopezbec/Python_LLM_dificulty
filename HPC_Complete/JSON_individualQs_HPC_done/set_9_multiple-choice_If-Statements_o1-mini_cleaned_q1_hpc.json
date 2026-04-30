@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if statement",
+        "x",
+        "if x = 10:",
+        "if (x == 10)",
+        "if x == 10:",
+        "if x equals 10:"
+    ]
+}

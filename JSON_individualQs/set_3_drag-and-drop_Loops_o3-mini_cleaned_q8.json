@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "loops",
+  "question": "Arrange the code lines to form a for loop that uses an else clause, which executes after the loop completes normally.",
+  "instructions": "Drag and drop the code snippets in the correct order to complete the loop.",
+  "items": [
+    {
+      "id": "A",
+      "text": "for i in range(3):"
+    },
+    {
+      "id": "B",
+      "text": "    print(i)"
+    },
+    {
+      "id": "C",
+      "text": "else:"
+    },
+    {
+      "id": "D",
+      "text": "    print('Done')"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to check an additional condition after the first if statement:\n\nif a > b:\n    print(\"a is greater\")\n___ a == b:\n    print(\"a and b are equal\")",
+  "answer": "elif"
+}

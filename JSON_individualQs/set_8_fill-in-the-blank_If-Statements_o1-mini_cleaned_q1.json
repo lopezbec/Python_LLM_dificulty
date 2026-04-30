@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to complete the if-statement in Python:\n\n```python\n___ x > 10:\n    print(\"x is greater than 10\")\n```",
+  "difficulty": 1,
+  "answer": "if"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: To check if either of two conditions is True, complete the if-statement by inserting the appropriate logical operator:\nif score > 90 _____ grade == 'A':\n    print('Excellent performance')",
+  "answer": "or"
+}

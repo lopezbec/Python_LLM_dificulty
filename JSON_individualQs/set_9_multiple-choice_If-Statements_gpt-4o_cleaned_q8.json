@@ -1,0 +1,11 @@
+{
+  "question": "Identify the problem in the following code snippet:\n\n```\nx = 3\ny = 4\nif x > y:\n    print('x is greater')\nprint('Comparison done')\nelse:\n    print('y is greater or equal')\n```",
+  "difficulty": 8,
+  "options": {
+    "A": "The else statement is misplaced",
+    "B": "The if-statement needs a condition",
+    "C": "There is no problem",
+    "D": "There should not be an else after the print statement"
+  },
+  "correct_answer": "D"
+}

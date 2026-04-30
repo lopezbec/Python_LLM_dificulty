@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Python if-statements, by default, evaluate the condition and proceed with short-circuit evaluation.",
+  "answer": true
+}

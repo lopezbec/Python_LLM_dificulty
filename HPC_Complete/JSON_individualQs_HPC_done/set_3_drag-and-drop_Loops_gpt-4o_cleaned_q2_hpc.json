@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "count = 0",
+        "while count ___ 3:",
+        "print(\"Python\")",
+        "___",
+        "<",
+        "count += 1"
+    ]
+}

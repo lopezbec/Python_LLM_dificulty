@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank: The basic structure of an if-statement in Python starts with the keyword _____.",
+    "answer": "if"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank: To execute code only when a condition is not true, use the keyword _____.",
+    "answer": "else"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank: An if-statement that checks multiple conditions in sequence can use the keyword _____.",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank: In an if-statement, the expression inside parentheses needs to return a _____ value.",
+    "answer": "boolean"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank: The syntax of an if-else block ends the condition line with a _____.",
+    "answer": "colon"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank: In Python, you can check if a number is positive using 'if number > 0:'. Below this line, correctly indent the code block with _____ spaces.",
+    "answer": "four"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank: Python uses indentation to define the level of code execution in an if-statement, typically ____ spaces for each level.",
+    "answer": "four"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank: To check multiple conditions in a single expression, you can use the 'and' keyword, as in 'if x > 5 and x < 10:'. The word 'and' acts as a _____.",
+    "answer": "logical operator"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank: To handle multiple ranges or logical conditions, you can structure if-statements with _____ operators such as 'or' and 'not'.",
+    "answer": "logical"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank: When nesting if-statements, it's crucial to maintain proper ____ to avoid syntax errors and unexpected behaviors.",
+    "answer": "indentation"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the output of the following code snippet?\n\nx = 5\nif x > 3:\n    if x > 4:\n        print('A')\n    else:\n        print('B')\nelse:\n    print('C')\n",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "An error occurs"
+  },
+  "answer": "A"
+}

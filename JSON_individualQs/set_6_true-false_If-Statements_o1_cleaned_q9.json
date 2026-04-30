@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "It is possible to write an 'if' statement in Python without adding an 'else' or 'elif' block.",
+  "correct_answer": "True"
+}

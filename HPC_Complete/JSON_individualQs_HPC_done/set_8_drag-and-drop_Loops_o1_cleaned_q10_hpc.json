@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for color in ['red', 'green', 'blue']:",
+        "for fruit in ['apple', 'banana']:",
+        "print(fruit, 'is', color)",
+        "while color in ['red', 'green']:",
+        "while fruit in ['apple', 'banana']:"
+    ]
+}

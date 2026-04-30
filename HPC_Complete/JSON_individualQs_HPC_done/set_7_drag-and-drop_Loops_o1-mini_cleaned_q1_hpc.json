@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for item in iterable:",
+        "    print(item)"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question_text": "In the following code, fill in the blank to invert the condition so this block runs when x is NOT greater than 10:\n\nif ______ (x > 10):\n    print(\"x is not greater than 10\")",
+  "correct_answer": "not"
+}

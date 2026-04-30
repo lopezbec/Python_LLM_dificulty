@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Examine the code snippet below:\n\nvalue = 7\nif value % 2:\n    print('Odd')\nelse:\n    print('Even')\n\nWhich of the following best explains the output and behavior of this code?",
+  "options": [
+    "The code incorrectly checks for even numbers because value % 2 returns 1 for odd numbers, which is truthy, thus printing 'Odd'.",
+    "The code correctly prints 'Odd' because 7 is odd.",
+    "The code results in a SyntaxError due to improper if condition.",
+    "The code fails because the if-statement must compare value % 2 to 0 explicitly."
+  ],
+  "answer": "The code incorrectly checks for even numbers because value % 2 returns 1 for odd numbers, which is truthy, thus printing 'Odd'."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "If-Statements",
+  "question": "Drag the correct indentation to complete the nested if-else blocks.",
+  "codeSnippet": "x = 15\ny = 20\nif x > 10:\n__ if y > 15:\n____ print('x and y are greater than thresholds')\n__ else:\n____ print('x is greater, y is not')\nelse:\n    print('x is not greater than 10')",
+  "options": [
+    "    ",
+    "        ",
+    "",
+    "        ",
+    ""
+  ],
+  "targets": [
+    "Indentation for inner if",
+    "Indentation for inner if's code",
+    "Indentation for else of inner if",
+    "Indentation for inner else's code",
+    "Indentation for outer else's print statement"
+  ],
+  "correctAnswer": {
+    "Indentation for inner if": "    ",
+    "Indentation for inner if's code": "        ",
+    "Indentation for else of inner if": "    ",
+    "Indentation for inner else's code": "        ",
+    "Indentation for outer else's print statement": ""
+  }
+}

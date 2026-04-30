@@ -1,0 +1,13 @@
+{
+  "difficulty": 8,
+  "question": "Place the correct operators to evaluate both conditions inside the 'if'.",
+  "code": "if a > b __op1__ a < c and b != d __op2__ c == d: \n    print(\"Complex condition met\")",
+  "options": [
+    "and",
+    "or"
+  ],
+  "answers": [
+    "and",
+    "or"
+  ]
+}

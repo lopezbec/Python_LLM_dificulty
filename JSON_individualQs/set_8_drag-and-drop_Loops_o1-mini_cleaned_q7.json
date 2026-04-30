@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Arrange the steps to create a loop that sums numbers from 1 to 10 using a `while` loop.",
+  "options": [
+    "Initialize sum and counter variables",
+    "Check if counter <= 10",
+    "Add counter to sum",
+    "Increment counter",
+    "End loop when condition is false"
+  ],
+  "correct_order": [
+    "Initialize sum and counter variables",
+    "Check if counter <= 10",
+    "Add counter to sum",
+    "Increment counter",
+    "End loop when condition is false"
+  ]
+}

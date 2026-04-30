@@ -1,0 +1,21 @@
+{
+  "question": "Level 10: Using Functions in Conditions",
+  "instruction": "Organize this code to check conditions by calling functions.",
+  "difficulty": 10,
+  "code_blocks": [
+    "if __function_call__:",
+    "    __print_statement_1__",
+    "else:",
+    "    __print_statement_2__"
+  ],
+  "options": [
+    "check_condition(x, y)",
+    "print('Condition is True')",
+    "print('Condition is False')"
+  ],
+  "correct_structure": {
+    "__function_call__": "check_condition(x, y)",
+    "__print_statement_1__": "print('Condition is True')",
+    "__print_statement_2__": "print('Condition is False')"
+  }
+}

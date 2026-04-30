@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "if user.is_admin:",
+        "if user.has_access():",
+        "print(\"Access granted.\")",
+        "else:",
+        "print(\"Access denied.\")",
+        "else:",
+        "print(\"User is not an admin.\")",
+        "        ",
+        "    ",
+        "            ",
+        "no indentation"
+    ]
+}

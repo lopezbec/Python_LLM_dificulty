@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Drag the correct range parameter so this loop prints 0, 3, 6, 9.",
+  "codeSnippet": "for i in range(_____):\n    print(i * 3)",
+  "options": [
+    "3",
+    "4",
+    "5"
+  ],
+  "correctAnswer": "4"
+}

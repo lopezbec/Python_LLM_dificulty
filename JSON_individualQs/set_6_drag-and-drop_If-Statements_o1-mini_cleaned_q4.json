@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "if-statements",
+  "question": "Fill in the blanks to complete the nested if statement:\n\nx = 15\nif x > 10:\n    ___ x < 20:\n        print(\"x is between 10 and 20\")\n    else:\n        print(\"x is 20 or more\")\nelse:\n    print(\"x is 10 or less\")",
+  "options": [
+    "if",
+    "elif",
+    "else",
+    "while"
+  ],
+  "correct_answers": [
+    "if"
+  ]
+}

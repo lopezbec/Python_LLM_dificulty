@@ -1,0 +1,11 @@
+{
+  "question": "What will be printed if x is 5?\n\nx = 5\nif x > 3:\n    print(\"Greater than 3\")",
+  "options": {
+    "A": "Nothing",
+    "B": "Greater than 3",
+    "C": "x is greater than 3",
+    "D": "Error"
+  },
+  "answer": "B",
+  "difficulty": 3
+}

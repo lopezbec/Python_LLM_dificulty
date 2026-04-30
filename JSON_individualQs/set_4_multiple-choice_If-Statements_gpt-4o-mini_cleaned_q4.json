@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which of the following statements about if-else is TRUE? \n\nif condition:\n    # do something\nelse:\n    # do something else",
+  "options": [
+    "The else block is optional.",
+    "The if block is optional.",
+    "The else block can have multiple options.",
+    "The if condition must be a boolean."
+  ],
+  "correct_answer": "The else block is optional."
+}

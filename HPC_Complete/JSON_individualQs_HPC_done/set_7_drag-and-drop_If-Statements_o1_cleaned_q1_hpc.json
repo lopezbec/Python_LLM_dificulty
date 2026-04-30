@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x < 10",
+        "print('Small')",
+        "print('Large')",
+        "x = 8",
+        "if",
+        ":",
+        "else"
+    ]
+}

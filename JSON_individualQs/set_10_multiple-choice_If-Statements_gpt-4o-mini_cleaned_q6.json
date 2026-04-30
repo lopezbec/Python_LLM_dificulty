@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code snippet?\n\n```python\nx = 20\ny = 15\nif x < 15:\n    print('x is less than y')\nelif y < 15:\n    print('y is less than x')\nelse:\n    print('y is not less')\n```\n",
+  "options": [
+    "x is less than y",
+    "y is less than x",
+    "y is not less",
+    "None"
+  ],
+  "correct_answer": "y is not less",
+  "difficulty": 6
+}

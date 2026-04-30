@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: To exit a loop immediately in Python, you can use the ______ statement.",
+  "correct_answer": "break"
+}

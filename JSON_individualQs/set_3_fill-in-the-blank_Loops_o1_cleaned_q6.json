@@ -1,0 +1,6 @@
+{
+  "difficulty": 6,
+  "type": "fill-in-the-blank",
+  "question": "When using 'for index, value in enumerate(my_list):', the variable '___' stores the index of the current item.",
+  "correct_answer": "index"
+}

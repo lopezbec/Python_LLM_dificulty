@@ -1,0 +1,11 @@
+{
+  "question": "How many times will the body of this loop execute? 'for i in range(4): print(i)'",
+  "options": [
+    "A. 3",
+    "B. 4",
+    "C. 5",
+    "D. 0"
+  ],
+  "answer": "B",
+  "difficulty": 4
+}

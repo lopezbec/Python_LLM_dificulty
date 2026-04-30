@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank with the correct logical operator to check if x is less than 2 or greater than 8: if x < 2 ___ x > 8: print(\"Out of range\").",
+  "answer": "or"
+}

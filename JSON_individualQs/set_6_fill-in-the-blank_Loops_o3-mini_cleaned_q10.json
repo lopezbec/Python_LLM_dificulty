@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank: Python 3.8 introduced the ______ operator (:=), also known as the assignment expression, which can be used within loop conditions to assign and test a variable in a single expression.",
+  "correct_answer": "walrus"
+}

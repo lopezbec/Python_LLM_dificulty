@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: When the number of iterations is not predetermined and depends on a condition, you use a ______ loop in Python.",
+  "answer": "while"
+}

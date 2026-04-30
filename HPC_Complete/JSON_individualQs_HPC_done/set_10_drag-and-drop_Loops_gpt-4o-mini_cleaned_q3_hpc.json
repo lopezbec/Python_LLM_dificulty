@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for",
+        "color",
+        "in",
+        "colors:",
+        "print(color)",
+        "colors"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which loop constructs in Python support an optional 'else' clause that executes when the loop is not terminated by a break statement?",
+  "options": [
+    "for loop",
+    "while loop",
+    "Both for and while loops",
+    "Neither; only conditional statements have an 'else' clause"
+  ],
+  "correct_answer": "Both for and while loops"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following nested if statement:\n\nx = 10\nif x > 5:\n    if x < 15:\n        print('Mid range')\n\nWhat is printed when this code is executed?",
+  "options": {
+    "A": "Mid range",
+    "B": "Nothing",
+    "C": "Error",
+    "D": "Out of range"
+  },
+  "correct_answer": "A"
+}

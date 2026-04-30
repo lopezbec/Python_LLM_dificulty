@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will be the output of the following code?\n\nx = 3\nif (x > 5) and not (x > 10):\n    print(\"Case 1\")\nelif (x > 1) or (x == 3):\n    print(\"Case 2\")\nelse:\n    print(\"Case 3\")",
+  "options": [
+    "Case 1",
+    "Case 2",
+    "Case 3",
+    "No output"
+  ],
+  "correct_answer": "Case 2"
+}

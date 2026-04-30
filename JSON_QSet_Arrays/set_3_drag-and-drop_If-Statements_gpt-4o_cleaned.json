@@ -1,0 +1,137 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Complete the simple if statement. Drag the correct blocks to the right.",
+    "code": "if __condition__: \n    print(\"Hello World!\")",
+    "options": [
+      "x > 5",
+      "x < 10",
+      "True"
+    ],
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the missing part of this if-else statement.",
+    "code": "if x __condition__ y: \n    print(\"x is greater\")\nelse:\n    print(\"y is greater or equal\")",
+    "options": [
+      ">",
+      "<",
+      "=="
+    ],
+    "answers": [
+      ">"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Select the correct comparison operator to complete the if statement for equality.",
+    "code": "if a __operator__ b: \n    print(\"a equals b\")",
+    "options": [
+      "!=",
+      "==",
+      ">",
+      "<"
+    ],
+    "answers": [
+      "=="
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blanks to check if 'score' variable is between 50 and 100.",
+    "code": "if __lower__ score __upper__: \n    print(\"Score is valid\")",
+    "options": [
+      "50 <=",
+      "<= 100",
+      "< 50",
+      "> 100"
+    ],
+    "answers": [
+      "50 <=",
+      "<= 100"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Complete the if-elif-else chain to determine number classifications.",
+    "code": "if number __condition1__: \n    print(\"Positive\")\nelif number __condition2__: \n    print(\"Negative\")\nelse: \n    print(\"Zero\")",
+    "options": [
+      "> 0",
+      "< 0",
+      "== 0"
+    ],
+    "answers": [
+      "> 0",
+      "< 0"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Correctly set the condition to check for both divisibility by 2 and 3.",
+    "code": "if x % 2 == 0 __logical_operator__ x % 3 == 0: \n    print(\"Divisible by both 2 and 3\")",
+    "options": [
+      "and",
+      "or",
+      "not"
+    ],
+    "answers": [
+      "and"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Insert the correct condition to check if the variable 'name' is not empty.",
+    "code": "if __check__: \n    print(\"Name is present\")",
+    "options": [
+      "name != \"\"",
+      "len(name) > 0",
+      "name is not None"
+    ],
+    "answers": [
+      "len(name) > 0"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Place the correct operators to evaluate both conditions inside the 'if'.",
+    "code": "if a > b __op1__ a < c and b != d __op2__ c == d: \n    print(\"Complex condition met\")",
+    "options": [
+      "and",
+      "or"
+    ],
+    "answers": [
+      "and",
+      "or"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Select the suitable values to assign a variable based on a computed condition.",
+    "code": "grade = __condition__ if score >= 90 else __alternative__",
+    "options": [
+      "\"A\"",
+      "\"B\"",
+      "\"C\""
+    ],
+    "answers": [
+      "\"A\"",
+      "\"B\""
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Configure the missing elements for a nested if statement.",
+    "code": "if x > 10: \n    if y < 5: \n        __inner_statement__\nelse:\n    print(\"x is not greater than 10\")",
+    "options": [
+      "print(\"Valid Range\")",
+      "continue",
+      "break"
+    ],
+    "answers": [
+      "print(\"Valid Range\")"
+    ]
+  }
+]

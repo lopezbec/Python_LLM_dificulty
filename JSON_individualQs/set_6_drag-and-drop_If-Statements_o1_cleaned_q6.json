@@ -1,0 +1,43 @@
+{
+  "question": "Drag and drop the correct keywords to categorize age into Child, Teen, Adult, or Senior.",
+  "difficulty": 6,
+  "code": "age = 40\n__1__ age < 13:\n    print(\"Child\")\n__2__ age < 18:\n    print(\"Teen\")\n__3__ age < 65:\n    print(\"Adult\")\n__4__:\n    print(\"Senior\")",
+  "placeholders": [
+    {
+      "id": "__1__",
+      "correctAnswer": "if",
+      "possibleAnswers": [
+        "if",
+        "else",
+        "while"
+      ]
+    },
+    {
+      "id": "__2__",
+      "correctAnswer": "elif",
+      "possibleAnswers": [
+        "elif",
+        "else",
+        "try"
+      ]
+    },
+    {
+      "id": "__3__",
+      "correctAnswer": "elif",
+      "possibleAnswers": [
+        "else",
+        "except",
+        "elif"
+      ]
+    },
+    {
+      "id": "__4__",
+      "correctAnswer": "else",
+      "possibleAnswers": [
+        "elif",
+        "return",
+        "else"
+      ]
+    }
+  ]
+}

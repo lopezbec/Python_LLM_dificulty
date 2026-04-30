@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "count = 0",
+        "for i in range(1, 6):",
+        "if i % 2 == 0:",
+        "continue",
+        "count += 1",
+        "print(count)",
+        "count"
+    ]
+}

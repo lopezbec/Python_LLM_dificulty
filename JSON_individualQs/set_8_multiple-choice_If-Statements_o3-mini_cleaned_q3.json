@@ -1,0 +1,27 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "In an if-statement, which operator is used to test whether two values are equal?",
+  "options": [
+    {
+      "label": "A",
+      "text": "=",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "==",
+      "isCorrect": true
+    },
+    {
+      "label": "C",
+      "text": "===",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "!=",
+      "isCorrect": false
+    }
+  ]
+}

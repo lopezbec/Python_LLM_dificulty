@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The 'break' statement in Python only works with while loops and cannot be used in for loops.",
+  "correct_answer": false
+}

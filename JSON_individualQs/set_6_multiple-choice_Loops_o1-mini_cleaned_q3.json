@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "How many times will the loop execute?\n\n```python\ncount = 0\nwhile count < 5:\n    print(count)\n    count += 1\n```",
+  "options": [
+    "4",
+    "5",
+    "6",
+    "Infinite times"
+  ],
+  "correct_answer": "5"
+}

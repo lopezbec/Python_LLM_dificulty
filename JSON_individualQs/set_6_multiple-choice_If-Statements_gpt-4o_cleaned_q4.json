@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Given the statement 'if x == 10:', which of the following values of 'x' will make the condition true?",
+  "choices": [
+    "x = '10'",
+    "x = 20",
+    "x = 10.0",
+    "x = 5"
+  ],
+  "correct_answer": "x = 10.0"
+}

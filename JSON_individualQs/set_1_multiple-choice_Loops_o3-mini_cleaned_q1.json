@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which loop in Python is typically used to iterate over a sequence (like a list, tuple, or string)?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "repeat loop"
+  ],
+  "correct_answer": "for loop"
+}

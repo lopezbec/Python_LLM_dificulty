@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "An if statement without an else clause in Python will result in a syntax error.",
+  "answer": false
+}

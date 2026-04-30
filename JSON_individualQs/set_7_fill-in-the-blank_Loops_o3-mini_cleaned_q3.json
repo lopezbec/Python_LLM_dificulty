@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank: The keyword ____ is used to immediately exit a loop, regardless of its remaining iterations.",
+  "answer": "break"
+}

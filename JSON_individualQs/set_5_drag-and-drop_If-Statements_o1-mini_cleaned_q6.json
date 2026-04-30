@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "If-Statements",
+  "question": "Complete the ternary if statement by dragging the correct parts.\n\nresult = 'Even' ___(1)___ (number % 2 == 0) ___(2)___ 'Odd'",
+  "options": [
+    "if",
+    "else",
+    "elif",
+    ":",
+    "?"
+  ],
+  "answers": {
+    "1": "if",
+    "2": "else"
+  }
+}

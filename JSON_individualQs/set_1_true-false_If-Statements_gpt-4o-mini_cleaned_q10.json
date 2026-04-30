@@ -1,0 +1,5 @@
+{
+  "question": "An if-statement can only be followed by an else statement; no other structures are allowed after it.",
+  "difficulty": 10,
+  "answer": false
+}

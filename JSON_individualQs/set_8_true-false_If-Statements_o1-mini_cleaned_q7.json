@@ -1,0 +1,5 @@
+{
+  "question": "A single-line if-statement in Python can be written without using a colon (`:`) at the end of the condition.",
+  "answer": false,
+  "difficulty": 7
+}

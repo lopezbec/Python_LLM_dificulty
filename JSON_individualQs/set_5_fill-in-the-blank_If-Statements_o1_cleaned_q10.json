@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Use the walrus operator to read input and then check if it's not empty in a single step. Fill in the blank:\n\nif ______:\n    print(\"You typed:\", user_input)",
+  "answer": "(user_input := input('Type something: '))"
+}

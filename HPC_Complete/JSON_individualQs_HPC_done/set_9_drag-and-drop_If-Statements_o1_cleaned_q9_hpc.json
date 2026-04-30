@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "member_status = \"Gold\"",
+        "[__keyword1__] member_status == \"Gold\":",
+        "print(\"Welcome, Gold member!\")",
+        "[__keyword2__] member_status == \"Silver\":",
+        "print(\"Welcome, Silver member!\")",
+        "else:",
+        "print(\"Welcome, Guest!\")",
+        "if",
+        "elif",
+        "while",
+        "else if"
+    ]
+}

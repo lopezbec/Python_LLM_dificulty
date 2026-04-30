@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "A for loop creates a new local scope for the loop variable during each iteration.",
+  "answer": "False"
+}

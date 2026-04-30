@@ -1,0 +1,5 @@
+{
+  "question": "It is valid to have just an if condition without an else clause in Python.",
+  "difficulty": 6,
+  "correct_answer": "True"
+}

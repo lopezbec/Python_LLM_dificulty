@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "For Loop",
+        "While Loop",
+        "Iterates over a sequence of elements.",
+        "Continues execution as long as a condition is true."
+    ]
+}

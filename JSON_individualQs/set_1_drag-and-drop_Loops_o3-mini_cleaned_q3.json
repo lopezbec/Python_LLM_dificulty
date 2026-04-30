@@ -1,0 +1,16 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "topic": "Loops",
+  "question": "Drag and drop the pieces to form a nested for loop that prints all coordinate pairs (i, j) for i and j in range(0, 2).",
+  "drag_items": [
+    "    for j in range(2):",
+    "for i in range(2):",
+    "        print(i, j)"
+  ],
+  "correct_order": [
+    "for i in range(2):",
+    "    for j in range(2):",
+    "        print(i, j)"
+  ]
+}

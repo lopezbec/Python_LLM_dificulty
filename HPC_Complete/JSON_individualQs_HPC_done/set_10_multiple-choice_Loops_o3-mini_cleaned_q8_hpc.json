@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "i = 1",
+        "while i < 10:",
+        "print(i, end=' ')",
+        "i *= 2",
+        "else:",
+        "print('Done', end=' ')",
+        "1 2 4 8 Done",
+        "1 2 4 8",
+        "1 2 4 8 16 Done",
+        "Infinite loop"
+    ]
+}

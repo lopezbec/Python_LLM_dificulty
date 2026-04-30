@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "In Python, a while loop continues to run as long as which of the following is true?",
+  "options": {
+    "A": "The condition in the while statement is True",
+    "B": "The loop contains at least one 'break' statement",
+    "C": "The loop is inside a function",
+    "D": "The loop has an else clause"
+  },
+  "correctAnswer": "A"
+}

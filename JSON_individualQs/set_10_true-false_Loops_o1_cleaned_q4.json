@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, for loops must always include an explicit counter variable.",
+  "correct_answer": "False"
+}

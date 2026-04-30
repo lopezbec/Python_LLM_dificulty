@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following list comprehensions is equivalent to the for loop below?\n\nresult = []\nfor x in range(5):\n    result.append(x * 2)",
+  "options": {
+    "A": "result = [x * 2 for x in range(5)]",
+    "B": "result = [x + 2 for x in range(5)]",
+    "C": "result = [2 * x for x in range(5)]",
+    "D": "Both A and C"
+  },
+  "answer": "D"
+}

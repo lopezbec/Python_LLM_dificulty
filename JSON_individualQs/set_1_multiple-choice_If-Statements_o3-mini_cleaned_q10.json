@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following demonstrates the correct usage of Python's ternary operator (conditional expression) to assign a value based on a condition?",
+  "options": [
+    "result = x if condition else y",
+    "result = x then y if condition",
+    "result = if condition then x else y",
+    "result = (condition ? x : y)"
+  ],
+  "answer": "result = x if condition else y"
+}

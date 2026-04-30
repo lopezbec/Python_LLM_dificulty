@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "score",
+        "if __lower__ score __upper__:",
+        "50 <=",
+        "<= 100"
+    ]
+}

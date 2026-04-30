@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "If statements cannot evaluate multiple conditions using 'and' or 'or' operators.",
+  "correct_answer": "False"
+}

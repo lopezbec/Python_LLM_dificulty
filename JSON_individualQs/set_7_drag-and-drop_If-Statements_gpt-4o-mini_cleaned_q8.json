@@ -1,0 +1,14 @@
+{
+  "difficulty": 8,
+  "question": "Match the key concept to the following code: 'if balance >= amount: withdraw()'",
+  "options": {
+    "A": "Negative condition",
+    "B": "Positive condition",
+    "C": "Range condition",
+    "D": "Equality condition"
+  },
+  "correctMatch": {
+    "code": "if balance >= amount: withdraw()",
+    "keyConcept": "B"
+  }
+}

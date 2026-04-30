@@ -1,0 +1,23 @@
+{
+  "difficulty": 6,
+  "question": "Drag and drop to construct a chained conditional to print 'A', 'B', or 'C' based on the score range.",
+  "code_blocks": [
+    "score = 75",
+    "if score >= 90:",
+    "print('A')",
+    "elif score >= 70:",
+    "print('B')",
+    "else:",
+    "print('C')"
+  ],
+  "droppable_items": [
+    "if score >= 90:",
+    "elif score >= 70:",
+    "else:"
+  ],
+  "solution": [
+    "if score >= 90:",
+    "elif score >= 70:",
+    "else:"
+  ]
+}

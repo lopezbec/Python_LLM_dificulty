@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What will be the output of the following code?\n\nx = 3\nif not x > 5:\n    print('A')\nelif x > 2:\n    print('B')\nelse:\n    print('C')",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "Nothing is printed"
+  ],
+  "correct_answer": "A"
+}

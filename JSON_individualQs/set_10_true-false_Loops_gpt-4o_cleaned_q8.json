@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In nested loops, 'break' and 'continue' affect both inner and outer loops simultaneously.",
+  "answer": false
+}

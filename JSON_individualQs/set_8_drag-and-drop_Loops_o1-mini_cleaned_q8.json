@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "Loops",
+  "type": "drag-and-drop",
+  "question": "Organize the flow of a `for` loop that iterates through a dictionary's keys and values.",
+  "options": [
+    "Start loop with 'for key, value in dict.items():'",
+    "Access key",
+    "Access value",
+    "Execute loop body",
+    "End loop"
+  ],
+  "correct_order": [
+    "Start loop with 'for key, value in dict.items():'",
+    "Access key",
+    "Access value",
+    "Execute loop body",
+    "End loop"
+  ]
+}

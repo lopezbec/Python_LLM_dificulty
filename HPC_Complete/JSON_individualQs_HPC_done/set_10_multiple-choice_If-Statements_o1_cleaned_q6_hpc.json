@@ -1,0 +1,20 @@
+{
+    "HPC": [
+        "x = 7",
+        "if x < 10:",
+        "if x % 2 == 0:",
+        "print(\"Less than 10 and even\")",
+        "else:",
+        "print(\"Less than 10 and odd\")",
+        "else:",
+        "print(\"Greater or equal to 10\")",
+        "x",
+        "7",
+        "x % 2",
+        "1",
+        "A) Less than 10 and even",
+        "B) Less than 10 and odd",
+        "C) Greater or equal to 10",
+        "D) No output"
+    ]
+}

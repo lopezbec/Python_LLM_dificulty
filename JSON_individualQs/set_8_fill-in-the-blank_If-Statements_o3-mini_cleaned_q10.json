@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: Python allows you to write an inline conditional expression, often referred to as the ______, which returns one value if a condition is true and another if it is false.",
+  "answer": "ternary operator"
+}

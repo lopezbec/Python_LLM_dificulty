@@ -1,0 +1,18 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "questionText": "Rearrange the lines to create a valid sequence that prints 'Discount applied!' only if 'customer_type' is 'member' and 'total_purchase' exceeds 50.",
+  "incompleteCode": "1) print(\"Discount applied!\")\n2) if total_purchase > 50:\n3) if customer_type == 'member':\n4) :\n",
+  "dragItems": [
+    "if customer_type == 'member':",
+    "if total_purchase > 50:",
+    "print(\"Discount applied!\")",
+    "    "
+  ],
+  "correctAnswer": [
+    "if customer_type == 'member':",
+    "    if total_purchase > 50:",
+    "        print(\"Discount applied!\")"
+  ],
+  "explanation": "The outer if checks if customer_type is 'member', and inside that block, another if checks if total_purchase > 50."
+}

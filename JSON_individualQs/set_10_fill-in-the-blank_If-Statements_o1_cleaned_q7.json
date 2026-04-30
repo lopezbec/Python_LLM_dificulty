@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank (Difficulty 7): If we want to ignore certain conditions within an 'if' block, we can use the ______ statement as a placeholder.",
+  "correct_answer": "pass",
+  "difficulty": 7
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What is the correct syntax for an if-statement in Python?",
+  "options": [
+    "if condition: do_something()",
+    "if (condition) then do_something()",
+    "if condition then do_something():",
+    "if condition: do_something"
+  ],
+  "answer": "if condition: do_something()",
+  "difficulty": 2
+}

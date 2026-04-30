@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "range()",
+        "range(start, stop, ___)"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "question": "Drag the correct number into the blank so that the for-loop prints 'Hello' exactly once.",
+  "codeSnippet": "for i in range([__]):\n    print(\"Hello\")",
+  "dragItems": [
+    "0",
+    "1",
+    "2"
+  ],
+  "answerSlots": [
+    "[__]"
+  ],
+  "correctAnswer": [
+    "1"
+  ],
+  "explanation": "Using range(1) causes the loop to run once. 0 would never print and 2 would print twice."
+}

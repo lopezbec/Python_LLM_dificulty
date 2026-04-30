@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "Arrange the code lines in the correct order to form a simple Python for loop that prints numbers from 0 to 4.",
+  "instructions": "Drag and drop the following code snippets so that they form a valid for loop.",
+  "items": [
+    {
+      "id": "A",
+      "text": "for i in range(5):"
+    },
+    {
+      "id": "B",
+      "text": "    print(i)"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: Consider the following code:\n\n    total = 0\n    for num in range(1, 6):\n        total += num\n    print(total)\n\nThe code will output ______.",
+  "answer": "15"
+}

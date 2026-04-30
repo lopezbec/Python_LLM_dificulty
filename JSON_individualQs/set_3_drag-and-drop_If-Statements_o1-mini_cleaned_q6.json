@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "If-Statements",
+  "question": "Arrange the following statements to correctly use logical operators in an if-statement.",
+  "options": [
+    "if",
+    "and",
+    "or",
+    "not",
+    "condition1",
+    "condition2",
+    ":",
+    "    # code block"
+  ],
+  "targets": [
+    "Start of if-statement",
+    "First condition",
+    "Logical operator",
+    "Second condition",
+    "End of condition",
+    "Code block indentation"
+  ],
+  "correctAnswer": {
+    "Start of if-statement": "if",
+    "First condition": "condition1",
+    "Logical operator": "and",
+    "Second condition": "condition2",
+    "End of condition": ":",
+    "Code block indentation": "    # code block"
+  }
+}

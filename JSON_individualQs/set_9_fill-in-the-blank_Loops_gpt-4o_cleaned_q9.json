@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In Python, a loop that decreases the value of a counter and runs backwards can be created by using the 'range' function with a negative ___.",
+  "answer": "step"
+}

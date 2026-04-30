@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "vowels = ['a', 'e', 'i', 'o', 'u']",
+        "char = 'a'",
+        "____ char ____ vowels:",
+        "print('Character is a vowel')",
+        "if",
+        "not in",
+        "in",
+        "or"
+    ]
+}

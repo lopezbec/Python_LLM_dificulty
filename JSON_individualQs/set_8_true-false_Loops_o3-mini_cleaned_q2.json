@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "A 'for' loop in Python can be used to iterate over elements in a list.",
+  "correct_answer": "True"
+}

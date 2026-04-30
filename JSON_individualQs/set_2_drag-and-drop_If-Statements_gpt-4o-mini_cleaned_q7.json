@@ -1,0 +1,10 @@
+{
+  "difficulty": 7,
+  "question": "Drag and drop the correct condition to this statement: \nif (________) { print('Value is high'); }",
+  "drops": [
+    "value > 100",
+    "value == 100",
+    "value < 100"
+  ],
+  "correct": "value > 100"
+}

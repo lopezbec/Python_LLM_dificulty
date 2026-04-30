@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In Python, when is the else block of a loop executed?",
+  "options": [
+    "Only when a loop is terminated by a break statement",
+    "Always after the loop completes, regardless of breaks",
+    "Only when the loop terminates normally (i.e., not via a break)",
+    "The else block is never executed in loops"
+  ],
+  "correctAnswer": "Only when the loop terminates normally (i.e., not via a break)"
+}

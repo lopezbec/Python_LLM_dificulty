@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will be the output of the following nested if-statement?\n\nx = 7\ny = 3\nif x > 5:\n    if y < 5:\n        print(\"A\")\n    else:\n        print(\"B\")\nelse:\n    print(\"C\")",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "No output"
+  ],
+  "correct_answer": "A"
+}

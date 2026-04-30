@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "squares = [___ for i in range(10)]",
+        "print(squares)"
+    ]
+}

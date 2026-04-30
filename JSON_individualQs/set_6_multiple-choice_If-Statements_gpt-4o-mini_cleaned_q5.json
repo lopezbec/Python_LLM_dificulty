@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output?\n\n```python\nnum = 15\nif num % 2 == 0:\n    print('Even')\nelif num % 2 != 0:\n    print('Odd')\nelse:\n    print('Not a number')\n```\n",
+  "options": [
+    "Even",
+    "Odd",
+    "Not a number",
+    "Error"
+  ],
+  "correct_answer": "Odd",
+  "difficulty": 5
+}

@@ -1,0 +1,19 @@
+{
+    "HPC": [
+        "score",
+        "if",
+        "elif",
+        "else",
+        "score = 75",
+        "if {CONDITION1}:",
+        "print(\"High score\")",
+        "{KEYWORD} {CONDITION2}:",
+        "print(\"Medium score\")",
+        "else:",
+        "print(\"Low score\")",
+        "elif",
+        "score > 80",
+        "score > 60",
+        "while"
+    ]
+}

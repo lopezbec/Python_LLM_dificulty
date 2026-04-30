@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following code snippets correctly checks if a variable 's' (a string) is non-empty and starts with the uppercase letter 'A', while avoiding errors if the string is empty?",
+  "options": {
+    "A": "if s.startswith('A'):\n    print('Starts with A')",
+    "B": "if s[0] == 'A':\n    print('Starts with A')",
+    "C": "if s == 'A':\n    print('Starts with A')",
+    "D": "if s.find('A'):\n    print('Starts with A')"
+  },
+  "correct_answer": "A"
+}

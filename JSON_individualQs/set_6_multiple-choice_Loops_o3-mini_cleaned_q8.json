@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What will be the output of the following code snippet using a while-else structure?\n\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print('Done')",
+  "options": [
+    "0 1 2 Done",
+    "Done 0 1 2",
+    "0 1 2",
+    "Error"
+  ],
+  "correctAnswer": "0 1 2 Done"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "question": "Complete the if statement that checks if a variable x equals 7. Drag the correct condition into the blank.",
+  "code": "x = 7\nif [BLANK]:\n    print(\"x is 7\")",
+  "choices": [
+    "x == 7",
+    "x >= 7",
+    "x < 7"
+  ],
+  "correctAnswer": "x == 7"
+}

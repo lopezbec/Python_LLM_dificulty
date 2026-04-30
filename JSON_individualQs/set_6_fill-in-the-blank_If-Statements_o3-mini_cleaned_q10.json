@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank to complete the one-line if-else statement that prints 'Medium' if x is between 5 and 10 (inclusive), otherwise prints 'Not Medium':\n\nx = 7\nprint('Medium') if ______ else print('Not Medium')",
+  "answer": "5 <= x <= 10"
+}

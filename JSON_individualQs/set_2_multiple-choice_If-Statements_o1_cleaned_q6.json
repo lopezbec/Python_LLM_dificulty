@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Given the code:\n\nx = 'Hello'\nif x == 'Hello':\n    print('Match')\nelse:\n    print('No match')\n\nWhich output will be produced?",
+  "answers": {
+    "A": "No match",
+    "B": "Syntax Error",
+    "C": "Match",
+    "D": "Nothing is printed"
+  },
+  "correctAnswer": "C"
+}

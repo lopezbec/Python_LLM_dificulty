@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if age > 18 ",
+        "and country == 'USA':",
+        "print('Eligible to vote')",
+        "if statement",
+        "'and'"
+    ]
+}

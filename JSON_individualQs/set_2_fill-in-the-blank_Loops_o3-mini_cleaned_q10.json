@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: Using list comprehension with a conditional filter, complete the code to include only elements from my_list that are greater than 10:\n\nresult = [x for x in my_list if ____]",
+  "answer": "x > 10"
+}

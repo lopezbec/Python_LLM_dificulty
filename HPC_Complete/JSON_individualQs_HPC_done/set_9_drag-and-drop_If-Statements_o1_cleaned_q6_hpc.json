@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x",
+        "x = 6",
+        "[__keyword__] not (x % 3 == 0):",
+        "print(\"x is not divisible by 3\")",
+        "else:",
+        "print(\"x is divisible by 3\")",
+        "if",
+        "elif",
+        "while",
+        "for"
+    ]
+}

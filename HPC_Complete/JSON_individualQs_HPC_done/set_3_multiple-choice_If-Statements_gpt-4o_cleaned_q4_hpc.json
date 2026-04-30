@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if 3 < 2:\n    print('Hello')\nelse:\n    print('World')",
+        "Hello",
+        "World",
+        "HelloWorld",
+        "Error"
+    ]
+}

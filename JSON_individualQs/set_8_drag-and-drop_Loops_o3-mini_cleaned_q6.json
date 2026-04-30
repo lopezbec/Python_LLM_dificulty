@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "question": "Fill in the blank to complete the for loop that prints even numbers from 0 to 8 by using an appropriate step value.",
+  "codeSnippet": "for i in range(0, 10, _____):\n    print(i)",
+  "dragItems": [
+    "1",
+    "2",
+    "3"
+  ],
+  "dropTargets": [
+    "step_value"
+  ],
+  "correctMap": {
+    "step_value": "2"
+  }
+}

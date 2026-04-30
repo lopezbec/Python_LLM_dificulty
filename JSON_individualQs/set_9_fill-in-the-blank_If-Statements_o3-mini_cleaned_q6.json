@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank to complete the range check using the 'and' operator:\n\nif x > 0 ______ x < 100:\n    print('x is between 1 and 99')",
+  "correct_answer": "and"
+}

@@ -1,0 +1,6 @@
+{
+  "difficulty": 2,
+  "type": "true-false",
+  "question": "A while loop is the best choice when the number of iterations is known ahead of time.",
+  "correctAnswer": "False"
+}

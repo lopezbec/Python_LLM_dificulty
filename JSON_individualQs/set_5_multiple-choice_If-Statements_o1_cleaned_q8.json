@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following best describes how Python executes an if-elif-else chain?",
+  "choices": {
+    "A": "It checks all conditions and runs every block that is true",
+    "B": "It checks each condition from top to bottom and runs the first true block",
+    "C": "It always executes all blocks under if and elif",
+    "D": "It randomly selects one condition to check"
+  },
+  "correct_answer": "B",
+  "difficulty": 8
+}

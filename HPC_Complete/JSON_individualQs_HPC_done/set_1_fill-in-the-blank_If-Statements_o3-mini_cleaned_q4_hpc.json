@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "Python uses indentation to define code blocks",
+        "four spaces",
+        "print statement",
+        "if temperature > 30:",
+        "____print('It is hot')"
+    ]
+}

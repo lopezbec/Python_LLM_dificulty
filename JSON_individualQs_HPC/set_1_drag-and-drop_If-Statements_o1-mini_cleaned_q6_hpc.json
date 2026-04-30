@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (x > 0 ___ y < 10):",
+        "if not (is_raining ___ is_windy):",
+        "and",
+        "or",
+        "not"
+    ]
+}

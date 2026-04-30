@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "It is possible to execute multiple statements when the condition of an if-statement is true.",
+  "answer": true
+}

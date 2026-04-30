@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements is true about the following code?\n\nif x == 0:\n    print('Zero')\nelif x > 0:\n    print('Positive')\nelse:\n    print('Negative')",
+  "options": [
+    "a) It only checks if x is zero",
+    "b) It can handle negative numbers",
+    "c) It does not print anything if x is positive",
+    "d) None of the above"
+  ],
+  "correct_answer": "b",
+  "difficulty": 3
+}

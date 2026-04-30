@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for",
+        "range()",
+        "list()",
+        "dict()",
+        "set()"
+    ]
+}

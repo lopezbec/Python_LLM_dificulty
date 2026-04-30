@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "To create an infinite loop, you can use the _____ statement.",
+  "answer": "while True"
+}

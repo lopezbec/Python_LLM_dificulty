@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following is the most Pythonic way to check if the variable a is between 10 and 20 inclusive?",
+  "options": [
+    "if a >= 10 and a <= 20:",
+    "if 10 <= a <= 20:",
+    "if a in range(10, 21):",
+    "if 10 <= a and a <= 20:"
+  ],
+  "correct_answer": "if 10 <= a <= 20:"
+}

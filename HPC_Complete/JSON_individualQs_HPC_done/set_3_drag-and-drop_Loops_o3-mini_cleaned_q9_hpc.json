@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "numbers = [1, 2, 3, 4]",
+        "squares = [n**2 for n in numbers]",
+        "for square in squares:",
+        "    print(square)"
+    ]
+}

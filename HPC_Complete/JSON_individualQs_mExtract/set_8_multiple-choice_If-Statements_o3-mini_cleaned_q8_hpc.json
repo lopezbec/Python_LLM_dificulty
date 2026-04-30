@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "def check_number(x):\n    if x < 0:\n        return True\n    else:\n        return False",
+    "def check_number(x):\n    if x > 0:\n        return 'Positive'\n    else:\n        return 'Non-positive'",
+    "def check_number(x):\n    if x == 0:\n        return 'Zero'\n    print('Non-zero')",
+    "def check_number(x):\n    print('Checking...')\n    return x"
+  ]
+}

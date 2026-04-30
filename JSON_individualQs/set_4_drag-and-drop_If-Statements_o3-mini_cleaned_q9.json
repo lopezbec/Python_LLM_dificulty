@@ -1,0 +1,21 @@
+{
+  "difficulty": 9,
+  "question": "Drag and drop the correct keywords to complete the nested if-else structure that evaluates the sign of x and y.\n\n_____ x > 0:\n    _____ y < 0:\n         print('x is positive and y is negative')\n    _____:\n         print('x is positive but y is not negative')",
+  "blanks": [
+    "Blank1",
+    "Blank2",
+    "Blank3"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "else",
+    "for",
+    "while"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": "if",
+    "Blank3": "else"
+  }
+}

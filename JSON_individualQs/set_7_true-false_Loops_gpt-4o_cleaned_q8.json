@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "The 'else' clause in a loop executes only if the loop completes all its iterations without encountering a 'break' statement.",
+  "answer": true
+}

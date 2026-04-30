@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "question": "How many times will \"Hello\" be printed?\n\n```python\ndef func(n):\n    for i in range(n):\n        for j in range(i):\n            print(\"Hello\")\n\nfunc(4)\n```",
+  "options": {
+    "A": "6",
+    "B": "4",
+    "C": "10",
+    "D": "12"
+  },
+  "answer": "A",
+  "difficulty": 9,
+  "topic": "loops",
+  "type": "multiple-choice"
+}

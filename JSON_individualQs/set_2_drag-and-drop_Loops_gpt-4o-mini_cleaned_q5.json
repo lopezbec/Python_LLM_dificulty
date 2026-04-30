@@ -1,0 +1,24 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop to create a loop that breaks when a specific condition is met.",
+  "options": [
+    "for",
+    "i in range(10)",
+    ":",
+    "print(i)",
+    "if",
+    "i == 5",
+    ":",
+    "break"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

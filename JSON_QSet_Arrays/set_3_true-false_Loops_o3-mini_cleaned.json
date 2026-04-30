@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "True or False: In Python, loops are used to execute a block of code repeatedly.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "True or False: A while loop's condition in Python is always checked before the loop body is executed.",
+    "answer": true
+  },
+  {
+    "difficulty": 3,
+    "question": "True or False: In Python, the 'for' loop is used exclusively for iterating over numbers.",
+    "answer": false
+  },
+  {
+    "difficulty": 4,
+    "question": "True or False: The 'break' statement immediately terminates the closest enclosing loop.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "True or False: The 'continue' statement causes the loop to skip the rest of the current iteration and immediately start the next iteration.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "True or False: In Python 3, the range() function returns an iterator, not a list.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "True or False: A loop in Python may include an 'else' clause that executes only if the loop terminates naturally (i.e., without a break statement).",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "True or False: In nested loops, the inner loop executes all of its iterations for every single iteration of the outer loop.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "True or False: In a while loop, the condition is evaluated only once at the beginning of the loop.",
+    "answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "True or False: Improper updating of loop control variables inside a while loop can result in an infinite loop.",
+    "answer": true
+  }
+]

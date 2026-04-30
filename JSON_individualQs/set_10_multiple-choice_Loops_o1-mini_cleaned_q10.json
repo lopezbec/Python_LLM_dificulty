@@ -1,0 +1,11 @@
+{
+  "question": "Given the following code, what is the output?\n\n```python\ndef generator():\n    i = 0\n    while True:\n        yield i\n        i += 1\n\ngen = generator()\nfor _ in range(5):\n    print(next(gen))\n```",
+  "options": [
+    "1\n2\n3\n4\n5",
+    "0\n1\n2\n3\n4",
+    "Infinite numbers",
+    "Error"
+  ],
+  "correct_answer": "0\n1\n2\n3\n4",
+  "difficulty": 10
+}

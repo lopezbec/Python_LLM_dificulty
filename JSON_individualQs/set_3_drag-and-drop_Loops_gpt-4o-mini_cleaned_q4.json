@@ -1,0 +1,14 @@
+{
+  "question": "Complete the syntax of the loop that continues until a variable reaches 10.",
+  "options": [
+    "while x < 10:",
+    "print(x)",
+    "x = x + 1"
+  ],
+  "correctOrder": [
+    "while x < 10:",
+    "print(x)",
+    "x = x + 1"
+  ],
+  "difficulty": 4
+}

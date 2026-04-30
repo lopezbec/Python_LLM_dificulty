@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In Python, the else clause of an if-statement is executed only when the if condition evaluates to False.",
+  "answer": true
+}

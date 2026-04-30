@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 7,
+  "prompt": "Organize the loop to iterate over a dictionary and print its keys and values.",
+  "draggableItems": [
+    "data = {'a': 1, 'b': 2, 'c': 3}",
+    "for key, value in data.items():",
+    "print(f'Key: {key}, Value: {value}')"
+  ],
+  "dropZones": [
+    "Dictionary Initialization",
+    "Loop Statement",
+    "Loop Body"
+  ],
+  "correctMatch": {
+    "Dictionary Initialization": "data = {'a': 1, 'b': 2, 'c': 3}",
+    "Loop Statement": "for key, value in data.items():",
+    "Loop Body": "print(f'Key: {key}, Value: {value}')"
+  }
+}

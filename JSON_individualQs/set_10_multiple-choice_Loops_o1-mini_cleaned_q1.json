@@ -1,0 +1,11 @@
+{
+  "question": "What is the purpose of a loop in Python?",
+  "options": [
+    "To perform a task repeatedly",
+    "To store data",
+    "To define a function",
+    "To import a module"
+  ],
+  "correct_answer": "To perform a task repeatedly",
+  "difficulty": 1
+}

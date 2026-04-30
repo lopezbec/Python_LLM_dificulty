@@ -1,0 +1,16 @@
+{
+  "difficulty": 4,
+  "question": "Drag the right code to form a loop that breaks the loop when 'x' is equal to 5.",
+  "options": [
+    "while True:",
+    "if x == 5:",
+    "break",
+    "print(x)"
+  ],
+  "correct_order": [
+    "while True:",
+    "if x == 5:",
+    "break",
+    "print(x)"
+  ]
+}

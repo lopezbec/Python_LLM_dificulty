@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Consider the code snippet: \n\nif x == 10:\n    print('Ten')\n\nWhat will be printed if x is set to 10?",
+  "options": [
+    "Ten",
+    "x is 10",
+    "Nothing",
+    "10"
+  ],
+  "answer": "Ten"
+}

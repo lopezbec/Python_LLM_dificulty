@@ -1,0 +1,5 @@
+{
+  "question": "Python's ternary conditional operator requires using the syntax: 'if condition then expression else expression'.",
+  "answer": false,
+  "difficulty": 9
+}

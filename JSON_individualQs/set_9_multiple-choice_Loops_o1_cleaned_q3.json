@@ -1,0 +1,13 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "type": "multiple-choice",
+  "question": "Which of the following statements immediately ends the current loop iteration and moves on to the next iteration?",
+  "options": [
+    "A) break",
+    "B) pass",
+    "C) continue",
+    "D) skip"
+  ],
+  "correct_answer": "C"
+}

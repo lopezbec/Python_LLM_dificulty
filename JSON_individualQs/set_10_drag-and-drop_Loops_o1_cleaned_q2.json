@@ -1,0 +1,19 @@
+{
+  "question": "Drag and drop the code blocks to form a while loop that prints numbers from 1 to 3.",
+  "question_type": "drag-and-drop",
+  "difficulty": 2,
+  "instructions": "Arrange the blocks so that the loop prints 1, 2, 3, then stops.",
+  "code_blocks": [
+    "count += 1",
+    "count = 1",
+    "while count <= 3:",
+    "print(count)",
+    "count = 10"
+  ],
+  "correct_order": [
+    "count = 1",
+    "while count <= 3:",
+    "print(count)",
+    "count += 1"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "6) Which of the following is true about nested if statements in Python?",
+  "difficulty": 6,
+  "options": {
+    "a": "Python does not allow nested if statements.",
+    "b": "A 'then' keyword is required for nesting if statements.",
+    "c": "An if statement can be placed inside another if statement.",
+    "d": "Nested if statements cannot exceed two levels."
+  },
+  "correct_answer": "c"
+}

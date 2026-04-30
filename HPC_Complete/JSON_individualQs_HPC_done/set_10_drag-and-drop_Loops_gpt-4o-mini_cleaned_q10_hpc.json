@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "condition = True",
+        "while True:",
+        "print('Looping')",
+        "if not condition:",
+        "break",
+        "'do while' loop",
+        "'while'"
+    ]
+}

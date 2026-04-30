@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The 'break' statement in Python only terminates the innermost loop in which it's used, not all outer loops.",
+  "correct_answer": "True"
+}

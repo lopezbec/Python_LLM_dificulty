@@ -1,0 +1,24 @@
+{
+    "HPC": [
+        "x = -2",
+        "__1__ x % 2 == 0:",
+        "__2__ x < 0:",
+        "print(\"Even Negative\")",
+        "__3__:",
+        "print(\"Even Positive\")",
+        "__4__:",
+        "print(\"Not Even\")",
+        "if",
+        "elif",
+        "while",
+        "if",
+        "else",
+        "except",
+        "elif",
+        "for",
+        "else",
+        "finally",
+        "else",
+        "with"
+    ]
+}

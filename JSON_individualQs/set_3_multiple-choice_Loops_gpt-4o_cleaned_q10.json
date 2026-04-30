@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Given a nested loop, what is the total number of iterations for the following code?\n\nfor i in range(1, 4):\n    for j in range(1, 4):\n        pass\n",
+  "options": [
+    "9",
+    "6",
+    "3",
+    "12"
+  ],
+  "correct_answer": "9"
+}

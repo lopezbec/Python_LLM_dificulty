@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "question": "How can you create a loop that runs indefinitely until explicitly broken?",
+  "options": {
+    "A": "for i in endless:",
+    "B": "while True:",
+    "C": "loop forever:",
+    "D": "repeat until false:"
+  },
+  "answer": "B",
+  "difficulty": 5
+}

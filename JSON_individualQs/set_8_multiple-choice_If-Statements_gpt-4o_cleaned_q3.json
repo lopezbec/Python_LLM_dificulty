@@ -1,0 +1,13 @@
+{
+  "difficulty": 3,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "What will be the output of the following code?\n\n```\nif True:\n    print('Hello')\n```\n",
+  "options": [
+    "Error",
+    "No output",
+    "True",
+    "Hello"
+  ],
+  "correct_answer": "Hello"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "A 'for' loop can iterate over a string, treating each character as an individual element.",
+  "answer": true
+}

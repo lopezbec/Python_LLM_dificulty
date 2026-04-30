@@ -1,0 +1,14 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "How can you iterate over both the index and the value of a list in a `for` loop?",
+  "options": [
+    "for index in range(len(list)): value = list[index]",
+    "for value, index in list:",
+    "for index, value in enumerate(list):",
+    "for list[index], list[value] in list:"
+  ],
+  "correct_answer": "for index, value in enumerate(list):"
+}

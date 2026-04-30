@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "z",
+        "if ___ and ___:\n    print('z is within range')",
+        "z >= 1",
+        "z <= 10",
+        "z > 10"
+    ]
+}

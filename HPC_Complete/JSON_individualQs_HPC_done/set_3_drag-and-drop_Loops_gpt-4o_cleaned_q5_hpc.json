@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for i in range(5, 0, ___):\n    print(i)",
+        "-1"
+    ]
+}

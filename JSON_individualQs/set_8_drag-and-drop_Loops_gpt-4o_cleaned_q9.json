@@ -1,0 +1,16 @@
+{
+  "difficulty": 9,
+  "question": "Connect each loop's structure to how it influences iteration.",
+  "choices": [
+    "Uses an index to access elements.",
+    "Directly iterates over elements."
+  ],
+  "structures": [
+    "for i in range(len(lst)):",
+    "for item in lst:"
+  ],
+  "correct_answers": {
+    "Uses an index to access elements.": "for i in range(len(lst)):",
+    "Directly iterates over elements.": "for item in lst:"
+  }
+}

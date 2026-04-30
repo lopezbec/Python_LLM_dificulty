@@ -1,0 +1,17 @@
+{
+  "question_id": 5,
+  "difficulty": 5,
+  "question_text": "Fill in the blank using the appropriate built-in function to obtain both the index and value from the list.",
+  "code_snippet": "colors = ['red', 'green', 'blue']\nfor index, color in ____(colors):\n    print(index, color)",
+  "draggable_items": {
+    "blank1": [
+      "enumerate",
+      "range",
+      "zip",
+      "list"
+    ]
+  },
+  "correct_mapping": {
+    "blank1": "enumerate"
+  }
+}

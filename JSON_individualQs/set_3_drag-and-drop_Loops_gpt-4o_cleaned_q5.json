@@ -1,0 +1,9 @@
+{
+  "difficulty": 5,
+  "topic": "Loops",
+  "question": "Complete the loop to count down from 5 to 1.",
+  "code": "for i in range(5, 0, ___):\n    print(i)",
+  "drag_and_drop_options": [
+    "-1"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question_text": "Arrange the lines to form a loop using enumerate to print both index and fruit in the list ['apple', 'banana', 'cherry'].",
+  "choices": [
+    "fruits = ['apple', 'banana', 'cherry']",
+    "for index, fruit in enumerate(fruits):",
+    "print(index, fruit)"
+  ],
+  "correct_order": [
+    1,
+    2,
+    3
+  ]
+}

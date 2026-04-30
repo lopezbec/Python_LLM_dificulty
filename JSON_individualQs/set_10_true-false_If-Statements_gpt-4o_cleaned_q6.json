@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "You can replace all if-statements with switch statements in Python.",
+  "answer": false
+}

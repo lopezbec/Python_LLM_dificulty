@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": 1,
+    "type": "true-false",
+    "question": "In Python, a for loop iterates over each element in a sequence like a list or a string.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 2,
+    "type": "true-false",
+    "question": "A while loop is the best choice when the number of iterations is known ahead of time.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 3,
+    "type": "true-false",
+    "question": "The break statement immediately exits the loop, regardless of remaining iterations.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 4,
+    "type": "true-false",
+    "question": "The continue statement ends all further execution of the loop and exits it entirely.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 5,
+    "type": "true-false",
+    "question": "An else clause after a for loop in Python executes only when the loop has finished normally without encountering a break statement.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 6,
+    "type": "true-false",
+    "question": "It is impossible to use nested loops in Python to iterate over more than two levels of data.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 7,
+    "type": "true-false",
+    "question": "Using range(1, 10, 2) in a Python for loop generates the sequence of odd numbers from 1 to 9.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 8,
+    "type": "true-false",
+    "question": "A for loop in Python can only iterate over lists and tuples, not other iterable types.",
+    "correctAnswer": "False"
+  },
+  {
+    "difficulty": 9,
+    "type": "true-false",
+    "question": "An infinite loop can be created using a while loop with a condition that always evaluates to True, such as 'while True:'.",
+    "correctAnswer": "True"
+  },
+  {
+    "difficulty": 10,
+    "type": "true-false",
+    "question": "Modifying a list by adding or removing elements during iteration in a for loop is a safe and recommended practice.",
+    "correctAnswer": "False"
+  }
+]

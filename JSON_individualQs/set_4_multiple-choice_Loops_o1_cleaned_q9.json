@@ -1,0 +1,11 @@
+{
+  "question": "Which code snippet produces the list [0, 1, 4, 9, 16] using a for loop in Python?",
+  "difficulty": 9,
+  "options": [
+    "A. squares = []\\nfor x in range(5):\\n    squares.append(x)\\nprint(squares)",
+    "B. squares = [x*x for x in range(5)]\\nprint(squares)",
+    "C. squares = []\\nfor x in range(5):\\n    squares.append(x*x)\\nprint(squares)",
+    "D. squares = []\\nfor x in range(1, 5):\\n    squares.append(x*x)\\nprint(squares)"
+  ],
+  "answer": "C"
+}

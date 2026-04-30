@@ -1,0 +1,15 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "Loops",
+  "question": "Arrange the loop that iterates over a dictionary correctly.",
+  "drag_items": [
+    "for key, value in dictionary.items():",
+    "    print(key, value)"
+  ],
+  "drop_zones": [
+    "Loop declaration",
+    "Loop body"
+  ],
+  "instructions": "Drag the code snippets into the correct order for iterating over a dictionary."
+}

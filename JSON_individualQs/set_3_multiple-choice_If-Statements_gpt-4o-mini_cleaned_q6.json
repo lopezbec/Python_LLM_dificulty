@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code if `x` is set to 20?\n\nx = 20\nif x <= 20:\n    print('Twenty or less')\nelse:\n    print('More than twenty')",
+  "options": [
+    "Twenty or less",
+    "More than twenty",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Twenty or less",
+  "difficulty": 6
+}

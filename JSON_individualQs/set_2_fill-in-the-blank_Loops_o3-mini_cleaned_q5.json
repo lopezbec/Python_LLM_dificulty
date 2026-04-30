@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: Complete the code to print all odd numbers from 1 to 9:\n\nfor num in range(1, 10, ____):\n    print(num)",
+  "answer": "2"
+}

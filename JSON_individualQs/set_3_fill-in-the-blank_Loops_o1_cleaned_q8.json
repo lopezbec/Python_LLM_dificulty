@@ -1,0 +1,6 @@
+{
+  "difficulty": 8,
+  "type": "fill-in-the-blank",
+  "question": "Nested loops are loops placed inside another loop. The outer loop runs first, then the inner loop executes its entire cycle for each iteration of the '___' loop.",
+  "correct_answer": "outer"
+}

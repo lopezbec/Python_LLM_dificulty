@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "A one-line if statement like 'if x > 0: print(\"Positive\")' is valid in Python.",
+  "answer": "True"
+}

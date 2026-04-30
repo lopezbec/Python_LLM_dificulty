@@ -1,0 +1,11 @@
+{
+  "question": "If you have 'if (not x) and y:' in Python, and x=False, y=True, which statement is correct?",
+  "choices": {
+    "A": "The condition does not evaluate",
+    "B": "The condition results in a SyntaxError",
+    "C": "The condition is true and the block will execute",
+    "D": "The condition is false and the block will not execute"
+  },
+  "correct_answer": "C",
+  "difficulty": 9
+}

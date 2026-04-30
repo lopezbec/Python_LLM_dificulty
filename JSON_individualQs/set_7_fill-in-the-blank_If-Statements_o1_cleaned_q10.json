@@ -1,0 +1,6 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question": "Complete the inline if statement to assign 'result' to 'Yes' if 'condition' is True, otherwise 'No':\n\nresult = 'Yes' ____ condition else 'No'",
+  "correct_answer": "if"
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for",
+        "else",
+        "for item in iterable:",
+        "print(item)",
+        "else:",
+        "print('Loop completed')"
+    ]
+}

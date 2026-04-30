@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 6,
+  "question": "Arrange the following to implement a ternary `if` statement in Python.",
+  "options": [
+    "result = \"Yes\"",
+    "if condition",
+    "else \"No\"",
+    "result = \"No\""
+  ],
+  "correct_order": [
+    "result = \"Yes\" if condition else \"No\""
+  ]
+}

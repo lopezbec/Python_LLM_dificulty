@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if temperature > 100:",
+        "status = 'Boiling'",
+        "else:",
+        "status = ______",
+        "temperature > 100",
+        "'Normal'"
+    ]
+}

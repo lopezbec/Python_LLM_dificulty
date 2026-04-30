@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if a < b:\n    answer = 'A is less than B'\nelse:\n    answer = 'A is not less than B'",
+        "answer",
+        "a = 5",
+        "b = 10",
+        "'A is less than B'",
+        "'A is greater than B'",
+        "'A is equal to B'",
+        "'Nothing will be assigned'"
+    ]
+}

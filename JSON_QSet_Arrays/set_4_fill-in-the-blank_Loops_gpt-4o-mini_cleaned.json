@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, a loop that iterates a specific number of times is called a ____ loop.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "The statement used to exit a loop prematurely in Python is ____.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 3,
+    "question": "A ____ loop will continue to execute as long as a specified condition is true.",
+    "answer": "while"
+  },
+  {
+    "difficulty": 4,
+    "question": "To stop the current iteration of a loop and move to the next one, you would use the ____ statement.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 5,
+    "question": "In a for loop, the variable that takes the value of each item in the sequence is called the ____ variable.",
+    "answer": "loop"
+  },
+  {
+    "difficulty": 6,
+    "question": "When using a while loop, it is crucial to ensure that the ____ condition eventually becomes false to avoid infinite loops.",
+    "answer": "termination"
+  },
+  {
+    "difficulty": 7,
+    "question": "The function that can be used to iterate over a sequence in for loops is called the ____ function.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 8,
+    "question": "In a nested loop, the loop inside the outer loop is called the ____ loop.",
+    "answer": "inner"
+  },
+  {
+    "difficulty": 9,
+    "question": "To loop through a dictionary, you can use the items() method to access both the keys and the ____ at the same time.",
+    "answer": "values"
+  },
+  {
+    "difficulty": 10,
+    "question": "The loop control structure that allows executing a block of code multiple times based on a condition and can lead to performance issues if not handled properly is known as a ____ loop.",
+    "answer": "nested"
+  }
+]

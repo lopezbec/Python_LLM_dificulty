@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "if-statements",
+  "question": "Drag the correct keyword to complete the if-elif-else structure.",
+  "instruction": "Drag the correct keyword into the blank to correctly form an if-elif-else statement.",
+  "code": "x = 10\nif x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+  "dragItems": [
+    "elif",
+    "if"
+  ],
+  "dropZones": [
+    "[keyword]"
+  ],
+  "correctMapping": {
+    "[keyword]": "elif"
+  }
+}

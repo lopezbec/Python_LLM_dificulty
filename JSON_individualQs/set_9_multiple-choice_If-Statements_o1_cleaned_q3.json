@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "question": "Which of the following is true about indentation in Python if statements?",
+  "options": [
+    "Indentation is optional as long as the code blocks are separated by empty lines.",
+    "Code inside an if block must be consistently indented with the same number of spaces or tabs.",
+    "A semicolon can replace indentation in Python.",
+    "No indentation is required if there is only one line of code in the if block."
+  ],
+  "correctAnswer": "Code inside an if block must be consistently indented with the same number of spaces or tabs.",
+  "explanation": "In Python, indentation is mandatory to define code blocks under keywords like if, for, and while."
+}

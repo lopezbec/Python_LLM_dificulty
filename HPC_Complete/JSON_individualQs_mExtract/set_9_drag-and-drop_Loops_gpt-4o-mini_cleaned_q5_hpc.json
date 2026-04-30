@@ -1,0 +1,7 @@
+{
+  "HPC": [
+    "for i in iterable:\n    do_something()\nelse:\n    completed()",
+    "for i in iterable:\n    do_something()\n\nelse:\n    has_finished()",
+    "for i in iterable:\n    do_something()\nelse:\n    finished()"
+  ]
+}

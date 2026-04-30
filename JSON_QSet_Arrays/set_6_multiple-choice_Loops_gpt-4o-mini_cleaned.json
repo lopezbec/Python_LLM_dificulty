@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is a loop in programming?",
+    "options": [
+      "A way to store data",
+      "A way to repeat a block of code",
+      "A function that returns a value",
+      "A type of variable"
+    ],
+    "correct_answer": "A way to repeat a block of code",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following is a common type of loop in Python?",
+    "options": [
+      "while loop",
+      "until loop",
+      "repeat loop",
+      "next loop"
+    ],
+    "correct_answer": "while loop",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the output of the following code?\n\nfor i in range(3):\n    print(i)\n\n",
+    "options": [
+      "0\n1\n2\n3",
+      "1\n2\n3",
+      "0\n1\n2",
+      "3\n2\n1"
+    ],
+    "correct_answer": "0\n1\n2",
+    "difficulty": 3
+  },
+  {
+    "question": "Which keyword is used to exit a loop prematurely in Python?",
+    "options": [
+      "break",
+      "exit",
+      "stop",
+      "end"
+    ],
+    "correct_answer": "break",
+    "difficulty": 4
+  },
+  {
+    "question": "What will the following code print?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1\n\n",
+    "options": [
+      "0\n1\n2",
+      "0\n1\n2\n3",
+      "3\n2\n1",
+      "1\n2\n3"
+    ],
+    "correct_answer": "0\n1\n2",
+    "difficulty": 5
+  },
+  {
+    "question": "How many times will 'Hello' be printed in the following code?\n\nfor i in range(1, 10, 2):\n    print('Hello')\n\n",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "10"
+    ],
+    "correct_answer": "5",
+    "difficulty": 6
+  },
+  {
+    "question": "What happens if the following code runs?\n\nx = 0\nwhile x < 5:\n    print(x)\n    x -= 1\n\n",
+    "options": [
+      "It prints numbers indefinitely",
+      "It prints numbers from 0 to 4",
+      "It prints nothing",
+      "It raises a syntax error"
+    ],
+    "correct_answer": "It prints numbers indefinitely",
+    "difficulty": 7
+  },
+  {
+    "question": "What will the result of the following code be?\n\nfor x in range(4):\n    for y in range(x):\n        print(x, y)\n\n",
+    "options": [
+      "No output",
+      "Pairs of numbers where y is less than x",
+      "Pairs of numbers where x is less than y",
+      "Pairs of numbers 0,1; 0,2; 1,2"
+    ],
+    "correct_answer": "Pairs of numbers where y is less than x",
+    "difficulty": 8
+  },
+  {
+    "question": "What will be the final value of 'total' after running the following code?\n\ntotal = 0\nfor i in range(1, 6):\n    total += i\n\n",
+    "options": [
+      "15",
+      "10",
+      "5",
+      "20"
+    ],
+    "correct_answer": "15",
+    "difficulty": 9
+  },
+  {
+    "question": "Consider the following code snippet. What does it demonstrate?\n\nfor i in range(5):\n    if i == 2:\n        continue\n    print(i)\n\n",
+    "options": [
+      "Using 'break' to exit loop",
+      "Using 'continue' to skip iterations",
+      "An infinite loop",
+      "The range function"
+    ],
+    "correct_answer": "Using 'continue' to skip iterations",
+    "difficulty": 10
+  }
+]

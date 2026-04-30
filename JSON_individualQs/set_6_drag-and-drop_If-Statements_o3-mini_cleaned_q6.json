@@ -1,0 +1,17 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "if-statements",
+  "question": "Complete the nested if-statement so that 'Both positive' is printed only when both a and b are greater than 0.",
+  "instruction": "Drag the correct nested if line into the blank.",
+  "code": "a = 5\nb = 3\nif a > 0:\n    ____\n        print('Both positive')",
+  "dragItems": [
+    "if b > 0:"
+  ],
+  "dropZones": [
+    "[nested if]"
+  ],
+  "correctMapping": {
+    "[nested if]": "if b > 0:"
+  }
+}

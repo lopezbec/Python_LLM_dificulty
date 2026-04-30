@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Which loop construct in Python is generally preferred when processing an infinite iterator (or generator) that does not have a definite endpoint and must be terminated using a break statement?",
+  "options": {
+    "A": "for loop",
+    "B": "while loop",
+    "C": "do-while loop",
+    "D": "repeat loop"
+  },
+  "correctAnswer": "B"
+}

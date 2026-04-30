@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "while condition:",
+        "    # loop body",
+        "    statement"
+    ]
+}

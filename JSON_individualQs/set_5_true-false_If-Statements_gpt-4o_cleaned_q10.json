@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "It is possible to write an if-statement with multiple conditions in Python using a combination of logical operators and parentheses to control the order of evaluation.",
+  "answer": true
+}

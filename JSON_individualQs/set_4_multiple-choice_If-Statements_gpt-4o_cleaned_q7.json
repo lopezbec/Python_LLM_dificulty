@@ -1,0 +1,11 @@
+{
+  "question": "7. What happens if there is a missing 'else' block in an if-else statement?",
+  "options": {
+    "a": "It throws a syntax error",
+    "b": "The program crashes",
+    "c": "Only the if condition is evaluated",
+    "d": "The condition always returns false"
+  },
+  "correct_answer": "c",
+  "difficulty": 7
+}

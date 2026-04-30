@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct syntax for a basic if statement in Python?",
+  "choices": {
+    "A": "if x = 5: print(\"x is 5\")",
+    "B": "if x == 5 print(\"x is 5\")",
+    "C": "if x == 5: print(\"x is 5\")",
+    "D": "if x = 5 print(\"x is 5\")"
+  },
+  "correct_answer": "C",
+  "difficulty": 2
+}

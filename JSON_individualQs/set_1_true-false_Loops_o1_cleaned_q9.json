@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Is it true that list comprehensions in Python can serve as a more concise alternative to certain for loops?",
+  "answer": "True"
+}

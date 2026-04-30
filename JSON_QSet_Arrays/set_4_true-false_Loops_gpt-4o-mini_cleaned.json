@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A 'for' loop can iterate over a range of numbers in Python.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "A 'while' loop must have a condition that always evaluates to True.",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "Using a 'for' loop, you can modify the elements of a list directly while iterating over it.",
+    "answer": false,
+    "difficulty": 3
+  },
+  {
+    "question": "The 'break' statement in a loop is used to completely exit the loop.",
+    "answer": true,
+    "difficulty": 4
+  },
+  {
+    "question": "In Python, a 'for' loop can be used to iterate over a dictionary's keys and values.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "The 'continue' statement in a loop causes the program to stop executing the current iteration and go to the next iteration.",
+    "answer": true,
+    "difficulty": 6
+  },
+  {
+    "question": "In Python, it is not possible to use nested loops (a loop inside another loop).",
+    "answer": false,
+    "difficulty": 7
+  },
+  {
+    "question": "You can use the 'else' clause in a loop in Python, which executes after the loop finishes unless it was terminated by a 'break'.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "Infinite loops in Python can be avoided by ensuring that the loop's condition eventually becomes False.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "The 'for' loop in Python can only iterate over iterable objects that are ordered, like lists and tuples.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Drag and drop the correct keywords and logical operators to complete the compound condition that checks if 'x' is positive and divisible by both 2 and 3.",
+  "codeSnippet": "____ x > 0 ____ (x % 2 == 0 ____ x % 3 == 0):\n    print('x is positive and divisible by 2 and 3')",
+  "dragItems": [
+    "if",
+    "and",
+    "and"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "and",
+    "drop3": "and"
+  }
+}

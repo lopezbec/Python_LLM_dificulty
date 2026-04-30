@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "The keyword used to start a loop that iterates over a sequence in Python is _____.",
+  "answer": "for"
+}

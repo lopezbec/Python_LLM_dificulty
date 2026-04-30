@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Is it true that a 'for' loop in Python can iterate over any iterable, such as a list or a string?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "Is it true that a 'while' loop in Python will not run even once if the condition is False at the beginning?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 3,
+    "question": "Is it true that using the 'break' statement inside a 'while' loop can terminate the loop before its condition becomes False?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "Is it true that a 'for' loop in Python always requires a 'break' statement to end?",
+    "answer": "False"
+  },
+  {
+    "difficulty": 5,
+    "question": "Is it true that Python's 'else' clause in a loop executes only if the loop finishes without a 'break' statement?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "Is it true that the 'continue' statement in a loop permanently skips all future iterations?",
+    "answer": "False"
+  },
+  {
+    "difficulty": 7,
+    "question": "Is it true that iterating over a dictionary in a 'for' loop retrieves its keys by default?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "Is it true that a nested loop cannot access the variables defined in its outer loop?",
+    "answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "Is it true that list comprehensions in Python can serve as a more concise alternative to certain for loops?",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "Is it true that a 'while' loop with a condition that never becomes False or is never broken out of will run indefinitely?",
+    "answer": "True"
+  }
+]

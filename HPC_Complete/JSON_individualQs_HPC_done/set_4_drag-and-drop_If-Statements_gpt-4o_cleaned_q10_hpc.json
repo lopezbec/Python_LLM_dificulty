@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "handle_error",
+        "KeyError",
+        "try:\n    value = dict[key]\n__ KeyError:\n    handle_error()",
+        "except",
+        "else",
+        "finally"
+    ]
+}

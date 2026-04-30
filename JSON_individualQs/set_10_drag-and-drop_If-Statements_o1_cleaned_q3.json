@@ -1,0 +1,22 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to handle three conditions for x: if x == 0, elif x > 0, else print 'Negative'.",
+  "codeSnippet": "x = 0\n[1] x [2] 0:\n    print(\"Zero\")\n[3] x [4] 0:\n    print(\"Positive\")\n[5]:\n    print(\"Negative\")",
+  "dragItems": [
+    "if",
+    "==",
+    "elif",
+    ">",
+    "else"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    "elif",
+    ">",
+    "else"
+  ],
+  "explanation": "Use 'if x == 0:', then 'elif x > 0:', otherwise 'else:'."
+}

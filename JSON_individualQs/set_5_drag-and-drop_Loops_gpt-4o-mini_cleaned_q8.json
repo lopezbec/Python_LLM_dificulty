@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Complete this loop using drag-and-drop: 'for i in range(5): print(i); ____'.",
+  "options": [
+    "break",
+    "continue",
+    "pass",
+    "return"
+  ],
+  "correct_answer": "pass"
+}

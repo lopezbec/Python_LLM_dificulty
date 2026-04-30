@@ -1,0 +1,7 @@
+{
+  "question": "A 'while' loop can run indefinitely if the loop condition never becomes false and there is no 'break' statement.",
+  "type": "true/false",
+  "difficulty": 7,
+  "topic": "loops",
+  "correct_answer": "True"
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Complete the if-else statement to print the correct message when 'x' is less than 10, and another message otherwise.",
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "codeSnippet": "x = 7\nif x < 10:\n    print(\"x is less than 10\")\n{KEYWORD}:\n    print(\"x is 10 or more\")",
+  "dragItems": [
+    "else",
+    "elif",
+    "try"
+  ],
+  "correctAnswer": [
+    "else"
+  ]
+}

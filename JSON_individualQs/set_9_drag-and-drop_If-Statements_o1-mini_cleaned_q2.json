@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "if-statements",
+  "question": "Arrange the following code snippets to create an `if-else` statement that checks if `age` is at least 18.",
+  "options": [
+    "    print('You are an adult.')",
+    "else:",
+    "if age >= 18:"
+  ],
+  "answer": [
+    "if age >= 18:",
+    "    print('You are an adult.')",
+    "else:"
+  ]
+}

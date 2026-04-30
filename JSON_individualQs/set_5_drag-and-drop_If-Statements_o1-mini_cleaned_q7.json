@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to create an if statement that checks multiple conditions using logical operators.\n\nif (x > 0 ___(1)___ y > 0) ___(2)___ (x + y < 100):\n    print(\"Conditions met\")",
+  "options": [
+    "and",
+    "or",
+    "not",
+    ":",
+    "elif",
+    "else"
+  ],
+  "answers": {
+    "1": "and",
+    "2": ":"
+  }
+}

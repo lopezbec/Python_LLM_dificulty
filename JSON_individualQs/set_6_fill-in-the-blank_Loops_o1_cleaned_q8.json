@@ -1,0 +1,6 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question": "A concise way to create a list in Python using a loop inside square brackets is known as a ________.",
+  "correct_answer": "list comprehension"
+}

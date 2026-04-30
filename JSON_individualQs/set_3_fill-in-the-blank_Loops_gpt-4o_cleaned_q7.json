@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The ___ function can be used to create a sequence of numbers to iterate over in a loop.",
+  "correct_answer": "range"
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank to check if 'char' is in the string 'alphabet':\n\nif char ____ 'alphabet':\n    print('Found it')",
+  "correct_answer": "in"
+}

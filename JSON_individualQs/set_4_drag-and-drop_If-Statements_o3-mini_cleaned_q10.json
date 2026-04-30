@@ -1,0 +1,23 @@
+{
+  "difficulty": 10,
+  "question": "Complete the code below by dragging the missing keywords to build a multi-branch conditional statement that prints messages based on the temperature value.\n\n_____ temperature > 30:\n    print(\"It's hot\")\n_____ temperature <= 30 _____ temperature > 15:\n    print(\"It's warm\")\n_____:\n    print(\"It's cold\")",
+  "blanks": [
+    "Blank1",
+    "Blank2",
+    "Blank3",
+    "Blank4"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "else",
+    "and",
+    "or"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": "elif",
+    "Blank3": "and",
+    "Blank4": "else"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which of the following is a valid while loop structure in Python?",
+  "options": [
+    "while (x < 5):",
+    "while x < 5:",
+    "while x < 5{}",
+    "while: x < 5"
+  ],
+  "answer": "while x < 5:"
+}

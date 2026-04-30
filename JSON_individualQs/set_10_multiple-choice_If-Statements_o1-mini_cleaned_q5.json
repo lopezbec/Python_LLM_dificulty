@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "question": "How do you add an additional condition to an if statement in Python?",
+  "options": {
+    "A": "Using the && operator",
+    "B": "Using the AND keyword",
+    "C": "Using the & symbol",
+    "D": "Using the OR keyword"
+  },
+  "answer": "B",
+  "difficulty": 5
+}

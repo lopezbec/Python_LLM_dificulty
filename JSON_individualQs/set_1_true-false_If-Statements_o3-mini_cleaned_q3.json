@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The if-statement in Python requires curly braces {} to define the scope of its block.",
+  "answer": false
+}

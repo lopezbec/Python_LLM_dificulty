@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if item ",
+        "in items:",
+        "not in items:",
+        "exists in items:"
+    ]
+}

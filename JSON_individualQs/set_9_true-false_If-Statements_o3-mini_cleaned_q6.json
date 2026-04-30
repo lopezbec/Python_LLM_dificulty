@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In a nested if statement, the inner if condition is evaluated only if the outer if condition is True.",
+  "answer": "True"
+}

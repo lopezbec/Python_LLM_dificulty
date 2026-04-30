@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "In Python, the keyword that stops the current loop iteration and continues to the next iteration is ______.",
+  "answer": "continue"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Nested loops with multiple levels can result in high computational complexity, often expressed by the term '___ complexity'.",
+  "blank": "polynomial"
+}

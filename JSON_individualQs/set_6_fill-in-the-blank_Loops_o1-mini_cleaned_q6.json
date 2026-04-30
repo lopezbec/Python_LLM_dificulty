@@ -1,0 +1,7 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "loops",
+  "question": "In the following loop, fill in the blank to print each item:\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor fruit in fruits:\n    print(____)\n```",
+  "answer": "fruit"
+}

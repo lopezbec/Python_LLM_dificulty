@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In loops, a statement can be skipped using an if-statement combined with the keyword _____.",
+  "answer": "continue"
+}

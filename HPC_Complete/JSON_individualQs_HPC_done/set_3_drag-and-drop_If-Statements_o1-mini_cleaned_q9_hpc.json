@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "x = 15",
+        "y = 20",
+        "if x > 10:",
+        "__ if y > 15:",
+        "____ print('x and y are greater than thresholds')",
+        "__ else:",
+        "____ print('x is greater, y is not')",
+        "else:",
+        "print('x is not greater than 10')",
+        "    ",
+        "        ",
+        "",
+        "        ",
+        ""
+    ]
+}

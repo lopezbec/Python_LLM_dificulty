@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: To check multiple conditions in a single expression, you can use the 'and' keyword, as in 'if x > 5 and x < 10:'. The word 'and' acts as a _____.",
+  "answer": "logical operator"
+}

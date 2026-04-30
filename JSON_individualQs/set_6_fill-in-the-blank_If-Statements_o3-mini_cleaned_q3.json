@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Complete the following if-elif-else statement by filling in the blank:\n\nif x == 0:\n    print('Zero')\n______ x > 0:\n    print('Positive')\nelse:\n    print('Negative')",
+  "answer": "elif"
+}

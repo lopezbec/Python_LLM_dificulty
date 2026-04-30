@@ -1,0 +1,6 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question": "In Python, to iterate a fixed number of times, we use the ________ keyword.",
+  "correct_answer": "for"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "x = 7",
+        "print('Medium') if ______ else print('Not Medium')",
+        "x",
+        "5 <= x <= 10"
+    ]
+}

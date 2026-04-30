@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if",
+        "number == 5",
+        ":",
+        "    print(\"Number is five\")"
+    ]
+}

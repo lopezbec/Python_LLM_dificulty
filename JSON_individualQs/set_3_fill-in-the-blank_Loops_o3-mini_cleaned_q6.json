@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank: A loop that never terminates due to an improperly updated condition is called an __ loop.",
+  "answer": "infinite"
+}

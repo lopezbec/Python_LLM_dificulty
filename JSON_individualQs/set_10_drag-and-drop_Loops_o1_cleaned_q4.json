@@ -1,0 +1,19 @@
+{
+  "question": "Drag and drop the code blocks to print the multiplication table from 1 to 3 in a nested loop.",
+  "question_type": "drag-and-drop",
+  "difficulty": 4,
+  "instructions": "Arrange the blocks so that all products of (1\u00d71) through (3\u00d73) are displayed, with a separator line after each inner loop iteration.",
+  "code_blocks": [
+    "print('Done')",
+    "for j in range(1, 4):",
+    "print(i, 'x', j, '=', i * j)",
+    "for i in range(1, 4):",
+    "print('-----')"
+  ],
+  "correct_order": [
+    "for i in range(1, 4):",
+    "for j in range(1, 4):",
+    "print(i, 'x', j, '=', i * j)",
+    "print('-----')"
+  ]
+}

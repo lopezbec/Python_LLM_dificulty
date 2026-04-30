@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "You have the following code:\n\nx = 3\ny = 5\nif x < 4:\n    if y > 4:\n        print(\"Nested condition met\")\n\nWhat will be the output?",
+  "choices": {
+    "A": "No output, because the outer condition is False",
+    "B": "No output, because the inner condition is False",
+    "C": "It will print \"Nested condition met\" once",
+    "D": "It will raise a SyntaxError due to spacing"
+  },
+  "correct_answer": "C"
+}

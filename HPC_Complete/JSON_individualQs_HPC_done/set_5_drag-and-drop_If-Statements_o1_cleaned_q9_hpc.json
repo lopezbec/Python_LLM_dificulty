@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if-elif-else",
+        "x < 0",
+        "x == 0",
+        "x > 0",
+        "x = 0\nif {CONDITION1}:\n    print(\"Negative\")\nelif {CONDITION2}:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+        "x < 0",
+        "x <= 0",
+        "x == 0",
+        "x != 0",
+        "x > 0"
+    ]
+}

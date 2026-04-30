@@ -1,0 +1,6 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank to check that a string variable s is not empty:\n\nif ______:\n    print('Non-empty string')\n\n(Provide a condition that tests for a non-empty string.)",
+  "answer": "s != \"\""
+}

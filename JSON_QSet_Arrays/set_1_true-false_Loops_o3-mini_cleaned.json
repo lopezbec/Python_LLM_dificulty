@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A for loop in Python can iterate over a list.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "If the condition in a while loop is false from the start, the loop will not execute at all.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 3,
+    "question": "The range() function in Python generates a sequence of numbers that can be used to control loops.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "Using the break statement inside a loop causes the loop to immediately terminate even if the loop's condition is still true.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "The continue statement in Python exits the loop completely, skipping any further iterations.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 6,
+    "question": "A for loop in Python can iterate over any iterable object, including strings, tuples, and dictionaries.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "A for loop creates a new local scope for the loop variable during each iteration.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 8,
+    "question": "An else clause attached to a loop in Python will execute even if the loop is terminated early by a break statement.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "In nested loops, the inner loop runs to completion for each single iteration of the outer loop.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "When iterating directly over a dictionary using a for loop, the loop will automatically iterate over the dictionary's values.",
+    "answer": "False"
+  }
+]

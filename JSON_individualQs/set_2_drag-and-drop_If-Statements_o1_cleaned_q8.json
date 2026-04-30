@@ -1,0 +1,21 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "questionText": "Complete this snippet to validate a user's input is between 1 and 10 inclusive. If valid, print 'Valid input', otherwise 'Invalid input'.",
+  "incompleteCode": "[Zone1] 1 [Zone2] user_input [Zone3] 10 [Zone4]\n    print(\"Valid input\")\n[Zone5]:\n    print(\"Invalid input\")",
+  "dragItems": [
+    "if",
+    "<=",
+    "<=",
+    ":",
+    "else:"
+  ],
+  "correctAnswer": [
+    "if",
+    "<=",
+    "<=",
+    ":",
+    "else:"
+  ],
+  "explanation": "We use if 1 <= user_input <= 10: to ensure it's in the range, otherwise else: is for invalid."
+}

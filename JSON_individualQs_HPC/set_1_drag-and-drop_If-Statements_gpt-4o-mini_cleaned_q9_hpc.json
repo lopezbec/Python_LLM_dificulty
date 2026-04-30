@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if (score >= 90) { ____ } else if (score >= 80) { print('B'); } else { print('C'); }",
+        "score",
+        "print('B');",
+        "print('C');",
+        "print('A');",
+        "print('D');",
+        "print('F');"
+    ]
+}

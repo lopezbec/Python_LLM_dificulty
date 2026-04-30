@@ -1,0 +1,164 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag and drop the correct keyword to create a simple loop in Python.",
+    "options": {
+      "A": "for",
+      "B": "while",
+      "C": "loop",
+      "D": "each"
+    },
+    "drops": {
+      "Target": "______ i in range(5):"
+    },
+    "correct_order": [
+      "A"
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Drag and drop the appropriate keyword to create a loop that continues as long as a condition is true.",
+    "options": {
+      "A": "for",
+      "B": "while",
+      "C": "until",
+      "D": "repeat"
+    },
+    "drops": {
+      "Target": "______ condition:"
+    },
+    "correct_order": [
+      "B"
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Complete the loop by dragging and dropping the correct function to print numbers from 0 to 4.",
+    "options": {
+      "A": "print",
+      "B": "display",
+      "C": "output",
+      "D": "log"
+    },
+    "drops": {
+      "Target": "for i in range(5): _____(i)"
+    },
+    "correct_order": [
+      "A"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Drag and drop to create a nested loop structure to multiply numbers.",
+    "options": {
+      "A": "for",
+      "B": "while",
+      "C": "if",
+      "D": "else"
+    },
+    "drops": {
+      "Target": "for i in range(3): for j in range(2): _____(i * j)"
+    },
+    "correct_order": [
+      "A"
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Drag and drop the correct code snippets to create a loop that skips even numbers.",
+    "options": {
+      "A": "break",
+      "B": "continue",
+      "C": "pass",
+      "D": "stop"
+    },
+    "drops": {
+      "Target": "for i in range(10): if i % 2 == 0: _____"
+    },
+    "correct_order": [
+      "B"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Drag and drop the appropriate keyword to terminate a loop early.",
+    "options": {
+      "A": "exit",
+      "B": "break",
+      "C": "return",
+      "D": "stop"
+    },
+    "drops": {
+      "Target": "while True: if some_condition: _____"
+    },
+    "correct_order": [
+      "B"
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Complete the code block to print the values in a list using a loop.",
+    "options": {
+      "A": "for",
+      "B": "in",
+      "C": "print",
+      "D": "each"
+    },
+    "drops": {
+      "Target": "______(value in my_list): print(value)"
+    },
+    "correct_order": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Create a loop that runs a specific number of times, dragging the appropriate elements.",
+    "options": {
+      "A": "repeat",
+      "B": "for",
+      "C": "until",
+      "D": "while"
+    },
+    "drops": {
+      "Target": "______(i in range(10))"
+    },
+    "correct_order": [
+      "B"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Drag and drop the correct code to create a loop that counts down from 5.",
+    "options": {
+      "A": "for i in range(5, 0, -1):",
+      "B": "while i > 0:",
+      "C": "for i in range(4, -1, -1):",
+      "D": "while i < 5:"
+    },
+    "drops": {
+      "Target": "_____ print(i)"
+    },
+    "correct_order": [
+      "A"
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Construct a loop that utilizes both a for-loop and an if-statement. Drag the pieces into the correct places.",
+    "options": {
+      "A": "for",
+      "B": "if",
+      "C": "in",
+      "D": "print"
+    },
+    "drops": {
+      "Target": "______(i in range(20)) : _____(i) if i % 2 == 0 else None"
+    },
+    "correct_order": [
+      "A",
+      "B"
+    ]
+  }
+]

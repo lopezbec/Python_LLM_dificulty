@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In an if-statement, to check if a variable x is greater than 10, you would write: 'if x _____ 10'.",
+  "correct_answer": "greater than"
+}

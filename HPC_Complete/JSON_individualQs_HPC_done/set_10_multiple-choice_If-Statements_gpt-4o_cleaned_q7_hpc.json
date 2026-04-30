@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "x = 10",
+        "y = 8",
+        "if x > 5:",
+        "if y < 10:",
+        "print('Both conditions met')",
+        "else:",
+        "print('Second condition not met')",
+        "else:",
+        "print('First condition not met')",
+        "A) Both conditions met",
+        "B) Second condition not met",
+        "C) First condition not met",
+        "D) Error"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "HPC": [
+        "x = 5",
+        "y = 10",
+        "z = 15",
+        "if x < y:",
+        "if y < z:",
+        "if x < z:",
+        "result = 'Nested'",
+        "else:",
+        "result = 'Inner else'",
+        "else:",
+        "result = 'Middle else'",
+        "else:",
+        "result = 'Outer else'",
+        "x",
+        "y",
+        "z",
+        "result",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

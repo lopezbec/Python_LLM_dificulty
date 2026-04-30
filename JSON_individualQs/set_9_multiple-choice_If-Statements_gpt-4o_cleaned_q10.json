@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following nested if-statements:\n\n```\nx = 5\ny = 10\nif x > 2:\n    if y < 15:\n        if x == 5:\n            print('x is 5 and y is less than 15')\n        else:\n            print('x is not 5')\n    else:\n        print('y is greater than or equal to 15')\nelse:\n    print('x is less than or equal to 2')\n```\n\nWhat is the output?",
+  "difficulty": 10,
+  "options": {
+    "A": "x is 5 and y is less than 15",
+    "B": "y is greater than or equal to 15",
+    "C": "x is not 5",
+    "D": "x is less than or equal to 2"
+  },
+  "correct_answer": "A"
+}

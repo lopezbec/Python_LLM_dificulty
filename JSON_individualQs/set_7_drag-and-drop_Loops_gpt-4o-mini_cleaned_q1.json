@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct code to complete the for loop statement: `for i in ___:`",
+  "options": [
+    "(0, 10)",
+    "[0, 10)",
+    "range(10)",
+    "0 to 10"
+  ],
+  "correctOption": "range(10)"
+}

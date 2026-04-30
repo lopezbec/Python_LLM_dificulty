@@ -1,0 +1,20 @@
+{
+  "difficulty": 10,
+  "question": "Drag and drop to arrange a loop that generates and prints the Fibonacci sequence up to 100.",
+  "options": [
+    "a, b = 0, 1",
+    "while",
+    "b < 100",
+    ":",
+    "print(b)",
+    "a, b = b, a + b"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

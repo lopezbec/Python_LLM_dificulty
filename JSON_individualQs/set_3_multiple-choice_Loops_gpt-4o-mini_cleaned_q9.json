@@ -1,0 +1,11 @@
+{
+  "question": "Given the following code: `for i in range(5): for j in range(i): print(j, end=' ')`, what will the output be?",
+  "options": [
+    "0 1 0 1 2 0 1 2 3",
+    "0 1 0 1 0 1",
+    "0 1 2 3 4",
+    "0 1 2 3 0 1 0"
+  ],
+  "answer": "0 1 0 1 2 0 1 2 3",
+  "difficulty": 9
+}

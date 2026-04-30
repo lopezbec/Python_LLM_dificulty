@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword starts a basic loop that will iterate over items in a sequence in Python?",
+  "options": [
+    "while",
+    "for",
+    "loop",
+    "iterate"
+  ],
+  "correct_answer": "for"
+}

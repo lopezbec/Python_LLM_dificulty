@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "type": "drag_and_drop",
+  "difficulty": 9,
+  "prompt": "Complete the if-statement condition so that it executes when both conditions are met.",
+  "instructions": "Drag the correct logical operator into the blank.",
+  "displayText": "if x > 5 __ y < 10:\n    print('Within range')",
+  "draggables": [
+    {
+      "id": "A",
+      "text": "or"
+    },
+    {
+      "id": "B",
+      "text": "and"
+    },
+    {
+      "id": "C",
+      "text": "not"
+    }
+  ],
+  "dropZones": [
+    {
+      "id": "dz1",
+      "label": "Logical Operator"
+    }
+  ],
+  "correctMapping": {
+    "dz1": "B"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "question": "Complete the loop header to iterate over all elements in the list 'items'. Drag the missing words into the correct positions.",
+  "codeSnippet": "_____ item _____ items:\n    print(item)",
+  "dragItems": [
+    "for",
+    "in",
+    "if",
+    "while"
+  ],
+  "dropTargets": [
+    "first_blank",
+    "second_blank"
+  ],
+  "correctMap": {
+    "first_blank": "for",
+    "second_blank": "in"
+  }
+}

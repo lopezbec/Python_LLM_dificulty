@@ -1,0 +1,6 @@
+{
+  "question": "In Python, the variable used in a 'for' loop is local to the loop and cannot be accessed outside of it.",
+  "answer": false,
+  "difficulty": 9,
+  "topic": "Loops"
+}

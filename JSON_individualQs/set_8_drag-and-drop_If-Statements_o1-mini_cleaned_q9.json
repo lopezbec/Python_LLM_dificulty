@@ -1,0 +1,20 @@
+{
+  "question": "Organize the following lines to create an if-statement inside a loop that checks for a specific condition and breaks the loop when met:",
+  "options": [
+    "for item in items:",
+    "    if item == target:",
+    "        print(\"Target found\")",
+    "        break",
+    "    else:",
+    "        print(\"Searching...\")"
+  ],
+  "answer": [
+    "for item in items:",
+    "    if item == target:",
+    "        print(\"Target found\")",
+    "        break",
+    "    else:",
+    "        print(\"Searching...\")"
+  ],
+  "difficulty": 9
+}

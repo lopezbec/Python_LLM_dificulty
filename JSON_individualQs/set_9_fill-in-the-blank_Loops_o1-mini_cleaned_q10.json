@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: To iterate over multiple sequences simultaneously in a for loop, the ____ function is used to aggregate elements.",
+  "answer": "zip",
+  "difficulty": 10
+}

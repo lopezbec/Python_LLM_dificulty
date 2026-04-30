@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "while",
+        "for",
+        "A `while` loop repeats based on a condition, a `for` loop iterates over a sequence.",
+        "A `for` loop repeats based on a condition, a `while` loop iterates over a sequence.",
+        "A `while` loop is used only with lists, a `for` loop with dictionaries."
+    ]
+}

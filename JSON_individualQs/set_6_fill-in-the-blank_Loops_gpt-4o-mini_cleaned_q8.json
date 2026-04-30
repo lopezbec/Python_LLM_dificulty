@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "When using a while loop, it's important to ensure that the loop has a condition that will eventually become _____ to avoid infinite loops.",
+  "answer": "false"
+}

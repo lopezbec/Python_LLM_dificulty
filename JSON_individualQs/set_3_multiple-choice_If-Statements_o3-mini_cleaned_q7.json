@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the code snippet below:\n\nx = 5\nif x > 0 and x < 10:\n    print(\"Single digit positive\")\n\nWhat will be printed when executed?",
+  "options": [
+    "Single digit positive",
+    "Positive",
+    "10",
+    "No output"
+  ],
+  "correct_answer": "Single digit positive"
+}

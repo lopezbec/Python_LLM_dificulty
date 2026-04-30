@@ -1,0 +1,11 @@
+{
+  "question": "6) Which of the following code snippets uses 'elif' correctly in a Python conditional structure?",
+  "difficulty": 6,
+  "answers": [
+    "if x > 10:\n    print(\"Greater than 10\")\nelse if x > 5:\n    print(\"Between 6 and 10\")",
+    "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")",
+    "if x > 10:\n    print(\"Greater than 10\")\nelseif x > 0:\n    print(\"Between 1 and 9\")",
+    "if x > 10():\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")"
+  ],
+  "correct_answer": "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")"
+}

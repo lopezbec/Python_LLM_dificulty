@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Drag the correct keyword to complete the if-statement: ___ x > 0:",
+  "dragItems": [
+    "if",
+    "else",
+    "elif"
+  ],
+  "dropZones": {
+    "keyword": "Drop the keyword here"
+  },
+  "correctMapping": {
+    "keyword": "if"
+  }
+}

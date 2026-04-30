@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "type": "fill-in-the-blank",
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "When iterating over a dictionary, the ______ method allows you to access both keys and values.",
+  "answer": "items()"
+}

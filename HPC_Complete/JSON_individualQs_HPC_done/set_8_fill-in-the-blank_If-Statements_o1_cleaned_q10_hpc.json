@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if x < 0: ______ ValueError('Negative number!')",
+        "x"
+    ]
+}

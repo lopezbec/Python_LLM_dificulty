@@ -1,0 +1,20 @@
+{
+  "difficulty": 7,
+  "question": "Drag and drop to create a loop that counts down from 10 to 1.",
+  "options": [
+    "count = 10",
+    "while",
+    "count > 0",
+    ":",
+    "print(count)",
+    "count -= 1"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

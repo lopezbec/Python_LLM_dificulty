@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A for loop in Python is used to iterate over a sequence of elements.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "In a while loop, the code inside the loop will always execute at least once.",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "The range() function in Python generates a sequence of numbers, which can be used in loops.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "Loops can only be used with numeric data types in Python.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "The break statement is used to exit a loop prematurely in Python.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "A for loop can be used to iterate over a dictionary's keys in Python.",
+    "answer": true,
+    "difficulty": 6
+  },
+  {
+    "question": "In Python, a while loop can have an indefinite number of iterations if the condition is always true.",
+    "answer": true,
+    "difficulty": 7
+  },
+  {
+    "question": "The continue statement in Python's loop will stop the execution of the loop and jump to the next iteration.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "Nested loops are not allowed in Python, meaning you cannot have a loop inside another loop.",
+    "answer": false,
+    "difficulty": 9
+  },
+  {
+    "question": "The else block can be used with loops in Python, executing after the loop completes normally if not interrupted.",
+    "answer": true,
+    "difficulty": 10
+  }
+]

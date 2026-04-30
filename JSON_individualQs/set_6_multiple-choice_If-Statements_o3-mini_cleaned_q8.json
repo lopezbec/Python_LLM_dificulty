@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following if-statement conditions correctly checks if variable a is between 1 and 10 (inclusive)?",
+  "options": [
+    "if 1 <= a < 10:",
+    "if 1 < a < 10:",
+    "if a >= 1 and a <= 10:",
+    "Both A and C"
+  ],
+  "correct_answer": "Both A and C"
+}

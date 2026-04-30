@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to complete a simple if statement in Python.\n\nif ___(1)___ > 10:\n    print(\"Greater than 10\")",
+  "options": [
+    "x",
+    "else",
+    "elif",
+    "print"
+  ],
+  "answers": {
+    "1": "x"
+  }
+}

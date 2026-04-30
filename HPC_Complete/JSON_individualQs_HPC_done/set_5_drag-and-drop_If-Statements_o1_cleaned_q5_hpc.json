@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "temperature",
+        "weather",
+        "and",
+        "temperature = 25",
+        "weather = \"sunny\"",
+        "if ( {CONDITION1} and {CONDITION2} ):",
+        "print(\"Perfect for a walk!\")",
+        "temperature > 20",
+        "temperature == 20",
+        "weather == \"sunny\"",
+        "weather != \"sunny\""
+    ]
+}

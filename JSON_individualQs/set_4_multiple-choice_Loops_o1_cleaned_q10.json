@@ -1,0 +1,11 @@
+{
+  "question": "What is the time complexity of the following code snippet assuming 'n' is the length of 'my_list'?\n\nmy_list = [x for x in range(n)]\nfor i in range(n):\n    for j in range(n):\n        print(my_list[i] + my_list[j])",
+  "difficulty": 10,
+  "options": [
+    "A. O(n)",
+    "B. O(n log n)",
+    "C. O(n^2)",
+    "D. O(1)"
+  ],
+  "answer": "C"
+}

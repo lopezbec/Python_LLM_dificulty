@@ -1,0 +1,16 @@
+{
+  "difficulty": 4,
+  "question": "Drag and drop to create a nested loop structure to multiply numbers.",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "if",
+    "D": "else"
+  },
+  "drops": {
+    "Target": "for i in range(3): for j in range(2): _____(i * j)"
+  },
+  "correct_order": [
+    "A"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "elif score >= 80:",
+        "elif score >= 70:",
+        "elif score >= 60:",
+        "else:",
+        "if score >= 90:"
+    ]
+}

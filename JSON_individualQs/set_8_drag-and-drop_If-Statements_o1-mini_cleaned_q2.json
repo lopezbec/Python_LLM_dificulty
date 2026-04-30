@@ -1,0 +1,30 @@
+{
+  "question": "Drag and drop the components to complete an if-elif-else structure that handles multiple conditions:",
+  "options": [
+    "if",
+    "condition1",
+    ":",
+    "    action1()",
+    "elif",
+    "condition2",
+    ":",
+    "    action2()",
+    "else",
+    ":",
+    "    default_action()"
+  ],
+  "answer": [
+    "if",
+    "condition1",
+    ":",
+    "    action1()",
+    "elif",
+    "condition2",
+    ":",
+    "    action2()",
+    "else",
+    ":",
+    "    default_action()"
+  ],
+  "difficulty": 2
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if user_input == 'yes':",
+        "print('Proceed')",
+        "else:",
+        "print('Do not proceed')"
+    ]
+}

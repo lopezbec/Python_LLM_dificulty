@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "age",
+        "if age < 13:",
+        "category = \"Child\"",
+        "elif age < 20:",
+        "___ age < 65:",
+        "category = \"Adult\"",
+        "else:",
+        "category = \"Senior\""
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "elif",
+        "if",
+        "    print('Temperature is warm.')",
+        "elif temperature > 20:",
+        "if temperature <= 0:",
+        "    print('Temperature is freezing.')",
+        "else:",
+        "    print('Temperature is moderate.')"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet:\n\n```python\nx = 15\ny = 20\nif x > 10 and y > 25:\n    print(\"Both conditions are true\")\nelif x > 10 and y > 15:\n    print(\"First condition true, second false\")\nelse:\n    print(\"At least one condition is false\")\n```\nWhat will be printed?",
+  "options": {
+    "A": "Both conditions are true",
+    "B": "First condition true, second false",
+    "C": "At least one condition is false",
+    "D": "Error"
+  },
+  "answer": "C",
+  "difficulty": 7
+}

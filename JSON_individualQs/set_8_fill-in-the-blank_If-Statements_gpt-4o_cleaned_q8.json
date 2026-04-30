@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In an if-statement, to check multiple conditions where all must be true, use the ___ keyword to link conditions.",
+  "answer": "and"
+}

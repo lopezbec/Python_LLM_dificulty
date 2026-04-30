@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword to create a basic loop in Python.",
+  "options": [
+    "for",
+    "while",
+    "loop"
+  ],
+  "correct_order": [
+    "for"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if user:",
+        "if user.is_active___",
+        "print('User is active')"
+    ]
+}

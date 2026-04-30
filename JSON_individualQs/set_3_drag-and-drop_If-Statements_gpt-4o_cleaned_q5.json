@@ -1,0 +1,14 @@
+{
+  "difficulty": 5,
+  "question": "Complete the if-elif-else chain to determine number classifications.",
+  "code": "if number __condition1__: \n    print(\"Positive\")\nelif number __condition2__: \n    print(\"Negative\")\nelse: \n    print(\"Zero\")",
+  "options": [
+    "> 0",
+    "< 0",
+    "== 0"
+  ],
+  "answers": [
+    "> 0",
+    "< 0"
+  ]
+}

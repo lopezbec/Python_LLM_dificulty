@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for letter in 'Python':\n    if letter == 'h':\n        ___\n    print(letter)",
+        "break",
+        "continue",
+        "pass"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "question": "Arrange the following loop control statements in the order they appear in a loop body.",
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "Loops",
+  "dragItems": [
+    "initialize loop",
+    "check condition",
+    "execute body",
+    "update counter"
+  ],
+  "dropTargets": [
+    "1st",
+    "2nd",
+    "3rd",
+    "4th"
+  ],
+  "correctAssociations": {
+    "initialize loop": "1st",
+    "check condition": "2nd",
+    "execute body": "3rd",
+    "update counter": "4th"
+  }
+}

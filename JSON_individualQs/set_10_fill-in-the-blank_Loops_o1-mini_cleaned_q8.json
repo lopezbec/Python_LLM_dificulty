@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank to correctly use the `enumerate` function in a for loop.\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor index, fruit in ___(fruits):\n    print(index, fruit)\n```",
+  "answer": "enumerate"
+}

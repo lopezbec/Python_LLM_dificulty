@@ -1,0 +1,26 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Complete the if-statement with the correct comparison operators to validate user input:",
+  "codeSnippet": "if not (age ___ 0 ___ age ___ 120):\n    print(\"Invalid age\")\nelse:\n    print(\"Age is valid\")",
+  "dragOptions": [
+    "<",
+    ">",
+    "and",
+    "or",
+    "<=",
+    ">="
+  ],
+  "dropZones": [
+    "___",
+    "___",
+    "___"
+  ],
+  "correctAnswers": {
+    "age ___ 0": ">=",
+    "___ age": "and",
+    "age ___ 120": "<="
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Given the following code snippet, what will be the output? \n\nx = -5 \ny = 0 \nif x < 0:\n    print('Negative') \nelif y < 0:\n    print('Y Negative') \nelse:\n    print('None')",
+  "options": [
+    "Negative",
+    "Y Negative",
+    "None",
+    "Error"
+  ],
+  "correct_answer": "Negative"
+}

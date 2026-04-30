@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which of the following examples correctly demonstrates the proper syntax for an if-else statement in Python?",
+  "options": [
+    "if x == 10: print(\"Ten\") else: print(\"Not Ten\")",
+    "if x == 10 then print(\"Ten\") else print(\"Not Ten\")",
+    "if x == 10 { print(\"Ten\") } else { print(\"Not Ten\") }",
+    "if (x == 10) print(\"Ten\"); else print(\"Not Ten\")"
+  ],
+  "correct_answer": "if x == 10: print(\"Ten\") else: print(\"Not Ten\")"
+}

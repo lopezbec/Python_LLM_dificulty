@@ -1,0 +1,5 @@
+{
+  "question": "If none of the conditions in an if-else chain are true, the code block under the last else statement will always execute.",
+  "difficulty": 9,
+  "answer": true
+}

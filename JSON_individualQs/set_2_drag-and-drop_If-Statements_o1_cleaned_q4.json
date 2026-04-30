@@ -1,0 +1,23 @@
+{
+  "questionNumber": 4,
+  "difficulty": 4,
+  "questionText": "Drag and drop the parts to form a correct nested if statement that prints 'Player has a sword' only if has_weapon is True and weapon_type is 'sword'.",
+  "incompleteCode": "[Zone1] has_weapon [Zone2] True [Zone3]\n    [Zone4] weapon_type [Zone5] 'sword' [Zone6]\n        print(\"Player has a sword\")",
+  "dragItems": [
+    "if",
+    "if",
+    "==",
+    ":",
+    "==",
+    ":"
+  ],
+  "correctAnswer": [
+    "if",
+    "==",
+    ":",
+    "if",
+    "==",
+    ":"
+  ],
+  "explanation": "First if checks if has_weapon is True; nested if checks if weapon_type is 'sword'."
+}

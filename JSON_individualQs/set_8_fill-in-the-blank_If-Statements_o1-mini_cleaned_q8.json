@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to use a ternary if-else statement that assigns `'Yes'` to `result` if `flag` is `True`, otherwise `'No'`:\n\n```python\nresult = 'Yes' ___ flag ___ 'No'\n```",
+  "difficulty": 8,
+  "answer": "if, else"
+}

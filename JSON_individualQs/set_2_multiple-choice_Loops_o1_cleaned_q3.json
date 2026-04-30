@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which type of loop in Python continues to run as long as a specified condition remains True?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "range loop"
+  ],
+  "correct_answer": "while loop"
+}

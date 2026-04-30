@@ -1,0 +1,22 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "topic": "Loops",
+  "question": "Arrange the code fragments to form a while loop that increments i from 0 and prints only odd numbers until i reaches 5, skipping even numbers using continue.",
+  "drag_items": [
+    "    if i % 2 == 0:",
+    "i = 0",
+    "    print(i)",
+    "while i < 5:",
+    "    i += 1",
+    "        continue"
+  ],
+  "correct_order": [
+    "i = 0",
+    "while i < 5:",
+    "    i += 1",
+    "    if i % 2 == 0:",
+    "        continue",
+    "    print(i)"
+  ]
+}

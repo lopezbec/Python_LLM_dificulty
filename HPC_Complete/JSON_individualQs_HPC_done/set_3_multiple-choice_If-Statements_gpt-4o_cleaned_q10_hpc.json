@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "a, b, c = 5, 10, 15",
+        "if a < b:",
+        "if b < c:",
+        "print('ABC')",
+        "elif a < c:",
+        "print('ACB')",
+        "else:",
+        "print('CBA')",
+        "else:",
+        "print('BAC')",
+        "ABC",
+        "ACB",
+        "CBA",
+        "BAC"
+    ]
+}

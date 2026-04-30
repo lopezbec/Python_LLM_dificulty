@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following best describes how Python evaluates a chained conditional like this?\n\nif x > 10:\n    # do something\nelif x > 5:\n    # do something else\nelse:\n    # do another thing",
+  "options": [
+    "A) Python checks all conditions and executes all matching blocks",
+    "B) Python checks each condition in order and executes the first matching block",
+    "C) Python randomly picks a condition to check first",
+    "D) Python compiles all conditions into a single expression"
+  ],
+  "correctAnswer": "B"
+}

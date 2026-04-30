@@ -1,0 +1,5 @@
+{
+  "question": "A for loop in Python cannot be used to iterate over the characters in a string.",
+  "answer": false,
+  "difficulty": 3
+}

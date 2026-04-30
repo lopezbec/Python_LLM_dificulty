@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "score",
+        "if score > 80:",
+        "grade = 'A'",
+        "elif ____ <= score <= ____:",
+        "grade = 'B'",
+        "else:",
+        "grade = 'C'"
+    ]
+}

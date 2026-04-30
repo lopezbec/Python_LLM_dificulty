@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "In a 'while' loop, the condition is checked after executing the loop body.",
+  "correct_answer": false
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in range(5): if i == 2: break; print(i)",
+        "i",
+        "A. 0 1 2 3 4",
+        "B. 0 1",
+        "C. 0 1 2",
+        "D. 2 3 4"
+    ]
+}

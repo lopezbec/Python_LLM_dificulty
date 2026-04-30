@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In a 'for' loop, to iterate over the items of a list called 'items', we write: 'for item in _____:'",
+  "answer": "items"
+}

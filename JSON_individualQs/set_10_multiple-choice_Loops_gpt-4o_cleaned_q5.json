@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What is the purpose of 'continue' in a loop?",
+  "options": [
+    "A) It skips the rest of the loop's code and starts the next iteration immediately.",
+    "B) It stops the loop from executing further.",
+    "C) It repeats the current iteration.",
+    "D) It initializes the loop state."
+  ],
+  "answer": "A"
+}

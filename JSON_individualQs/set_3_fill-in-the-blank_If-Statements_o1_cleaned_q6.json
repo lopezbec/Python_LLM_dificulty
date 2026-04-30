@@ -1,0 +1,6 @@
+{
+  "questionNumber": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank so that the block runs only if x is not equal to 10:\nif x ______ 10:\n    print('Not equal to 10')",
+  "answer": "!="
+}

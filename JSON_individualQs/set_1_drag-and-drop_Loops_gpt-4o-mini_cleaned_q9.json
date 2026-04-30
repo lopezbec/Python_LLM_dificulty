@@ -1,0 +1,16 @@
+{
+  "difficulty": 9,
+  "question": "Drag and drop the correct code to create a loop that counts down from 5.",
+  "options": {
+    "A": "for i in range(5, 0, -1):",
+    "B": "while i > 0:",
+    "C": "for i in range(4, -1, -1):",
+    "D": "while i < 5:"
+  },
+  "drops": {
+    "Target": "_____ print(i)"
+  },
+  "correct_order": [
+    "A"
+  ]
+}

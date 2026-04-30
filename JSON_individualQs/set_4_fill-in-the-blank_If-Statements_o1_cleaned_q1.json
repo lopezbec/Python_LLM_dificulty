@@ -1,0 +1,6 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "question_text": "To begin a conditional check in Python, we use the ______ keyword.",
+  "correct_answer": "if"
+}

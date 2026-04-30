@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The else block in an if-statement must be placed _____ the if block in order to be syntactically correct.",
+  "answer": "after"
+}

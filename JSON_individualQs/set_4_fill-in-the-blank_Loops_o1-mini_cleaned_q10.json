@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "type": "fill-in-the-blank",
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "In nested loops, to perform an early exit from both loops upon meeting a condition, one common approach is to use a ______ flag variable.",
+  "answer": "control"
+}

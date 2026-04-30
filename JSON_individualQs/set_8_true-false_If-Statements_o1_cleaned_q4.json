@@ -1,0 +1,5 @@
+{
+  "question": "Indentation is optional in Python if statements for multi-line blocks.",
+  "correct_answer": "False",
+  "difficulty": 4
+}

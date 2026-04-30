@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A 'for' loop is used to ________ over a sequence (such as a list, tuple, string, or range).",
+  "answer": "iterate"
+}

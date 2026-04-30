@@ -1,0 +1,6 @@
+{
+  "question": "Nested loops in Python can only be used with 'for' loops nested within 'for' loops.",
+  "answer": false,
+  "difficulty": 7,
+  "topic": "Loops"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "Given the code:\n\nx = 4\ny = 8\nif x < y < 10:\n    print('y is between x and 10')\nelse:\n    print('Condition not met')\n\nWhat is the output?",
+  "difficulty": 9,
+  "options": [
+    "y is between x and 10",
+    "Condition not met",
+    "SyntaxError",
+    "NameError"
+  ],
+  "correct_answer": "y is between x and 10"
+}

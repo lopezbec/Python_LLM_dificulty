@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What will happen when this code is executed? \n\nx = 100 \nif x > 100:\n    print('Over') \nelif x == 100:\n    print('Equal') \nelse:\n    print('Under')",
+  "options": [
+    "Over",
+    "Equal",
+    "Under",
+    "Error"
+  ],
+  "correct_answer": "Equal"
+}

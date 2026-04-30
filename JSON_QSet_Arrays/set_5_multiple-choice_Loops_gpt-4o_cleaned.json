@@ -1,0 +1,122 @@
+[
+  {
+    "difficulty": 1,
+    "topic": "Loops",
+    "question": "What is the primary purpose of a loop in programming?",
+    "options": [
+      "To repeat a block of code multiple times",
+      "To store values",
+      "To take user input",
+      "To define functions"
+    ],
+    "answer": "To repeat a block of code multiple times"
+  },
+  {
+    "difficulty": 2,
+    "topic": "Loops",
+    "question": "Which of the following is a type of loop construct in Python?",
+    "options": [
+      "if",
+      "while",
+      "def",
+      "else"
+    ],
+    "answer": "while"
+  },
+  {
+    "difficulty": 3,
+    "topic": "Loops",
+    "question": "In Python, what keyword is used to stop a loop prematurely?",
+    "options": [
+      "break",
+      "stop",
+      "exit",
+      "end"
+    ],
+    "answer": "break"
+  },
+  {
+    "difficulty": 4,
+    "topic": "Loops",
+    "question": "What will be the output of the following code snippet?\n\nfor i in range(3):\n  print(i)\n",
+    "options": [
+      "1 2 3",
+      "0 1 2",
+      "1 2 3 4",
+      "3 4 5"
+    ],
+    "answer": "0 1 2"
+  },
+  {
+    "difficulty": 5,
+    "topic": "Loops",
+    "question": "In a 'for' loop, what does the 'range()' function specify?",
+    "options": [
+      "The start, stop, and step values for iteration",
+      "The data type of loop variable",
+      "The condition to exit the loop",
+      "The function to call at each iteration"
+    ],
+    "answer": "The start, stop, and step values for iteration"
+  },
+  {
+    "difficulty": 6,
+    "topic": "Loops",
+    "question": "Consider the following code:\n\nnumbers = [1, 2, 3, 4]\nfor n in numbers:\n  if n == 3:\n    continue\n  print(n)\n\nWhat will be the output?",
+    "options": [
+      "1 2 3 4",
+      "1 2 4",
+      "3 4",
+      "1 2"
+    ],
+    "answer": "1 2 4"
+  },
+  {
+    "difficulty": 7,
+    "topic": "Loops",
+    "question": "What does the 'else' block in a loop indicate when attached to a 'for' or 'while' loop?",
+    "options": [
+      "It executes only if the loop encounters a break statement",
+      "It executes when the loop completes all iterations without encountering a break",
+      "It executes before the loop initializes",
+      "It executes in parallel with the loop"
+    ],
+    "answer": "It executes when the loop completes all iterations without encountering a break"
+  },
+  {
+    "difficulty": 8,
+    "topic": "Loops",
+    "question": "What is the result of executing the following nested loop?\n\nfor i in range(2):\n  for j in range(2):\n    print(i, j)\n",
+    "options": [
+      "(i, j) pairs: (0, 0), (0, 1), (1, 0), (1, 1)",
+      "(i, j) pairs: (0, 0), (1, 1)",
+      "(i, j) pairs: (1, 0), (1, 1)",
+      "Error, nested loop not allowed"
+    ],
+    "answer": "(i, j) pairs: (0, 0), (0, 1), (1, 0), (1, 1)"
+  },
+  {
+    "difficulty": 9,
+    "topic": "Loops",
+    "question": "Given two lists, 'a = [1, 2]' and 'b = [3, 4]', which code correctly prints every combination of elements from both lists?",
+    "options": [
+      "for x in a:\n  for y in b:\n    print(x, y)",
+      "for x in a:\n  for y in a:\n    print(x, y)",
+      "for x in b:\n  for y in b:\n    print(x, y)",
+      "for x in a:\n  for y in b:\n    pass"
+    ],
+    "answer": "for x in a:\n  for y in b:\n    print(x, y)"
+  },
+  {
+    "difficulty": 10,
+    "topic": "Loops",
+    "question": "Which of the following best describes Python's iterator protocol?",
+    "options": [
+      "It's a set of requirements for objects to be there in a loop body",
+      "It's a specific function signature requirement for iterables",
+      "It's a protocol through which objects need to define __iter__() and __next__() methods",
+      "It's a requirement that loops must follow PEP 8 standards"
+    ],
+    "answer": "It's a protocol through which objects need to define __iter__() and __next__() methods"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1) In Python, an if statement runs its block of code only when its condition evaluates to True.",
+    "difficulty": 1,
+    "answer": "True"
+  },
+  {
+    "question": "2) In Python, you must include an elif statement before using an else clause.",
+    "difficulty": 2,
+    "answer": "False"
+  },
+  {
+    "question": "3) An if statement in Python needs a colon (:) after the condition, such as 'if x > 5:'.",
+    "difficulty": 3,
+    "answer": "True"
+  },
+  {
+    "question": "4) Indentation is optional in Python if statements.",
+    "difficulty": 4,
+    "answer": "False"
+  },
+  {
+    "question": "5) You can use multiple elif clauses in a Python if-elif-else chain to check multiple conditions.",
+    "difficulty": 5,
+    "answer": "True"
+  },
+  {
+    "question": "6) Every if statement in Python requires at least one elif statement.",
+    "difficulty": 6,
+    "answer": "False"
+  },
+  {
+    "question": "7) The pass keyword can be used inside an if block to do nothing when the condition is met.",
+    "difficulty": 7,
+    "answer": "True"
+  },
+  {
+    "question": "8) In Python, comparison operators can be chained in if statements, for example, 1 < x < 5.",
+    "difficulty": 8,
+    "answer": "True"
+  },
+  {
+    "question": "9) If statements in Python can only compare numeric values, not strings or other data types.",
+    "difficulty": 9,
+    "answer": "False"
+  },
+  {
+    "question": "10) Nested if statements in Python must be properly indented to ensure the logic remains correct.",
+    "difficulty": 10,
+    "answer": "True"
+  }
+]

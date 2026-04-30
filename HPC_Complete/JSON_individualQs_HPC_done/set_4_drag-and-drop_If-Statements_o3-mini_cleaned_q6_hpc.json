@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x > 0",
+        "y < 5",
+        "print('Both conditions are true')",
+        "if",
+        "for",
+        "elif",
+        "while"
+    ]
+}

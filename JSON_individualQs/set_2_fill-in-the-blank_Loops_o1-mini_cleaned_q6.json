@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank to skip the current iteration when `i` is even using a for loop:\n\n```python\nfor i in range(6):\n    if i % 2 == 0:\n        ___\n    print(i)\n```",
+  "answer": "continue"
+}

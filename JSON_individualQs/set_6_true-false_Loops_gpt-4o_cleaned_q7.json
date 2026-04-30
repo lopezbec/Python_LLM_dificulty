@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Nested loops in Python mean that there are loops within loops, and the inner loop terminates before the outer loop can proceed to the next iteration.",
+  "answer": true
+}

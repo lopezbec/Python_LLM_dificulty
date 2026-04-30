@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which Python keyword is used to create a basic conditional statement?",
+    "choices": {
+      "A": "if",
+      "B": "for",
+      "C": "while",
+      "D": "def"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "What is the primary purpose of an if statement in Python?",
+    "choices": {
+      "A": "To create loops",
+      "B": "To make function definitions shorter",
+      "C": "To run a block of code only when a condition is True",
+      "D": "To store multiple values in a single variable"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which option correctly demonstrates a simple if statement checking if x is greater than 10?",
+    "choices": {
+      "A": "if x = 10: print('Greater')",
+      "B": "if x == 10 print('Greater')",
+      "C": "if x > 10: print('Greater')",
+      "D": "if x => 10: print('Greater')"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 4,
+    "question": "In an if-elif-else construct, how many times can the else block execute?",
+    "choices": {
+      "A": "Never",
+      "B": "Exactly once",
+      "C": "Twice",
+      "D": "Any number of times"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 5,
+    "question": "Assume x = 5. Which if condition will print 'x is small'?",
+    "choices": {
+      "A": "if x > 10: print('x is small')",
+      "B": "if x >= 5: print('x is small')",
+      "C": "if x < 10: print('x is small')",
+      "D": "if x <= 5: print('x is small')"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will happen if the if condition is False and there is no else clause in a Python script?",
+    "choices": {
+      "A": "An error will occur",
+      "B": "The program will terminate immediately",
+      "C": "Nothing will happen; the code block inside if is skipped",
+      "D": "A warning will be shown but the code will proceed"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 7,
+    "question": "How can you execute multiple statements only if a certain condition is True?",
+    "choices": {
+      "A": "By writing them on the same line after the if keyword",
+      "B": "By indenting all statements under the if line",
+      "C": "By placing a semicolon after the if keyword",
+      "D": "By using parentheses around each statement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 8,
+    "question": "Which of the following is the correct structure of an if-elif-else chain?",
+    "choices": {
+      "A": "if (condition): elif: else:",
+      "B": "if (condition): elif (condition): else:",
+      "C": "if: elif: else",
+      "D": "if condition: elif: else condition:"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 9,
+    "question": "You have the following code:\n\nx = 3\ny = 5\nif x < 4:\n    if y > 4:\n        print(\"Nested condition met\")\n\nWhat will be the output?",
+    "choices": {
+      "A": "No output, because the outer condition is False",
+      "B": "No output, because the inner condition is False",
+      "C": "It will print \"Nested condition met\" once",
+      "D": "It will raise a SyntaxError due to spacing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 10,
+    "question": "Consider the following code:\n\nx = 10\nif x > 5:\n    x += 2\nelif x == 10:\n    x *= 2\nelse:\n    x -= 1\n\nWhat is the final value of x?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "20",
+      "D": "9"
+    },
+    "correct_answer": "B"
+  }
+]

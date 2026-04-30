@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to complete the if-statement that checks if a number is positive:\n\nnumber = 10\nif ___ > 0:\n    print(\"Positive\")",
+  "answer": "number",
+  "difficulty": 1,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (x > y) {",
+        "if x > y:",
+        "if x > y then",
+        "if x > y do"
+    ]
+}

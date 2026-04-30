@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Complete the missing keyword in this if-elif statement:\n\nif x > 10:\n    print('Too high')\n____ x > 5:\n    print('Normal')",
+  "answer": "elif"
+}

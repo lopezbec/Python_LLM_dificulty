@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank: When combining two conditions in an if-statement where both must be True, you use the ______ operator.",
+  "answer": "and"
+}

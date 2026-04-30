@@ -1,0 +1,17 @@
+{
+  "questionNumber": 1,
+  "difficulty": 1,
+  "questionType": "drag-and-drop",
+  "prompt": "Drag and drop the statements to print numbers from 0 to 4 using a for loop.",
+  "codeSnippet": "???\n    ???",
+  "draggableItems": [
+    "for i in range(5):",
+    "print(i)",
+    "i = 0"
+  ],
+  "correctAnswer": [
+    "for i in range(5):",
+    "print(i)"
+  ],
+  "explanation": "Use 'for i in range(5):' to iterate from 0 to 4, and 'print(i)' to display each number."
+}

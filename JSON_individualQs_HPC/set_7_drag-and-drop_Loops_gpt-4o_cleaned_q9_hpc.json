@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "squares = []",
+        "for i in range(5):",
+        "squares.append(i**2)",
+        "[i**2 for i in range(5)]",
+        "[i^2 for i in range(5)]",
+        "[squares.append(i**2) for i in range(5)]"
+    ]
+}

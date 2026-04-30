@@ -1,0 +1,11 @@
+{
+  "question": "3) Which comparison operator checks if two values are not equal in an if-statement?",
+  "difficulty": 3,
+  "options": {
+    "a": "==",
+    "b": "!=",
+    "c": ">=",
+    "d": "not"
+  },
+  "correct_answer": "b"
+}

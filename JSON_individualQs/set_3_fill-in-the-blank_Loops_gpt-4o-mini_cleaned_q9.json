@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "To get the index of the current iteration during a for loop, you can use the __________ function along with enumerate().",
+  "answer": "index"
+}

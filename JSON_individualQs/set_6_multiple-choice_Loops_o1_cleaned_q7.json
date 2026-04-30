@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which of the following correctly describes what the 'break' keyword achieves in Python loops?",
+  "options": [
+    "Skips the current iteration and continues with the next one",
+    "Does nothing and is used as a placeholder",
+    "Exits the current loop entirely",
+    "Restarts the loop from the beginning"
+  ],
+  "correct_answer": "Exits the current loop entirely"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What does the 'enumerate()' function do in a for loop?",
+  "options": [
+    "It adds elements to a list",
+    "It returns the index and value of items in a list",
+    "It removes elements from a list",
+    "It sorts a list"
+  ],
+  "answer": "It returns the index and value of items in a list"
+}

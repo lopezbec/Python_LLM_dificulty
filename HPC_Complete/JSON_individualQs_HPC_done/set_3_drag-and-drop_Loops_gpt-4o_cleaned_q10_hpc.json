@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for i in range(3):\n    print(i)\nelse:\n    print(\"Finished counting, i is now\", ___)",
+        "else",
+        "3"
+    ]
+}

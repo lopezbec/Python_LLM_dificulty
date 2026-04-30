@@ -1,0 +1,28 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 9,
+  "prompt": "Arrange the loop and exception handling to safely iterate over a list and handle possible errors.",
+  "draggableItems": [
+    "try:",
+    "    for item in my_list:",
+    "        print(item)",
+    "except Exception as e:",
+    "    print(f'Error: {e}')"
+  ],
+  "dropZones": [
+    "Try Statement",
+    "Loop Statement within Try",
+    "Loop Body",
+    "Except Statement",
+    "Except Body"
+  ],
+  "correctMatch": {
+    "Try Statement": "try:",
+    "Loop Statement within Try": "    for item in my_list:",
+    "Loop Body": "        print(item)",
+    "Except Statement": "except Exception as e:",
+    "Except Body": "    print(f'Error: {e}')"
+  }
+}

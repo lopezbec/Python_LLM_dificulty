@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be printed by the following code?\n\nx = 10\nif x > 5:\n    print(\"Greater\")\nif x > 8:\n    print(\"Even Greater\")",
+  "options": [
+    "A) Prints nothing",
+    "B) Greater\nEven Greater",
+    "C) Greater",
+    "D) Error due to invalid syntax"
+  ],
+  "correctAnswer": "B"
+}

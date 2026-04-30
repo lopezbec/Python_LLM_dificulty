@@ -1,0 +1,14 @@
+{
+  "question": "Drag and drop to evaluate if `x` is outside the range of 0 to 100 using compound conditions.",
+  "difficulty": 7,
+  "snippet": "if ___ or ___:\n    print('x is out of range')",
+  "options": [
+    "x < 0",
+    "x > 100",
+    "0 <= x <= 100"
+  ],
+  "correctAnswer": [
+    "x < 0",
+    "x > 100"
+  ]
+}

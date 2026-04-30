@@ -1,0 +1,10 @@
+{
+  "question": "9. How do you perform a flip of a boolean condition in an if statement using the not operator?",
+  "options": [
+    "A) if not (condition):",
+    "B) if == not condition:",
+    "C) if !! condition:",
+    "D) if condition not:"
+  ],
+  "answer": "A"
+}

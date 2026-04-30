@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "instruction": "Arrange the blocks to form a compound condition with if-else to validate user credentials.",
+  "code": "____ username == 'admin' ____ password == '1234':\n    print('Welcome, Admin!')\nelse:\n    print('Invalid credentials')",
+  "options": [
+    "if",
+    "and",
+    "then",
+    "or"
+  ],
+  "answer": [
+    "if",
+    "and"
+  ]
+}

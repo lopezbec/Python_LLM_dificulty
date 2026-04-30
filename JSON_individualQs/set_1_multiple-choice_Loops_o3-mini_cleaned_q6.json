@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "In a nested loop scenario, which break statement usage will only exit the inner loop?",
+  "options": [
+    "Using break in the inner loop.",
+    "Using break in the outer loop.",
+    "Using continue in the inner loop.",
+    "Using return in the inner loop."
+  ],
+  "correct_answer": "Using break in the inner loop."
+}

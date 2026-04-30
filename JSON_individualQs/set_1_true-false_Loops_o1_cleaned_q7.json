@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Is it true that iterating over a dictionary in a 'for' loop retrieves its keys by default?",
+  "answer": "True"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In the following code, which statement will be printed? \n\nx = 0\nif x:\n    print('True')\nelse:\n    print('False')",
+  "options": [
+    "True",
+    "False",
+    "Error",
+    "Nothing"
+  ],
+  "correct_answer": "False"
+}

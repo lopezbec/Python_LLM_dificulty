@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Drag and drop the correct keywords and operator to complete the multi-branch if statement that checks which numerical range 'x' falls into.",
+  "codeSnippet": "____ x >= 10 and x <= 20:\n    print('x is between 10 and 20')\n____ x > 20 ____ x < 30:\n    print('x is between 21 and 29')\n____:\n    print('x is out of range')",
+  "dragItems": [
+    "if",
+    "elif",
+    "and",
+    "else"
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3",
+    "drop4"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "elif",
+    "drop3": "and",
+    "drop4": "else"
+  }
+}

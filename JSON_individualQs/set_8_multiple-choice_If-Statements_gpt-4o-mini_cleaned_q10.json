@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of this complex condition? \n\n```python\nx = 10\nif x >= 10 and x <= 20:\n    print('x is between 10 and 20')\nelif x < 10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 20')\n```",
+  "options": [
+    "x is between 10 and 20",
+    "x is less than 10",
+    "x is greater than 20",
+    "Error"
+  ],
+  "correct_answer": "x is between 10 and 20",
+  "difficulty": 10
+}

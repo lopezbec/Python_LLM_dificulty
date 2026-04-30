@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if __condition__: \n    print(\"Hello World!\")",
+        "x > 5",
+        "x < 10",
+        "True"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "question": "Fill in the blank to create a basic for loop that iterates 3 times.",
+  "codeSnippet": "_____ i in range(3):\n    print(i)",
+  "dragItems": [
+    "for",
+    "while",
+    "if"
+  ],
+  "dropTargets": [
+    "keyword"
+  ],
+  "correctMap": {
+    "keyword": "for"
+  }
+}

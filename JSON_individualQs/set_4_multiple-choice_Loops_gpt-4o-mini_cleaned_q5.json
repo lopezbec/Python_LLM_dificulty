@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which of the following statements will terminate a loop immediately?",
+  "options": [
+    "continue",
+    "return",
+    "break",
+    "exit"
+  ],
+  "answer": "break"
+}

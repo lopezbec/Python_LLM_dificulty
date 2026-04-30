@@ -1,0 +1,25 @@
+{
+  "id": 7,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "question": "Match the following if statement errors with their descriptions.",
+  "dragItems": [
+    "Missing colon",
+    "Incorrect indentation",
+    "Undefined variable in condition",
+    "Using assignment instead of comparison"
+  ],
+  "dropZones": [
+    "Syntax error due to ':'' after condition",
+    "Runtime error due to inconsistent spaces",
+    "NameError when condition variable is not defined",
+    "Logic error where variable is assigned instead of compared"
+  ],
+  "correctAnswers": {
+    "Syntax error due to ':'' after condition": "Missing colon",
+    "Runtime error due to inconsistent spaces": "Incorrect indentation",
+    "NameError when condition variable is not defined": "Undefined variable in condition",
+    "Logic error where variable is assigned instead of compared": "Using assignment instead of comparison"
+  }
+}

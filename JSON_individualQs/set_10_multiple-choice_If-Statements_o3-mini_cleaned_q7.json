@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Given the following code snippet:\n\nvalue = 15\nif value % 2 == 0:\n    print(\"Even\")\nelif value > 10:\n    print(\"Greater than 10\")\nelse:\n    print(\"Odd\")\n\nWhat will be printed when this code is run?",
+  "options": [
+    "Even",
+    "Odd",
+    "Greater than 10",
+    "15"
+  ],
+  "correct_answer": "Greater than 10"
+}

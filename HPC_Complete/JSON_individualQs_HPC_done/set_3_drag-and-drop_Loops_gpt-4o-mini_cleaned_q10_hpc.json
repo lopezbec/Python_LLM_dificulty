@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "user_input = ''",
+        "while user_input != 'exit':",
+        "user_input = input('Type something (type exit to quit): ')",
+        "print(user_input)"
+    ]
+}

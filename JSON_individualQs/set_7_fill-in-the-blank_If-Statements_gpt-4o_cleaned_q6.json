@@ -1,0 +1,8 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blanks to execute the given code only if 'items' is an empty list:\n\n```python\nif len(items) _____ _____:\n    print('List is empty')\n```",
+  "blanks": [
+    "==",
+    "0"
+  ]
+}

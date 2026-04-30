@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "question": "Fill in the blank to correctly nest an if statement:\n\nif user:\n    if user.is_active___\n        print('User is active')",
+  "answer": ".is_admin()",
+  "difficulty": 7
+}

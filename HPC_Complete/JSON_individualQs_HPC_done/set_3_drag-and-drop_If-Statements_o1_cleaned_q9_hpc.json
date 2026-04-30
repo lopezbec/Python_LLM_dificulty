@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "guest_count",
+        "guest_count = 7",
+        "________ guest_count == 0:",
+        "print(\"No guests\")",
+        "________ guest_count < 5:",
+        "print(\"Small gathering\")",
+        "________:",
+        "print(\"Big party!\")",
+        "if",
+        "elif",
+        "else",
+        "for",
+        "while"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for",
+        "break",
+        "Start `for` loop to iterate over dataset",
+        "Use `break` to exit loop immediately after finding the match"
+    ]
+}

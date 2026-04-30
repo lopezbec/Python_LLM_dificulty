@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "x = 5",
+        "if x < 10:",
+        "print('Small')",
+        "else:",
+        "print('Large')",
+        "x",
+        "a) Small",
+        "b) Large",
+        "c) Small and Large",
+        "d) None of the above"
+    ]
+}

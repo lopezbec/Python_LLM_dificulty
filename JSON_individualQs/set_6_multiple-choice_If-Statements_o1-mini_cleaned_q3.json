@@ -1,0 +1,11 @@
+{
+  "question": "Which keyword is used to specify an alternative block of code if the if condition is False?",
+  "choices": {
+    "A": "elif",
+    "B": "else",
+    "C": "otherwise",
+    "D": "endif"
+  },
+  "answer": "B",
+  "difficulty": 3
+}

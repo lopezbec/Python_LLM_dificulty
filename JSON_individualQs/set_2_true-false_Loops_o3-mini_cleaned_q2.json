@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "The 'for' loop in Python always requires the use of the range() function.",
+  "correct_answer": false
+}

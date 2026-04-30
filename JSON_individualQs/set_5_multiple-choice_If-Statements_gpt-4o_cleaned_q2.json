@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is the correct syntax for a basic if-statement in Python?",
+  "options": [
+    "if x > 10 then:",
+    "if x > 10:",
+    "if (x > 10)",
+    "if x > 10 {}"
+  ],
+  "correct_answer": "if x > 10:"
+}

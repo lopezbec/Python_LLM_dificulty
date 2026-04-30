@@ -1,0 +1,15 @@
+{
+  "difficulty": 8,
+  "description": "Fill in the blanks to correctly handle multiple conditions in complex logic.",
+  "premise": "score = 92\ncompleted = True\nif __ and (completed or __):\n    print('Success')",
+  "options": [
+    "score > 90",
+    "completed == False",
+    "score < 90",
+    "completed == True"
+  ],
+  "correct_answer": [
+    "score > 90",
+    "completed == False"
+  ]
+}

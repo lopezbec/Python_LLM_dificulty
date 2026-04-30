@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, the syntax `if(x > 0): print('positive')` is correct.",
+  "answer": false
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Complete the if-statement with the appropriate logical operator to check for two grades:\n\nif grade == 'A' ______ grade == 'B':\n    print('Excellent!')",
+  "answer": "or"
+}

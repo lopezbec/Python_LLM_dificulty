@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "def check(value):",
+        "return value % 2 == 0",
+        "for i in range(1, 10):",
+        "if not check(___) :",
+        "continue",
+        "print(i)",
+        "i",
+        "value",
+        "j",
+        "5"
+    ]
+}

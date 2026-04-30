@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "name",
+        "if __check__: \n    print(\"Name is present\")",
+        "name != \"\"",
+        "len(name) > 0",
+        "name is not None"
+    ]
+}

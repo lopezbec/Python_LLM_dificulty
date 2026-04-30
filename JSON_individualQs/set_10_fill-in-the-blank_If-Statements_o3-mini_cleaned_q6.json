@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank: To check if at least one out of multiple conditions is True in an if-statement, you use the ______ operator.",
+  "answer": "or"
+}

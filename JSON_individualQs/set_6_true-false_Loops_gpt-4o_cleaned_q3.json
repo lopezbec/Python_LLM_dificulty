@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The 'break' statement can immediately terminate a loop before it has iterated through all elements.",
+  "answer": true
+}

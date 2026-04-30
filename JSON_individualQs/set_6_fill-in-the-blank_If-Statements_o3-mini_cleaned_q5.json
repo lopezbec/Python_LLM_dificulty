@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to complete the condition that verifies if the score is at least 50:\n\nscore = 60\nif score ______:\n    print('Passed')",
+  "answer": ">= 50"
+}

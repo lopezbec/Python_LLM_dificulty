@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank so the code prints \"Data is usable\" if data is not None and (status is \"active\" or \"pending\"):\nif data is not None ______ (status == \"active\" or status == \"pending\"):\n    print(\"Data is usable\")",
+  "answer": "and"
+}

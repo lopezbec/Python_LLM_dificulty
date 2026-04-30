@@ -1,0 +1,10 @@
+{
+  "question": "Complete the multi-branch if statement: if (score >= 90) { ____ } else if (score >= 80) { print('B'); } else { print('C'); }",
+  "options": [
+    "print('A');",
+    "print('D');",
+    "print('F');"
+  ],
+  "answer": "print('A');",
+  "difficulty": 9
+}

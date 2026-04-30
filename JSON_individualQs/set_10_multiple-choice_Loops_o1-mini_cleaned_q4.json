@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\n```python\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\n```",
+  "options": [
+    "0\n1\n2",
+    "1\n2\n3",
+    "0\n1\n2\n3",
+    "Infinite loop"
+  ],
+  "correct_answer": "0\n1\n2",
+  "difficulty": 4
+}

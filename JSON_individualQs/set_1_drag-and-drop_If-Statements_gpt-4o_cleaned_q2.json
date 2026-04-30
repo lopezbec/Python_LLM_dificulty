@@ -1,0 +1,12 @@
+{
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Drag and drop to complete the if-statement that checks if 'y' is equal to 10.",
+  "code": "if <blank>:\n    print('y is 10')",
+  "options": [
+    "y == 10",
+    "y != 10",
+    "y < 10"
+  ]
+}

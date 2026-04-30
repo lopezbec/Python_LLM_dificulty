@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Fill in the blank (Difficulty 1): In Python, every 'if' statement must end with a ______.",
+    "correct_answer": "colon",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank (Difficulty 2): The code inside an 'if' statement is grouped using ______ in Python.",
+    "correct_answer": "indentation",
+    "difficulty": 2
+  },
+  {
+    "question": "Fill in the blank (Difficulty 3): When you have multiple exclusive conditions, use 'if', ______, and 'else' in a sequence.",
+    "correct_answer": "elif",
+    "difficulty": 3
+  },
+  {
+    "question": "Fill in the blank (Difficulty 4): An 'if' statement only executes its code block if the condition evaluates to ______.",
+    "correct_answer": "True",
+    "difficulty": 4
+  },
+  {
+    "question": "Fill in the blank (Difficulty 5): To check for the opposite of a condition, use the ______ keyword before the condition in an if-statement.",
+    "correct_answer": "not",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blank (Difficulty 6): We often combine conditions with the 'and' operator, which returns True only if ______ conditions are True.",
+    "correct_answer": "both",
+    "difficulty": 6
+  },
+  {
+    "question": "Fill in the blank (Difficulty 7): If we want to ignore certain conditions within an 'if' block, we can use the ______ statement as a placeholder.",
+    "correct_answer": "pass",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank (Difficulty 8): The '______' operator checks if a specific value is part of a sequence or collection within an if-condition.",
+    "correct_answer": "in",
+    "difficulty": 8
+  },
+  {
+    "question": "Fill in the blank (Difficulty 9): When comparing object identity rather than equality, use the '______' keyword in an if-statement.",
+    "correct_answer": "is",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank (Difficulty 10): Nested if-statements involve placing one if-statement ______ another while considering multiple levels of logic.",
+    "correct_answer": "inside",
+    "difficulty": 10
+  }
+]

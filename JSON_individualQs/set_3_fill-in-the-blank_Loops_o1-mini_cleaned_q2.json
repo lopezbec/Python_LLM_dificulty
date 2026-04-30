@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to iterate over a range of numbers from 0 to 4 using a for loop:\n\nfor i in range(___):\n    print(i)",
+  "answer": "5",
+  "difficulty": 2
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "What is the purpose of the else clause in an if-else statement?",
+  "answers": {
+    "A": "It executes only when the if condition is True.",
+    "B": "It executes only when the if condition is False.",
+    "C": "It executes if the if condition runs successfully without errors.",
+    "D": "It repeats the if condition until it becomes True."
+  },
+  "correctAnswer": "B"
+}

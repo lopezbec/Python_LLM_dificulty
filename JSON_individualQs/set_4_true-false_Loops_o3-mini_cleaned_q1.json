@@ -1,0 +1,6 @@
+{
+  "difficulty": 1,
+  "type": "true-false",
+  "question": "In Python, a for loop iterates over each element in a sequence like a list or a string.",
+  "correctAnswer": "True"
+}

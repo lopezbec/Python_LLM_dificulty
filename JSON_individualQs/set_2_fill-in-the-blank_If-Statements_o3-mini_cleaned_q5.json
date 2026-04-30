@@ -1,0 +1,6 @@
+{
+  "difficulty": 5,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To introduce an additional condition after an if, use the keyword ____.",
+  "answer": "elif"
+}

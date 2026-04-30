@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which logical operator would you use in a Python if-statement to ensure that two conditions are both True?",
+  "options": {
+    "A": "or",
+    "B": "and",
+    "C": "&",
+    "D": "&&"
+  },
+  "answer": "B"
+}

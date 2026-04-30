@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "topic": "loops",
+  "question": "Arrange the following code blocks to implement a while loop with an else clause that executes when the loop finishes normally.",
+  "options": [
+    "else:",
+    "print('Completed')",
+    "while count < 5:",
+    "    print(count)",
+    "    count += 1"
+  ],
+  "correct_order": [
+    "count = 0",
+    "while count < 5:",
+    "    print(count)",
+    "    count += 1",
+    "else:",
+    "    print('Completed')"
+  ]
+}

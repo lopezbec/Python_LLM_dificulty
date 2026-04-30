@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "x = 4\nif x > 2 and x < 5:\n    print(\"x is between 2 and 5\")",
+        "x"
+    ]
+}

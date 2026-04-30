@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if statement is used to _____ a condition.",
+    "answer": "check"
+  },
+  {
+    "difficulty": 2,
+    "question": "The syntax for an if statement begins with 'if' followed by a _____ and a colon.",
+    "answer": "condition"
+  },
+  {
+    "difficulty": 3,
+    "question": "To create a conditional block following an if statement, you must use _____ indentation.",
+    "answer": "proper"
+  },
+  {
+    "difficulty": 4,
+    "question": "The else block in an if statement executes when the _____ condition is false.",
+    "answer": "if"
+  },
+  {
+    "difficulty": 5,
+    "question": "You can check multiple conditions in Python using _____ if statements.",
+    "answer": "nested"
+  },
+  {
+    "difficulty": 6,
+    "question": "If you have two conditions, you can use 'elif' to check a _____ condition after the initial if.",
+    "answer": "second"
+  },
+  {
+    "difficulty": 7,
+    "question": "An if statement can compare values using operators such as '==' (equal to) and '_____' (not equal to).",
+    "answer": "!="
+  },
+  {
+    "difficulty": 8,
+    "question": "To execute a block of code only if all conditions are true, you can combine conditions with the _____ operator.",
+    "answer": "and"
+  },
+  {
+    "difficulty": 9,
+    "question": "Using the _____ operator allows the execution of a block if at least one of the conditions is true.",
+    "answer": "or"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, an if statement can evaluate complex logical expressions using parentheses to ensure _____ order of operations.",
+    "answer": "correct"
+  }
+]

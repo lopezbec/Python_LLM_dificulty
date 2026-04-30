@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+    "count = 0\nwhile count <= 5:\n    print(count)\n    count += 1",
+    "for count in range(5):\n    print(count)",
+    "count = 0\nwhile count < 5:\n    print(count)\n    count = count + 1\n    break"
+  ]
+}

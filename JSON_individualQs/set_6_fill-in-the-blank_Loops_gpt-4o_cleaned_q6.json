@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A loop can have an ___ clause that is executed when the loop terminates naturally (i.e., not by a break statement).",
+  "blank": "else"
+}

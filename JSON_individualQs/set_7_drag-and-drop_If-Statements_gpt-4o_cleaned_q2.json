@@ -1,0 +1,21 @@
+{
+  "question": "Level 2: Adding an Else Clause",
+  "instruction": "Arrange the code blocks to create a correct if-else statement.",
+  "difficulty": 2,
+  "code_blocks": [
+    "if __condition__:",
+    "    __print_statement_1__",
+    "else:",
+    "    __print_statement_2__"
+  ],
+  "options": [
+    "x == 5",
+    "print('Equal to five')",
+    "print('Not equal to five')"
+  ],
+  "correct_structure": {
+    "__condition__": "x == 5",
+    "__print_statement_1__": "print('Equal to five')",
+    "__print_statement_2__": "print('Not equal to five')"
+  }
+}

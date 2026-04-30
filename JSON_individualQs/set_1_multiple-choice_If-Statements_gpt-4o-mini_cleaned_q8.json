@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "Consider the following code snippet. What will it print if num = -2? \n\n```python\nif num > 0:\n    print('Positive')\nelif num == 0:\n    print('Zero')\nelse:\n    print('Negative')\n```",
+  "options": [
+    "Positive",
+    "Zero",
+    "Negative",
+    "No output"
+  ],
+  "correct_answer": "Negative"
+}

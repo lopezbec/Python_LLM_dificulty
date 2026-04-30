@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the code to check if 'x' is not equal to 0.",
+  "code": "if x __ 0:\n    print('x is not zero')",
+  "options": [
+    "!=",
+    "==",
+    ">"
+  ],
+  "correct": [
+    "!="
+  ],
+  "incorrect": [
+    "==",
+    ">"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Drag and drop the correct keyword and operators to complete the if-statement that checks if 'x' is between 10 and 20 (inclusive) and if 'y' is not equal to 0.",
+  "codeSnippet": "____ (10 <= x <= 20) ____ (y ____ 0):\n    print('Valid input')",
+  "dragItems": [
+    "if",
+    "and",
+    "!="
+  ],
+  "dropTargets": [
+    "drop1",
+    "drop2",
+    "drop3"
+  ],
+  "correctMatches": {
+    "drop1": "if",
+    "drop2": "and",
+    "drop3": "!="
+  }
+}

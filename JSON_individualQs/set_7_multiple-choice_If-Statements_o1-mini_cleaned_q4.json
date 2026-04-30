@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "question": "How do you write a nested if statement in Python?",
+  "options": {
+    "A": "Using an if statement inside another if statement",
+    "B": "Using multiple else statements",
+    "C": "Using elif statements",
+    "D": "Using switch-case statements"
+  },
+  "correct_answer": "A",
+  "difficulty": 4,
+  "topic": "if statements"
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the role of the else clause when used with a loop (for or while) in Python?",
+  "options": {
+    "A": "It executes every time the loop iterates",
+    "B": "It executes only if the loop terminates normally without encountering a break",
+    "C": "It executes whenever a break statement is encountered",
+    "D": "It resets the loop counter"
+  },
+  "correct_answer": "B"
+}

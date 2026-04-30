@@ -1,0 +1,11 @@
+{
+  "question": "What is the primary purpose of an if statement in Python?",
+  "options": {
+    "A": "To create a loop",
+    "B": "To define a function",
+    "C": "To make decisions based on conditions",
+    "D": "To import modules"
+  },
+  "answer": "C",
+  "difficulty": 1
+}

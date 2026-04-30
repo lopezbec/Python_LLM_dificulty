@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if not x is None:",
+        "if x is not None:"
+    ]
+}

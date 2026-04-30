@@ -1,0 +1,16 @@
+{
+  "difficulty": 5,
+  "question": "Drag the correct lines to create a nested loop to display a 3x3 grid of asterisks.",
+  "choices": [
+    "for i in range(3):",
+    "    for j in range(3):",
+    "print('*', end='')",
+    "    print()"
+  ],
+  "answer": [
+    "for i in range(3):",
+    "    for j in range(3):",
+    "        print('*', end='')",
+    "    print()"
+  ]
+}

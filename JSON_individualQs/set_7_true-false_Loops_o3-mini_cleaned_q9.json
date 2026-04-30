@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "In Python, a loop can have an 'else' clause that executes if the loop completes normally without encountering a 'break'.",
+  "correct_answer": true
+}

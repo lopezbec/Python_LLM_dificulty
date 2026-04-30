@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "Avoiding unnecessary computations within the loop",
+        "Using appropriate loop constructs",
+        "Breaking out of loops early when possible"
+    ]
+}

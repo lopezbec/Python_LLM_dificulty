@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A 'while' loop can simulate a 'for' loop's functionality by carefully managing a counter variable.",
+  "correct_answer": true
+}

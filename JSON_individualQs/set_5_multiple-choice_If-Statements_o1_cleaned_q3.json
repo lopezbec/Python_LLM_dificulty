@@ -1,0 +1,11 @@
+{
+  "question": "How should you properly indent code inside an if statement in Python?",
+  "choices": {
+    "A": "No indentation is necessary",
+    "B": "Exactly one space is required",
+    "C": "Use a consistent number of spaces (commonly 4) or a tab",
+    "D": "Python does not allow indentation within if statements"
+  },
+  "correct_answer": "C",
+  "difficulty": 3
+}

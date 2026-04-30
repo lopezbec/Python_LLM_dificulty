@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "prompt": "Complete the for loop by dragging and dropping the correct keyword to exit the loop when a condition is met:\n\nfor num in range(10):\n    if num == 5:\n        _____\n    print(num)",
+  "drag_items": [
+    "break",
+    "continue",
+    "pass"
+  ],
+  "drop_targets": [
+    "keyword"
+  ],
+  "correct_mapping": {
+    "keyword": "break"
+  }
+}

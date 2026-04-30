@@ -1,0 +1,6 @@
+{
+  "difficulty": 4,
+  "type": "true-false",
+  "question": "The continue statement ends all further execution of the loop and exits it entirely.",
+  "correctAnswer": "False"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Complete the for loop to print numbers 0 to 2.",
+  "instruction": "Drag and drop the correct function call to complete the for loop.",
+  "drag_items": [
+    "range(3)",
+    "while True"
+  ],
+  "drop_zones": [
+    "Missing code in: for i in ______:"
+  ],
+  "correct_mapping": {
+    "Missing code in: for i in ______:": "range(3)"
+  }
+}

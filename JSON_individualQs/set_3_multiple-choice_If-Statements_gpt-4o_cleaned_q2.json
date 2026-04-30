@@ -1,0 +1,11 @@
+{
+  "question": "Which keyword is used to execute a block of code, only if the specified condition is false?",
+  "difficulty": 2,
+  "choices": {
+    "a": "unless",
+    "b": "else",
+    "c": "then",
+    "d": "or"
+  },
+  "correct_answer": "b"
+}

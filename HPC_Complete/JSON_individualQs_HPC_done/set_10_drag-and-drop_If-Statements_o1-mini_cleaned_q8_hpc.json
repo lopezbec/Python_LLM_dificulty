@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if number % 2 == 0:",
+        "print('Even')",
+        "elif number % 3 == 0:",
+        "print('Divisible by 3')",
+        "else:",
+        "print('Other')"
+    ]
+}

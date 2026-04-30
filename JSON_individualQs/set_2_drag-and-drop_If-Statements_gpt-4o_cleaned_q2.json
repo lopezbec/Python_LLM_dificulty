@@ -1,0 +1,17 @@
+{
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Fill in the blanks to print 'Hello' if the variable 'greeting' equals 'hi'.",
+  "code": "greeting = 'hi'\nif ______ :\n    print(______) ",
+  "options": [
+    "greeting == 'hi'",
+    "greeting = 'hi'",
+    "'Hello'",
+    "'Hi'"
+  ],
+  "correct": [
+    "greeting == 'hi'",
+    "'Hello'"
+  ]
+}

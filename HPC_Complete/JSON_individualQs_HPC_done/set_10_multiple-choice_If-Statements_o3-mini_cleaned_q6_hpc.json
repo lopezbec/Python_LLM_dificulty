@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "var",
+        "None",
+        "if var == None:",
+        "if var is None:",
+        "if var equals None:",
+        "if var = None:"
+    ]
+}

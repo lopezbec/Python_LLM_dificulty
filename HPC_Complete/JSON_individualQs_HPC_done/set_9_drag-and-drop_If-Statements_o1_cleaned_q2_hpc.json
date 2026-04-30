@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 4",
+        "if x % 2 [__op__] 0:",
+        "print(\"Even number\")",
+        "[__keyword__]:",
+        "print(\"Odd number\")",
+        "==",
+        "=",
+        "<=",
+        "else"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "difficulty": 7,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "What is the output of the following code snippet?\n\n```\nnumber = 10\nif number > 5:\n    if number < 20:\n        print('Yes')\n    else:\n        print('Maybe')\nelse:\n    print('No')\n```\n",
+  "options": [
+    "Yes",
+    "No",
+    "Maybe",
+    "Error"
+  ],
+  "correct_answer": "Yes"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In the expression 'if x and y:', both x and y are evaluated, and the block is executed if they are both _____.",
+  "answer": "True"
+}

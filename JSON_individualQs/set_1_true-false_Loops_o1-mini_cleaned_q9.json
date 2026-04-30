@@ -1,0 +1,5 @@
+{
+  "question": "Variables defined inside a loop in Python are local to the loop and cannot be accessed outside of it.",
+  "answer": false,
+  "difficulty": 9
+}

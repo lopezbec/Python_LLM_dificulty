@@ -1,0 +1,40 @@
+{
+  "difficulty": 9,
+  "question": "Configure the statements to use a loop with 'else' to detect if all elements are positive.",
+  "choices": [
+    "numbers",
+    "[",
+    "]",
+    "for",
+    "if",
+    "<",
+    ":",
+    "break",
+    "else",
+    "print",
+    "'All are positive'",
+    "<= 0"
+  ],
+  "correct_order": [
+    "numbers",
+    "=",
+    "[",
+    "some_values",
+    "]",
+    "for",
+    "n",
+    "in",
+    "numbers",
+    ":",
+    "if",
+    "n",
+    "<=",
+    "0",
+    ":",
+    "break",
+    "else",
+    ":",
+    "print",
+    "'All are positive'"
+  ]
+}

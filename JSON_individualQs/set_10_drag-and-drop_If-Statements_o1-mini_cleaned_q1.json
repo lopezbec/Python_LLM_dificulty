@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "question": "Arrange the basic structure of an if statement in Python.",
+  "dragItems": [
+    "if condition:",
+    "    statement"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2"
+  ],
+  "correctAnswers": {
+    "Line 1": "if condition:",
+    "Line 2": "    statement"
+  }
+}

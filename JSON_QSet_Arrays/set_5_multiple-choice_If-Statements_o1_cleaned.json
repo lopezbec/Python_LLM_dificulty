@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which statement best describes the use of if statements in Python?",
+    "choices": {
+      "A": "They allow the program to handle syntax errors automatically",
+      "B": "They only function inside loops",
+      "C": "They execute a block of code if a given condition is true",
+      "D": "They automatically create a variable inside a function"
+    },
+    "correct_answer": "C",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following is the correct syntax for a basic if statement in Python?",
+    "choices": {
+      "A": "if x = 5: print(\"x is 5\")",
+      "B": "if x == 5 print(\"x is 5\")",
+      "C": "if x == 5: print(\"x is 5\")",
+      "D": "if x = 5 print(\"x is 5\")"
+    },
+    "correct_answer": "C",
+    "difficulty": 2
+  },
+  {
+    "question": "How should you properly indent code inside an if statement in Python?",
+    "choices": {
+      "A": "No indentation is necessary",
+      "B": "Exactly one space is required",
+      "C": "Use a consistent number of spaces (commonly 4) or a tab",
+      "D": "Python does not allow indentation within if statements"
+    },
+    "correct_answer": "C",
+    "difficulty": 3
+  },
+  {
+    "question": "Given the code snippet:\n\nx = 10\nif x > 5:\n    x = x + 2\nprint(x)\n\nWhat is the output?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct_answer": "D",
+    "difficulty": 4
+  },
+  {
+    "question": "Which of the following expressions will evaluate to True if x = 5 and y = 10?",
+    "choices": {
+      "A": "x > 5 or y > 10",
+      "B": "x == 5 and y > 5",
+      "C": "x < 5 or y == 5",
+      "D": "x >= 10 and y == 10"
+    },
+    "correct_answer": "B",
+    "difficulty": 5
+  },
+  {
+    "question": "Which statement about if-elif-else chains in Python is true?",
+    "choices": {
+      "A": "'elif' is mandatory every time you use 'if'",
+      "B": "You can have multiple 'elif' statements in a single chain",
+      "C": "The 'else' must always come before 'elif'",
+      "D": "'elif' can appear only once in a Python file"
+    },
+    "correct_answer": "B",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the output of the following code snippet?\n\nx = 8\nif x > 5:\n    if x < 10:\n        print(\"x is a single-digit number greater than 5\")\nelse:\n    print(\"x is 5 or less\")",
+    "choices": {
+      "A": "x is 5 or less",
+      "B": "x is a single-digit number greater than 5",
+      "C": "No output",
+      "D": "SyntaxError"
+    },
+    "correct_answer": "B",
+    "difficulty": 7
+  },
+  {
+    "question": "Which of the following best describes how Python executes an if-elif-else chain?",
+    "choices": {
+      "A": "It checks all conditions and runs every block that is true",
+      "B": "It checks each condition from top to bottom and runs the first true block",
+      "C": "It always executes all blocks under if and elif",
+      "D": "It randomly selects one condition to check"
+    },
+    "correct_answer": "B",
+    "difficulty": 8
+  },
+  {
+    "question": "If you have 'if (not x) and y:' in Python, and x=False, y=True, which statement is correct?",
+    "choices": {
+      "A": "The condition does not evaluate",
+      "B": "The condition results in a SyntaxError",
+      "C": "The condition is true and the block will execute",
+      "D": "The condition is false and the block will not execute"
+    },
+    "correct_answer": "C",
+    "difficulty": 9
+  },
+  {
+    "question": "What is the final output of the following code?\n\nx = 4\nif x < 5:\n    x += 10\nif x > 10:\n    x -= 3\nif x == 11:\n    x *= 2\nelse:\n    x /= 2\nprint(x)",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "22",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "difficulty": 10
+  }
+]

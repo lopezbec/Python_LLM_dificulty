@@ -1,0 +1,11 @@
+{
+  "question": "7. Which of the following operators can be used with if-statements to test multiple conditions at once?",
+  "difficulty": 7,
+  "options": {
+    "a": "and, or, not",
+    "b": "with, else, elif",
+    "c": "add, subtract, multiply",
+    "d": "loop, break, continue"
+  },
+  "correct_answer": "a"
+}

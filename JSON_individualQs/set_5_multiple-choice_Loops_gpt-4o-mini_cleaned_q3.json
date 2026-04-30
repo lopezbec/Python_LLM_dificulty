@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of this code: 'for i in range(3): print(i)'?",
+  "options": [
+    "A. 0 1 2",
+    "B. 1 2 3",
+    "C. 0 1 2 3",
+    "D. 3 2 1"
+  ],
+  "answer": "A",
+  "difficulty": 3
+}

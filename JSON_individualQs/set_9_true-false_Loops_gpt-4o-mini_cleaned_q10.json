@@ -1,0 +1,5 @@
+{
+  "question": "The else block can be used with loops in Python, executing after the loop completes normally if not interrupted.",
+  "answer": true,
+  "difficulty": 10
+}

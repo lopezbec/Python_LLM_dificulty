@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "prompt": "Complete the nested loop by dragging the correct function call to iterate over 2 elements in the inner loop:\n\nfor i in range(3):\n    for j in _____(2):\n        print(i, j)",
+  "drag_items": [
+    "range",
+    "while",
+    "if"
+  ],
+  "drop_targets": [
+    "function"
+  ],
+  "correct_mapping": {
+    "function": "range"
+  }
+}

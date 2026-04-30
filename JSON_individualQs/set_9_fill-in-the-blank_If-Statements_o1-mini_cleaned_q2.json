@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to execute code when y is not zero:\n\n```python\nif y ____ 0:\n    print(\"y is not zero.\")\n```",
+  "answer": "!=",
+  "difficulty": 2
+}

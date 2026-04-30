@@ -1,0 +1,16 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "questionType": "drag-and-drop",
+  "questionText": "Drag and drop the correct items to check if 'fruit' belongs to the list ['apple','banana']. Print 'Fruit found' if true.",
+  "codeSnippet": "fruit = 'apple'\n[1] fruit [2] ['apple','banana']:\n    print(\"Fruit found\")",
+  "dragItems": [
+    "if",
+    "in"
+  ],
+  "correctAnswer": [
+    "if",
+    "in"
+  ],
+  "explanation": "We use 'if fruit in [\"apple\",\"banana\"]:' to test membership."
+}

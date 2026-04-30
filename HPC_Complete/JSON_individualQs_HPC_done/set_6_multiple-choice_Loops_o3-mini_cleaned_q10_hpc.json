@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "found = False",
+        "for i in range(5):",
+        "for j in range(5):",
+        "if i * j > 6:",
+        "found = True",
+        "break",
+        "if found:",
+        "break",
+        "print(i, j)",
+        "2 4",
+        "4 2",
+        "3 2",
+        "0 0"
+    ]
+}

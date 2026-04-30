@@ -1,0 +1,216 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag and drop to arrange the loop components in a basic for loop in Python.",
+    "options": [
+      "for",
+      "in",
+      "range(5)",
+      ":",
+      "print(i)"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "difficulty": 2,
+    "question": "Arrange the components of a while loop that prints numbers from 1 to 3.",
+    "options": [
+      "while",
+      "count < 4",
+      ":",
+      "print(count)",
+      "count += 1"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "difficulty": 3,
+    "question": "Drag and drop to create a for loop that iterates through a list.",
+    "options": [
+      "for",
+      "item",
+      "in",
+      "my_list",
+      ":",
+      "print(item)"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Order the following statements to create a nested loop that prints a row of stars.",
+    "options": [
+      "for",
+      "i in range(3)",
+      ":",
+      "for",
+      "j in range(5)",
+      ":",
+      "print('*', end='')",
+      "print()"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "difficulty": 5,
+    "question": "Drag and drop to create a loop that breaks when a specific condition is met.",
+    "options": [
+      "for",
+      "i in range(10)",
+      ":",
+      "print(i)",
+      "if",
+      "i == 5",
+      ":",
+      "break"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Arrange the components to form a loop that skips the value 3.",
+    "options": [
+      "for",
+      "i in range(5)",
+      ":",
+      "if",
+      "i == 3",
+      ":",
+      "continue",
+      "print(i)"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "difficulty": 7,
+    "question": "Drag and drop to create a loop that counts down from 10 to 1.",
+    "options": [
+      "count = 10",
+      "while",
+      "count > 0",
+      ":",
+      "print(count)",
+      "count -= 1"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Arrange statements to create a loop that collects even numbers into a list from 1 to 20.",
+    "options": [
+      "even_numbers = []",
+      "for",
+      "i in range(1, 21)",
+      ":",
+      "if",
+      "i % 2 == 0",
+      ":",
+      "even_numbers.append(i)"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Order the statements to create a loop that computes the factorial of a number.",
+    "options": [
+      "n = 5",
+      "factorial = 1",
+      "for",
+      "i in range(1, n + 1)",
+      ":",
+      "factorial *= i",
+      "print(factorial)"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "difficulty": 10,
+    "question": "Drag and drop to arrange a loop that generates and prints the Fibonacci sequence up to 100.",
+    "options": [
+      "a, b = 0, 1",
+      "while",
+      "b < 100",
+      ":",
+      "print(b)",
+      "a, b = b, a + b"
+    ],
+    "correctOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

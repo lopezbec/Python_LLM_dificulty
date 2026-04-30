@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "The built-in function ______ is commonly used in for loops to generate a sequence of numbers.",
+  "correct_answer": "range"
+}

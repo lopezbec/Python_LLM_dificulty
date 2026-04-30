@@ -1,0 +1,52 @@
+[
+  {
+    "question": "An if-statement can be used to execute a block of code only if a specified condition is true.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "In Python, the condition of an if-statement must be enclosed in parentheses.",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "The else clause of an if-statement is optional in Python.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "If the condition in an if-statement evaluates to false, the code block within that if-statement will still execute.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "An if-statement can evaluate multiple conditions using 'elif' in Python.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "You can have multiple else clauses in a single if-statement in Python.",
+    "answer": false,
+    "difficulty": 6
+  },
+  {
+    "question": "Nested if-statements allow you to check additional conditions inside an existing if-statement's code block.",
+    "answer": true,
+    "difficulty": 7
+  },
+  {
+    "question": "If you use only an else statement without an if statement, it will raise a SyntaxError.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "Comparison operators such as '==' and '!=' can be used within an if-statement's condition.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "An if-statement can handle non-boolean values directly, without evaluating their truthiness.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

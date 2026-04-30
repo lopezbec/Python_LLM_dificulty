@@ -1,0 +1,41 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "loops",
+  "question": "Arrange the lines to form a while loop that prints numbers starting from 1 and stops when the number 3 is printed using a break statement.",
+  "instructions": "Drag and drop the following code snippets into the correct order.",
+  "items": [
+    {
+      "id": "A",
+      "text": "i = 1"
+    },
+    {
+      "id": "B",
+      "text": "while True:"
+    },
+    {
+      "id": "C",
+      "text": "    print(i)"
+    },
+    {
+      "id": "D",
+      "text": "    if i == 3:"
+    },
+    {
+      "id": "E",
+      "text": "        break"
+    },
+    {
+      "id": "F",
+      "text": "    i += 1"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Fill in the blank to skip the current iteration when `number` is even within the for loop.\n\n```python\nfor number in range(10):\n    if number % 2 == 0:\n        ___\n    print(number)\n```",
+  "answer": "continue"
+}

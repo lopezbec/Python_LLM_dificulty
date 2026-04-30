@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "word = \"Python\"",
+        "__1__ word.startswith(\"P\"):",
+        "print(\"Starts with P\")",
+        "__2__ word.endswith(\"n\"):",
+        "print(\"Ends with n\")",
+        "__3__:",
+        "print(\"Does not start with P or end with n\")",
+        "if",
+        "else",
+        "with",
+        "elif",
+        "except",
+        "finally"
+    ]
+}

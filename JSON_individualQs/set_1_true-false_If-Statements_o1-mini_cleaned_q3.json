@@ -1,0 +1,6 @@
+{
+  "question": "True or False: In Python, the 'elif' keyword can be used after an 'if' statement to check another condition if the first condition is false.",
+  "answer": true,
+  "difficulty": 3,
+  "topic": "if-statements"
+}

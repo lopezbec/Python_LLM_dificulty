@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code?\n\nfor i in range(3):\n\u2003 print(i)",
+  "options": [
+    "0 1 2 3",
+    "1 2 3",
+    "0 1 2",
+    "1 2"
+  ],
+  "answer": "0 1 2",
+  "difficulty": 3
+}

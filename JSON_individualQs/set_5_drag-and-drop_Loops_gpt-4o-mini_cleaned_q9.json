@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "To iterate through a dictionary 'my_dict', the correct way to set up the loop is: 'for key, value in ____:'",
+  "options": [
+    "my_dict",
+    "my_dict.items()",
+    "my_dict.keys()",
+    "my_dict.values()"
+  ],
+  "correct_answer": "my_dict.items()"
+}

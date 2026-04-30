@@ -1,0 +1,10 @@
+{
+  "question": "Complete the complex if statement with logical operators: if (x > 5 && ____ ) { print('Valid'); }",
+  "options": [
+    "y < 10",
+    "y > 10",
+    "y == 5"
+  ],
+  "answer": "y < 10",
+  "difficulty": 7
+}

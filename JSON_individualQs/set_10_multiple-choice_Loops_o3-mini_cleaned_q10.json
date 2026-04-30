@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What will be the output of the following code snippet?\n\nnums = [1, 2, 3, 4]\nresult = []\nfor i in range(len(nums)):\n    if nums[i] % 2 == 0:\n        continue\n    for j in range(nums[i]):\n        result.append(j)\nprint(result)\n\nChoose the correct resulting list.",
+  "options": [
+    "[0, 0, 1, 2]",
+    "[0, 1, 2, 0]",
+    "[0, 0, 0, 1, 2, 3]",
+    "[0, 1, 2]"
+  ],
+  "correctAnswer": "[0, 0, 1, 2]"
+}

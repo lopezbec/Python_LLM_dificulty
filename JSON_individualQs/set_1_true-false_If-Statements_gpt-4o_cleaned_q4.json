@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In Python, the indentation level is irrelevant in the blocks following an 'if' statement.",
+  "answer": "False"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Using multiple 'elif' clauses in an if-else chain is equivalent to using multiple independent if statements.",
+  "answer": false
+}

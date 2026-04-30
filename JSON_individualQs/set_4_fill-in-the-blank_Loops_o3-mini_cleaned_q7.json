@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in the blank: In a 'while' loop that increments a counter, it is essential to include a statement to ______ the counter variable in order to eventually meet the termination condition.",
+  "answer": "increment"
+}

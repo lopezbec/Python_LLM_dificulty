@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: When repeating a code block as long as a condition remains True in Python, you use a ______ loop.",
+  "answer": "while"
+}

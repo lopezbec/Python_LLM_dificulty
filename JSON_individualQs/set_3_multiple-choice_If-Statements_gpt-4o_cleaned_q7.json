@@ -1,0 +1,11 @@
+{
+  "question": "Consider the code below. What will be the output?\n\n```python\nx = 10\ny = 8\nif x < y:\n    if x > 5:\n        print('Inside Nested If')\nelse:\n    print('Outside Nested If')\n```",
+  "difficulty": 7,
+  "choices": {
+    "a": "Inside Nested If",
+    "b": "Outside Nested If",
+    "c": "Error",
+    "d": "None of the above"
+  },
+  "correct_answer": "b"
+}

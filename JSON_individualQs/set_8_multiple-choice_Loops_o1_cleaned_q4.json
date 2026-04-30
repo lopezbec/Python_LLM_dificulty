@@ -1,0 +1,11 @@
+{
+  "question": "What is the exact output of the following code?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+  "difficulty": 4,
+  "choices": [
+    "A) 0 0\\n0 1\\n1 0\\n1 1\\n2 0\\n2 1",
+    "B) 0 0\\n1 0\\n2 0\\n0 1\\n1 1\\n2 1",
+    "C) 0,1,2",
+    "D) The code causes an error"
+  ],
+  "correct_answer": "A"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question_type": "drag-and-drop",
+  "question_text": "Complete the nested if-statement. The outer condition checks if 'num' is positive; the inner condition checks if 'num' is even:\n[BLANK1] num > 0:\n    [BLANK2] num % 2 [BLANK3] 0:\n        print('Positive Even')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to begin the outer condition",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Keyword to begin the inner condition",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK3",
+      "description": "Operator to test equality",
+      "correct_answer": "=="
+    }
+  ],
+  "options": [
+    "if",
+    "==",
+    "while",
+    "for",
+    "and"
+  ]
+}

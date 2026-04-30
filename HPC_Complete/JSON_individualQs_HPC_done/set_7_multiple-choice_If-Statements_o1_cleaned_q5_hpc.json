@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "my_list = []",
+        "if my_list:",
+        "print('List is not empty')",
+        "else:",
+        "print('List is empty')",
+        "my_list",
+        "List is not empty",
+        "List is empty",
+        "Error",
+        "None"
+    ]
+}

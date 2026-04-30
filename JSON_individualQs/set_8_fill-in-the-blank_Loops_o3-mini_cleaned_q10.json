@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: When you need both the index and the element while iterating over a list, you can use the ______() function.",
+  "correct_answer": "enumerate"
+}

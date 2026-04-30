@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: In an if-statement with a compound condition, which operator should be used to check if a number is between 1 and 10 (inclusive)?\nif number >= 1 _____ number <= 10:\n    print('Number is between 1 and 10')",
+  "answer": "and"
+}

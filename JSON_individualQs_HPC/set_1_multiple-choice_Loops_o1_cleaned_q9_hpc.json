@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "while with break",
+        "for i, v in enumerate(sequence)",
+        "for i in sequence",
+        "for x, y in zip(sequence)"
+    ]
+}

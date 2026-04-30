@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "The _______ clause in a loop is executed when the loop condition becomes false, but not if the loop exits via a break statement.",
+  "answer": "else"
+}

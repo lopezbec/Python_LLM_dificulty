@@ -1,0 +1,13 @@
+{
+  "difficulty": 1,
+  "type": "multiple-choice",
+  "topic": "if-statements",
+  "question": "What is the primary purpose of an if-statement in Python?",
+  "options": [
+    "To repeat a block of code",
+    "To perform an arithmetic operation",
+    "To execute code based on a condition",
+    "To define a function"
+  ],
+  "correct_answer": "To execute code based on a condition"
+}

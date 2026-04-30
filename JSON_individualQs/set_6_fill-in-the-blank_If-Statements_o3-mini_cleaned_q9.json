@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank to complete the one-line if-else (ternary) expression that assigns 'Pass' if score is at least 50, otherwise 'Fail':\n\nscore = 75\nresult = 'Pass' ______ 'Fail'",
+  "answer": "if score >= 50 else"
+}

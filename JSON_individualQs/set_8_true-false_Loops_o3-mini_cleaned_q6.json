@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "A 'for' loop in Python requires the programmer to explicitly declare an index variable before iteration.",
+  "correct_answer": "False"
+}

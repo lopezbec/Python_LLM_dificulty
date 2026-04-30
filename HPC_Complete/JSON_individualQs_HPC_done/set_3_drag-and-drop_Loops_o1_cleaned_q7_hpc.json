@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "car_brands = ['BrandA', 'BrandB']",
+        "models = ['XModel', 'YModel', 'ZModel']",
+        "for brand in car_brands:",
+        "for model in models:",
+        "SKIP_CONDITION_PLACEHOLDER",
+        "print(brand, model)",
+        "if 'X' in model: continue",
+        "if 'X' in brand: continue",
+        "if model == 'XModel': break",
+        "if brand == 'BrandA': continue"
+    ]
+}

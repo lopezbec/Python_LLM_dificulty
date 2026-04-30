@@ -1,0 +1,22 @@
+{
+  "question": "Complete the range check using if-statement.",
+  "difficulty": 8,
+  "instructions": "Drag the correct operators to complete the condition that checks if x is between 0 and 10.",
+  "codeSnippet": "if 0 ___ x and x ___ 10:\n    print('x is between 0 and 10')",
+  "dropZones": [
+    {
+      "placeholder": "First blank",
+      "correctAnswer": "<"
+    },
+    {
+      "placeholder": "Second blank",
+      "correctAnswer": "<"
+    }
+  ],
+  "draggableItems": [
+    "<",
+    ">",
+    "<=",
+    ">="
+  ]
+}

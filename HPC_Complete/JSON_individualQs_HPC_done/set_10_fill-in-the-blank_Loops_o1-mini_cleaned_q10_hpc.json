@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "operations = ['add', 'subtract', 'multiply', 'divide']",
+        "for op in operations:",
+        "try:",
+        "result = perform_operation(op)",
+        "except ValueError:",
+        "print('Value error encountered')",
+        "___ Exception as e:",
+        "print(f'An error occurred: {e}')"
+    ]
+}

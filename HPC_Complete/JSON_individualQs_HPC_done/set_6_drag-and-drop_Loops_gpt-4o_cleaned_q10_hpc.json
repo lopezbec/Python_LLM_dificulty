@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "total",
+        "0",
+        "for",
+        "amount",
+        "in",
+        "transactions",
+        "total",
+        "=",
+        "print",
+        "total",
+        "+="
+    ]
+}

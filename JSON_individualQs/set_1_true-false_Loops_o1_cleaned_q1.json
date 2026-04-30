@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Is it true that a 'for' loop in Python can iterate over any iterable, such as a list or a string?",
+  "answer": "True"
+}

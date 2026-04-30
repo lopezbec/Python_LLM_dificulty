@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which keyword is used to create a loop that iterates over a sequence in Python?",
+    "options": {
+      "A": "loop",
+      "B": "while",
+      "C": "for",
+      "D": "iterate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which function is commonly used with a for loop to generate a sequence of numbers in Python?",
+    "options": {
+      "A": "enumerate",
+      "B": "range",
+      "C": "list",
+      "D": "print"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 3,
+    "question": "Identify the correct syntax for a while loop that prints \"Hello\" repeatedly until a condition becomes False.",
+    "options": {
+      "A": "while True: print(\"Hello\")",
+      "B": "while (True) print(\"Hello\")",
+      "C": "while True { print(\"Hello\") }",
+      "D": "loop True: print(\"Hello\")"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 4,
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)",
+    "options": {
+      "A": "0 1 2",
+      "B": "1 2 3",
+      "C": "0 1 2 3",
+      "D": "1 2 3 4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 5,
+    "question": "Which of these keywords can be used to exit a loop prematurely in Python?",
+    "options": {
+      "A": "continue",
+      "B": "skip",
+      "C": "break",
+      "D": "exit"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 6,
+    "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 3:\n    count += 1\n    print(count)",
+    "options": {
+      "A": "0 1 2",
+      "B": "1 2 3",
+      "C": "0 1 2 3",
+      "D": "3 2 1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 7,
+    "question": "What is the recommended method for safely iterating over and modifying a list simultaneously in Python?",
+    "options": {
+      "A": "Iterating directly over the list",
+      "B": "Using a for loop on a shallow copy of the list (e.g., my_list[:])",
+      "C": "Using a while loop without modifying the list",
+      "D": "It is not possible to modify a list while iterating over it"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 8,
+    "question": "Consider the following code snippet:\n\ni = 0\nnums = []\nwhile i < 5:\n    nums.append(i)\n    i += 2\n\nWhat is the final value of the list nums?",
+    "options": {
+      "A": "[0, 2, 4]",
+      "B": "[0, 2, 4, 6]",
+      "C": "[0, 1, 2, 3, 4]",
+      "D": "[2, 4, 6, 8]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 9,
+    "question": "Which of the following statements about Python's for loop is true?",
+    "options": {
+      "A": "The loop variable is re-initialized on each iteration.",
+      "B": "The loop variable retains its last value after the loop completes.",
+      "C": "The loop can only iterate over numeric sequences.",
+      "D": "The loop automatically calls the next() function without an iterator."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 10,
+    "question": "In the context of nested loops, what is the time complexity in Big-O notation for a loop that runs n times and within it another loop that also runs n times?",
+    "options": {
+      "A": "O(n)",
+      "B": "O(n^2)",
+      "C": "O(n log n)",
+      "D": "O(n^3)"
+    },
+    "correct_answer": "B"
+  }
+]

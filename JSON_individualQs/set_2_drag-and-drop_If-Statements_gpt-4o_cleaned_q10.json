@@ -1,0 +1,14 @@
+{
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "question": "Complete the advanced nested if-else structure to check if 'age' grants special privileges or not.",
+  "code": "age = 65\nif age >= 18:\n    print('Adult')\n    ______ age >= 65:\n        print('Senior Privileges')\n    else:\n        print('Standard Privileges')\nelse:\n    print('Minor')",
+  "options": [
+    "if",
+    "else",
+    "elif",
+    "then"
+  ],
+  "correct": "if"
+}

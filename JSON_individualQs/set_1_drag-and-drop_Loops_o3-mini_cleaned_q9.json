@@ -1,0 +1,20 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "topic": "Loops",
+  "question": "Drag and drop the code segments to form a while loop that continuously prompts the user for a number, adds it to a total, and exits when the total exceeds 10.",
+  "drag_items": [
+    "while total <= 10:",
+    "    num = int(input('Enter a number: '))",
+    "total = 0",
+    "    total += num",
+    "print('Total exceeded 10')"
+  ],
+  "correct_order": [
+    "total = 0",
+    "while total <= 10:",
+    "    num = int(input('Enter a number: '))",
+    "    total += num",
+    "print('Total exceeded 10')"
+  ]
+}

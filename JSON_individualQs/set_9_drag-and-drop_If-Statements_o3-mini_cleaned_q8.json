@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question_type": "drag-and-drop",
+  "question_text": "Drag and drop the correct tokens to complete the multi-branch if-statement that categorizes a 'score':\n[BLANK1] score [BLANK2] 90:\n    print('Excellent')\n[BLANK3] score [BLANK4] 60:\n    print('Good')\nelse:\n    print('Needs Improvement')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to begin the first condition",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to check if score is greater than or equal to 90",
+      "correct_answer": ">="
+    },
+    {
+      "id": "BLANK3",
+      "description": "Keyword for the else-if condition",
+      "correct_answer": "elif"
+    },
+    {
+      "id": "BLANK4",
+      "description": "Operator to check if score is greater than or equal to 60",
+      "correct_answer": ">="
+    }
+  ],
+  "options": [
+    "if",
+    "elif",
+    ">=",
+    "<=",
+    "else"
+  ]
+}

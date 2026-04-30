@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "When using a 'for' loop, which function can be used to generate a sequence of numbers?",
+  "choices": [
+    "range()",
+    "list()",
+    "dict()",
+    "set()"
+  ],
+  "answer": "range()"
+}

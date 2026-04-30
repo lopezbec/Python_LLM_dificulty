@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to use a ternary operator for assigning 'status':\n\nage = 20\nstatus = \"Adult\" if age >= 18 ___ \"Minor\"",
+  "answer": "else",
+  "difficulty": 6,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

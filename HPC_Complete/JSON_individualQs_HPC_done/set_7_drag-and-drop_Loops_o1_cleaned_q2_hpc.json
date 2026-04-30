@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for letter in 'Loop':",
+        "print(letter)"
+    ]
+}

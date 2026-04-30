@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blanks to create a multi-conditional if statement that checks if 'number' is prime by iterating up to its square root:\n\n```python\nimport math\nis_prime = True\nfor i in range(2, int(math.sqrt(number)) + 1):\n    if number __ i == 0:\n        is_prime = False\n        break\nif is_prime and number > 1:\n    print('Prime number')\n```",
+  "blank": "%"
+}

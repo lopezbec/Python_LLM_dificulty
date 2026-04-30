@@ -1,0 +1,25 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "questionText": "Arrange these lines to create a nested if-elif-else structure that checks for multiple nested conditions. Print 'VIP' if user_type is 'member' and loyalty_points > 1000, 'Member' if user_type is 'member' but fewer points, 'Guest' otherwise.",
+  "incompleteCode": "1) elif loyalty_points > 1000:\n2) print(\"VIP\")\n3) if user_type == 'member':\n4) print(\"Member\")\n5) else:\n6) else:\n7) print(\"Guest\")\n",
+  "dragItems": [
+    "if user_type == 'member':",
+    "elif loyalty_points > 1000:",
+    "print(\"VIP\")",
+    "print(\"Member\")",
+    "else:",
+    "else:",
+    "print(\"Guest\")"
+  ],
+  "correctAnswer": [
+    "if user_type == 'member':",
+    "    if loyalty_points > 1000:",
+    "        print(\"VIP\")",
+    "    else:",
+    "        print(\"Member\")",
+    "else:",
+    "    print(\"Guest\")"
+  ],
+  "explanation": "First, check if user_type is 'member'. Inside that block, check loyalty_points > 1000 for a VIP or else 'Member'. Outside that block, print 'Guest'."
+}

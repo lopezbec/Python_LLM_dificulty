@@ -1,0 +1,48 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question_type": "drag-and-drop",
+  "question_text": "Drag and drop the correct tokens to complete the following if-statement that checks if 'num' is between 10 and 20 inclusive and even:\n[BLANK1] num [BLANK2] 10 [BLANK3] num [BLANK4] 20 [BLANK5] num % 2 [BLANK6] 0:\n    print('Valid')\n\n(The completed statement should read: if num >= 10 and num <= 20 and num % 2 == 0:)",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to start an if-statement",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to check if num is greater than or equal to 10",
+      "correct_answer": ">="
+    },
+    {
+      "id": "BLANK3",
+      "description": "Logical operator to combine conditions",
+      "correct_answer": "and"
+    },
+    {
+      "id": "BLANK4",
+      "description": "Operator to check if num is less than or equal to 20",
+      "correct_answer": "<="
+    },
+    {
+      "id": "BLANK5",
+      "description": "Logical operator to combine the next condition",
+      "correct_answer": "and"
+    },
+    {
+      "id": "BLANK6",
+      "description": "Operator to test equality for even check",
+      "correct_answer": "=="
+    }
+  ],
+  "options": [
+    "if",
+    ">=",
+    "and",
+    "<=",
+    "==",
+    "or",
+    "<",
+    "!="
+  ]
+}

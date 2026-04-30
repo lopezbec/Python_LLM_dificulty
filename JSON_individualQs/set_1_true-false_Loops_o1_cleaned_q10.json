@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Is it true that a 'while' loop with a condition that never becomes False or is never broken out of will run indefinitely?",
+  "answer": "True"
+}

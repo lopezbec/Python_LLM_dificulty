@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\n```python\ndef check_number(num):\n    if num == 0:\n        return 'Zero'\n    if num > 0:\n        return 'Positive'\n    return 'Negative'\n\nprint(check_number(-5))\n```",
+  "options": {
+    "A": "Zero",
+    "B": "Positive",
+    "C": "Negative",
+    "D": "Error"
+  },
+  "answer": "C",
+  "difficulty": 8
+}

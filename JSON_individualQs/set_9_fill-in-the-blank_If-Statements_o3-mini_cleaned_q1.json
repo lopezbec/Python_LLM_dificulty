@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank to create an if-statement that always executes:\n\nif ______:\n    print('Hello, World!')",
+  "correct_answer": "True"
+}

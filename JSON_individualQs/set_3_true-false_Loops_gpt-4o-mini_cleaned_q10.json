@@ -1,0 +1,5 @@
+{
+  "question": "The 'else' clause in a loop executes after all iterations are complete, unless the loop was exited by a 'break' statement.",
+  "answer": true,
+  "difficulty": 10
+}

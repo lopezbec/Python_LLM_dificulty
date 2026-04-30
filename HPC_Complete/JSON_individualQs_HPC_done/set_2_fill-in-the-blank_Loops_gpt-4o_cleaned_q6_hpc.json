@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "for",
+        "for i in _____(start, stop):",
+        "range"
+    ]
+}

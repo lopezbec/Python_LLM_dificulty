@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A _______ comprehension, such as '[x for x in sequence]', provides a compact way to process sequences in loops and generally increases code readability.",
+  "answer": "list"
+}

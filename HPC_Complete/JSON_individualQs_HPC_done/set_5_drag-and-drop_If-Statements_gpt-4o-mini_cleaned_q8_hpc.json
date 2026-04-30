@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if-elif-else",
+        "score",
+        "elif score >= 50:",
+        "if score >= 75:",
+        "else:",
+        "print('Good')",
+        "print('Excellent')",
+        "print('Needs Improvement')"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "try",
+        "except",
+        "ZeroDivisionError",
+        "as e",
+        "for i in range(5):\n    __:\n        result = 10 / i\n        print(result)\n    __ __ __ as e:\n        print('Error:', e)"
+    ]
+}

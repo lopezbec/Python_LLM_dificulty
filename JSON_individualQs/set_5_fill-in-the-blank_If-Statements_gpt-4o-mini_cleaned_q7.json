@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "An if statement can compare values using operators such as '==' (equal to) and '_____' (not equal to).",
+  "answer": "!="
+}

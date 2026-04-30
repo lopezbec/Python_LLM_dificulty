@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which keyword is used to create a basic if statement in Python?",
+    "choices": {
+      "A": "if",
+      "B": "elif",
+      "C": "else",
+      "D": "then"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which symbol is used immediately after the condition in a Python if statement?",
+    "choices": {
+      "A": ";",
+      "B": ":",
+      "C": "{",
+      "D": "->"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 3,
+    "question": "What keyword is used for the 'else if' component in a Python if statement?",
+    "choices": {
+      "A": "elseif",
+      "B": "elsif",
+      "C": "elif",
+      "D": "then if"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 4,
+    "question": "Which of the following is the correct syntax to check if x is greater than 10?",
+    "choices": {
+      "A": "if (x > 10);",
+      "B": "if x > 10:",
+      "C": "if x > 10",
+      "D": "if x => 10:"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 5,
+    "question": "Which code snippet correctly demonstrates an if-elif-else structure?",
+    "choices": {
+      "A": "if x < 0: print('Negative') elif x == 0: print('Zero') else: print('Positive')",
+      "B": "if x < 0: print('Negative') else if x == 0: print('Zero') elif: print('Positive')",
+      "C": "if (x < 0): print('Negative'); elif (x == 0): print('Zero'); else: print('Positive');",
+      "D": "if x < 0: print('Negative') then x == 0: print('Zero') else: print('Positive')"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 6,
+    "question": "Which of the following best describes how Python handles multiple conditions joined by 'and' in an if statement?",
+    "choices": {
+      "A": "Python will run every condition even if one is false.",
+      "B": "Python checks conditions left to right and stops if one condition is false.",
+      "C": "Python converts all conditions to booleans and runs them in random order.",
+      "D": "Python only checks the last condition."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 7,
+    "question": "In the following snippet, what value will be printed if x=5? (Assume y=10.)\n\nif x > 0:\n    if x < 10:\n        print('Small Positive')\n    else:\n        print('Large Positive')\nelse:\n    print('Non-positive')",
+    "choices": {
+      "A": "Large Positive",
+      "B": "Non-positive",
+      "C": "No output",
+      "D": "Small Positive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "difficulty": 8,
+    "question": "Which snippet correctly checks if a list named items is not empty before printing the first item?",
+    "choices": {
+      "A": "if len(items) =! 0:\n    print(items[0])",
+      "B": "if len(items) > 0:\n    print(items[0])",
+      "C": "if items != '':\n    print(items[0])",
+      "D": "if items is not None:\n    print(items[0])"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 9,
+    "question": "Which of the following uses Python's ternary conditional operator to assign the variable result to 'High' if x > 100, otherwise 'Low'?",
+    "choices": {
+      "A": "result = if x > 100: 'High' else: 'Low'",
+      "B": "result = 'High' if x > 100 else 'Low'",
+      "C": "result = 'Low' if x < 100 else 'High'",
+      "D": "result = x > 100 ? 'High' : 'Low'"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 10,
+    "question": "Which code snippet accurately demonstrates nested if statements checking both x and y for specific ranges?",
+    "choices": {
+      "A": "if x > 0:\n    if y > 0:\n        print('Both positive')\n    else:\n        print('x positive, y non-positive')\nelse:\n    print('x non-positive')",
+      "B": "if x > 0:\nelse y > 0:\n    print('Both positive')\nelse:\n    print('One is non-positive')",
+      "C": "if x > 0 and if y > 0:\n    print('Both positive')\nelse:\n    print('Otherwise')",
+      "D": "if x > 0:\n    print('x positive')\nif y > 0:\n    print('y positive')\nelse:\n    print('Both non-positive')"
+    },
+    "correct_answer": "A"
+  }
+]

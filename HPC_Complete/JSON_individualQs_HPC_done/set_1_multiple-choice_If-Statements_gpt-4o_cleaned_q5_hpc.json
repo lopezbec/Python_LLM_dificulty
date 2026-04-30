@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x == 10",
+        "print('x is 10')",
+        "Add a colon (:) after the if statement",
+        "Change == to =",
+        "Indent the print statement further",
+        "Nothing; the code is correct"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "question": "How many times will the loop execute?\n\n```python\nfor i in range(2, 10, 3):\n    print(i)\n```",
+  "options": {
+    "A": "2 times",
+    "B": "3 times",
+    "C": "4 times",
+    "D": "5 times"
+  },
+  "answer": "B"
+}

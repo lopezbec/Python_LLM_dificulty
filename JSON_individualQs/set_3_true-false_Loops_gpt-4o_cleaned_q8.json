@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Nested loops in Python consist of one loop inside the body of another loop, and can be used for tasks like iterating over a matrix.",
+  "answer": "True"
+}

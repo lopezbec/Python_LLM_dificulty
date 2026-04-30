@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What does the following code segment print? for i in range(5): if i == 3: break; print(i)",
+  "options": [
+    "0 1 2 3",
+    "0 1 2",
+    "0 1 2 3 4",
+    "3"
+  ],
+  "answer": "0 1 2"
+}

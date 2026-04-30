@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if ______flag:",
+        "print(\"Flag is False\")",
+        "flag"
+    ]
+}

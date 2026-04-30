@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "if-statements",
+  "question": "Fill in the blank to create a basic if statement in Python:\n\n____ temperature > 30:\n    print(\"It's a hot day.\")",
+  "options": [
+    "If",
+    "Else",
+    "Elif",
+    "While"
+  ],
+  "correct_answers": [
+    "If"
+  ]
+}

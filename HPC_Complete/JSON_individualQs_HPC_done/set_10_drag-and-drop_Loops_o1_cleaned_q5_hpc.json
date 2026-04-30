@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "print('End of loop')",
+        "if n < 7: continue",
+        "break",
+        "numbers = [3, 5, 7, 9]",
+        "if n == 7:",
+        "for n in numbers:",
+        "print('Found 7')"
+    ]
+}

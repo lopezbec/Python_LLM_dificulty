@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if-else",
+        "'x' is less than 10",
+        "x = 7",
+        "if x < 10:",
+        "print(\"x is less than 10\")",
+        "{KEYWORD}:",
+        "print(\"x is 10 or more\")",
+        "else",
+        "elif",
+        "try"
+    ]
+}

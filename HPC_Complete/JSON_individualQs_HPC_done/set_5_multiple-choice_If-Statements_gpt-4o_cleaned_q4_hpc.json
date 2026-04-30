@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 4",
+        "y = 10",
+        "if x > 5:",
+        "if y > 5:",
+        "print('A')",
+        "else:",
+        "print('B')",
+        "An error will occur.",
+        "A",
+        "B",
+        "AB"
+    ]
+}

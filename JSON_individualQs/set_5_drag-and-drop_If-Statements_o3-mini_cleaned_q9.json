@@ -1,0 +1,18 @@
+{
+  "question": "Complete the inline if-else (ternary) statement.",
+  "difficulty": 9,
+  "instructions": "Drag the correct operator to complete the inline condition that checks for even numbers.",
+  "codeSnippet": "print('Even') if x % 2 ___ 0 else print('Odd')",
+  "dropZones": [
+    {
+      "placeholder": "___",
+      "correctAnswer": "=="
+    }
+  ],
+  "draggableItems": [
+    "==",
+    "!=",
+    "%",
+    "<="
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "What does the following code print?\n\nnumbers = [1, 2, 3]\nfor num in numbers:\n    print(num)",
+  "options": [
+    "1, 2, 3 on separate lines",
+    "1, 2, 3 on the same line",
+    "It raises an error",
+    "Nothing"
+  ],
+  "correct_answer": "1, 2, 3 on separate lines"
+}

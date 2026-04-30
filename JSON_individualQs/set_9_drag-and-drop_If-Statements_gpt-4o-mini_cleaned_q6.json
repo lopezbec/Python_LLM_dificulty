@@ -1,0 +1,12 @@
+{
+  "difficulty": 6,
+  "question": "Complete the following nested if-statement by dragging the appropriate code blocks:\n\nif (x > 0):\n    if (y > 0):\n        ____\nelse:\n    ____",
+  "options": [
+    "print('Both x and y are positive')",
+    "print('Either x or y is non-positive')"
+  ],
+  "correct_answers": [
+    "print('Both x and y are positive')",
+    "print('Either x or y is non-positive')"
+  ]
+}

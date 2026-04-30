@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "questionType": "drag-and-drop",
+  "question": "Fill in the blanks to check if a variable x is greater than 0 and print 'Positive'.",
+  "codeSnippet": "x = 10\n___ x > 0:\n    ___('Positive')",
+  "draggables": [
+    "if",
+    "print",
+    "else"
+  ],
+  "correctDrops": [
+    "if",
+    "print"
+  ],
+  "explanation": "Use 'if' to start the condition and 'print' to display the message."
+}

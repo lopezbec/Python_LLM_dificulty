@@ -1,0 +1,26 @@
+{
+  "question": "Complete the if-elif-else chain.",
+  "difficulty": 4,
+  "instructions": "Drag the correct keywords into the blanks to form a complete if-elif-else statement.",
+  "codeSnippet": "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')\n___:\n    print('Negative')",
+  "dropZones": [
+    {
+      "placeholder": "First blank",
+      "correctAnswer": "if"
+    },
+    {
+      "placeholder": "Second blank",
+      "correctAnswer": "elif"
+    },
+    {
+      "placeholder": "Third blank",
+      "correctAnswer": "else"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ]
+}

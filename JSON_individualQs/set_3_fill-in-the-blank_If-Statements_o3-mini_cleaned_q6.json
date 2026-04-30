@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank: In an if-statement structure, the ______ clause is used to handle all cases not caught by the if or elif conditions.",
+  "answer": "else"
+}

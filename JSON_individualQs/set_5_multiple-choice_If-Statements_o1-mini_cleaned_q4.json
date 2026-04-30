@@ -1,0 +1,12 @@
+{
+  "question": "Consider the following code snippet:\n\n```python\nx = 10\nif x > 5:\n    if x < 15:\n        print('x is between 5 and 15')\n``` \nWhat will be printed?",
+  "options": [
+    "A) x is between 5 and 15",
+    "B) Nothing",
+    "C) Error",
+    "D) x is greater than 5"
+  ],
+  "answer": "A",
+  "difficulty": 4,
+  "topic": "if statements"
+}

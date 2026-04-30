@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Which loop construction has the potential to lead to an infinite loop if not properly controlled?",
+  "options": [
+    "while True:",
+    "for i in range(10):",
+    "for i in [1, 2, 3]:",
+    "while False:"
+  ],
+  "correct_answer": "while True:"
+}

@@ -1,0 +1,14 @@
+{
+  "number": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "prompt": "Drag the correct condition into the blank so the code prints 'Too big' if x is greater than 10.",
+  "code": "x = 12\nif __________:\n    print(\"Too big\")",
+  "choices": [
+    "x == 10",
+    "x > 10",
+    "x < 10",
+    "x >= 12"
+  ],
+  "correct_choice": "x > 10"
+}

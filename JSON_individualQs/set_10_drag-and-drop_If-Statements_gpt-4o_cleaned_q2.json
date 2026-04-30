@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "instruction": "Arrange the components to form a correct if-statement for checking if y is equal to 20.",
+  "code": "____ y ____ ____ 20:\n    print('y is 20')",
+  "options": [
+    "if",
+    "==",
+    "is",
+    ":",
+    "="
+  ],
+  "answer": [
+    "if",
+    "==",
+    ":",
+    ""
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "while (i < 5) { ... }",
+    "while i < 5:\n    # code block",
+    "while i < 5 do\n    # code block",
+    "while i < 5 then\n    # code block"
+  ]
+}

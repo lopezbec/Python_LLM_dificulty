@@ -1,0 +1,11 @@
+{
+  "question": "7) What does this code snippet print?\n\nx = 3\ny = 4\nif x == 3 and y == 5 or y == 4:\n    print('Condition met')\nelse:\n    print('Condition not met')",
+  "difficulty": 7,
+  "options": {
+    "a": "Condition met",
+    "b": "Condition not met",
+    "c": "Error",
+    "d": "No output"
+  },
+  "correct_answer": "a"
+}

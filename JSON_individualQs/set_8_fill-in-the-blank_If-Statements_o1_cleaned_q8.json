@@ -1,0 +1,11 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank to complete this ternary operator statement: status = 'valid' if x > 0 ______ 'invalid'",
+  "correct_answer": "else",
+  "incorrect_answers": [
+    "elif",
+    "except",
+    "for"
+  ]
+}

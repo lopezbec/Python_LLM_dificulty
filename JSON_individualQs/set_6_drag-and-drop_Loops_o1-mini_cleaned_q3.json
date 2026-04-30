@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "question": "Place the loop control statements in the correct order within the `for` loop to skip even numbers.",
+  "options": [
+    "if i % 2 == 0:",
+    "continue",
+    "print(i)"
+  ],
+  "correct_order": [
+    "if i % 2 == 0:",
+    "    continue",
+    "print(i)"
+  ],
+  "difficulty": 3
+}

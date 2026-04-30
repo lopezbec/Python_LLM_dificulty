@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following will cause a syntax error in an if-statement?",
+  "difficulty": 4,
+  "options": {
+    "A": "if (3 > 2):",
+    "B": "if 3 > 2:",
+    "C": "if 3 > 2",
+    "D": "if (3 > 2)"
+  },
+  "correct_answer": "D"
+}

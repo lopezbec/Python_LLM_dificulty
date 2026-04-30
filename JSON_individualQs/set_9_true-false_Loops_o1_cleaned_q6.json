@@ -1,0 +1,5 @@
+{
+  "question": "Loop variables must always be integers in Python.",
+  "difficulty": 6,
+  "correct_answer": "False"
+}

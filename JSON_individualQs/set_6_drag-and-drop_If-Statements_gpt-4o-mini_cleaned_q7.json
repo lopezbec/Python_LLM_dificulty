@@ -1,0 +1,12 @@
+{
+  "question": "Fill in the missing components to define the correct behavior of the if-statement: \n`if (marks >= 50) { ____; } else { ____; }`",
+  "drops": [
+    "console.log('Pass');",
+    "console.log('Fail');",
+    "return 'Pass';",
+    "return 'Fail';"
+  ],
+  "correct": "console.log('Pass');",
+  "alternate_correct": "console.log('Fail');",
+  "difficulty": 7
+}

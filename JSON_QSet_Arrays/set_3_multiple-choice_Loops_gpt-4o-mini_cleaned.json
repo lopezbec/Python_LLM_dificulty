@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the output of the following code: `for i in range(3): print(i)`?",
+    "options": [
+      "0\n1\n2",
+      "1\n2\n3",
+      "3\n2\n1",
+      "0\n1\n2\n3"
+    ],
+    "answer": "0\n1\n2",
+    "difficulty": 1
+  },
+  {
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do-while loop",
+      "iteration loop"
+    ],
+    "answer": "do-while loop",
+    "difficulty": 2
+  },
+  {
+    "question": "In Python, which of the following statements is used to exit a loop?",
+    "options": [
+      "stop",
+      "exit",
+      "break",
+      "continue"
+    ],
+    "answer": "break",
+    "difficulty": 3
+  },
+  {
+    "question": "What will be the output of the following code: `for i in range(5): if i == 2: break; print(i)`?",
+    "options": [
+      "0\n1\n2\n3\n4",
+      "0\n1",
+      "0\n1\n2",
+      "0\n1\n2\n3"
+    ],
+    "answer": "0\n1",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the result of the expression `sum(range(4))`?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "0"
+    ],
+    "answer": "6",
+    "difficulty": 5
+  },
+  {
+    "question": "What will the following code output? `for i in range(1, 10, 2): print(i, end=' ')`",
+    "options": [
+      "2 4 6 8",
+      "1 3 5 7 9",
+      "0 2 4 6 8",
+      "1 2 3 4"
+    ],
+    "answer": "1 3 5 7 9",
+    "difficulty": 6
+  },
+  {
+    "question": "How many times will 'Hello' be printed in the following code? `count = 0; while count < 5: print('Hello'); count += 1`",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "Infinite"
+    ],
+    "answer": "5",
+    "difficulty": 7
+  },
+  {
+    "question": "What will happen if you replace `break` in the following code with `continue`? `for i in range(3): if i == 1: break; print(i)`",
+    "options": [
+      "Outputs 0 and 1",
+      "Outputs 0 and 2",
+      "Outputs 0, 1, and 2",
+      "Outputs 1 and 2"
+    ],
+    "answer": "Outputs 0 and 2",
+    "difficulty": 8
+  },
+  {
+    "question": "Given the following code: `for i in range(5): for j in range(i): print(j, end=' ')`, what will the output be?",
+    "options": [
+      "0 1 0 1 2 0 1 2 3",
+      "0 1 0 1 0 1",
+      "0 1 2 3 4",
+      "0 1 2 3 0 1 0"
+    ],
+    "answer": "0 1 0 1 2 0 1 2 3",
+    "difficulty": 9
+  },
+  {
+    "question": "What does the following code do? `while True: print('Hello'); break`?",
+    "options": [
+      "Infinite loop",
+      "Prints 'Hello' once",
+      "Prints nothing",
+      "Prints 'Hello' infinitely"
+    ],
+    "answer": "Prints 'Hello' once",
+    "difficulty": 10
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "An if-statement can only compare numerical data types and cannot be used with booleans or strings.",
+  "answer": false
+}

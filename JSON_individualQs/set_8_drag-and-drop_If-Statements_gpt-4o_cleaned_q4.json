@@ -1,0 +1,14 @@
+{
+  "question": "Complete the chained if-elif-else statement: \n\nIf `a` is negative, print `negative`. If `a` is zero, print `zero`. Otherwise, print `positive`.",
+  "difficulty": 4,
+  "snippet": "if ___:\n    print('negative')\nelif ___:\n    print('zero')\nelse:\n    print('positive')",
+  "options": [
+    "a < 0",
+    "a == 0",
+    "a > 0"
+  ],
+  "correctAnswer": [
+    "a < 0",
+    "a == 0"
+  ]
+}

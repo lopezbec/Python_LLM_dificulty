@@ -1,0 +1,17 @@
+{
+  "question": "Replace the placeholders to create an if-elif-else chain that checks if 'score' is above 80, above 60, or below 60.",
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "codeSnippet": "score = 75\nif {CONDITION1}:\n    print(\"High score\")\n{KEYWORD} {CONDITION2}:\n    print(\"Medium score\")\nelse:\n    print(\"Low score\")",
+  "dragItems": [
+    "elif",
+    "score > 80",
+    "score > 60",
+    "while"
+  ],
+  "correctAnswer": [
+    "score > 80",
+    "elif",
+    "score > 60"
+  ]
+}

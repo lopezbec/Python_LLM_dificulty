@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "What will be the output when the following code is executed?\n\nage = 20\nhas_id = False\nif age >= 18:\n    if has_id:\n        print('Entry allowed')\n    else:\n        print('No ID, entry denied')\nelse:\n    print('Too young')",
+  "options": [
+    {
+      "label": "A",
+      "text": "Entry allowed",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "No ID, entry denied",
+      "isCorrect": true
+    },
+    {
+      "label": "C",
+      "text": "Too young",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "Error",
+      "isCorrect": false
+    }
+  ]
+}

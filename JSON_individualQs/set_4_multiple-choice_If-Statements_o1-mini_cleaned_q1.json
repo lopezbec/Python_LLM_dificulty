@@ -1,0 +1,10 @@
+{
+  "question": "What is the correct syntax for a basic if statement in Python?",
+  "options": [
+    "if x = 5:",
+    "if (x == 5)",
+    "if x == 5:",
+    "if x == 5 then"
+  ],
+  "answer": "C"
+}

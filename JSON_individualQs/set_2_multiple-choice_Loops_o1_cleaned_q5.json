@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What does the built-in function enumerate() provide when used in a loop?",
+  "options": [
+    "It returns the sum of all items in an iterable",
+    "It generates random integers",
+    "It provides both index and value for each item",
+    "It creates a static list from a dynamic sequence"
+  ],
+  "correct_answer": "It provides both index and value for each item"
+}

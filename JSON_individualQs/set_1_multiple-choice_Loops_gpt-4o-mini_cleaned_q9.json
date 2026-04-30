@@ -1,0 +1,11 @@
+{
+  "question": "What happens if the condition in a while loop is always true?",
+  "options": [
+    "The loop exits immediately",
+    "The loop runs forever",
+    "The loop executes once",
+    "The loop produces an error"
+  ],
+  "correctAnswer": "The loop runs forever",
+  "difficulty": 9
+}

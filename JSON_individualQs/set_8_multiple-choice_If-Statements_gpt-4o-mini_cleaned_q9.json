@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet. What will it output? \n\n```python\ncountry = 'USA'\nif country in ['USA', 'Canada']:\n    print('North America')\nelif country in ['Brazil', 'Argentina']:\n    print('South America')\nelse:\n    print('Other')\n```",
+  "options": [
+    "North America",
+    "South America",
+    "Other",
+    "Error"
+  ],
+  "correct_answer": "North America",
+  "difficulty": 9
+}

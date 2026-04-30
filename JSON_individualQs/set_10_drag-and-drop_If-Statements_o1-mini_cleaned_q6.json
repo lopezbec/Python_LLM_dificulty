@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "question": "Order the execution flow of the following nested if statements.",
+  "dragItems": [
+    "Check if age is greater than 18",
+    "Check if has a valid ID",
+    "Allow access",
+    "Deny access"
+  ],
+  "dropZones": [
+    "First Step",
+    "Second Step",
+    "Third Step",
+    "Fourth Step"
+  ],
+  "correctAnswers": {
+    "First Step": "Check if age is greater than 18",
+    "Second Step": "Check if has a valid ID",
+    "Third Step": "Allow access",
+    "Fourth Step": "Deny access"
+  }
+}

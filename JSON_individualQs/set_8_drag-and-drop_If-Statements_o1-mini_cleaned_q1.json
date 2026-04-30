@@ -1,0 +1,16 @@
+{
+  "question": "Arrange the following parts to form a basic if-statement that prints \"Hello\" when the condition is true:",
+  "options": [
+    "if",
+    "condition",
+    ":",
+    "    print(\"Hello\")"
+  ],
+  "answer": [
+    "if",
+    "condition",
+    ":",
+    "    print(\"Hello\")"
+  ],
+  "difficulty": 1
+}

@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "\n`even_numbers = []`\n `for i in range(10):`\n`___`",
+    "if i % 2 == 0:\n even_numbers.append(i)",
+    "if i % 2 == 1:\n even_numbers.append(i)",
+    "even_numbers += i",
+    "even_numbers.append(i) if i % 2 == 0"
+  ]
+}

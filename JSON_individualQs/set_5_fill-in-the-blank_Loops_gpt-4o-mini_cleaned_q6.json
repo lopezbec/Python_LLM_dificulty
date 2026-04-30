@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The range function produces a sequence of numbers, which can be used to control a ___ loop.",
+  "answer": "for"
+}

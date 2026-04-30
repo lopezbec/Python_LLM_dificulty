@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "A ___ loop will continue to execute as long as a certain condition is True.",
+  "correct_answer": "while"
+}

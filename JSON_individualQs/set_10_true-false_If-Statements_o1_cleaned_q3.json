@@ -1,0 +1,9 @@
+{
+  "question": "Indentation is used in Python to determine the code that belongs in the if block.",
+  "difficulty": 3,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "True"
+}

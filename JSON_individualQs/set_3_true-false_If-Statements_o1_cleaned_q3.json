@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question": "Python requires a colon (:) after the if keyword in an if-statement.",
+  "correct_answer": "True"
+}

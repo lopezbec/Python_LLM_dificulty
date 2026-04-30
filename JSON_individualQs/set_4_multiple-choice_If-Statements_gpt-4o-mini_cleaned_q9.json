@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "What is the output of the following code? \n\nvalue = 'Python' \nif 'y' in value:\n    print('Found') \nelif 'o' in value:\n    print('Also Found') \nelse:\n    print('Not Found')",
+  "options": [
+    "Found",
+    "Also Found",
+    "Not Found",
+    "Error"
+  ],
+  "correct_answer": "Found"
+}

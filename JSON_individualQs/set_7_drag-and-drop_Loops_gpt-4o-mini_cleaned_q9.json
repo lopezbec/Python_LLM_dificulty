@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Drag and drop to complete the loop that flattens a list of lists:\n`flattened = []`\n`for sublist in list_of_lists:`\n `for item in ___:`\n` flattened.append(item)`",
+  "options": [
+    "sublist",
+    "list_of_lists",
+    "range(len(sublist))",
+    "[item for item in sublist]"
+  ],
+  "correctOption": "sublist"
+}

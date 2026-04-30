@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Nested 'if' statements allow deeper condition checks within the same block of code.",
+  "correct_answer": "True"
+}

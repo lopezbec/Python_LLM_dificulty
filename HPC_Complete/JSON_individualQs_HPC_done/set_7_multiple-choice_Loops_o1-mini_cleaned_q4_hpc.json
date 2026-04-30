@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for i in range(3):\n    print(i)\nelse:\n    print(\"Loop completed\")",
+        "i"
+    ]
+}

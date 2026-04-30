@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "exit",
+        "stop",
+        "break",
+        "return"
+    ]
+}

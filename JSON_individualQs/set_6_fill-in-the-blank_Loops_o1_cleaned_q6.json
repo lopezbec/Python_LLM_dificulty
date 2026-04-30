@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "When we need an iterable sequence of indices and their corresponding elements, we can use the built-in function ________ in a for loop.",
+  "correct_answer": "enumerate"
+}

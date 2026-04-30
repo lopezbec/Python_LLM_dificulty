@@ -1,0 +1,16 @@
+{
+  "difficulty": 8,
+  "description": "Fill in the blanks to check if 'password' meets two conditions: it is longer than 8 characters and contains the substring 'secure'.",
+  "code": "password = 'mysecurepassword'\nif ( len(password) ___ 8 and 'secure' ___ password ):\n    print('Valid password')",
+  "options": [
+    ">",
+    "<",
+    "==",
+    "in",
+    "not in"
+  ],
+  "correct": [
+    ">",
+    "in"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 5,
+  "type": "fill-in-the-blank",
+  "difficulty": 5,
+  "question": "A for loop is commonly used when the number of iterations is ______ in advance.",
+  "correct_answer": "known"
+}

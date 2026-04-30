@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "In Python, an if statement must be followed by a ______ to define its block.",
+  "correct_answer": "colon"
+}

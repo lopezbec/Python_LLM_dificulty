@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In a 'for' loop, the _______ function generates a sequence of numbers.",
+  "answer": "range"
+}

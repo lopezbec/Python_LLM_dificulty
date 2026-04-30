@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Arrange the lines to form a valid if-else statement that prints \"Yes\" if `a` is equal to 5, otherwise prints \"No\":",
+  "dragOptions": [
+    "print(\"Yes\")",
+    "if a == 5:",
+    "else:",
+    "print(\"No\")"
+  ],
+  "dropZones": [
+    "Line 1",
+    "Line 2",
+    "Line 3",
+    "Line 4"
+  ],
+  "correctAnswers": {
+    "Line 1": "if a == 5:",
+    "Line 2": "print(\"Yes\")",
+    "Line 3": "else:",
+    "Line 4": "print(\"No\")"
+  }
+}

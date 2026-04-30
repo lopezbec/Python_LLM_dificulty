@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code snippet:\n\nx = 4\nif x > 2:\n    if x < 5:\n        print(\"A\")\n    else:\n        print(\"B\")\nelse:\n    print(\"C\")\n\nWhat is the output when this code is executed?",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "Error"
+  ],
+  "correct_answer": "A"
+}

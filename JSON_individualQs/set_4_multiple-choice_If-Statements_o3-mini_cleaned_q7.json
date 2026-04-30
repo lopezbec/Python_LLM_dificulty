@@ -1,0 +1,11 @@
+{
+  "question": "Consider the code below. What is the output?\n\nnum = 15\nif num % 3 == 0 and num % 5 == 0:\n    print('FizzBuzz')\nelif num % 3 == 0:\n    print('Fizz')\nelif num % 5 == 0:\n    print('Buzz')\nelse:\n    print(num)",
+  "choices": [
+    "FizzBuzz",
+    "Fizz",
+    "Buzz",
+    "15"
+  ],
+  "answer": "FizzBuzz",
+  "difficulty": 7
+}

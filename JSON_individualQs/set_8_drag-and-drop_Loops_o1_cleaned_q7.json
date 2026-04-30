@@ -1,0 +1,23 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "type": "drag-and-drop",
+  "question": "Rearrange the code to implement a while loop that prints the factorial of 4 (i.e., 4 * 3 * 2 * 1).",
+  "codeBlocks": [
+    "result = 1",
+    "while n > 0:",
+    "print(result)",
+    "n = 4",
+    "result *= n",
+    "n += 1"
+  ],
+  "correctOrder": [
+    "n = 4",
+    "result = 1",
+    "while n > 0:",
+    "result *= n",
+    "n -= 1",
+    "print(result)"
+  ],
+  "explanation": "We start n at 4, multiply result by n while n > 0, decrement n, and print the final result. 'n += 1' is incorrect for calculating factorial."
+}

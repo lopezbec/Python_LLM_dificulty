@@ -1,0 +1,18 @@
+{
+  "number": 8,
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "prompt": "Drag the correct comparison and keyword into the code so that 'Open' prints only if door is 'locked' AND key is True.",
+  "code": "door = 'locked'\nkey = True\nif door __________ 'locked' __________ key:\n    print(\"Open\")",
+  "choices": [
+    "==",
+    "!=",
+    "and",
+    "or",
+    "elif"
+  ],
+  "correct_choice": [
+    "==",
+    "and"
+  ]
+}

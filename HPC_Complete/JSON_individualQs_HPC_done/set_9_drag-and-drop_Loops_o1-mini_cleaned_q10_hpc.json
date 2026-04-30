@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "while",
+        "n",
+        "current",
+        "if current % 2 == 0",
+        "yield current",
+        "current += 1",
+        "current",
+        "n",
+        "yield current",
+        "return",
+        "break"
+    ]
+}

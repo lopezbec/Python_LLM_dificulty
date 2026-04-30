@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What will be the output of this code?\n\nx = 42\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+  "choices": [
+    "Even",
+    "Odd",
+    "42",
+    "Error"
+  ],
+  "correct_answer": "Even"
+}

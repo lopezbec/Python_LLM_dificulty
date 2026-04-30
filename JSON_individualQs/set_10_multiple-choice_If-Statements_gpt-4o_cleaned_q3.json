@@ -1,0 +1,10 @@
+{
+  "question": "3. What is missing in this if statement?\n\n```python\nx = 10\nif x > 5\n    print('x is greater than 5')\n```\n",
+  "options": [
+    "A) A colon ':' after the condition",
+    "B) Nothing, it's correct",
+    "C) Parentheses around the condition",
+    "D) An equal sign '='"
+  ],
+  "answer": "A"
+}

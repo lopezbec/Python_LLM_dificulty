@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the code:\n\nnum = 10\nif num > 5:\n    if num < 15:\n        print('Within range')\n\nWhich condition must be True for 'Within range' to be printed?",
+  "answers": {
+    "A": "num > 15 only",
+    "B": "num < 5 only",
+    "C": "num > 5 and num < 15",
+    "D": "num == 10"
+  },
+  "correctAnswer": "C"
+}

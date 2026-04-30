@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the recommended method for safely iterating over and modifying a list simultaneously in Python?",
+  "options": {
+    "A": "Iterating directly over the list",
+    "B": "Using a for loop on a shallow copy of the list (e.g., my_list[:])",
+    "C": "Using a while loop without modifying the list",
+    "D": "It is not possible to modify a list while iterating over it"
+  },
+  "correct_answer": "B"
+}

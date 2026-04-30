@@ -1,0 +1,10 @@
+{
+  "difficulty": 3,
+  "question": "Drag the correct code to add a break statement that exits a loop if 'y' is less than 10.",
+  "options": [
+    "if y < 10: break",
+    "if y > 10: break",
+    "if y == 10: break"
+  ],
+  "answer": "if y < 10: break"
+}

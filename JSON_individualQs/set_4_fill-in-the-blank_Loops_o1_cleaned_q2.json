@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "To iterate over elements of a list, the ______ loop is commonly used in Python.",
+  "correct_answer": "for"
+}

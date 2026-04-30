@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (state == 'on') { print('Light is on'); } else if (state == 'off') { ____ } else { print('Unknown state'); }",
+        "print('Light is off');",
+        "raise Error;",
+        "print('State is not valid');"
+    ]
+}

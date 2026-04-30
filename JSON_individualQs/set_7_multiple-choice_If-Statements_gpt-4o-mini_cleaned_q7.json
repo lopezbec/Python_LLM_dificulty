@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What will be the result of this code? \n\nnum = 15\nif num % 2 == 0:\n    print('Even')\nelif num % 3 == 0:\n    print('Divisible by 3')\nelse:\n    print('Odd')",
+  "options": [
+    "Even",
+    "Divisible by 3",
+    "Odd",
+    "Error"
+  ],
+  "correct_answer": "Odd"
+}

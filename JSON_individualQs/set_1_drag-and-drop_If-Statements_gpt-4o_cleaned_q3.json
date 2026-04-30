@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the if-else statement that prints 'Positive' if the number is greater than zero, otherwise 'Non-positive'.",
+  "code": "if <blank>:\n    print('Positive')\nelse:\n    <blank>",
+  "options": [
+    "number > 0",
+    "print('Non-positive')",
+    "number == 0"
+  ]
+}

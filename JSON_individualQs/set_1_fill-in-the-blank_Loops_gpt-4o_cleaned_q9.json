@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "The control structure '______ else' can be used to execute code after a loop finishes without a 'break'.",
+  "answer": "for/while"
+}

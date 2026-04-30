@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "____ True:\n    print('Looping')",
+        "while",
+        "if",
+        "for",
+        "def"
+    ]
+}

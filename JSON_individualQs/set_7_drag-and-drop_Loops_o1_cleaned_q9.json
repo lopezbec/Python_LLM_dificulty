@@ -1,0 +1,19 @@
+{
+  "question": "Drag the snippets to construct a nested loop that prints a pattern of stars using two ranges of different lengths.",
+  "difficulty": 9,
+  "instruction": "Build a nested loop where the outer loop runs 3 times and the inner loop runs 2 times for each outer iteration, printing '*' each time.",
+  "options": [
+    "for j in range(2):",
+    "    ",
+    "print('*', end=' ')",
+    "for i in range(3):",
+    "    "
+  ],
+  "correct_order": [
+    "for i in range(3):",
+    "    ",
+    "for j in range(2):",
+    "    ",
+    "print('*', end=' ')"
+  ]
+}

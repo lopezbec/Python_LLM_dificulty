@@ -1,0 +1,20 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "question": "Rearrange the lines to build a nested for-loop that prints (i, j) for i in range(2) and j in range(2), but skips printing if j equals i.",
+  "dragItems": [
+    "for j in range(2):",
+    "if j == i:",
+    "print(i, j)",
+    "for i in range(2):",
+    "continue"
+  ],
+  "correctOrder": [
+    "for i in range(2):",
+    "for j in range(2):",
+    "if j == i:",
+    "continue",
+    "print(i, j)"
+  ],
+  "explanation": "Start with outer loop for i, inner loop for j, check if j == i, then continue (skip printing), else print the pair."
+}

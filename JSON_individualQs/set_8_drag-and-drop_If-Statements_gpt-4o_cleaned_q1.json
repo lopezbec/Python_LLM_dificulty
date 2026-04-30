@@ -1,0 +1,13 @@
+{
+  "question": "Drag and drop to complete the if-statement: \n\nIf the variable `x` is less than 5, print `x is small`.",
+  "difficulty": 1,
+  "snippet": "if ___:\n    print('x is small')",
+  "options": [
+    "x < 5",
+    "x > 5",
+    "x == 5"
+  ],
+  "correctAnswer": [
+    "x < 5"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "num",
+        "if num > 0:",
+        "___ num % 2 == 0:",
+        "print(\"Positive even number\")"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "walrus operator",
+        "if ______:",
+        "print(\"You typed:\", user_input)",
+        "(user_input := input('Type something: '))"
+    ]
+}

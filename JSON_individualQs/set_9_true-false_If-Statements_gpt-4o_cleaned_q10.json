@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the scoping of variables declared inside an if block is global to the whole function or script.",
+  "answer": true,
+  "difficulty": 10
+}

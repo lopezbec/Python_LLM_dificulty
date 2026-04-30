@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the `for` loop components in the correct order.",
+  "options": [
+    "defining the range: `range(5)`",
+    "iterating variable: `for i in`",
+    "loop body: `print(i)`"
+  ],
+  "correct_order": [
+    1,
+    0,
+    2
+  ]
+}

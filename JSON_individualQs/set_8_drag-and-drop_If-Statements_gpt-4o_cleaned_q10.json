@@ -1,0 +1,14 @@
+{
+  "question": "Complete the if-statement to recursively determine if a string is a palindrome.",
+  "difficulty": 10,
+  "snippet": "def is_palindrome(s):\n    if len(s) <= 1:\n        return True\n    elif ___ and ___:\n        return is_palindrome(s[1:-1])\n    else:\n        return False",
+  "options": [
+    "s[0] == s[-1]",
+    "s[1:] == s[:-1]",
+    "s != s[::-1]"
+  ],
+  "correctAnswer": [
+    "s[0] == s[-1]",
+    "s != s[::-1]"
+  ]
+}

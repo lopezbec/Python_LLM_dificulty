@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank to check if x is not equal to 0:\n\nif x _____ 0:\n    print(\"x is nonzero\")",
+  "answer": "!="
+}

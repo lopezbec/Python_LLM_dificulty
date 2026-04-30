@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if True:\n    print('Hello')\nelse:\n    print('Goodbye')",
+        "Hello",
+        "Goodbye",
+        "None",
+        "Error"
+    ]
+}

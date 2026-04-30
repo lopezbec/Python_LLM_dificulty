@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 5",
+        "if x > 0:",
+        "if x < 10:",
+        "print('Small positive number')",
+        "else:",
+        "print('Large positive number')",
+        "else:",
+        "print('Non-positive number')",
+        "x = 5"
+    ]
+}

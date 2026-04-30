@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (temperature > 30) { print('Hot'); } ______ { print('Cold'); } else { print('Temperate'); }",
+        "if (temperature <= 0)",
+        "else",
+        "if (temperature < 20)",
+        "if (temperature == 30)"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In the following code, how many iterations will the loop run?\n\ncount = 0\nwhile count < 10:\n    count += 2\n",
+  "options": [
+    "5 iterations",
+    "10 iterations",
+    "9 iterations",
+    "4 iterations"
+  ],
+  "answer": "5 iterations"
+}

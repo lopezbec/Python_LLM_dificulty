@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Drag the correct built-in function so the loop also captures the index of each fruit.",
+  "codeSnippet": "fruits = ['apple', 'banana', 'cherry']\nfor index, fruit in _____(fruits):\n    print(index, fruit)",
+  "options": [
+    "enumerate",
+    "reversed",
+    "zip"
+  ],
+  "correctAnswer": "enumerate"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: In a while loop, the statement __ is used to immediately exit the loop.",
+  "answer": "break"
+}

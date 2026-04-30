@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: To iterate over a sequence in reverse order using a for loop, you can use the __ function.",
+  "answer": "reversed"
+}

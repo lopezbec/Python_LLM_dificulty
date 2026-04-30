@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Nested loops can lead to higher time complexity, often resulting in O(n\u00b2) or worse.",
+  "answer": "True"
+}

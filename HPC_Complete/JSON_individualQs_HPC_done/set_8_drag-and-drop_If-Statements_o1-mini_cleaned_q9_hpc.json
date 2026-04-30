@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for item in items:",
+        "if item == target:",
+        "print(\"Target found\")",
+        "break",
+        "else:",
+        "print(\"Searching...\")"
+    ]
+}

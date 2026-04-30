@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "The 'elif' keyword can be used multiple times in a single if-elif-else structure in Python.",
+  "correct_answer": "True"
+}

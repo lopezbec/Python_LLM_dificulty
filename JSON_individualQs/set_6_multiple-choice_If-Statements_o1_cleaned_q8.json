@@ -1,0 +1,11 @@
+{
+  "question": "8) Which statement is true about short-circuit evaluation with the 'and' operator in Python if-statements?",
+  "difficulty": 8,
+  "answers": [
+    "With 'and', Python always evaluates both expressions.",
+    "With 'or', Python always evaluates both expressions.",
+    "With 'and', Python evaluates the first expression; if it's false, it doesn't evaluate the second.",
+    "Short-circuit evaluation doesn't apply in Python."
+  ],
+  "correct_answer": "With 'and', Python evaluates the first expression; if it's false, it doesn't evaluate the second."
+}

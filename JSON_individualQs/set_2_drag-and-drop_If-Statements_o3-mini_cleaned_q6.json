@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Arrange these lines to form a nested if statement that checks whether x is positive and then whether it's even or odd.",
+  "instruction": "Drop each code line into the correct sequence to complete the nested structure.",
+  "draggable_items": [
+    "    if x % 2 == 0:",
+    "if x > 0:",
+    "        print('Positive odd')",
+    "    else:",
+    "        print('Positive even')"
+  ],
+  "correct_order": [
+    "if x > 0:",
+    "    if x % 2 == 0:",
+    "        print('Positive even')",
+    "    else:",
+    "        print('Positive odd')"
+  ]
+}

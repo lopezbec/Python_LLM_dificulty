@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "numbers = [3, 5, 7]",
+        "for num in numbers:",
+        "if num % 2 == 0:",
+        "print('Even number found:', num)",
+        "break",
+        "else:",
+        "print('No even number found')",
+        "No even number found",
+        "SyntaxError: else must not follow a 'for'"
+    ]
+}

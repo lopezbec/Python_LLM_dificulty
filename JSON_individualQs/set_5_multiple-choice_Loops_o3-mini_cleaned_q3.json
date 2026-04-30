@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which loop is best used when you need to execute a set of statements repeatedly until a specified condition becomes False?",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "if",
+    "D": "repeat-until"
+  },
+  "correct_answer": "B"
+}

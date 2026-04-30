@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which loop will iterate over each element in a list named 'fruits'?",
+  "options": [
+    "A) for fruit in fruits:",
+    "B) while fruit in fruits:",
+    "C) for i = 0; i < fruits.length; i++",
+    "D) repeat fruits"
+  ],
+  "answer": "A"
+}

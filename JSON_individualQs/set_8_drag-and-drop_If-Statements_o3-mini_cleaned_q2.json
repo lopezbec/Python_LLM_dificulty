@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Drag and drop the correct comparison operator to check for equality in the if-statement.",
+  "code_snippet": "if x ___ 10:\n    print('x is ten')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "=="
+    }
+  ],
+  "choices": [
+    "==",
+    "=",
+    "!=",
+    ">"
+  ]
+}

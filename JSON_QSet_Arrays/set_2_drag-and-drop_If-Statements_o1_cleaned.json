@@ -1,0 +1,226 @@
+[
+  {
+    "questionNumber": 1,
+    "difficulty": 1,
+    "questionText": "Drag the correct parts into the blanks so that the code prints 'Positive' if x is greater than 0.",
+    "incompleteCode": "[Zone1] x [Zone2] 0 [Zone3]\n    print(\"Positive\")",
+    "dragItems": [
+      "if",
+      ">",
+      ":"
+    ],
+    "correctAnswer": [
+      "if",
+      ">",
+      ":"
+    ],
+    "explanation": "The if keyword initiates the condition, the '>' operator checks if x is greater than 0, and the colon ends the if statement."
+  },
+  {
+    "questionNumber": 2,
+    "difficulty": 2,
+    "questionText": "Complete the if-else statement so it prints 'Positive' if x is at least 0, otherwise prints 'Negative'.",
+    "incompleteCode": "[Zone1] x [Zone2] 0 [Zone3]\n    print(\"Positive\")\n[Zone4]\n    print(\"Negative\")",
+    "dragItems": [
+      "if",
+      ">=",
+      ":",
+      "else:"
+    ],
+    "correctAnswer": [
+      "if",
+      ">=",
+      ":",
+      "else:"
+    ],
+    "explanation": "Use if x >= 0: for non-negative values, and else: for the negative case."
+  },
+  {
+    "questionNumber": 3,
+    "difficulty": 3,
+    "questionText": "Fill in the blanks to print 'High' if x is greater than 100, 'Medium' if exactly 100, otherwise 'Low'.",
+    "incompleteCode": "[Zone1] x [Zone2] 100 [Zone3]\n    print(\"High\")\n[Zone4] x [Zone5] 100 [Zone6]\n    print(\"Medium\")\n[Zone7]:\n    print(\"Low\")",
+    "dragItems": [
+      "if",
+      "elif",
+      "==",
+      ">",
+      ":",
+      ":"
+    ],
+    "correctAnswer": [
+      "if",
+      ">",
+      ":",
+      "elif",
+      "==",
+      ":",
+      "else"
+    ],
+    "explanation": "The if statement checks if x is greater than 100, the elif checks for equality, and else covers all other cases."
+  },
+  {
+    "questionNumber": 4,
+    "difficulty": 4,
+    "questionText": "Drag and drop the parts to form a correct nested if statement that prints 'Player has a sword' only if has_weapon is True and weapon_type is 'sword'.",
+    "incompleteCode": "[Zone1] has_weapon [Zone2] True [Zone3]\n    [Zone4] weapon_type [Zone5] 'sword' [Zone6]\n        print(\"Player has a sword\")",
+    "dragItems": [
+      "if",
+      "if",
+      "==",
+      ":",
+      "==",
+      ":"
+    ],
+    "correctAnswer": [
+      "if",
+      "==",
+      ":",
+      "if",
+      "==",
+      ":"
+    ],
+    "explanation": "First if checks if has_weapon is True; nested if checks if weapon_type is 'sword'."
+  },
+  {
+    "questionNumber": 5,
+    "difficulty": 5,
+    "questionText": "Complete the code to check if score is 90 or above for 'A', between 80 and 89 for 'B', or below 80 for 'C'.",
+    "incompleteCode": "[Zone1] score [Zone2] 90 [Zone3]\n    grade = 'A'\n[Zone4] score [Zone5] 80 [Zone6] score [Zone7] 89 [Zone8]\n    grade = 'B'\n[Zone9]:\n    grade = 'C'",
+    "dragItems": [
+      "if",
+      ">=",
+      ":",
+      "elif",
+      ">=",
+      "<=",
+      ":",
+      "else"
+    ],
+    "correctAnswer": [
+      "if",
+      ">=",
+      ":",
+      "elif",
+      ">=",
+      "<=",
+      ":",
+      "else"
+    ],
+    "explanation": "Use if score >= 90: for 'A', elif 80 <= score <= 89: for 'B', else: for 'C'."
+  },
+  {
+    "questionNumber": 6,
+    "difficulty": 6,
+    "questionText": "Drag the pieces to check if a user is logged in and has admin access; if only logged in, print 'Welcome User', if admin, print 'Welcome Admin', otherwise 'Please log in'.",
+    "incompleteCode": "[Zone1] is_logged_in [Zone2] True [Zone3]\n    [Zone4] is_admin [Zone5] True [Zone6]\n        print(\"Welcome Admin\")\n    [Zone7]:\n        print(\"Welcome User\")\n[Zone8]:\n    print(\"Please log in\")",
+    "dragItems": [
+      "if",
+      "==",
+      ":",
+      "if",
+      "==",
+      ":",
+      "else",
+      "else:"
+    ],
+    "correctAnswer": [
+      "if",
+      "==",
+      ":",
+      "if",
+      "==",
+      ":",
+      "else",
+      "else:"
+    ],
+    "explanation": "First if checks if the user is logged in; inside that, a second if checks admin status, or else welcomes a regular user; the outer else covers not logged in."
+  },
+  {
+    "questionNumber": 7,
+    "difficulty": 7,
+    "questionText": "Rearrange the lines to create a valid sequence that prints 'Discount applied!' only if 'customer_type' is 'member' and 'total_purchase' exceeds 50.",
+    "incompleteCode": "1) print(\"Discount applied!\")\n2) if total_purchase > 50:\n3) if customer_type == 'member':\n4) :\n",
+    "dragItems": [
+      "if customer_type == 'member':",
+      "if total_purchase > 50:",
+      "print(\"Discount applied!\")",
+      "    "
+    ],
+    "correctAnswer": [
+      "if customer_type == 'member':",
+      "    if total_purchase > 50:",
+      "        print(\"Discount applied!\")"
+    ],
+    "explanation": "The outer if checks if customer_type is 'member', and inside that block, another if checks if total_purchase > 50."
+  },
+  {
+    "questionNumber": 8,
+    "difficulty": 8,
+    "questionText": "Complete this snippet to validate a user's input is between 1 and 10 inclusive. If valid, print 'Valid input', otherwise 'Invalid input'.",
+    "incompleteCode": "[Zone1] 1 [Zone2] user_input [Zone3] 10 [Zone4]\n    print(\"Valid input\")\n[Zone5]:\n    print(\"Invalid input\")",
+    "dragItems": [
+      "if",
+      "<=",
+      "<=",
+      ":",
+      "else:"
+    ],
+    "correctAnswer": [
+      "if",
+      "<=",
+      "<=",
+      ":",
+      "else:"
+    ],
+    "explanation": "We use if 1 <= user_input <= 10: to ensure it's in the range, otherwise else: is for invalid."
+  },
+  {
+    "questionNumber": 9,
+    "difficulty": 9,
+    "questionText": "Drag the components to create a conditional that displays 'Access Granted' only if BOTH conditions in required_flags are True.",
+    "incompleteCode": "required_flags = [True, True]\n[Zone1] required_flags[0] [Zone2] True [Zone3] required_flags[1] [Zone4] True [Zone5]\n    print(\"Access Granted\")\n[Zone6]:\n    print(\"Access Denied\")",
+    "dragItems": [
+      "if",
+      "and",
+      "==",
+      "==",
+      ":",
+      "else:"
+    ],
+    "correctAnswer": [
+      "if",
+      "==",
+      "and",
+      "==",
+      ":",
+      "else:"
+    ],
+    "explanation": "We check if the first flag is True and the second flag is True simultaneously using and."
+  },
+  {
+    "questionNumber": 10,
+    "difficulty": 10,
+    "questionText": "Arrange these lines to create a nested if-elif-else structure that checks for multiple nested conditions. Print 'VIP' if user_type is 'member' and loyalty_points > 1000, 'Member' if user_type is 'member' but fewer points, 'Guest' otherwise.",
+    "incompleteCode": "1) elif loyalty_points > 1000:\n2) print(\"VIP\")\n3) if user_type == 'member':\n4) print(\"Member\")\n5) else:\n6) else:\n7) print(\"Guest\")\n",
+    "dragItems": [
+      "if user_type == 'member':",
+      "elif loyalty_points > 1000:",
+      "print(\"VIP\")",
+      "print(\"Member\")",
+      "else:",
+      "else:",
+      "print(\"Guest\")"
+    ],
+    "correctAnswer": [
+      "if user_type == 'member':",
+      "    if loyalty_points > 1000:",
+      "        print(\"VIP\")",
+      "    else:",
+      "        print(\"Member\")",
+      "else:",
+      "    print(\"Guest\")"
+    ],
+    "explanation": "First, check if user_type is 'member'. Inside that block, check loyalty_points > 1000 for a VIP or else 'Member'. Outside that block, print 'Guest'."
+  }
+]

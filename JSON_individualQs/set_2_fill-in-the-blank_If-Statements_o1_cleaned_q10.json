@@ -1,0 +1,6 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank to check if result is either greater than 100 or less than -100:\n\nif ______:\n    print('Out of range')",
+  "correct_answer": "result > 100 or result < -100"
+}

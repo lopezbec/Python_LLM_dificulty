@@ -1,0 +1,18 @@
+{
+  "difficulty": 6,
+  "question": "Complete the nested if-statements by filling each blank with the correct keyword.\n\n_____ x > 0:\n    _____ y < 5:\n         print('Both conditions are true')",
+  "blanks": [
+    "Blank1",
+    "Blank2"
+  ],
+  "drag_items": [
+    "if",
+    "for",
+    "elif",
+    "while"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": "if"
+  }
+}

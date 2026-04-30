@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "numbers = [1, 2, 3, 4]",
+        "for index, value in enumerate(numbers):",
+        "if value == 3:",
+        "continue",
+        "print(f\"Index: {index}, Value: {value}\")"
+    ]
+}

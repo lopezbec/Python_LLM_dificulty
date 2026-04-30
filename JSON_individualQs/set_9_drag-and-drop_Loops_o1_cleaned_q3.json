@@ -1,0 +1,16 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "question": "Rearrange the following lines to form a valid for-loop that prints the numbers 1 through 3, then prints 'Done'. Drag each line into its correct order.",
+  "dragItems": [
+    "print('Done')",
+    "for i in range(1, 4):",
+    "print(i)"
+  ],
+  "correctOrder": [
+    "for i in range(1, 4):",
+    "print(i)",
+    "print('Done')"
+  ],
+  "explanation": "You must declare the for-loop, then print each iteration, followed by a final print statement outside the loop."
+}

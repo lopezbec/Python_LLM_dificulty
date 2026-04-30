@@ -1,0 +1,26 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "question": "Reorder the following lines to form a complete code snippet that counts down from 5 to 1 using a while loop. Drag the correct line into each drop zone.",
+  "codeSnippet": "Drop Zone 1:\n_____ \nDrop Zone 2:\n_____ \nDrop Zone 3:\n_____ \nDrop Zone 4:\n_____",
+  "dragItems": [
+    "i = 5",
+    "while i > 0:",
+    "    print(i)",
+    "    i -= 1",
+    "print('Done')"
+  ],
+  "dropTargets": [
+    "line1",
+    "line2",
+    "line3",
+    "line4"
+  ],
+  "correctMap": {
+    "line1": "i = 5",
+    "line2": "while i > 0:",
+    "line3": "    print(i)",
+    "line4": "    i -= 1"
+  }
+}

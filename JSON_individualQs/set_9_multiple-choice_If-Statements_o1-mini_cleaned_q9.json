@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following is a correct way to use an if statement with a list in Python to check if the list is empty?",
+  "options": {
+    "A": "if my_list == []:",
+    "B": "if not my_list:",
+    "C": "if len(my_list) == 0:",
+    "D": "All of the above"
+  },
+  "answer": "D"
+}

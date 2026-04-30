@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "question": "Fill in the blank to complete the if-else statement:\n\nif score >= 60:\n    result = 'Pass'\nelse:\n    result ___ 'Fail'",
+  "answer": "=",
+  "difficulty": 3
+}

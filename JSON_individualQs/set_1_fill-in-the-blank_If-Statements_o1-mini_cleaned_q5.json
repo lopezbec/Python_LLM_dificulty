@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to create a nested if-statement that checks if 'num' is positive and even:\n\nnum = 4\nif num > 0:\n    ___ num % 2 == 0:\n        print(\"Positive and Even\")",
+  "answer": "if",
+  "difficulty": 5,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

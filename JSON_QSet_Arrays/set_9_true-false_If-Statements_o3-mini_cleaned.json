@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if statement executes its indented block only when the condition evaluates to True.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "The else block in an if statement is optional in Python.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 3,
+    "question": "Python requires parentheses around the condition in an if statement.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 4,
+    "question": "In an if statement, the equality operator '==' can be replaced by '=' to check for equality.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 5,
+    "question": "If a Python if statement does not include an indented block after the condition, it results in an IndentationError.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "In a nested if statement, the inner if condition is evaluated only if the outer if condition is True.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "A one-line if statement like 'if x > 0: print(\"Positive\")' is valid in Python.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "When using multiple separate if statements (not chained with elif), if more than one condition is True, only the first block will execute.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "Python's if statements support compound conditions using logical operators such as 'and' and 'or'.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "In an if statement, the expression 'a and b or c' is evaluated as ((a and b) or c) due to the operator precedence in Python.",
+    "answer": "True"
+  }
+]

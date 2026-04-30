@@ -1,0 +1,11 @@
+{
+  "question": "10. Analyze the following code:\n\n   ```python\n   def check_value(val):\n       if val % 2 == 0:\n           if val % 3 == 0:\n               return \"Divisible by 6\"\n           else:\n               return \"Divisible by 2\"\n       else:\n           return \"Not Divisible by 2\"\n   ```\n   What will `check_value(9)` return?",
+  "options": {
+    "a": "Divisible by 6",
+    "b": "Divisible by 2",
+    "c": "Not Divisible by 2",
+    "d": "Undefined behavior"
+  },
+  "correct_answer": "c",
+  "difficulty": 10
+}

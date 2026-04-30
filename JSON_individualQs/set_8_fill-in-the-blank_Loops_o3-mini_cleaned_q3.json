@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: The loop that continues as long as a condition remains True is called a ______ loop.",
+  "correct_answer": "while"
+}

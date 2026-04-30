@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "age = 18",
+        "if age < 18:",
+        "print('Minor')",
+        "elif age == 18:",
+        "print('Just an adult')",
+        "else:",
+        "print('Adult')",
+        "Minor",
+        "Just an adult",
+        "Adult",
+        "No output"
+    ]
+}

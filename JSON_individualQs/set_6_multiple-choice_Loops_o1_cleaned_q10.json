@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following creates an intentional infinite loop using a while statement in Python?",
+  "options": [
+    "while True:",
+    "while 1 > 2:",
+    "while False:",
+    "while 1 < 2:"
+  ],
+  "correct_answer": "while True:"
+}

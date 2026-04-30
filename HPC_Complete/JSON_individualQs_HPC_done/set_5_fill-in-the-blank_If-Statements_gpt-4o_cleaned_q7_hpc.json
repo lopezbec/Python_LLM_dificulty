@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "print('Hello') if name is not None _____ name is None",
+        "name"
+    ]
+}

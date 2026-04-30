@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "x = 20; if x < 15: print(1) elif x < 25: print(2) else: print(3)",
+        "if x < 15: print(1) elif x < 25: print(2) else: print(3)"
+    ]
+}

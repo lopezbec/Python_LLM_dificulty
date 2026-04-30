@@ -1,0 +1,6 @@
+{
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to use a ternary conditional operator in Python:\n\nresult = \"Adult\" ___ age >= 18 ___ \"Minor\"",
+  "answer": "if"
+}

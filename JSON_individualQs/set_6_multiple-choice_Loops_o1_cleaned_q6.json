@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "What does the following loop print?\n\nfor i in range(2, 6):\n    print(i)",
+  "options": [
+    "2, 3, 4, 5",
+    "2, 3, 4, 5, 6",
+    "0, 1, 2, 3",
+    "2, 3, 4"
+  ],
+  "correct_answer": "2, 3, 4, 5"
+}

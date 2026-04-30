@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "x = 'Python'",
+        "if x == 'Python' and len(x) > 5:",
+        "print('Correct')",
+        "print('Incorrect')",
+        "Correct",
+        "Incorrect",
+        "Error",
+        "None"
+    ]
+}

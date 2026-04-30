@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "questionType": "drag-and-drop",
+  "question": "Complete the if-else logic to print 'Even' if x is divisible by 2, otherwise print 'Odd'.",
+  "codeSnippet": "x = 5\nif x % 2 == 0:\n    print(___)\n___:\n    print(___)",
+  "draggables": [
+    "Even",
+    "Odd",
+    "while",
+    "else"
+  ],
+  "correctDrops": [
+    "Even",
+    "else",
+    "Odd"
+  ],
+  "explanation": "When x % 2 == 0 the program should print 'Even'. Otherwise 'else' is used to print 'Odd'."
+}

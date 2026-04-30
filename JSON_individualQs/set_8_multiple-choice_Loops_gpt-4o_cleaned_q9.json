@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "If the range function range(start, stop, step) is used inside a 'for' loop, what will happen if 'step' is set to 0?",
+  "options": [
+    "A) The loop will run backwards.",
+    "B) The loop will not run.",
+    "C) A ValueError will occur.",
+    "D) The loop will run indefinitely."
+  ],
+  "correct_answer": "C"
+}

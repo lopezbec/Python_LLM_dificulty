@@ -1,0 +1,6 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question_text": "Complete the condition to check if the variable status is equal to 'active': if status ______ 'active': print(\"Status is active\")",
+  "correct_answer": "=="
+}

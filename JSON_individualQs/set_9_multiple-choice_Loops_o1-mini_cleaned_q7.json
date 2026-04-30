@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following list comprehensions correctly creates a list of squares from 0 to 9?",
+  "options": [
+    "[x^2 for x in range(10)]",
+    "[x**2 for x in range(10)]",
+    "[pow(x, 2) for x in range(10)]",
+    "Both B and C"
+  ],
+  "answer": "Both B and C",
+  "difficulty": 7
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Identify the error in the following code snippet:\n\nif x = 10:\n    print(\"x is 10\")\nelse:\n    print(\"x is not 10\")",
+  "options": [
+    "Using assignment operator instead of equality operator in the if condition.",
+    "Missing colon after else.",
+    "Indentation error.",
+    "Using a relational comparison between x and 10 is not allowed."
+  ],
+  "correct_answer": "Using assignment operator instead of equality operator in the if condition."
+}

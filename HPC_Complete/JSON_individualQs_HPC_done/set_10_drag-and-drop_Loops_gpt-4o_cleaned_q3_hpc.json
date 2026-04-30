@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "list = [1, 2, 3]",
+        "for element in ___ :",
+        "print(element)",
+        "list",
+        "range",
+        "string",
+        "object"
+    ]
+}

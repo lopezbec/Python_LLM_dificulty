@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "topic": "Loops",
+  "question": "Arrange the following `while` loop components in the correct sequence.",
+  "drag_items": [
+    "while condition:",
+    "    # loop body",
+    "    statement"
+  ],
+  "drop_zones": [
+    "Loop declaration",
+    "Loop body comment",
+    "Loop statement"
+  ],
+  "instructions": "Drag the components to their respective parts of the loop."
+}

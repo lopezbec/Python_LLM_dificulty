@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the loop with a conditional statement to print only even numbers from 1 to 5.",
+  "options": [
+    "for num in range(1, 6):",
+    "if num % 2 == 0:",
+    "print(num)"
+  ],
+  "correct_order": [
+    0,
+    1,
+    2
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Identify the correct syntax for a while loop that prints \"Hello\" repeatedly until a condition becomes False.",
+  "options": {
+    "A": "while True: print(\"Hello\")",
+    "B": "while (True) print(\"Hello\")",
+    "C": "while True { print(\"Hello\") }",
+    "D": "loop True: print(\"Hello\")"
+  },
+  "correct_answer": "A"
+}

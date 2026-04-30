@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "An infinite 'while' loop without a proper exit condition can cause a program to hang or crash.",
+  "correct_answer": "True"
+}

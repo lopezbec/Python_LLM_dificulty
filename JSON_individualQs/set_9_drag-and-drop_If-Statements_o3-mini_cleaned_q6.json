@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question_type": "drag-and-drop",
+  "question_text": "Fill in the blanks to complete the if-statement with a compound condition that checks if 'height' is at least 150 and 'weight' is at least 50:\n[BLANK1] height [BLANK2] 150 [BLANK3] weight [BLANK4] 50:\n    print('Eligible')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to start an if-statement",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to check if height is greater than or equal to 150",
+      "correct_answer": ">="
+    },
+    {
+      "id": "BLANK3",
+      "description": "Logical operator to combine conditions",
+      "correct_answer": "and"
+    },
+    {
+      "id": "BLANK4",
+      "description": "Operator to check if weight is greater than or equal to 50",
+      "correct_answer": ">="
+    }
+  ],
+  "options": [
+    "if",
+    ">=",
+    "and",
+    "<",
+    "or"
+  ]
+}

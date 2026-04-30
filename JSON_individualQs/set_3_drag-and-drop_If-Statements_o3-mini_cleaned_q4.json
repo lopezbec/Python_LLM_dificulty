@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Insert the missing punctuation to complete the if-statement:\n\nif y < 20___\n    print('Less than 20')",
+  "dragItems": [
+    ":",
+    ";",
+    ","
+  ],
+  "dropZones": {
+    "punctuation": "Drop the punctuation symbol here"
+  },
+  "correctMapping": {
+    "punctuation": ":"
+  }
+}

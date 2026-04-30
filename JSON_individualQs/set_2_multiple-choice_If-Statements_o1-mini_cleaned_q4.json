@@ -1,0 +1,11 @@
+{
+  "question": "How do you add an alternative condition to an if statement?",
+  "options": {
+    "A": "Using the `else` keyword",
+    "B": "Using the `elif` keyword",
+    "C": "Using the `otherwise` keyword",
+    "D": "Using the `alternative` keyword"
+  },
+  "answer": "B",
+  "difficulty": 4
+}

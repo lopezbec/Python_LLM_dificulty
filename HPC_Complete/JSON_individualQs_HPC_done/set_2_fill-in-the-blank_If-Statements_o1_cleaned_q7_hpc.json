@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "If x > 10, print 'Big'; otherwise, if x == 10, print 'Equal'; else print 'Small'",
+        "if x > 10:",
+        "print('Big')",
+        "______ x == 10:",
+        "print('Equal')",
+        "else:",
+        "print('Small')",
+        "x > 10",
+        "x == 10"
+    ]
+}

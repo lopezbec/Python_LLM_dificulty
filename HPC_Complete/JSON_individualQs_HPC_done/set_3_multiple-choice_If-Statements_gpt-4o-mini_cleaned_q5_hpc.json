@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "x = 8",
+        "if x < 5:",
+        "print('Hello')",
+        "elif x == 8:",
+        "print('World')",
+        "else:",
+        "print('Test')",
+        "x < 5",
+        "x == 8",
+        "x > 10",
+        "x == 0"
+    ]
+}

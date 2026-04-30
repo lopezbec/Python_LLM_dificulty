@@ -1,0 +1,20 @@
+{
+    "HPC": [
+        "def loop_example(n):",
+        "i = 0",
+        "while i < n:",
+        "try:",
+        "if i == 2:",
+        "raise ValueError",
+        "print(i)",
+        "except ValueError:",
+        "print('Error caught')",
+        "finally:",
+        "i += 1",
+        "loop_example(4)",
+        "0, 1, 'Error caught', 3",
+        "0, 1, 2, 3",
+        "0, 1, 'Error caught', 'Error caught'",
+        "0, 'Error caught', 2, 3"
+    ]
+}

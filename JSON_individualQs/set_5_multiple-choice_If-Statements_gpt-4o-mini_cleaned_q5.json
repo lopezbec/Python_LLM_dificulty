@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code:\nif a < b:\n    answer = 'A is less than B'\nelse:\n    answer = 'A is not less than B'\nWhat would 'answer' be if a = 5 and b = 10?",
+  "options": {
+    "A": "A is less than B",
+    "B": "A is greater than B",
+    "C": "A is equal to B",
+    "D": "Nothing will be assigned"
+  },
+  "correct_answer": "A"
+}

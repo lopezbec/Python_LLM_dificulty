@@ -1,0 +1,23 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "questionText": "Drag the correct range parameters and print statement to create a for loop that prints 0, 1, 2:",
+  "codeSnippet": [
+    "for i in [RANGE_PLACEHOLDER]:",
+    "    [PRINT_PLACEHOLDER]"
+  ],
+  "dragItems": [
+    "range(3)",
+    "range(4, 7)",
+    "print(i)",
+    "print(i + 3)"
+  ],
+  "dropSlots": [
+    "RANGE_PLACEHOLDER",
+    "PRINT_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "RANGE_PLACEHOLDER": "range(3)",
+    "PRINT_PLACEHOLDER": "print(i)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question_text": "Rearrange these lines to form nested loops that print all (x, y) pairs for x, y in range(2).",
+  "choices": [
+    "for y in range(2):",
+    "for x in range(2):",
+    "print(x, y)"
+  ],
+  "correct_order": [
+    2,
+    1,
+    3
+  ]
+}

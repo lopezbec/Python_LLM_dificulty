@@ -1,0 +1,10 @@
+{
+  "difficulty": 7,
+  "question": "Drag the correct code snippet to create a loop that iterates over a list and modifies its elements in place.",
+  "options": [
+    "for i in range(len(my_list)):\n    my_list[i] *= 2",
+    "for i in my_list:\n    my_list[i] *= 2",
+    "for i in my_list:\n    my_list[i] = my_list[i] * 2"
+  ],
+  "answer": "for i in range(len(my_list)):\n    my_list[i] *= 2"
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "question_id": 1,
+    "difficulty": 1,
+    "question_text": "Drag and drop the correct built-in function to complete the code that prints numbers from 0 to 4 using a for loop.",
+    "code_snippet": "for i in ____(0, 5):\n    print(i)",
+    "draggable_items": {
+      "blank1": [
+        "range",
+        "list",
+        "enumerate",
+        "loop"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "range"
+    }
+  },
+  {
+    "question_id": 2,
+    "difficulty": 2,
+    "question_text": "Drag and drop the correct keyword to create an infinite loop that prints \"Looping\" repeatedly.",
+    "code_snippet": "____ True:\n    print('Looping')",
+    "draggable_items": {
+      "blank1": [
+        "while",
+        "if",
+        "for",
+        "def"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "while"
+    }
+  },
+  {
+    "question_id": 3,
+    "difficulty": 3,
+    "question_text": "Complete the while loop by dragging the correct operator that decrements the variable until 0.",
+    "code_snippet": "count = 5\nwhile count > 0:\n    print(count)\n    count ____ 1",
+    "draggable_items": {
+      "blank1": [
+        "-=",
+        "==",
+        "=",
+        "+="
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "-="
+    }
+  },
+  {
+    "question_id": 4,
+    "difficulty": 4,
+    "question_text": "Drag and drop the correct variable to iterate over a list of fruits using a for loop.",
+    "code_snippet": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ____:\n    print(fruit)",
+    "draggable_items": {
+      "blank1": [
+        "fruits",
+        "range(fruits)",
+        "list",
+        "enumerate(fruits)"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "fruits"
+    }
+  },
+  {
+    "question_id": 5,
+    "difficulty": 5,
+    "question_text": "Fill in the blank using the appropriate built-in function to obtain both the index and value from the list.",
+    "code_snippet": "colors = ['red', 'green', 'blue']\nfor index, color in ____(colors):\n    print(index, color)",
+    "draggable_items": {
+      "blank1": [
+        "enumerate",
+        "range",
+        "zip",
+        "list"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "enumerate"
+    }
+  },
+  {
+    "question_id": 6,
+    "difficulty": 6,
+    "question_text": "Drag and drop the correct items into the blanks to create a for loop that prints the square of numbers from 1 to 3.",
+    "code_snippet": "for num in ____(1, 4):\n    print(num ____ 2)",
+    "draggable_items": {
+      "blank1": [
+        "range",
+        "list",
+        "tuple",
+        "map"
+      ],
+      "blank2": [
+        "**",
+        "^",
+        "pow",
+        "*"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "range",
+      "blank2": "**"
+    }
+  },
+  {
+    "question_id": 7,
+    "difficulty": 7,
+    "question_text": "Drag and drop the correct components to complete a nested loop that prints coordinate pairs (i, j) where i ranges from 1 to 2 and j from 'a' to 'b'.",
+    "code_snippet": "for i in ____(1, 3):\n    for j in ____:\n         print((i, j))",
+    "draggable_items": {
+      "blank1": [
+        "range",
+        "list",
+        "enumerate",
+        "tuple"
+      ],
+      "blank2": [
+        "['a', 'b']",
+        "('a', 'b')",
+        "set(['a', 'b'])",
+        "{'a': 1}"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "range",
+      "blank2": "['a', 'b']"
+    }
+  },
+  {
+    "question_id": 8,
+    "difficulty": 8,
+    "question_text": "Drag and drop the complete method call to iterate directly over a dictionary's keys.",
+    "code_snippet": "student_grades = {'Alice': 85, 'Bob': 92}\nfor key in ____:\n    print(key, student_grades[key])",
+    "draggable_items": {
+      "blank1": [
+        "student_grades",
+        "student_grades.keys()",
+        "student_grades.values()",
+        "student_grades.items()"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "student_grades.keys()"
+    }
+  },
+  {
+    "question_id": 9,
+    "difficulty": 9,
+    "question_text": "Drag and drop the correct function to explicitly convert a list of tuples into an iterator for iteration.",
+    "code_snippet": "coordinates = [(1, 2), (3, 4), (5, 6)]\nfor pair in ____(coordinates):\n    print(pair)",
+    "draggable_items": {
+      "blank1": [
+        "iter",
+        "enumerate",
+        "range",
+        "zip"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "iter"
+    }
+  },
+  {
+    "question_id": 10,
+    "difficulty": 10,
+    "question_text": "Complete the list comprehension by dragging the correct expressions into the blanks to create a list of squares from 1 to 5.",
+    "code_snippet": "squares = [____ for ____ in ____(1, 6)]\nprint(squares)",
+    "draggable_items": {
+      "blank1": [
+        "x**2",
+        "x*2",
+        "square",
+        "pow(x, 2)"
+      ],
+      "blank2": [
+        "x",
+        "i",
+        "num",
+        "item"
+      ],
+      "blank3": [
+        "range",
+        "list",
+        "enumerate",
+        "tuple"
+      ]
+    },
+    "correct_mapping": {
+      "blank1": "x**2",
+      "blank2": "x",
+      "blank3": "range"
+    }
+  }
+]

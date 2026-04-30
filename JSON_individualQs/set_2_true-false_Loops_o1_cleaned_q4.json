@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "A 'break' statement in Python will immediately terminate the loop and resume execution at the first line after the loop body.",
+  "correct_answer": true
+}

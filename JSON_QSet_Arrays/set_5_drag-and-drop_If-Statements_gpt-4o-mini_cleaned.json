@@ -1,0 +1,147 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Drag the correct code fragment to complete the if statement that checks if a number is positive.",
+    "code_snippet": "if x ",
+    "options": [
+      " > 0:",
+      " < 0:",
+      " == 0:"
+    ],
+    "correct_option": "> 0:"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank to complete this if statement that checks if a number is even: if x % ",
+    "options": [
+      "1 == 0:",
+      "2 == 0:",
+      "3 == 0:"
+    ],
+    "correct_option": "2 == 0:"
+  },
+  {
+    "difficulty": 3,
+    "question": "Drag and drop to arrange the if-else statement correctly.",
+    "fragments": [
+      "else:",
+      "if x > 10:",
+      "print('Greater than 10')",
+      "print('10 or less')"
+    ],
+    "correct_order": [
+      "if x > 10:",
+      "print('Greater than 10')",
+      "else:",
+      "print('10 or less')"
+    ]
+  },
+  {
+    "difficulty": 4,
+    "question": "Complete the if statement to check if the variable 'status' is equal to 'active': if status ",
+    "options": [
+      "== 'active':",
+      "!= 'active':",
+      "is 'active':"
+    ],
+    "correct_option": "== 'active':"
+  },
+  {
+    "difficulty": 5,
+    "question": "Drag the segments to create an if-elif-else structure that checks for grade levels.",
+    "segments": [
+      "elif grade >= 80:",
+      "if grade >= 90:",
+      "else:",
+      "print('A')",
+      "print('B')",
+      "print('C')"
+    ],
+    "correct_order": [
+      "if grade >= 90:",
+      "print('A')",
+      "elif grade >= 80:",
+      "print('B')",
+      "else:",
+      "print('C')"
+    ]
+  },
+  {
+    "difficulty": 6,
+    "question": "Complete the if statement to check if 'item' exists in 'items' list: if item ",
+    "options": [
+      "in items:",
+      "not in items:",
+      "exists in items:"
+    ],
+    "correct_option": "in items:"
+  },
+  {
+    "difficulty": 7,
+    "question": "Arrange the parts of the if statement correctly to check for multiple conditions using 'and'.",
+    "fragments": [
+      "if age > 18 ",
+      "and country == 'USA':",
+      "print('Eligible to vote')"
+    ],
+    "correct_order": [
+      "if age > 18 ",
+      "and country == 'USA':",
+      "print('Eligible to vote')"
+    ]
+  },
+  {
+    "difficulty": 8,
+    "question": "Drag and drop to create an if-elif-else statement that evaluates whether 'score' falls within different ranges.",
+    "fragments": [
+      "elif score >= 50:",
+      "if score >= 75:",
+      "else:",
+      "print('Good')",
+      "print('Excellent')",
+      "print('Needs Improvement')"
+    ],
+    "correct_order": [
+      "if score >= 75:",
+      "print('Excellent')",
+      "elif score >= 50:",
+      "print('Good')",
+      "else:",
+      "print('Needs Improvement')"
+    ]
+  },
+  {
+    "difficulty": 9,
+    "question": "Complete the nested if statement to check if 'x' is greater than 0 and if a variable 'flag' is True: if x > 0:",
+    "options": [
+      "if flag:",
+      "if flag == True:",
+      "if flag == False:"
+    ],
+    "correct_option": "if flag:"
+  },
+  {
+    "difficulty": 10,
+    "question": "Drag and arrange to create a complex if-elif structure that evaluates multiple types of user input.",
+    "fragments": [
+      "if input_type == 'text':",
+      "print('Processing text...')",
+      "elif input_type == 'number':",
+      "print('Processing number...')",
+      "elif input_type == 'boolean':",
+      "print('Processing boolean...')",
+      "else:",
+      "print('Unknown input type')"
+    ],
+    "correct_order": [
+      "if input_type == 'text':",
+      "print('Processing text...')",
+      "elif input_type == 'number':",
+      "print('Processing number...')",
+      "elif input_type == 'boolean':",
+      "print('Processing boolean...')",
+      "else:",
+      "print('Unknown input type')"
+    ]
+  }
+]

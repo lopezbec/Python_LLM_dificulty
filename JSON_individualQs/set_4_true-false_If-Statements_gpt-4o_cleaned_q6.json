@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "When an 'if' statement block is executed, all subsequent 'elif' and 'else' blocks are ignored.",
+  "answer": true
+}

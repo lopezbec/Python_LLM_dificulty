@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "temperature",
+        "if 'hot', print 'It's hot!'",
+        "if 'cold', print 'It's cold!'",
+        "else print 'It's pleasant!'",
+        "print('It's pleasant!')",
+        "print('It's hot!')",
+        "elif temperature == 'cold':",
+        "if temperature == 'hot':",
+        "print('It's cold!')",
+        "else:",
+        "print('It's pleasant!')"
+    ]
+}

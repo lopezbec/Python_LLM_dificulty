@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "question": "Drag the missing parts to complete the following while loop that counts from 1 to 5.",
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "Loops",
+  "dragItems": [
+    "i += 1",
+    "i < 6",
+    "print(i)",
+    "i = 1"
+  ],
+  "dropTargets": [
+    "while _1_:",
+    "    _2_",
+    "    _3_",
+    "_4_"
+  ],
+  "correctAssociations": {
+    "i < 6": "_1_",
+    "print(i)": "_2_",
+    "i += 1": "_3_",
+    "i = 1": "_4_"
+  }
+}

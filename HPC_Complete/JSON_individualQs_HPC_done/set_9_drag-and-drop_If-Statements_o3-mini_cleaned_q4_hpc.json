@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if",
+        "score",
+        "50",
+        "print('Pass')",
+        "[BLANK1] score [BLANK2] 50:",
+        "if",
+        ">=",
+        "==",
+        "="
+    ]
+}

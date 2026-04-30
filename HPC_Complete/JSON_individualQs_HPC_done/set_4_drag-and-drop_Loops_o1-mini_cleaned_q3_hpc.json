@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for",
+        "range(5)",
+        "for i in",
+        "print(i)"
+    ]
+}

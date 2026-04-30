@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In Python, the keyword _____ allows us to check another condition if the first if condition is not met.",
+  "answer": "elif"
+}

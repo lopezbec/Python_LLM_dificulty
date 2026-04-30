@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct code fragment to complete the if-statement that checks if a number is greater than 10.",
+  "code_fragments": [
+    "if number > 10:",
+    "if number < 10:",
+    "if number == 10:",
+    "if number >= 10:"
+  ],
+  "correct_answer": "if number > 10:"
+}

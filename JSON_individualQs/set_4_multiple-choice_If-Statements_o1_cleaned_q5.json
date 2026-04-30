@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which code snippet correctly demonstrates an if-elif-else structure?",
+  "choices": {
+    "A": "if x < 0: print('Negative') elif x == 0: print('Zero') else: print('Positive')",
+    "B": "if x < 0: print('Negative') else if x == 0: print('Zero') elif: print('Positive')",
+    "C": "if (x < 0): print('Negative'); elif (x == 0): print('Zero'); else: print('Positive');",
+    "D": "if x < 0: print('Negative') then x == 0: print('Zero') else: print('Positive')"
+  },
+  "correct_answer": "A"
+}

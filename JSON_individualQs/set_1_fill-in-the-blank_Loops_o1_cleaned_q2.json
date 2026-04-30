@@ -1,0 +1,7 @@
+{
+  "id": 2,
+  "type": "fill-in-the-blank",
+  "difficulty": 2,
+  "question": "A ______ loop in Python iterates over a sequence without needing an index variable.",
+  "correct_answer": "for"
+}

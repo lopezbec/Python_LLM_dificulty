@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What will be printed after execution of the Python code below?\n\nmatrix = [[1, 2], [3, 4]]\nfor i in range(len(matrix)):\n    for j in range(len(matrix[i])):\n        if i == j:\n            print(matrix[i][j])",
+  "options": [
+    "1\n2",
+    "1\n4",
+    "3\n4",
+    "1\n3"
+  ],
+  "correct_answer": "1\n4"
+}

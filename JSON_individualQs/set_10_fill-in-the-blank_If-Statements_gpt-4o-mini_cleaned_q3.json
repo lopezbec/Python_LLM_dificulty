@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "To execute a block of code when the condition in an if-statement is true, you write the code _____ the if statement.",
+  "correct_answer": "indented under",
+  "options": [
+    "directly after",
+    "indented under",
+    "in a separate function",
+    "after the endif"
+  ]
+}

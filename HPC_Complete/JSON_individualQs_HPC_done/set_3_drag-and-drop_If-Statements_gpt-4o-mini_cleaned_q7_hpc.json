@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (user_input == 'yes') { print('Proceed'); } ______ { print('Cancel'); }",
+        "else if (user_input == 'no')",
+        "if (user_input != 'yes')",
+        "else",
+        "else if (user_input == 'maybe')"
+    ]
+}

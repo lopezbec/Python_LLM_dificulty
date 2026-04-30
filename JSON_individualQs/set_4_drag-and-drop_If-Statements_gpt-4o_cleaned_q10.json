@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Adjust this code to execute a function 'handle_error' if a KeyError might occur.",
+  "code": "try:\n    value = dict[key]\n__ KeyError:\n    handle_error()",
+  "options": [
+    "except",
+    "else",
+    "finally"
+  ],
+  "correct": [
+    "except"
+  ],
+  "incorrect": [
+    "else",
+    "finally"
+  ]
+}

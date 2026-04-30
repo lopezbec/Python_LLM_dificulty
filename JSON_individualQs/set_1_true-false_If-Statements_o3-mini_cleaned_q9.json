@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "An if-statement in Python can combine multiple conditions using logical operators without requiring parentheses for the expression to work properly.",
+  "answer": true
+}

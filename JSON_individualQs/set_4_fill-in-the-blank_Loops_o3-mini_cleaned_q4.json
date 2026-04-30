@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: To iterate over both keys and values in a dictionary called 'data', you can use the method: for key, value in data.________():",
+  "answer": "items"
+}

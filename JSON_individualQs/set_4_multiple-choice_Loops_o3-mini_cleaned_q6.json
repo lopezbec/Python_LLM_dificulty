@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Which type of loop is generally preferred when the number of iterations is known before the loop starts?",
+  "options": [
+    "for loop",
+    "while loop",
+    "infinite loop",
+    "do-while loop"
+  ],
+  "correct_answer": "for loop"
+}

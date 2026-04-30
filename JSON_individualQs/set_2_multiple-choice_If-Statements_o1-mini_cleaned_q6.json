@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct syntax for an if-elif-else statement in Python?",
+  "options": {
+    "A": "if condition:\n    # code\nelif condition:\n    # code\nelse:\n    # code",
+    "B": "if (condition) {\n    // code\n} elseif (condition) {\n    // code\n} else {\n    // code\n}",
+    "C": "if condition then:\n    # code\nelseif condition then:\n    # code\nelse:\n    # code",
+    "D": "if condition do:\n    # code\nelif condition do:\n    # code\nelse do:\n    # code"
+  },
+  "answer": "A",
+  "difficulty": 6
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Examine the following code snippet:\n\nx = 15\nif x < 10:\n    print(\"Too low\")\nelif x < 20:\n    print(\"Just right\")\nelse:\n    print(\"Too high\")\n\nWhat is the output?",
+  "options": [
+    "Too low",
+    "Just right",
+    "Too high",
+    "None of the above"
+  ],
+  "correct_answer": "Just right"
+}

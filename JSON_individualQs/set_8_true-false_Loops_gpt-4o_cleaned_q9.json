@@ -1,0 +1,5 @@
+{
+  "question": "In Python, you can modify the loop variable within the loop using arithmetic operations like +=, and it will affect the loop's control.",
+  "difficulty": 9,
+  "answer": "False"
+}

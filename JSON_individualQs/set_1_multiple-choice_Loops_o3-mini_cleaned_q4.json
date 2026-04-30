@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which keyword can be used to skip the current iteration of a loop and move directly to the next iteration in Python?",
+  "options": [
+    "continue",
+    "pass",
+    "break",
+    "skip"
+  ],
+  "correct_answer": "continue"
+}

@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Drag and drop to arrange the if-else statement correctly.",
+  "fragments": [
+    "else:",
+    "if x > 10:",
+    "print('Greater than 10')",
+    "print('10 or less')"
+  ],
+  "correct_order": [
+    "if x > 10:",
+    "print('Greater than 10')",
+    "else:",
+    "print('10 or less')"
+  ]
+}

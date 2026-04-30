@@ -1,0 +1,7 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to check if a number is greater than 10: \n```python\nnumber = 15\nif number ____ 10:\n    print(\"Greater than 10\")\n```",
+  "answer": ">="
+}

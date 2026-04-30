@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A 'for' loop can be used to directly iterate over a dictionary's keys, values, or key-value pairs using different methods.",
+  "answer": "True"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "What is the purpose of a 'for' loop in Python?",
+    "options": [
+      "To iterate over a sequence (such as a list, tuple, or string).",
+      "To repeat a block of code indefinitely.",
+      "To terminate a program.",
+      "To handle exceptions."
+    ],
+    "correct_answer": "To iterate over a sequence (such as a list, tuple, or string)."
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)\n",
+    "options": [
+      "0 1 2",
+      "1 2 3",
+      "3 2 1",
+      "1 1 1"
+    ],
+    "correct_answer": "0 1 2"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Which of the following loops is more efficient for iterating over a list?",
+    "options": [
+      "while loop",
+      "for loop",
+      "do-while loop",
+      "loop until"
+    ],
+    "correct_answer": "for loop"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "What is the output of the following loop?\n\ncount = 0\nwhile count < 3:\n    print('Hello')\n    count += 1\n",
+    "options": [
+      "No output",
+      "Hello\nHello\nHello",
+      "Hello\nHello\n",
+      "Infinite loop"
+    ],
+    "correct_answer": "Hello\nHello\nHello"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Which statement is used to skip the rest of the code inside the loop for the current iteration only?",
+    "options": [
+      "continue",
+      "break",
+      "exit",
+      "pass"
+    ],
+    "correct_answer": "continue"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "What is the final value of 'x' after executing this loop?\n\nx = 0\nfor i in range(5, 8):\n    x += i\n",
+    "options": [
+      "13",
+      "18",
+      "21",
+      "10"
+    ],
+    "correct_answer": "18"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Which of the following is a valid way to iterate through a dictionary?",
+    "options": [
+      "for key in dictionary",
+      "while key in dictionary",
+      "for key dictionary",
+      "do for key in dictionary"
+    ],
+    "correct_answer": "for key in dictionary"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "How can you create a loop that runs indefinitely?",
+    "options": [
+      "for i in range(infinity):",
+      "while True:",
+      "do while(True):",
+      "while(1): sleep(1)"
+    ],
+    "correct_answer": "while True:"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "When is it preferable to use a 'while' loop over a 'for' loop in Python?",
+    "options": [
+      "When the number of iterations is unknown.",
+      "When iterating over a list.",
+      "When the loop must run exactly 5 times.",
+      "When you want to iterate over a string."
+    ],
+    "correct_answer": "When the number of iterations is unknown."
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Given a nested loop, what is the total number of iterations for the following code?\n\nfor i in range(1, 4):\n    for j in range(1, 4):\n        pass\n",
+    "options": [
+      "9",
+      "6",
+      "3",
+      "12"
+    ],
+    "correct_answer": "9"
+  }
+]

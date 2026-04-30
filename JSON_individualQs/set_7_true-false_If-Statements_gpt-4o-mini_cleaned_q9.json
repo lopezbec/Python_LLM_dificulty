@@ -1,0 +1,5 @@
+{
+  "question": "An if-statement can include a condition that is always false, but the code will still execute if there are no 'else' or 'elif' clauses.",
+  "answer": "True",
+  "difficulty": 9
+}

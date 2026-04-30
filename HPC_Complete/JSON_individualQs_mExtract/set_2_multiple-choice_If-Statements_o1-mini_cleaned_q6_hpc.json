@@ -1,0 +1,8 @@
+{
+  "HPC": [
+    "if condition:\n    # code\nelif condition:\n    # code\nelse:\n    # code",
+    "if (condition) {\n    // code\n} elseif (condition) {\n    // code\n} else {\n    // code\n}",
+    "if condition then:\n    # code\nelseif condition then:\n    # code\nelse:\n    # code",
+    "if condition do:\n    # code\nelif condition do:\n    # code\nelse do:\n    # code"
+  ]
+}

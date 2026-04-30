@@ -1,0 +1,11 @@
+{
+  "question": "What will be the final value of 'total' after running the following code?\n\ntotal = 0\nfor i in range(1, 6):\n    total += i\n\n",
+  "options": [
+    "15",
+    "10",
+    "5",
+    "20"
+  ],
+  "correct_answer": "15",
+  "difficulty": 9
+}

@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for i in range(3):\n    print(i)",
+        "i",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "question": "Which of the following is a generator expression that creates an infinite sequence of even numbers starting from 0?",
+  "options": {
+    "A": "(x for x in range(0, None, 2))",
+    "B": "x for x in itertools.count(0, 2)",
+    "C": "(x for x in itertools.count(0, 2))",
+    "D": "[x for x in itertools.count(0, 2)]"
+  },
+  "answer": "C"
+}

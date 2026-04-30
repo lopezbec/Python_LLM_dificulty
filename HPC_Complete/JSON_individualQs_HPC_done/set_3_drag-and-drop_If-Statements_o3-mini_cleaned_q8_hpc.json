@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if temperature ___ 0:",
+        "print('Freezing')",
+        "<=",
+        ">",
+        "=="
+    ]
+}

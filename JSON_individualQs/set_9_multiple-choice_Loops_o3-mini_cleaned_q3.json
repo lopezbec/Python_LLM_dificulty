@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)\n\nChoose the option that best describes the printed output (each number printed on a new line).",
+  "options": [
+    "0 1 2",
+    "1 2 3",
+    "0 1 2 3",
+    "Error"
+  ],
+  "correct_answer": "0 1 2"
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "return",
+        "break",
+        "continue",
+        "pass"
+    ]
+}

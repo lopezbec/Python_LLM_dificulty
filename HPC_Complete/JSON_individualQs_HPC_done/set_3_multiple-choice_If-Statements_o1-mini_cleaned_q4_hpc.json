@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "else",
+        "if-statement",
+        "elif",
+        "else",
+        "endif",
+        "otherwise"
+    ]
+}

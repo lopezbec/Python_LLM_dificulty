@@ -1,0 +1,10 @@
+{
+  "HPC": [
+    "a = [1, 2]",
+    "b = [3, 4]",
+    "for x in a:\n  for y in b:\n    print(x, y)",
+    "for x in a:\n  for y in a:\n    print(x, y)",
+    "for x in b:\n  for y in b:\n    print(x, y)",
+    "for x in a:\n  for y in b:\n    pass"
+  ]
+}

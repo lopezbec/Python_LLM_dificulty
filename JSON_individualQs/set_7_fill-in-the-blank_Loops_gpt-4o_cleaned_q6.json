@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "To iterate over both the indices and elements of a list, you can use 'enumerate'. For example: for idx, val in '________'(list): print(idx, val)",
+  "answer": "enumerate"
+}

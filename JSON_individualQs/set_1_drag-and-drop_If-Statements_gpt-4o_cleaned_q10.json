@@ -1,0 +1,12 @@
+{
+  "difficulty": 10,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Complete the complex if-elif-else structure to check logical conditions involving three variables 'x', 'y', and 'z'.",
+  "code": "if x > y and z < y:\n    <blank>\nelif x < y or z > x:\n    print('Condition B')\nelse:\n    <blank>",
+  "options": [
+    "print('Condition A')",
+    "print('Condition C')",
+    "print('x is less than y')"
+  ]
+}

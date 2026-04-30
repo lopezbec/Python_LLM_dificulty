@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "What will the following code execute? \nif 5 > 3: \n    print('Five is greater than three')",
+  "options": {
+    "A": "Five is less than three",
+    "B": "Five is greater than three",
+    "C": "Nothing",
+    "D": "It's an error"
+  },
+  "correct_answer": "B"
+}

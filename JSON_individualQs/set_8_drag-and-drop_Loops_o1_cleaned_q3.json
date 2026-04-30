@@ -1,0 +1,18 @@
+{
+  "questionNumber": 3,
+  "difficulty": 3,
+  "type": "drag-and-drop",
+  "question": "Rearrange the code blocks to build a for loop that prints the squares of numbers from 0 to 2.",
+  "codeBlocks": [
+    "numbers = [0, 1, 2]",
+    "print(num * num)",
+    "while numbers < 2:",
+    "for num in numbers:"
+  ],
+  "correctOrder": [
+    "numbers = [0, 1, 2]",
+    "for num in numbers:",
+    "print(num * num)"
+  ],
+  "explanation": "We define a list, then iterate over it, printing each number squared. 'while numbers < 2:' is a distractor."
+}

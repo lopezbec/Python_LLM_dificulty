@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "List comprehension provides a concise way to create lists by writing the 'for' loop inside the __________ of a list.",
+  "answer": "brackets"
+}

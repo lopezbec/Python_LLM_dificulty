@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "question": "Drag and drop the correct comparison operators to complete the conditions.",
+  "code_snippet": "if age __operator1__ 18:\n    print(\"Minor\")\nif score __operator2__ 90:\n    print(\"Excellent\")",
+  "options": [
+    "<",
+    ">",
+    "==",
+    "<="
+  ],
+  "answers": {
+    "operator1": ">= ",
+    "operator2": ">="
+  }
+}

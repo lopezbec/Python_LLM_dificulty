@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In Python, an empty 'for' loop will not raise an error; it will simply do nothing.",
+  "correct_answer": true
+}

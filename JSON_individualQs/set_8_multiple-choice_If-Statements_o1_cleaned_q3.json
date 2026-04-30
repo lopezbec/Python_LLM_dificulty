@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "Which option correctly demonstrates a simple if statement checking if x is greater than 10?",
+  "choices": {
+    "A": "if x = 10: print('Greater')",
+    "B": "if x == 10 print('Greater')",
+    "C": "if x > 10: print('Greater')",
+    "D": "if x => 10: print('Greater')"
+  },
+  "correct_answer": "C"
+}

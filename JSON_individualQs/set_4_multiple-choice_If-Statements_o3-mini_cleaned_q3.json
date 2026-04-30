@@ -1,0 +1,11 @@
+{
+  "question": "Given the code below, what is the output?\n\nnum = 3\nif num % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+  "choices": [
+    "Even",
+    "Odd",
+    "Error",
+    "Nothing"
+  ],
+  "answer": "Odd",
+  "difficulty": 3
+}

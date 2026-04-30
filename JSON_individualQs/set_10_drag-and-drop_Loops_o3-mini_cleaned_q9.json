@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "Loops",
+  "question": "Drag and drop the missing keyword to add an else block to the loop, which executes if the loop completes normally.",
+  "instructions": "Drag the correct keyword into the blank.",
+  "code": "for n in range(3):\n    print(n)\n___:\n    print('Loop completed')",
+  "drag_items": [
+    "finally",
+    "else",
+    "except"
+  ],
+  "correct_answers": {
+    "___": "else"
+  }
+}

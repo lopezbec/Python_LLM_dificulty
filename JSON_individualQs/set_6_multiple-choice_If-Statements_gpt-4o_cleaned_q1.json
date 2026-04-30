@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "What is the purpose of an if-statement in Python?",
+  "choices": [
+    "To repeat a block of code multiple times.",
+    "To perform different actions based on different conditions.",
+    "To store multiple values in a single variable.",
+    "To define a function."
+  ],
+  "correct_answer": "To perform different actions based on different conditions."
+}

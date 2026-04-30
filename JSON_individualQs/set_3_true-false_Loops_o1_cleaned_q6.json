@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Using 'continue' in a Python loop will skip the rest of the current iteration and move to the next iteration.",
+  "correctAnswer": "True"
+}

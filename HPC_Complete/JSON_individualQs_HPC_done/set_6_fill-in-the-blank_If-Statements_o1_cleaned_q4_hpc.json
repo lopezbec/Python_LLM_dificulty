@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "status",
+        "if status ___ 'complete': print(\"Done!\")"
+    ]
+}

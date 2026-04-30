@@ -1,0 +1,10 @@
+{
+  "difficulty": 7,
+  "question": "Create a valid if-statement by dragging the correct comparison operator:\n if 10 _____ 20: \n    print('10 is less than 20')\n",
+  "options": [
+    ">=",
+    "<",
+    "=="
+  ],
+  "correct_answer": "<"
+}

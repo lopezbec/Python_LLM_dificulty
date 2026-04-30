@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if x < 0: print('Negative') ______ x == 0: print('Zero') else: print('Positive')",
+        "elif"
+    ]
+}

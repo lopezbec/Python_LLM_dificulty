@@ -1,0 +1,18 @@
+{
+  "questionNumber": 2,
+  "difficulty": 2,
+  "question": "Drag the appropriate comparison operator into the blank so that the while loop prints 'Looping' exactly four times (0 to 3).",
+  "codeSnippet": "counter = 0\nwhile counter [___] 4:\n    print(\"Looping\")\n    counter += 1",
+  "dragItems": [
+    "<",
+    "<=",
+    "=="
+  ],
+  "answerSlots": [
+    "[___]"
+  ],
+  "correctAnswer": [
+    "<"
+  ],
+  "explanation": "Using '<' ensures the loop runs while counter is 0, 1, 2, 3. '<=' would print 5 times, '==' would not match or would cause an infinite loop."
+}

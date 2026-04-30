@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Using a for loop, you can iterate over the characters in a string one by one.",
+  "correct_answer": "True"
+}

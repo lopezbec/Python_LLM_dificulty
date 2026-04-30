@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Correctly place the indentation to execute both print statements inside the if condition.",
+  "code": "if x == 1:\nprint('Condition Met')\n   print('Still inside')",
+  "options": [
+    "Indent both print",
+    "Indent second print"
+  ],
+  "correct": [
+    "Indent both print"
+  ],
+  "incorrect": [
+    "Indent second print"
+  ]
+}

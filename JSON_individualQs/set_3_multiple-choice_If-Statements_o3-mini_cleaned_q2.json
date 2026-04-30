@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which keyword is used in Python to execute an alternative block of code when the initial if condition is false?",
+  "options": [
+    "elif",
+    "else",
+    "otherwise",
+    "except"
+  ],
+  "correct_answer": "else"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "When using multiple if-statements sequentially, both can execute even if the first condition evaluates to True.",
+  "answer": true
+}

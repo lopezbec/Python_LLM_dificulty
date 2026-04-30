@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: When using a while loop, if the loop condition never becomes false, the loop will result in a(n) ____.",
+  "answer": "infinite loop",
+  "difficulty": 9
+}

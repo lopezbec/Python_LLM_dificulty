@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 2,
+  "prompt": "Fill in the blanks to complete a 'while' loop that counts down from 5 to 1.",
+  "draggableItems": [
+    "count = 5",
+    "while count > 0:",
+    "print(count)",
+    "count -= 1"
+  ],
+  "dropZones": [
+    "Initialization",
+    "Loop Condition",
+    "Loop Body - Print",
+    "Loop Body - Decrement"
+  ],
+  "correctMatch": {
+    "Initialization": "count = 5",
+    "Loop Condition": "while count > 0:",
+    "Loop Body - Print": "print(count)",
+    "Loop Body - Decrement": "count -= 1"
+  }
+}

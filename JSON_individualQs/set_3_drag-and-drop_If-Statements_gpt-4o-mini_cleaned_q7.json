@@ -1,0 +1,11 @@
+{
+  "question": "Fill in the correct statement using the drag-and-drop feature: \nif (user_input == 'yes') { print('Proceed'); } ______ { print('Cancel'); }",
+  "options": [
+    "else if (user_input == 'no')",
+    "if (user_input != 'yes')",
+    "else",
+    "else if (user_input == 'maybe')"
+  ],
+  "correct_answer": "else",
+  "difficulty": 7
+}

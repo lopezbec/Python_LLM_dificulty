@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Determine the correct blocks to check for potential errors or truthiness of an object.",
+  "code": "if some_object:\n    print('Defined and true')\nelse:\n    print('Undefined or false')",
+  "options": [
+    "try",
+    "else",
+    "if",
+    "catch"
+  ],
+  "correct": [
+    "if",
+    "else"
+  ],
+  "incorrect": [
+    "try",
+    "catch"
+  ]
+}

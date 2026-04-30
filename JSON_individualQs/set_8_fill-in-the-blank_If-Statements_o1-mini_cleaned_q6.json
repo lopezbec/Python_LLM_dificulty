@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank with the appropriate logical operator to check if `x` is between 10 and 20:\n\n```python\nif x > 10 ___ x < 20:\n    print(\"x is between 10 and 20\")\n```",
+  "difficulty": 6,
+  "answer": "and"
+}

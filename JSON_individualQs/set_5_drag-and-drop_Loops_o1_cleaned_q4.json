@@ -1,0 +1,15 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question_text": "Put the lines in order to create a for loop that skips printing the letter 'a' in the string 'banana'.",
+  "choices": [
+    "if char == 'a': continue",
+    "print(char)",
+    "for char in 'banana':"
+  ],
+  "correct_order": [
+    3,
+    1,
+    2
+  ]
+}

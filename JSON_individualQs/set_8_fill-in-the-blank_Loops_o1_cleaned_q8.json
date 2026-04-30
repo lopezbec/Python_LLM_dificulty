@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "In Python, a nested loop means placing one loop inside another. The __________ loop is executed completely for each iteration of the outer loop.",
+  "answer": "inner"
+}

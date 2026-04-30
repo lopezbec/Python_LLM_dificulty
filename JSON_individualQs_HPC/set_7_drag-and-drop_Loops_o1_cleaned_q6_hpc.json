@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for col in range(2):",
+        "print((row, col))",
+        "for row in range(2):",
+        "for row in range(2):",
+        "for col in range(2):",
+        "print((row, col))"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "It is possible to use the 'else' block with a 'for' loop in Python to execute code when the loop completely iterates over a sequence without encountering a 'break' statement",
+  "difficulty": 3,
+  "answer": true
+}

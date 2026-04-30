@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "An infinite loop in Python can be created by using a while loop with a condition that never evaluates to False.",
+  "answer": true
+}

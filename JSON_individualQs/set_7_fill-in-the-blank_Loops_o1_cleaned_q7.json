@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "In Python, a for loop can have an optional ______ clause that only executes if the loop completes without a break.",
+  "correct_answer": "else"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "topic": "Loop Syntax",
+  "question": "Arrange the parts of a basic for loop in Python.",
+  "drag_items": [
+    "for",
+    "in",
+    "range(5)",
+    ":"
+  ],
+  "drop_targets": [
+    "Keyword to start a for loop",
+    "Keyword used to iterate over a sequence",
+    "Function used to generate a sequence of numbers",
+    "Symbol to indicate the start of the loop body"
+  ],
+  "correct_matches": {
+    "for": "Keyword to start a for loop",
+    "in": "Keyword used to iterate over a sequence",
+    "range(5)": "Function used to generate a sequence of numbers",
+    ":": "Symbol to indicate the start of the loop body"
+  }
+}

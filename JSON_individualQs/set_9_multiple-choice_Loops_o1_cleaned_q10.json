@@ -1,0 +1,13 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "type": "multiple-choice",
+  "question": "Which of the following best describes the purpose of a list comprehension in Python when combined with conditions and loops?",
+  "options": [
+    "A) It creates and modifies the original list in-place within a loop.",
+    "B) It generates a new list by filtering or transforming elements more succinctly.",
+    "C) It automatically parallelizes the list creation for performance gains.",
+    "D) It forces all elements in the list to be of the same data type."
+  ],
+  "correct_answer": "B"
+}

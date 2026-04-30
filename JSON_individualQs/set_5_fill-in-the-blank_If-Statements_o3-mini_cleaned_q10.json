@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank in the following code that uses the walrus operator to both assign and use the length of a list:\n\nif (n := len(my_list)) > 5:\n    print('Large list')\nelse:\n    print('List has', ______, 'elements')",
+  "answer": "n"
+}

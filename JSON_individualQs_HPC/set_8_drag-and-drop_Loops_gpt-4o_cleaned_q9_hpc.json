@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for i in range(len(lst)):",
+        "for item in lst:"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In nested if statements, the inner if block executes regardless of the outer if condition, even if the outer condition is False.",
+  "answer": "False"
+}

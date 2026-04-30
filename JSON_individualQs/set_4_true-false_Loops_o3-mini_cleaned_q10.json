@@ -1,0 +1,6 @@
+{
+  "difficulty": 10,
+  "type": "true-false",
+  "question": "Modifying a list by adding or removing elements during iteration in a for loop is a safe and recommended practice.",
+  "correctAnswer": "False"
+}

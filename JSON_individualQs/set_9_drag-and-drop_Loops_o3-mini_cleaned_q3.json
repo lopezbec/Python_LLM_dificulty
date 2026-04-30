@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "prompt": "Drag and drop the correct variable name to fill in the blanks in the loop below so that the same variable is used in both places:\n\nfor ____ in [1, 2, 3]:\n    print(____)",
+  "drag_items": [
+    "num",
+    "item",
+    "element"
+  ],
+  "drop_targets": [
+    "variable1",
+    "variable2"
+  ],
+  "correct_mapping": {
+    "variable1": "num",
+    "variable2": "num"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "question": "In Python, an if statement must always end with the 'else' statement.",
+  "difficulty": 2,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "False"
+}

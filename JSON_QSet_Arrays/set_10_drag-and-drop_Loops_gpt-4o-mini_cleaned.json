@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Drag and drop the code snippets to create a simple 'for' loop that prints numbers from 1 to 5.",
+    "options": [
+      "for",
+      "in",
+      "range(1, 6):",
+      "number",
+      "print(number)"
+    ],
+    "correct_order": [
+      "for",
+      "number",
+      "in",
+      "range(1, 6):",
+      "print(number)"
+    ],
+    "difficulty": 1
+  },
+  {
+    "question": "Arrange the blocks to properly use a 'while' loop that counts down from 5 to 1.",
+    "options": [
+      "count = 5",
+      "while count > 0:",
+      "print(count)",
+      "count -= 1"
+    ],
+    "correct_order": [
+      "count = 5",
+      "while count > 0:",
+      "print(count)",
+      "count -= 1"
+    ],
+    "difficulty": 2
+  },
+  {
+    "question": "Drag the parts to complete the syntax of a 'for' loop that will iterate over a list named 'colors'.",
+    "options": [
+      "for",
+      "color",
+      "in",
+      "colors:",
+      "print(color)"
+    ],
+    "correct_order": [
+      "for",
+      "color",
+      "in",
+      "colors:",
+      "print(color)"
+    ],
+    "difficulty": 3
+  },
+  {
+    "question": "Arrange the blocks to create a nested loop that prints a pattern of stars.",
+    "options": [
+      "for i in range(5):",
+      "for j in range(i + 1):",
+      "print('*')"
+    ],
+    "correct_order": [
+      "for i in range(5):",
+      "for j in range(i + 1):",
+      "print('*')"
+    ],
+    "difficulty": 4
+  },
+  {
+    "question": "Drag and drop to complete the code for a loop that sums numbers from 1 to 10.",
+    "options": [
+      "total = 0",
+      "for number in range(1, 11):",
+      "total += number",
+      "print(total)"
+    ],
+    "correct_order": [
+      "total = 0",
+      "for number in range(1, 11):",
+      "total += number",
+      "print(total)"
+    ],
+    "difficulty": 5
+  },
+  {
+    "question": "Order the statements to correctly implement a loop that breaks when it reaches a certain condition.",
+    "options": [
+      "for i in range(10):",
+      "if i == 5:",
+      "break",
+      "print(i)"
+    ],
+    "correct_order": [
+      "for i in range(10):",
+      "print(i)",
+      "if i == 5:",
+      "break"
+    ],
+    "difficulty": 6
+  },
+  {
+    "question": "Drag to correctly arrange the pieces to find the total count of 'a' in the string 'banana'.",
+    "options": [
+      "count = 0",
+      "for char in 'banana':",
+      "if char == 'a':",
+      "count += 1",
+      "print(count)"
+    ],
+    "correct_order": [
+      "count = 0",
+      "for char in 'banana':",
+      "if char == 'a':",
+      "count += 1",
+      "print(count)"
+    ],
+    "difficulty": 7
+  },
+  {
+    "question": "Arrange the code to create a loop that iterates through a dictionary and prints each key-value pair.",
+    "options": [
+      "for key, value in my_dict.items():",
+      "print(key, value)"
+    ],
+    "correct_order": [
+      "for key, value in my_dict.items():",
+      "print(key, value)"
+    ],
+    "difficulty": 8
+  },
+  {
+    "question": "Drag to complete the blocks that correctly create a loop which returns an array of squares of numbers from 1 to N.",
+    "options": [
+      "squares = []",
+      "for i in range(1, N + 1):",
+      "squares.append(i ** 2)",
+      "return squares"
+    ],
+    "correct_order": [
+      "squares = []",
+      "for i in range(1, N + 1):",
+      "squares.append(i ** 2)",
+      "return squares"
+    ],
+    "difficulty": 9
+  },
+  {
+    "question": "Order the code snippets to create a 'do while' loop equivalent using 'while' that continues until condition fails.",
+    "options": [
+      "condition = True",
+      "while True:",
+      "print('Looping')",
+      "if not condition:",
+      "break"
+    ],
+    "correct_order": [
+      "while True:",
+      "print('Looping')",
+      "if not condition:",
+      "break"
+    ],
+    "difficulty": 10
+  }
+]

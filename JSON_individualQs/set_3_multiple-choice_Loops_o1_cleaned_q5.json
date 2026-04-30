@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which statement in Python causes the current iteration of a loop to end and the next iteration to begin?",
+  "choices": {
+    "A": "pass",
+    "B": "break",
+    "C": "continue",
+    "D": "stop"
+  },
+  "correct_answer": "C"
+}

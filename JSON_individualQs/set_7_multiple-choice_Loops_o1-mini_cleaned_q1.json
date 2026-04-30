@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\ntotal = 0\nfor i in range(4):\n    total += i\nprint(total)\n```",
+  "options": {
+    "A": "6",
+    "B": "10",
+    "C": "4",
+    "D": "Error"
+  },
+  "answer": "A"
+}

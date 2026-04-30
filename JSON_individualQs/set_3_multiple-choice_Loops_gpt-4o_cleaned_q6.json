@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "What is the final value of 'x' after executing this loop?\n\nx = 0\nfor i in range(5, 8):\n    x += i\n",
+  "options": [
+    "13",
+    "18",
+    "21",
+    "10"
+  ],
+  "correct_answer": "18"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "question": "Fill in the blank to use the ternary operator within an if statement:\n\nstatus = 'Approved' ___ x > 100 else 'Denied'",
+  "answer": "if",
+  "difficulty": 8
+}

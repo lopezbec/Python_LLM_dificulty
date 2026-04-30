@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Fill in the blank: The Python '_____ ' loop is typically used to iterate over a sequence, like a list or a string.",
+    "difficulty": 1,
+    "answer": "for"
+  },
+  {
+    "question": "Fill in the blank: The Python '_____ ' loop iterates as long as a given condition remains True.",
+    "difficulty": 2,
+    "answer": "while"
+  },
+  {
+    "question": "Fill in the blank: We can use the '_____ ' statement within a loop to stop the loop immediately.",
+    "difficulty": 3,
+    "answer": "break"
+  },
+  {
+    "question": "Fill in the blank: The '_____ ' statement in a loop instructs Python to skip the rest of the current iteration and continue with the next one.",
+    "difficulty": 4,
+    "answer": "continue"
+  },
+  {
+    "question": "Fill in the blank: The built-in '_____ ' function is commonly used with a 'for' loop to iterate over a sequence of numbers.",
+    "difficulty": 5,
+    "answer": "range"
+  },
+  {
+    "question": "Fill in the blank: A 'for' loop inside another 'for' loop is known as a '_____ ' loop.",
+    "difficulty": 6,
+    "answer": "nested"
+  },
+  {
+    "question": "Fill in the blank: Python allows an optional '_____ ' block that runs after a 'for' or 'while' loop completes without encountering a break statement.",
+    "difficulty": 7,
+    "answer": "else"
+  },
+  {
+    "question": "Fill in the blank: A 'while' loop can be used for '_____ ' iteration, meaning it continues until a condition is no longer met.",
+    "difficulty": 8,
+    "answer": "indefinite"
+  },
+  {
+    "question": "Fill in the blank: The '_____ ' function can be used within a 'for' loop to retrieve both the index and value of items in a sequence.",
+    "difficulty": 9,
+    "answer": "enumerate"
+  },
+  {
+    "question": "Fill in the blank: The expression [x**2 for x in range(10)] is an example of a '_____ ' comprehension that uses a 'for' loop inside brackets to build a new list.",
+    "difficulty": 10,
+    "answer": "list"
+  }
+]

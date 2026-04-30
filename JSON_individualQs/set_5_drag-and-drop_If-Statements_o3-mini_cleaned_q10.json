@@ -1,0 +1,26 @@
+{
+  "question": "Complete the function with a full if-elif-else chain.",
+  "difficulty": 10,
+  "instructions": "Drag the appropriate keywords into the blanks to complete the function's if-elif-else structure.",
+  "codeSnippet": "def check_number(n):\n    ___ n > 0:\n        return 'Positive'\n    ___ n == 0:\n        return 'Zero'\n    ___:\n        return 'Negative'",
+  "dropZones": [
+    {
+      "placeholder": "Blank 1",
+      "correctAnswer": "if"
+    },
+    {
+      "placeholder": "Blank 2",
+      "correctAnswer": "elif"
+    },
+    {
+      "placeholder": "Blank 3",
+      "correctAnswer": "else"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ]
+}

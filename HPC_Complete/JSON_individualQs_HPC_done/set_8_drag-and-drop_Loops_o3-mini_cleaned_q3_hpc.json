@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "items",
+        "_____ item _____ items:\n    print(item)",
+        "for",
+        "in",
+        "if",
+        "while"
+    ]
+}

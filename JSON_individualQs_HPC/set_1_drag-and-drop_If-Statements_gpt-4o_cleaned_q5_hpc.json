@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "b",
+        "if 3 <= b <blank> 7:\n    print('b is within range')",
+        "<=",
+        "==",
+        "<"
+    ]
+}

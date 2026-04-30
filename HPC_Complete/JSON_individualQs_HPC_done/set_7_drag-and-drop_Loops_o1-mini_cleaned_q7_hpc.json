@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for item in iterable:",
+        "if condition:",
+        "break",
+        "else:",
+        "print('Completed without break')"
+    ]
+}

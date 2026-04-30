@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "You can compare the value of two variables using operators like ==, !=, >, __, <=, and >=.",
+  "correct_answer": "<"
+}

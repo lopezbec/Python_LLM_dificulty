@@ -1,0 +1,6 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank to check if the variable 'name' is not empty:\n\nif ______:\n    print('Name is present')",
+  "correct_answer": "name != \"\""
+}

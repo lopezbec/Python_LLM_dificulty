@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "if score >= 90____ print('Excellent')"
+    ]
+}

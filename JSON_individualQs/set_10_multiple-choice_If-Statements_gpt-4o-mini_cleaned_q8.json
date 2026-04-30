@@ -1,0 +1,11 @@
+{
+  "question": "Analyze the output of this code block:\n\n```python\nx = -1\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')\n```\n",
+  "options": [
+    "Positive",
+    "Negative",
+    "Zero",
+    "None"
+  ],
+  "correct_answer": "Negative",
+  "difficulty": 8
+}

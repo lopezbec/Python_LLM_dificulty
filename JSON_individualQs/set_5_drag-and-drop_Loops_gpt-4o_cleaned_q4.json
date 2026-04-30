@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "question": "Insert the correct condition to loop over the list ['apple', 'banana', 'cherry'].",
+  "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in <blank>: print(fruit)",
+  "options": [
+    "fruits",
+    "fruit",
+    "range(fruits)",
+    "range(3)"
+  ],
+  "correct_answer": "fruits"
+}

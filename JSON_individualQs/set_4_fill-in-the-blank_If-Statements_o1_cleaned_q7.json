@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question_text": "Complete the one-line if statement to print \"Positive\" if x > 0, otherwise print \"Non-positive\":\nprint(\"Positive\") if x > 0 ______ \"Non-positive\"",
+  "correct_answer": "else"
+}

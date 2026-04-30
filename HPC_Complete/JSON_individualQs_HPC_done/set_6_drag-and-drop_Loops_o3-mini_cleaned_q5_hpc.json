@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "colors = ['red', 'green', 'blue']\nfor index, color in ____(colors):\n    print(index, color)",
+        "enumerate",
+        "range",
+        "zip",
+        "list"
+    ]
+}

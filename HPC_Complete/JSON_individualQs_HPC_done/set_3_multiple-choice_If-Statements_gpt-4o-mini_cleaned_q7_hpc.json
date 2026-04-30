@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "day = 'Saturday'",
+        "if day == 'Monday':",
+        "print('Start of the week')",
+        "elif day == 'Saturday':",
+        "print('Weekend')",
+        "else:",
+        "print('Midweek')",
+        "day"
+    ]
+}

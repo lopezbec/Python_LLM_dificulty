@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "Which control statement is used to skip the rest of the current loop iteration in Python?",
+  "options": {
+    "A": "break",
+    "B": "skip",
+    "C": "continue",
+    "D": "pass"
+  },
+  "correct_answer": "C"
+}

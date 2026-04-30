@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to handle multiple conditions in the if-statement using `or` to check if `day` is either 'Saturday' or 'Sunday':\n\n```python\nif day == 'Saturday' ___ day == 'Sunday':\n    print(\"Weekend\")\n```",
+  "answer": "or",
+  "level": 7
+}

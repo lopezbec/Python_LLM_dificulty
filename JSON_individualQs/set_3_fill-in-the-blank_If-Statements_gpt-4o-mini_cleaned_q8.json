@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "If you want to check if a variable 'x' is either less than 10 or greater than 20, the correct condition would be 'if _____ or x > 20:'.",
+  "answer": "x < 10"
+}

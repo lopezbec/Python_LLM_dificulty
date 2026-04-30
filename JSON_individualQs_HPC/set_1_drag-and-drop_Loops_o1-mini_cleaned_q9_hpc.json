@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "def count_up_to(max):\n    ___ i in range(max):\n        ___ i",
+        "for",
+        "yield"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which symbol is used immediately after the condition in a Python if statement?",
+  "choices": {
+    "A": ";",
+    "B": ":",
+    "C": "{",
+    "D": "->"
+  },
+  "correct_answer": "B"
+}

@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "items",
+    "if len(items) =! 0:\n    print(items[0])",
+    "if len(items) > 0:\n    print(items[0])",
+    "if items != '':\n    print(items[0])",
+    "if items is not None:\n    print(items[0])"
+  ]
+}

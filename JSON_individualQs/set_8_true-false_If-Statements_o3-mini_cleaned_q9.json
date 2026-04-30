@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Indentation in Python is essential as it determines the grouping of statements under an if-statement block.",
+  "correctAnswer": true
+}

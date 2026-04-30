@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if 10 ____ value ____ 20:\n    print('Value is between 10 and 20')",
+        "value",
+        "10",
+        "20",
+        "<",
+        ">"
+    ]
+}

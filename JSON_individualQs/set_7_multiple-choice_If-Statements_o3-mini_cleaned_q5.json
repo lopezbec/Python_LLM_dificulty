@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code snippet:\n\nx = 15\nif x < 10:\n    print('Less than 10')\nelif x < 20:\n    print('Less than 20')\nelse:\n    print('20 or more')\n\nWhat will be printed when the code is executed?",
+  "options": {
+    "A": "Less than 10",
+    "B": "Less than 20",
+    "C": "20 or more",
+    "D": "Nothing will be printed"
+  },
+  "answer": "B"
+}

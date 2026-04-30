@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "fruit = 'apple'\n[1] fruit [2] ['apple','banana']:\n    print(\"Fruit found\")",
+        "if",
+        "in"
+    ]
+}

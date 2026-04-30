@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "def generator():\n    for i in range(3):\n        yield i\n    else:\n        print(\"Loop completed\")\n\ngen = generator()\nfor num in gen:\n    print(num)",
+        "0\n1\n2",
+        "0\n1\n2\nLoop completed",
+        "0 1 2 Loop completed",
+        "Loop completed"
+    ]
+}

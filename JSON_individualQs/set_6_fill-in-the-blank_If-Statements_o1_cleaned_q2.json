@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank with the correct equality operator to check if x is exactly 10: if x ___ 10: print(\"x is 10\").",
+  "answer": "=="
+}

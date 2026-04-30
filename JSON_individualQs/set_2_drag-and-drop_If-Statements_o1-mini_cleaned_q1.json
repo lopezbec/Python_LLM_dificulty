@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 1,
+  "question": "Arrange the following lines to form a basic `if` statement in Python.",
+  "options": [
+    "if condition:",
+    "    print(\"Condition is True\")"
+  ],
+  "correct_order": [
+    "if condition:",
+    "    print(\"Condition is True\")"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "question": "Arrange the loop with `break` and `continue` statements to find the first even number in the list.",
+  "options": [
+    "for num in numbers:",
+    "if num % 2 == 0:",
+    "print(num)",
+    "    break",
+    "    continue"
+  ],
+  "correct_order": [
+    "for num in numbers:",
+    "    if num % 2 == 0:",
+    "        print(num)",
+    "        break",
+    "    else:",
+    "        continue"
+  ],
+  "difficulty": 8
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In Python 3, the range() function returns a range object that can be iterated over without generating a list each time.",
+  "correct_answer": "True"
+}

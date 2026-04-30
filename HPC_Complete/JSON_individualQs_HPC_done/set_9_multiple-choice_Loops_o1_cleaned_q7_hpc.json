@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "for index, value in enumerate(['a', 'b', 'c']):",
+        "print(index, value)",
+        "index",
+        "value",
+        "A) 1 a",
+        "B) 0 a",
+        "C) index = 0, value = a",
+        "D) 1 b"
+    ]
+}

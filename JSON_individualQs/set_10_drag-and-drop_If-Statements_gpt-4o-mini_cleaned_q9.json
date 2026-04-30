@@ -1,0 +1,15 @@
+{
+  "difficulty": 9,
+  "question": "Arrange the following code snippets into a complete if-statement that checks whether a user is an 'admin'. If true, print 'Access granted', otherwise, print 'Access denied'.",
+  "code_fragments": [
+    "print('Access denied')",
+    "if user_role == 'admin':",
+    "print('Access granted')"
+  ],
+  "correct_order": [
+    "if user_role == 'admin':",
+    "print('Access granted')",
+    "else:",
+    "print('Access denied')"
+  ]
+}

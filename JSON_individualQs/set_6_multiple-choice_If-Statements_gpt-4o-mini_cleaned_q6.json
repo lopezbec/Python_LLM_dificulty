@@ -1,0 +1,11 @@
+{
+  "question": "What does the following code output?\n\n```python\nscore = 70\nif score >= 90:\n    print('A')\nelif score >= 80:\n    print('B')\nelif score >= 70:\n    print('C')\nelse:\n    print('D')\n```\n",
+  "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_answer": "C",
+  "difficulty": 6
+}

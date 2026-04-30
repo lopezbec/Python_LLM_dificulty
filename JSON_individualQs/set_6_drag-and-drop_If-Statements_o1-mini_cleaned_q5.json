@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "if-statements",
+  "question": "Match the descriptions with the correct parts of an if-elif-else statement.",
+  "options": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "drops": {
+    "A": "Used for the initial condition check.",
+    "B": "Used for additional condition checks if previous conditions are False.",
+    "C": "Used as a fallback when all previous conditions are False."
+  },
+  "correct_matches": {
+    "A": "if",
+    "B": "elif",
+    "C": "else"
+  }
+}

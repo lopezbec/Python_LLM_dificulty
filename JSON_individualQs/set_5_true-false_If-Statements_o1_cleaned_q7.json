@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Parentheses around the condition in an if statement are always required in Python.",
+  "correct_answer": "False"
+}

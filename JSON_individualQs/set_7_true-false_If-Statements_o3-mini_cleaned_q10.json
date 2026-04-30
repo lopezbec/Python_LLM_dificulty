@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "The following code will raise a SyntaxError due to mixing tabs and spaces in the indentation: if True:\\n    print('Hello')\\n\\tprint('World')",
+  "answer": true
+}

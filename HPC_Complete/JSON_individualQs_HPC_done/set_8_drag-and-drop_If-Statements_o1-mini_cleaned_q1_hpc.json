@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if",
+        "condition",
+        ":",
+        "    print(\"Hello\")"
+    ]
+}

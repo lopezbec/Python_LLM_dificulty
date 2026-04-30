@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "A 'for' loop in Python can be used to iterate over a predefined range of values.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "You can only use 'while' loops to iterate over a range of numbers in Python.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, using the 'continue' statement in a loop skips the remaining code in that iteration and proceeds with the next iteration.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "A 'break' statement in Python will immediately terminate the loop and resume execution at the first line after the loop body.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "Nested loops (loops within loops) are not allowed in Python.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 6,
+    "question": "In Python, an empty 'for' loop will not raise an error; it will simply do nothing.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "When used inside a function, a 'return' statement placed within a loop will exit the entire function, not just the loop.",
+    "correct_answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "Using range(5, 1, -1) in a 'for' loop generates the sequence 5, 4, 3, 2, 1.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "dictionary.items() returns key-value pairs in a guaranteed sorted order by keys when using a 'for' loop.",
+    "correct_answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "List comprehensions in Python can often replace complex 'for' loop constructs by offering a more concise syntax.",
+    "correct_answer": true
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "question": "To create a simple loop that counts from 0 to 4, we can write: for i in ______(5).",
+  "difficulty": 1,
+  "answer": "range"
+}

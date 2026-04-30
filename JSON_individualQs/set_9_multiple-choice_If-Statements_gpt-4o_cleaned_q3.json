@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code block:\n\n```\nx = 5\nif x > 4:\n    print('x is greater than 4')\n```\n\nWhat is the output?",
+  "difficulty": 3,
+  "options": {
+    "A": "x is greater than 4",
+    "B": "x is not greater than 4",
+    "C": "No output",
+    "D": "Error"
+  },
+  "correct_answer": "A"
+}

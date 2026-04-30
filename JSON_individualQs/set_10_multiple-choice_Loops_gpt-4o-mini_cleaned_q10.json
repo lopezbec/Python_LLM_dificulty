@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code? \n\nfor i in range(3): \n    for j in range(2): \n        print(i, j)",
+  "options": [
+    "(0,0)\n(0,1)\n(1,0)\n(1,1)\n(2,0)\n(2,1)",
+    "(0,0)\n(1,0)\n(2,0)\n(0,1)\n(1,1)\n(2,1)",
+    "0\n1\n2\n0\n1",
+    "None"
+  ],
+  "answer": "(0,0)\n(0,1)\n(1,0)\n(1,1)\n(2,0)\n(2,1)",
+  "difficulty": 10
+}

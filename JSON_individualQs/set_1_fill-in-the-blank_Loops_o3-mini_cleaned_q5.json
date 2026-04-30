@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank: To skip the current iteration in a Python loop and proceed to the next one, use the ______ statement.",
+  "answer": "continue"
+}

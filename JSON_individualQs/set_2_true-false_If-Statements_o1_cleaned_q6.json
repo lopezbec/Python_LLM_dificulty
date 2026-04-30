@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "If none of the conditions in an if-elif chain are met, Python automatically executes the code in the first if-block.",
+  "correct_answer": "False"
+}

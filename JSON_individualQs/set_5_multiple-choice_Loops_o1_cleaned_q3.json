@@ -1,0 +1,11 @@
+{
+  "question": "If the condition in a while loop is never true from the start, how many times will its body execute?",
+  "difficulty": 3,
+  "choices": [
+    "Once",
+    "Infinite times",
+    "Never",
+    "Until it's true"
+  ],
+  "correct_answer": "Never"
+}

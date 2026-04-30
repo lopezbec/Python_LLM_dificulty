@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Examine the following code snippet:\n\nmatrix = [[1,2,3], [4,5,6], [7,8,9]]\nfor row in matrix:\n    for num in row:\n        if num == 5:\n            print('Found', end=' ')\n            break\n    else:\n        print('Not Found', end=' ')\n\nWhat is the printed output?",
+  "options": [
+    "Not Found Found Not Found",
+    "Found Not Found Found",
+    "Not Found Not Found Not Found",
+    "Found Found Found"
+  ],
+  "correctAnswer": "Not Found Found Not Found"
+}

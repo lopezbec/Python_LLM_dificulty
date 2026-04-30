@@ -1,0 +1,23 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "instruction": "Drag and drop the correct keywords to check if x is even or y is odd, otherwise print \"Neither\".",
+  "code_with_blanks": "x = 4\ny = 5\n_____ x % 2 == 0 _____\n    print(\"x is even\")\n_____ y % 2 != 0 _____\n    print(\"y is odd\")\n_____ _____\n    print(\"Neither\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "else",
+    "while",
+    ":",
+    "for"
+  ],
+  "correct_sequence": [
+    "if",
+    ":",
+    "elif",
+    ":",
+    "else",
+    ":"
+  ],
+  "explanation": "Use 'if' for the first check, 'elif' for the second check, and 'else' for the remaining case, each followed by a colon."
+}

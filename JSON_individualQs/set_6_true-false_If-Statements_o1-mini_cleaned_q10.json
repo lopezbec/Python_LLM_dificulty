@@ -1,0 +1,5 @@
+{
+  "question": "In Python, the ternary conditional operator cannot be used within an if statement to execute code based on a condition.",
+  "answer": false,
+  "difficulty": 10
+}

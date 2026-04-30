@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "total = _____",
+        "for num in numbers:",
+        "total _____ num",
+        "print(total)",
+        "numbers",
+        "0",
+        "*=",
+        "+=",
+        "in"
+    ]
+}

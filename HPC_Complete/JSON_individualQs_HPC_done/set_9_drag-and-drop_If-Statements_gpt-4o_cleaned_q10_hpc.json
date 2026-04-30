@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "priority = 1",
+        "status = 'pending'",
+        "if __:",
+        "if __:",
+        "print('Urgent')",
+        "else:",
+        "print('High Priority')",
+        "else:",
+        "print('Low Priority')",
+        "priority == 1",
+        "status == 'pending'",
+        "priority > 1",
+        "status != 'pending'"
+    ]
+}

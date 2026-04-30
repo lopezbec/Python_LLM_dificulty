@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "x",
+        "if x < 2 ___ x > 8: print(\"Out of range\")"
+    ]
+}

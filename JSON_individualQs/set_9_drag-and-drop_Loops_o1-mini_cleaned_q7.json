@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "loops",
+  "question": "Fill in the blanks to use a `for` loop with the `enumerate` function.",
+  "code": "fruits = ['apple', 'banana', 'cherry']\nfor __, __ in __:\n    print(index, fruit)",
+  "options": [
+    "index",
+    "fruit",
+    "enumerate(fruits)",
+    "item"
+  ],
+  "answers": {
+    "blank1": "index",
+    "blank2": "fruit",
+    "blank3": "enumerate(fruits)"
+  }
+}

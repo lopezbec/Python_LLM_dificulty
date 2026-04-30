@@ -1,0 +1,5 @@
+{
+  "level": 3,
+  "question": "Fill in the blank to execute code only when the condition is False using an if statement:\n\nif not ____:\n    print(\"Condition is False\")",
+  "answer": "condition"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A loop that goes through each character of a string can be created with a __________ loop.",
+  "answer": "for"
+}

@@ -1,0 +1,22 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question_text": "Complete the loop to print each character of the string 'Python'.",
+  "code_snippet": "text = 'Python'\n\nfor ____ in ____:\n    print(____)",
+  "drag_items": [
+    "char",
+    "text",
+    "i",
+    "len(text)"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2",
+    "Placeholder 3"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "char",
+    "Placeholder 2": "text",
+    "Placeholder 3": "char"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5,
+  "type": "drag-and-drop",
+  "difficulty": 5,
+  "topic": "loops",
+  "question": "Fill in the blanks to create a nested loop that prints a 3x3 grid of asterisks.",
+  "code_snippet": "for i in range(3):\n    for j in range(3):\n        print('*', end=' ')\n    ___",
+  "options": [
+    "print()",
+    "continue",
+    "break",
+    "pass"
+  ],
+  "answer": "print()"
+}

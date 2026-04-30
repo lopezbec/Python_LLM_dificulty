@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "result",
+        "x = 10",
+        "y = 20",
+        "if x > y:",
+        "result = \"x is greater\"",
+        "elif x == y:",
+        "result = \"x and y are equal\"",
+        "else:",
+        "result = \"y is greater\"",
+        "\"x is greater\"",
+        "\"x and y are equal\"",
+        "\"y is greater\"",
+        "None of the above"
+    ]
+}

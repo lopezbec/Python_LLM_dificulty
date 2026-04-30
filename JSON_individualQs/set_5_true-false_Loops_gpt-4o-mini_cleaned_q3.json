@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "A 'break' statement in a loop will cause the loop to skip the current iteration.",
+  "answer": false
+}

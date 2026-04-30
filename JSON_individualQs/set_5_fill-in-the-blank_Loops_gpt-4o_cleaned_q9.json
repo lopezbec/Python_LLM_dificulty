@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "A 'for' loop with the syntax 'for i in range(start, stop, step)' will increment by __________ each time.",
+  "answer": "step"
+}

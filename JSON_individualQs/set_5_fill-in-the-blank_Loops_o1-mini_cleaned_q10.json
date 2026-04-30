@@ -1,0 +1,4 @@
+{
+  "question": "Fill in the blank to retrieve the next item from the generator 'gen' inside a while loop:\n\ngen = (x for x in range(3))\nwhile True:\n    try:\n        value = ____(gen)\n        print(value)\n    except StopIteration:\n        break",
+  "answer": "next"
+}

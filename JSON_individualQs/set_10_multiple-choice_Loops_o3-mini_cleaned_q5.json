@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "What does the following nested loop code output?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)\n\nSelect the answer that shows the sequence of printed pairs (each pair on a new line).",
+  "options": [
+    "0 0, 0 1, 1 0, 1 1",
+    "0 0, 1 1",
+    "0 0, 0 1",
+    "1 0, 1 1"
+  ],
+  "correctAnswer": "0 0, 0 1, 1 0, 1 1"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "A `for` loop in Python cannot be used to iterate over a dictionary's keys and values simultaneously.",
+  "answer": "False"
+}

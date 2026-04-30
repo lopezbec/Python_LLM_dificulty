@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is a valid for loop in Python?",
+  "options": [
+    "for i in range(5):",
+    "for i from 0 to 5:",
+    "foreach i in list:",
+    "loop i in range(5):"
+  ],
+  "correct_answer": "for i in range(5):",
+  "difficulty": 2
+}

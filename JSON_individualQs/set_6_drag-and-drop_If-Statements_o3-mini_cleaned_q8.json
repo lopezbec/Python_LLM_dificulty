@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "topic": "if-statements",
+  "question": "Drag the correct output that will be printed by the following code when x = -5:",
+  "instruction": "Drag the correct output into the drop zone.",
+  "code": "x = -5\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+  "dragItems": [
+    "Positive",
+    "Zero",
+    "Negative"
+  ],
+  "dropZones": [
+    "[output]"
+  ],
+  "correctMapping": {
+    "[output]": "Negative"
+  }
+}

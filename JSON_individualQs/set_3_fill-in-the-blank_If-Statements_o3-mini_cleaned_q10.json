@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank: In Python, to invert a condition in an if-statement, you use the ______ operator.",
+  "answer": "not"
+}

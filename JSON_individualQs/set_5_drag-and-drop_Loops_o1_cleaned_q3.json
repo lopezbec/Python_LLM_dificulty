@@ -1,0 +1,15 @@
+{
+  "question_number": 3,
+  "difficulty": 3,
+  "question_text": "Rearrange these lines to construct a for loop that stops printing once it reaches 3.",
+  "choices": [
+    "if i == 3: break",
+    "for i in range(5):",
+    "print(i)"
+  ],
+  "correct_order": [
+    2,
+    1,
+    3
+  ]
+}

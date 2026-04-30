@@ -1,0 +1,21 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "instruction": "Complete the nested if statements to check if x is positive, and if so, whether it's a multiple of 3.",
+  "code_with_blanks": "x = 9\n_____ x > 0 _____\n    print(\"x is positive\")\n    _____ x % 3 == 0 _____\n        print(\"x is also a multiple of 3\")\nelse:\n    print(\"x is not positive\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "else",
+    ":",
+    "for",
+    "and"
+  ],
+  "correct_sequence": [
+    "if",
+    ":",
+    "if",
+    ":"
+  ],
+  "explanation": "First 'if' checks if x is positive; inside that block, another 'if' checks for a multiple of 3, each with a colon."
+}

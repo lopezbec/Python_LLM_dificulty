@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for i in ???(2, 5):\n    print(i)",
+        "arange",
+        "randrange",
+        "range",
+        "rannge"
+    ]
+}

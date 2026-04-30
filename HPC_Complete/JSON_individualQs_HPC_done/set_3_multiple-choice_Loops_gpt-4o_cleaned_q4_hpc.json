@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "count = 0",
+        "while count < 3:",
+        "print('Hello')",
+        "count += 1",
+        "count",
+        "['No output', 'Hello\\nHello\\nHello', 'Hello\\nHello\\n', 'Infinite loop']"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "difficulty": 6,
+  "question": "Drag and drop to complete a loop that breaks when a certain condition is met:",
+  "options": [
+    "for num in range(10):",
+    "if num == 5:",
+    "break",
+    "print(num)"
+  ],
+  "correct_order": [
+    "for num in range(10):",
+    "print(num)",
+    "if num == 5:",
+    "break"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 10",
+        "if x == 10:",
+        "print(\"Ten\")",
+        "elif x > 5:",
+        "print(\"Greater than five\")",
+        "else:",
+        "print(\"Less than or equal to five\")",
+        "x",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

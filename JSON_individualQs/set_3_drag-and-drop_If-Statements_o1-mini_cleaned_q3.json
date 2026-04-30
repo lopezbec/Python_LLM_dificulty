@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "type": "drag-and-drop",
+  "difficulty": 3,
+  "topic": "If-Statements",
+  "question": "Drag the correct comparison operators to complete the if-statement conditions.",
+  "codeSnippet": "number = 10\nif number __ operator1 __ 5:\n    print('Greater than 5')\nelif number __ operator2 __ 10:\n    print('Equal to 10')\nelse:\n    print('Less than 5')",
+  "options": [
+    ">",
+    "==",
+    "<",
+    ">=",
+    "<="
+  ],
+  "targets": [
+    "operator1",
+    "operator2"
+  ],
+  "correctAnswer": {
+    "operator1": ">",
+    "operator2": "=="
+  }
+}

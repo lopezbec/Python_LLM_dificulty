@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if __complex_condition__:",
+        "__print_statement_1__",
+        "else:",
+        "__print_statement_2__",
+        "x == 1 or y == 1",
+        "print('One of the conditions is true')",
+        "print('Neither condition is true')",
+        "__complex_condition__",
+        "__print_statement_1__",
+        "__print_statement_2__"
+    ]
+}

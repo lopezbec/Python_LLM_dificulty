@@ -1,0 +1,22 @@
+{
+  "difficulty": 6,
+  "question": "Assign each statement to the control structure it affects: loop, function, both, or neither.",
+  "choices": [
+    "break",
+    "return",
+    "pass",
+    "continue"
+  ],
+  "structures": [
+    "loop",
+    "function",
+    "both",
+    "neither"
+  ],
+  "correct_answers": {
+    "break": "loop",
+    "return": "function",
+    "pass": "neither",
+    "continue": "loop"
+  }
+}

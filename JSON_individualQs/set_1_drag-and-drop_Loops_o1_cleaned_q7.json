@@ -1,0 +1,18 @@
+{
+  "questionNumber": 7,
+  "difficulty": 7,
+  "questionType": "drag-and-drop",
+  "prompt": "Use enumerate to print both the index and the fruit name from the list.",
+  "codeSnippet": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfor ??? in ???:\n    print(index, fruit)",
+  "draggableItems": [
+    "index, fruit",
+    "enumerate(fruits)",
+    "for fruit in fruits:",
+    "for i in range(len(fruits)):"
+  ],
+  "correctAnswer": [
+    "index, fruit",
+    "enumerate(fruits)"
+  ],
+  "explanation": "Using 'for index, fruit in enumerate(fruits):' provides both the index and the item from the list."
+}

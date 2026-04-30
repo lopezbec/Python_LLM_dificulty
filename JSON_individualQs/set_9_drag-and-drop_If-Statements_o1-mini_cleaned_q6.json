@@ -1,0 +1,19 @@
+{
+  "id": 6,
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "topic": "if-statements",
+  "question": "Arrange the following snippets to create an `if` statement that uses `in` to check membership in a list.",
+  "options": [
+    "    print('Item found.')",
+    "if item in items:",
+    "    print('Item not found.')",
+    "else:"
+  ],
+  "answer": [
+    "if item in items:",
+    "    print('Item found.')",
+    "else:",
+    "    print('Item not found.')"
+  ]
+}

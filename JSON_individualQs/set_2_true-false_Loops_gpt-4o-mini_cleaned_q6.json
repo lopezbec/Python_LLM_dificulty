@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "In Python, a 'for' loop can directly modify the list it is iterating over.",
+  "answer": false
+}

@@ -1,0 +1,9 @@
+{
+  "HPC": [
+    "fruits = {'a': 'apple', 'b': 'banana', 'c': 'cherry'}",
+    "for key in fruits:\n    print(key, fruits[key])",
+    "for key, value in fruits:\n    print(key, value)",
+    "for key in fruits.keys():\n    print(key, fruits.values())",
+    "for key, value in fruits.items():\n    print(key, value)"
+  ]
+}

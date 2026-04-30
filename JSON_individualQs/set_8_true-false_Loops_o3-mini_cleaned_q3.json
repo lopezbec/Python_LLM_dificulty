@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "The 'break' statement can only be used in 'for' loops and not in 'while' loops.",
+  "correct_answer": "False"
+}

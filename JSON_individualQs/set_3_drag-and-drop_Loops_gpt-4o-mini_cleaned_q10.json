@@ -1,0 +1,16 @@
+{
+  "question": "Arrange the code that takes user input and keeps looping until the user types 'exit'.",
+  "options": [
+    "user_input = ''",
+    "while user_input != 'exit':",
+    "user_input = input('Type something (type exit to quit): ')",
+    "print(user_input)"
+  ],
+  "correctOrder": [
+    "user_input = ''",
+    "while user_input != 'exit':",
+    "user_input = input('Type something (type exit to quit): ')",
+    "print(user_input)"
+  ],
+  "difficulty": 10
+}

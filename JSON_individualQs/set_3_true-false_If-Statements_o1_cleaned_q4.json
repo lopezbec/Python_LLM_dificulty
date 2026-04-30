@@ -1,0 +1,6 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question": "An if-statement's condition in Python must always be enclosed in parentheses.",
+  "correct_answer": "False"
+}

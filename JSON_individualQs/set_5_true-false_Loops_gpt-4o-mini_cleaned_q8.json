@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Infinite loops can occur when the loop's exit condition is never met or reached.",
+  "answer": true
+}

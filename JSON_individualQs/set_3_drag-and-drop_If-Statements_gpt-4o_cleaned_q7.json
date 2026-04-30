@@ -1,0 +1,13 @@
+{
+  "difficulty": 7,
+  "question": "Insert the correct condition to check if the variable 'name' is not empty.",
+  "code": "if __check__: \n    print(\"Name is present\")",
+  "options": [
+    "name != \"\"",
+    "len(name) > 0",
+    "name is not None"
+  ],
+  "answers": [
+    "len(name) > 0"
+  ]
+}

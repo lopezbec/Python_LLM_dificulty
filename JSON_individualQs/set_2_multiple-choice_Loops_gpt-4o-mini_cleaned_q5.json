@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements is false regarding nested loops?",
+  "options": [
+    "They allow for iterating over multi-dimensional data.",
+    "Inner loops can access the variables from outer loops.",
+    "They can lead to increased time complexity depending on the sizes of each loop.",
+    "Nested loops can only run a fixed number of times."
+  ],
+  "answer": "Nested loops can only run a fixed number of times.",
+  "difficulty": 5
+}

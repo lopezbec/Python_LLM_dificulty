@@ -1,0 +1,13 @@
+{
+  "difficulty": 7,
+  "question": "Differentiate the actions for varying conditions: if (age >= 18) { _____ } else { _____ }",
+  "options": [
+    "print('Adult')",
+    "print('Minor')",
+    "apply for a driving license"
+  ],
+  "correct_answer": [
+    "print('Adult')",
+    "print('Minor')"
+  ]
+}

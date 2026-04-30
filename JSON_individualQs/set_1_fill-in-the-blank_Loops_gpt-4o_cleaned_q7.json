@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "When using a while loop, the condition expression is evaluated ______ each iteration.",
+  "answer": "before"
+}

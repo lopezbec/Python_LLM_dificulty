@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: Python allows an optional '_____ ' block that runs after a 'for' or 'while' loop completes without encountering a break statement.",
+  "difficulty": 7,
+  "answer": "else"
+}

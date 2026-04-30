@@ -1,0 +1,18 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the two blanks to create a valid if-statement that checks if x is equal to 10.\n\n_____ x == 10_____\n    print('x is equal to 10')",
+  "blanks": [
+    "Blank1",
+    "Blank2"
+  ],
+  "drag_items": [
+    "if",
+    ":",
+    "elif",
+    "print"
+  ],
+  "correct_mapping": {
+    "Blank1": "if",
+    "Blank2": ":"
+  }
+}

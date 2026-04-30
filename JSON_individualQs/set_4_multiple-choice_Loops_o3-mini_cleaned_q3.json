@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "What is the purpose of the 'break' statement inside a loop in Python?",
+  "options": [
+    "To exit the loop immediately",
+    "To skip the rest of the current iteration",
+    "To restart the loop from the beginning",
+    "To pause the loop for a moment"
+  ],
+  "correct_answer": "To exit the loop immediately"
+}

@@ -1,0 +1,14 @@
+{
+  "difficulty": 9,
+  "question": "Drag and drop to create a loop that builds a list of squares for numbers from 1 to 5.",
+  "options": [
+    "squares = []",
+    "for num in range(1, 6):",
+    "squares.append(num ** 2)"
+  ],
+  "correct_order": [
+    "squares = []",
+    "for num in range(1, 6):",
+    "squares.append(num ** 2)"
+  ]
+}

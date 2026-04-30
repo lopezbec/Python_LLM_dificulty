@@ -1,0 +1,17 @@
+{
+  "difficulty": 7,
+  "question": "Complete the code block to print the values in a list using a loop.",
+  "options": {
+    "A": "for",
+    "B": "in",
+    "C": "print",
+    "D": "each"
+  },
+  "drops": {
+    "Target": "______(value in my_list): print(value)"
+  },
+  "correct_order": [
+    "A",
+    "B"
+  ]
+}

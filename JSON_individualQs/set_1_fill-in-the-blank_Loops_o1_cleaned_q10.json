@@ -1,0 +1,7 @@
+{
+  "id": 10,
+  "type": "fill-in-the-blank",
+  "difficulty": 10,
+  "question": "To create a generator expression in Python, we use parentheses instead of ______, allowing iteration without generating the entire list in memory.",
+  "correct_answer": "brackets"
+}

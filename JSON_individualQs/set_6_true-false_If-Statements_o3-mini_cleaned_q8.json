@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "True or False: The condition in a Python if statement can combine comparison and logical operators, as well as include arithmetic operations.",
+  "correct_answer": true
+}

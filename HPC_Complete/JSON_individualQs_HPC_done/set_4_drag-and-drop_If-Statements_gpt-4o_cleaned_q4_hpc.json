@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if age > 18 __ age < 65:\n    print('Working age')",
+        "and",
+        "or",
+        "not"
+    ]
+}

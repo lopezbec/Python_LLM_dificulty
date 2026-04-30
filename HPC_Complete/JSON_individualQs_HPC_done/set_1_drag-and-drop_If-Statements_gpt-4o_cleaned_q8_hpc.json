@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if age < 13:\n    print('Child')\nelif <blank>:\n    <blank>\nelse:\n    print('Adult')",
+        "13 <= age < 18",
+        "print('Teen')",
+        "age > 18"
+    ]
+}

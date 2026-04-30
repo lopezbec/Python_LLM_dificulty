@@ -1,0 +1,20 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "prompt": "Complete the if-statement to check if x is greater than 3 and print the message.",
+  "code_with_placeholders": [
+    "x = 5",
+    "if x [__op__] 3:",
+    "    print(\"x is greater than 3\")"
+  ],
+  "drag_items": [
+    ">",
+    "<",
+    "==",
+    "!="
+  ],
+  "correct_answer": {
+    "__op__": ">"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if",
+        "and",
+        "or",
+        "not",
+        "condition1",
+        "condition2",
+        ":",
+        "    # code block"
+    ]
+}

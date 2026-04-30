@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Proper indentation is necessary for defining the block of code in a loop in Python.",
+  "correct_answer": "True"
+}

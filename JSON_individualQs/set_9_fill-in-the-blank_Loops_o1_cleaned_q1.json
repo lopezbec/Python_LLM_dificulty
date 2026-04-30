@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank so this for loop prints numbers 0, 1, and 2:\n\nfor i in __________:\n    print(i)",
+  "answer": "range(3)"
+}

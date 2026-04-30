@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "topic": "Loops",
+  "question": "What will be the output of the following code snippet?\n\nfor i in range(3):\n  print(i)\n",
+  "options": [
+    "1 2 3",
+    "0 1 2",
+    "1 2 3 4",
+    "3 4 5"
+  ],
+  "answer": "0 1 2"
+}

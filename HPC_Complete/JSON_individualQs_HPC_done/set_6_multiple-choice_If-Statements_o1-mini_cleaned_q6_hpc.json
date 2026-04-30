@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 7",
+        "y = 10",
+        "if x > 5:",
+        "if y > 5:",
+        "print(\"Both are greater than 5\")",
+        "elif y == 10:",
+        "print(\"y is exactly 10\")"
+    ]
+}

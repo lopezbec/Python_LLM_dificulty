@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "d = {'a': 1, 'b': 2}",
+        "for key, value in d.___() :",
+        "print(key, value)",
+        "items",
+        "keys",
+        "values",
+        "pairs"
+    ]
+}

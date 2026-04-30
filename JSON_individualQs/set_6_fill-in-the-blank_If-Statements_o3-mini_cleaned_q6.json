@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank with the correct punctuation to complete the if statement:\n\nif x != 10______\n    print('x is not 10')",
+  "answer": ":"
+}

@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "if",
+        "isinstance(data, int)",
+        ":",
+        "    print(\"Data is an integer\")",
+        "else:",
+        "    print(\"Data is not an integer\")",
+        "data"
+    ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which keyword is used to start an if-statement in Python?",
+    "options": [
+      "if",
+      "when",
+      "assert",
+      "check"
+    ],
+    "answer": "if"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which of the following is the correct syntax for an if-statement that checks if variable 'a' is greater than 10?",
+    "options": [
+      "if a > 10",
+      "if a > 10:",
+      "if (a > 10)",
+      "if (a > 10):"
+    ],
+    "answer": "if a > 10:"
+  },
+  {
+    "difficulty": 3,
+    "question": "What is the purpose of the 'elif' keyword in an if statement?",
+    "options": [
+      "It indicates an alternative condition to check if the previous condition is False.",
+      "It ends the if-statement.",
+      "It creates a loop for the if-statement.",
+      "It is used to express a logical NOT."
+    ],
+    "answer": "It indicates an alternative condition to check if the previous condition is False."
+  },
+  {
+    "difficulty": 4,
+    "question": "Which part of an if statement gets executed when all preceding conditions are False?",
+    "options": [
+      "'if'",
+      "'elif'",
+      "'else'",
+      "'finally'"
+    ],
+    "answer": "'else'"
+  },
+  {
+    "difficulty": 5,
+    "question": "Consider the following code snippet:\n\nx = 15\nif x < 10:\n    print('Less')\nelif 10 <= x <= 20:\n    print('Between')\nelse:\n    print('Greater')\n\nWhat will be printed?",
+    "options": [
+      "Less",
+      "Between",
+      "Greater",
+      "Nothing"
+    ],
+    "answer": "Between"
+  },
+  {
+    "difficulty": 6,
+    "question": "What will be the output of the following nested if-statement code?\n\nx = 7\n y = 10\nif x < 10:\n    if y > 5:\n        print('A')\n    else:\n        print('B')\nelse:\n    print('C')",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "No output due to an error"
+    ],
+    "answer": "A"
+  },
+  {
+    "difficulty": 7,
+    "question": "Which of the following conditions is equivalent to the if statement: if not(x == 10):",
+    "options": [
+      "if x != 10:",
+      "if x == 10:",
+      "if x < 10:",
+      "if x > 10:"
+    ],
+    "answer": "if x != 10:"
+  },
+  {
+    "difficulty": 8,
+    "question": "What is the output of the following code?\n\nx = 3\n y = 4\nif x == 3 and y == 5:\n    print('A')\nelif x == 3 or y == 4:\n    print('B')\nelse:\n    print('C')",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Error"
+    ],
+    "answer": "B"
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, which operator precedence rule is true for the expression in an if-statement like: if a or b and c?",
+    "options": [
+      "The 'and' operator has a higher precedence than the 'or' operator, so b and c are evaluated together before or.",
+      "The 'or' operator is evaluated first before 'and'.",
+      "Both 'and' and 'or' are evaluated left to right without precedence.",
+      "The expression is ambiguous and will result in an error."
+    ],
+    "answer": "The 'and' operator has a higher precedence than the 'or' operator, so b and c are evaluated together before or."
+  },
+  {
+    "difficulty": 10,
+    "question": "Which of the following demonstrates the correct usage of Python's ternary operator (conditional expression) to assign a value based on a condition?",
+    "options": [
+      "result = x if condition else y",
+      "result = x then y if condition",
+      "result = if condition then x else y",
+      "result = (condition ? x : y)"
+    ],
+    "answer": "result = x if condition else y"
+  }
+]

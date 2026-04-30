@@ -1,0 +1,22 @@
+{
+  "question": "Fill in the if-elif chain.",
+  "difficulty": 3,
+  "instructions": "Drag the correct keywords into the blanks to complete the if-elif statement.",
+  "codeSnippet": "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')",
+  "dropZones": [
+    {
+      "placeholder": "First blank",
+      "correctAnswer": "if"
+    },
+    {
+      "placeholder": "Second blank",
+      "correctAnswer": "elif"
+    }
+  ],
+  "draggableItems": [
+    "if",
+    "else",
+    "elif",
+    "while"
+  ]
+}

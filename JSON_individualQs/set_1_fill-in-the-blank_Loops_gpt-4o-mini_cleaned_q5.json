@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "In a for loop, the _____ function can be used to get the range of numbers to iterate over.",
+  "answer": "range"
+}

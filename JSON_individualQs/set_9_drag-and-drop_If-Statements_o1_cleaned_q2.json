@@ -1,0 +1,23 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "prompt": "Fill in the missing parts to check if x is even or print 'Odd number'.",
+  "code_with_placeholders": [
+    "x = 4",
+    "if x % 2 [__op__] 0:",
+    "    print(\"Even number\")",
+    "[__keyword__]:",
+    "    print(\"Odd number\")"
+  ],
+  "drag_items": [
+    "==",
+    "=",
+    "<=",
+    "else"
+  ],
+  "correct_answer": {
+    "__op__": "==",
+    "__keyword__": "else"
+  }
+}

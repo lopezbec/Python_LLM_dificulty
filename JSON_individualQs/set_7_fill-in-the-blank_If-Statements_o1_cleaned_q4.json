@@ -1,0 +1,6 @@
+{
+  "question_number": 4,
+  "difficulty": 4,
+  "question": "Complete the code to print 'Even' if 'n' is divisible by 2:\n\nif n % 2 __ 0:\n    print('Even')",
+  "correct_answer": "=="
+}

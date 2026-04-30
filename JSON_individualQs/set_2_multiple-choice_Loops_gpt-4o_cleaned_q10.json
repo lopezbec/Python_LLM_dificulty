@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "In the following code, how many times will 'Hello' be printed?\n```python\nfor i in range(3):\n    for j in range(2):\n        for k in range(3):\n            print('Hello')\n```\n",
+  "options": [
+    "18",
+    "12",
+    "6",
+    "9"
+  ],
+  "correct_answer": "18"
+}

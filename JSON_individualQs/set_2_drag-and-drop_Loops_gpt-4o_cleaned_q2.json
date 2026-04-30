@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "prompt": "Identify and drop the correct part of the 'while' loop to complete the statement.",
+  "drag_options": [
+    "==",
+    "i",
+    "print",
+    "10"
+  ],
+  "drop_target": "while ____ < ____ :"
+}

@@ -1,0 +1,11 @@
+{
+  "question": "In Python, what does the 'continue' statement do inside a loop?",
+  "difficulty": 4,
+  "options": [
+    "Exits the loop entirely",
+    "Skips the current iteration and moves to the next one",
+    "Resets the loop counter to zero",
+    "Adds a new iteration variable"
+  ],
+  "answer": "Skips the current iteration and moves to the next one"
+}

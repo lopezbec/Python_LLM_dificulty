@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The expression inside an if-statement's condition must always return a boolean value.",
+  "answer": false
+}

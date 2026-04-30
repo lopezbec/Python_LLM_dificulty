@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet:\n\nx = 7\ny = 10\nif x > 5:\n    if y > 5:\n        print(\"Both are greater than 5\")\nelif y == 10:\n    print(\"y is exactly 10\")",
+  "choices": {
+    "A": "Both are greater than 5",
+    "B": "y is exactly 10",
+    "C": "Syntax Error",
+    "D": "Nothing is printed"
+  },
+  "answer": "A",
+  "difficulty": 6
+}

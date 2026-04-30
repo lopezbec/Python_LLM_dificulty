@@ -1,0 +1,5 @@
+{
+  "question": "Improper indentation of an if-statement in Python will raise an IndentationError.",
+  "difficulty": 10,
+  "answer": true
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword is used to create a loop that iterates over a sequence in Python?",
+  "options": [
+    "for",
+    "loop",
+    "iterate",
+    "while"
+  ],
+  "correct_answer": "for"
+}

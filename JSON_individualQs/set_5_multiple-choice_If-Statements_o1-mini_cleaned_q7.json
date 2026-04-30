@@ -1,0 +1,12 @@
+{
+  "question": "What will be the output of the following code?\n\n```python\nx = 20\nif x < 10:\n    print('Less than 10')\nelif x < 30:\n    print('Between 10 and 30')\nelse:\n    print('30 or more')\n```",
+  "options": [
+    "A) Less than 10",
+    "B) Between 10 and 30",
+    "C) 30 or more",
+    "D) Error"
+  ],
+  "answer": "B",
+  "difficulty": 7,
+  "topic": "if statements"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank to handle multiple exceptions within a loop that processes a list of operations.\n\n```python\noperations = ['add', 'subtract', 'multiply', 'divide']\nfor op in operations:\n    try:\n        result = perform_operation(op)\n    except ValueError:\n        print('Value error encountered')\n    ___ Exception as e:\n        print(f'An error occurred: {e}')\n```",
+  "answer": "except"
+}

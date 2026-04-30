@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "Drag and drop the components for a complete if-elif-else block that determines a student's status based on marks.",
+  "instruction": "Arrange the following lines in the correct order.",
+  "draggable_items": [
+    "elif marks >= 40:",
+    "    print('Fail')",
+    "if marks >= 50:",
+    "    print('Pass')",
+    "else:",
+    "    print('Resit')",
+    "    print('Resit')",
+    "    print('Fail')"
+  ],
+  "correct_order": [
+    "if marks >= 50:",
+    "    print('Pass')",
+    "elif marks >= 40:",
+    "    print('Resit')",
+    "else:",
+    "    print('Fail')"
+  ]
+}

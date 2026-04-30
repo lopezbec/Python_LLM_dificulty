@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "type": "drag-and-drop",
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "Fill in the blanks to create a nested loop that prints coordinates in a grid.",
+  "code": "for x in range(1, 4):\n    for y in range(1, __):\n        print('(', x, ',', y, ')')",
+  "options": [
+    "4",
+    "3",
+    "5",
+    "2"
+  ],
+  "answers": {
+    "blank": "4"
+  }
+}

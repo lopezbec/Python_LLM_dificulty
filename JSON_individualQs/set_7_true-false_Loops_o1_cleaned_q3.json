@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The 'break' statement in Python ends a loop completely rather than just skipping the current iteration.",
+  "correct_answer": "True"
+}

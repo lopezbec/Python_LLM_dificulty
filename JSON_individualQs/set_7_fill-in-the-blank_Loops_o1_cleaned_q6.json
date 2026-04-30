@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Using the function ______ allows you to retrieve both the index and value from a list in a for loop.",
+  "correct_answer": "enumerate"
+}

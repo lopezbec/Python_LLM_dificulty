@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank: When iterating in reverse order over a sequence in a loop, Python provides the ______() function to reverse the order.",
+  "correct_answer": "reversed"
+}

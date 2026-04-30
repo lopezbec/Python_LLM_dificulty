@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which Python keyword is used to create a 'for' loop?",
+    "choices": {
+      "A": "for",
+      "B": "while",
+      "C": "loop",
+      "D": "in"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which function is commonly used with 'for' loops to generate a sequence of numbers in Python?",
+    "choices": {
+      "A": "sequence()",
+      "B": "list()",
+      "C": "range()",
+      "D": "int()"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 3,
+    "question": "Which statement accurately describes how a 'while' loop functions in Python?",
+    "choices": {
+      "A": "It always runs at least once.",
+      "B": "It continues until its condition becomes False.",
+      "C": "It cannot contain a 'break' statement.",
+      "D": "It always requires an 'else' clause."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 4,
+    "question": "What is the output of the following code snippet?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)",
+    "choices": {
+      "A": "(0,0), (0,1), (1,0), (1,1)",
+      "B": "(1,1), (0,1), (1,0), (0,0)",
+      "C": "(0,0), (1,0), (0,1), (1,1)",
+      "D": "(0,1), (1,0), (1,1), (2,2)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "difficulty": 5,
+    "question": "Which statement in Python causes the current iteration of a loop to end and the next iteration to begin?",
+    "choices": {
+      "A": "pass",
+      "B": "break",
+      "C": "continue",
+      "D": "stop"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 6,
+    "question": "What is printed by the following code?\n\ntotal = 0\nfor i in range(1, 6):\n    total += i\n    if i == 3:\n        break\nprint(total)",
+    "choices": {
+      "A": "3",
+      "B": "15",
+      "C": "6",
+      "D": "10"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 7,
+    "question": "Consider the following code:\n\nfor x in range(3):\n    if x == 5:\n        break\nelse:\n    print(\"No break was encountered\")\n\nWhat is the output?",
+    "choices": {
+      "A": "No output",
+      "B": "No break was encountered",
+      "C": "Break was encountered",
+      "D": "0 1 2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 8,
+    "question": "In which scenario is a 'while' loop typically preferred over a 'for' loop in Python?",
+    "choices": {
+      "A": "If the exact range of iterations is known.",
+      "B": "For iterating over a fixed list or tuple.",
+      "C": "When you want to run code until a condition changes.",
+      "D": "When you need the loop to run at least once."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "difficulty": 9,
+    "question": "What is the time complexity of the following nested loop structure, in terms of n?\n\nfor i in range(n):\n    for j in range(n):\n        # O(1) operations",
+    "choices": {
+      "A": "O(n)",
+      "B": "O(n^2)",
+      "C": "O(n log n)",
+      "D": "O(log n)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "difficulty": 10,
+    "question": "Which statement correctly describes generator expressions in Python, especially regarding memory usage?",
+    "choices": {
+      "A": "They evaluate all items at once, storing them in memory.",
+      "B": "They cannot be used with built-in functions like sum().",
+      "C": "They yield items lazily, generally consuming less memory.",
+      "D": "They must conclude with a 'break' statement."
+    },
+    "correct_answer": "C"
+  }
+]

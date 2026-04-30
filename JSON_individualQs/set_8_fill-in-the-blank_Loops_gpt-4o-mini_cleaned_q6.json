@@ -1,0 +1,10 @@
+{
+  "difficulty": 6,
+  "question": "The function ________ can be used to iterate over a list with an index in a for loop.",
+  "correct_answer": "enumerate",
+  "incorrect_answers": [
+    "range",
+    "map",
+    "filter"
+  ]
+}

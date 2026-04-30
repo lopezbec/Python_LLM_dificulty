@@ -1,0 +1,14 @@
+{
+  "difficulty": 8,
+  "question": "Select the correct components to use a loop with the continue statement to skip numbers divisible by 2.\n\nfor i in range(5):\n    if i % ___ == 0:\n        ___   \n    print(i)",
+  "options": [
+    "2",
+    "3",
+    "continue",
+    "break"
+  ],
+  "answer": [
+    "2",
+    "continue"
+  ]
+}

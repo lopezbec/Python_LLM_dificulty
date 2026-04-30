@@ -1,0 +1,7 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "topic": "loops",
+  "question": "To iterate over a sequence with both index and value, you use the ____ function in Python.",
+  "answer": "enumerate"
+}

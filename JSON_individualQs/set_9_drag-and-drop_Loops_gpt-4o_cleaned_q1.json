@@ -1,0 +1,13 @@
+{
+  "difficulty": 1,
+  "type": "drag-and-drop",
+  "topic": "Loops",
+  "question": "Drag and drop the correct loop variable to print the numbers from 1 to 5.",
+  "code_block": "for ___ in range(1, 6):\n    print(number)",
+  "options": [
+    "number",
+    "digit",
+    "nums"
+  ],
+  "correct_answer": "number"
+}

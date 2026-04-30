@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "topic": "Loops",
+  "question": "Drag and drop the code blocks into the correct order to form a while loop that prints numbers 0 through 4.",
+  "instructions": "Arrange the following code blocks into the correct sequence.",
+  "code": "Code Blocks:\n1. count = 0\n2. while count < 5:\n3. print(count)\n4. count += 1",
+  "drag_items": [
+    "print(count)",
+    "while count < 5",
+    "count = 0",
+    "count += 1"
+  ],
+  "correct_answers": [
+    "count = 0",
+    "while count < 5",
+    "print(count)",
+    "count += 1"
+  ]
+}

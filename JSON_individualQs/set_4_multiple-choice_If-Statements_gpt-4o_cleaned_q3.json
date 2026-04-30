@@ -1,0 +1,11 @@
+{
+  "question": "3. Which operator is used for equality comparison in an if-statement?",
+  "options": {
+    "a": "=",
+    "b": "==",
+    "c": "!=",
+    "d": "<="
+  },
+  "correct_answer": "b",
+  "difficulty": 3
+}

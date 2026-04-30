@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "Fill in to create a simple one-liner if-statement: \nprint('Hello') if name is not None _____ name is None.",
+  "answer": "else"
+}

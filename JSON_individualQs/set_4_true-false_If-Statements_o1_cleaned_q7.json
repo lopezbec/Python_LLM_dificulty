@@ -1,0 +1,5 @@
+{
+  "question": "Python's conditional expression follows the syntax: x if condition else y.",
+  "difficulty": 7,
+  "correct_answer": "True"
+}

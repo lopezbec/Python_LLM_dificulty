@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blanks to create an elif condition that checks if 'score' is between 50 and 80:\n\n```python\nif score > 80:\n    grade = 'A'\nelif ____ <= score <= ____:\n    grade = 'B'\nelse:\n    grade = 'C'\n```",
+  "answer": "50, 80",
+  "difficulty": 4,
+  "topic": "if-statements",
+  "type": "fill-in-the-blank"
+}

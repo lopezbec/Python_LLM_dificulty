@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Given the following code, what will be the output when price = 100 and discount = 10? \n\n```python\nprice = 100\ndiscount = 10\nif price > 50:\n    if discount >= 20:\n        print('High Discount')\n    else:\n        print('Low Discount')\nelse:\n    print('No Discount')\n```",
+  "options": [
+    "High Discount",
+    "Low Discount",
+    "No Discount",
+    "Error"
+  ],
+  "correct_answer": "Low Discount"
+}

@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blanks to check if `a` is divisible by both `b` and `c` using logical operators:\n\n```python\nif a % b == 0 ___ a % c == 0:\n    print(\"Divisible by both\")\n```",
+  "difficulty": 9,
+  "answer": "and"
+}

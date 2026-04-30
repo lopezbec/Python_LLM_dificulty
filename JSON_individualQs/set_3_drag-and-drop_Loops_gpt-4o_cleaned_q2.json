@@ -1,0 +1,10 @@
+{
+  "difficulty": 2,
+  "topic": "Loops",
+  "question": "Complete the while loop so that it prints \"Python\" 3 times.",
+  "code": "count = 0\nwhile count ___ 3:\n    print(\"Python\")\n    ___",
+  "drag_and_drop_options": [
+    "<",
+    "count += 1"
+  ]
+}

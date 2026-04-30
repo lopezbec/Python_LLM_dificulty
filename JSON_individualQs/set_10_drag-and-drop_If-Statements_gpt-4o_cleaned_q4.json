@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "instruction": "Rearrange and complete the if-statement to check if either a or b is greater than 0.",
+  "code": "____ a > 0 ____ b > 0:\n    print('At least one is positive')",
+  "options": [
+    "if",
+    "else",
+    "or",
+    "and"
+  ],
+  "answer": [
+    "if",
+    "or"
+  ]
+}

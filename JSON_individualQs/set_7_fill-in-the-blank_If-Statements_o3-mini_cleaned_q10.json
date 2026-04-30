@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank with the correct assignment expression operator (walrus operator) to both assign and compare in one line:\n\nif (n ______= len(my_list)) > 0:\n    print(n)",
+  "answer": ":="
+}

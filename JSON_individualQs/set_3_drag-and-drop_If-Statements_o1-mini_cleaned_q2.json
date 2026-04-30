@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "topic": "If-Statements",
+  "question": "Match the if-statement component to its purpose.",
+  "options": [
+    "if",
+    "elif",
+    "else",
+    ":"
+  ],
+  "targets": [
+    "Starts a conditional block",
+    "Checks another condition if previous conditions fail",
+    "Defines the fallback block if all conditions fail",
+    "Ends the condition statement"
+  ],
+  "correctAnswer": {
+    "Starts a conditional block": "if",
+    "Checks another condition if previous conditions fail": "elif",
+    "Defines the fallback block if all conditions fail": "else",
+    "Ends the condition statement": ":"
+  }
+}

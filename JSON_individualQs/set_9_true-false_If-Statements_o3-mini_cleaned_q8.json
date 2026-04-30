@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "When using multiple separate if statements (not chained with elif), if more than one condition is True, only the first block will execute.",
+  "answer": "False"
+}

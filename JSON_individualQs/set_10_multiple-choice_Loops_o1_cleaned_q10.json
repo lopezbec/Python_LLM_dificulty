@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code snippet?\n\nnumbers = [2, 3, 5, 7, 9]\nfor num in numbers:\n    if num % 2 == 0:\n        print('Even found:', num)\n        break\nelse:\n    print('No even number found')",
+  "difficulty": 10,
+  "options": [
+    "Even found: 2",
+    "No even number found",
+    "Even found: 2\nNo even number found",
+    "No output"
+  ],
+  "answer": "Even found: 2"
+}

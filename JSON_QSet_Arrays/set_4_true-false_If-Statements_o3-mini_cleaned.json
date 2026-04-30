@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "An if-statement in Python always must be followed by an else-statement.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 2,
+    "question": "Python if-statements use indentation to define blocks of code.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 3,
+    "question": "In an if-statement, the condition must evaluate to a Boolean value (or a truthy/falsy value).",
+    "answer": "True"
+  },
+  {
+    "difficulty": 4,
+    "question": "The syntax 'if x = y:' is valid in Python if-statements.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 5,
+    "question": "An if-statement's condition in Python can combine multiple conditions using 'and' and 'or'.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "In Python, the block of code for an if-statement must be indented consistently, typically with four spaces.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 7,
+    "question": "You can execute multiple statements on the same line in an if-statement's block by separating them with semicolons.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "Python allows for nested if-statements and their corresponding else clauses without requiring any additional syntax.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 9,
+    "question": "The following code will result in a syntax error: if (x > 5): print('Greater than 5') else: print('Not greater than 5')",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "In Python, a conditional expression (ternary operator) can be used as an alternative to if-statements when assigning a value, using the syntax 'result = true_value if condition else false_value'.",
+    "answer": "True"
+  }
+]

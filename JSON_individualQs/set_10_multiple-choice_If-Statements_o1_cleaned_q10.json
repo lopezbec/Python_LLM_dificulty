@@ -1,0 +1,12 @@
+{
+  "difficulty": 10,
+  "question": "Which statement about short-circuit evaluation in Python if statements is correct when using 'and' or 'or'?",
+  "choices": [
+    "A) Python always evaluates every operand, ignoring short-circuit evaluation.",
+    "B) Python uses short-circuit evaluation, so the second operand may not be evaluated if the result is known.",
+    "C) Python applies short-circuit evaluation only to the 'and' operator and not to the 'or' operator.",
+    "D) Short-circuit evaluation is only applied to built-in functions, not user-defined expressions."
+  ],
+  "correct_answer": "B",
+  "explanation": "Python's logical operators 'and' and 'or' perform short-circuit evaluation, meaning the second expression is skipped if the overall outcome can be determined from the first."
+}

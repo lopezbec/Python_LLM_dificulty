@@ -1,0 +1,15 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blanks to check if 'score' variable is between 50 and 100.",
+  "code": "if __lower__ score __upper__: \n    print(\"Score is valid\")",
+  "options": [
+    "50 <=",
+    "<= 100",
+    "< 50",
+    "> 100"
+  ],
+  "answers": [
+    "50 <=",
+    "<= 100"
+  ]
+}

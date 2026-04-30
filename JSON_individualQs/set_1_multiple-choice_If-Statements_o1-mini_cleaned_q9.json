@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code output when x is 7?\n\nx = 7\nif x % 2 == 0:\n    print(\"Even\")\nelif x % 3 == 0:\n    print(\"Divisible by 3\")\nelse:\n    print(\"Odd\")",
+  "options": {
+    "A": "Even",
+    "B": "Divisible by 3",
+    "C": "Odd",
+    "D": "Error"
+  },
+  "answer": "C",
+  "difficulty": 9
+}

@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if user_input.isdigit():",
+        "num = int(user_input)",
+        "if num > 0:",
+        "print('Positive')",
+        "elif num == 0:",
+        "print('Zero')",
+        "______:",
+        "print('Negative')"
+    ]
+}

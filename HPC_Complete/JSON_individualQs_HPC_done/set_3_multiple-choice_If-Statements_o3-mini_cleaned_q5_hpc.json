@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 15",
+        "if x < 10:",
+        "print(\"Too low\")",
+        "elif x < 20:",
+        "print(\"Just right\")",
+        "else:",
+        "print(\"Too high\")",
+        "x",
+        "Too low",
+        "Just right",
+        "Too high",
+        "None of the above"
+    ]
+}

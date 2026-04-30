@@ -1,0 +1,10 @@
+{
+  "question": "What is a generator in Python?",
+  "options": {
+    "A": "A function that returns a list.",
+    "B": "A function that returns an iterator.",
+    "C": "A loop that cannot be stopped.",
+    "D": "A data type for storing multiple items."
+  },
+  "answer": "B"
+}

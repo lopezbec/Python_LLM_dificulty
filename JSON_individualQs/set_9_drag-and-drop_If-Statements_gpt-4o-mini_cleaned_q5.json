@@ -1,0 +1,13 @@
+{
+  "difficulty": 5,
+  "question": "Drag and drop the correct Boolean expressions to complete the if-statement:\n\nif (____ and ____):\n    print('Both conditions are true')",
+  "options": [
+    "x > 10",
+    "y < 5",
+    "x == 5"
+  ],
+  "correct_answers": [
+    "x > 10",
+    "y < 5"
+  ]
+}

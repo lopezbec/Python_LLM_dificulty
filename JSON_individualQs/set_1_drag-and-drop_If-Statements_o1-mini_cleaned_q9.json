@@ -1,0 +1,40 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Match the following if statement scenarios to their expected outputs.",
+  "drag_options": [
+    {
+      "scenario": "if x > 10 and y < 5:",
+      "output": "Scenario A"
+    },
+    {
+      "scenario": "if not (a == b):",
+      "output": "Scenario B"
+    },
+    {
+      "scenario": "if x > 0 or y > 0:",
+      "output": "Scenario C"
+    }
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Prints when either x is positive or y is positive.",
+      "identifier": "output_A"
+    },
+    {
+      "placeholder": "Prints only when x is greater than 10 and y is less than 5.",
+      "identifier": "output_B"
+    },
+    {
+      "placeholder": "Prints when a is not equal to b.",
+      "identifier": "output_C"
+    }
+  ],
+  "correct_matches": {
+    "if x > 10 and y < 5:": "Prints only when x is greater than 10 and y is less than 5.",
+    "if not (a == b):": "Prints when a is not equal to b.",
+    "if x > 0 or y > 0:": "Prints when either x is positive or y is positive."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "difficulty": 3,
+  "description": "Complete the if-statement to check both conditions and print 'Correct' if both are true.",
+  "premise": "a = 7\nb = 10\nif __ and __:\n    print('Correct')",
+  "options": [
+    "a < 10",
+    "b == 10",
+    "a > 10",
+    "b != 10"
+  ],
+  "correct_answer": [
+    "a < 10",
+    "b == 10"
+  ]
+}

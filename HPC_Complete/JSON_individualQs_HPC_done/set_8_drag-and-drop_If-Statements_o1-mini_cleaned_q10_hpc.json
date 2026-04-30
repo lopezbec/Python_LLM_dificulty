@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "try:",
+        "    if user.is_active:",
+        "        if user.has_permission():",
+        "            perform_action()",
+        "        else:",
+        "            raise PermissionError(\"User lacks permissions\")",
+        "    else:",
+        "        print(\"User is not active\")",
+        "except PermissionError as e:",
+        "    print(e)"
+    ]
+}

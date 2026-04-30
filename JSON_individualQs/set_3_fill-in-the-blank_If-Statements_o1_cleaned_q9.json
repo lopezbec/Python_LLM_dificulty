@@ -1,0 +1,6 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank to complete the nested if-statement that prints 'Single-digit positive number' if x is between 1 and 9:\nif x > 0:\n    ______ x < 10:\n        print('Single-digit positive number')",
+  "answer": "if"
+}

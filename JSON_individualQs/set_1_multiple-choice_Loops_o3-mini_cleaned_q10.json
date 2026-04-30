@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following code snippet:\n\n def generator():\n     for i in range(3):\n         yield i\n\n for value in generator():\n     if value == 1:\n         break\n else:\n     print('Completed')\n\nWhat is the output of this code?",
+  "options": [
+    "Completed",
+    "Nothing is printed",
+    "1",
+    "0 Completed"
+  ],
+  "correct_answer": "Nothing is printed"
+}

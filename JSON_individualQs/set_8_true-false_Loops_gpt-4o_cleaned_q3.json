@@ -1,0 +1,5 @@
+{
+  "question": "The 'break' statement immediately terminates a loop, even if the loop condition is still True.",
+  "difficulty": 3,
+  "answer": "True"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "An else clause attached to a loop in Python will execute even if the loop is terminated early by a break statement.",
+  "answer": "False"
+}

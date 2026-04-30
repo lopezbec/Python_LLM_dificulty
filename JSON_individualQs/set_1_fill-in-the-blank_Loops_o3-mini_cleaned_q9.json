@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: A loop that runs endlessly because it lacks a proper termination condition is commonly known as an ______ loop.",
+  "answer": "infinite"
+}

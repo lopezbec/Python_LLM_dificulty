@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Fill in the blank to start an if-statement that checks if x is equal to 5:\n\n```python\nif x ____ 5:\n    print(\"x is five.\")\n```",
+    "answer": "==",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank to execute code when y is not zero:\n\n```python\nif y ____ 0:\n    print(\"y is not zero.\")\n```",
+    "answer": "!=",
+    "difficulty": 2
+  },
+  {
+    "question": "Fill in the blank to check if age is greater than or equal to 18:\n\n```python\nif age ____ 18:\n    print(\"Adult\")\n```",
+    "answer": ">=",
+    "difficulty": 3
+  },
+  {
+    "question": "Complete the missing keyword to add an else block:\n\n```python\nif score > 50:\n    print(\"Pass\")\n____:\n    print(\"Fail\")\n```",
+    "answer": "else",
+    "difficulty": 4
+  },
+  {
+    "question": "Fill in the blank to check multiple conditions using elif:\n\n```python\nif temperature > 30:\n    print(\"Hot\")\n____ temperature > 20:\n    print(\"Warm\")\nelse:\n    print(\"Cold\")\n```",
+    "answer": "elif",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blank to evaluate if a number is even:\n\n```python\nif number % 2 ____ 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")\n```",
+    "answer": "==",
+    "difficulty": 6
+  },
+  {
+    "question": "Fill in the blank to check if a list is empty:\n\n```python\nif not ____:\n    print(\"List is empty\")\n```",
+    "answer": "my_list",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank to ensure the else block only runs if previous conditions fail:\n\n```python\nif a > b:\n    print(\"a is greater\")\nelif a == b:\n    print(\"a and b are equal\")\n____:\n    print(\"b is greater\")\n```",
+    "answer": "else",
+    "difficulty": 8
+  },
+  {
+    "question": "Fill in the blank to use a nested if-statement:\n\n```python\nif x > 0:\n    if x > 10:\n        print(\"x is greater than 10\")\n    ____\n        print(\"x is positive but not greater than 10\")\n```",
+    "answer": "else",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank to check if a number is between 10 and 20:\n\n```python\nif 10 <= num ____ num <= 20:\n    print(\"num is between 10 and 20\")\n```",
+    "answer": "and",
+    "difficulty": 10
+  }
+]

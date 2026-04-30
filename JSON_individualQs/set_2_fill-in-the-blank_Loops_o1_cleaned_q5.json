@@ -1,0 +1,5 @@
+{
+  "question": "When iterating over a dictionary using a for loop, we typically use the ______ method to get its keys.",
+  "difficulty": 5,
+  "answer": "keys"
+}

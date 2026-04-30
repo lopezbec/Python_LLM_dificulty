@@ -1,0 +1,11 @@
+{
+  "question": "How many times is 'Hello' printed?\n\nfor i in range(5):\n    if i == 2:\n        break\n    print('Hello')",
+  "difficulty": 4,
+  "options": [
+    "A. 0",
+    "B. 2",
+    "C. 3",
+    "D. 5"
+  ],
+  "answer": "B"
+}

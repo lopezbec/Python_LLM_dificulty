@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which Python keyword is used to create a basic conditional statement?",
+  "choices": {
+    "A": "if",
+    "B": "for",
+    "C": "while",
+    "D": "def"
+  },
+  "correct_answer": "A"
+}

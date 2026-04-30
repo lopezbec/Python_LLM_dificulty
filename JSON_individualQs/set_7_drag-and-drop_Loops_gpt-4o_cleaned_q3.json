@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "question_type": "drag-and-drop",
+  "question": "Drag the correct component to complete the while loop condition that stops at 3.",
+  "code": "i = 0\nwhile i ___ 3:\n    print(i)\n    i += 1",
+  "options": [
+    "<",
+    "<=",
+    "!="
+  ],
+  "correct_option": "<"
+}

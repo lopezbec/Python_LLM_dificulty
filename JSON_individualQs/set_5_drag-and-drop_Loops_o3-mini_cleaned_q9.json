@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Arrange the components of a for loop that uses the enumerate function to print both the index and the value.",
+  "instructions": "Drag and drop the code parts to form a loop that iterates over a list 'items' while printing the index and the value of each element.",
+  "dragItems": [
+    "for index, value in enumerate(items):",
+    "print(index, value)"
+  ],
+  "dropZones": [
+    "Step 1 (Loop using enumerate)",
+    "Step 2 (Print index and value)"
+  ],
+  "correctOrder": [
+    "for index, value in enumerate(items):",
+    "print(index, value)"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "question": "Fill in the blank to complete the if statement in Python:\n\nif x ___ 10:\n    print('x is less than 10')",
+  "answer": "<",
+  "difficulty": 1
+}

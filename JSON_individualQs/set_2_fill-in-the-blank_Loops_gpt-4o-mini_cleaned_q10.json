@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "When looping through dictionaries in Python, the method _____ is used to access keys and values simultaneously.",
+  "answer": "items()"
+}

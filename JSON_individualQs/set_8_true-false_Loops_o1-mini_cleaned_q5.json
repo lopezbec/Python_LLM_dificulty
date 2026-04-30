@@ -1,0 +1,6 @@
+{
+  "question": "In Python, you cannot have an empty loop body.",
+  "answer": false,
+  "difficulty": 5,
+  "topic": "Loops"
+}

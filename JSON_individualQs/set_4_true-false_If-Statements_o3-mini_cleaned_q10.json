@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, a conditional expression (ternary operator) can be used as an alternative to if-statements when assigning a value, using the syntax 'result = true_value if condition else false_value'.",
+  "answer": "True"
+}

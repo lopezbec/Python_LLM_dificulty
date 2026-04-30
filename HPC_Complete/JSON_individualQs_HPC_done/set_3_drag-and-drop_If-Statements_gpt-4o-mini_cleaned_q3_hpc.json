@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if ( ______ ) { return True; }",
+        "x != 0",
+        "return False",
+        "True",
+        "x = 0"
+    ]
+}

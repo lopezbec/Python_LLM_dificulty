@@ -1,0 +1,10 @@
+{
+  "question": "5. What will be the output of the following code?\n\n```python\nx = 10\ny = 5\nif x > y and y > 2:\n    print('Condition met')\nelse:\n    print('Condition not met')\n```\n",
+  "options": [
+    "A) Condition met",
+    "B) Condition not met",
+    "C) Syntax error",
+    "D) None"
+  ],
+  "answer": "A"
+}

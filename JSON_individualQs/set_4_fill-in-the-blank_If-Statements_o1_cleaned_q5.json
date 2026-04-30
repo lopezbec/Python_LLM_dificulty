@@ -1,0 +1,6 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "question_text": "Fill in the blank with the correct operator to require both conditions to be true:\nif x > 0 ______ y > 0:\n    print(\"Both x and y are positive\")",
+  "correct_answer": "and"
+}

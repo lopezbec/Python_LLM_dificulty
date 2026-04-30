@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "Fill in the blanks to create a basic `for` loop that iterates over a range of 5 numbers.",
+  "code": "for __ in ____(5):\n    print(__)",
+  "options": [
+    "i",
+    "range",
+    "n",
+    "print",
+    "variable"
+  ],
+  "answers": {
+    "blank1": "i",
+    "blank2": "range",
+    "blank3": "i"
+  }
+}

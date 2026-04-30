@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "In Python, a loop that does not have a terminating condition is called an ____ loop.",
+  "answer": "infinite"
+}

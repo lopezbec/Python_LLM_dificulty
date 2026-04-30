@@ -1,0 +1,16 @@
+{
+  "difficulty": 7,
+  "description": "Complete the if-elif-else structure to categorize 'score' into 'Low', 'Medium', or 'High'.",
+  "code": "score = 75\nif ( score < 50 ):\n    print('Low')\nelif ( 50 <= score < 80 ):\n    print('Medium')\nelse:\n    print('High')",
+  "options": [
+    "<",
+    ">=",
+    "<=",
+    "score",
+    "80"
+  ],
+  "correct": [
+    "50",
+    "80"
+  ]
+}

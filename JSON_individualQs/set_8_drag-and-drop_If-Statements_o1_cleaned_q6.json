@@ -1,0 +1,21 @@
+{
+  "question_number": 6,
+  "difficulty": 6,
+  "instruction": "Complete the if-elif structure to categorize x as less than 5, between 5 and 9, or 10 or more.",
+  "code_with_blanks": "x = 10\n_____ x < 5 _____\n    print(\"Less than 5\")\n_____ x < 10 _____\n    print(\"Between 5 and 9\")\nelse:\n    print(\"10 or more\")",
+  "drag_options": [
+    "if",
+    "elif",
+    "else",
+    "for",
+    "and",
+    ":"
+  ],
+  "correct_sequence": [
+    "if",
+    ":",
+    "elif",
+    ":"
+  ],
+  "explanation": "Use 'if' and ':' for the first condition, then 'elif' and ':' for the second condition."
+}

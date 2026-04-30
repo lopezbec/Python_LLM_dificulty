@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "instruction": "Fill the blanks to form a valid nested if-statement to check if age is positive and under 18.",
+  "code": "____ age > 0:\n    ____ age < 18:\n       print('Minor')",
+  "options": [
+    "if",
+    "else",
+    "elif",
+    "while"
+  ],
+  "answer": [
+    "if",
+    "if"
+  ]
+}

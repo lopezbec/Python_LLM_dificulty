@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "username",
+        "if username.startswith('_____'):",
+        "print('Username starts with A')"
+    ]
+}

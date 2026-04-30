@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following nested loop:\n\nfor i in range(2):\n    for j in range(3):\n        print(i, j)\n\nHow many total lines will be printed?",
+  "options": {
+    "A": "5",
+    "B": "6",
+    "C": "8",
+    "D": "9"
+  },
+  "correctAnswer": "B"
+}

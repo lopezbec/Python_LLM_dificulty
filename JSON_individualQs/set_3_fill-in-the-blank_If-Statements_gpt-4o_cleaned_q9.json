@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: To handle multiple ranges or logical conditions, you can structure if-statements with _____ operators such as 'or' and 'not'.",
+  "answer": "logical"
+}

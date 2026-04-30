@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if person:",
+        "if 13 <= person.age <= 19:",
+        "print('Teenager')",
+        "person",
+        "13",
+        "19",
+        "True",
+        "pass",
+        "continue",
+        "break"
+    ]
+}

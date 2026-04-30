@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "questionType": "drag-and-drop",
+  "questionText": "Arrange the code pieces to form a Python while-loop that prints the numbers 0 and 1.",
+  "prompt": "Drag the snippets into the proper order to form a while-loop that initializes i to 0, prints i, and increments it until i is no longer less than 2.",
+  "dragItems": [
+    "i = 0",
+    "while i < 2:",
+    "print(i)",
+    "i += 1"
+  ],
+  "dropZones": 4,
+  "correctSequence": [
+    "i = 0",
+    "while i < 2:",
+    "print(i)",
+    "i += 1"
+  ]
+}

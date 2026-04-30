@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for i in range(infinity):",
+        "while True:",
+        "do while(True):",
+        "while(1): sleep(1)"
+    ]
+}

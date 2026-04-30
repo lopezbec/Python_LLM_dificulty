@@ -1,0 +1,13 @@
+{
+  "questionNumber": 9,
+  "difficulty": 9,
+  "question": "Drag the function name that couples each index with its character in 'cat'.",
+  "codeSnippet": "for index, char in ???('cat'):\n    print(index, char)",
+  "options": [
+    "zip",
+    "range",
+    "split",
+    "enumerate"
+  ],
+  "correctAnswer": "enumerate"
+}

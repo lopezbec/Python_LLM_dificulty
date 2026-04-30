@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "In a while loop in Python, if you do not include a condition that eventually becomes ___, the loop will run indefinitely.",
+  "answer": "False"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "topic": "Loops",
+  "question": "Match the loop with its output.",
+  "drag_items": [
+    "for i in range(3):\n    print(i)",
+    "i = 0\nwhile i < 3:\n    print(i)\n    i += 1"
+  ],
+  "drop_zones": [
+    "0\n1\n2",
+    "0\n1\n2"
+  ],
+  "instructions": "Drag each loop to its corresponding output."
+}

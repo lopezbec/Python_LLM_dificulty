@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to complete the nested if-statement that checks if `age` is greater than or equal to 18 and `has_license` is `True`:\n\n```python\nif age >= 18:\n    if has_license ___ True:\n        print(\"Can drive\")\n```",
+  "answer": "==",
+  "level": 4
+}

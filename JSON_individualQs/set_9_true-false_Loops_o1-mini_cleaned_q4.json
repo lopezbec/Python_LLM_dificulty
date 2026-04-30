@@ -1,0 +1,7 @@
+{
+  "question": "A 'for' loop can be used to iterate over a range of numbers using the 'range()' function in Python.",
+  "type": "true/false",
+  "difficulty": 4,
+  "topic": "loops",
+  "correct_answer": "True"
+}

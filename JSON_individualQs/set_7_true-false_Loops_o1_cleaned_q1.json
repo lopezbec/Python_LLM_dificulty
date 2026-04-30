@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "A 'for' loop can iterate over a string character by character in Python.",
+  "correct_answer": "True"
+}

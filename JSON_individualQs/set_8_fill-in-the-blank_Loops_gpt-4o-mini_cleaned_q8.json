@@ -1,0 +1,10 @@
+{
+  "difficulty": 8,
+  "question": "Using nested loops, to print a triangle pattern of asterisks, the outer loop typically controls the number of ________.",
+  "correct_answer": "rows",
+  "incorrect_answers": [
+    "columns",
+    "iterations",
+    "characters"
+  ]
+}

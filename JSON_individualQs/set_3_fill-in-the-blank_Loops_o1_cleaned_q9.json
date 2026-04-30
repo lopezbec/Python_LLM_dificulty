@@ -1,0 +1,6 @@
+{
+  "difficulty": 9,
+  "type": "fill-in-the-blank",
+  "question": "When using a 'while' loop, you must manually change the loop variable's value to avoid creating an '___' loop.",
+  "correct_answer": "infinite"
+}

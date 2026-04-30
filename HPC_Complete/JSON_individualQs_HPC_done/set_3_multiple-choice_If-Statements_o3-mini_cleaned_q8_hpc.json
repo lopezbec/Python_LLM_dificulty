@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "x = 0",
+        "y = 5",
+        "if x > 0 or y > 0:",
+        "print(\"At least one is positive\")",
+        "else:",
+        "print(\"None is positive\")"
+    ]
+}

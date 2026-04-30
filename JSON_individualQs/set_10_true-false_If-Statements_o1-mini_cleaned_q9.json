@@ -1,0 +1,5 @@
+{
+  "question": "Using an if-statement without an accompanying else or elif can lead to syntax errors in Python.",
+  "difficulty": 9,
+  "answer": false
+}

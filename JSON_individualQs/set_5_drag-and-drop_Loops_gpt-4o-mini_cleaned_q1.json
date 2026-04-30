@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct loop type to complete the statement: 'To iterate over a list, we typically use a ____ loop.'",
+  "options": [
+    "for",
+    "while",
+    "do-while",
+    "foreach"
+  ],
+  "correct_answer": "for"
+}

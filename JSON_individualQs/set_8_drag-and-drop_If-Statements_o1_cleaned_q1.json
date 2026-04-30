@@ -1,0 +1,18 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "instruction": "Drag and drop the correct keywords to make the if statement check if x is greater than 10.",
+  "code_with_blanks": "x = 15\n_____ x > 10 _____\n    print(\"x is greater than 10\")",
+  "drag_options": [
+    "if",
+    "for",
+    "while",
+    ":",
+    "="
+  ],
+  "correct_sequence": [
+    "if",
+    ":"
+  ],
+  "explanation": "Use 'if' to start the condition and ':' to begin the block."
+}

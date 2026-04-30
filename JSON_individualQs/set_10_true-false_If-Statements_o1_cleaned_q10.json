@@ -1,0 +1,9 @@
+{
+  "question": "A Python if statement can always be replaced entirely by a single line ternary operator.",
+  "difficulty": 10,
+  "options": [
+    "True",
+    "False"
+  ],
+  "correct_answer": "False"
+}

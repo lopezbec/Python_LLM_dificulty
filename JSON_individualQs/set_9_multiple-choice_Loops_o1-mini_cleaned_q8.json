@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of this code snippet?\n\nfor i in range(5):\n\u2003 if i == 3:\n\u2003\u2003 break\n\u2003 print(i)",
+  "options": [
+    "0 1 2 3",
+    "0 1 2",
+    "0 1 2 3 4",
+    "No output"
+  ],
+  "answer": "0 1 2",
+  "difficulty": 8
+}

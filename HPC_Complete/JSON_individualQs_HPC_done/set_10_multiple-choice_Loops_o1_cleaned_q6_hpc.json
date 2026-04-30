@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "items = [\"apple\", \"banana\", \"cherry\"]",
+        "for i in range(len(items)):",
+        "if i == 1:",
+        "continue",
+        "print(items[i])",
+        "items"
+    ]
+}

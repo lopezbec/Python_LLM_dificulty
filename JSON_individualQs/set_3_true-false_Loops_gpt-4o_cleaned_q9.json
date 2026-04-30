@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "In a while loop with an always-true condition, the loop can run infinitely unless there is a break statement.",
+  "answer": "True"
+}

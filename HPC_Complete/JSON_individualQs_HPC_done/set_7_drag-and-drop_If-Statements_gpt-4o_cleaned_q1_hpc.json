@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if __condition__:",
+        "    __print_statement__",
+        "x > 0",
+        "print('Positive number')"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "prompt": "Drag and drop the correct number to adjust the range so the loop runs exactly 4 times.",
+  "drag_options": [
+    "0",
+    "3",
+    "4",
+    "5"
+  ],
+  "drop_target": "for i in range(___):"
+}

@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "Loop unrolling",
+        "Loop fusion",
+        "Loop invariant code motion"
+    ]
+}

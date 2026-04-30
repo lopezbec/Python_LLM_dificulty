@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "count = 5",
+        "while count ____ 0:",
+        "print(count)",
+        "count -= 1",
+        ">",
+        "<",
+        "==",
+        "<="
+    ]
+}

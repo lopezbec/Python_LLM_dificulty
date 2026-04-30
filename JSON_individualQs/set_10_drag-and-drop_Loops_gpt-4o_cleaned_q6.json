@@ -1,0 +1,14 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blanks to create a loop with a break statement when the value is 3.\n\nfor i in range(___):\n    if i == ___:\n        break\n    print(i)",
+  "options": [
+    "5",
+    "3",
+    "10",
+    "1"
+  ],
+  "answer": [
+    "5",
+    "3"
+  ]
+}

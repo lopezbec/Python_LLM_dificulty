@@ -1,0 +1,11 @@
+{
+  "question": "Which loop will execute at least once even if the condition fails?",
+  "options": [
+    "A. for loop",
+    "B. while loop",
+    "C. do-while loop",
+    "D. None of the above"
+  ],
+  "answer": "C",
+  "difficulty": 6
+}

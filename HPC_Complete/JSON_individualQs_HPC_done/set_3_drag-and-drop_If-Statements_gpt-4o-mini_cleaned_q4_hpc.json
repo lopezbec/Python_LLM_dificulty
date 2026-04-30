@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if (y < 0) { ______ } else { print(y) }",
+        "print('Negative')",
+        "y * 2",
+        "True",
+        "y = 1"
+    ]
+}

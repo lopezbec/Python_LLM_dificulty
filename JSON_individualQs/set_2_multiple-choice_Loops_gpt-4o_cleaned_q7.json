@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Consider the code snippet:\n```python\nfor i in range(5):\n    if i == 3:\n        break\n    print(i)\n```\nWhat is the output?",
+  "options": [
+    "0 1 2",
+    "0 1 2 3",
+    "0 1 2 3 4",
+    "3"
+  ],
+  "correct_answer": "0 1 2"
+}

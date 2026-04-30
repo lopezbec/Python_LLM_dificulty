@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "The following code snippet will raise a syntax error: if (x > 10) print('x is large')",
+  "answer": true
+}

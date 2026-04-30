@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What does the 'continue' statement do in a loop?",
+  "choices": [
+    "Exits the loop",
+    "Skips the rest of the code inside the loop for the current iteration",
+    "Exits the program",
+    "Pauses the loop"
+  ],
+  "answer": "Skips the rest of the code inside the loop for the current iteration"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "topic": "if-statements",
+  "question": "Fill in the missing logical operators to check if x is between 0 and 10 (inclusive).",
+  "instruction": "Drag the correct operator into each blank.",
+  "code": "if 0 ____ x ____ 10:\n    print('x is between 0 and 10')",
+  "dragItems": [
+    "<=",
+    ">=",
+    "==",
+    "!="
+  ],
+  "dropZones": [
+    "[operator1]",
+    "[operator2]"
+  ],
+  "correctMapping": {
+    "[operator1]": "<=",
+    "[operator2]": "<="
+  }
+}

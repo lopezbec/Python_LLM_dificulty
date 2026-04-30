@@ -1,0 +1,7 @@
+{
+  "question": "List comprehensions in Python are a form of loops that can include conditional statements to filter items, making them equivalent to nested loops in complexity.",
+  "answer": false,
+  "difficulty": 10,
+  "topic": "Loops",
+  "type": "True/False"
+}

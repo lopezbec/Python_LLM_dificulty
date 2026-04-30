@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Consider the following code that assigns a grade based on the score:\n\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= 80:\n    if score >= 85:\n        grade = 'B+'\n    else:\n        grade = 'B'\nelif score >= 70:\n    grade = 'C'\nelse:\n    grade = 'F'\n\nWhat grade is assigned when score is 85?",
+  "options": [
+    "A",
+    "B+",
+    "B",
+    "C"
+  ],
+  "correct_answer": "B+"
+}

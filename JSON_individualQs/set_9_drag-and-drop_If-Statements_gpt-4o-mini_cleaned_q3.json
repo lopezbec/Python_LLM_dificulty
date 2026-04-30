@@ -1,0 +1,12 @@
+{
+  "difficulty": 3,
+  "question": "Arrange the following components of an if-statement in the correct order:\n\n____ condition: \n    ____",
+  "options": [
+    "if",
+    "print('Condition met')"
+  ],
+  "correct_answers": [
+    "if",
+    "print('Condition met')"
+  ]
+}

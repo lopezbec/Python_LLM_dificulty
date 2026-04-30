@@ -1,0 +1,5 @@
+{
+  "question": "When optimizing loops for performance in Python, one common technique is to minimize the use of _______ inside the loop body.",
+  "answer": "function calls",
+  "difficulty": 10
+}

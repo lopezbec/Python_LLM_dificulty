@@ -1,0 +1,5 @@
+{
+  "question": "A 'for' loop in Python automatically generates a sequence of numbers for iteration if no iterable is provided.",
+  "difficulty": 7,
+  "answer": "False"
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "question": "Which is the correct syntax for a simple if statement in Python that checks if x is greater than 0?",
+  "choices": [
+    "A) if x > 0:",
+    "B) if x > 0",
+    "C) if (x > 0);",
+    "D) x if > 0:"
+  ],
+  "correct_answer": "A",
+  "explanation": "In Python, an if statement must end with a colon, and the condition goes immediately after the 'if' keyword."
+}

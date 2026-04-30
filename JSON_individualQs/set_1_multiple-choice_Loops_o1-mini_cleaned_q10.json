@@ -1,0 +1,10 @@
+{
+  "question": "What will the following code output?\n\ndef generator():\n    for i in range(3):\n        yield i\n    else:\n        print(\"Loop completed\")\n\ngen = generator()\nfor num in gen:\n    print(num)",
+  "options": {
+    "A": "0\n1\n2",
+    "B": "0\n1\n2\nLoop completed",
+    "C": "0 1 2 Loop completed",
+    "D": "Loop completed"
+  },
+  "answer": "B"
+}

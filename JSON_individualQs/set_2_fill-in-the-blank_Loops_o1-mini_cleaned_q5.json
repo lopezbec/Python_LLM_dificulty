@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to break out of the loop when `i` is equal to 3:\n\n```python\nfor i in range(5):\n    if i == 3:\n        ___\n    print(i)\n```",
+  "answer": "break"
+}

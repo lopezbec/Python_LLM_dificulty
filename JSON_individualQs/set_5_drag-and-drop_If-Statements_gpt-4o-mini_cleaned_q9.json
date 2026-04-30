@@ -1,0 +1,10 @@
+{
+  "difficulty": 9,
+  "question": "Complete the nested if statement to check if 'x' is greater than 0 and if a variable 'flag' is True: if x > 0:",
+  "options": [
+    "if flag:",
+    "if flag == True:",
+    "if flag == False:"
+  ],
+  "correct_option": "if flag:"
+}

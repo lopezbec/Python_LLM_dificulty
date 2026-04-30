@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "With short-circuit evaluation, Python stops evaluating an if-condition as soon as it determines the overall condition's truth value.",
+  "answer": true
+}

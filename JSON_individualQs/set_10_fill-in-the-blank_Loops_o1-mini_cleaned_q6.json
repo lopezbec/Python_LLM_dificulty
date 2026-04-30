@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "difficulty": 6,
+  "question": "Fill in the blank to iterate over both keys and values in a dictionary using a for loop.\n\n```python\ndictionary = {'a': 1, 'b': 2}\nfor key, value in dictionary.___():\n    print(key, value)\n```",
+  "answer": "items"
+}

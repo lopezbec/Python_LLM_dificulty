@@ -1,0 +1,6 @@
+{
+  "difficulty": 7,
+  "type": "fill-in-the-blank",
+  "question": "Fill in the blank: To check if at least one condition is True in an if-statement, you use the ____ operator.",
+  "answer": "or"
+}

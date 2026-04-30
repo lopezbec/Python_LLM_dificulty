@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "The expressions 'if not x is None:' and 'if x is not None:' are equivalent in Python.",
+  "answer": true
+}

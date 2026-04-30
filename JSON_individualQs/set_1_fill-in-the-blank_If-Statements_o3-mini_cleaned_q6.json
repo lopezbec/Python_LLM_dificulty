@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "Fill in the blank: To provide an alternative block of code when the if condition fails, complete this if-else statement:\nif n % 2 == 0:\n    print('Even')\n_____:\n    print('Odd')",
+  "answer": "else"
+}

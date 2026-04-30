@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "while True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___",
+        "stop",
+        "exit",
+        "break"
+    ]
+}

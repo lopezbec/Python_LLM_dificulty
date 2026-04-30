@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following is the default step value in Python's range() function used in a for loop?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "-1"
+  },
+  "correctAnswer": "B"
+}

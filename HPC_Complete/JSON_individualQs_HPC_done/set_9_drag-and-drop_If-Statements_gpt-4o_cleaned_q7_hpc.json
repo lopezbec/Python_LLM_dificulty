@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "temperature = 75",
+        "status = 'active'",
+        "if __:",
+        "if __:",
+        "print('Qualified')",
+        "temperature > 70",
+        "status == 'active'",
+        "temperature < 70",
+        "status != 'active'"
+    ]
+}

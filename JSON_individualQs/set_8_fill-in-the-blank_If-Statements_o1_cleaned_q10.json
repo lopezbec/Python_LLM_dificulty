@@ -1,0 +1,11 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question": "Fill in the blank to raise an exception if x is negative: if x < 0: ______ ValueError('Negative number!')",
+  "correct_answer": "raise",
+  "incorrect_answers": [
+    "pass",
+    "break",
+    "continue"
+  ]
+}

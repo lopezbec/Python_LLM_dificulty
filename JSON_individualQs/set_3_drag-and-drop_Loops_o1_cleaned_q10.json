@@ -1,0 +1,26 @@
+{
+  "questionNumber": 10,
+  "difficulty": 10,
+  "questionText": "Drag the correct pieces to form a while loop that repeatedly prompts the user for input until they type 'exit', storing all valid inputs in a list called 'entries':",
+  "codeSnippet": [
+    "entries = []",
+    "while True:",
+    "    user_input = input('Enter something (or exit): ')",
+    "    [EXIT_CONDITION_PLACEHOLDER]",
+    "    [APPEND_PLACEHOLDER]"
+  ],
+  "dragItems": [
+    "if user_input.lower() == 'exit': break",
+    "entries.append(user_input)",
+    "if user_input.lower() == 'exit': continue",
+    "entries.remove(user_input)"
+  ],
+  "dropSlots": [
+    "EXIT_CONDITION_PLACEHOLDER",
+    "APPEND_PLACEHOLDER"
+  ],
+  "correctMatches": {
+    "EXIT_CONDITION_PLACEHOLDER": "if user_input.lower() == 'exit': break",
+    "APPEND_PLACEHOLDER": "entries.append(user_input)"
+  }
+}

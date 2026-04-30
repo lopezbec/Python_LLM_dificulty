@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In a for loop, to loop over both elements and their indices, you can use the ___ function.",
+  "answer": "enumerate"
+}

@@ -1,0 +1,13 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "type": "multiple-choice",
+  "question": "Given a very large list of numbers, which approach is generally more efficient in terms of memory usage to process these elements in Python?",
+  "options": [
+    "A) Using a for loop with a list slicing in each iteration",
+    "B) Converting the entire list into a string before processing",
+    "C) Using a while loop that duplicates the list each time",
+    "D) Using a generator expression to handle the numbers on demand"
+  ],
+  "correct_answer": "D"
+}

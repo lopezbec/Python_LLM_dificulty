@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "topic": "Loops",
+  "question": "Fill in the blanks to complete a simple for loop that prints numbers from 1 to 5.",
+  "code": "for ___ in range(___, ___):\n    print(i)",
+  "drag_and_drop_options": [
+    "i",
+    "1",
+    "6"
+  ]
+}

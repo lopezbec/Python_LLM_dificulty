@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "var = 'Positive' if x > 0 else 'Non-positive'",
+        "var = if x > 0: 'Positive' else: 'Non-positive'",
+        "if x > 0 ? var = 'Positive' : var = 'Non-positive'",
+        "var = 'Non-positive' if x > 0 else 'Positive'",
+        "var",
+        "x > 0",
+        "'Positive'",
+        "'Non-positive'",
+        "<true-value> if <condition> else <false-value>"
+    ]
+}

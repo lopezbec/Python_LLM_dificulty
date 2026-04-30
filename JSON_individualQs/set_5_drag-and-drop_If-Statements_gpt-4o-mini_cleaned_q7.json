@@ -1,0 +1,14 @@
+{
+  "difficulty": 7,
+  "question": "Arrange the parts of the if statement correctly to check for multiple conditions using 'and'.",
+  "fragments": [
+    "if age > 18 ",
+    "and country == 'USA':",
+    "print('Eligible to vote')"
+  ],
+  "correct_order": [
+    "if age > 18 ",
+    "and country == 'USA':",
+    "print('Eligible to vote')"
+  ]
+}

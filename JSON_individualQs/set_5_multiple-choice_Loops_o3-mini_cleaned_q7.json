@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which best describes the object returned by the range() function in Python 3?",
+  "options": {
+    "A": "list",
+    "B": "iterator",
+    "C": "range object",
+    "D": "generator"
+  },
+  "correct_answer": "C"
+}

@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if age >= 18 ____ citizen == True:",
+        "print(\"Eligible to vote\")"
+    ]
+}

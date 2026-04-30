@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What will be the output of the following code?\n\nx = 0\ny = 0\nif (x, y) == (0, 0):\n    print('Both are zero')\nelif x == 0:\n    print('x is zero')\nelif y == 0:\n    print('y is zero')\nelse:\n    print('Neither are zero')",
+  "options": [
+    "Both are zero",
+    "x is zero",
+    "y is zero",
+    "Neither are zero"
+  ],
+  "correct_answer": "Both are zero"
+}

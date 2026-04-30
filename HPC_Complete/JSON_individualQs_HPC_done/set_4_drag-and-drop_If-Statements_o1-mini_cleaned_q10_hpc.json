@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "def check_eligibility(age, income, credit_score):",
+        "if age >= 18:",
+        "if income >= 50000:",
+        "if credit_score >= 700:",
+        "return \"Eligible\"",
+        "else:",
+        "return \"Ineligible due to credit score\"",
+        "else:",
+        "return \"Ineligible due to income\"",
+        "else:",
+        "return \"Ineligible due to age\""
+    ]
+}

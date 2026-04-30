@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "What is the primary purpose of an if-statement in Python?",
+  "options": [
+    {
+      "label": "A",
+      "text": "To execute code conditionally",
+      "isCorrect": true
+    },
+    {
+      "label": "B",
+      "text": "To perform loops over a sequence",
+      "isCorrect": false
+    },
+    {
+      "label": "C",
+      "text": "To define a function",
+      "isCorrect": false
+    },
+    {
+      "label": "D",
+      "text": "To import external modules",
+      "isCorrect": false
+    }
+  ]
+}

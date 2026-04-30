@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "for x in range(3):",
+        "for y in range(3):",
+        "if ???:",
+        "???",
+        "print(x, y)",
+        "x == y",
+        "break",
+        "continue",
+        "x != y"
+    ]
+}

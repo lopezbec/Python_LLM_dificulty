@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Python, an if-statement starts with the keyword 'if'.",
+    "difficulty": 1,
+    "answer": true
+  },
+  {
+    "question": "In Python, an if-statement requires a colon at the end of the condition.",
+    "difficulty": 2,
+    "answer": true
+  },
+  {
+    "question": "An if-statement in Python can only contain one condition.",
+    "difficulty": 3,
+    "answer": false
+  },
+  {
+    "question": "The condition in an if-statement must always evaluate to a boolean value.",
+    "difficulty": 4,
+    "answer": false
+  },
+  {
+    "question": "Indentation is not important in Python if-statements.",
+    "difficulty": 5,
+    "answer": false
+  },
+  {
+    "question": "An else clause is mandatory in every if-statement in Python.",
+    "difficulty": 6,
+    "answer": false
+  },
+  {
+    "question": "Nested if-statements are allowed in Python.",
+    "difficulty": 7,
+    "answer": true
+  },
+  {
+    "question": "In Python, the 'elif' keyword can be used to check multiple conditions after an initial if-statement.",
+    "difficulty": 8,
+    "answer": true
+  },
+  {
+    "question": "Using an if-statement without an accompanying else or elif can lead to syntax errors in Python.",
+    "difficulty": 9,
+    "answer": false
+  },
+  {
+    "question": "In Python, logical operators such as 'and' and 'or' can be used to combine multiple conditions in an if-statement.",
+    "difficulty": 10,
+    "answer": true
+  }
+]

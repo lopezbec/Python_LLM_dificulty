@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which function is commonly used with a for loop to generate a sequence of numbers in Python?",
+  "options": {
+    "A": "enumerate",
+    "B": "range",
+    "C": "list",
+    "D": "print"
+  },
+  "correct_answer": "B"
+}

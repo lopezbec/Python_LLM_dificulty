@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for key, value in dict.items():",
+        "for key, value in dict.iteritems():",
+        "for (key, value) in dict:",
+        "for key, value in dict.keys():"
+    ]
+}

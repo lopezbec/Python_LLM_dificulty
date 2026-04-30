@@ -1,0 +1,11 @@
+{
+  "question": "What will be the output of the following code? \n\n```python\nx = 0\nwhile x < 5:\n    if x == 3:\n        break\n    x += 1\nprint(x)\n```",
+  "options": [
+    "5",
+    "3",
+    "2",
+    "0"
+  ],
+  "answer": "3",
+  "difficulty": 8
+}

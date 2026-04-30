@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "A 'for' loop in Python is typically used when the number of iterations is known.",
+  "correct_answer": true
+}

@@ -1,0 +1,12 @@
+{
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Fill in the blanks to check if 'b' is between 3 and 7 inclusive.",
+  "code": "if 3 <= b <blank> 7:\n    print('b is within range')",
+  "options": [
+    "<=",
+    "==",
+    "<"
+  ]
+}

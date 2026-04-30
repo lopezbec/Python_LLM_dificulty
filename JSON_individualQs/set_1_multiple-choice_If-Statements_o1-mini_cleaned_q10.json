@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code snippet:\n\nx = 10\ny = 20\nz = 30\nif x < y and y < z:\n    if z > 25:\n        print(\"All conditions met\")\n    else:\n        print(\"Condition z failed\")\nelse:\n    print(\"Condition x or y failed\")\n\nWhat will be printed?",
+  "options": {
+    "A": "All conditions met",
+    "B": "Condition z failed",
+    "C": "Condition x or y failed",
+    "D": "Nothing"
+  },
+  "answer": "A",
+  "difficulty": 10
+}

@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "score = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __ operator1 __:\n    grade = 'B'\nelif score >= __ operator2 __:\n    grade = 'C'\nelse:\n    grade = 'F'",
+        "operator1",
+        "operator2",
+        "80",
+        "70",
+        "60",
+        "85",
+        "75"
+    ]
+}

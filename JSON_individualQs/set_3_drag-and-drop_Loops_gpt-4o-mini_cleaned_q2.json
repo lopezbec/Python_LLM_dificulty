@@ -1,0 +1,16 @@
+{
+  "question": "Order the parts to create a while loop that prints numbers from 1 to 5.",
+  "options": [
+    "count = 1",
+    "while count <= 5:",
+    "print(count)",
+    "count += 1"
+  ],
+  "correctOrder": [
+    "count = 1",
+    "while count <= 5:",
+    "print(count)",
+    "count += 1"
+  ],
+  "difficulty": 2
+}

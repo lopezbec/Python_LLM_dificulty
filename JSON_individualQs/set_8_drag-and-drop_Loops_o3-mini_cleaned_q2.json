@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "type": "drag-and-drop",
+  "question": "Fill in the blank to complete the for loop so that it iterates exactly 5 times using the range function.",
+  "codeSnippet": "for i in range(_____):\n    print(i)",
+  "dragItems": [
+    "5",
+    "4",
+    "6"
+  ],
+  "dropTargets": [
+    "range_end"
+  ],
+  "correctMap": {
+    "range_end": "5"
+  }
+}

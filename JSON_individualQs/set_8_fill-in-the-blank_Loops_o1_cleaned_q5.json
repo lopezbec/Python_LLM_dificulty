@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "When you want to loop over a sequence and track the index of each item at the same time, you can use the __________ function inside a for loop.",
+  "answer": "enumerate"
+}

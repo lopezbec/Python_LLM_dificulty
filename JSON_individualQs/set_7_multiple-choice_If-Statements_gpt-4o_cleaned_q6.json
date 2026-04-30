@@ -1,0 +1,11 @@
+{
+  "question": "6. What will the following code output?\n\nx = 5\ny = 10\nif x > y:\n    print('X')\nelif y > x:\n    print('Y')\nelse:\n    print('Equal')",
+  "difficulty": 6,
+  "options": {
+    "a": "X",
+    "b": "Y",
+    "c": "Equal",
+    "d": "Error"
+  },
+  "correct_answer": "b"
+}

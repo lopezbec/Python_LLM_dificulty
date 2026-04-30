@@ -1,0 +1,18 @@
+{
+    "HPC": [
+        "count",
+        "0",
+        "for",
+        "char",
+        "in",
+        "string",
+        "if",
+        "char",
+        "in",
+        "vowels",
+        "aeiou",
+        "+=1",
+        ":",
+        "print(count)"
+    ]
+}

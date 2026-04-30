@@ -1,0 +1,12 @@
+{
+  "difficulty": 5,
+  "question": "In an if statement, which logical operator is used in Python to ensure two conditions must both be true?",
+  "options": [
+    "and",
+    "or",
+    "not",
+    "both"
+  ],
+  "correctAnswer": "and",
+  "explanation": "The 'and' operator in Python requires both operands (conditions) to be true."
+}

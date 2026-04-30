@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to complete the if-statement that uses a compound condition to check if `a` is divisible by both 2 and 3:\n\n```python\nif a % 2 == 0 ___ a % 3 == 0:\n    print(\"a is divisible by both 2 and 3\")\n```",
+  "answer": "and",
+  "level": 9
+}

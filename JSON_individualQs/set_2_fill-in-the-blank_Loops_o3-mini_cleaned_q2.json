@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank: To skip the rest of the current iteration in a loop and proceed to the next one, use the ____ keyword.",
+  "answer": "continue"
+}

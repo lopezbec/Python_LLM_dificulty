@@ -1,0 +1,5 @@
+{
+  "question": "Using a list comprehension with a for loop, fill in the blank to create a list of squares from 0 to 9:\n\nsquares = [x___2 for x in range(10)]",
+  "answer": "**",
+  "difficulty": 9
+}

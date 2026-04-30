@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "It is valid to have a 'for' loop without a body in Python.",
+  "answer": false
+}

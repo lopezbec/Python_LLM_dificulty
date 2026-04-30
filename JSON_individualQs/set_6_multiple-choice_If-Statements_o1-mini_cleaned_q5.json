@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following is the correct way to use multiple conditions in an if statement using logical operators?",
+  "choices": {
+    "A": "if x > 0 AND y > 0:",
+    "B": "if x > 0 && y > 0:",
+    "C": "if x > 0 and y > 0:",
+    "D": "if (x > 0) & (y > 0):"
+  },
+  "answer": "C",
+  "difficulty": 5
+}

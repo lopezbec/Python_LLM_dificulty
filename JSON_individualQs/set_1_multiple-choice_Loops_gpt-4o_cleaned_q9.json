@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "Consider the code block below. What will it print?\n\nmy_list = [1, 2, 3]\noutput = 0\nfor x in my_list:\n    if x % 2 == 0:\n        continue\n    output += x\nprint(output)",
+  "options": [
+    "6",
+    "4",
+    "3",
+    "1"
+  ],
+  "correct_answer": "4"
+}

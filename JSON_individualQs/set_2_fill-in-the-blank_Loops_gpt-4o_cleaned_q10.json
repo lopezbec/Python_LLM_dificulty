@@ -1,0 +1,5 @@
+{
+  "level": 10,
+  "question": "When processing multiple sequences in parallel, you can use the _____ function to iterate over two lists simultaneously in a loop.",
+  "answer": "zip"
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "for i in ____ (my_list):",
+        "i",
+        "reversed",
+        "range",
+        "len"
+    ]
+}

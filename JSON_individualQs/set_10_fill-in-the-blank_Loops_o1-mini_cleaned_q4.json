@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank to exit the loop when `user_input` is 'exit'.\n\n```python\nwhile True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___\n    print('You entered:', user_input)\n```",
+  "answer": "break"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to use a list comprehension with an if-statement to filter even numbers:\n\nnumbers = [1, 2, 3, 4, 5, 6]\neven_numbers = [n for n in numbers ___ n % 2 == 0]",
+  "answer": "if",
+  "difficulty": 10,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

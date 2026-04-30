@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the correct syntax for an if statement in Python?",
+    "choices": {
+      "A": "if (x > 0)",
+      "B": "if x > 0:",
+      "C": "if x > 0 then",
+      "D": "if x > 0 {}"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "question": "What will be printed by the following code?\n\nx = 10\nif x > 5:\n    print(\"Greater than 5\")",
+    "choices": {
+      "A": "Nothing",
+      "B": "Greater than 5",
+      "C": "Error",
+      "D": "x is greater than 5"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "question": "Which keyword is used to specify an alternative block of code if the if condition is False?",
+    "choices": {
+      "A": "elif",
+      "B": "else",
+      "C": "otherwise",
+      "D": "endif"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "question": "What will the following code output?\n\nx = 15\nif x > 10:\n    if x > 20:\n        print(\"Above 20\")\n    else:\n        print(\"Between 11 and 20\")",
+    "choices": {
+      "A": "Above 20",
+      "B": "Between 11 and 20",
+      "C": "Nothing",
+      "D": "Error"
+    },
+    "answer": "B",
+    "difficulty": 4
+  },
+  {
+    "question": "Which of the following is the correct way to use multiple conditions in an if statement using logical operators?",
+    "choices": {
+      "A": "if x > 0 AND y > 0:",
+      "B": "if x > 0 && y > 0:",
+      "C": "if x > 0 and y > 0:",
+      "D": "if (x > 0) & (y > 0):"
+    },
+    "answer": "C",
+    "difficulty": 5
+  },
+  {
+    "question": "Consider the following code snippet:\n\nx = 7\ny = 10\nif x > 5:\n    if y > 5:\n        print(\"Both are greater than 5\")\nelif y == 10:\n    print(\"y is exactly 10\")",
+    "choices": {
+      "A": "Both are greater than 5",
+      "B": "y is exactly 10",
+      "C": "Syntax Error",
+      "D": "Nothing is printed"
+    },
+    "answer": "A",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the output of the following code?\n\nx = 3\nresult = \"Positive\" if x > 0 else \"Non-positive\"\nprint(result)",
+    "choices": {
+      "A": "Positive",
+      "B": "Non-positive",
+      "C": "Error",
+      "D": "x > 0"
+    },
+    "answer": "A",
+    "difficulty": 7
+  },
+  {
+    "question": "Which of the following statements about nested if statements is true?",
+    "choices": {
+      "A": "Nested if statements cannot have else clauses.",
+      "B": "Nested if statements must be on the same indentation level.",
+      "C": "Each nested if statement requires its own indentation.",
+      "D": "Nested if statements can only be used with elif."
+    },
+    "answer": "C",
+    "difficulty": 8
+  },
+  {
+    "question": "What will be the value of `result` after executing the following code?\n\nx = 10\ny = 20\nif x > y:\n    result = \"x is greater\"\nelif x == y:\n    result = \"x and y are equal\"\nelse:\n    result = \"y is greater\"",
+    "choices": {
+      "A": "\"x is greater\"",
+      "B": "\"x and y are equal\"",
+      "C": "\"y is greater\"",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "difficulty": 9
+  },
+  {
+    "question": "Analyze the following code and determine what it prints when `num = 0`:\n\nnum = 0\nif num > 0:\n    print(\"Positive\")\nelif num < 0:\n    print(\"Negative\")\nelse:\n    print(\"Zero\")",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Zero",
+      "D": "Error"
+    },
+    "answer": "C",
+    "difficulty": 10
+  }
+]

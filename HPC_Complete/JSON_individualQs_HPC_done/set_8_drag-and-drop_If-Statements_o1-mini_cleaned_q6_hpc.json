@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "if",
+        "age >= 18 and citizen == True",
+        ":",
+        "    print(\"Eligible to vote\")",
+        "else:",
+        "    print(\"Not eligible to vote\")"
+    ]
+}

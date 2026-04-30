@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "z",
+        "if z _____ 0:",
+        "print('z is non-positive')"
+    ]
+}

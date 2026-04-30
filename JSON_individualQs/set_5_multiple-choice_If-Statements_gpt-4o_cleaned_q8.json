@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "What will the following code print?\n\nx = 5\ny = 3\n\nif x < 10:\n    if y > 2:\n        print('A')\n    else:\n        print('B')\nprint('C')",
+  "options": [
+    "A\nC",
+    "B\nC",
+    "A\nB",
+    "C only"
+  ],
+  "correct_answer": "A\nC"
+}

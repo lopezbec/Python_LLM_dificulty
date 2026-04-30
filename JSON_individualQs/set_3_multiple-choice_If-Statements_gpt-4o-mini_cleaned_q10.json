@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code snippet?\n\nage = 17\nif age < 18:\n    print('Minor')\nelif age < 65:\n    print('Adult')\nelse:\n    print('Senior')\nif age == 17:\n    print('Teenager')",
+  "options": [
+    "Minor",
+    "Adult",
+    "Senior",
+    "Teenager"
+  ],
+  "correct_answer": "Minor\nTeenager",
+  "difficulty": 10
+}

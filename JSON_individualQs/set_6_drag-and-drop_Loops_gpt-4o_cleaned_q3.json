@@ -1,0 +1,39 @@
+{
+  "difficulty": 3,
+  "question": "Correctly arrange the components of a nested loop to iterate through a matrix.",
+  "choices": [
+    "for",
+    "for",
+    "print(matrix[i][j])",
+    "i",
+    "in",
+    "range",
+    "(",
+    "len(matrix)",
+    ")",
+    "j",
+    "range",
+    "(",
+    "len(matrix[i])",
+    ")"
+  ],
+  "correct_order": [
+    "for",
+    "i",
+    "in",
+    "range",
+    "(",
+    "len(matrix)",
+    ")",
+    ":",
+    "for",
+    "j",
+    "in",
+    "range",
+    "(",
+    "len(matrix[i])",
+    ")",
+    ":",
+    "print(matrix[i][j])"
+  ]
+}

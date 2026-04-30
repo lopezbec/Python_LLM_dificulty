@@ -1,0 +1,17 @@
+{
+  "question": "Level 5: Logical Operators",
+  "instruction": "Construct a statement using logical operators.",
+  "difficulty": 5,
+  "code_blocks": [
+    "if __complex_condition__:",
+    "    __print_statement__"
+  ],
+  "options": [
+    "x > 0 and y < 5",
+    "print('Condition met')"
+  ],
+  "correct_structure": {
+    "__complex_condition__": "x > 0 and y < 5",
+    "__print_statement__": "print('Condition met')"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "The 'continue' statement in a loop causes the program to exit the loop entirely and resume execution after the loop.",
+  "answer": false
+}

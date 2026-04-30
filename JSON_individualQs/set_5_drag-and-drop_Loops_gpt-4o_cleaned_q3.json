@@ -1,0 +1,16 @@
+{
+  "difficulty": 3,
+  "question": "Complete the code to sum the numbers from 1 to 5.",
+  "code": "total = 0\nfor i in <blank>: total += <blank>",
+  "options": [
+    "range(1, 6)",
+    "i",
+    "range(5)",
+    "5",
+    "range(1, 5)"
+  ],
+  "correct_answer": [
+    "range(1, 6)",
+    "i"
+  ]
+}

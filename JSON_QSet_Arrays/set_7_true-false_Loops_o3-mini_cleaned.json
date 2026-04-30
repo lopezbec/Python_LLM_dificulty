@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "A loop is a programming structure used to repeat a block of code.",
+    "correct_answer": true
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "A 'for' loop in Python is typically used when the number of iterations is known.",
+    "correct_answer": true
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "A 'while' loop in Python can execute indefinitely if its condition never becomes False.",
+    "correct_answer": true
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "When executed in a loop, the 'break' statement causes an immediate exit from the entire loop.",
+    "correct_answer": true
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "The 'continue' statement in a loop stops the entire loop from executing any further iterations.",
+    "correct_answer": false
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "List comprehensions in Python provide a concise way to apply a loop to each element in a sequence and generate a new list.",
+    "correct_answer": true
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "A 'for' loop in Python can only iterate over lists and tuples, but not over dictionaries.",
+    "correct_answer": false
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Nested loops occur when a loop is placed inside another loop, with the inner loop running completely for each iteration of the outer loop.",
+    "correct_answer": true
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "In Python, a loop can have an 'else' clause that executes if the loop completes normally without encountering a 'break'.",
+    "correct_answer": true
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "When iterating over a dictionary using a for loop in Python, the loop by default iterates over the dictionary\u2019s values rather than its keys.",
+    "correct_answer": false
+  }
+]

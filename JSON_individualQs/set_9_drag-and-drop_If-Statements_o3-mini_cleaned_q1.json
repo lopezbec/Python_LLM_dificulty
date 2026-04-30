@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question_type": "drag-and-drop",
+  "question_text": "Complete the if-statement to check if the variable x equals 5:\n[BLANK1] x [BLANK2] 5:",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to begin an if-statement",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to test equality",
+      "correct_answer": "=="
+    }
+  ],
+  "options": [
+    "if",
+    "==",
+    "for",
+    "="
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "If statements in Python ignore indentation, focusing only on line breaks for block structure.",
+  "difficulty": 2,
+  "correct_answer": "False"
+}

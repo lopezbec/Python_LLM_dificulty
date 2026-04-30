@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to complete a simple if statement in Python.\n\nif ___(1)___ > 10:\n    print(\"Greater than 10\")",
+    "options": [
+      "x",
+      "else",
+      "elif",
+      "print"
+    ],
+    "answers": {
+      "1": "x"
+    }
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "If-Statements",
+    "question": "Drag the correct keyword to complete the if-else statement.\n\nif score >= 50:\n    result = \"Pass\"\n___(1)___:\n    result = \"Fail\"",
+    "options": [
+      "elif",
+      "else",
+      "endif",
+      "pass"
+    ],
+    "answers": {
+      "1": "else"
+    }
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "If-Statements",
+    "question": "Arrange the following lines to form a valid if statement that checks if a number is positive, negative, or zero.",
+    "options": [
+      "if num > 0:",
+      "print(\"Positive\")",
+      "elif num < 0:",
+      "print(\"Negative\")",
+      "else:",
+      "print(\"Zero\")"
+    ],
+    "answers": {
+      "1": "if num > 0:",
+      "2": "print(\"Positive\")",
+      "3": "elif num < 0:",
+      "4": "print(\"Negative\")",
+      "5": "else:",
+      "6": "print(\"Zero\")"
+    }
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to complete the nested if statement that checks if a number is even and positive.",
+    "options": [
+      "if",
+      "else",
+      "elif",
+      "and",
+      ":",
+      "print"
+    ],
+    "answers": {
+      "1": "if",
+      "2": "if",
+      "3": "and",
+      "4": ":",
+      "5": "print"
+    }
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "If-Statements",
+    "question": "Drag the appropriate comparison operators to complete the following code that determines the eligibility for voting.\n\nage = 18\nif age ___(1)___ 18:\n    print(\"Eligible to vote\")\nelse:\n    print(\"Not eligible\")",
+    "options": [
+      ">",
+      ">=",
+      "<",
+      "<=",
+      "==",
+      "!="
+    ],
+    "answers": {
+      "1": ">="
+    }
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "If-Statements",
+    "question": "Complete the ternary if statement by dragging the correct parts.\n\nresult = 'Even' ___(1)___ (number % 2 == 0) ___(2)___ 'Odd'",
+    "options": [
+      "if",
+      "else",
+      "elif",
+      ":",
+      "?"
+    ],
+    "answers": {
+      "1": "if",
+      "2": "else"
+    }
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to create an if statement that checks multiple conditions using logical operators.\n\nif (x > 0 ___(1)___ y > 0) ___(2)___ (x + y < 100):\n    print(\"Conditions met\")",
+    "options": [
+      "and",
+      "or",
+      "not",
+      ":",
+      "elif",
+      "else"
+    ],
+    "answers": {
+      "1": "and",
+      "2": ":"
+    }
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "If-Statements",
+    "question": "Arrange the following lines to implement an if-elif-else ladder that categorizes age groups.\n\nage = 25\nprint(\"Senior\")\nelse:\nprint(\"Adult\")\nif age < 13:\nprint(\"Child\")\nelif age < 20:",
+    "options": [
+      "if age < 13:",
+      "print(\"Child\")",
+      "elif age < 20:",
+      "print(\"Teenager\")",
+      "else:",
+      "print(\"Adult\")"
+    ],
+    "answers": {
+      "1": "if age < 13:",
+      "2": "print(\"Child\")",
+      "3": "elif age < 20:",
+      "4": "print(\"Teenager\")",
+      "5": "else:",
+      "6": "print(\"Adult\")"
+    }
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "If-Statements",
+    "question": "Complete the function by dragging the correct logical operator to check if a number is divisible by both 3 and 5.\n\ndef check_divisible(n):\n    if n % 3 == 0 ___(1)___ n % 5 == 0:\n        return True\n    else:\n        return False",
+    "options": [
+      "and",
+      "or",
+      "not",
+      "==",
+      ":",
+      "elif"
+    ],
+    "answers": {
+      "1": "and"
+    }
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to implement a nested if statement that determines the type of triangle based on its sides.\n\ndef classify_triangle(a, b, c):\n    if a == b and b == c:\n        ___(1)___(\"Equilateral\")\n    elif a == b or b == c or a == c:\n        ___(2)___(\"Isosceles\")\n    else:\n        ___(3)___(\"Scalene\")",
+    "options": [
+      "print",
+      "return",
+      "elif",
+      "if",
+      "else",
+      "pass"
+    ],
+    "answers": {
+      "1": "print",
+      "2": "print",
+      "3": "print"
+    }
+  }
+]

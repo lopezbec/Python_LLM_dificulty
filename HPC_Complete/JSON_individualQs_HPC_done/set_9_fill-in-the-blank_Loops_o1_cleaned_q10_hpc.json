@@ -1,0 +1,5 @@
+{
+    "HPC": [
+        "for x in __________(range(5)):\n    print(x)"
+    ]
+}

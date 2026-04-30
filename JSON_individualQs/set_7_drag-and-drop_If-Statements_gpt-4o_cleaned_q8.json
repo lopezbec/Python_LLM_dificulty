@@ -1,0 +1,22 @@
+{
+  "question": "Level 8: Ternary Conditional Operator",
+  "instruction": "Arrange to use a ternary conditional operator into the if-statement.",
+  "difficulty": 8,
+  "code_blocks": [
+    "__variable__ = __condition__",
+    "__if_true__ if __boolean_expression__ else __if_false__"
+  ],
+  "options": [
+    "'x is even'",
+    "'x is odd'",
+    "x % 2 == 0",
+    "result"
+  ],
+  "correct_structure": {
+    "__variable__": "result",
+    "__condition__": "'x is even'",
+    "__boolean_expression__": "x % 2 == 0",
+    "__if_true__": "'x is even'",
+    "__if_false__": "'x is odd'"
+  }
+}

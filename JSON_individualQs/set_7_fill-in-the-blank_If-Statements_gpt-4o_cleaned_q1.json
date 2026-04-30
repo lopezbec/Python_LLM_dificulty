@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank to check if the variable 'x' is greater than 10: \n\n```python\nif x _____ 10:\n    print('x is greater than 10')\n```",
+  "blank": ">"
+}

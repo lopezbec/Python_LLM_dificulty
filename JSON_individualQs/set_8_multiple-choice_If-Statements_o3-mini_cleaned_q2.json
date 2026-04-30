@@ -1,0 +1,27 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "question": "Which of the following is the correct syntax to start an if-statement in Python?",
+  "options": [
+    {
+      "label": "A",
+      "text": "if condition then:",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "if (condition) {",
+      "isCorrect": false
+    },
+    {
+      "label": "C",
+      "text": "if condition:",
+      "isCorrect": true
+    },
+    {
+      "label": "D",
+      "text": "if: condition",
+      "isCorrect": false
+    }
+  ]
+}

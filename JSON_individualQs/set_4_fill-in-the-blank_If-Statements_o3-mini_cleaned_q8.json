@@ -1,0 +1,6 @@
+{
+  "questionNumber": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank to correct the syntax error in the following if statement:\n\nif a == 10\n    print('a is ten')\n\n(What symbol is missing at the end of the if statement line?)",
+  "answer": ":"
+}

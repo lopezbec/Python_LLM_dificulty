@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank to check if 'number' is even: if (number % 2) ___ 0: print(\"Even\").",
+  "answer": "=="
+}

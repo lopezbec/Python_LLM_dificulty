@@ -1,0 +1,7 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to use a ternary if-else statement: \n```python\na = 10\nb = 20\nresult = a if a > b __ b\nprint(result)\n```",
+  "answer": "else"
+}

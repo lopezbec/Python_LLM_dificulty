@@ -1,0 +1,11 @@
+{
+  "question": "How do you exit a loop prematurely when a certain condition is met in Python?",
+  "options": [
+    "break",
+    "continue",
+    "exit",
+    "stop"
+  ],
+  "correct_answer": "break",
+  "difficulty": 5
+}

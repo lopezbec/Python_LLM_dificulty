@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank using the walrus operator to ensure the list has at least three elements:\n\nif (n := len(my_list)) ______ 3:\n    print('The list has three or more elements')",
+  "correct_answer": ">="
+}

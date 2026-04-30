@@ -1,0 +1,7 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "topic": "loops",
+  "question": "Given the following code snippet, replace the blank to correctly implement a generator that yields squares of numbers from 0 to n-1:\n\n```python\ndef square_generator(n):\n    for i in range(n):\n        ____(i**2)\n```",
+  "answer": "yield"
+}

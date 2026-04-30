@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "question": "What will be the result of the following code?\n\nx = 15\nif x < 10:\n    print(\"Less than 10\")\nelif x < 20:\n    print(\"Between 10 and 20\")\nelif x < 30:\n    print(\"Between 20 and 30\")\nelse:\n    print(\"30 or more\")",
+  "options": {
+    "A": "Less than 10",
+    "B": "Between 10 and 20",
+    "C": "Between 20 and 30",
+    "D": "30 or more"
+  },
+  "correct_answer": "B",
+  "difficulty": 7,
+  "topic": "if statements"
+}

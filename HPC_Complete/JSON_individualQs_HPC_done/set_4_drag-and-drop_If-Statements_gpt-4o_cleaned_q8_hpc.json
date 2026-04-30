@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "if some_object:\n    print('Defined and true')\nelse:\n    print('Undefined or false')",
+        "if",
+        "else"
+    ]
+}

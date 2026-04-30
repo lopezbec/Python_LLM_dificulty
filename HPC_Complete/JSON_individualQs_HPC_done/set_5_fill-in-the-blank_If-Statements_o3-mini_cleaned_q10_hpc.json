@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (n := len(my_list)) > 5:",
+        "print('Large list')",
+        "print('List has', ______, 'elements')",
+        "n"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "prompt": "Drag and drop the missing keyword to properly add an else clause to the for loop below:\n\nfor i in range(3):\n    print(i)\n____:\n    print('Done')",
+  "drag_items": [
+    "else",
+    "finally",
+    "except"
+  ],
+  "drop_targets": [
+    "keyword"
+  ],
+  "correct_mapping": {
+    "keyword": "else"
+  }
+}

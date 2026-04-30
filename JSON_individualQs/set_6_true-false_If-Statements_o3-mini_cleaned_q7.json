@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "True or False: In a chained if-elif-else statement, once a condition is satisfied, all subsequent conditions are still evaluated.",
+  "correct_answer": false
+}

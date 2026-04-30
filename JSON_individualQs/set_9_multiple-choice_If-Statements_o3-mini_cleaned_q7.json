@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "Which of the following if-statement formats would result in a SyntaxError?",
+  "options": [
+    "if x < 5 print(x)",
+    "if (x < 5): print(x)",
+    "if x < 5:\n    print(x)",
+    "if (x < 5):\n    print(x)"
+  ],
+  "answer": "if x < 5 print(x)"
+}

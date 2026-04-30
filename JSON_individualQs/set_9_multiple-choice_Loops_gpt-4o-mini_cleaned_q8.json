@@ -1,0 +1,11 @@
+{
+  "question": "In which situation would you use a 'continue' statement inside a loop?",
+  "options": [
+    "To exit the loop",
+    "To skip the current iteration",
+    "To restart the loop",
+    "To combine two loops"
+  ],
+  "correct_answer": "To skip the current iteration",
+  "difficulty": 8
+}

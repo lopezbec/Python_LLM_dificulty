@@ -1,0 +1,7 @@
+{
+  "question": "A while loop in Python will execute its block of code only once regardless of the condition.",
+  "answer": false,
+  "difficulty": 2,
+  "topic": "Loops",
+  "type": "True/False"
+}

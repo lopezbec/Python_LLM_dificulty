@@ -1,0 +1,17 @@
+{
+    "HPC": [
+        "age = 20",
+        "has_id = False",
+        "if age >= 18:",
+        "if has_id:",
+        "print('Entry allowed')",
+        "else:",
+        "print('No ID, entry denied')",
+        "else:",
+        "print('Too young')",
+        "Entry allowed",
+        "No ID, entry denied",
+        "Too young",
+        "Error"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Is it true that a nested loop cannot access the variables defined in its outer loop?",
+  "answer": "False"
+}

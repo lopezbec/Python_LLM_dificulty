@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "If the condition in an if-statement is False, the code block under that if-statement will be skipped.",
+  "answer": true
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "An if-statement can directly check if an object represents a True or False value by its ___.",
+  "answer": "truthiness"
+}

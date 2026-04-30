@@ -1,0 +1,25 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 7,
+  "question": "Drag and drop to complete the function with multiple `if-elif-else` conditions.",
+  "options": [
+    "def categorize_number(n):",
+    "    if n > 0:",
+    "        return \"Positive\"",
+    "    elif n < 0:",
+    "        return \"Negative\"",
+    "    else:",
+    "        return \"Zero\""
+  ],
+  "correct_order": [
+    "def categorize_number(n):",
+    "    if n > 0:",
+    "        return \"Positive\"",
+    "    elif n < 0:",
+    "        return \"Negative\"",
+    "    else:",
+    "        return \"Zero\""
+  ]
+}

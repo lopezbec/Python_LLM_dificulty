@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, you can utilize ___ to iterate over multiple iterables at once in a single loop construct.",
+  "answer": "zip"
+}

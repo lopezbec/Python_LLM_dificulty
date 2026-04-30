@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "topic": "loops",
+  "difficulty": 8,
+  "prompt": "Complete the loop to skip even numbers and print only odd numbers from 1 to 5 using 'continue'.",
+  "draggableItems": [
+    "for num in range(1, 6):",
+    "if num % 2 == 0:",
+    "    continue",
+    "print(num)"
+  ],
+  "dropZones": [
+    "Loop Statement",
+    "Condition to Check Even",
+    "Continue Statement",
+    "Loop Body - Print"
+  ],
+  "correctMatch": {
+    "Loop Statement": "for num in range(1, 6):",
+    "Condition to Check Even": "if num % 2 == 0:",
+    "Continue Statement": "    continue",
+    "Loop Body - Print": "print(num)"
+  }
+}

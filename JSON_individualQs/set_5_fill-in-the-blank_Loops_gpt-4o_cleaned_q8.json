@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To avoid an infinite loop with a 'while' loop, ensure that the __________ variable changes with each iteration.",
+  "answer": "control"
+}

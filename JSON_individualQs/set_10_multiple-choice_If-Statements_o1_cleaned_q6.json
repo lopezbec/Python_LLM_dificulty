@@ -1,0 +1,12 @@
+{
+  "difficulty": 6,
+  "question": "What does the following nested if code snippet print when x = 7?\n\nx = 7\nif x < 10:\n    if x % 2 == 0:\n        print(\"Less than 10 and even\")\n    else:\n        print(\"Less than 10 and odd\")\nelse:\n    print(\"Greater or equal to 10\")",
+  "choices": [
+    "A) Less than 10 and even",
+    "B) Less than 10 and odd",
+    "C) Greater or equal to 10",
+    "D) No output"
+  ],
+  "correct_answer": "B",
+  "explanation": "Since x is 7 (which is below 10) and 7 % 2 equals 1, the code prints \"Less than 10 and odd.\""
+}

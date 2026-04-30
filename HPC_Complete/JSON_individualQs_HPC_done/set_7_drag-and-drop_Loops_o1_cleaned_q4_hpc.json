@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "for num in range(2, 8, 2):",
+        "print(num)"
+    ]
+}

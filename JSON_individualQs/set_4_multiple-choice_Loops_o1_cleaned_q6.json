@@ -1,0 +1,11 @@
+{
+  "question": "Which function returns an iterator of pairs (index, value) when looping over a sequence?",
+  "difficulty": 6,
+  "options": [
+    "A. zip()",
+    "B. enumerate()",
+    "C. items()",
+    "D. map()"
+  ],
+  "answer": "B"
+}

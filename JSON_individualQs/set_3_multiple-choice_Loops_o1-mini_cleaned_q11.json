@@ -1,0 +1,10 @@
+{
+  "question": "What will be the output of the following code involving list comprehension and loops?\n\n```python\nresult = [x * y for x in range(2) for y in range(3)]\nprint(result)\n```",
+  "options": {
+    "A": "[0, 0, 0, 0, 1, 2]",
+    "B": "[0, 0, 1, 0, 1, 2]",
+    "C": "[0, 1, 2, 0, 1, 2]",
+    "D": "[0, 0, 0, 1, 2, 2]"
+  },
+  "answer": "B"
+}

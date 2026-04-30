@@ -1,0 +1,11 @@
+{
+  "difficulty": 4,
+  "question": "In an if-elif-else construct, how many times can the else block execute?",
+  "choices": {
+    "A": "Never",
+    "B": "Exactly once",
+    "C": "Twice",
+    "D": "Any number of times"
+  },
+  "correct_answer": "B"
+}

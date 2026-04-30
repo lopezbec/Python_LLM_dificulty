@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "type": "fill-in-the-blank",
+  "difficulty": 3,
+  "topic": "loops",
+  "question": "To skip the rest of the current iteration and move to the next one, use the ______ statement.",
+  "answer": "continue"
+}

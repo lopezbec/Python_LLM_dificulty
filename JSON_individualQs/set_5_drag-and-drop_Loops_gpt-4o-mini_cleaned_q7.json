@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "To create an infinite loop, drag the correct keyword into this statement: 'while ____:'",
+  "options": [
+    "True",
+    "False",
+    "1",
+    "None"
+  ],
+  "correct_answer": "True"
+}

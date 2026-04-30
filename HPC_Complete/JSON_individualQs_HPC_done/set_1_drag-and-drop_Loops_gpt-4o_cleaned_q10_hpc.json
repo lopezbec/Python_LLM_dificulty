@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "strings = [['apple', 'banana'], ['cat', 'dog']]",
+        "for sublist in strings:",
+        "for word in sublist:",
+        "if word == 'cat':",
+        "print('Found cat')",
+        "break"
+    ]
+}

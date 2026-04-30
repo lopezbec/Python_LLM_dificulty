@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What will be the output of the following code? \n\nx = 10 \nif x < 5:\n    print('Low') \nelif x < 15:\n    print('Medium') \nelse:\n    print('High')",
+  "options": [
+    "Low",
+    "Medium",
+    "High",
+    "Error"
+  ],
+  "correct_answer": "Medium"
+}

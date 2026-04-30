@@ -1,0 +1,11 @@
+{
+  "question": "Which of the following statements about nested if statements is true?",
+  "options": {
+    "A": "Nested if statements cannot be used in Python.",
+    "B": "Nested if statements must use elif for the inner conditions.",
+    "C": "Nested if statements allow multiple conditions to be checked in a hierarchical manner.",
+    "D": "Nested if statements execute all conditions sequentially regardless of previous outcomes."
+  },
+  "answer": "C",
+  "difficulty": 8
+}

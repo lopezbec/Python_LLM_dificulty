@@ -1,0 +1,11 @@
+{
+  "question": "Which statement is correct about Python\u2019s if statements?",
+  "difficulty": 2,
+  "options": [
+    "The condition must be in parentheses",
+    "Indentation does not matter under an if statement",
+    "The if statement is ended with a semicolon",
+    "Indentation is used to group the statements, not braces"
+  ],
+  "correct_answer": "Indentation is used to group the statements, not braces"
+}

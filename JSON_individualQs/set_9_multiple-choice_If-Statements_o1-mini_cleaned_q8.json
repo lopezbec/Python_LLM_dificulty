@@ -1,0 +1,10 @@
+{
+  "question": "What is the result of the following code?\n\n```python\ndef check_number(x):\n    if x % 2 == 0:\n        return \"Even\"\n    return \"Odd\"\n\nprint(check_number(4))\n```",
+  "options": {
+    "A": "Even",
+    "B": "Odd",
+    "C": "Error",
+    "D": "None"
+  },
+  "answer": "A"
+}

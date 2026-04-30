@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "question": "The continue statement in a loop skips the remainder of the current iteration and moves to the next iteration.",
+  "correct_answer": true
+}

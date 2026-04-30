@@ -1,0 +1,11 @@
+{
+  "question": "6. What is the correct syntax of a simple if-statement that checks whether the variable 'age' is greater than or equal to 18?",
+  "options": {
+    "a": "if age is >= 18",
+    "b": "if age >= 18:",
+    "c": "if age >= 18 then:",
+    "d": "if (age >= 18)"
+  },
+  "correct_answer": "b",
+  "difficulty": 6
+}

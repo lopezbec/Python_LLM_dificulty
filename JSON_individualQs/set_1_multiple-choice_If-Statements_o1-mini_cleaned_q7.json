@@ -1,0 +1,11 @@
+{
+  "question": "What is the output of the following code?\n\nx = 15\nif x > 10:\n    if x > 20:\n        print(\"Greater than 20\")\n    else:\n        print(\"Between 11 and 20\")",
+  "options": {
+    "A": "Greater than 20",
+    "B": "Between 11 and 20",
+    "C": "Nothing",
+    "D": "Error"
+  },
+  "answer": "B",
+  "difficulty": 7
+}

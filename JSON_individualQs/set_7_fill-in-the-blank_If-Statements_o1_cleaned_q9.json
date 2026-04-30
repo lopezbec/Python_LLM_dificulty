@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank so that the condition checks if either 'x' is negative or 'y' is negative:\n\nif x < 0 ____ y < 0:\n    print('Negative value found')",
+  "correct_answer": "or"
+}

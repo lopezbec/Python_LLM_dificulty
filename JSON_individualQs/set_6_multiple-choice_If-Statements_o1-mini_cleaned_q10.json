@@ -1,0 +1,11 @@
+{
+  "question": "Analyze the following code and determine what it prints when `num = 0`:\n\nnum = 0\nif num > 0:\n    print(\"Positive\")\nelif num < 0:\n    print(\"Negative\")\nelse:\n    print(\"Zero\")",
+  "choices": {
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Zero",
+    "D": "Error"
+  },
+  "answer": "C",
+  "difficulty": 10
+}

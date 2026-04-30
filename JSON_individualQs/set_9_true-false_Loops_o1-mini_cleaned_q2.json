@@ -1,0 +1,7 @@
+{
+  "question": "A 'while' loop in Python requires a condition to be evaluated before each iteration.",
+  "type": "true/false",
+  "difficulty": 2,
+  "topic": "loops",
+  "correct_answer": "True"
+}

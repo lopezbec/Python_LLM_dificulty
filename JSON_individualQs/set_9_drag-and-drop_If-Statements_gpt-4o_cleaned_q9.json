@@ -1,0 +1,15 @@
+{
+  "difficulty": 9,
+  "description": "Choose the appropriate statements to correctly implement a decision-making logic.",
+  "premise": "balance = 200\nmin_balance = 100\nif __:\n    if __:\n        print('Sufficient')",
+  "options": [
+    "balance >= min_balance",
+    "balance <= min_balance",
+    "balance < min_balance",
+    "balance >= 150"
+  ],
+  "correct_answer": [
+    "balance >= min_balance",
+    "balance >= 150"
+  ]
+}

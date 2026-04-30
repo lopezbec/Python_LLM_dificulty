@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Which of the following statements about infinite loops in Python is true?",
+  "options": [
+    "They always crash the program.",
+    "They can be intentional and used for server processes.",
+    "They are automatically stopped by Python after a certain time.",
+    "They only occur in 'for' loops."
+  ],
+  "correct_answer": "They can be intentional and used for server processes."
+}

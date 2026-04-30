@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Fill in the blank with the correct operator to check if a flag is False in this if-statement:\n\nif ______ flag:\n    print('Flag is false')",
+  "answer": "not"
+}

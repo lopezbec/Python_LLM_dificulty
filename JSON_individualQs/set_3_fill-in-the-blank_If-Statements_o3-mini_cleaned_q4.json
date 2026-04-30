@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "Fill in the blank: An if-statement in Python evaluates its condition to a ______ value (either True or False).",
+  "answer": "boolean"
+}

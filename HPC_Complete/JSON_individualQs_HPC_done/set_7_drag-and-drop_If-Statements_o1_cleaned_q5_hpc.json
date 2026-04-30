@@ -1,0 +1,16 @@
+{
+    "HPC": [
+        "x = 105",
+        "if x > 100:",
+        "____ x % 3 == 0:",
+        "print('Divisible by 3 and greater than 100')",
+        "else:",
+        "print('Greater than 100 but not divisible by 3')",
+        "____ x % 5 == 0:",
+        "print('Divisible by 5')",
+        "if",
+        "while",
+        "elif",
+        "else"
+    ]
+}

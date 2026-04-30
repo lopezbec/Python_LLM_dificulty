@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank: In an infinite loop, you can exit the loop immediately by using the ______ statement.",
+  "answer": "break"
+}

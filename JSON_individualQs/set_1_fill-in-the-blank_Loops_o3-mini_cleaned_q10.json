@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: To generate a sequence of even numbers from 0 to 10 (inclusive) using a for loop, you can use range(0, ___, 2). Fill in the blank with the correct endpoint value to include 10.",
+  "answer": "11"
+}

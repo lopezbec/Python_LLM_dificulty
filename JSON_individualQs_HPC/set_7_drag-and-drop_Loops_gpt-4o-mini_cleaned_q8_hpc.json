@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "product = 1",
+        "for i in ___:",
+        "product *= i",
+        "range(n + 1)",
+        "range(n)",
+        "1 to n",
+        "n"
+    ]
+}

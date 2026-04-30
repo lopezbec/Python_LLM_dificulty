@@ -1,0 +1,13 @@
+{
+  "difficulty": 3,
+  "description": "Complete the if-else statement to print 'Positive' if 'number' is greater than 0, otherwise print 'Negative'.",
+  "code": "number = -5\nif ( number ___ 0 ):\n    print('Positive')\nelse:\n    print('Negative')",
+  "options": [
+    "<",
+    ">",
+    "==",
+    "!=",
+    "0"
+  ],
+  "correct": ">"
+}

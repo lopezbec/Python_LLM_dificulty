@@ -1,0 +1,11 @@
+{
+  "difficulty": 9,
+  "question": "When you need to check if a variable is not equal to a specific value within an if-statement in Python, which operator should you use?",
+  "options": {
+    "A": "!=",
+    "B": "=!",
+    "C": "!==",
+    "D": "not="
+  },
+  "answer": "A"
+}

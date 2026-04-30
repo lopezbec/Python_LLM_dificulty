@@ -1,0 +1,14 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "topic": "Loops",
+  "question": "Drag and drop the following components to form a valid Python for loop that prints numbers from 0 to 2.",
+  "drag_items": [
+    "    print(i)",
+    "for i in range(3):"
+  ],
+  "correct_order": [
+    "for i in range(3):",
+    "    print(i)"
+  ]
+}

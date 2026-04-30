@@ -1,0 +1,11 @@
+{
+  "question": "How many times will the loop execute?\n\nfor letter in 'Python':\n    print(letter)",
+  "options": [
+    "5",
+    "6",
+    "7",
+    "4"
+  ],
+  "answer": "6",
+  "difficulty": 4
+}

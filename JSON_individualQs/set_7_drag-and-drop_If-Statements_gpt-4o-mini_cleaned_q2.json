@@ -1,0 +1,14 @@
+{
+  "difficulty": 2,
+  "question": "Match the code to the appropriate output when 'x' is 5: 'if x > 10: print(\"High\") else: print(\"Low\")'",
+  "options": {
+    "A": "High",
+    "B": "Low",
+    "C": "Error",
+    "D": "Nothing"
+  },
+  "correctMatch": {
+    "code": "if x > 10: print(\"High\") else: print(\"Low\")",
+    "output": "B"
+  }
+}

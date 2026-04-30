@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "pairs = [(a, b) ???]",
+        "print(pairs)",
+        "a \u2208 [1, 2]",
+        "b \u2208 [3, 4]",
+        "for a in [1,2] for b in [3,4]",
+        "for (a, b) in [1,2], [3,4]",
+        "while a in [1,2] for b in [3,4]",
+        "for a in [1,2], b in [3,4]"
+    ]
+}

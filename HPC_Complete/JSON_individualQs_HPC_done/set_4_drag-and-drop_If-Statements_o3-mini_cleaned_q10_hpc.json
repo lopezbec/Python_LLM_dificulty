@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "temperature > 30",
+        "print(\"It's hot\")",
+        "temperature <= 30",
+        "temperature > 15",
+        "print(\"It's warm\")",
+        "print(\"It's cold\")",
+        "if",
+        "elif",
+        "else",
+        "and",
+        "or"
+    ]
+}

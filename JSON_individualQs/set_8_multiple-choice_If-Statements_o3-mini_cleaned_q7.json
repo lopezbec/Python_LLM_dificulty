@@ -1,0 +1,27 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Which of the following if-statement conditions is logically equivalent to:\n\nif not (x > 5 and y < 10):\n    # some code\n\n?",
+  "options": [
+    {
+      "label": "A",
+      "text": "if x > 5 or y < 10:",
+      "isCorrect": false
+    },
+    {
+      "label": "B",
+      "text": "if x <= 5 and y >= 10:",
+      "isCorrect": false
+    },
+    {
+      "label": "C",
+      "text": "if x <= 5 or y >= 10:",
+      "isCorrect": true
+    },
+    {
+      "label": "D",
+      "text": "if not x > 5 and not y < 10:",
+      "isCorrect": false
+    }
+  ]
+}

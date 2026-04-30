@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question_type": "drag-and-drop",
+  "topic": "loops",
+  "question": "Arrange the nested loops to create a multiplication table up to 3.",
+  "options": [
+    "print(i * j, end=' ')",
+    "for i in range(1, 4):",
+    "    for j in range(1, 4):",
+    "    print()"
+  ],
+  "correct_order": [
+    1,
+    2,
+    0,
+    3
+  ]
+}

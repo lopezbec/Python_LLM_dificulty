@@ -1,0 +1,11 @@
+{
+  "question": "3) Which expression correctly checks if the variable x is equal to 10 in an if-statement?",
+  "difficulty": 3,
+  "answers": [
+    "if x = 10:",
+    "if x == 10:",
+    "if x: 10",
+    "if 10 => x:"
+  ],
+  "correct_answer": "if x == 10:"
+}

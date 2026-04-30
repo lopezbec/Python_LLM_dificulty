@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if (5 == 5) and (3 > 2):",
+        "print('Both conditions are true')",
+        "else:",
+        "print('At least one condition is false')"
+    ]
+}

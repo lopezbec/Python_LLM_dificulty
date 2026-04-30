@@ -1,0 +1,23 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "Drag and drop the fragments to build an if-elif-else statement that uses logical operators to check a person's age group.",
+  "instruction": "Place the code lines into the correct sequence so that it correctly categorizes based on the age variable.",
+  "draggable_items": [
+    "elif age >= 65:",
+    "    print('Minor')",
+    "if age >= 18 and age < 65:",
+    "    print('Working age')",
+    "else:",
+    "    print('Retired')",
+    "    print('Minor')"
+  ],
+  "correct_order": [
+    "if age >= 18 and age < 65:",
+    "    print('Working age')",
+    "elif age >= 65:",
+    "    print('Retired')",
+    "else:",
+    "    print('Minor')"
+  ]
+}

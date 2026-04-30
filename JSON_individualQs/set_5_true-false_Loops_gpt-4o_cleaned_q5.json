@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "A loop with no iterable object will result in an infinite loop.",
+  "correct_answer": false
+}

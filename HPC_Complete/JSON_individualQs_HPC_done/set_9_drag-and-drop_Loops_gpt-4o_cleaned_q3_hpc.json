@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "days = ['Mon', 'Tue', 'Wed']",
+        "___ day in days:",
+        "print(day)",
+        "for",
+        "while",
+        "do"
+    ]
+}

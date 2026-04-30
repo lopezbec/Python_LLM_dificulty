@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Drag the correct logical operator to check if both conditions are True.",
+  "code": "if age > 18 __ age < 65:\n    print('Working age')",
+  "options": [
+    "and",
+    "or",
+    "not"
+  ],
+  "correct": [
+    "and"
+  ],
+  "incorrect": [
+    "or",
+    "not"
+  ]
+}

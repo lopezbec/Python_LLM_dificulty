@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if",
+        "elif",
+        "else",
+        "val = 40",
+        "___ val > 40:",
+        "print('Above')",
+        "___ val == 40:",
+        "print('Equal')",
+        "___:",
+        "print('Below')"
+    ]
+}

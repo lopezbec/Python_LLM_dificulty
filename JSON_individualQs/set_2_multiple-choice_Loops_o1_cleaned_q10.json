@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Given the code:\n\nresult = []\nfor x in range(3):\n    for y in range(2):\n        if x == y:\n            break\n        result.append((x, y))\nelse:\n    result.append('done')\nprint(result)\n\nWhat is the final content of result?",
+  "options": [
+    "[(0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1), 'done']",
+    "[(1, 0), (2, 0), (2, 1)]",
+    "[(1, 0), (2, 0), (2, 1), 'done']",
+    "The code raises an error"
+  ],
+  "correct_answer": "[(1, 0), (2, 0), (2, 1), 'done']"
+}

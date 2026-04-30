@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the output of the following Python code?\n\na = 0\nif a:\n    print('Non-zero')\nelse:\n    print('Zero')",
+  "options": [
+    "Non-zero",
+    "Zero",
+    "Error",
+    "None"
+  ],
+  "correct_answer": "Zero"
+}

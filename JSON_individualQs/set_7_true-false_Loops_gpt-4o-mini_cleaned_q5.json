@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Nested loops can have different types of loops in Python, such as a 'for' loop inside a 'while' loop.",
+  "answer": true
+}

@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "fruits",
+        "for fruit in fruits:",
+        "while fruit in fruits:",
+        "for i = 0; i < fruits.length; i++",
+        "repeat fruits"
+    ]
+}

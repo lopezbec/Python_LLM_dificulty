@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Using 'continue' in a loop ends the entire loop execution immediately.",
+  "correct_answer": "False"
+}

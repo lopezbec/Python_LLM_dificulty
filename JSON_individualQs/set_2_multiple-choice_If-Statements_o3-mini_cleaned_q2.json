@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "What keyword is used to define an alternative block that executes when an if-statement condition is false?",
+  "options": [
+    "elseif",
+    "elif",
+    "otherwise",
+    "then"
+  ],
+  "correct_answer": "elif"
+}

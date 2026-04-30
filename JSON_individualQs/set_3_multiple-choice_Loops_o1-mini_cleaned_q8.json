@@ -1,0 +1,10 @@
+{
+  "question": "Consider the following code snippet. What will be printed?\n\n```python\nnumbers = [1, 2, 3, 4]\nfor num in numbers:\n    if num == 3:\n        break\n    print(num)\nelse:\n    print(\"Completed\")\n```",
+  "options": {
+    "A": "1 2 3 Completed",
+    "B": "1 2 Completed",
+    "C": "1 2 3",
+    "D": "1 2"
+  },
+  "answer": "D"
+}

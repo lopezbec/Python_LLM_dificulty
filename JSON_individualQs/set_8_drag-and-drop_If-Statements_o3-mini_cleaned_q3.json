@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "question": "Complete the if-else structure by dragging the appropriate keywords into the blanks.",
+  "code_snippet": "___ x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "if"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "else"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    "for"
+  ]
+}

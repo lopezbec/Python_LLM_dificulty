@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "topic": "Loops",
+  "question": "Arrange the nested loop structure correctly.",
+  "drag_items": [
+    "for i in range(3):",
+    "    for j in range(2):",
+    "        print(i, j)"
+  ],
+  "drop_zones": [
+    "Outer loop",
+    "Inner loop",
+    "Loop body"
+  ],
+  "instructions": "Drag the code snippets into the correct nesting order."
+}

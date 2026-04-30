@@ -1,0 +1,12 @@
+{
+  "question": "Which keyword is used to specify an alternative block of code when an if condition is not met?",
+  "options": [
+    "A) else",
+    "B) elif",
+    "C) otherwise",
+    "D) ifnot"
+  ],
+  "answer": "A",
+  "difficulty": 3,
+  "topic": "if statements"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "type": "fill-in-the-blank",
+    "difficulty": 1,
+    "topic": "loops",
+    "question": "In Python, a ______ loop is used to iterate over a sequence of elements.",
+    "answer": "for"
+  },
+  {
+    "id": 2,
+    "type": "fill-in-the-blank",
+    "difficulty": 2,
+    "topic": "loops",
+    "question": "In a ______ loop, the code block is executed as long as the condition is true.",
+    "answer": "while"
+  },
+  {
+    "id": 3,
+    "type": "fill-in-the-blank",
+    "difficulty": 3,
+    "topic": "loops",
+    "question": "To skip the rest of the current iteration and move to the next one, use the ______ statement.",
+    "answer": "continue"
+  },
+  {
+    "id": 4,
+    "type": "fill-in-the-blank",
+    "difficulty": 4,
+    "topic": "loops",
+    "question": "The ______ function is used to get both the index and the value when iterating over a list.",
+    "answer": "enumerate"
+  },
+  {
+    "id": 5,
+    "type": "fill-in-the-blank",
+    "difficulty": 5,
+    "topic": "loops",
+    "question": "To exit a loop prematurely, use the ______ statement.",
+    "answer": "break"
+  },
+  {
+    "id": 6,
+    "type": "fill-in-the-blank",
+    "difficulty": 6,
+    "topic": "loops",
+    "question": "Using ______ allows you to loop over two lists simultaneously.",
+    "answer": "zip"
+  },
+  {
+    "id": 7,
+    "type": "fill-in-the-blank",
+    "difficulty": 7,
+    "topic": "loops",
+    "question": "A list ______ can be used to create a new list by applying an expression to each item in an existing list.",
+    "answer": "comprehension"
+  },
+  {
+    "id": 8,
+    "type": "fill-in-the-blank",
+    "difficulty": 8,
+    "topic": "loops",
+    "question": "In Python, to iterate over a large dataset efficiently, you can use a ______ generator within a loop.",
+    "answer": "generator"
+  },
+  {
+    "id": 9,
+    "type": "fill-in-the-blank",
+    "difficulty": 9,
+    "topic": "loops",
+    "question": "When iterating over a dictionary, the ______ method allows you to access both keys and values.",
+    "answer": "items()"
+  },
+  {
+    "id": 10,
+    "type": "fill-in-the-blank",
+    "difficulty": 10,
+    "topic": "loops",
+    "question": "In nested loops, to perform an early exit from both loops upon meeting a condition, one common approach is to use a ______ flag variable.",
+    "answer": "control"
+  }
+]

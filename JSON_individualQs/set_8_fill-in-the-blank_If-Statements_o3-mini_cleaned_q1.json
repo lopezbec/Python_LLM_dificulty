@@ -1,0 +1,5 @@
+{
+  "difficulty": 1,
+  "question": "Fill in the blank: In Python, the ______ statement begins a conditional block that executes code only if a condition is true.",
+  "answer": "if"
+}

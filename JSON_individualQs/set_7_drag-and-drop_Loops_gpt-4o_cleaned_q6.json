@@ -1,0 +1,25 @@
+{
+  "difficulty": 6,
+  "question_type": "drag-and-drop",
+  "question": "Match the loop type to its correct description.",
+  "options": [
+    {
+      "name": "for loop",
+      "description": "Iterates over a sequence."
+    },
+    {
+      "name": "while loop",
+      "description": "Repeats based on a condition."
+    }
+  ],
+  "pairs": [
+    {
+      "name": "for loop",
+      "description": "Iterates over a sequence."
+    },
+    {
+      "name": "while loop",
+      "description": "Repeats based on a condition."
+    }
+  ]
+}

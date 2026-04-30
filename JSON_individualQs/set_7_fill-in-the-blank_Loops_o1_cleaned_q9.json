@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "When iterating over two lists simultaneously, the function ______ can be used to pair elements from each list in a single loop.",
+  "correct_answer": "zip"
+}

@@ -1,0 +1,179 @@
+[
+  {
+    "question": "Drag the snippets to form a simple for loop that prints the numbers from 1 to 3.",
+    "difficulty": 1,
+    "instruction": "Arrange the code blocks in the correct order to create a valid loop.",
+    "options": [
+      "print(i)",
+      "for i in range(1, 4):",
+      "    "
+    ],
+    "correct_order": [
+      "for i in range(1, 4):",
+      "    ",
+      "print(i)"
+    ]
+  },
+  {
+    "question": "Drag the snippets to create a for loop that prints each letter in the word 'Loop'.",
+    "difficulty": 2,
+    "instruction": "Rearrange the blocks into a valid code snippet.",
+    "options": [
+      "for letter in 'Loop':",
+      "    ",
+      "print(letter)"
+    ],
+    "correct_order": [
+      "for letter in 'Loop':",
+      "    ",
+      "print(letter)"
+    ]
+  },
+  {
+    "question": "Drag the snippets to create a while loop that prints numbers from 0 up to (but not including) 3.",
+    "difficulty": 3,
+    "instruction": "Order the blocks correctly so the loop executes until the condition is false.",
+    "options": [
+      "while x < 3:",
+      "x = 0",
+      "x += 1",
+      "print(x)"
+    ],
+    "correct_order": [
+      "x = 0",
+      "while x < 3:",
+      "print(x)",
+      "x += 1"
+    ]
+  },
+  {
+    "question": "Drag the snippets to write a for loop that prints even numbers from 2 to 6 using range().",
+    "difficulty": 4,
+    "instruction": "Arrange the blocks to form a loop that prints the even numbers 2, 4, and 6.",
+    "options": [
+      "print(num)",
+      "for num in range(2, 8, 2):",
+      "    "
+    ],
+    "correct_order": [
+      "for num in range(2, 8, 2):",
+      "    ",
+      "print(num)"
+    ]
+  },
+  {
+    "question": "Drag the snippets to make a while loop that subtracts 2 from a variable until it goes below 1.",
+    "difficulty": 5,
+    "instruction": "Rearrange the snippets into a valid while loop structure.",
+    "options": [
+      "start -= 2",
+      "while start >= 1:",
+      "start = 7",
+      "print(start)"
+    ],
+    "correct_order": [
+      "start = 7",
+      "while start >= 1:",
+      "print(start)",
+      "start -= 2"
+    ]
+  },
+  {
+    "question": "Drag the snippets to form a nested for loop that prints each (row, col) pair for row=0..1 and col=0..1.",
+    "difficulty": 6,
+    "instruction": "Correctly nest the for loops to produce (0,0), (0,1), (1,0), and (1,1).",
+    "options": [
+      "for col in range(2):",
+      "print((row, col))",
+      "for row in range(2):",
+      "    ",
+      "    "
+    ],
+    "correct_order": [
+      "for row in range(2):",
+      "    ",
+      "for col in range(2):",
+      "    ",
+      "print((row, col))"
+    ]
+  },
+  {
+    "question": "Drag the snippets to form a for loop that stops printing numbers once it reaches 3 using the break statement.",
+    "difficulty": 7,
+    "instruction": "Arrange the code to demonstrate a break statement inside a loop.",
+    "options": [
+      "for i in range(5):",
+      "    ",
+      "print(i)",
+      "if i == 3:",
+      "break"
+    ],
+    "correct_order": [
+      "for i in range(5):",
+      "    ",
+      "if i == 3:",
+      "break",
+      "print(i)"
+    ]
+  },
+  {
+    "question": "Drag the snippets to create a while loop that prints odd numbers between 1 and 9 using a continue statement when the number is even.",
+    "difficulty": 8,
+    "instruction": "Use the continue statement properly to skip even numbers.",
+    "options": [
+      "while n < 10:",
+      "continue",
+      "n += 1",
+      "print(n)",
+      "if n % 2 == 0:",
+      "n = 1"
+    ],
+    "correct_order": [
+      "n = 1",
+      "while n < 10:",
+      "if n % 2 == 0:",
+      "n += 1",
+      "continue",
+      "print(n)",
+      "n += 1"
+    ]
+  },
+  {
+    "question": "Drag the snippets to construct a nested loop that prints a pattern of stars using two ranges of different lengths.",
+    "difficulty": 9,
+    "instruction": "Build a nested loop where the outer loop runs 3 times and the inner loop runs 2 times for each outer iteration, printing '*' each time.",
+    "options": [
+      "for j in range(2):",
+      "    ",
+      "print('*', end=' ')",
+      "for i in range(3):",
+      "    "
+    ],
+    "correct_order": [
+      "for i in range(3):",
+      "    ",
+      "for j in range(2):",
+      "    ",
+      "print('*', end=' ')"
+    ]
+  },
+  {
+    "question": "Drag the snippets to create a loop that collects all multiples of 3 below 15 in a list, then prints the list at the end.",
+    "difficulty": 10,
+    "instruction": "Arrange the code blocks to gather multiples of 3 under 15 and print them.",
+    "options": [
+      "numbers.append(x)",
+      "numbers = []",
+      "if x % 3 == 0:",
+      "for x in range(1, 15):",
+      "print(numbers)"
+    ],
+    "correct_order": [
+      "numbers = []",
+      "for x in range(1, 15):",
+      "if x % 3 == 0:",
+      "numbers.append(x)",
+      "print(numbers)"
+    ]
+  }
+]

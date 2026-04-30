@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "num = 1\n\nwhile ____:\n    print(num)\n    ____\n",
+        "num < 4",
+        "num += 1",
+        "range(4)",
+        "for num in range(1, 4)"
+    ]
+}

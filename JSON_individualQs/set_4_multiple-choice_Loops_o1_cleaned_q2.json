@@ -1,0 +1,11 @@
+{
+  "question": "Which built-in function in Python is primarily used to generate a sequence for iteration in a for loop?",
+  "difficulty": 2,
+  "options": [
+    "A. list()",
+    "B. dict()",
+    "C. range()",
+    "D. enumerate()"
+  ],
+  "answer": "C"
+}

@@ -1,0 +1,24 @@
+{
+  "difficulty": 8,
+  "question": "Develop a program fragment using if-statements to determine if two variables are equal and if one exceeds the other.",
+  "code_blocks": [
+    "a = 5",
+    "b = 10",
+    "if a == b:",
+    "print('Equal')",
+    "elif a > b:",
+    "print('a is greater')",
+    "elif a < b:",
+    "print('b is greater')"
+  ],
+  "droppable_items": [
+    "if a == b:",
+    "elif a > b:",
+    "elif a < b:"
+  ],
+  "solution": [
+    "if a == b:",
+    "elif a > b:",
+    "elif a < b:"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "type": "drag-and-drop",
+  "topic": "if-statements",
+  "difficulty": 8,
+  "question": "Arrange the following to handle multiple conditions using logical operators in an `if` statement.",
+  "options": [
+    "if age >= 18 and citizen:",
+    "    print(\"Eligible to vote\")",
+    "age = 20",
+    "citizen = True"
+  ],
+  "correct_order": [
+    "age = 20",
+    "citizen = True",
+    "if age >= 18 and citizen:",
+    "    print(\"Eligible to vote\")"
+  ]
+}

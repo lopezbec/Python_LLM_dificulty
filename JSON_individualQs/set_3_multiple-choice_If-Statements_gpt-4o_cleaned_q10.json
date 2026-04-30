@@ -1,0 +1,11 @@
+{
+  "question": "Examine the code snippet below. What is the output?\n\n```python\na, b, c = 5, 10, 15\nif a < b:\n    if b < c:\n        print('ABC')\n    elif a < c:\n        print('ACB')\n    else:\n        print('CBA')\nelse:\n    print('BAC')\n```",
+  "difficulty": 10,
+  "choices": {
+    "a": "ABC",
+    "b": "ACB",
+    "c": "CBA",
+    "d": "BAC"
+  },
+  "correct_answer": "a"
+}

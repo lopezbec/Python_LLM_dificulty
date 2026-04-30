@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Using 'else' with loops is possible in Python, and it executes if the loop completes normally without hitting a 'break'.",
+  "answer": true
+}

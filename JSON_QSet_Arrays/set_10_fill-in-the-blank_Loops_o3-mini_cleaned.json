@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank: To start a loop that iterates over a sequence in Python, you begin with the keyword ______.",
+    "answer": "for"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank: To create a loop that runs as long as a condition is true, you use the ______ keyword.",
+    "answer": "while"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank: The function used to generate a sequence of numbers for iteration is ______.",
+    "answer": "range"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blank: To exit a loop before it naturally finishes, you include the ______ statement inside the loop.",
+    "answer": "break"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank: In a loop, if you want to skip the remaining code in the current iteration and move to the next, you use the ______ statement.",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank: A loop placed inside another loop is commonly referred to as a ______ loop.",
+    "answer": "nested"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blank: In a while loop, if the condition is never updated to eventually become false, the loop will run ______.",
+    "answer": "infinite"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank: The Python syntax that allows you to generate a list using inline iteration is known as ______.",
+    "answer": "list comprehension"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blank: When iterating over a dictionary to obtain both keys and values simultaneously, you use the dictionary\u2019s ______() method.",
+    "answer": "items"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blank: To iterate over two (or more) sequences in parallel within a for loop, you make use of the ______ function.",
+    "answer": "zip"
+  }
+]

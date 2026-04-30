@@ -1,0 +1,11 @@
+{
+  "question": "How many times will the inner loop execute in the following nested loops?\n\nfor i in range(2):\n\u2003 for j in range(3):\n\u2003\u2003 print(i, j)",
+  "options": [
+    "2",
+    "3",
+    "5",
+    "6"
+  ],
+  "answer": "6",
+  "difficulty": 6
+}

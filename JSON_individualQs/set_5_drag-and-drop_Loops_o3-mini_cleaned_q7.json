@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Arrange the parts of a for loop that filters and prints even numbers from a list.",
+  "instructions": "Drag and drop the provided code segments to create a loop that prints even numbers from the list 'numbers'.",
+  "dragItems": [
+    "for num in numbers:",
+    "if num % 2 == 0:",
+    "print(num)"
+  ],
+  "dropZones": [
+    "Step 1 (Loop initiation)",
+    "Step 2 (Conditional filtering)",
+    "Step 3 (Output)"
+  ],
+  "correctOrder": [
+    "for num in numbers:",
+    "if num % 2 == 0:",
+    "print(num)"
+  ]
+}

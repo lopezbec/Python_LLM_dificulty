@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "question": "Drag the appropriate keywords to handle multiple conditions using elif:",
+  "codeSnippet": "if score >= 90:\n    grade = \"A\"\n___ score >= 80:\n    grade = \"B\"\n___:\n    grade = \"C\"",
+  "dragOptions": [
+    "elif",
+    "else",
+    "elif",
+    "elif",
+    "else"
+  ],
+  "dropZones": [
+    "___",
+    "___"
+  ],
+  "correctAnswers": {
+    "___": "else"
+  }
+}

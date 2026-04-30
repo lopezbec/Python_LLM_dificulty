@@ -1,0 +1,37 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Fill in the blanks to complete the elif ladder for grade evaluation.",
+  "drag_options": [
+    "elif score >= 80:",
+    "elif score >= 70:",
+    "elif score >= 60:",
+    "else:"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "Line 1: if score >= 90:",
+      "identifier": "line_1"
+    },
+    {
+      "placeholder": "Line 2: ___",
+      "identifier": "line_2"
+    },
+    {
+      "placeholder": "Line 3: ___",
+      "identifier": "line_3"
+    },
+    {
+      "placeholder": "Line 4: ___",
+      "identifier": "line_4"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if score >= 90:",
+    "line_2": "elif score >= 80:",
+    "line_3": "elif score >= 70:",
+    "line_4": "else:"
+  }
+}

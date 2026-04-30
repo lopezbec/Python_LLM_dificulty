@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A 'for' loop in Python can iterate over a sequence of elements.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "The 'while' loop will always execute at least once.",
+    "answer": false,
+    "difficulty": 2
+  },
+  {
+    "question": "'break' keyword in a loop can be used to exit the loop immediately.",
+    "answer": true,
+    "difficulty": 3
+  },
+  {
+    "question": "In Python, the 'continue' statement stops the entire loop and continues to the next iteration.",
+    "answer": false,
+    "difficulty": 4
+  },
+  {
+    "question": "Nested loops can be defined in Python, meaning a loop within another loop.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "You can use a 'for' loop to iterate over dictionary keys directly in Python.",
+    "answer": true,
+    "difficulty": 6
+  },
+  {
+    "question": "'range(5)' generates a sequence of numbers from 0 to 5, inclusive.",
+    "answer": false,
+    "difficulty": 7
+  },
+  {
+    "question": "It is possible to have an infinite loop in Python if the loop condition is never false.",
+    "answer": true,
+    "difficulty": 8
+  },
+  {
+    "question": "All loop control statements in Python (break, continue, pass) serve the same purpose.",
+    "answer": false,
+    "difficulty": 9
+  },
+  {
+    "question": "The 'else' clause in a loop executes after all iterations are complete, unless the loop was exited by a 'break' statement.",
+    "answer": true,
+    "difficulty": 10
+  }
+]

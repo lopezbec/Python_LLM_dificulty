@@ -1,0 +1,10 @@
+{
+  "question": "4. Which logical operator is used to combine multiple conditions in an if statement?",
+  "options": [
+    "A) ++",
+    "B) and",
+    "C) ||",
+    "D) not"
+  ],
+  "answer": "B"
+}

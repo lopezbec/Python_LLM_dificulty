@@ -1,0 +1,6 @@
+{
+  "question_number": 2,
+  "difficulty": 2,
+  "question": "Fill in the blank so that the code checks if 'num' is not equal to 0:\n\nif num __ 0:\n    print('Not zero')",
+  "correct_answer": "!="
+}

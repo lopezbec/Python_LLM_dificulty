@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "if 'banana' ____ fruits:",
+        "print(\"Banana is in the list\")",
+        "in"
+    ]
+}

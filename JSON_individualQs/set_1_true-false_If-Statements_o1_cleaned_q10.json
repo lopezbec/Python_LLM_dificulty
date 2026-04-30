@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "The ternary operator syntax 'value_if_true if condition else value_if_false' is invalid in Python.",
+  "correct_answer": "False"
+}

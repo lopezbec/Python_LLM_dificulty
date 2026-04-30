@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "Fill in the blank in the following code so that it prints 'High' if x is greater than 10, and 'Low' otherwise:\n\nif x > 10:\n    print(\"High\")\n________:\n    print(\"Low\")",
+  "answer": "else"
+}

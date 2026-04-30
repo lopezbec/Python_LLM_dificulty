@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which of the following best describes a loop in Python?",
+  "options": [
+    "A conditional statement",
+    "A control flow statement for repeated execution",
+    "A function definition",
+    "An error message"
+  ],
+  "correct_answer": "A control flow statement for repeated execution"
+}

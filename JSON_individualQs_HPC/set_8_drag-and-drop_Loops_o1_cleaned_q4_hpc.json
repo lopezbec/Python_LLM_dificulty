@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "print(char)",
+        "for char in 'cat':",
+        "char = 0",
+        "while char != 'cat':",
+        "'cat'",
+        "for char in 'cat':",
+        "print(char)",
+        "'char = 0'",
+        "while statement"
+    ]
+}

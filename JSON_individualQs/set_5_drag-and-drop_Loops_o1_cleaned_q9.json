@@ -1,0 +1,13 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question_text": "Reorder these lines to build a loop that prints the numbers 2, 1, 0 using reversed().",
+  "choices": [
+    "for i in reversed(range(3)):",
+    "print(i)"
+  ],
+  "correct_order": [
+    1,
+    2
+  ]
+}

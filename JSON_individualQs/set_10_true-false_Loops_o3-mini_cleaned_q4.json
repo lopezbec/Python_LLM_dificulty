@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "True or False: The continue statement in Python causes the loop to skip the rest of the code for the current iteration and proceed with the next iteration.",
+  "answer": "True"
+}

@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "x = 100",
+        "if x > 100:",
+        "print('Over')",
+        "elif x == 100:",
+        "print('Equal')",
+        "else:",
+        "print('Under')"
+    ]
+}

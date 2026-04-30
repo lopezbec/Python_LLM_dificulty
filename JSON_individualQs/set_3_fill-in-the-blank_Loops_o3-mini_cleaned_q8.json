@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "Fill in the blank: When iterating over a string using a for loop, each iteration assigns a single __ from the string.",
+  "answer": "character"
+}

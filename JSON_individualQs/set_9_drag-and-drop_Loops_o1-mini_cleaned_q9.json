@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "loops",
+  "question": "Arrange the try-except block within a loop to handle potential division by zero errors.",
+  "code": "for i in range(5):\n    __:\n        result = 10 / i\n        print(result)\n    __ __ __ as e:\n        print('Error:', e)",
+  "options": [
+    "try",
+    "except",
+    "ZeroDivisionError",
+    "except",
+    "ZeroDivisionError",
+    "as e"
+  ],
+  "answers": {
+    "blank1": "try",
+    "blank2": "except",
+    "blank3": "ZeroDivisionError",
+    "blank4": "as e"
+  }
+}

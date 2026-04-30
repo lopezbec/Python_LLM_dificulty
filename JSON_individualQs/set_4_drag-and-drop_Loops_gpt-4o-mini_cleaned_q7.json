@@ -1,0 +1,16 @@
+{
+  "difficulty": 7,
+  "question": "Drag and drop to create a loop that continues to the next iteration when an odd number is encountered:",
+  "options": [
+    "for num in range(1, 11):",
+    "if num % 2 != 0:",
+    "continue",
+    "print(num)"
+  ],
+  "correct_order": [
+    "for num in range(1, 11):",
+    "if num % 2 != 0:",
+    "continue",
+    "print(num)"
+  ]
+}

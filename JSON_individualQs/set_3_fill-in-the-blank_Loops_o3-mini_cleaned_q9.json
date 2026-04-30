@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Fill in the blank: The function __ is useful when you need both the index and the item during iteration of a sequence.",
+  "answer": "enumerate"
+}

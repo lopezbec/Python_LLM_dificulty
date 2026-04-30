@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "print(\"Discount applied!\")",
+        "if total_purchase > 50:",
+        "if customer_type == 'member':",
+        "customer_type",
+        "total_purchase",
+        "if customer_type == 'member':",
+        "if total_purchase > 50:",
+        "print(\"Discount applied!\")"
+    ]
+}

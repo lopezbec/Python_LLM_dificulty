@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "temperature < 0",
+        "humidity > 80",
+        "if temperature < 0 ____ humidity > 80:",
+        "print('Freezing and Humid')"
+    ]
+}

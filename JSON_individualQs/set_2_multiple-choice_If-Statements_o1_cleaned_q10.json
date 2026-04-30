@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "What is the primary benefit of nesting multiple if statements instead of using a single if statement with complex conditions?",
+  "answers": {
+    "A": "It reduces the need for indentation.",
+    "B": "It always executes faster at runtime.",
+    "C": "It allows more granular checks and can separate logic more clearly.",
+    "D": "It prevents logical short-circuits in multiple conditions."
+  },
+  "correctAnswer": "C"
+}

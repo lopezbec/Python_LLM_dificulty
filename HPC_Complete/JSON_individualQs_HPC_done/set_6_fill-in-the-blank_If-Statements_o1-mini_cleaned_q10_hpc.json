@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "if temperature > 30:",
+        "weather = \"Hot\"",
+        "elif 20 < temperature <= 30:",
+        "weather = \"Warm\"",
+        "elif 10 < temperature <= 20:",
+        "weather = \"Cool\"",
+        "____:",
+        "weather = \"Cold\""
+    ]
+}

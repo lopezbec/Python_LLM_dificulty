@@ -1,0 +1,5 @@
+{
+  "level": 10,
+  "question": "Complete the if statement to handle multiple conditions with logical operators:\n\nif (x > 0 and y > 0) ____ (x < 0 and y < 0):\n    print(\"Same sign\")\nelse:\n    print(\"Different signs\")",
+  "answer": "or"
+}

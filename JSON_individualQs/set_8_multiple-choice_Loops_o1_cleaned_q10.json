@@ -1,0 +1,11 @@
+{
+  "question": "Which built-in function allows you to iterate over multiple iterables in parallel, stopping at the shortest iterable by default?",
+  "difficulty": 10,
+  "choices": [
+    "A) enumerate()",
+    "B) range()",
+    "C) zip()",
+    "D) map()"
+  ],
+  "correct_answer": "C"
+}

@@ -1,0 +1,27 @@
+{
+  "difficulty": 10,
+  "question": "Compile a decision-making structure to determine an employee's performance category based on score ranges using compound conditions.",
+  "code_blocks": [
+    "score = 82",
+    "if score >= 90:",
+    "print('Outstanding')",
+    "elif score >= 75 and score < 90:",
+    "print('Good')",
+    "elif score >= 60 and score < 75:",
+    "print('Satisfactory')",
+    "else:",
+    "print('Needs Improvement')"
+  ],
+  "droppable_items": [
+    "if score >= 90:",
+    "elif score >= 75 and score < 90:",
+    "elif score >= 60 and score < 75:",
+    "else:"
+  ],
+  "solution": [
+    "if score >= 90:",
+    "elif score >= 75 and score < 90:",
+    "elif score >= 60 and score < 75:",
+    "else:"
+  ]
+}

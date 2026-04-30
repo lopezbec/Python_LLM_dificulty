@@ -1,0 +1,10 @@
+{
+    "HPC": [
+        "for loop",
+        "list called `fruits`",
+        "for (fruit in fruits):",
+        "for fruit in fruits:",
+        "foreach fruit in fruits:",
+        "for fruit = fruits:"
+    ]
+}

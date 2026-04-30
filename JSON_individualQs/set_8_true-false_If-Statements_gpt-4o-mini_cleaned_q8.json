@@ -1,0 +1,5 @@
+{
+  "question": "If you use only an else statement without an if statement, it will raise a SyntaxError.",
+  "answer": true,
+  "difficulty": 8
+}

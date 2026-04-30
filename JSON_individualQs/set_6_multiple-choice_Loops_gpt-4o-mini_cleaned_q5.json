@@ -1,0 +1,11 @@
+{
+  "question": "What will the following code print?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1\n\n",
+  "options": [
+    "0\n1\n2",
+    "0\n1\n2\n3",
+    "3\n2\n1",
+    "1\n2\n3"
+  ],
+  "correct_answer": "0\n1\n2",
+  "difficulty": 5
+}

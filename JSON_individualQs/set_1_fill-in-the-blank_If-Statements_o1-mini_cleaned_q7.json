@@ -1,0 +1,7 @@
+{
+  "question": "Fill in the blank to correctly use the 'and' logical operator in an if-statement:\n\nx = 5\ny = 10\nif x > 0 ___ y > 5:\n    print(\"Both conditions are true\")",
+  "answer": "and",
+  "difficulty": 7,
+  "topic": "If-Statements",
+  "type": "Fill-in-the-blank"
+}

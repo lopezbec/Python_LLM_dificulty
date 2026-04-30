@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "question": "Python evaluates the conditions in an if-elif-else chain from top to bottom and stops at the first condition that is true.",
+  "difficulty": 9,
+  "answer": true
+}

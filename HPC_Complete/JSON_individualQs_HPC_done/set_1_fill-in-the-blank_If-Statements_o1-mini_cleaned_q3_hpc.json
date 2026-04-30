@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "score",
+        "score = 85",
+        "if score ___ 100:",
+        "print(\"Perfect Score\")"
+    ]
+}

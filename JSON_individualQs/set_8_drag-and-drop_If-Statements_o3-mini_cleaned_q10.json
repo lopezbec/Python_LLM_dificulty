@@ -1,0 +1,34 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Complete the multi-branch function by dragging the correct comparison operators and keywords into the blanks.",
+  "code_snippet": "def categorize_number(n):\n    if n > 0:\n        if n ___ 10:\n            return 'Small positive'\n        ___ n >= 10 and n < 100:\n            return 'Medium positive'\n        ___:\n            return 'Large positive'\n    elif n < 0:\n        return 'Negative'\n    ___:\n        return 'Zero'",
+  "blanks": [
+    {
+      "blank_id": 1,
+      "correct_answer": "<"
+    },
+    {
+      "blank_id": 2,
+      "correct_answer": "elif"
+    },
+    {
+      "blank_id": 3,
+      "correct_answer": "else"
+    },
+    {
+      "blank_id": 4,
+      "correct_answer": "else"
+    }
+  ],
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    "<",
+    ">",
+    "==",
+    "and",
+    "or"
+  ]
+}

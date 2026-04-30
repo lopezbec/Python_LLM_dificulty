@@ -1,0 +1,13 @@
+{
+  "difficulty": 8,
+  "question": "In an if-statement, drag the correct block for the case: if (temperature < 0) _______; else if (temperature >= 0 && temperature < 30) _______;",
+  "options": [
+    "print('Freezing')",
+    "print('Cold')",
+    "print('Warm')"
+  ],
+  "correct_answer": [
+    "print('Freezing')",
+    "print('Cold')"
+  ]
+}

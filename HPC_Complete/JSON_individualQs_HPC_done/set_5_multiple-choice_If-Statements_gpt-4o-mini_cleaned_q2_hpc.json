@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if 5 > 3: \n    print('Five is greater than three')",
+        "Five is less than three",
+        "Five is greater than three",
+        "Nothing",
+        "It's an error"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "type": "drag-and-drop",
+  "difficulty": 1,
+  "topic": "loops",
+  "question": "Arrange the parts of a basic for loop in Python in the correct order.",
+  "options": [
+    "for i in range(5):",
+    "print(i)",
+    "    print(i)"
+  ],
+  "correct_order": [
+    "for i in range(5):",
+    "    print(i)"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 7,
+  "difficulty": 7,
+  "question": "Fill in the blank to chain two conditions: If x > 10, print 'Big'; otherwise, if x == 10, print 'Equal'; else print 'Small':\n\nif x > 10:\n    print('Big')\n______ x == 10:\n    print('Equal')\nelse:\n    print('Small')",
+  "correct_answer": "elif"
+}

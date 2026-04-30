@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "matrix = [[1, 2], [3, 4]]",
+        "for num in row:",
+        "if num % 2 == 0:",
+        "for row in matrix:",
+        "continue",
+        "if row[0] == 3:",
+        "break",
+        "print(num)",
+        "else:",
+        "print('Row complete')"
+    ]
+}

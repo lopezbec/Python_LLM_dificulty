@@ -1,0 +1,11 @@
+{
+  "question": "Consider the following code:\n\nx = 4\nif x < 6:\n    print('A')\nif x < 5:\n    print('B')\n\nWhat is the output?",
+  "difficulty": 5,
+  "options": {
+    "A": "B",
+    "B": "A",
+    "C": "A B",
+    "D": "No output"
+  },
+  "correct_answer": "C"
+}

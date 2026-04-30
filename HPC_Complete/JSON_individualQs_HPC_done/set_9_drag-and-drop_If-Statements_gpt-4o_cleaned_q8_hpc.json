@@ -1,0 +1,12 @@
+{
+    "HPC": [
+        "score = 92",
+        "completed = True",
+        "if __ and (completed or __):",
+        "print('Success')",
+        "score > 90",
+        "completed == False",
+        "score < 90",
+        "completed == True"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "HPC": [
+        "if-else",
+        "'Positive'",
+        "'number'",
+        "0",
+        "'Negative'",
+        "number = -5\nif ( number ___ 0 ):\n    print('Positive')\nelse:\n    print('Negative')",
+        "<",
+        ">",
+        "==",
+        "!="
+    ]
+}

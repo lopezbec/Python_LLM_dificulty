@@ -1,0 +1,6 @@
+{
+  "difficulty": 9,
+  "type": "true-false",
+  "question": "An infinite loop can be created using a while loop with a condition that always evaluates to True, such as 'while True:'.",
+  "correctAnswer": "True"
+}

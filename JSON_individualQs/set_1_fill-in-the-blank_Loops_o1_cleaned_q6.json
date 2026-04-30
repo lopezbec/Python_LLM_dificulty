@@ -1,0 +1,7 @@
+{
+  "id": 6,
+  "type": "fill-in-the-blank",
+  "difficulty": 6,
+  "question": "The built-in Python function '_______' can be used to generate a sequence of numbers for a for loop.",
+  "correct_answer": "range"
+}

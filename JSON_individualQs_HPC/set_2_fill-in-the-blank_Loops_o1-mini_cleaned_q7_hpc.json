@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "x_values = [1, 2]",
+        "y_values = [3, 4]",
+        "for x in x_values:",
+        "for ___ in ___:",
+        "print((x, y))"
+    ]
+}

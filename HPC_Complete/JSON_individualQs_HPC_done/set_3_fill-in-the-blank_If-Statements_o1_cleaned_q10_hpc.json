@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "message = 'Positive' if x > 0 ______ 'Non-positive'",
+        "message",
+        "x"
+    ]
+}

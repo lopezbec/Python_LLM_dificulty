@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Drag the correct number into the blank to complete the basic loop structure.\n\nfor i in range(___):",
+  "options": [
+    "5",
+    "1",
+    "0",
+    "10"
+  ],
+  "answer": "5"
+}

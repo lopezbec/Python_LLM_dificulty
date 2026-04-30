@@ -1,0 +1,13 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the missing part of this if-else statement.",
+  "code": "if x __condition__ y: \n    print(\"x is greater\")\nelse:\n    print(\"y is greater or equal\")",
+  "options": [
+    ">",
+    "<",
+    "=="
+  ],
+  "answers": [
+    ">"
+  ]
+}

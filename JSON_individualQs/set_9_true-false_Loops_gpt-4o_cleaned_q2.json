@@ -1,0 +1,5 @@
+{
+  "question": "A 'while' loop in Python will execute at least once, even if the condition is initially false.",
+  "difficulty": 2,
+  "answer": false
+}

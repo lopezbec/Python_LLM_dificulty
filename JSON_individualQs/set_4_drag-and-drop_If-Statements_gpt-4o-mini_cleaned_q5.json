@@ -1,0 +1,13 @@
+{
+  "difficulty": 5,
+  "question": "Arrange the elements to create a valid if-else construct: if x == 0 { _____ } else { _____ }",
+  "options": [
+    "print('x is zero')",
+    "print('x is not zero')",
+    "x = x + 5"
+  ],
+  "correct_answer": [
+    "print('x is zero')",
+    "print('x is not zero')"
+  ]
+}

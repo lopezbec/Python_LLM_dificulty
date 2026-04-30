@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "x = 12",
+        "if x in [5, 10, 15]:",
+        "print('Found')",
+        "else:",
+        "print('Not Found')",
+        "Found",
+        "Not Found",
+        "Error",
+        "None"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Given the list `numbers = [2, 4, 6]`, what will be the output of the following code?\n```python\nfor num in numbers:\n    print(num + 1)\n```\n",
+  "options": [
+    "3 5 7",
+    "2 4 6",
+    "3 4 5",
+    "1 2 3"
+  ],
+  "correct_answer": "3 5 7"
+}

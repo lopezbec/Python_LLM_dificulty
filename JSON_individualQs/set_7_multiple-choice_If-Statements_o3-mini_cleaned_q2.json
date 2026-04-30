@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "In Python, which keyword is used to execute a block of code when the if-statement condition is false?",
+  "options": {
+    "A": "elif",
+    "B": "default",
+    "C": "else",
+    "D": "except"
+  },
+  "answer": "C"
+}

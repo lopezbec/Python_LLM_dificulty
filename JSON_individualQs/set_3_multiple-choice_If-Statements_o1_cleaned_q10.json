@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which statement about nested if structures is most accurate in Python?",
+  "options": [
+    "A) Nested if statements are not allowed in Python",
+    "B) The inner if statement can only run if the outer if statement\u2019s condition is True",
+    "C) Each nested if must use 'elif' instead of 'if'",
+    "D) Indentation is not required in nested if statements"
+  ],
+  "correctAnswer": "B"
+}

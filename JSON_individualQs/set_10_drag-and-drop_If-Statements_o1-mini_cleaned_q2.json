@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "topic": "If-Statements",
+  "type": "drag-and-drop",
+  "difficulty": 2,
+  "question": "Match the if statement components to their descriptions.",
+  "dragItems": [
+    "if",
+    "condition",
+    "block"
+  ],
+  "dropZones": [
+    "Keyword to start a conditional statement",
+    "Expression evaluated to True or False",
+    "Indented code to execute if condition is True"
+  ],
+  "correctAnswers": {
+    "Keyword to start a conditional statement": "if",
+    "Expression evaluated to True or False": "condition",
+    "Indented code to execute if condition is True": "block"
+  }
+}

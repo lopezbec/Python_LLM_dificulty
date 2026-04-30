@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To execute a block of code only if all conditions are true, you can combine conditions with the _____ operator.",
+  "answer": "and"
+}

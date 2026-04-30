@@ -1,0 +1,5 @@
+{
+  "question": "Infinite loops in Python can be avoided by ensuring that the loop's condition eventually becomes False.",
+  "answer": true,
+  "difficulty": 9
+}

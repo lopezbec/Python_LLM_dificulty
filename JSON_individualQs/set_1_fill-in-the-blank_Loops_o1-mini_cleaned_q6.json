@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: To iterate over both keys and values in a dictionary within a for loop, you use the ______ method.",
+  "answer": "items()",
+  "difficulty": 6
+}

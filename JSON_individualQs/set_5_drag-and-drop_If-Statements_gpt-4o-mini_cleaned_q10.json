@@ -1,0 +1,24 @@
+{
+  "difficulty": 10,
+  "question": "Drag and arrange to create a complex if-elif structure that evaluates multiple types of user input.",
+  "fragments": [
+    "if input_type == 'text':",
+    "print('Processing text...')",
+    "elif input_type == 'number':",
+    "print('Processing number...')",
+    "elif input_type == 'boolean':",
+    "print('Processing boolean...')",
+    "else:",
+    "print('Unknown input type')"
+  ],
+  "correct_order": [
+    "if input_type == 'text':",
+    "print('Processing text...')",
+    "elif input_type == 'number':",
+    "print('Processing number...')",
+    "elif input_type == 'boolean':",
+    "print('Processing boolean...')",
+    "else:",
+    "print('Unknown input type')"
+  ]
+}

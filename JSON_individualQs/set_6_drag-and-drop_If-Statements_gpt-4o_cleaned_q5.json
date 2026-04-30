@@ -1,0 +1,19 @@
+{
+  "difficulty": 5,
+  "question": "Reorganize the if-elif-else structure to check age eligibility for voting (>= 18) and minor status (< 18).",
+  "code_blocks": [
+    "age = 17",
+    "if age >= 18:",
+    "print('Eligible to vote')",
+    "elif age < 18:",
+    "print('Minor')"
+  ],
+  "droppable_items": [
+    "if age >= 18:",
+    "elif age < 18:"
+  ],
+  "solution": [
+    "if age >= 18:",
+    "elif age < 18:"
+  ]
+}

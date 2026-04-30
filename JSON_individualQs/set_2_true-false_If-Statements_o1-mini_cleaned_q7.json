@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "question": "In a nested if-statement, the inner if-statement is only executed if the outer if-statement's condition is True.",
+  "difficulty": 7,
+  "type": "True/False"
+}

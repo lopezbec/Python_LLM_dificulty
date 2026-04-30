@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 8,
+  "question": "Select the correct condition to check if the number variable is outside the range of 10 to 50 (inclusive).",
+  "code": "number = 5\nif [BLANK]:\n    print(\"Number is outside 10 to 50\")",
+  "choices": [
+    "10 <= number <= 50",
+    "number < 10 or number > 50",
+    "number > 10 or number < 50"
+  ],
+  "correctAnswer": "number < 10 or number > 50"
+}

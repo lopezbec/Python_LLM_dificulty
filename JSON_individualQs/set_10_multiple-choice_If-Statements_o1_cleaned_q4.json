@@ -1,0 +1,12 @@
+{
+  "difficulty": 4,
+  "question": "How does Python execute an if statement without an else branch, when the condition is false?",
+  "choices": [
+    "A) The program stops execution immediately.",
+    "B) The if block is skipped, and execution continues after it.",
+    "C) It automatically checks for an elif block.",
+    "D) It raises a runtime error."
+  ],
+  "correct_answer": "B",
+  "explanation": "If the condition is false and there is no else or elif, Python simply skips the code inside the if block and continues execution afterward."
+}

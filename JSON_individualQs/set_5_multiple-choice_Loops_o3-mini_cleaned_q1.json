@@ -1,0 +1,11 @@
+{
+  "difficulty": 1,
+  "question": "Which keyword is used to initiate a loop in Python for iterating over items of a sequence?",
+  "options": {
+    "A": "for",
+    "B": "while",
+    "C": "loop",
+    "D": "repeat"
+  },
+  "correct_answer": "A"
+}

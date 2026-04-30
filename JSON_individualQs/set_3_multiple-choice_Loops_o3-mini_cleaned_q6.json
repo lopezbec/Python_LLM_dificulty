@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "How many times will the loop execute in the following code?\n\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1",
+  "options": [
+    "4",
+    "5",
+    "6",
+    "An infinite loop"
+  ],
+  "correct_answer": "5"
+}

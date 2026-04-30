@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "Which of the following is the correct way to check if a variable 'var' is exactly equal to None in Python?",
+  "options": [
+    "if var == None:",
+    "if var is None:",
+    "if var equals None:",
+    "if var = None:"
+  ],
+  "correct_answer": "if var is None:"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "drag-and-drop",
+  "difficulty": 6,
+  "question": "Drag the best snippet into the blank so that an action occurs only if login_status is False (meaning the user is not logged in).",
+  "code": "login_status = False\nif [BLANK]:\n    print(\"User must be logged in\")",
+  "choices": [
+    "login_status == True",
+    "login_status == False",
+    "login_status >= 1"
+  ],
+  "correctAnswer": "login_status == False"
+}

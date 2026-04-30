@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "for i in range(5):\n    if i % 2 == 0:\n        ____\n    print(i)",
+        "continue",
+        "break",
+        "pass"
+    ]
+}

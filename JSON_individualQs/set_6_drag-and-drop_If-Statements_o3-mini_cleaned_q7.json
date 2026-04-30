@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "topic": "if-statements",
+  "question": "Fill in the missing parts to complete the if-elif-else structure that prints 'Low', 'Average', or 'High' based on the score.",
+  "instruction": "Drag the correct condition and keyword into the blanks.",
+  "code": "score = 75\nif ____:\n    print('Low')\n____ score <= 80:\n    print('Average')\nelse:\n    print('High')",
+  "dragItems": [
+    "score < 50",
+    "elif",
+    "if",
+    "score > 80"
+  ],
+  "dropZones": [
+    "[condition1]",
+    "[keyword]"
+  ],
+  "correctMapping": {
+    "[condition1]": "score < 50",
+    "[keyword]": "elif"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "How many times will the loop execute in the following snippet?\n\nx = 0\nwhile x < 10:\n    x += 3",
+  "options": [
+    "3 times",
+    "4 times",
+    "5 times",
+    "Infinite times"
+  ],
+  "correct_answer": "4 times"
+}

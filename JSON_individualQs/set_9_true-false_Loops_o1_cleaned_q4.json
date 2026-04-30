@@ -1,0 +1,5 @@
+{
+  "question": "A 'for' loop always runs at least once, even if the sequence is empty.",
+  "difficulty": 4,
+  "correct_answer": "False"
+}

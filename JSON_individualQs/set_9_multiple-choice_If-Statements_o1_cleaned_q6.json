@@ -1,0 +1,12 @@
+{
+  "difficulty": 6,
+  "question": "What is the output of the following code?\n\nx = 10\nif x < 5:\n    print(\"Small\")\nelse:\n    print(\"Large\")",
+  "options": [
+    "Small",
+    "Large",
+    "No output",
+    "An error is raised"
+  ],
+  "correctAnswer": "Large",
+  "explanation": "Since x=10 is not less than 5, the else branch executes, printing 'Large'."
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "type": "multiple-choice",
+  "topic": "loops",
+  "question": "Which loop is guaranteed to execute its block of code at least once?",
+  "options": [
+    "for loop",
+    "while loop",
+    "do-while loop",
+    "if loop"
+  ],
+  "correct_answer": "do-while loop"
+}

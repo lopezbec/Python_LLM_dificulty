@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "A while loop in Python evaluates its condition before executing its body.",
+  "correct_answer": true
+}

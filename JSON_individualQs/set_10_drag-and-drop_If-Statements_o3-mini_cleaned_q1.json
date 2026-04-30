@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Drag and drop the correct keyword into the blank to create a valid if-statement that checks if variable 'x' is greater than 0.",
+  "codeSnippet": "____ x > 0:\n    print('x is positive')",
+  "dragItems": [
+    "if"
+  ],
+  "dropTargets": [
+    "drop1"
+  ],
+  "correctMatches": {
+    "drop1": "if"
+  }
+}

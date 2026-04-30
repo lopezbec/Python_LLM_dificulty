@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question": "An if statement in Python can be followed by an optional else clause that executes when the condition evaluates to False.",
+  "answer": true
+}

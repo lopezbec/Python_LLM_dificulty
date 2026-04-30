@@ -1,0 +1,11 @@
+{
+  "question": "Consider this code:\n\nx = 0\nwhile x < 3:\n    x += 1\n    print(x)\n\nHow many times will the loop run?",
+  "difficulty": 5,
+  "choices": [
+    "A) 0 times",
+    "B) 1 time",
+    "C) 3 times",
+    "D) 4 times"
+  ],
+  "correct_answer": "C"
+}

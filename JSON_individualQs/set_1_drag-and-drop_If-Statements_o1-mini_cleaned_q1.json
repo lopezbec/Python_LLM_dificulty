@@ -1,0 +1,22 @@
+{
+  "question_number": 1,
+  "difficulty": 1,
+  "topic": "if-statements",
+  "question_type": "drag-and-drop",
+  "question_text": "Drag the correct keyword to complete the if statement.",
+  "drag_options": [
+    "if",
+    "else",
+    "elif",
+    "while"
+  ],
+  "drop_zones": [
+    {
+      "placeholder": "___ (x > 10):",
+      "identifier": "line_1"
+    }
+  ],
+  "correct_answers": {
+    "line_1": "if"
+  }
+}

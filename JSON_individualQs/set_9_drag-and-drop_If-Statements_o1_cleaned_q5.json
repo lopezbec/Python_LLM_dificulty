@@ -1,0 +1,25 @@
+{
+  "question_number": 5,
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "prompt": "Complete the code that checks if 'num' is positive, negative, or zero.",
+  "code_with_placeholders": [
+    "num = 0",
+    "if num > 0:",
+    "    print(\"Positive\")",
+    "[__keyword1__] num < 0:",
+    "    print(\"Negative\")",
+    "[__keyword2__]:",
+    "    print(\"Zero\")"
+  ],
+  "drag_items": [
+    "if",
+    "elif",
+    "else if",
+    "else"
+  ],
+  "correct_answer": {
+    "__keyword1__": "elif",
+    "__keyword2__": "else"
+  }
+}

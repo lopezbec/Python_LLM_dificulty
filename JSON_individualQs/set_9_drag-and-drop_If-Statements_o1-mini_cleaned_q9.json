@@ -1,0 +1,15 @@
+{
+  "id": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "topic": "if-statements",
+  "question": "Arrange the following code snippets to implement an `if` statement that uses a ternary operator for conditional assignment.",
+  "options": [
+    "    result = 'Pass'",
+    "    result = 'Fail'",
+    "result = 'Pass' if score >= 60 else 'Fail'"
+  ],
+  "answer": [
+    "result = 'Pass' if score >= 60 else 'Fail'"
+  ]
+}

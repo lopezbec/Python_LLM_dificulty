@@ -1,0 +1,24 @@
+{
+  "id": 4,
+  "difficulty": 4,
+  "question_type": "drag-and-drop",
+  "question_text": "Complete the following if-statement by inserting the correct keyword and operator to check if 'score' is 50 or more:\n[BLANK1] score [BLANK2] 50:\n    print('Pass')",
+  "blanks": [
+    {
+      "id": "BLANK1",
+      "description": "Keyword to start an if-statement",
+      "correct_answer": "if"
+    },
+    {
+      "id": "BLANK2",
+      "description": "Operator to check if score is greater than or equal to 50",
+      "correct_answer": ">="
+    }
+  ],
+  "options": [
+    "if",
+    ">=",
+    "==",
+    "="
+  ]
+}

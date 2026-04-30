@@ -1,0 +1,31 @@
+{
+  "id": 2,
+  "difficulty": 2,
+  "topic": "loops",
+  "question": "Arrange the code lines in the correct order to form a while loop that prints numbers from 1 to 3.",
+  "instructions": "Drag and drop the following code snippets into the correct sequence.",
+  "items": [
+    {
+      "id": "A",
+      "text": "i = 1"
+    },
+    {
+      "id": "B",
+      "text": "while i <= 3:"
+    },
+    {
+      "id": "C",
+      "text": "    print(i)"
+    },
+    {
+      "id": "D",
+      "text": "    i += 1"
+    }
+  ],
+  "correct_order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}

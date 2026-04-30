@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "In Python, the ternary conditional operator allows a shorthand if-else statement, formatted as: `___ if condition else ___`.",
+  "answer": "value_if_true, value_if_false"
+}

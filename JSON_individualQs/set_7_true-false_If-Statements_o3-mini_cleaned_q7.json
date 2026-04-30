@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "In Python, the condition used in an if statement may be any expression that returns a Boolean value, including a function call that returns True or False.",
+  "answer": true
+}

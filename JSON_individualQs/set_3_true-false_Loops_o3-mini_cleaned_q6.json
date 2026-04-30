@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "True or False: In Python 3, the range() function returns an iterator, not a list.",
+  "answer": true
+}

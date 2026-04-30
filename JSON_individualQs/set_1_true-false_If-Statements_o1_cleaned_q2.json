@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "If you omit the colon (:) after the 'if' keyword in Python, your code will still run without error.",
+  "correct_answer": "False"
+}

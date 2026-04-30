@@ -1,0 +1,5 @@
+{
+  "difficulty": 8,
+  "question": "To verify whether 'a' is both greater than 5 and less than 20 using Python's if-statement, the condition would be: if 5 < a _____ a < 20.",
+  "answer": "and"
+}

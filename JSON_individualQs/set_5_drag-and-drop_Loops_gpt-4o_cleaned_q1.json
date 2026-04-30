@@ -1,0 +1,12 @@
+{
+  "difficulty": 1,
+  "question": "Complete the following code to create a loop that prints numbers 0 to 4.",
+  "code": "for i in <blank>: print(i)",
+  "options": [
+    "range(5)",
+    "range(0, 5)",
+    "range(1, 4)",
+    "range(1, 5)"
+  ],
+  "correct_answer": "range(5)"
+}

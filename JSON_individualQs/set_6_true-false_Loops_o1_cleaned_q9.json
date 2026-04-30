@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "Nested loops can never access variables from their outer loops in Python.",
+  "answer": "False"
+}

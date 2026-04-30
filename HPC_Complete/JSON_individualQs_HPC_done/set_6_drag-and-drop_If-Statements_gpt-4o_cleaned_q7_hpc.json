@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "num = 15",
+        "if num >= 10 and num <= 20:",
+        "print('Within range')",
+        "if num >= 10 and num <= 20:"
+    ]
+}

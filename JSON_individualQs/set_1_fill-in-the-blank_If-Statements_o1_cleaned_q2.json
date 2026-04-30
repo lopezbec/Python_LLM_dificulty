@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Fill in the blank to handle the alternative if x <= 5:\nif x > 5:\n    print(\"x is greater than 5\")\n________:\n    print(\"x is less than or equal to 5\")",
+  "answer": "else"
+}

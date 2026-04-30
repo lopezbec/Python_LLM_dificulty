@@ -1,0 +1,12 @@
+{
+  "difficulty": 8,
+  "type": "drag-and-drop",
+  "topic": "If-Statements",
+  "question": "Construct the if-elif-else chain to categorize age into 'Child', 'Teen', or 'Adult'.",
+  "code": "if age < 13:\n    print('Child')\nelif <blank>:\n    <blank>\nelse:\n    print('Adult')",
+  "options": [
+    "13 <= age < 18",
+    "print('Teen')",
+    "age > 18"
+  ]
+}

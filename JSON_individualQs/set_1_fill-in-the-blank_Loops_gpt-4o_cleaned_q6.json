@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The for-loop syntax 'for item in ______: ' is used to iterate over lists, tuples, or other iterable objects.",
+  "answer": "iterable"
+}

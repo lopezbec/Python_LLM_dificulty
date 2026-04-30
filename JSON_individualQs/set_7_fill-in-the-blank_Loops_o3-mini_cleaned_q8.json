@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "difficulty": 8,
+  "question": "Fill in the blank: To avoid a(n) ____ loop in Python, ensure that the loop's condition eventually evaluates to false.",
+  "answer": "infinite"
+}

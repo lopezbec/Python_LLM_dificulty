@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "In the expression 'if not x:', when will the if-statement execute the code block?",
+  "choices": [
+    "When x is any non-zero value",
+    "When x is zero",
+    "When x is True",
+    "When x is a positive number"
+  ],
+  "correct_answer": "When x is zero"
+}

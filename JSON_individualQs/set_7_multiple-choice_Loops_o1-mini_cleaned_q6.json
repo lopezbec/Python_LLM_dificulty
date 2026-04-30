@@ -1,0 +1,10 @@
+{
+  "question": "What will be the value of `result` after executing the following code?\n\n```python\nresult = 1\nfor i in range(1, 4):\n    result *= i\n```",
+  "options": {
+    "A": "6",
+    "B": "24",
+    "C": "4",
+    "D": "0"
+  },
+  "answer": "A"
+}

@@ -1,0 +1,6 @@
+{
+  "question_number": 8,
+  "difficulty": 8,
+  "question_text": "Complete the condition to print \"Primary color\" if the variable color is either 'red' or 'blue':\nif color == 'red' ______ color == 'blue':\n    print(\"Primary color\")",
+  "correct_answer": "or"
+}

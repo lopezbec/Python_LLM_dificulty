@@ -1,0 +1,11 @@
+{
+  "difficulty": 8,
+  "question": "In which scenario would you choose a 'while' loop over a 'for' loop?",
+  "options": {
+    "A": "When you know the number of iterations in advance",
+    "B": "When you want to iterate over a sequence",
+    "C": "When the number of iterations is dependent on a condition",
+    "D": "When looping over a dictionary"
+  },
+  "correct_answer": "C"
+}

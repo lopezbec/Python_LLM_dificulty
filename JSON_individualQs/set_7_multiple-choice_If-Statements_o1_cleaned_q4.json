@@ -1,0 +1,11 @@
+{
+  "question": "4) Consider the code:\n\nx = 10\nif x < 5:\n    print('Hi')\nelif x > 15:\n    print('Hello')\nelse:\n    print('Goodbye')\n\nWhat is the output?",
+  "difficulty": 4,
+  "options": {
+    "a": "Hi",
+    "b": "Hello",
+    "c": "Goodbye",
+    "d": "No output"
+  },
+  "correct_answer": "c"
+}

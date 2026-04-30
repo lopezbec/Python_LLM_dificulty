@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Which of the following statements accurately describes the behavior of 'while True:' when combined with a 'break' statement inside the loop?",
+  "options": [
+    "It will never terminate under any circumstances",
+    "It will terminate only if the break statement is executed, otherwise it loops infinitely",
+    "It automatically ends after one iteration",
+    "It requires an additional 'exit' statement to terminate"
+  ],
+  "correct_answer": "It will terminate only if the break statement is executed, otherwise it loops infinitely"
+}

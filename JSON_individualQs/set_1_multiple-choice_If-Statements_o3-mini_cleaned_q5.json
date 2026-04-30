@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Consider the following code snippet:\n\nx = 15\nif x < 10:\n    print('Less')\nelif 10 <= x <= 20:\n    print('Between')\nelse:\n    print('Greater')\n\nWhat will be printed?",
+  "options": [
+    "Less",
+    "Between",
+    "Greater",
+    "Nothing"
+  ],
+  "answer": "Between"
+}

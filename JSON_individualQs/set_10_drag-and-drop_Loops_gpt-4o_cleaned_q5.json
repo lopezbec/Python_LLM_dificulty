@@ -1,0 +1,11 @@
+{
+  "difficulty": 5,
+  "question": "Choose the correct blocks to iterate over a dictionary.\n\nd = {'a': 1, 'b': 2}\nfor key, value in d.___() :\n    print(key, value)",
+  "options": [
+    "items",
+    "keys",
+    "values",
+    "pairs"
+  ],
+  "answer": "items"
+}

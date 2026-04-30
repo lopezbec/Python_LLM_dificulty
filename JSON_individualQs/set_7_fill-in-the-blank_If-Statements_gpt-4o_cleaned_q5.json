@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "Fill in the blank to evaluate whether a variable 'z' is either negative or exactly zero:\n\n```python\nif z _____ 0:\n    print('z is non-positive')\n```",
+  "blank": "<="
+}

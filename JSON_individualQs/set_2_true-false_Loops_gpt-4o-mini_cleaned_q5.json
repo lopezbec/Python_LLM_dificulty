@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "A loop can iterate over strings in Python, treating each character as an individual element.",
+  "answer": true
+}

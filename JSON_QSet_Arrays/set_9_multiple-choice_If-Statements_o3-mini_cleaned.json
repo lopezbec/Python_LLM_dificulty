@@ -1,0 +1,112 @@
+[
+  {
+    "difficulty": 1,
+    "question": "Which of the following is the proper syntax for a basic if-statement in Python?",
+    "options": [
+      "if x > 0: print('Positive')",
+      "if (x > 0) then: print('Positive')",
+      "if x > 0 print('Positive')",
+      "if (x > 0) { print('Positive') }"
+    ],
+    "answer": "if x > 0: print('Positive')"
+  },
+  {
+    "difficulty": 2,
+    "question": "Which keyword is used to introduce an alternate block of code when the if-statement's condition is False?",
+    "options": [
+      "else",
+      "elif",
+      "otherwise",
+      "finally"
+    ],
+    "answer": "else"
+  },
+  {
+    "difficulty": 3,
+    "question": "Consider the code snippet: \n\nif x == 10:\n    print('Ten')\n\nWhat will be printed if x is set to 10?",
+    "options": [
+      "Ten",
+      "x is 10",
+      "Nothing",
+      "10"
+    ],
+    "answer": "Ten"
+  },
+  {
+    "difficulty": 4,
+    "question": "Which operator correctly tests equality in an if-statement in Python?",
+    "options": [
+      "==",
+      "=",
+      "<>",
+      "!="
+    ],
+    "answer": "=="
+  },
+  {
+    "difficulty": 5,
+    "question": "How does Python determine the block of code that belongs to an if-statement?",
+    "options": [
+      "Curly braces {}",
+      "Parentheses ()",
+      "Indentation",
+      "The 'end' keyword"
+    ],
+    "answer": "Indentation"
+  },
+  {
+    "difficulty": 6,
+    "question": "Given the code below:\n\nif x < 0:\n    print('Negative')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Positive')\n\nWhat will be printed when x is 0?",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Nothing"
+    ],
+    "answer": "Zero"
+  },
+  {
+    "difficulty": 7,
+    "question": "Which of the following if-statement formats would result in a SyntaxError?",
+    "options": [
+      "if x < 5 print(x)",
+      "if (x < 5): print(x)",
+      "if x < 5:\n    print(x)",
+      "if (x < 5):\n    print(x)"
+    ],
+    "answer": "if x < 5 print(x)"
+  },
+  {
+    "difficulty": 8,
+    "question": "In an if-statement, which logical operator correctly checks if both conditions A and B are True?",
+    "options": [
+      "and",
+      "or",
+      "not",
+      "if"
+    ],
+    "answer": "and"
+  },
+  {
+    "difficulty": 9,
+    "question": "Consider the following code:\n\nif x > 5 and x < 10:\n    print('x is between 6 and 9')\nelse:\n    print('x is out of range')\n\nWhat is the printed result when x equals 10?",
+    "options": [
+      "x is out of range",
+      "x is between 6 and 9",
+      "No output because of SyntaxError",
+      "10"
+    ],
+    "answer": "x is out of range"
+  },
+  {
+    "difficulty": 10,
+    "question": "Examine the code snippet below:\n\nvalue = 7\nif value % 2:\n    print('Odd')\nelse:\n    print('Even')\n\nWhich of the following best explains the output and behavior of this code?",
+    "options": [
+      "The code incorrectly checks for even numbers because value % 2 returns 1 for odd numbers, which is truthy, thus printing 'Odd'.",
+      "The code correctly prints 'Odd' because 7 is odd.",
+      "The code results in a SyntaxError due to improper if condition.",
+      "The code fails because the if-statement must compare value % 2 to 0 explicitly."
+    ],
+    "answer": "The code incorrectly checks for even numbers because value % 2 returns 1 for odd numbers, which is truthy, thus printing 'Odd'."
+  }
+]

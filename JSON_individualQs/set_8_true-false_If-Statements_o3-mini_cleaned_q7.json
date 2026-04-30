@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "difficulty": 7,
+  "question": "Using a single equal sign '=' in the condition of an if-statement in Python will result in an assignment rather than a comparison, leading to a syntax error.",
+  "correctAnswer": true
+}

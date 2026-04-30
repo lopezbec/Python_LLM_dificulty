@@ -1,0 +1,13 @@
+{
+    "HPC": [
+        "if condition1:",
+        "if condition2:",
+        "process_a()",
+        "else:",
+        "process_b()",
+        "'else' block",
+        "inner if-statement",
+        "outer if-statement",
+        "else"
+    ]
+}

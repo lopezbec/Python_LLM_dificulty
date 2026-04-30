@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "To compare two variables 'a' and 'b', and execute code if 'a' is greater than 'b', you can use the condition: if a __ b:",
+  "answer": ">"
+}

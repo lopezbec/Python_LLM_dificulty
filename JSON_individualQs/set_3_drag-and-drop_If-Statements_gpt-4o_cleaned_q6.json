@@ -1,0 +1,13 @@
+{
+  "difficulty": 6,
+  "question": "Correctly set the condition to check for both divisibility by 2 and 3.",
+  "code": "if x % 2 == 0 __logical_operator__ x % 3 == 0: \n    print(\"Divisible by both 2 and 3\")",
+  "options": [
+    "and",
+    "or",
+    "not"
+  ],
+  "answers": [
+    "and"
+  ]
+}

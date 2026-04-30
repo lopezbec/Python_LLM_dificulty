@@ -1,0 +1,5 @@
+{
+  "difficulty": 5,
+  "question": "An elif statement in Python can be used without a preceding if-statement.",
+  "answer": false
+}

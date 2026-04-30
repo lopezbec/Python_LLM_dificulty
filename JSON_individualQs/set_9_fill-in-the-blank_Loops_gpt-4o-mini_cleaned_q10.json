@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A nested loop is a loop that runs inside another loop, and it must be careful to avoid _____ conditions that lead to infinite execution.",
+  "answer": "endless"
+}

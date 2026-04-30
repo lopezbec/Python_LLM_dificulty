@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "topic": "Nested Loops",
+  "question": "Match each loop to its appropriate description in the context of nested loops.",
+  "drag_items": [
+    "Outer loop",
+    "Inner loop"
+  ],
+  "drop_targets": [
+    "The loop that starts first and controls the number of times the entire nested loops execute",
+    "The loop that runs completely within each iteration of the outer loop"
+  ],
+  "correct_matches": {
+    "Outer loop": "The loop that starts first and controls the number of times the entire nested loops execute",
+    "Inner loop": "The loop that runs completely within each iteration of the outer loop"
+  }
+}

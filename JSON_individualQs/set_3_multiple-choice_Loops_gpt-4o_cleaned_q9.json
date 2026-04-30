@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "When is it preferable to use a 'while' loop over a 'for' loop in Python?",
+  "options": [
+    "When the number of iterations is unknown.",
+    "When iterating over a list.",
+    "When the loop must run exactly 5 times.",
+    "When you want to iterate over a string."
+  ],
+  "correct_answer": "When the number of iterations is unknown."
+}

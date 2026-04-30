@@ -1,0 +1,201 @@
+[
+  {
+    "question_number": 1,
+    "difficulty": 1,
+    "instruction": "Drag and drop the correct keywords to make the if statement check if x is greater than 10.",
+    "code_with_blanks": "x = 15\n_____ x > 10 _____\n    print(\"x is greater than 10\")",
+    "drag_options": [
+      "if",
+      "for",
+      "while",
+      ":",
+      "="
+    ],
+    "correct_sequence": [
+      "if",
+      ":"
+    ],
+    "explanation": "Use 'if' to start the condition and ':' to begin the block."
+  },
+  {
+    "question_number": 2,
+    "difficulty": 2,
+    "instruction": "Complete the if-else block to check if x is non-negative or negative.",
+    "code_with_blanks": "x = -3\n_____ x >= 0 _____\n    print(\"x is non-negative\")\n_____ _____\n    print(\"x is negative\")",
+    "drag_options": [
+      "if",
+      "else",
+      ":",
+      "while"
+    ],
+    "correct_sequence": [
+      "if",
+      ":",
+      "else",
+      ":"
+    ],
+    "explanation": "Use 'if' for the first condition, ':' to denote the code block, then 'else' and another ':' for the alternative."
+  },
+  {
+    "question_number": 3,
+    "difficulty": 3,
+    "instruction": "Drag and drop the appropriate keywords to print \"Within range\" if x is between 10 and 25.",
+    "code_with_blanks": "x = 15\n_____ 10 <= x <= 25 _____\n    print(\"Within range\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "else",
+      ":",
+      "=="
+    ],
+    "correct_sequence": [
+      "if",
+      ":"
+    ],
+    "explanation": "Use 'if' to check the condition '10 <= x <= 25' and ':' to start the if block."
+  },
+  {
+    "question_number": 4,
+    "difficulty": 4,
+    "instruction": "Fill in the nested if statement to check if x is positive and less than 10.",
+    "code_with_blanks": "x = 5\nif x > 0:\n    _____ x < 10 _____\n        print(\"Positive and less than 10\")",
+    "drag_options": [
+      "elif",
+      "if",
+      "else",
+      ":",
+      "for",
+      "="
+    ],
+    "correct_sequence": [
+      "if",
+      ":"
+    ],
+    "explanation": "Inside the outer if block, we use another 'if' and ':' to nest the condition for x < 10."
+  },
+  {
+    "question_number": 5,
+    "difficulty": 5,
+    "instruction": "Drag and drop the correct keywords to check if x is not 5.",
+    "code_with_blanks": "x = 5\n_____ x != 5 _____\n    print(\"x is not 5\")\nelse:\n    print(\"x is 5\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "else",
+      ":",
+      "!=",
+      "not"
+    ],
+    "correct_sequence": [
+      "if",
+      ":"
+    ],
+    "explanation": "Use 'if' to evaluate 'x != 5' and ':' to begin the if block."
+  },
+  {
+    "question_number": 6,
+    "difficulty": 6,
+    "instruction": "Complete the if-elif structure to categorize x as less than 5, between 5 and 9, or 10 or more.",
+    "code_with_blanks": "x = 10\n_____ x < 5 _____\n    print(\"Less than 5\")\n_____ x < 10 _____\n    print(\"Between 5 and 9\")\nelse:\n    print(\"10 or more\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "else",
+      "for",
+      "and",
+      ":"
+    ],
+    "correct_sequence": [
+      "if",
+      ":",
+      "elif",
+      ":"
+    ],
+    "explanation": "Use 'if' and ':' for the first condition, then 'elif' and ':' for the second condition."
+  },
+  {
+    "question_number": 7,
+    "difficulty": 7,
+    "instruction": "Drag and drop the correct keywords to check if x is even or y is odd, otherwise print \"Neither\".",
+    "code_with_blanks": "x = 4\ny = 5\n_____ x % 2 == 0 _____\n    print(\"x is even\")\n_____ y % 2 != 0 _____\n    print(\"y is odd\")\n_____ _____\n    print(\"Neither\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "else",
+      "while",
+      ":",
+      "for"
+    ],
+    "correct_sequence": [
+      "if",
+      ":",
+      "elif",
+      ":",
+      "else",
+      ":"
+    ],
+    "explanation": "Use 'if' for the first check, 'elif' for the second check, and 'else' for the remaining case, each followed by a colon."
+  },
+  {
+    "question_number": 8,
+    "difficulty": 8,
+    "instruction": "Complete the nested if statements to check if x is positive, and if so, whether it's a multiple of 3.",
+    "code_with_blanks": "x = 9\n_____ x > 0 _____\n    print(\"x is positive\")\n    _____ x % 3 == 0 _____\n        print(\"x is also a multiple of 3\")\nelse:\n    print(\"x is not positive\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "else",
+      ":",
+      "for",
+      "and"
+    ],
+    "correct_sequence": [
+      "if",
+      ":",
+      "if",
+      ":"
+    ],
+    "explanation": "First 'if' checks if x is positive; inside that block, another 'if' checks for a multiple of 3, each with a colon."
+  },
+  {
+    "question_number": 9,
+    "difficulty": 9,
+    "instruction": "Fill in the code to check if x is between 0 and 10 or y is 50. Print \"Condition met\" if true, otherwise \"Condition not met\".",
+    "code_with_blanks": "x = 7\ny = 40\n_____ 0 <= x <= 10 _____ y == 50 _____\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")",
+    "drag_options": [
+      "if",
+      "elif",
+      "or",
+      "and",
+      ":",
+      "="
+    ],
+    "correct_sequence": [
+      "if",
+      "or",
+      ":"
+    ],
+    "explanation": "Use 'if' to start the condition, 'or' for the second part, and ':' to begin the block."
+  },
+  {
+    "question_number": 10,
+    "difficulty": 10,
+    "instruction": "Drag the correct keywords to check if x is a 'Special multiple' of 5 or 7, but not both.",
+    "code_with_blanks": "x = 35\n_____ (x % 5 == 0 or x % 7 == 0) _____ (x % 5 == 0 and x % 7 == 0) _____\n    print(\"Special multiple\")\nelse:\n    print(\"Regular number\")",
+    "drag_options": [
+      "if",
+      "and",
+      "not",
+      ":",
+      "or",
+      "elif"
+    ],
+    "correct_sequence": [
+      "if",
+      "and",
+      "not",
+      ":"
+    ],
+    "explanation": "Use 'if' to start the condition, 'and not' to exclude the case where x is a multiple of both 5 and 7, and ':' for the code block."
+  }
+]

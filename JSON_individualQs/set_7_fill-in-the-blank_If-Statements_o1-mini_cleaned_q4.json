@@ -1,0 +1,6 @@
+{
+  "difficulty": 4,
+  "topic": "If-Statements",
+  "question": "Fill in the blank to combine two conditions using logical AND:\n\nif x > 0 ___ y > 0:\n    print(\"Both positive\")",
+  "answer": "and"
+}

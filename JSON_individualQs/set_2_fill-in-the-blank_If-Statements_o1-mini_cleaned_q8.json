@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank: Complete the if statement below to check if a number is positive.\n\n```python\nnumber = 10\nif number > 0 ____\n    print(\"Positive number\")\n```",
+  "answer": ":",
+  "difficulty": 8
+}

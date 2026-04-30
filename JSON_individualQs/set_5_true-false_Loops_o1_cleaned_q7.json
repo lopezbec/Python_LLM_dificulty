@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "You can use a 'while' loop with a counter or index to iterate over the characters in a string.",
+  "correctAnswer": "True"
+}

@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "question": "In an if statement, using the '==' operator checks for equality, not identity.",
+  "answer": true
+}

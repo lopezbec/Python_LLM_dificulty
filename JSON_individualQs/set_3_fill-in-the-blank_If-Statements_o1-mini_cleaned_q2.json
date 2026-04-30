@@ -1,0 +1,5 @@
+{
+  "level": 2,
+  "question": "In Python, to check if variable x is equal to 10, fill in the blank:\n\nif x ____ 10:\n    print(\"x is 10\")",
+  "answer": "=="
+}

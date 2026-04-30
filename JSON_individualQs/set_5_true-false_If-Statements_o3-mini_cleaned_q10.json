@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "A chained if-elif-else block in Python evaluates conditions sequentially and stops after executing the block for the first true condition.",
+  "answer": true
+}

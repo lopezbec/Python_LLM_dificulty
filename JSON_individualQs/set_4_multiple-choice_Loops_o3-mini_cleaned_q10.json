@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "question": "Consider the following function:\n\ndef loop_example(n):\n    i = 0\n    while i < n:\n        try:\n            if i == 2:\n                raise ValueError\n            print(i)\n        except ValueError:\n            print('Error caught')\n        finally:\n            i += 1\n\nloop_example(4)\n\nWhat is the output of this function call?",
+  "options": [
+    "0, 1, 'Error caught', 3",
+    "0, 1, 2, 3",
+    "0, 1, 'Error caught', 'Error caught'",
+    "0, 'Error caught', 2, 3"
+  ],
+  "correct_answer": "0, 1, 'Error caught', 3"
+}

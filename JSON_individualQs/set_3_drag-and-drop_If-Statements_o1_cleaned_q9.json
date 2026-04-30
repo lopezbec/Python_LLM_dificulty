@@ -1,0 +1,19 @@
+{
+  "number": 9,
+  "type": "drag-and-drop",
+  "difficulty": 9,
+  "prompt": "Fill in the blanks to handle multiple conditions. If guest_count is 0, print 'No guests'. Otherwise, if it's less than 5, print 'Small gathering'; if it's 5 or more, print 'Big party!'.",
+  "code": "guest_count = 7\n________ guest_count == 0:\n    print(\"No guests\")\n________ guest_count < 5:\n    print(\"Small gathering\")\n________:\n    print(\"Big party!\")",
+  "choices": [
+    "if",
+    "elif",
+    "else",
+    "for",
+    "while"
+  ],
+  "correct_choice": [
+    "if",
+    "elif",
+    "else"
+  ]
+}

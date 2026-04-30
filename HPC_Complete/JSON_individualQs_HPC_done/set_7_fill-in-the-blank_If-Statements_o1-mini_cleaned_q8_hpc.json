@@ -1,0 +1,6 @@
+{
+    "HPC": [
+        "if temperature < 0 ___ temperature > 100:",
+        "temperature"
+    ]
+}

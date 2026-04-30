@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Fill in the blank: Python uses indentation to define code blocks. Complete the statement by inserting four spaces (each space counts as one) before the print statement:\nif temperature > 30:\n____print('It is hot')",
+  "answer": "    "
+}

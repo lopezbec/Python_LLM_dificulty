@@ -1,0 +1,15 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "if-statements",
+  "question": "Drag the appropriate logical operators to complete the if statement that checks multiple conditions:\n\nnum = 25\nif num > 20 ___ num < 30:\n    print(\"Number is between 21 and 29\")",
+  "options": [
+    "and",
+    "or",
+    "not"
+  ],
+  "correct_answers": [
+    "and"
+  ]
+}

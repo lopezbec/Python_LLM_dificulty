@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "type": "fill-in-the-blank",
+  "difficulty": 4,
+  "topic": "loops",
+  "question": "The ______ function is used to get both the index and the value when iterating over a list.",
+  "answer": "enumerate"
+}

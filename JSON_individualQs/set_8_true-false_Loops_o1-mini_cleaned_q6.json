@@ -1,0 +1,6 @@
+{
+  "question": "The 'else' clause in a loop is executed only if the loop was terminated by a 'break' statement.",
+  "answer": false,
+  "difficulty": 6,
+  "topic": "Loops"
+}

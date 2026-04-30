@@ -1,0 +1,5 @@
+{
+  "difficulty": 6,
+  "question": "The optional ______ clause in a loop executes only if the loop exits normally, without encountering a break statement.",
+  "correct_answer": "else"
+}

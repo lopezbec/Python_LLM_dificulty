@@ -1,0 +1,18 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "questionType": "drag-and-drop",
+  "prompt": "Arrange the code blocks to create nested for loops that print coordinate pairs (x, y) from 0 to 1.",
+  "codeSnippet": "???\n    ???\n        print(x, y)",
+  "draggableItems": [
+    "for x in range(2):",
+    "for y in range(2):",
+    "while x < 2:",
+    "while y < 2:"
+  ],
+  "correctAnswer": [
+    "for x in range(2):",
+    "for y in range(2):"
+  ],
+  "explanation": "Nested for loops 'for x in range(2):' and 'for y in range(2):' print pairs (0,0), (0,1), (1,0), and (1,1)."
+}

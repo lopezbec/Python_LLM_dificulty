@@ -1,0 +1,11 @@
+{
+    "HPC": [
+        "for i in range(n):",
+        "for j in range(n):",
+        "O(1)",
+        "O(n)",
+        "O(n^2)",
+        "O(n log n)",
+        "O(log n)"
+    ]
+}

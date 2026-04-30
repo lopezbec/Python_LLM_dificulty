@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to ensure the else block only runs if previous conditions fail:\n\n```python\nif a > b:\n    print(\"a is greater\")\nelif a == b:\n    print(\"a and b are equal\")\n____:\n    print(\"b is greater\")\n```",
+  "answer": "else",
+  "difficulty": 8
+}

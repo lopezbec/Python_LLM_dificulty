@@ -1,0 +1,5 @@
+{
+  "difficulty": 2,
+  "question": "Is it true that a 'while' loop in Python will not run even once if the condition is False at the beginning?",
+  "answer": "True"
+}

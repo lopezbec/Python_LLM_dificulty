@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Proper indentation is optional in Python if statements, as long as the logic is clear.",
+  "answer": "False"
+}

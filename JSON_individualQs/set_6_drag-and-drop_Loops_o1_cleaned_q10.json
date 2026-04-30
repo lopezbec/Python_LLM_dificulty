@@ -1,0 +1,20 @@
+{
+  "question_number": 10,
+  "difficulty": 10,
+  "question_text": "Use a while loop inside a for loop to print each value of [1, 2] twice. Fill in the placeholders correctly.",
+  "code_snippet": "numbers = [1, 2]\nfor val in numbers:\n    count = 0\n    while ____:\n        print(val)\n        ____",
+  "drag_items": [
+    "count < 2",
+    "count -= 2",
+    "count += 1",
+    "val < 2"
+  ],
+  "drop_zones": [
+    "Placeholder 1",
+    "Placeholder 2"
+  ],
+  "correct_answer": {
+    "Placeholder 1": "count < 2",
+    "Placeholder 2": "count += 1"
+  }
+}

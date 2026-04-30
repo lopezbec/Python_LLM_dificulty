@@ -1,0 +1,6 @@
+{
+  "question_number": 9,
+  "difficulty": 9,
+  "question": "When iterating over multiple iterables at once, we can use the ________ function in a single for loop to combine elements from each iterable.",
+  "correct_answer": "zip"
+}

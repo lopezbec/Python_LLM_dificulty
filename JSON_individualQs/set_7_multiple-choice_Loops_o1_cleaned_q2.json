@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which Python loop continues running as long as a given condition remains True?",
+  "options": [
+    "for loop",
+    "if statement",
+    "while loop",
+    "function"
+  ],
+  "correct_answer": "while loop"
+}

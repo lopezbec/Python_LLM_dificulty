@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "question": "What does the following code output? \nif 2 == 2: \n    print('Equal')\nelse: \n    print('Not Equal')",
+  "options": {
+    "A": "Equal",
+    "B": "Not Equal",
+    "C": "Error",
+    "D": "None of the above"
+  },
+  "correct_answer": "A"
+}

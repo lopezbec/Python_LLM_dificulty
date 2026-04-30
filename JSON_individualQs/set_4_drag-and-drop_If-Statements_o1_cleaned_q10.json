@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "difficulty": 10,
+  "questionType": "drag-and-drop",
+  "question": "Use 'if', 'elif', and 'else' to handle multiple conditions with short-circuit logic: greater than 40, exactly 40, or otherwise less than 40.",
+  "codeSnippet": "val = 40\n___ val > 40:\n    print('Above')\n___ val == 40:\n    print('Equal')\n___:\n    print('Below')",
+  "draggables": [
+    "if",
+    "elif",
+    "else",
+    "while",
+    "for"
+  ],
+  "correctDrops": [
+    "if",
+    "elif",
+    "else"
+  ],
+  "explanation": "First 'if' checks val > 40, then 'elif' verifies exactly 40, and 'else' covers anything less than 40 in a short-circuit manner."
+}

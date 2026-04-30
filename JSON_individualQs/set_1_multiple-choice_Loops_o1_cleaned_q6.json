@@ -1,0 +1,11 @@
+{
+  "difficulty": 6,
+  "question": "In which of the following scenarios would a while loop be more suitable than a for loop in Python?",
+  "options": {
+    "A": "When you need to iterate over the elements of a list",
+    "B": "When you have a known range of numbers to iterate through",
+    "C": "When you need to loop until a specific condition changes",
+    "D": "When you want to iterate using the range function"
+  },
+  "correctAnswer": "C"
+}

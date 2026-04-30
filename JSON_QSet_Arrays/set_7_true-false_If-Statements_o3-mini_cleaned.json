@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "In Python, an if statement begins with the keyword 'if', followed by a condition, and ends with a colon.",
+    "answer": true
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "The code 'x = 5\\nif x > 0:\\n    print(\"Positive\")' will print 'Positive' when executed.",
+    "answer": true
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "An if-statement's block in Python is executed even if the condition is False.",
+    "answer": false
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "An if statement in Python can be followed by an optional else clause that executes when the condition evaluates to False.",
+    "answer": true
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Nested if statements in Python require proper indentation for each level in order to define their respective code blocks.",
+    "answer": true
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Writing an if statement without indenting the subsequent block properly will result in an IndentationError in Python.",
+    "answer": true
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "In Python, the condition used in an if statement may be any expression that returns a Boolean value, including a function call that returns True or False.",
+    "answer": true
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Using 'elif' in Python is functionally equivalent to writing multiple separate if statements without using the 'elif' keyword.",
+    "answer": false
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "In an if statement, using the '==' operator checks for equality, not identity.",
+    "answer": true
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "The following code will raise a SyntaxError due to mixing tabs and spaces in the indentation: if True:\\n    print('Hello')\\n\\tprint('World')",
+    "answer": true
+  }
+]

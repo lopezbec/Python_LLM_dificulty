@@ -1,0 +1,7 @@
+{
+  "id": 9,
+  "type": "fill-in-the-blank",
+  "difficulty": 9,
+  "question": "In a list comprehension, the 'if' clause is placed ______ the for clause.",
+  "correct_answer": "after"
+}

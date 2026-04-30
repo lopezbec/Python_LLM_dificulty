@@ -1,0 +1,13 @@
+{
+  "question": "Complete the if-else statement using drag and drop: \n\nIf the variable `y` is equal to 10, print `Perfect ten`, otherwise print `Not quite`.",
+  "difficulty": 2,
+  "snippet": "if ___:\n    print('Perfect ten')\nelse:\n    print('Not quite')",
+  "options": [
+    "y == 10",
+    "y > 10",
+    "y < 10"
+  ],
+  "correctAnswer": [
+    "y == 10"
+  ]
+}

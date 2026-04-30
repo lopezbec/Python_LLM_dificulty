@@ -1,0 +1,12 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following demonstrates the correct basic syntax for an if statement checking if x is greater than 5 in Python?",
+  "options": [
+    "if x > 5:",
+    "if x > 5 then:",
+    "if x > 5 =>",
+    "if (x > 5) {}"
+  ],
+  "correctAnswer": "if x > 5:",
+  "explanation": "A colon (:) is required after the condition, and 'then' or braces {} are not used in Python statements."
+}

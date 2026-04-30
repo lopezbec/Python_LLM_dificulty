@@ -1,0 +1,52 @@
+[
+  {
+    "question": "To create a loop in Python that runs a specific number of times, you can use a ____ loop.",
+    "answer": "for",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank to iterate over a range of numbers from 0 to 4 using a for loop:\n\nfor i in range(___):\n    print(i)",
+    "answer": "5",
+    "difficulty": 2
+  },
+  {
+    "question": "To exit a loop prematurely, you can use the ____ statement.",
+    "answer": "break",
+    "difficulty": 3
+  },
+  {
+    "question": "Fill in the blank to skip the current iteration and continue with the next one in a loop:\n\nfor i in range(10):\n    if i % 2 == 0:\n        ____",
+    "answer": "continue",
+    "difficulty": 4
+  },
+  {
+    "question": "Complete the while loop condition to keep looping while the variable 'count' is less than 10:\n\nwhile ____:",
+    "answer": "count < 10",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blank to iterate over both the index and value of a list 'my_list' using enumerate:\n\nfor index, value in enumerate(___):",
+    "answer": "my_list",
+    "difficulty": 6
+  },
+  {
+    "question": "To create a nested loop, you place one loop inside another. Fill in the blank to set the range for the inner loop to run 2 times:\n\nfor i in range(3):\n    for j in range(___):\n        print(i, j)",
+    "answer": "2",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank to iterate over a dictionary 'my_dict' by its keys:\n\nfor key in ___.keys():",
+    "answer": "my_dict",
+    "difficulty": 8
+  },
+  {
+    "question": "Using a list comprehension with a for loop, fill in the blank to create a list of squares from 0 to 9:\n\nsquares = [x___2 for x in range(10)]",
+    "answer": "**",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank to implement a generator function that uses a for loop to yield items from a list 'data':\n\ndef generator():\n    for item in data:\n        ___ item",
+    "answer": "yield",
+    "difficulty": 10
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "question": "Fill in the missing pieces to create a nested if-statement: first check if 'score' is positive, then check if it's greater than 100.",
+  "difficulty": 6,
+  "type": "drag-and-drop",
+  "codeSnippet": "score = 120\nif {CONDITION1}:\n    if {CONDITION2}:\n        print(\"High score\")\n    else:\n        print(\"Score is not that high\")\nelse:\n    print(\"Invalid score\")",
+  "dragItems": [
+    "score > 0",
+    "score < 0",
+    "score > 100",
+    "score == 100"
+  ],
+  "correctAnswer": [
+    "score > 0",
+    "score > 100"
+  ]
+}

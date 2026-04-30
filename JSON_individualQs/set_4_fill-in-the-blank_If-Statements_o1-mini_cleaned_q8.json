@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to use the `not` operator in the if-statement that checks if `user` is not an admin:\n\n```python\nif ___ user.is_admin():\n    print(\"Access denied\")\n```",
+  "answer": "not",
+  "level": 8
+}

@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "num",
+        "if num _____ 5:",
+        "print('num is not 5')",
+        "!="
+    ]
+}

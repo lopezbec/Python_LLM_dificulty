@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "An if-statement can evaluate any expression that returns a Boolean value in Python.",
+  "answer": true
+}

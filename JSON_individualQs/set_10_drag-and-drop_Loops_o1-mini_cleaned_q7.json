@@ -1,0 +1,17 @@
+{
+  "id": 7,
+  "type": "drag-and-drop",
+  "difficulty": 7,
+  "topic": "loops",
+  "question": "Match the loop construct with its equivalent functionality.",
+  "pairs": {
+    "List Comprehension": "Creates a new list based on existing lists.",
+    "Nested Loop": "Loops within loops to handle multi-dimensional data."
+  },
+  "options": [
+    "List Comprehension",
+    "Nested Loop",
+    "Creates a new list based on existing lists.",
+    "Loops within loops to handle multi-dimensional data."
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "question": "A loop in Python that never updates its condition can become an infinite loop.",
+  "difficulty": 7,
+  "correct_answer": "True"
+}

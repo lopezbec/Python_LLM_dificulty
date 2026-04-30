@@ -1,0 +1,22 @@
+{
+  "questionNumber": 5,
+  "difficulty": 5,
+  "type": "drag-and-drop",
+  "question": "Rearrange the code lines to create a while loop that sums numbers from 1 to 5.",
+  "codeBlocks": [
+    "total = 0",
+    "while num <= 5:",
+    "num = 1",
+    "total += num",
+    "num < 5",
+    "num += 1"
+  ],
+  "correctOrder": [
+    "num = 1",
+    "total = 0",
+    "while num <= 5:",
+    "total += num",
+    "num += 1"
+  ],
+  "explanation": "Initialize num=1 and total=0, then loop while num <= 5, adding num to total and incrementing num each iteration."
+}

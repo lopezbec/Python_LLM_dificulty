@@ -1,0 +1,24 @@
+{
+  "difficulty": 9,
+  "question": "Drag-and-drop to complete the loop that counts down and prints until it's greater than zero.",
+  "code_snippet": "count = 5\nwhile count ____ 0:\n    print(count)\n    count -= 1",
+  "options": [
+    {
+      "id": 1,
+      "text": ">"
+    },
+    {
+      "id": 2,
+      "text": "<"
+    },
+    {
+      "id": 3,
+      "text": "=="
+    },
+    {
+      "id": 4,
+      "text": "<="
+    }
+  ],
+  "correct_option_id": 2
+}

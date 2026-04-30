@@ -1,0 +1,11 @@
+{
+  "difficulty": 2,
+  "question": "Which of the following is a correctly formatted simple if-statement?",
+  "choices": [
+    "if x > 5: print('x is greater than 5')",
+    "if (x > 5): print('x is greater than 5')",
+    "if x > 5; print('x is greater than 5')",
+    "if x > 5 print('x is greater than 5')"
+  ],
+  "correct_answer": "if x > 5: print('x is greater than 5')"
+}

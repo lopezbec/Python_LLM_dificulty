@@ -1,0 +1,112 @@
+[
+  {
+    "question": "1) Which keyword is used in Python to begin a simple conditional check?",
+    "difficulty": 1,
+    "options": {
+      "a": "for",
+      "b": "if",
+      "c": "while",
+      "d": "def"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "2) What is the output of the following code?\n\nx = 5\nif x > 2:\n    print('Greater than 2')\nelse:\n    print('Less than or equal to 2')",
+    "difficulty": 2,
+    "options": {
+      "a": "Greater than 2",
+      "b": "Less than or equal to 2",
+      "c": "No output",
+      "d": "Error"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "3) Which comparison operator checks if two values are not equal in an if-statement?",
+    "difficulty": 3,
+    "options": {
+      "a": "==",
+      "b": "!=",
+      "c": ">=",
+      "d": "not"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "4) Consider the code:\n\nx = 10\nif x < 5:\n    print('Hi')\nelif x > 15:\n    print('Hello')\nelse:\n    print('Goodbye')\n\nWhat is the output?",
+    "difficulty": 4,
+    "options": {
+      "a": "Hi",
+      "b": "Hello",
+      "c": "Goodbye",
+      "d": "No output"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "5) What does the following code print?\n\nmy_list = []\nif my_list:\n    print('List is not empty')\nelse:\n    print('List is empty')",
+    "difficulty": 5,
+    "options": {
+      "a": "List is not empty",
+      "b": "List is empty",
+      "c": "Error",
+      "d": "None"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "6) Which of the following is true about nested if statements in Python?",
+    "difficulty": 6,
+    "options": {
+      "a": "Python does not allow nested if statements.",
+      "b": "A 'then' keyword is required for nesting if statements.",
+      "c": "An if statement can be placed inside another if statement.",
+      "d": "Nested if statements cannot exceed two levels."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "7) What does this code snippet print?\n\nx = 3\ny = 4\nif x == 3 and y == 5 or y == 4:\n    print('Condition met')\nelse:\n    print('Condition not met')",
+    "difficulty": 7,
+    "options": {
+      "a": "Condition met",
+      "b": "Condition not met",
+      "c": "Error",
+      "d": "No output"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "8) Which of the following best describes why you might use 'elif' instead of multiple separate if statements?",
+    "difficulty": 8,
+    "options": {
+      "a": "'elif' is purely syntactic sugar and doesn't change logic.",
+      "b": "'elif' allows checking multiple conditions in one if-else chain, stopping after the first true condition.",
+      "c": "'elif' must always be used after an 'else'.",
+      "d": "'elif' will execute all conditions that evaluate to True."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "9) Given this code:\n\nx = 10\nif x % 2 == 0:\n    if x % 5 == 0:\n        print('Divisible by 2 and 5')\n    else:\n        print('Divisible by 2 but not by 5')\nelse:\n    print('Not divisible by 2')\n\nWhat will be printed when x = 10?",
+    "difficulty": 9,
+    "options": {
+      "a": "Not divisible by 2",
+      "b": "Divisible by 2 but not by 5",
+      "c": "Divisible by 2 and 5",
+      "d": "Error"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "10) Which of the following options shows the correct usage of Python's ternary conditional operator to set 'result' to 'Positive' if x > 0 or 'Non-positive' otherwise?",
+    "difficulty": 10,
+    "options": {
+      "a": "result = 'Positive' if x > 0 else 'Non-positive'",
+      "b": "result = if x > 0 then 'Positive' else 'Non-positive'",
+      "c": "if x > 0 ? 'Positive' : 'Non-positive'",
+      "d": "result = ('Positive', 'Non-positive')[x <= 0]"
+    },
+    "correct_answer": "a"
+  }
+]

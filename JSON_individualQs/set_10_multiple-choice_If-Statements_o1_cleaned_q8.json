@@ -1,0 +1,12 @@
+{
+  "difficulty": 8,
+  "question": "Which of the following Python values will be interpreted as falsy in an if condition?",
+  "choices": [
+    "A) 0",
+    "B) None",
+    "C) An empty string",
+    "D) All of the above"
+  ],
+  "correct_answer": "D",
+  "explanation": "In Python, 0, None, empty strings, empty containers, and False are examples of values that evaluate to False in a conditional statement."
+}

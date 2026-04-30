@@ -1,0 +1,11 @@
+{
+  "question": "In a Python if-statement, what will be the output if the condition is not met and there is no else block?",
+  "difficulty": 5,
+  "choices": {
+    "a": "Code will raise an error",
+    "b": "The program will terminate",
+    "c": "Nothing will be printed",
+    "d": "Default output is printed"
+  },
+  "correct_answer": "c"
+}

@@ -1,0 +1,18 @@
+{
+  "difficulty": 2,
+  "question": "Arrange the components of a while loop that prints numbers from 1 to 3.",
+  "options": [
+    "while",
+    "count < 4",
+    ":",
+    "print(count)",
+    "count += 1"
+  ],
+  "correctOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

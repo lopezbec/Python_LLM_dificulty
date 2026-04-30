@@ -1,0 +1,5 @@
+{
+  "question": "Fill in the blank to start an if-statement that checks if x is equal to 5:\n\n```python\nif x ____ 5:\n    print(\"x is five.\")\n```",
+  "answer": "==",
+  "difficulty": 1
+}

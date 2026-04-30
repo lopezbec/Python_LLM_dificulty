@@ -1,0 +1,5 @@
+{
+  "difficulty": 9,
+  "question": "List comprehensions do not use any kind of looping mechanism in Python.",
+  "correctAnswer": "False"
+}

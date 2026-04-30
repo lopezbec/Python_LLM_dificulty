@@ -1,0 +1,11 @@
+{
+  "difficulty": 7,
+  "question": "What is the output of the following code?\n\nn = 0\nwhile n < 3:\n    for i in range(n):\n        print(i, end='-')\n    n += 1",
+  "options": [
+    "0-1-",
+    "0-0-1-2-",
+    "0-",
+    "0-1-0-1-2-"
+  ],
+  "correct_answer": "0-1-0-1-2-"
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 3,
+  "question": "The ___ keyword can be used inside a loop to skip the current iteration and continue with the next one.",
+  "answer": "continue"
+}

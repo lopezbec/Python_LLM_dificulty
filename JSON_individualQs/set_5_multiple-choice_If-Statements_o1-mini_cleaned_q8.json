@@ -1,0 +1,12 @@
+{
+  "question": "Analyze the following code and determine its output:\n\n```python\nx = 15\nif x > 10:\n    if x > 20:\n        print('Greater than 20')\n    else:\n        print('Between 11 and 20')\nelse:\n    print('10 or less')\n```",
+  "options": [
+    "A) Greater than 20",
+    "B) Between 11 and 20",
+    "C) 10 or less",
+    "D) No output"
+  ],
+  "answer": "B",
+  "difficulty": 8,
+  "topic": "if statements"
+}

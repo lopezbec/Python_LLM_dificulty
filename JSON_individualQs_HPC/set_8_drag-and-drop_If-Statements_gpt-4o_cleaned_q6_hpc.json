@@ -1,0 +1,9 @@
+{
+    "HPC": [
+        "if ___:\n    if ___:\n        print('c is hello')",
+        "c",
+        "isinstance(c, str)",
+        "c == 'hello'",
+        "c != 'hello'"
+    ]
+}

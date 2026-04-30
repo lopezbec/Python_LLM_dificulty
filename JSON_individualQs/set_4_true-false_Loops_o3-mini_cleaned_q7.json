@@ -1,0 +1,6 @@
+{
+  "difficulty": 7,
+  "type": "true-false",
+  "question": "Using range(1, 10, 2) in a Python for loop generates the sequence of odd numbers from 1 to 9.",
+  "correctAnswer": "True"
+}

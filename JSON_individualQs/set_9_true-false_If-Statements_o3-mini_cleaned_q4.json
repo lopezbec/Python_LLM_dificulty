@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "In an if statement, the equality operator '==' can be replaced by '=' to check for equality.",
+  "answer": "False"
+}

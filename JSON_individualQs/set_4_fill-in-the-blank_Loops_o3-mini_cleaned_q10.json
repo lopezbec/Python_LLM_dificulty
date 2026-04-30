@@ -1,0 +1,5 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blank: Using the ______ function with start, stop, and step parameters, you can generate a sequence of even numbers. For example: list(range(2, 21, 2)) produces even numbers from 2 to 20.",
+  "answer": "range"
+}

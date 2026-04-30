@@ -1,0 +1,15 @@
+{
+    "HPC": [
+        "required_flags = [True, True]",
+        "[Zone1] required_flags[0] [Zone2] True [Zone3] required_flags[1] [Zone4] True [Zone5]",
+        "print(\"Access Granted\")",
+        "[Zone6]:",
+        "print(\"Access Denied\")",
+        "if",
+        "and",
+        "==",
+        "==",
+        ":",
+        "else:"
+    ]
+}

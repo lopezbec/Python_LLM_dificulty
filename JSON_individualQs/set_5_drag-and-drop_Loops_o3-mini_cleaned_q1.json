@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "difficulty": 1,
+  "question": "Arrange the components to form a valid basic for loop syntax in Python.",
+  "instructions": "Drag and drop the components into the correct order to form a basic for loop header in Python.",
+  "dragItems": [
+    "for",
+    "variable",
+    "in",
+    "iterable"
+  ],
+  "dropZones": [
+    "Position 1",
+    "Position 2",
+    "Position 3",
+    "Position 4"
+  ],
+  "correctOrder": [
+    "for",
+    "variable",
+    "in",
+    "iterable"
+  ]
+}

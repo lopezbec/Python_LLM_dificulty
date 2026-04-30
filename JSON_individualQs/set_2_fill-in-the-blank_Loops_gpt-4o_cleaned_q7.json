@@ -1,0 +1,5 @@
+{
+  "level": 7,
+  "question": "To loop over the keys and values of a dictionary at the same time, you can use the _____ method.",
+  "answer": "items"
+}

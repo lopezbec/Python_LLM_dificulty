@@ -1,0 +1,11 @@
+{
+  "question": "Complete the if-statement by dragging the correct code: \nif (x == 10) { ______ }",
+  "options": [
+    "print('x is 10')",
+    "x = 5",
+    "x + 1",
+    "if (x)"
+  ],
+  "correct_answer": "print('x is 10')",
+  "difficulty": 2
+}

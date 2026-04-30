@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "difficulty": 9,
+  "type": "drag-and-drop",
+  "topic": "Infinite Loops",
+  "question": "Identify the parts of the loop that cause it to become infinite.",
+  "loop_code": "while True:\n    print('This loop never ends')",
+  "drag_items": [
+    "Condition",
+    "Loop Body"
+  ],
+  "drop_targets": [
+    "\"True\" as the condition that never changes",
+    "The print statement that does not alter the loop condition"
+  ],
+  "correct_matches": {
+    "Condition": "\"True\" as the condition that never changes",
+    "Loop Body": "The print statement that does not alter the loop condition"
+  }
+}

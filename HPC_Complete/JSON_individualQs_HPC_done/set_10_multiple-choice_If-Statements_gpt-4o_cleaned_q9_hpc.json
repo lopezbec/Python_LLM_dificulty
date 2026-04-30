@@ -1,0 +1,8 @@
+{
+    "HPC": [
+        "if not (condition):",
+        "if == not condition:",
+        "if !! condition:",
+        "if condition not:"
+    ]
+}

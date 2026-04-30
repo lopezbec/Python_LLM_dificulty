@@ -1,0 +1,15 @@
+{
+  "difficulty": 2,
+  "question": "Drag and drop the correct operator into the blank to complete the while loop condition:\nwhile i __ 10:",
+  "dragItems": [
+    "<",
+    "==",
+    ">"
+  ],
+  "dropZones": [
+    "Blank"
+  ],
+  "correctMapping": {
+    "Blank": "<"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "difficulty": 4,
+  "question": "Executing an 'if' statement with a 'False' condition will result in the execution of the block inside the 'if'.",
+  "answer": false
+}

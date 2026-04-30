@@ -1,0 +1,5 @@
+{
+  "difficulty": 7,
+  "question": "When using nested if statements in Python, the inner if is executed only when its outer if condition is True.",
+  "answer": true
+}

@@ -1,0 +1,10 @@
+{
+  "question": "8. What will be the output of the following nested if-statement?\n\n```python\nx = 5\ny = 10\nz = 15\nif x < y:\n    if y < z:\n        if x + y > z:\n            print('Nested condition met')\n        else:\n            print('Inner condition not met')\n    else:\n        print('Middle condition not met')\nelse:\n    print('Outer condition not met')\n```\n",
+  "options": [
+    "A) Nested condition met",
+    "B) Inner condition not met",
+    "C) Middle condition not met",
+    "D) Outer condition not met"
+  ],
+  "answer": "B"
+}

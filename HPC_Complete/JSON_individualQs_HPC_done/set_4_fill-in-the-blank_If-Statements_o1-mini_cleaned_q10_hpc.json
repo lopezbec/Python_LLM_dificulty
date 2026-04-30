@@ -1,0 +1,7 @@
+{
+    "HPC": [
+        "temperature",
+        "if ___ <= temperature <= ___:",
+        "print(\"Temperature is comfortable\")"
+    ]
+}

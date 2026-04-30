@@ -1,0 +1,11 @@
+{
+  "difficulty": 10,
+  "question": "Fill in the blanks to use a list comprehension effectively: '[x for x in range(10) if ____]'.",
+  "options": [
+    "x % 2 == 0",
+    "x > 5",
+    "x is int",
+    "x < 10"
+  ],
+  "correct_answer": "x % 2 == 0"
+}
