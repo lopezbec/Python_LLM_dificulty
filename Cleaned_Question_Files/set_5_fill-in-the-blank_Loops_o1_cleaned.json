@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank: The ______ keyword is used to iterate over a sequence or other iterable objects in Python.",
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank: In Python, the ______ function can be used to generate a sequence of numbers for looping.",
+      "correct_answer": "range"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank: We use the ______ keyword to repeatedly execute a block of code as long as a condition remains True.",
+      "correct_answer": "while"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank: The ______ statement is used to exit a loop immediately from any point in the loop body.",
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank: The ______ statement can be used inside a loop to skip the current iteration and jump to the next iteration.",
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank: In a 'for' loop, we can add an optional ______ clause that executes only if the loop completes without a break.",
+      "correct_answer": "else"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank: The ______ statement is used as a placeholder in a loop or function body where no code is executed.",
+      "correct_answer": "pass"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank: When nesting loops, the ______ loop runs completely inside each iteration of the outer loop.",
+      "correct_answer": "inner"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank: The built-in function ______ returns both the index and the value of each element in an iterable during a for loop.",
+      "correct_answer": "enumerate"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank: A generator expression can be combined with a loop to handle items in a memory-efficient way, by producing them ______ rather than all at once.",
+      "correct_answer": "lazily"
+    }
+  ]
+}

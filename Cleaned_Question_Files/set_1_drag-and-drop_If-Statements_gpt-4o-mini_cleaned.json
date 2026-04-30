@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Drag the missing component to complete the if-statement: if ( ____ ) { print('Hello'); }",
+        "options": ["true", "false", "1 > 2"],
+        "answer": "true",
+        "difficulty": 1
+    },
+    {
+        "question": "Drag and drop the correct code to complete the if-else statement: if (x > 5) { ____ } else { print('x is not greater than 5'); }",
+        "options": ["print('x is greater than 5');", "print('x is less than or equal to 5');", "pass;"],
+        "answer": "print('x is greater than 5');",
+        "difficulty": 2
+    },
+    {
+        "question": "Fill in the correct expression to complete this if-statement: if ( ____ == 'Python') { print('Correct!'); }",
+        "options": ["language", "program", "script"],
+        "answer": "language",
+        "difficulty": 3
+    },
+    {
+        "question": "Choose the right condition to set the flag if x is equal to 10: if ( ____ ) { flag = True; }",
+        "options": ["x == 10", "x != 10", "x > 10"],
+        "answer": "x == 10",
+        "difficulty": 4
+    },
+    {
+        "question": "Complete the following code snippet: if (age < 18) { ____ } else { print('Adult'); }",
+        "options": ["print('Minor');", "pass;", "continue;"],
+        "answer": "print('Minor');",
+        "difficulty": 5
+    },
+    {
+        "question": "Fill in the correct code to handle multiple conditions: if (x < 10) { ____ } else if (x < 20) { print('Between 10 and 20'); }",
+        "options": ["print('Less than 10');", "print('Greater than 20');", "print('Equals 10');"],
+        "answer": "print('Less than 10');",
+        "difficulty": 6
+    },
+    {
+        "question": "Complete the complex if statement with logical operators: if (x > 5 && ____ ) { print('Valid'); }",
+        "options": ["y < 10", "y > 10", "y == 5"],
+        "answer": "y < 10",
+        "difficulty": 7
+    },
+    {
+        "question": "Fill in the correct logical expression to validate access: if (user.is_authenticated == True && ____ ) { print('Access granted'); }",
+        "options": ["user.is_active == True", "user.is_authenticated == False", "user.has_perm('view_data')"],
+        "answer": "user.is_active == True",
+        "difficulty": 8
+    },
+    {
+        "question": "Complete the multi-branch if statement: if (score >= 90) { ____ } else if (score >= 80) { print('B'); } else { print('C'); }",
+        "options": ["print('A');", "print('D');", "print('F');"],
+        "answer": "print('A');",
+        "difficulty": 9
+    },
+    {
+        "question": "Drag the correct code to handle all possible cases: if (state == 'on') { print('Light is on'); } else if (state == 'off') { ____ } else { print('Unknown state'); }",
+        "options": ["print('Light is off');", "raise Error;","print('State is not valid');"],
+        "answer": "print('Light is off');",
+        "difficulty": 10
+    }
+]

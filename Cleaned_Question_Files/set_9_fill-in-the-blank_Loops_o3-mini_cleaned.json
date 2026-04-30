@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank: The ______ loop is typically used when the number of iterations is known beforehand.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank: In Python, the ______ loop is best used when you want to repeat an action until a certain condition becomes false.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank: In loops, the ______ statement is used to skip the rest of the current iteration and continue with the next iteration.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank: When you want to exit a loop prematurely in Python, you use the ______ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank: To iterate over both the index and the value of a list, you can use the ______ function.",
+      "answer": "enumerate"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank: In a nested loop structure, the inner loop is executed for each iteration of the ______ loop.",
+      "answer": "outer"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank: A loop that has no terminating condition and continues indefinitely is often referred to as an ______ loop.",
+      "answer": "infinite"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank: To generate a sequence of numbers from 0 up to (but not including) 10, you can use the ______ function.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank: In Python, an else clause attached to a loop will execute only if the loop terminates without encountering a ______ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank: In a generator function used for loop-based iteration, the ______ keyword is used to yield one value at a time, allowing for efficient memory use.",
+      "answer": "yield"
+    }
+  ]
+}

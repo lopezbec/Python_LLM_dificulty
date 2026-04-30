@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "The 'for' loop in Python can iterate over a list of elements.",
+            "difficulty": 1,
+            "answer": true
+        },
+        {
+            "question": "A 'while' loop in Python will execute at least once, even if the condition is initially false.",
+            "difficulty": 2,
+            "answer": false
+        },
+        {
+            "question": "It is possible to use the 'else' block with a 'for' loop in Python to execute code when the loop completely iterates over a sequence without encountering a 'break' statement",
+            "difficulty": 3,
+            "answer": true
+        },
+        {
+            "question": "The 'break' statement immediately exits the current iteration of a loop and moves to the next iteration.",
+            "difficulty": 4,
+            "answer": false
+        },
+        {
+            "question": "In Python, the 'continue' statement terminates the loop entirely.",
+            "difficulty": 5,
+            "answer": false
+        },
+        {
+            "question": "Nested loops in Python execute the innermost loop completely every time an outer loop iterates only once.",
+            "difficulty": 6,
+            "answer": true
+        },
+        {
+            "question": "The 'for' loop in Python can only iterate through sequence types such as lists, tuples, and strings.",
+            "difficulty": 7,
+            "answer": false
+        },
+        {
+            "question": "The 'while' loop condition is evaluated after the loop's body has executed.",
+            "difficulty": 8,
+            "answer": false
+        },
+        {
+            "question": "In Python, if a loop's condition is initially false, the code inside the loop will never execute.",
+            "difficulty": 9,
+            "answer": true
+        },
+        {
+            "question": "In Python, using recursion provides the same performance benefits as using loops in terms of memory and speed.",
+            "difficulty": 10,
+            "answer": false
+        }
+    ]
+}

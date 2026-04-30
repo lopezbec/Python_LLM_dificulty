@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "1. What is the purpose of an if-statement in Python?",
+            "difficulty": 1,
+            "options": {
+                "a": "To create loops",
+                "b": "To make decisions based on conditions",
+                "c": "To define functions",
+                "d": "To print output to the console"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "2. Which of the following syntax is correct for a basic if-statement?",
+            "difficulty": 2,
+            "options": {
+                "a": "if x = 5:",
+                "b": "if (x == 5)",
+                "c": "if x == 5:",
+                "d": "if x === 5:"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "3. What will the following code print?\n\nx = 10\nif x > 5:\n    print('Greater')\nelse:\n    print('Smaller')",
+            "difficulty": 3,
+            "options": {
+                "a": "Greater",
+                "b": "Smaller",
+                "c": "Nothing",
+                "d": "Error"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "4. Which keyword is used to write an alternative block of code that executes when an if condition is false?",
+            "difficulty": 4,
+            "options": {
+                "a": "elseif",
+                "b": "alternate",
+                "c": "otherwise",
+                "d": "else"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "5. How can you check multiple conditions using if-statements?",
+            "difficulty": 5,
+            "options": {
+                "a": "Using elif for additional conditions",
+                "b": "Using endif to conclude conditions",
+                "c": "Using switch-case statements",
+                "d": "Using conditional loops"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "6. What will the following code output?\n\nx = 5\ny = 10\nif x > y:\n    print('X')\nelif y > x:\n    print('Y')\nelse:\n    print('Equal')",
+            "difficulty": 6,
+            "options": {
+                "a": "X",
+                "b": "Y",
+                "c": "Equal",
+                "d": "Error"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "7. Which of the following operators can be used with if-statements to test multiple conditions at once?",
+            "difficulty": 7,
+            "options": {
+                "a": "and, or, not",
+                "b": "with, else, elif",
+                "c": "add, subtract, multiply",
+                "d": "loop, break, continue"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "8. Which of the following is a nested if-statement executed when outer condition is true?\n\nx = 10\nif x > 5:\n    if x < 15:\n        print('Within range')",
+            "difficulty": 8,
+            "options": {
+                "a": "Never executes",
+                "b": "Always executes",
+                "c": "Executed when x > 5 and x < 15",
+                "d": "Executed when x > 15"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "9. What is the output of the following code?\n\nx = 10\ny = 5\nif x > y:\n    if y < 3:\n        print('Path A')\n    else:\n        print('Path B')\nelse:\n    print('Path C')",
+            "difficulty": 9,
+            "options": {
+                "a": "Path A",
+                "b": "Path B",
+                "c": "Path C",
+                "d": "No output"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "10. Which of the following statements about if-statements is TRUE?",
+            "difficulty": 10,
+            "options": {
+                "a": "If-statements can only evaluate a single condition at a time.",
+                "b": "If-statements cannot be nested within each other.",
+                "c": "If-statements are used to repeat code multiple times.",
+                "d": "If-statements can evaluate complex expressions involving logical operators.",
+            "correct_answer": "d"
+        }
+    }
+] 
+}

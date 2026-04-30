@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A while loop in Python continues as long as a given conditional expression evaluates to True.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "A for loop in Python can only iterate over a numeric range of values using the range() function.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 3,
+      "question": "Using a for loop, you can iterate over the characters in a string one by one.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 4,
+      "question": "The 'break' statement can be used to exit both 'for' and 'while' loops before they finish all iterations.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 5,
+      "question": "The 'continue' statement in a loop immediately terminates the entire loop.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 6,
+      "question": "A while loop is guaranteed to run at least once.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 7,
+      "question": "In nested loops, the 'break' statement will only break out of the innermost loop.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "A loop's 'else' clause executes only if no 'break' statement was encountered during the loop's execution.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python 3, the range() function returns a range object that can be iterated over without generating a list each time.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 10,
+      "question": "List comprehensions cannot be used as an alternative to loops for creating new lists based on an existing list.",
+      "correct_answer": "False"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "topic": "loops",
+    "question": "The keyword used to start a loop that iterates over a sequence in Python is _____.",
+    "answer": "for"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "topic": "loops",
+    "question": "To exit a loop prematurely in Python, you use the ____ statement.",
+    "answer": "break"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "topic": "loops",
+    "question": "The statement used to skip the current iteration and continue with the next one in Python is ____.",
+    "answer": "continue"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "topic": "loops",
+    "question": "In Python, a loop that does not have a terminating condition is called an ____ loop.",
+    "answer": "infinite"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "topic": "loops",
+    "question": "To iterate over a sequence with both index and value, you use the ____ function in Python.",
+    "answer": "enumerate"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "topic": "loops",
+    "question": "In the following loop, fill in the blank to print each item:\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor fruit in fruits:\n    print(____)\n```",
+    "answer": "fruit"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "topic": "loops",
+    "question": "In a list comprehension, the keyword used to filter items based on a condition is ____. For example: `[x for x in range(5) ____ x > 2]`.",
+    "answer": "if"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "topic": "loops",
+    "question": "Fill in the blank to create an infinite loop in Python:\n\n```python\nwhile ____:\n    pass\n```",
+    "answer": "True"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "topic": "loops",
+    "question": "In a generator function, which statement is used instead of 'return' to yield multiple values during iteration?",
+    "answer": "yield"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "topic": "loops",
+    "question": "Given the following code snippet, replace the blank to correctly implement a generator that yields squares of numbers from 0 to n-1:\n\n```python\ndef square_generator(n):\n    for i in range(n):\n        ____(i**2)\n```",
+    "answer": "yield"
+  }
+]

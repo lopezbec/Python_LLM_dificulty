@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank: In Python, the ____ loop is typically used to iterate over items in a sequence.",
+      "answer": "for"
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank: The ____ loop in Python repeats a block of code until its condition evaluates to false.",
+      "answer": "while"
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank: The keyword ____ is used to immediately exit a loop, regardless of its remaining iterations.",
+      "answer": "break"
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank: The ____ statement skips the rest of the current iteration and moves control to the next cycle of the loop.",
+      "answer": "continue"
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank: The built-in function ____ is commonly used in a for loop to generate a sequence of numbers.",
+      "answer": "range"
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank: In nested loops, the inner loop is contained completely within the ____ loop.",
+      "answer": "outer"
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank: The built-in function ____ is used to combine multiple iterables, allowing simultaneous iteration over them.",
+      "answer": "zip"
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Fill in the blank: To avoid a(n) ____ loop in Python, ensure that the loop's condition eventually evaluates to false.",
+      "answer": "infinite"
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank: The built-in function ____ returns both the index and the corresponding item when iterating over a sequence.",
+      "answer": "enumerate"
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank: Python's ____ comprehension provides a concise way to create new lists using a single line that combines iteration and optional conditions.",
+      "answer": "list comprehension"
+    }
+  ]
+}

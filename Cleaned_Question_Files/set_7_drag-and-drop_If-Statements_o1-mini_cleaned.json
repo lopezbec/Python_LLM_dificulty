@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Drag the correct keyword to complete the if-statement below:",
+      "codeSnippet": "if ___ (x > 10):\n    print(\"x is greater than 10\")",
+      "dragOptions": ["if", "elif", "else", "for"],
+      "dropZones": ["___"],
+      "correctAnswers": {
+        "___": "if"
+      }
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Arrange the lines to form a valid if-else statement that prints \"Yes\" if `a` is equal to 5, otherwise prints \"No\":",
+      "dragOptions": [
+        "print(\"Yes\")",
+        "if a == 5:",
+        "else:",
+        "print(\"No\")"
+      ],
+      "dropZones": ["Line 1", "Line 2", "Line 3", "Line 4"],
+      "correctAnswers": {
+        "Line 1": "if a == 5:",
+        "Line 2": "print(\"Yes\")",
+        "Line 3": "else:",
+        "Line 4": "print(\"No\")"
+      }
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Drag the correct indentation to complete the if-statement:",
+      "codeSnippet": "if temperature > 30:\n___ print(\"It's a hot day\")\nprint(\"Stay hydrated\")",
+      "dragOptions": ["    ", "        ", "No indentation", "Invalid indentation"],
+      "dropZones": ["___"],
+      "correctAnswers": {
+        "___": "    "
+      }
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Match each condition with the correct output:",
+      "codeSegments": [
+        "if score >= 90:",
+        "elif score >= 75:",
+        "else:"
+      ],
+      "outputOptions": [
+        "Grade A",
+        "Grade B",
+        "Grade C"
+      ],
+      "correctMatches": {
+        "if score >= 90:": "Grade A",
+        "elif score >= 75:": "Grade B",
+        "else:": "Grade C"
+      }
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Drag the logical operators to complete the if-statement that checks if `x` is between 10 and 20:",
+      "codeSnippet": "if x > 10 ___ x < 20:\n    print(\"x is between 10 and 20\")",
+      "dragOptions": ["and", "or", "not", "=="],
+      "dropZones": ["___"],
+      "correctAnswers": {
+        "___": "and"
+      }
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Rearrange the following parts to form a nested if-statement that checks if `num` is positive and even:",
+      "dragOptions": [
+        "if num > 0:",
+        "if num % 2 == 0:",
+        "print(\"Number is positive and even\")",
+        "else:",
+        "print(\"Number is positive but odd\")"
+      ],
+      "dropZones": ["Line 1", "Line 2", "Line 3", "Line 4", "Line 5"],
+      "correctAnswers": {
+        "Line 1": "if num > 0:",
+        "Line 2": "    if num % 2 == 0:",
+        "Line 3": "        print(\"Number is positive and even\")",
+        "Line 4": "    else:",
+        "Line 5": "        print(\"Number is positive but odd\")"
+      }
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Drag the appropriate keywords to handle multiple conditions using elif:",
+      "codeSnippet": "if score >= 90:\n    grade = \"A\"\n___ score >= 80:\n    grade = \"B\"\n___:\n    grade = \"C\"",
+      "dragOptions": ["elif", "else", "elif", "elif", "else"],
+      "dropZones": ["___", "___"],
+      "correctAnswers": {
+        "___": "elif",
+        "___": "else"
+      }
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Complete the if-statement with the correct comparison operators to validate user input:",
+      "codeSnippet": "if not (age ___ 0 ___ age ___ 120):\n    print(\"Invalid age\")\nelse:\n    print(\"Age is valid\")",
+      "dragOptions": ["<", ">", "and", "or", "<=", ">="],
+      "dropZones": ["___", "___", "___"],
+      "correctAnswers": {
+        "age ___ 0": ">=",
+        "___ age": "and",
+        "age ___ 120": "<="
+      }
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Drag the correct expressions to complete the chained if-elif-else statement for temperature warnings:",
+      "codeSnippet": "if temp >= 100:\n    warning = ___\nelif temp >= 90:\n    warning = ___\nelif temp >= 80:\n    warning = ___\nelse:\n    warning = ___",
+      "dragOptions": [
+        "\"Extreme heat warning!\"",
+        "\"High temperature warning!\"",
+        "\"Moderate temperature.\"",
+        "\"Temperature is normal.\""
+      ],
+      "dropZones": ["___", "___", "___", "___"],
+      "correctAnswers": {
+        "temp >= 100:": "\"Extreme heat warning!\"",
+        "elif temp >= 90:": "\"High temperature warning!\"",
+        "elif temp >= 80:": "\"Moderate temperature.\"",
+        "else:": "\"Temperature is normal.\""
+      }
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "topic": "If-Statements",
+      "type": "drag-and-drop",
+      "question": "Construct the following if-elif-else statement by dragging the correct code blocks into the appropriate positions:",
+      "description": "Create a function that categorizes a number as 'Negative', 'Zero', or 'Positive'. Use if-elif-else statements.",
+      "dragOptions": [
+        "def categorize_number(n):",
+        "    if n < 0:",
+        "        return \"Negative\"",
+        "    elif n == 0:",
+        "        return \"Zero\"",
+        "    else:",
+        "        return \"Positive\""
+      ],
+      "dropZones": ["Line 1", "Line 2", "Line 3", "Line 4", "Line 5", "Line 6", "Line 7"],
+      "correctAnswers": {
+        "Line 1": "def categorize_number(n):",
+        "Line 2": "    if n < 0:",
+        "Line 3": "        return \"Negative\"",
+        "Line 4": "    elif n == 0:",
+        "Line 5": "        return \"Zero\"",
+        "Line 6": "    else:",
+        "Line 7": "        return \"Positive\""
+      }
+    }
+  ]
+}

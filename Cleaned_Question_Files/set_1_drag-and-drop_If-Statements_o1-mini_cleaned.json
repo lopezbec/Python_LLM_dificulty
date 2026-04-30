@@ -1,0 +1,353 @@
+[
+  {
+    "question_number": 1,
+    "difficulty": 1,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Drag the correct keyword to complete the if statement.",
+    "drag_options": ["if", "else", "elif", "while"],
+    "drop_zones": [
+      {
+        "placeholder": "___ (x > 10):",
+        "identifier": "line_1"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if"
+    }
+  },
+  {
+    "question_number": 2,
+    "difficulty": 2,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Arrange the following lines to form a valid if-else statement.",
+    "drag_options": [
+      "else:",
+      "if x > 5:",
+      "    print('Greater than five')",
+      "    print('Less than or equal to five')"
+    ],
+    "drop_zones": [
+      {
+        "placeholder": "Line 1",
+        "identifier": "line_1"
+      },
+      {
+        "placeholder": "Line 2",
+        "identifier": "line_2"
+      },
+      {
+        "placeholder": "Line 3",
+        "identifier": "line_3"
+      },
+      {
+        "placeholder": "Line 4",
+        "identifier": "line_4"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if x > 5:",
+      "line_2": "    print('Greater than five')",
+      "line_3": "else:",
+      "line_4": "    print('Less than or equal to five')"
+    }
+  },
+  {
+    "question_number": 3,
+    "difficulty": 3,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Drag the appropriate comparison operator to complete the condition.",
+    "drag_options": [">", "<", "==", ">="],
+    "drop_zones": [
+      {
+        "placeholder": "if (age ___ 18):",
+        "identifier": "condition"
+      }
+    ],
+    "correct_answers": {
+      "condition": ">="
+    }
+  },
+  {
+    "question_number": 4,
+    "difficulty": 4,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Match each fruit to its corresponding color using drag and drop.",
+    "drag_options": ["Apple", "Banana", "Cherry"],
+    "drop_zones": ["Red", "Yellow", "Red"],
+    "correct_matches": {
+      "Apple": "Red",
+      "Banana": "Yellow",
+      "Cherry": "Red"
+    }
+  },
+  {
+    "question_number": 5,
+    "difficulty": 5,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Arrange the following code snippets to create a nested if statement that checks if a number is positive and even.",
+    "drag_options": [
+      "if number > 0:",
+      "    if number % 2 == 0:",
+      "        print('Positive and even')",
+      "    else:",
+      "        print('Positive but odd')",
+      "else:",
+      "    print('Non-positive number')"
+    ],
+    "drop_zones": [
+      {
+        "placeholder": "Line 1",
+        "identifier": "line_1"
+      },
+      {
+        "placeholder": "Line 2",
+        "identifier": "line_2"
+      },
+      {
+        "placeholder": "Line 3",
+        "identifier": "line_3"
+      },
+      {
+        "placeholder": "Line 4",
+        "identifier": "line_4"
+      },
+      {
+        "placeholder": "Line 5",
+        "identifier": "line_5"
+      },
+      {
+        "placeholder": "Line 6",
+        "identifier": "line_6"
+      },
+      {
+        "placeholder": "Line 7",
+        "identifier": "line_7"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if number > 0:",
+      "line_2": "    if number % 2 == 0:",
+      "line_3": "        print('Positive and even')",
+      "line_4": "    else:",
+      "line_5": "        print('Positive but odd')",
+      "line_6": "else:",
+      "line_7": "    print('Non-positive number')"
+    }
+  },
+  {
+    "question_number": 6,
+    "difficulty": 6,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Drag the appropriate logical operators to complete the if statement.",
+    "drag_options": ["and", "or", "not"],
+    "drop_zones": [
+      {
+        "placeholder": "if (x > 0 ___ y < 10):",
+        "identifier": "condition_1"
+      },
+      {
+        "placeholder": "if not (is_raining ___ is_windy):",
+        "identifier": "condition_2"
+      }
+    ],
+    "correct_answers": {
+      "condition_1": "and",
+      "condition_2": "or"
+    }
+  },
+  {
+    "question_number": 7,
+    "difficulty": 7,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Fill in the blanks to complete the elif ladder for grade evaluation.",
+    "drag_options": ["elif score >= 80:", "elif score >= 70:", "elif score >= 60:", "else:"],
+    "drop_zones": [
+      {
+        "placeholder": "Line 1: if score >= 90:",
+        "identifier": "line_1"
+      },
+      {
+        "placeholder": "Line 2: ___",
+        "identifier": "line_2"
+      },
+      {
+        "placeholder": "Line 3: ___",
+        "identifier": "line_3"
+      },
+      {
+        "placeholder": "Line 4: ___",
+        "identifier": "line_4"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if score >= 90:",
+      "line_2": "elif score >= 80:",
+      "line_3": "elif score >= 70:",
+      "line_4": "else:"
+    }
+  },
+  {
+    "question_number": 8,
+    "difficulty": 8,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Rearrange the following code blocks to fix the indentation error in the nested if statement.",
+    "drag_options": [
+      "if temperature > 30:",
+      "print('It is hot outside.')",
+      "    if humidity > 70:",
+      "        print('It is also humid.')",
+      "print('Check complete.')"
+    ],
+    "drop_zones": [
+      {
+        "placeholder": "Line 1",
+        "identifier": "line_1"
+      },
+      {
+        "placeholder": "Line 2",
+        "identifier": "line_2"
+      },
+      {
+        "placeholder": "Line 3",
+        "identifier": "line_3"
+      },
+      {
+        "placeholder": "Line 4",
+        "identifier": "line_4"
+      },
+      {
+        "placeholder": "Line 5",
+        "identifier": "line_5"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if temperature > 30:",
+      "line_2": "    print('It is hot outside.')",
+      "line_3": "    if humidity > 70:",
+      "line_4": "        print('It is also humid.')",
+      "line_5": "print('Check complete.')"
+    }
+  },
+  {
+    "question_number": 9,
+    "difficulty": 9,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Match the following if statement scenarios to their expected outputs.",
+    "drag_options": [
+      {
+        "scenario": "if x > 10 and y < 5:",
+        "output": "Scenario A"
+      },
+      {
+        "scenario": "if not (a == b):",
+        "output": "Scenario B"
+      },
+      {
+        "scenario": "if x > 0 or y > 0:",
+        "output": "Scenario C"
+      }
+    ],
+    "drop_zones": [
+      {
+        "placeholder": "Prints when either x is positive or y is positive.",
+        "identifier": "output_A"
+      },
+      {
+        "placeholder": "Prints only when x is greater than 10 and y is less than 5.",
+        "identifier": "output_B"
+      },
+      {
+        "placeholder": "Prints when a is not equal to b.",
+        "identifier": "output_C"
+      }
+    ],
+    "correct_matches": {
+      "if x > 10 and y < 5:": "Prints only when x is greater than 10 and y is less than 5.",
+      "if not (a == b):": "Prints when a is not equal to b.",
+      "if x > 0 or y > 0:": "Prints when either x is positive or y is positive."
+    }
+  },
+  {
+    "question_number": 10,
+    "difficulty": 10,
+    "topic": "if-statements",
+    "question_type": "drag-and-drop",
+    "question_text": "Reconstruct the following complex if-elif-else statement by dragging the code blocks into the correct order.",
+    "drag_options": [
+      "    elif score >= 50:",
+      "        print('Passed')",
+      "if score >= 90:",
+      "        print('Excellent')",
+      "    else:",
+      "    elif score >= 70:",
+      "        print('Good')",
+      "    elif score >= 80:",
+      "        print('Very Good')",
+      "else:",
+      "        print('Needs Improvement')"
+    ],
+    "drop_zones": [
+      {
+        "placeholder": "Line 1",
+        "identifier": "line_1"
+      },
+      {
+        "placeholder": "Line 2",
+        "identifier": "line_2"
+      },
+      {
+        "placeholder": "Line 3",
+        "identifier": "line_3"
+      },
+      {
+        "placeholder": "Line 4",
+        "identifier": "line_4"
+      },
+      {
+        "placeholder": "Line 5",
+        "identifier": "line_5"
+      },
+      {
+        "placeholder": "Line 6",
+        "identifier": "line_6"
+      },
+      {
+        "placeholder": "Line 7",
+        "identifier": "line_7"
+      },
+      {
+        "placeholder": "Line 8",
+        "identifier": "line_8"
+      },
+      {
+        "placeholder": "Line 9",
+        "identifier": "line_9"
+      },
+      {
+        "placeholder": "Line 10",
+        "identifier": "line_10"
+      }
+    ],
+    "correct_answers": {
+      "line_1": "if score >= 90:",
+      "line_2": "        print('Excellent')",
+      "line_3": "    elif score >= 80:",
+      "line_4": "        print('Very Good')",
+      "line_5": "    elif score >= 70:",
+      "line_6": "        print('Good')",
+      "line_7": "    elif score >= 50:",
+      "line_8": "        print('Passed')",
+      "line_9": "    else:",
+      "line_10": "        print('Needs Improvement')"
+    }
+  }
+]

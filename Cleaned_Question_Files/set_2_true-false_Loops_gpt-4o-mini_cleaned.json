@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A 'for' loop can be used to iterate through a list in Python.",
+      "answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "A 'while' loop will always execute at least once, regardless of the condition.",
+      "answer": false
+    },
+    {
+      "difficulty": 3,
+      "question": "The 'break' statement can be used to exit a loop prematurely in Python.",
+      "answer": true
+    },
+    {
+      "difficulty": 4,
+      "question": "Using 'continue' inside a loop will terminate the loop and continue with the next iteration.",
+      "answer": false
+    },
+    {
+      "difficulty": 5,
+      "question": "A loop can iterate over strings in Python, treating each character as an individual element.",
+      "answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "In Python, a 'for' loop can directly modify the list it is iterating over.",
+      "answer": false
+    },
+    {
+      "difficulty": 7,
+      "question": "You can use nested loops in Python, placing one loop inside another loop.",
+      "answer": true
+    },
+    {
+      "difficulty": 8,
+      "question": "All loops in Python are guaranteed to terminate after a fixed number of iterations.",
+      "answer": false
+    },
+    {
+      "difficulty": 9,
+      "question": "The 'range()' function can be used to generate a sequence of numbers for loop iteration.",
+      "answer": true
+    },
+    {
+      "difficulty": 10,
+      "question": "It is possible to create an infinite loop in Python if the condition of a 'while' loop is always true.",
+      "answer": true
+    }
+  ]
+}

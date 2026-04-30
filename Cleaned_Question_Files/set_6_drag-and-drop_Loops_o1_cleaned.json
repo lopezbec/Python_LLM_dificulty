@@ -1,0 +1,214 @@
+{
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": 1,
+          "question_text": "Drag and drop the correct items into the for loop in order to print numbers from 0 to 4.",
+          "code_snippet": "for ____ in ____:\n    print(____)",
+          "drag_items": [
+            "i",
+            "range(5)",
+            "j",
+            "len(my_list)"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2",
+            "Placeholder 3"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "i",
+            "Placeholder 2": "range(5)",
+            "Placeholder 3": "i"
+          }
+        },
+        {
+          "question_number": 2,
+          "difficulty": 2,
+          "question_text": "Complete this loop to print every fruit in the list fruits = ['apple', 'banana', 'cherry'].",
+          "code_snippet": "fruits = ['apple', 'banana', 'cherry']\n\nfor ____ in ____:\n    print(____)",
+          "drag_items": [
+            "fruit",
+            "fruits",
+            "i",
+            "3"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2",
+            "Placeholder 3"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "fruit",
+            "Placeholder 2": "fruits",
+            "Placeholder 3": "fruit"
+          }
+        },
+        {
+          "question_number": 3,
+          "difficulty": 3,
+          "question_text": "Drag and drop the correct items to create a while loop that prints the numbers 1 to 3.",
+          "code_snippet": "num = 1\n\nwhile ____:\n    print(num)\n    ____\n",
+          "drag_items": [
+            "num < 4",
+            "num += 1",
+            "range(4)",
+            "for num in range(1, 4)"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "num < 4",
+            "Placeholder 2": "num += 1"
+          }
+        },
+        {
+          "question_number": 4,
+          "difficulty": 4,
+          "question_text": "Complete the loop to print each character of the string 'Python'.",
+          "code_snippet": "text = 'Python'\n\nfor ____ in ____:\n    print(____)",
+          "drag_items": [
+            "char",
+            "text",
+            "i",
+            "len(text)"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2",
+            "Placeholder 3"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "char",
+            "Placeholder 2": "text",
+            "Placeholder 3": "char"
+          }
+        },
+        {
+          "question_number": 5,
+          "difficulty": 5,
+          "question_text": "Create a while loop that stops once x reaches 10. Print x in each iteration.",
+          "code_snippet": "x = 0\n\nwhile ____:\n    print(x)\n    ____\n",
+          "drag_items": [
+            "x < 10",
+            "x = 10",
+            "x += 1",
+            "for x in range(10)"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "x < 10",
+            "Placeholder 2": "x += 1"
+          }
+        },
+        {
+          "question_number": 6,
+          "difficulty": 6,
+          "question_text": "Complete this nested loop to print pairs (x,y) where x is from 1 to 2 and y is from 1 to 3.",
+          "code_snippet": "for ____ in ____:\n    for ____ in ____:\n        print((i, j))",
+          "drag_items": [
+            "i",
+            "j",
+            "range(1,3)",
+            "range(1,4)",
+            "range(1,2)",
+            "range(1,3+1)"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2",
+            "Placeholder 3",
+            "Placeholder 4"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "i",
+            "Placeholder 2": "range(1,3)",
+            "Placeholder 3": "j",
+            "Placeholder 4": "range(1,4)"
+          }
+        },
+        {
+          "question_number": 7,
+          "difficulty": 7,
+          "question_text": "Drag and drop the correct items to skip printing the number 3 in a for loop that iterates from 1 to 5.",
+          "code_snippet": "for i in range(1, 6):\n    if ____:\n        ____\n    print(i)",
+          "drag_items": [
+            "i == 3",
+            "continue",
+            "break",
+            "i != 3"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "i == 3",
+            "Placeholder 2": "continue"
+          }
+        },
+        {
+          "question_number": 8,
+          "difficulty": 8,
+          "question_text": "Complete the while loop so that it prints only odd numbers from 1 to 9.",
+          "code_snippet": "num = 1\nwhile num < 10:\n    if num % 2 == 1:\n        print(num)\n    ____",
+          "drag_items": [
+            "num += 1",
+            "num -= 1",
+            "continue",
+            "break"
+          ],
+          "drop_zones": [
+            "Placeholder 1"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "num += 1"
+          }
+        },
+        {
+          "question_number": 9,
+          "difficulty": 9,
+          "question_text": "Drag and drop the correct items into the nested loop that prints letters from A to C for each number 1 to 3. Use the break statement when i equals 2.",
+          "code_snippet": "for i in range(1, 4):\n    if ____:\n        ____\n    for letter in ['A', 'B', 'C']:\n        print(i, letter)",
+          "drag_items": [
+            "i == 2",
+            "break",
+            "i > 2",
+            "continue"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "i == 2",
+            "Placeholder 2": "break"
+          }
+        },
+        {
+          "question_number": 10,
+          "difficulty": 10,
+          "question_text": "Use a while loop inside a for loop to print each value of [1, 2] twice. Fill in the placeholders correctly.",
+          "code_snippet": "numbers = [1, 2]\nfor val in numbers:\n    count = 0\n    while ____:\n        print(val)\n        ____",
+          "drag_items": [
+            "count < 2",
+            "count -= 2",
+            "count += 1",
+            "val < 2"
+          ],
+          "drop_zones": [
+            "Placeholder 1",
+            "Placeholder 2"
+          ],
+          "correct_answer": {
+            "Placeholder 1": "count < 2",
+            "Placeholder 2": "count += 1"
+          }
+        }
+      ]
+    }

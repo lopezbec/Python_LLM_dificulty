@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "An if statement checks for a condition and executes its body if the condition is True.",
+      "correct_answer": "True",
+      "difficulty": 1
+    },
+    {
+      "question": "In Python, you must always enclose the if statement's condition in parentheses.",
+      "correct_answer": "False",
+      "difficulty": 2
+    },
+    {
+      "question": "Using the 'elif' keyword is optional even if you have multiple conditions to check.",
+      "correct_answer": "True",
+      "difficulty": 3
+    },
+    {
+      "question": "Indentation is optional in Python if statements for multi-line blocks.",
+      "correct_answer": "False",
+      "difficulty": 4
+    },
+    {
+      "question": "You can nest if statements inside other if statements in Python.",
+      "correct_answer": "True",
+      "difficulty": 5
+    },
+    {
+      "question": "The 'else' block is mandatory for every if statement in Python.",
+      "correct_answer": "False",
+      "difficulty": 6
+    },
+    {
+      "question": "In Python, logical operators such as 'and' and 'or' can be used within if statements to combine conditions.",
+      "correct_answer": "True",
+      "difficulty": 7
+    },
+    {
+      "question": "Equality comparisons in if statements are only possible with numeric data types in Python.",
+      "correct_answer": "False",
+      "difficulty": 8
+    },
+    {
+      "question": "Chained comparison operators (for example, 1 < x < 10) are valid in Python if statements.",
+      "correct_answer": "True",
+      "difficulty": 9
+    },
+    {
+      "question": "If statements can include multiple 'elif' branches, but only one 'else' branch.",
+      "correct_answer": "True",
+      "difficulty": 10
+    }
+  ]
+}

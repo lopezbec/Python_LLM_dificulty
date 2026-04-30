@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the following if-statement do?\n\nif x > 10:\n    print('x is greater than 10')",
+        "options": [
+            "a) Prints 'x is less than or equal to 10'",
+            "b) Prints 'x is greater than 10'",
+            "c) Raises an error",
+            "d) Does nothing"
+        ],
+        "correct_answer": "b",
+        "difficulty": 1
+    },
+    {
+        "question": "What will be the output of the following code if x = 5?\n\nif x < 10:\n    print('Small')\nelse:\n    print('Large')",
+        "options": [
+            "a) Small",
+            "b) Large",
+            "c) Small and Large",
+            "d) None of the above"
+        ],
+        "correct_answer": "a",
+        "difficulty": 2
+    },
+    {
+        "question": "Which of the following statements is true about the following code?\n\nif x == 0:\n    print('Zero')\nelif x > 0:\n    print('Positive')\nelse:\n    print('Negative')",
+        "options": [
+            "a) It only checks if x is zero",
+            "b) It can handle negative numbers",
+            "c) It does not print anything if x is positive",
+            "d) None of the above"
+        ],
+        "correct_answer": "b",
+        "difficulty": 3
+    },
+    {
+        "question": "What will be the output if x = -1 in the following code?\n\nif x >= 0:\n    print('Non-negative')\nelse:\n    print('Negative')",
+        "options": [
+            "a) Non-negative",
+            "b) Negative",
+            "c) None",
+            "d) Error"
+        ],
+        "correct_answer": "b",
+        "difficulty": 4
+    },
+    {
+        "question": "What will be the output of the following code block?\n\nx = 15\nif x < 10:\n    print('Small')\nelif x < 20:\n    print('Medium')\nelse:\n    print('Large')",
+        "options": [
+            "a) Small",
+            "b) Medium",
+            "c) Large",
+            "d) None of the above"
+        ],
+        "correct_answer": "b",
+        "difficulty": 5
+    },
+    {
+        "question": "Consider the following code:\n\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')\nWhat will be printed if x = 7?",
+        "options": [
+            "a) Even",
+            "b) Odd",
+            "c) Error",
+            "d) None of the above"
+        ],
+        "correct_answer": "b",
+        "difficulty": 6
+    },
+    {
+        "question": "What will happen if you run this code?\n\nif 'a' in 'apple':\n    print('Contains a')\nelse:\n    print('Does not contain a')",
+        "options": [
+            "a) Contains a",
+            "b) Does not contain a",
+            "c) Error",
+            "d) None of the above"
+        ],
+        "correct_answer": "a",
+        "difficulty": 7
+    },
+    {
+        "question": "What will this code output if x = 10 and y = 20?\n\nif x < y:\n    print('x is less than y')\nelse:\n    print('x is greater than or equal to y')",
+        "options": [
+            "a) x is less than y",
+            "b) x is greater than or equal to y",
+            "c) Error",
+            "d) None of the above"
+        ],
+        "correct_answer": "a",
+        "difficulty": 8
+    },
+    {
+        "question": "In the following code, what will be the output if x = 'hello'?\n\nif isinstance(x, str):\n    print('x is a string')\nelse:\n    print('x is not a string')",
+        "options": [
+            "a) x is a string",
+            "b) x is not a string",
+            "c) Error",
+            "d) None of the above"
+        ],
+        "correct_answer": "a",
+        "difficulty": 9
+    },
+    {
+        "question": "What will this code print if x = 2?\n\nif x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+        "options": [
+            "a) One",
+            "b) Two",
+            "c) Other",
+            "d) None of the above"
+        ],
+        "correct_answer": "b",
+        "difficulty": 10
+    }
+]

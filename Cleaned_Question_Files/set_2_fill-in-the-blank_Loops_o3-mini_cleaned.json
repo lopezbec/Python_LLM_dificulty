@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank: In Python, to start a loop that iterates over elements of a sequence, you use the ____ keyword.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank: To skip the rest of the current iteration in a loop and proceed to the next one, use the ____ keyword.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank: To exit a loop immediately before it naturally terminates, the ____ keyword is used.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank: The ____ function is commonly used with for loops to generate a sequence of numbers.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank: Complete the code to print all odd numbers from 1 to 9:\n\nfor num in range(1, 10, ____):\n    print(num)",
+      "answer": "2"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank: Given the following code snippet, complete the while loop condition so that the loop continues as long as x is greater than 0:\n\nx = 10\nwhile ____:\n    print(x)\n    x -= 1",
+      "answer": "x > 0"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank: In a nested loop structure, the inner loop variables operate within their own ____ relative to the outer loop.",
+      "answer": "scope"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank: In the nested loop code below, replace the blank to iterate 5 times in the inner loop:\n\nfor i in range(3):\n    for j in range(____):\n        print(i, j)",
+      "answer": "5"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank: Complete the countdown function by adding code to decrement n by 1:\n\ndef count_down(n):\n    while n > 0:\n        print(n)\n        ____",
+      "answer": "n -= 1"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank: Using list comprehension with a conditional filter, complete the code to include only elements from my_list that are greater than 10:\n\nresult = [x for x in my_list if ____]",
+      "answer": "x > 10"
+    }
+  ]
+}

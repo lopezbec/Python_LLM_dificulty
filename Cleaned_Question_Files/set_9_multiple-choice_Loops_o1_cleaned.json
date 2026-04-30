@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "question": "Which keyword is used to repeatedly execute a block of code a fixed number of times in Python?",
+      "options": [
+        "A) repeat",
+        "B) for",
+        "C) loop",
+        "D) iterate"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "question": "What is the correct syntax to loop through a list named fruits, printing each element in Python?",
+      "options": [
+        "A) for each fruit in fruits: print(fruit)",
+        "B) for fruit in fruits { print(fruit) }",
+        "C) for(item in fruits): print(item)",
+        "D) for fruit in fruits: print(fruit)"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "question": "Which of the following statements immediately ends the current loop iteration and moves on to the next iteration?",
+      "options": [
+        "A) break",
+        "B) pass",
+        "C) continue",
+        "D) skip"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "question": "How many times will the inner print statement execute in this code?\n\nfor i in range(2):\n    for j in range(3):\n        print(i, j)",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "question": "Which range function call will produce the sequence [5, 3, 1]?",
+      "options": [
+        "A) range(5, 0, -1)",
+        "B) range(5, 1, -1)",
+        "C) range(5, 0, -2)",
+        "D) range(5, 2, -2)"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "type": "multiple-choice",
+      "question": "In Python, what does the else clause in a for loop do when used?",
+      "options": [
+        "A) Executes only when the for loop encounters a break statement.",
+        "B) Executes only when the for loop completes normally without hitting a break.",
+        "C) Executes regardless of how the for loop terminates.",
+        "D) Executes alongside each iteration of the for loop."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "type": "multiple-choice",
+      "question": "Consider the following code:\n\nfor index, value in enumerate(['a', 'b', 'c']):\n    print(index, value)\n\nWhat will be printed on the first line of output?",
+      "options": [
+        "A) 1 a",
+        "B) 0 a",
+        "C) index = 0, value = a",
+        "D) 1 b"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "type": "multiple-choice",
+      "question": "What happens if you omit the break statement inside a while loop that has a condition guaranteed to be true (e.g., while True:)?",
+      "options": [
+        "A) The loop finishes automatically after one iteration.",
+        "B) Python raises a SyntaxError.",
+        "C) The loop will run indefinitely unless another way of exiting the loop is provided.",
+        "D) The loop body is skipped entirely."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "type": "multiple-choice",
+      "question": "Given a very large list of numbers, which approach is generally more efficient in terms of memory usage to process these elements in Python?",
+      "options": [
+        "A) Using a for loop with a list slicing in each iteration",
+        "B) Converting the entire list into a string before processing",
+        "C) Using a while loop that duplicates the list each time",
+        "D) Using a generator expression to handle the numbers on demand"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "type": "multiple-choice",
+      "question": "Which of the following best describes the purpose of a list comprehension in Python when combined with conditions and loops?",
+      "options": [
+        "A) It creates and modifies the original list in-place within a loop.",
+        "B) It generates a new list by filtering or transforming elements more succinctly.",
+        "C) It automatically parallelizes the list creation for performance gains.",
+        "D) It forces all elements in the list to be of the same data type."
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "What does an if-statement in Python do?",
+            "options": [
+                "It performs a computation.",
+                "It repeats code multiple times.",
+                "It executes code only if a certain condition is true.",
+                "It defines a new function."
+            ],
+            "correct_answer": "It executes code only if a certain condition is true."
+        },
+        {
+            "difficulty": 2,
+            "question": "Which of the following is the correct syntax for a basic if-statement in Python?",
+            "options": [
+                "if x > 10 then:",
+                "if x > 10:",
+                "if (x > 10)",
+                "if x > 10 {}"
+            ],
+            "correct_answer": "if x > 10:"
+        },
+        {
+            "difficulty": 3,
+            "question": "Consider the following code: \n\nx = 5\n\nif x > 3:\n    print('Hello')\n\nWhat will it output?",
+            "options": [
+                "Nothing will be printed.",
+                "An error will occur.",
+                "Hello",
+                "'Hello' will be printed twice."
+            ],
+            "correct_answer": "Hello"
+        },
+        {
+            "difficulty": 4,
+            "question": "What will be the result of this code snippet?\n\nx = 4\ny = 10\n\nif x > 5:\n    if y > 5:\n        print('A')\nelse:\n    print('B')",
+            "options": [
+                "An error will occur.",
+                "A",
+                "B",
+                "AB"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 5,
+            "question": "How do you check if a variable 'y' is either 10 or 20 in an if-statement?",
+            "options": [
+                "if y == 10 or 20:",
+                "if y == 10 and 20:",
+                "if y in (10, 20):",
+                "if y is 10 or 20:"
+            ],
+            "correct_answer": "if y in (10, 20):"
+        },
+        {
+            "difficulty": 6,
+            "question": "What will be the output of the following code?\n\nx = 3\n\nif x < 5:\n    print('Less than 5')\nif x < 10:\n    print('Less than 10')",
+            "options": [
+                "Less than 5",
+                "Less than 10",
+                "Less than 5\nLess than 10",
+                "An error will occur"
+            ],
+            "correct_answer": "Less than 5\nLess than 10"
+        },
+        {
+            "difficulty": 7,
+            "question": "Which statement would correctly handle multiple conditions with elif?",
+            "options": [
+                "if x == 1:\n    print('One')\notherwise:\n    print('Not One')",
+                "if x == 1:\n    print('One')\nelse if x == 2:\n    print('Two')",
+                "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+                "if x == 1:\n    print('One')\nelseif x == 2:\n    print('Two')"
+            ],
+            "correct_answer": "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')"
+        },
+        {
+            "difficulty": 8,
+            "question": "What will the following code print?\n\nx = 5\ny = 3\n\nif x < 10:\n    if y > 2:\n        print('A')\n    else:\n        print('B')\nprint('C')",
+            "options": [
+                "A\nC",
+                "B\nC",
+                "A\nB",
+                "C only"
+            ],
+            "correct_answer": "A\nC"
+        },
+        {
+            "difficulty": 9,
+            "question": "What does the following code do?\n\nx = 5\nif x < 10:\n    if x < 5:\n        print('A')\n    elif x == 5:\n        print('B')\n    else:\n        print('C')\nelse:\n    print('D')",
+            "options": [
+                "Prints 'A'",
+                "Prints 'B'",
+                "Prints 'C'",
+                "Prints 'D'"
+            ],
+            "correct_answer": "Prints 'B'"
+        },
+        {
+            "difficulty": 10,
+            "question": "Given the code snippet below, what will be the output?\n\nx = 'spam'\n\ny = 'eggs' if x == 'ham' else 'bacon'\n\nif (len(x) > 4) and (y == 'eggs'):\n    print('Good')\nelif (len(x) > 4) or (y == 'bacon'):\n    print('Better')\nelse:\n    print('Best')",
+            "options": [
+                "Good",
+                "Better",
+                "Best",
+                "An error will occur"
+            ],
+            "correct_answer": "Better"
+        }
+    ]
+}

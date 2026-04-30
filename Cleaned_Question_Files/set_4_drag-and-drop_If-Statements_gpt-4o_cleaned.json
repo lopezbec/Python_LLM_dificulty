@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "difficulty": 1,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Fill in the blanks to create a simple if statement that prints 'Hello World!' if the variable is equal to 10.",
+            "code": "if ___ == ___:\n    print('Hello World!')",
+            "options": ["x", "10", "20", "else"],
+            "correct": ["x", "10"],
+            "incorrect": ["20", "else"]
+        },
+        {
+            "id": 2,
+            "difficulty": 2,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the if-elif statement to print 'Greater', 'Equal', or 'Lesser' based on the value of num.",
+            "code": "if num > 5:\n    print('Greater')\nelif num == 5:\n    print('Equal')\n__:\n    print('Lesser')",
+            "options": ["else", "elif", "endif"],
+            "correct": ["else"],
+            "incorrect": ["elif", "endif"]
+        },
+        {
+            "id": 3,
+            "difficulty": 3,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the code to check if 'x' is not equal to 0.",
+            "code": "if x __ 0:\n    print('x is not zero')",
+            "options": ["!=", "==", ">"],
+            "correct": ["!="],
+            "incorrect": ["==", ">"]
+        },
+        {
+            "id": 4,
+            "difficulty": 4,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Drag the correct logical operator to check if both conditions are True.",
+            "code": "if age > 18 __ age < 65:\n    print('Working age')",
+            "options": ["and", "or", "not"],
+            "correct": ["and"],
+            "incorrect": ["or", "not"]
+        },
+        {
+            "id": 5,
+            "difficulty": 5,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the nested if-statement to print 'Teenager' only if 'person' is of the age between 13-19.",
+            "code": "if person:\n    if 13 <= person.age <= 19:\n        print('Teenager')",
+            "options": ["True", "pass", "continue", "break"],
+            "correct": ["True"],
+            "incorrect": ["pass", "continue", "break"]
+        },
+        {
+            "id": 6,
+            "difficulty": 6,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Correctly place the indentation to execute both print statements inside the if condition.",
+            "code": "if x == 1:\nprint('Condition Met')\n   print('Still inside')",
+            "options": ["Indent both print", "Indent second print"],
+            "correct": ["Indent both print"],
+            "incorrect": ["Indent second print"]
+        },
+        {
+            "id": 7,
+            "difficulty": 7,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Modify the placeholder to include the negation of 'is_active'.",
+            "code": "if ___ not is_active:\n    print('Inactive')",
+            "options": ["not", "!", "no"],
+            "correct": ["not"],
+            "incorrect": ["!", "no"]
+        },
+        {
+            "id": 8,
+            "difficulty": 8,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Determine the correct blocks to check for potential errors or truthiness of an object.",
+            "code": "if some_object:\n    print('Defined and true')\nelse:\n    print('Undefined or false')",
+            "options": ["try", "else", "if", "catch"],
+            "correct": ["if", "else"],
+            "incorrect": ["try", "catch"]
+        },
+        {
+            "id": 9,
+            "difficulty": 9,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Reorganize the keywords for a comprehensive check of variable 'a' to handle different comparison scenarios.",
+            "code": "if a > b:\n    print('a is greater')\nelif a == b:\n    print('They are equal')\nelse:\n    print('a is less')",
+            "options": ["elif", "else", "if", "end"],
+            "correct": ["if", "elif", "else"],
+            "incorrect": ["end"]
+        },
+        {
+            "id": 10,
+            "difficulty": 10,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Adjust this code to execute a function 'handle_error' if a KeyError might occur.",
+            "code": "try:\n    value = dict[key]\n__ KeyError:\n    handle_error()",
+            "options": ["except", "else", "finally"],
+            "correct": ["except"],
+            "incorrect": ["else", "finally"]
+        }
+    ]
+}

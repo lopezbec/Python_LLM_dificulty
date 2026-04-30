@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "if-statements",
+    "question": "Fill in the blank to create a basic if statement in Python:\n\n____ temperature > 30:\n    print(\"It's a hot day.\")",
+    "options": ["If", "Else", "Elif", "While"],
+    "correct_answers": ["If"]
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "if-statements",
+    "question": "Arrange the following lines to form a valid if-else statement:\n\n1. print(\"Good evening.\")\n2. if time < 18:\n3. print(\"Good day.\")\n4. else:",
+    "options": ["Line 2", "Line 3", "Line 4", "Line 1"],
+    "correct_order": ["Line 2", "Line 3", "Line 4", "Line 1"]
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "if-statements",
+    "question": "Drag the correct comparison operators to complete the if statement:\n\nage = 20\nif age ___ 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")",
+    "options": [">=", "==", "!=", "<"],
+    "correct_answers": [">="]
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "if-statements",
+    "question": "Fill in the blanks to complete the nested if statement:\n\nx = 15\nif x > 10:\n    ___ x < 20:\n        print(\"x is between 10 and 20\")\n    else:\n        print(\"x is 20 or more\")\nelse:\n    print(\"x is 10 or less\")",
+    "options": ["if", "elif", "else", "while"],
+    "correct_answers": ["if"]
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "if-statements",
+    "question": "Match the descriptions with the correct parts of an if-elif-else statement.",
+    "options": ["if", "elif", "else"],
+    "drops": {
+      "A": "Used for the initial condition check.",
+      "B": "Used for additional condition checks if previous conditions are False.",
+      "C": "Used as a fallback when all previous conditions are False."
+    },
+    "correct_matches": {
+      "A": "if",
+      "B": "elif",
+      "C": "else"
+    }
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "if-statements",
+    "question": "Rearrange the following lines to implement an if-elif-else structure that categorizes age groups:\n\n1. print(\"Senior\")\n2. elif age >= 65:\n3. if age < 18:\n4. print(\"Adult\")\n5. else:",
+    "options": ["Line 3", "Line 1", "Line 4", "Line 2", "Line 5"],
+    "correct_order": ["Line 3", "Line 1", "Line 4", "Line 2", "Line 5"]
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "if-statements",
+    "question": "Drag the appropriate logical operators to complete the if statement that checks multiple conditions:\n\nnum = 25\nif num > 20 ___ num < 30:\n    print(\"Number is between 21 and 29\")",
+    "options": ["and", "or", "not"],
+    "correct_answers": ["and"]
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "if-statements",
+    "question": "Fill in the blanks to create a compound conditional statement with nested ifs:\n\nscore = 85\nif score >= 70:\n    if score >= 90:\n        grade = 'A'\n    elif ___:\n        grade = 'B'\n    else:\n        grade = 'C'\nelse:\n    grade = 'F'",
+    "options": [ "score >= 80", "score >= 85", "score >= 75", "score >= 90"],
+    "correct_answers": ["score >= 80"]
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "if-statements",
+    "question": "Organize the following code blocks to implement a function that determines if a number is positive, negative, or zero:\n\n1. def check_number(num):\n2. if num > 0:\n3. print(\"Positive\")\n4. elif num < 0:\n5. print(\"Negative\")\n6. else:\n7. print(\"Zero\")",
+    "options": ["Line 1", "Line 2", "Line 3", "Line 4", "Line 5", "Line 6", "Line 7"],
+    "correct_order": ["Line 1", "Line 2", "Line 3", "Line 4", "Line 5", "Line 6", "Line 7"]
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "if-statements",
+    "question": "Complete the following Python function by dragging the correct statements to handle multiple conditions, including edge cases:\n\n```python\ndef categorize_temperature(temp):\n    if temp > 30:\n        category = \"Hot\"\n    ___ temp > 20:\n        category = \"Warm\"\n    elif temp > 10:\n        category = \"Cool\"\n    else:\n        category = \"Cold\"\n    return category\n```\nOptions:\n- elif\n- else\n- if",
+    "options": ["elif", "else", "if"],
+    "correct_answers": ["elif"]
+  }
+]

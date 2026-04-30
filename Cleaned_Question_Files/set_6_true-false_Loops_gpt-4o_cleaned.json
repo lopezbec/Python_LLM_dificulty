@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "A 'for' loop in Python is used to iterate over the elements of a sequence.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "A 'while' loop in Python terminates when the condition becomes true.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "The 'break' statement can immediately terminate a loop before it has iterated through all elements.",
+            "answer": true
+        },
+        {
+            "difficulty": 4,
+            "question": "The 'continue' statement in Python loops skips the current iteration and exits the loop entirely.",
+            "answer": false
+        },
+        {
+            "difficulty": 5,
+            "question": "Python's 'for' loop implicitly creates an iterator and iterates until it raises a StopIteration exception.",
+            "answer": true
+        },
+        {
+            "difficulty": 6,
+            "question": "A 'while' loop is more suited than a 'for' loop when the number of iterations is known beforehand.",
+            "answer": false
+        },
+        {
+            "difficulty": 7,
+            "question": "Nested loops in Python mean that there are loops within loops, and the inner loop terminates before the outer loop can proceed to the next iteration.",
+            "answer": true
+        },
+        {
+            "difficulty": 8,
+            "question": "The 'else' clause in a loop will execute if the loop completes normally without encountering a 'break' statement.",
+            "answer": true
+        },
+        {
+            "difficulty": 9,
+            "question": "In Python, list comprehensions can be used as an alternative to traditional for-loops for creating new lists based on existing lists.",
+            "answer": true
+        },
+        {
+            "difficulty": 10,
+            "question": "In a nested loop, the 'break' statement only exits the innermost loop where it is called.",
+            "answer": true
+        }
+    ]
+}

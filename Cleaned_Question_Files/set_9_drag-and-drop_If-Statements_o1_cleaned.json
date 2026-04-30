@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "type": "drag-and-drop",
+      "prompt": "Complete the if-statement to check if x is greater than 3 and print the message.",
+      "code_with_placeholders": [
+        "x = 5",
+        "if x [__op__] 3:",
+        "    print(\"x is greater than 3\")"
+      ],
+      "drag_items": [">", "<", "==", "!="],
+      "correct_answer": {
+        "__op__": ">"
+      }
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "type": "drag-and-drop",
+      "prompt": "Fill in the missing parts to check if x is even or print 'Odd number'.",
+      "code_with_placeholders": [
+        "x = 4",
+        "if x % 2 [__op__] 0:",
+        "    print(\"Even number\")",
+        "[__keyword__]:",
+        "    print(\"Odd number\")"
+      ],
+      "drag_items": ["==", "=", "<=", "else"],
+      "correct_answer": {
+        "__op__": "==",
+        "__keyword__": "else"
+      }
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "type": "drag-and-drop",
+      "prompt": "Add the missing keyword to check if 'age' is above 18 or at least 13, otherwise print 'Child'.",
+      "code_with_placeholders": [
+        "age = 17",
+        "if age > 18:",
+        "    print(\"Adult\")",
+        "[__keyword__] age >= 13:",
+        "    print(\"Teenager\")",
+        "else:",
+        "    print(\"Child\")"
+      ],
+      "drag_items": ["else if", "elif", "if", "while"],
+      "correct_answer": {
+        "__keyword__": "elif"
+      }
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "type": "drag-and-drop",
+      "prompt": "Use the correct logical operator to check if temperature is above 30 and humidity is above 50.",
+      "code_with_placeholders": [
+        "temp = 35",
+        "humidity = 60",
+        "if temp > 30 [__op__] humidity > 50:",
+        "    print(\"Hot day\")",
+        "else:",
+        "    print(\"Not a hot day\")"
+      ],
+      "drag_items": ["or", "and", "==", "not"],
+      "correct_answer": {
+        "__op__": "and"
+      }
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "type": "drag-and-drop",
+      "prompt": "Complete the code that checks if 'num' is positive, negative, or zero.",
+      "code_with_placeholders": [
+        "num = 0",
+        "if num > 0:",
+        "    print(\"Positive\")",
+        "[__keyword1__] num < 0:",
+        "    print(\"Negative\")",
+        "[__keyword2__]:",
+        "    print(\"Zero\")"
+      ],
+      "drag_items": ["if", "elif", "else if", "else"],
+      "correct_answer": {
+        "__keyword1__": "elif",
+        "__keyword2__": "else"
+      }
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "type": "drag-and-drop",
+      "prompt": "Use the correct keyword to check if x is not divisible by 3, otherwise print divisible message.",
+      "code_with_placeholders": [
+        "x = 6",
+        "[__keyword__] not (x % 3 == 0):",
+        "    print(\"x is not divisible by 3\")",
+        "else:",
+        "    print(\"x is divisible by 3\")"
+      ],
+      "drag_items": ["if", "elif", "while", "for"],
+      "correct_answer": {
+        "__keyword__": "if"
+      }
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "type": "drag-and-drop",
+      "prompt": "Complete the nested if-statement to determine whether x is a positive even number or a positive odd number.",
+      "code_with_placeholders": [
+        "x = 10",
+        "if x > 0:",
+        "    [__keyword__] x % 2 == 0:",
+        "        print(\"Positive even\")",
+        "    else:",
+        "        print(\"Positive odd\")",
+        "else:",
+        "    print(\"Non-positive number\")"
+      ],
+      "drag_items": ["if", "elif", "else", "while"],
+      "correct_answer": {
+        "__keyword__": "if"
+      }
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "type": "drag-and-drop",
+      "prompt": "Complete the range check to ensure 'grade' is between 90 and 100 inclusive.",
+      "code_with_placeholders": [
+        "grade = 95",
+        "if 90 [__op1__] grade [__op2__] 100:",
+        "    print(\"A grade\")",
+        "else:",
+        "    print(\"Not an A grade\")"
+      ],
+      "drag_items": ["<", "<=", ">", "=="],
+      "correct_answer": {
+        "__op1__": "<=",
+        "__op2__": "<="
+      }
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "type": "drag-and-drop",
+      "prompt": "Fill in the missing keywords to handle different membership statuses.",
+      "code_with_placeholders": [
+        "member_status = \"Gold\"",
+        "[__keyword1__] member_status == \"Gold\":",
+        "    print(\"Welcome, Gold member!\")",
+        "[__keyword2__] member_status == \"Silver\":",
+        "    print(\"Welcome, Silver member!\")",
+        "else:",
+        "    print(\"Welcome, Guest!\")"
+      ],
+      "drag_items": ["if", "elif", "while", "else if"],
+      "correct_answer": {
+        "__keyword1__": "if",
+        "__keyword2__": "elif"
+      }
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "type": "drag-and-drop",
+      "prompt": "Complete the nested if-statements to check if x is an even number greater than 100, otherwise print the appropriate message.",
+      "code_with_placeholders": [
+        "x = 120",
+        "if x % 2 == 0:",
+        "    [__keyword__] x > 100:",
+        "        print(\"x is an even number greater than 100\")",
+        "    else:",
+        "        print(\"x is an even number less or equal to 100\")",
+        "else:",
+        "    print(\"x is odd\")"
+      ],
+      "drag_items": ["if", "elif", "while", "else"],
+      "correct_answer": {
+        "__keyword__": "if"
+      }
+    }
+  ]
+}

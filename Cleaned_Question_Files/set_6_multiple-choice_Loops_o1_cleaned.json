@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which keyword is used to create a loop that iterates over a sequence in Python?",
+      "options": [
+        "for",
+        "loop",
+        "iterate",
+        "while"
+      ],
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "What does the following code print?\n\nnumbers = [1, 2, 3]\nfor num in numbers:\n    print(num)",
+      "options": [
+        "1, 2, 3 on separate lines",
+        "1, 2, 3 on the same line",
+        "It raises an error",
+        "Nothing"
+      ],
+      "correct_answer": "1, 2, 3 on separate lines"
+    },
+    {
+      "difficulty": 3,
+      "question": "Which type of loop continues to run until its condition is no longer true?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "Both for and while loops"
+      ],
+      "correct_answer": "while loop"
+    },
+    {
+      "difficulty": 4,
+      "question": "Which statement ends the current iteration of a loop and continues with the next iteration?",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "exit"
+      ],
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "What is the output of this code?\n\nitems = ['a', 'b', 'c']\nfor i in range(len(items)):\n    items[i] = items[i].upper()\n\nprint(items)",
+      "options": [
+        "['A', 'B', 'C']",
+        "['a', 'b', 'c']",
+        "['A', 'b', 'c']",
+        "['a', 'B', 'C']"
+      ],
+      "correct_answer": "['A', 'B', 'C']"
+    },
+    {
+      "difficulty": 6,
+      "question": "What does the following loop print?\n\nfor i in range(2, 6):\n    print(i)",
+      "options": [
+        "2, 3, 4, 5",
+        "2, 3, 4, 5, 6",
+        "0, 1, 2, 3",
+        "2, 3, 4"
+      ],
+      "correct_answer": "2, 3, 4, 5"
+    },
+    {
+      "difficulty": 7,
+      "question": "Which of the following correctly describes what the 'break' keyword achieves in Python loops?",
+      "options": [
+        "Skips the current iteration and continues with the next one",
+        "Does nothing and is used as a placeholder",
+        "Exits the current loop entirely",
+        "Restarts the loop from the beginning"
+      ],
+      "correct_answer": "Exits the current loop entirely"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which built-in function in Python allows you to loop through a list while also retrieving both index and value?",
+      "options": [
+        "map()",
+        "enumerate()",
+        "range()",
+        "zip()"
+      ],
+      "correct_answer": "enumerate()"
+    },
+    {
+      "difficulty": 9,
+      "question": "How many times does the inner loop run in total in the following code?\n\nfor i in range(3):\n    for j in range(4):\n        print(i, j)",
+      "options": [
+        "4",
+        "3",
+        "12",
+        "7"
+      ],
+      "correct_answer": "12"
+    },
+    {
+      "difficulty": 10,
+      "question": "Which of the following creates an intentional infinite loop using a while statement in Python?",
+      "options": [
+        "while True:",
+        "while 1 > 2:",
+        "while False:",
+        "while 1 < 2:"
+      ],
+      "correct_answer": "while True:"
+    }
+  ]
+}

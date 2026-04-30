@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "Drag the code snippet to display numbers 1 to 5 using a `for` loop.",
+            "choices": ["for i in range(1, 6):", "    print(i)", "print(1)", "print(5)"],
+            "answer": ["for i in range(1, 6):", "    print(i)"]
+        },
+        {
+            "difficulty": 2,
+            "question": "Order the parts of a `while` loop that will print numbers from 1 to 5.",
+            "choices": ["i = 1", "while i <= 5:", "i += 1", "    print(i)"],
+            "answer": ["i = 1", "while i <= 5:", "    print(i)", "i += 1"]
+        },
+        {
+            "difficulty": 3,
+            "question": "Arrange the code to calculate the factorial of a number `n` using a for loop.",
+            "choices": ["factorial = 1", "for i in range(1, n+1):", "    factorial *= i", "n = 5"],
+            "answer": ["n = 5", "factorial = 1", "for i in range(1, n+1):", "    factorial *= i"]
+        },
+        {
+            "difficulty": 4,
+            "question": "Reorder the code to find the sum of all even numbers from 1 to 10 using a for loop.",
+            "choices": ["total = 0", "for i in range(1, 11):", "    if i % 2 == 0:", "    total += i", "print(total)"],
+            "answer": ["total = 0", "for i in range(1, 11):", "    if i % 2 == 0:", "        total += i", "print(total)"]
+        },
+        {
+            "difficulty": 5,
+            "question": "Drag the correct lines to create a nested loop to display a 3x3 grid of asterisks.",
+            "choices": ["for i in range(3):", "    for j in range(3):", "print('*', end='')", "    print()"],
+            "answer": ["for i in range(3):", "    for j in range(3):", "        print('*', end='')", "    print()"]
+        },
+        {
+            "difficulty": 6,
+            "question": "Arrange the code to break a loop when the number 7 is found in a list.",
+            "choices": ["numbers = [1, 2, 7, 8, 10]", "for num in numbers:", "    if num == 7:", "    break", "    print('Found 7')"],
+            "answer": ["numbers = [1, 2, 7, 8, 10]", "for num in numbers:", "    if num == 7:", "        print('Found 7')", "        break"]
+        },
+        {
+            "difficulty": 7,
+            "question": "Sequence the lines to count numbers from a list easily divisible by 5 using a for loop.",
+            "choices": ["numbers = [10, 15, 22, 33, 50]", "count = 0", "for num in numbers:", "    if num % 5 == 0:", "        count += 1", "print(count)"],
+            "answer": ["numbers = [10, 15, 22, 33, 50]", "count = 0", "for num in numbers:", "    if num % 5 == 0:", "        count += 1", "print(count)"]
+        },
+        {
+            "difficulty": 8,
+            "question": "Reorder to create a while loop that repeats the Fibonacci sequence until a number exceeds 50.",
+            "choices": ["a, b, = 0, 1", "while a <= 50:", "    print(a)", "    a, b = b, a + b"],
+            "answer": ["a, b, = 0, 1", "while a <= 50:", "    print(a)", "    a, b = b, a + b"]
+        },
+        {
+            "difficulty": 9,
+            "question": "Arrange the following lines to create a loop that uses the `continue` statement to skip even numbers.",
+            "choices": ["for i in range(10):", "    if i % 2 == 0:", "    continue", "    print(i)"],
+            "answer": ["for i in range(10):", "    if i % 2 == 0:", "        continue", "    print(i)"]
+        },
+        {
+            "difficulty": 10,
+            "question": "Organize the code to search for a word in a nested list of strings using nested loops.",
+            "choices": ["strings = [['apple', 'banana'], ['cat', 'dog']]", "for sublist in strings:", "for word in sublist:", "if word == 'cat':", "print('Found cat')", "break"],
+            "answer": ["strings = [['apple', 'banana'], ['cat', 'dog']]", "for sublist in strings:", "    for word in sublist:", "        if word == 'cat':", "            print('Found cat')", "            break"]
+        }
+    ]
+}

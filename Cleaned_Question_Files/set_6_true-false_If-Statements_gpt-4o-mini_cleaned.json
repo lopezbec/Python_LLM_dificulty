@@ -1,0 +1,52 @@
+[
+    {
+        "question": "An if statement can only have a single condition to check.",
+        "answer": false,
+        "difficulty": 1
+    },
+    {
+        "question": "In Python, the code block inside an if statement must be indented.",
+        "answer": true,
+        "difficulty": 2
+    },
+    {
+        "question": "If the condition in an if statement evaluates to false, the code block will execute.",
+        "answer": false,
+        "difficulty": 3
+    },
+    {
+        "question": "An if statement can include an optional else clause that executes if the condition is false.",
+        "answer": true,
+        "difficulty": 4
+    },
+    {
+        "question": "Multiple if statements can be chained together using elif.",
+        "answer": true,
+        "difficulty": 5
+    },
+    {
+        "question": "The elif clause can only be used after an if statement and cannot be used independently.",
+        "answer": true,
+        "difficulty": 6
+    },
+    {
+        "question": "In Python, you can use logical operators like 'and' and 'or' to combine multiple conditions in an if statement.",
+        "answer": true,
+        "difficulty": 7
+    },
+    {
+        "question": "The condition inside an if statement must always be a Boolean expression (True or False).",
+        "answer": false,
+        "difficulty": 8
+    },
+    {
+        "question": "An if statement can be nested within another if statement, creating a complex branching structure.",
+        "answer": true,
+        "difficulty": 9
+    },
+    {
+        "question": "Using a statement like 'if x: print(x)' means the code will only execute if x is false.",
+        "answer": false,
+        "difficulty": 10
+    }
+]

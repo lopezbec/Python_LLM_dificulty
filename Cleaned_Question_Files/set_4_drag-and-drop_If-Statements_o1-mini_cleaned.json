@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "If-Statements",
+    "question": "Drag the correct keyword to complete the if statement.",
+    "code_snippet": "x = 10\n__keyword__ x > 5:\n    print(\"x is greater than 5\")",
+    "options": ["else", "if", "elif", "for"],
+    "answer": "if"
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "If-Statements",
+    "question": "Arrange the lines to form a valid if-else statement.",
+    "lines": [
+      "print(\"x is not greater than 5\")",
+      "else:",
+      "if x > 5:",
+      "x = 3"
+    ],
+    "answer_order": [
+      "if x > 5:",
+      "    print(\"x is greater than 5\")",
+      "else:",
+      "    print(\"x is not greater than 5\")"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "If-Statements",
+    "question": "Drag and drop the correct comparison operators to complete the conditions.",
+    "code_snippet": "if age __operator1__ 18:\n    print(\"Minor\")\nif score __operator2__ 90:\n    print(\"Excellent\")",
+    "options": ["<", ">", "==", "<="],
+    "answers": {
+      "operator1": ">= ",
+      "operator2": ">="
+    }
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "If-Statements",
+    "question": "Match the conditions to their corresponding outputs.",
+    "conditions": [
+      "if number % 2 == 0:",
+      "if number > 0:",
+      "if number == 0:"
+    ],
+    "outputs": [
+      "The number is positive.",
+      "The number is even.",
+      "The number is zero."
+    ],
+    "answer_mapping": {
+      "if number % 2 == 0:": "The number is even.",
+      "if number > 0:": "The number is positive.",
+      "if number == 0:": "The number is zero."
+    }
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to create a nested if statement.",
+    "code_snippet": "if weather == \"sunny\":\n    if temperature > 25:\n        print(\"Let's go to the beach!\")\n    __blank__:\n        print(\"Let's have a picnic.\")\nelse:\n    print(\"Stay indoors.\")",
+    "options": ["elif temperature > 15:", "else:", "elif temperature > 20:", "pass"],
+    "answer": "else:"
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "If-Statements",
+    "question": "Arrange the following code blocks to correctly implement multiple conditions using elif.",
+    "blocks": [
+      "print(\"Grade A\")",
+      "elif score >= 80:",
+      "if score >= 90:",
+      "print(\"Grade B\")",
+      "else:",
+      "print(\"Grade C\")"
+    ],
+    "answer_order": [
+      "if score >= 90:",
+      "    print(\"Grade A\")",
+      "elif score >= 80:",
+      "    print(\"Grade B\")",
+      "else:",
+      "    print(\"Grade C\")"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "If-Statements",
+    "question": "Drag the correct indentation to complete the nested if statement.",
+    "code_snippet": "if user.is_admin:\n__blank__ if user.has_access():\n        print(\"Access granted.\")\n    else:\n        print(\"Access denied.\")\nelse:\n    print(\"User is not an admin.\")",
+    "options": ["        ", "    ", "            ", "no indentation"],
+    "answer": "    "
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "If-Statements",
+    "question": "Match each if statement with its output based on the variable x.",
+    "if_statements": [
+      "if x > 10:",
+      "if x == 5:",
+      "if x < 0:"
+    ],
+    "outputs": [
+      "x is positive and less than or equal to 10.",
+      "x is exactly five.",
+      "x is negative."
+    ],
+    "x_values": [12, 5, -3],
+    "answer_mapping": {
+      "if x > 10:": "x is positive and less than or equal to 10.",
+      "if x == 5:": "x is exactly five.",
+      "if x < 0:": "x is negative."
+    }
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "If-Statements",
+    "question": "Fill in the blanks to complete the if-elif-else ladder for categorizing age.",
+    "code_snippet": "age = int(input(\"Enter your age: \"))\nif age < 13:\n    category = \"Child\"\nelif __blank__:\n    category = \"Teenager\"\nelif __blank__:\n    category = \"Adult\"\nelse:\n    category = \"Senior\"\nprint(category)",
+    "options": [
+      "13 <= age < 20",
+      "20 <= age < 65",
+      "age >= 65",
+      "age >= 20 and age < 65"
+    ],
+    "answers": {
+      "first_blank": "13 <= age < 20",
+      "second_blank": "20 <= age < 65"
+    }
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "If-Statements",
+    "question": "Rearrange the following code segments to implement a function that checks eligibility for a loan.",
+    "code_segments": [
+      "def check_eligibility(age, income, credit_score):",
+      "    if age >= 18:",
+      "        if income >= 50000:",
+      "            if credit_score >= 700:",
+      "                return \"Eligible\"",
+      "            else:",
+      "                return \"Ineligible due to credit score\"",
+      "        else:",
+      "            return \"Ineligible due to income\"",
+      "    else:",
+      "        return \"Ineligible due to age\""
+    ],
+    "answer_order": [
+      "def check_eligibility(age, income, credit_score):",
+      "    if age >= 18:",
+      "        if income >= 50000:",
+      "            if credit_score >= 700:",
+      "                return \"Eligible\"",
+      "            else:",
+      "                return \"Ineligible due to credit score\"",
+      "        else:",
+      "            return \"Ineligible due to income\"",
+      "    else:",
+      "        return \"Ineligible due to age\""
+    ]
+  }
+]

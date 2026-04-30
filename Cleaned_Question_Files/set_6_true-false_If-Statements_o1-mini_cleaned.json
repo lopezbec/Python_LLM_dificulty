@@ -1,0 +1,52 @@
+[
+    {
+        "question": "In Python, an if statement allows the program to execute a block of code only when a specific condition is met.",
+        "answer": true,
+        "difficulty": 1
+    },
+    {
+        "question": "The condition in a Python if statement must always evaluate to a boolean value (True or False).",
+        "answer": false,
+        "difficulty": 2
+    },
+    {
+        "question": "In Python, indentation is not required after an if statement.",
+        "answer": false,
+        "difficulty": 3
+    },
+    {
+        "question": "An if statement can exist without an else statement in Python.",
+        "answer": true,
+        "difficulty": 4
+    },
+    {
+        "question": "In Python, you can have multiple conditions combined with 'and' or 'or' within an if statement's condition.",
+        "answer": true,
+        "difficulty": 5
+    },
+    {
+        "question": "In Python, using a colon (:) after the if condition is optional.",
+        "answer": false,
+        "difficulty": 6
+    },
+    {
+        "question": "If the condition in an if statement is always False, the code block inside the if statement will never execute.",
+        "answer": true,
+        "difficulty": 7
+    },
+    {
+        "question": "In Python, the expression 'if x = 5:' is a valid if statement that checks if x equals 5.",
+        "answer": false,
+        "difficulty": 8
+    },
+    {
+        "question": "In Python, nested if statements can lead to increased code complexity and should always be avoided in favor of logical operators.",
+        "answer": false,
+        "difficulty": 9
+    },
+    {
+        "question": "In Python, the ternary conditional operator cannot be used within an if statement to execute code based on a condition.",
+        "answer": false,
+        "difficulty": 10
+    }
+]

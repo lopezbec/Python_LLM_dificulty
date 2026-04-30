@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Python, a while loop can execute zero or more times based on a condition.",
+    "answer": true,
+    "difficulty": 1
+  },
+  {
+    "question": "The for loop in Python can iterate over the elements of a list.",
+    "answer": true,
+    "difficulty": 2
+  },
+  {
+    "question": "A for loop in Python cannot be used to iterate over the characters in a string.",
+    "answer": false,
+    "difficulty": 3
+  },
+  {
+    "question": "The break statement can be used inside a loop to exit the loop prematurely.",
+    "answer": true,
+    "difficulty": 4
+  },
+  {
+    "question": "Using the continue statement in a loop will skip the current iteration and move to the next.",
+    "answer": true,
+    "difficulty": 5
+  },
+  {
+    "question": "Python supports do-while loops for executing code blocks at least once.",
+    "answer": false,
+    "difficulty": 6
+  },
+  {
+    "question": "Nested loops refer to having multiple loops inside one another, such as a for loop inside another for loop.",
+    "answer": true,
+    "difficulty": 7
+  },
+  {
+    "question": "The else clause in Python loops executes only if the loop was terminated by a break statement.",
+    "answer": false,
+    "difficulty": 8
+  },
+  {
+    "question": "In Python, list comprehensions are a way to implement loops for creating new lists.",
+    "answer": true,
+    "difficulty": 9
+  },
+  {
+    "question": "The time complexity of nested loops always results in quadratic time complexity regardless of the loop contents.",
+    "answer": false,
+    "difficulty": 10
+  }
+]

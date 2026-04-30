@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "Which loop is guaranteed to execute its block of code at least once?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do-while loop",
+      "if loop"
+    ],
+    "correct_answer": "do-while loop"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "What will be the output of the following code?\n\n```python\nfor i in range(3):\n    print(i)\n```",
+    "options": [
+      "0 1 2 3",
+      "1 2 3",
+      "0 1 2",
+      "1 2"
+    ],
+    "correct_answer": "0 1 2"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "How many times will the loop execute?\n\n```python\ncount = 0\nwhile count < 5:\n    print(count)\n    count += 1\n```",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "Infinite times"
+    ],
+    "correct_answer": "5"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "What is the output of the following code?\n\n```python\nfor i in range(2, 10, 3):\n    print(i, end=' ')",
+    "options": [
+      "2 5 8",
+      "2 3 4",
+      "2 5",
+      "2 6 9"
+    ],
+    "correct_answer": "2 5 8"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "Which statement is used to skip the current iteration and continue with the next one in a loop?",
+    "options": [
+      "break",
+      "pass",
+      "continue",
+      "exit"
+    ],
+    "correct_answer": "continue"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "What will be the output of the following nested loops?\n\n```python\nfor i in range(1, 3):\n    for j in range(1, 3):\n        print(i * j, end=' ')\n```",
+    "options": [
+      "1 2 2 3",
+      "1 2 1 2",
+      "1 2 2 4",
+      "1 4 2 4"
+    ],
+    "correct_answer": "1 2 2 4"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "What is the purpose of the `else` block in a `for` loop in Python?",
+    "options": [
+      "It executes only if the loop is terminated by a `break` statement.",
+      "It executes after the loop completes normally without encountering a `break`.",
+      "It acts as an alternative loop condition.",
+      "It handles exceptions raised within the loop."
+    ],
+    "correct_answer": "It executes after the loop completes normally without encountering a `break`."
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "How can you iterate over both the index and the value of a list in a `for` loop?",
+    "options": [
+      "for index in range(len(list)): value = list[index]",
+      "for value, index in list:",
+      "for index, value in enumerate(list):",
+      "for list[index], list[value] in list:"
+    ],
+    "correct_answer": "for index, value in enumerate(list):"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "What is the output of the following code?\n\n```python\nnumbers = [1, 2, 3, 4]\nresult = 0\nfor num in numbers:\n    if num % 2 == 0:\n        continue\n    result += num\nprint(result)\n```",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "2"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "type": "multiple-choice",
+    "topic": "loops",
+    "question": "Analyze the following code and determine its time complexity in terms of Big O notation:\n\n```python\ndef nested_loop(n):\n    count = 0\n    for i in range(n):\n        for j in range(i, n):\n            count += 1\n    return count\n```",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(2^n)"
+    ],
+    "correct_answer": "O(n²)"
+  }
+]

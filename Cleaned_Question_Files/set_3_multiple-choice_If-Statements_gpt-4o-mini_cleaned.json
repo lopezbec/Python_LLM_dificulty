@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What will the following code output?\n\nif True:\n    print('Hello')\nelse:\n    print('Goodbye')",
+        "options": ["Hello", "Goodbye", "None", "Error"],
+        "correct_answer": "Hello",
+        "difficulty": 1
+    },
+    {
+        "question": "What will the following code output?\n\nx = 5\nif x == 5:\n    print('Five')\nelse:\n    print('Not Five')",
+        "options": ["Five", "Not Five", "None", "Error"],
+        "correct_answer": "Five",
+        "difficulty": 2
+    },
+    {
+        "question": "What will the following code output?\n\nx = 10\nif x < 5:\n    print('Less than 5')\nelif x == 10:\n    print('Ten')\nelse:\n    print('More than 5')",
+        "options": ["Less than 5", "Ten", "More than 5", "None"],
+        "correct_answer": "Ten",
+        "difficulty": 3
+    },
+    {
+        "question": "What will the following code output when `x` is 3?\n\nx = 3\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+        "options": ["Positive", "Zero", "Negative", "None"],
+        "correct_answer": "Positive",
+        "difficulty": 4
+    },
+    {
+        "question": "Which condition will cause the following code to print 'Hello'?\n\nx = 8\nif x < 5:\n    print('Hello')\nelif x == 8:\n    print('World')\nelse:\n    print('Test')",
+        "options": ["x < 5", "x == 8", "x > 10", "x == 0"],
+        "correct_answer": "x == 8",
+        "difficulty": 5
+    },
+    {
+        "question": "What is the output of the following code if `x` is set to 20?\n\nx = 20\nif x <= 20:\n    print('Twenty or less')\nelse:\n    print('More than twenty')",
+        "options": ["Twenty or less", "More than twenty", "Error", "None"],
+        "correct_answer": "Twenty or less",
+        "difficulty": 6
+    },
+    {
+        "question": "What does the following code output when `day` is set to 'Saturday'?\n\nday = 'Saturday'\nif day == 'Monday':\n    print('Start of the week')\nelif day == 'Saturday':\n    print('Weekend')\nelse:\n    print('Midweek')",
+        "options": ["Start of the week", "Weekend", "Midweek", "Error"],
+        "correct_answer": "Weekend",
+        "difficulty": 7
+    },
+    {
+        "question": "What will be the output of the following code?\n\nscore = 85\nif score >= 90:\n    print('A')\nelif score >= 80:\n    print('B')\nelif score >= 70:\n    print('C')\nelse:\n    print('D')",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "B",
+        "difficulty": 8
+    },
+    {
+        "question": "What will the following code block output?\n\nnum = 7\nif num % 2 == 0:\n    print('Even')\nelif num % 3 == 0:\n    print('Divisible by 3')\nelse:\n    print('Odd')",
+        "options": ["Even", "Divisible by 3", "Odd", "None"],
+        "correct_answer": "Odd",
+        "difficulty": 9
+    },
+    {
+        "question": "What is the output of the following code snippet?\n\nage = 17\nif age < 18:\n    print('Minor')\nelif age < 65:\n    print('Adult')\nelse:\n    print('Senior')\nif age == 17:\n    print('Teenager')",
+        "options": ["Minor", "Adult", "Senior", "Teenager"],
+        "correct_answer": "Minor\nTeenager",
+        "difficulty": 10
+    }
+]

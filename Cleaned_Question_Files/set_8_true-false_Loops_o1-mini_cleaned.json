@@ -1,0 +1,62 @@
+[
+  {
+    "question": "A 'while' loop in Python continues to execute as long as the given condition is True.",
+    "answer": true,
+    "difficulty": 1,
+    "topic": "Loops"
+  },
+  {
+    "question": "In Python, 'for' loops can iterate over the characters in a string.",
+    "answer": true,
+    "difficulty": 2,
+    "topic": "Loops"
+  },
+  {
+    "question": "The 'break' statement can be used to exit a loop prematurely.",
+    "answer": true,
+    "difficulty": 3,
+    "topic": "Loops"
+  },
+  {
+    "question": "In Python, using 'continue' inside a loop will skip the rest of the code inside the loop for the current iteration and continue with the next iteration.",
+    "answer": true,
+    "difficulty": 4,
+    "topic": "Loops"
+  },
+  {
+    "question": "In Python, you cannot have an empty loop body.",
+    "answer": false,
+    "difficulty": 5,
+    "topic": "Loops"
+  },
+  {
+    "question": "The 'else' clause in a loop is executed only if the loop was terminated by a 'break' statement.",
+    "answer": false,
+    "difficulty": 6,
+    "topic": "Loops"
+  },
+  {
+    "question": "Nested loops in Python can only be used with 'for' loops nested within 'for' loops.",
+    "answer": false,
+    "difficulty": 7,
+    "topic": "Loops"
+  },
+  {
+    "question": "The following code will result in an infinite loop:\n\n```python\nwhile True:\n    pass\n```",
+    "answer": true,
+    "difficulty": 8,
+    "topic": "Loops"
+  },
+  {
+    "question": "In Python, the variable used in a 'for' loop is local to the loop and cannot be accessed outside of it.",
+    "answer": false,
+    "difficulty": 9,
+    "topic": "Loops"
+  },
+  {
+    "question": "Modifying the list you are iterating over in a 'for' loop can lead to unexpected behavior.",
+    "answer": true,
+    "difficulty": 10,
+    "topic": "Loops"
+  }
+]

@@ -1,0 +1,217 @@
+{
+  "questions": [
+    {
+      "question": "Drag and drop the code blocks to create a simple for loop that prints 'Hello' three times.",
+      "question_type": "drag-and-drop",
+      "difficulty": 1,
+      "instructions": "Arrange the blocks in the correct order to print 'Hello' exactly three times.",
+      "code_blocks": [
+        "print('Hello')",
+        "print('Hi')",
+        "for i in range(3):"
+      ],
+      "correct_order": [
+        "for i in range(3):",
+        "print('Hello')"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to form a while loop that prints numbers from 1 to 3.",
+      "question_type": "drag-and-drop",
+      "difficulty": 2,
+      "instructions": "Arrange the blocks so that the loop prints 1, 2, 3, then stops.",
+      "code_blocks": [
+        "count += 1",
+        "count = 1",
+        "while count <= 3:",
+        "print(count)",
+        "count = 10"
+      ],
+      "correct_order": [
+        "count = 1",
+        "while count <= 3:",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to print only even numbers from 0 to 10 using a for loop with a continue statement.",
+      "question_type": "drag-and-drop",
+      "difficulty": 3,
+      "instructions": "Arrange the blocks so only the even numbers (0, 2, 4, 6, 8, 10) are printed.",
+      "code_blocks": [
+        "if num < 10: break",
+        "if num % 2 != 0:",
+        "print(num)",
+        "for num in range(11):",
+        "continue"
+      ],
+      "correct_order": [
+        "for num in range(11):",
+        "if num % 2 != 0:",
+        "continue",
+        "print(num)"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to print the multiplication table from 1 to 3 in a nested loop.",
+      "question_type": "drag-and-drop",
+      "difficulty": 4,
+      "instructions": "Arrange the blocks so that all products of (1×1) through (3×3) are displayed, with a separator line after each inner loop iteration.",
+      "code_blocks": [
+        "print('Done')",
+        "for j in range(1, 4):",
+        "print(i, 'x', j, '=', i * j)",
+        "for i in range(1, 4):",
+        "print('-----')"
+      ],
+      "correct_order": [
+        "for i in range(1, 4):",
+        "for j in range(1, 4):",
+        "print(i, 'x', j, '=', i * j)",
+        "print('-----')"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to search for the number 7 in a list and break out of the loop when found.",
+      "question_type": "drag-and-drop",
+      "difficulty": 5,
+      "instructions": "Arrange the blocks so that 'Found 7' is printed once 7 is located, then exit the loop, and finally print 'End of loop'.",
+      "code_blocks": [
+        "print('End of loop')",
+        "if n < 7: continue",
+        "break",
+        "numbers = [3, 5, 7, 9]",
+        "if n == 7:",
+        "for n in numbers:",
+        "print('Found 7')"
+      ],
+      "correct_order": [
+        "numbers = [3, 5, 7, 9]",
+        "for n in numbers:",
+        "if n == 7:",
+        "print('Found 7')",
+        "break",
+        "print('End of loop')"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to keep asking for user input until 'exit' is typed.",
+      "question_type": "drag-and-drop",
+      "difficulty": 6,
+      "instructions": "Arrange the blocks so that the loop continuously requests input and stops when 'exit' is entered.",
+      "code_blocks": [
+        "if user_input == 'exit':",
+        "continue",
+        "while True:",
+        "print('You entered:', user_input)",
+        "user_input = input('Enter something: ')",
+        "break"
+      ],
+      "correct_order": [
+        "while True:",
+        "user_input = input('Enter something: ')",
+        "if user_input == 'exit':",
+        "break",
+        "print('You entered:', user_input)"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to sum only the even numbers from 1 to 5.",
+      "question_type": "drag-and-drop",
+      "difficulty": 7,
+      "instructions": "Arrange the blocks to skip odd numbers and sum the even ones, then display the total.",
+      "code_blocks": [
+        "continue",
+        "for i in range(1, 6):",
+        "if i % 2 != 0:",
+        "sum_even = 0",
+        "print('Sum of even numbers:', sum_even)",
+        "sum_even += i"
+      ],
+      "correct_order": [
+        "sum_even = 0",
+        "for i in range(1, 6):",
+        "if i % 2 != 0:",
+        "continue",
+        "sum_even += i",
+        "print('Sum of even numbers:', sum_even)"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to print the first 3 prime numbers using a while loop and a nested for loop.",
+      "question_type": "drag-and-drop",
+      "difficulty": 8,
+      "instructions": "Arrange the blocks so each prime is discovered by checking its divisors, then printed. Stop after finding 3 primes.",
+      "code_blocks": [
+        "count_prime = 0",
+        "num = 2",
+        "is_prime = True",
+        "for i in range(2, num):",
+        "while count_prime < 3:",
+        "if num % i == 0:",
+        "if is_prime:",
+        "print(num)",
+        "num += 1",
+        "is_prime = False",
+        "count_prime += 1",
+        "break"
+      ],
+      "correct_order": [
+        "count_prime = 0",
+        "num = 2",
+        "while count_prime < 3:",
+        "is_prime = True",
+        "for i in range(2, num):",
+        "if num % i == 0:",
+        "is_prime = False",
+        "break",
+        "if is_prime:",
+        "print(num)",
+        "count_prime += 1",
+        "num += 1"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to iterate over a dictionary's keys and values, printing them in a specific format.",
+      "question_type": "drag-and-drop",
+      "difficulty": 9,
+      "instructions": "Arrange the blocks to display each key-value pair in the format 'Key: x, Value: y'.",
+      "code_blocks": [
+        "for key, value in my_dict.items():",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "for value in my_dict:",
+        "print(f'Key: {key}, Value: {value}')"
+      ],
+      "correct_order": [
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "for key, value in my_dict.items():",
+        "print(f'Key: {key}, Value: {value}')"
+      ]
+    },
+    {
+      "question": "Drag and drop the code blocks to make a list of squares (except for 5), then print them in reverse order.",
+      "question_type": "drag-and-drop",
+      "difficulty": 10,
+      "instructions": "Arrange the blocks so that the code skips squaring the number 5, stores other squares, and prints them in reverse.",
+      "code_blocks": [
+        "if n == 5:",
+        "for val in reversed(squares):",
+        "squares = []",
+        "for n in range(10):",
+        "squares.append(n*n)",
+        "continue",
+        "print(val)"
+      ],
+      "correct_order": [
+        "squares = []",
+        "for n in range(10):",
+        "if n == 5:",
+        "continue",
+        "squares.append(n*n)",
+        "for val in reversed(squares):",
+        "print(val)"
+      ]
+    }
+  ]
+}

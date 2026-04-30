@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank with the correct operator to check if x is greater than 5: if x ___ 5: print(\"Greater than 5\").",
+      "answer": ">"
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank with the correct equality operator to check if x is exactly 10: if x ___ 10: print(\"x is 10\").",
+      "answer": "=="
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank to combine these conditions: if 5 < x ___ x < 10: print(\"x is between 5 and 10\").",
+      "answer": "and"
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank with the correct comparison for the variable 'status' to be 'complete': if status ___ 'complete': print(\"Done!\").",
+      "answer": "=="
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank with the appropriate keyword in this multiple-condition structure: if x < 0: print(\"Negative\") ___ x == 0: print(\"Zero\").",
+      "answer": "elif"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank with the correct logical operator to check if x is less than 2 or greater than 8: if x < 2 ___ x > 8: print(\"Out of range\").",
+      "answer": "or"
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank to check if 'name' is not 'Alice': if name ___ 'Alice': print(\"Different name\").",
+      "answer": "!="
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "Fill in the blank to ensure 'age' is less than or equal to 19: if age >= 13 and age ___ 19: print(\"Teenager!\").",
+      "answer": "<="
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank to check if 'number' is even: if (number % 2) ___ 0: print(\"Even\").",
+      "answer": "=="
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank to check if a dictionary key 'price' is in 'item' and greater than 100: if 'price' in item and item['price'] ___ 100: print(\"High price!\").",
+      "answer": ">"
+    }
+  ]
+}

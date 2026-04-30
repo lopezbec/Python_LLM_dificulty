@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "What keyword is used to start a conditional statement in Python?",
+      "options": {
+        "A": "for",
+        "B": "while",
+        "C": "if",
+        "D": "switch"
+      },
+      "answer": "C",
+      "difficulty": 1
+    },
+    {
+      "question": "What is the correct syntax for an if statement in Python?",
+      "options": {
+        "A": "if (x > 10) { }",
+        "B": "if x > 10:",
+        "C": "if x > 10 then",
+        "D": "if x > 10 do"
+      },
+      "answer": "B",
+      "difficulty": 2
+    },
+    {
+      "question": "What will be printed if x is 5?\n\nx = 5\nif x > 3:\n    print(\"Greater than 3\")",
+      "options": {
+        "A": "Nothing",
+        "B": "Greater than 3",
+        "C": "x is greater than 3",
+        "D": "Error"
+      },
+      "answer": "B",
+      "difficulty": 3
+    },
+    {
+      "question": "Which of the following is the correct way to add an else statement to an if statement?",
+      "options": {
+        "A": "if x > 0:\n    print(\"Positive\")\nelse:\n    print(\"Non-positive\")",
+        "B": "if x > 0:\n    print(\"Positive\")\notherwise:\n    print(\"Non-positive\")",
+        "C": "if x > 0:\n    print(\"Positive\")\nelse if:\n    print(\"Non-positive\")",
+        "D": "if x > 0:\n    print(\"Positive\")\nend"
+      },
+      "answer": "A",
+      "difficulty": 4
+    },
+    {
+      "question": "What will be the output of the following code?\n\nx = 10\ny = 20\nif x == y:\n    print(\"Equal\")\nelse:\n    print(\"Not Equal\")",
+      "options": {
+        "A": "Equal",
+        "B": "Not Equal",
+        "C": "10",
+        "D": "20"
+      },
+      "answer": "B",
+      "difficulty": 5
+    },
+    {
+      "question": "How can you check multiple conditions in an if statement using logical operators?",
+      "options": {
+        "A": "if x > 5 and y < 10:",
+        "B": "if x > 5 or y < 10:",
+        "C": "Both A and B",
+        "D": "Neither A nor B"
+      },
+      "answer": "C",
+      "difficulty": 6
+    },
+    {
+      "question": "What is the output of the following code?\n\nx = 15\nif x > 10:\n    if x > 20:\n        print(\"Greater than 20\")\n    else:\n        print(\"Between 11 and 20\")",
+      "options": {
+        "A": "Greater than 20",
+        "B": "Between 11 and 20",
+        "C": "Nothing",
+        "D": "Error"
+      },
+      "answer": "B",
+      "difficulty": 7
+    },
+    {
+      "question": "Which of the following elif statement correctly checks if x is equal to 0?",
+      "options": {
+        "A": "elif x = 0:",
+        "B": "elif x == 0:",
+        "C": "elif (x == 0)",
+        "D": "Both B and C"
+      },
+      "answer": "D",
+      "difficulty": 8
+    },
+    {
+      "question": "What will the following code output when x is 7?\n\nx = 7\nif x % 2 == 0:\n    print(\"Even\")\nelif x % 3 == 0:\n    print(\"Divisible by 3\")\nelse:\n    print(\"Odd\")",
+      "options": {
+        "A": "Even",
+        "B": "Divisible by 3",
+        "C": "Odd",
+        "D": "Error"
+      },
+      "answer": "C",
+      "difficulty": 9
+    },
+    {
+      "question": "Consider the following code snippet:\n\nx = 10\ny = 20\nz = 30\nif x < y and y < z:\n    if z > 25:\n        print(\"All conditions met\")\n    else:\n        print(\"Condition z failed\")\nelse:\n    print(\"Condition x or y failed\")\n\nWhat will be printed?",
+      "options": {
+        "A": "All conditions met",
+        "B": "Condition z failed",
+        "C": "Condition x or y failed",
+        "D": "Nothing"
+      },
+      "answer": "A",
+      "difficulty": 10
+    }
+  ]
+}

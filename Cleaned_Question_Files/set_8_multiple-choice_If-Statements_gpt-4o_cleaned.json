@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "What is the primary purpose of an if-statement in Python?",
+      "options": ["To repeat a block of code", "To perform an arithmetic operation", "To execute code based on a condition", "To define a function"],
+      "correct_answer": "To execute code based on a condition"
+    },
+    {
+      "difficulty": 2,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "Which of the following is the correct syntax for an if-statement in Python?",
+      "options": ["if (x == 10)", "if x == 10:", "if x = 10:", "if x 10 then:"],
+      "correct_answer": "if x == 10:"
+    },
+    {
+      "difficulty": 3,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "What will be the output of the following code?\n\n```\nif True:\n    print('Hello')\n```\n",
+      "options": ["Error", "No output", "True", "Hello"],
+      "correct_answer": "Hello"
+    },
+    {
+      "difficulty": 4,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "Which of the following keywords can be used to execute a block of code when an if-statement condition is false?",
+      "options": ["else", "elif", "endif", "none of the above"],
+      "correct_answer": "else"
+    },
+    {
+      "difficulty": 5,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "Given the code below, what will be the value of y after execution?\n\n```\nx = 5\nif x < 10:\n    y = 20\nelse:\n    y = 30\n```\n",
+      "options": ["5", "20", "10", "30"],
+      "correct_answer": "20"
+    },
+    {
+      "difficulty": 6,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "What will be printed by the code below?\n\n```\nval = 10\nif val > 5:\n    print('A')\n    if val < 15:\n        print('B')\nelse:\n    print('C')\n```\n",
+      "options": ["A", "B", "A B", "C"],
+      "correct_answer": "A B"
+    },
+    {
+      "difficulty": 7,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "What is the output of the following code snippet?\n\n```\nnumber = 10\nif number > 5:\n    if number < 20:\n        print('Yes')\n    else:\n        print('Maybe')\nelse:\n    print('No')\n```\n",
+      "options": ["Yes", "No", "Maybe", "Error"],
+      "correct_answer": "Yes"
+    },
+    {
+      "difficulty": 8,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "How many times will the word 'Python' be printed in the following code?\n\n```\nfor char in 'Programming':\n    if char in 'Python':\n        print('Python')\n```\n",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": "3"
+    },
+    {
+      "difficulty": 9,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "Identify the issue in the following code:\n\n```\nnum = 10\nif num > 5\n    print('Number is greater than 5')\n```\n",
+      "options": ["Missing colon at the end of if condition", "Indentation error", "num is not defined", "None"],
+      "correct_answer": "Missing colon at the end of if condition"
+    },
+    {
+      "difficulty": 10,
+      "type": "multiple-choice",
+      "topic": "if-statements",
+      "question": "What will the following code output when executed?\n\n```\nx = 8\ny = 12\nif x > 10:\n    if y < 15:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    if y < 10:\n        print('Case 3')\n    else:\n        print('Case 4')\n```\n",
+      "options": ["Case 1", "Case 2", "Case 3", "Case 4"],
+      "correct_answer": "Case 4"
+    }
+  ]
+}

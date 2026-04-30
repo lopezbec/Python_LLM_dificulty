@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the correct syntax for an if statement in Python that checks if a variable `x` is equal to 10?",
+    "options": {
+      "A": "if x = 10:",
+      "B": "if (x == 10)",
+      "C": "if x == 10:",
+      "D": "if x equals 10:"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What will be printed by the following code?\n\n```python\nx = 5\nif x > 3:\n    print(\"Greater\")\n```",
+    "options": {
+      "A": "Greater",
+      "B": "Greater x",
+      "C": "5",
+      "D": "Nothing will be printed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following values is considered `False` in a Python if statement?",
+    "options": {
+      "A": "1",
+      "B": "True",
+      "C": "\"\" (empty string)",
+      "D": "[0]"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nx = 10\nif x > 5:\n    if x < 15:\n        print(\"x is between 5 and 15\")\n```",
+    "options": {
+      "A": "x is between 5 and 15",
+      "B": "x is greater than 5",
+      "C": "x is less than 15",
+      "D": "No output"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Fill in the blank to complete the elif statement correctly in Python:\n\n```python\nx = 20\nif x < 10:\n    print(\"Less than 10\")\nelif ________:\n    print(\"Between 10 and 30\")\nelse:\n    print(\"30 or more\")\n```",
+    "options": {
+      "A": "x < 30",
+      "B": "10 < x < 30",
+      "C": "x > 10 and x < 30",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What will be the output of the following code snippet?\n\n```python\nx = 7\nif x == 5:\n    print(\"Five\")\nelif x == 6:\n    print(\"Six\")\nelif x == 7:\n    print(\"Seven\")\nelse:\n    print(\"Other\")\n```",
+    "options": {
+      "A": "Five",
+      "B": "Six",
+      "C": "Seven",
+      "D": "Other"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Consider the following code. What will be printed?\n\n```python\na = 10\nb = 20\nif a > 5 and b < 25:\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")\n```",
+    "options": {
+      "A": "Condition met",
+      "B": "Condition not met",
+      "C": "Error in condition",
+      "D": "Nothing is printed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of the following code?\n\n```python\ndef check_number(x):\n    if x % 2 == 0:\n        return \"Even\"\n    return \"Odd\"\n\nprint(check_number(4))\n```",
+    "options": {
+      "A": "Even",
+      "B": "Odd",
+      "C": "Error",
+      "D": "None"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a correct way to use an if statement with a list in Python to check if the list is empty?",
+    "options": {
+      "A": "if my_list == []:",
+      "B": "if not my_list:",
+      "C": "if len(my_list) == 0:",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What will the following code output?\n\n```python\nx = 0\nif x:\n    print(\"True\")\nelse:\n    print(\"False\")\n```",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "0",
+      "D": "Error"
+    },
+    "answer": "B"
+  }
+]

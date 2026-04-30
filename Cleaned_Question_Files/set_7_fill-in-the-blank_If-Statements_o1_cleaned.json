@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank to check if 'x' is equal to 10:\n\nif x __ 10:\n    print('Equal to 10')",
+      "correct_answer": "=="
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank so that the code checks if 'num' is not equal to 0:\n\nif num __ 0:\n    print('Not zero')",
+      "correct_answer": "!="
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank to check if 'score' is at least 80:\n\nif score __ 80:\n    print('Passed')",
+      "correct_answer": ">="
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "Complete the code to print 'Even' if 'n' is divisible by 2:\n\nif n % 2 __ 0:\n    print('Even')",
+      "correct_answer": "=="
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank to use an elif statement, checking if 'x' is less than 0:\n\nif x < 0:\n    print('Negative')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Positive')",
+      "correct_answer": "elif"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank to combine conditions in a single if statement to check if 'temperature < 0' and 'humidity > 80':\n\nif temperature < 0 ____ humidity > 80:\n    print('Freezing and Humid')",
+      "correct_answer": "and"
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank to check if 'char' is in the string 'alphabet':\n\nif char ____ 'alphabet':\n    print('Found it')",
+      "correct_answer": "in"
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "Complete the nested if statement to print 'Wear a coat' if 'temperature < 10' and 'is_raining' is True:\n\nif temperature < 10:\n    ____ is_raining:\n        print('Wear a coat')",
+      "correct_answer": "if"
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank so that the condition checks if either 'x' is negative or 'y' is negative:\n\nif x < 0 ____ y < 0:\n    print('Negative value found')",
+      "correct_answer": "or"
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "Complete the inline if statement to assign 'result' to 'Yes' if 'condition' is True, otherwise 'No':\n\nresult = 'Yes' ____ condition else 'No'",
+      "correct_answer": "if"
+    }
+  ]
+}

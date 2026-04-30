@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following best describes an if-statement in Python?",
+      "options": [
+        "A loop that repeats code.",
+        "A conditional statement that executes a block of code only if a condition is True.",
+        "A function used to store data.",
+        "A syntax error in Python."
+      ],
+      "correct_answer": "A conditional statement that executes a block of code only if a condition is True."
+    },
+    {
+      "difficulty": 2,
+      "question": "Which of the following is the correct syntax to start an if-statement in Python that checks if variable a equals 10?",
+      "options": [
+        "if a = 10:",
+        "if (a == 10):",
+        "if a == 10:",
+        "if a equals 10:"
+      ],
+      "correct_answer": "if a == 10:"
+    },
+    {
+      "difficulty": 3,
+      "question": "What punctuation must end an if-statement header in Python?",
+      "options": [
+        ".",
+        ":",
+        ";",
+        ","
+      ],
+      "correct_answer": ":"
+    },
+    {
+      "difficulty": 4,
+      "question": "Given the statement 'if x > 0: print(\"Positive\")', which of the following is true?",
+      "options": [
+        "The code prints 'Positive' when x is less than or equal to 0.",
+        "The code will always result in an error if x is equal to 0.",
+        "The code prints 'Positive' only when x is greater than 0.",
+        "The code prints 'Positive' regardless of x's value."
+      ],
+      "correct_answer": "The code prints 'Positive' only when x is greater than 0."
+    },
+    {
+      "difficulty": 5,
+      "question": "Which of the following correctly uses an if-elif-else statement to check if a number n is positive, negative, or zero?",
+      "options": [
+        "if n > 0:\n    print('Positive')\nelif n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+        "if n > 0:\n    print('Positive')\nelse if n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+        "if (n > 0): print('Positive')\nif (n < 0): print('Negative')\nif (n == 0): print('Zero')",
+        "if n > 0 then print('Positive') else if n < 0 then print('Negative') else print('Zero')"
+      ],
+      "correct_answer": "if n > 0:\n    print('Positive')\nelif n < 0:\n    print('Negative')\nelse:\n    print('Zero')"
+    },
+    {
+      "difficulty": 6,
+      "question": "What will be the output of the following code snippet?\n\nx = 0\nif x:\n    print('True')\nelse:\n    print('False')",
+      "options": [
+        "True",
+        "False",
+        "0",
+        "An error is thrown due to x being 0"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 7,
+      "question": "Consider the following code snippet:\n\nx = 5\nif x > 2:\n    if x < 10:\n        print('x is between 3 and 9')\n    else:\n        print('x is 10 or more')\nelse:\n    print('x is 2 or less')\n\nWhat will be printed?",
+      "options": [
+        "x is 2 or less",
+        "x is 10 or more",
+        "x is between 3 and 9",
+        "Nothing will be printed"
+      ],
+      "correct_answer": "x is between 3 and 9"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which of the following if-statement conditions correctly checks if variable a is between 1 and 10 (inclusive)?",
+      "options": [
+        "if 1 <= a < 10:",
+        "if 1 < a < 10:",
+        "if a >= 1 and a <= 10:",
+        "Both A and C"
+      ],
+      "correct_answer": "Both A and C"
+    },
+    {
+      "difficulty": 9,
+      "question": "What does the following one-liner if-statement do?\n\nprint('Even') if n % 2 == 0 else print('Odd')",
+      "options": [
+        "It prints 'Even' if n is even, otherwise it prints 'Odd'.",
+        "It always prints 'Even' regardless of n.",
+        "It prints 'Odd' if n is even, otherwise it prints 'Even'.",
+        "It returns 'Even' or 'Odd' but does not print anything."
+      ],
+      "correct_answer": "It prints 'Even' if n is even, otherwise it prints 'Odd'."
+    },
+    {
+      "difficulty": 10,
+      "question": "Which of the following statements about the evaluation order of logical operators in Python within an if-statement is correct?",
+      "options": [
+        "Passwords are evaluated left-to-right without any precedence rules.",
+        "The 'or' operator is evaluated before the 'and' operator.",
+        "The 'and' operator is evaluated before the 'or' operator.",
+        "Both 'and' and 'or' are evaluated simultaneously."
+      ],
+      "correct_answer": "The 'and' operator is evaluated before the 'or' operator."
+    }
+  ]
+}

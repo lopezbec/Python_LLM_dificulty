@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a ______ loop repeats actions as long as a certain condition remains True.",
+      "correct_answer": "while"
+    },
+    {
+      "difficulty": 2,
+      "question": "The built-in function ______ is commonly used in for loops to generate a sequence of numbers.",
+      "correct_answer": "range"
+    },
+    {
+      "difficulty": 3,
+      "question": "In a for loop, you can immediately terminate the loop using the keyword ______.",
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "The keyword ______ is used to skip the current iteration of a loop and continue with the next iteration.",
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "A nested loop occurs when a loop is placed ______ another loop.",
+      "correct_answer": "inside"
+    },
+    {
+      "difficulty": 6,
+      "question": "Using the function ______ allows you to retrieve both the index and value from a list in a for loop.",
+      "correct_answer": "enumerate"
+    },
+    {
+      "difficulty": 7,
+      "question": "In Python, a for loop can have an optional ______ clause that only executes if the loop completes without a break.",
+      "correct_answer": "else"
+    },
+    {
+      "difficulty": 8,
+      "question": "The single-line syntax for creating a new list by applying an expression to each element of an iterable is called a ______.",
+      "correct_answer": "list comprehension"
+    },
+    {
+      "difficulty": 9,
+      "question": "When iterating over two lists simultaneously, the function ______ can be used to pair elements from each list in a single loop.",
+      "correct_answer": "zip"
+    },
+    {
+      "difficulty": 10,
+      "question": "When you need to iterate over an iterable in reverse order, you can use the built-in function ______ in combination with a for loop.",
+      "correct_answer": "reversed"
+    }
+  ]
+}

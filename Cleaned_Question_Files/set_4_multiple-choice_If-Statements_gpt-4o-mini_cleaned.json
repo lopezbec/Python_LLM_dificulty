@@ -1,0 +1,112 @@
+[
+    {
+        "difficulty": 1,
+        "question": "What will the following code print? \n\nif True:\n    print('Yes')",
+        "options": [
+            "Yes",
+            "No",
+            "Error",
+            "Nothing"
+        ],
+        "correct_answer": "Yes"
+    },
+    {
+        "difficulty": 2,
+        "question": "Which of the following will execute the code inside the if statement? \n\nif x == 5:",
+        "options": [
+            "x is not equal to 5",
+            "x is equal to 5",
+            "x is greater than 5",
+            "x is less than 5"
+        ],
+        "correct_answer": "x is equal to 5"
+    },
+    {
+        "difficulty": 3,
+        "question": "What will be the output of the following code? \n\nx = 10 \nif x < 5:\n    print('Low') \nelif x < 15:\n    print('Medium') \nelse:\n    print('High')",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "Error"
+        ],
+        "correct_answer": "Medium"
+    },
+    {
+        "difficulty": 4,
+        "question": "Which of the following statements about if-else is TRUE? \n\nif condition:\n    # do something\nelse:\n    # do something else",
+        "options": [
+            "The else block is optional.",
+            "The if block is optional.",
+            "The else block can have multiple options.",
+            "The if condition must be a boolean."
+        ],
+        "correct_answer": "The else block is optional."
+    },
+    {
+        "difficulty": 5,
+        "question": "What is the output of the following code? \n\nx = 2 \ny = 3 \nif x == y:\n    print('Equal') \nelse:\n    print('Not Equal')",
+        "options": [
+            "Equal",
+            "Not Equal",
+            "True",
+            "False"
+        ],
+        "correct_answer": "Not Equal"
+    },
+    {
+        "difficulty": 6,
+        "question": "What will the output be for this code? \n\nage = 18 \nif age < 18:\n    print('Minor') \nelif age == 18:\n    print('Just Adult') \nelse:\n    print('Adult')",
+        "options": [
+            "Minor",
+            "Just Adult",
+            "Adult",
+            "Error"
+        ],
+        "correct_answer": "Just Adult"
+    },
+    {
+        "difficulty": 7,
+        "question": "In the following code, what will be printed? \n\nnum = 7 \nif num % 2 == 0:\n    print('Even') \nelif num % 2 != 0:\n    print('Odd') \nelse:\n    print('Not a number')",
+        "options": [
+            "Even",
+            "Odd",
+            "Not a number",
+            "Error"
+        ],
+        "correct_answer": "Odd"
+    },
+    {
+        "difficulty": 8,
+        "question": "Given the following code snippet, what will be the output? \n\nx = -5 \ny = 0 \nif x < 0:\n    print('Negative') \nelif y < 0:\n    print('Y Negative') \nelse:\n    print('None')",
+        "options": [
+            "Negative",
+            "Y Negative",
+            "None",
+            "Error"
+        ],
+        "correct_answer": "Negative"
+    },
+    {
+        "difficulty": 9,
+        "question": "What is the output of the following code? \n\nvalue = 'Python' \nif 'y' in value:\n    print('Found') \nelif 'o' in value:\n    print('Also Found') \nelse:\n    print('Not Found')",
+        "options": [
+            "Found",
+            "Also Found",
+            "Not Found",
+            "Error"
+        ],
+        "correct_answer": "Found"
+    },
+    {
+        "difficulty": 10,
+        "question": "What will happen when this code is executed? \n\nx = 100 \nif x > 100:\n    print('Over') \nelif x == 100:\n    print('Equal') \nelse:\n    print('Under')",
+        "options": [
+            "Over",
+            "Equal",
+            "Under",
+            "Error"
+        ],
+        "correct_answer": "Equal"
+    }
+]

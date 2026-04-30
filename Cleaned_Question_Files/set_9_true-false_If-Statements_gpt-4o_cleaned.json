@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "An if-statement allows you to execute a block of code only if a specified condition is true.",
+      "answer": true,
+      "difficulty": 1
+    },
+    {
+      "question": "In Python, you must end each if statement with a semicolon (;).",
+      "answer": false,
+      "difficulty": 2
+    },
+    {
+      "question": "An if-else statement in Python can have multiple 'elif' clauses.",
+      "answer": true,
+      "difficulty": 3
+    },
+    {
+      "question": "The indentation level of code within all branches of an if-statement does not affect its execution.",
+      "answer": false,
+      "difficulty": 4
+    },
+    {
+      "question": "In Python, logical operators such as 'and', 'or', 'not' can be used in the condition of an if statement.",
+      "answer": true,
+      "difficulty": 5
+    },
+    {
+      "question": "An else statement can exist without a preceding if statement in Python.",
+      "answer": false,
+      "difficulty": 6
+    },
+    {
+      "question": "If two if-statements are aligned with the same indentation level, they are considered nested.",
+      "answer": false,
+      "difficulty": 7
+    },
+    {
+      "question": "The condition in an if-statement in Python can be any expression that can be evaluated to a boolean value.",
+      "answer": true,
+      "difficulty": 8
+    },
+    {
+      "question": "Python's ternary conditional operator requires using the syntax: 'if condition then expression else expression'.",
+      "answer": false,
+      "difficulty": 9
+    },
+    {
+      "question": "In Python, the scoping of variables declared inside an if block is global to the whole function or script.",
+      "answer": true,
+      "difficulty": 10
+    }
+  ]
+}

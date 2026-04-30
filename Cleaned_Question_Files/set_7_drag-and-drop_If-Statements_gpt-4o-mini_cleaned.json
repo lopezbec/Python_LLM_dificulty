@@ -1,0 +1,142 @@
+[
+    {
+        "difficulty": 1,
+        "question": "Match the snippet to its purpose: 'if (condition) { doSomething(); }'",
+        "options": {
+            "A": "Executes 'doSomething()' if 'condition' is True.",
+            "B": "Always executes 'doSomething()'.",
+            "C": "Skips 'doSomething()' if 'condition' is True.",
+            "D": "Executes 'doSomething()' if 'condition' is False."
+        },
+        "correctMatch": {
+            "snippet": "if (condition) { doSomething(); }",
+            "purpose": "A"
+        }
+    },
+    {
+        "difficulty": 2,
+        "question": "Match the code to the appropriate output when 'x' is 5: 'if x > 10: print(\"High\") else: print(\"Low\")'",
+        "options": {
+            "A": "High",
+            "B": "Low",
+            "C": "Error",
+            "D": "Nothing"
+        },
+        "correctMatch": {
+            "code": "if x > 10: print(\"High\") else: print(\"Low\")",
+            "output": "B"
+        }
+    },
+    {
+        "difficulty": 3,
+        "question": "Match the statement to its type: 'if (x == 10) { /* Code */ }'",
+        "options": {
+            "A": "Conditional statement",
+            "B": "Looping statement",
+            "C": "Function definition",
+            "D": "Return statement"
+        },
+        "correctMatch": {
+            "statement": "if (x == 10) { /* Code */ }",
+            "type": "A"
+        }
+    },
+    {
+        "difficulty": 4,
+        "question": "Match the condition type to the code: 'if (user_age < 18) { print(\"Minor\") }'",
+        "options": {
+            "A": "String comparison",
+            "B": "Numerical comparison",
+            "C": "Logical operation",
+            "D": "Boolean check"
+        },
+        "correctMatch": {
+            "code": "if (user_age < 18) { print(\"Minor\") }",
+            "conditionType": "B"
+        }
+    },
+    {
+        "difficulty": 5,
+        "question": "Match the output to the code: 'x = 20; if x < 15: print(1) elif x < 25: print(2) else: print(3)'",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "No output"
+        },
+        "correctMatch": {
+            "code": "if x < 15: print(1) elif x < 25: print(2) else: print(3)",
+            "output": "B"
+        }
+    },
+    {
+        "difficulty": 6,
+        "question": "Match the correct term to the following scenario: 'if (temperature > 30) { /* Code */ }'",
+        "options": {
+            "A": "Nested if statement",
+            "B": "Single condition",
+            "C": "Chained conditions",
+            "D": "Ternary operator"
+        },
+        "correctMatch": {
+            "scenario": "if (temperature > 30) { /* Code */ }",
+            "term": "B"
+        }
+    },
+    {
+        "difficulty": 7,
+        "question": "Match the code with its flow: 'if A: if B: doX() else: doY()'",
+        "options": {
+            "A": "Single condition evaluation",
+            "B": "Nested conditional evaluation",
+            "C": "Final else execution",
+            "D": "Comparison check"
+        },
+        "correctMatch": {
+            "code": "if A: if B: doX() else: doY()",
+            "flow": "B"
+        }
+    },
+    {
+        "difficulty": 8,
+        "question": "Match the key concept to the following code: 'if balance >= amount: withdraw()'",
+        "options": {
+            "A": "Negative condition",
+            "B": "Positive condition",
+            "C": "Range condition",
+            "D": "Equality condition"
+        },
+        "correctMatch": {
+            "code": "if balance >= amount: withdraw()",
+            "keyConcept": "B"
+        }
+    },
+    {
+        "difficulty": 9,
+        "question": "Match the code pattern with its type: 'if (x < 1 && x > -1)': ",
+        "options": {
+            "A": "Complex logical condition",
+            "B": "Simple conditional check",
+            "C": "Multiple else-if statements",
+            "D": "Statements without conditions"
+        },
+        "correctMatch": {
+            "pattern": "if (x < 1 && x > -1)",
+            "type": "A"
+        }
+    },
+    {
+        "difficulty": 10,
+        "question": "Match the output to this complex condition: 'x = 5; y = 10; if x < y and y > 5: print(\"Yes\")'",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Error",
+            "D": "Nothing"
+        },
+        "correctMatch": {
+            "code": "if x < y and y > 5: print(\"Yes\")",
+            "output": "A"
+        }
+    }
+]

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, an if-statement always requires a colon (:) at the end of the condition line.",
+      "answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "Python's if-statement supports the use of the logical operator 'and' to combine multiple conditions.",
+      "answer": true
+    },
+    {
+      "difficulty": 3,
+      "question": "The if-statement in Python requires curly braces {} to define the scope of its block.",
+      "answer": false
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, if the if condition evaluates to False, the code inside the else block (if provided) will be executed.",
+      "answer": true
+    },
+    {
+      "difficulty": 5,
+      "question": "Python allows nested if-statements inside the body of another if-statement.",
+      "answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "The 'elif' clause is mandatory in Python if-statements when an else clause is used.",
+      "answer": false
+    },
+    {
+      "difficulty": 7,
+      "question": "In Python, the condition in an if-statement can be any expression that evaluates to a Boolean value.",
+      "answer": true
+    },
+    {
+      "difficulty": 8,
+      "question": "In Python, the code 'if 5 > 3:' will not execute its code block because the condition must always compare a variable.",
+      "answer": false
+    },
+    {
+      "difficulty": 9,
+      "question": "An if-statement in Python can combine multiple conditions using logical operators without requiring parentheses for the expression to work properly.",
+      "answer": true
+    },
+    {
+      "difficulty": 10,
+      "question": "Consider the code snippet: 'if x = 10: print(x)'. This snippet is valid Python syntax.",
+      "answer": false
+    }
+  ]
+}

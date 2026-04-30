@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "In Python, an if-statement must always include an else clause.",
+    "difficulty": 1,
+    "type": "True/False"
+  },
+  {
+    "id": 2,
+    "question": "The condition in a Python if-statement must evaluate to a Boolean value (True or False).",
+    "difficulty": 2,
+    "type": "True/False"
+  },
+  {
+    "id": 3,
+    "question": "Indentation is used in Python to define the block of code that belongs to an if-statement.",
+    "difficulty": 3,
+    "type": "True/False"
+  },
+  {
+    "id": 4,
+    "question": "A Python if-statement can only evaluate a single condition and cannot handle multiple conditions.",
+    "difficulty": 4,
+    "type": "True/False"
+  },
+  {
+    "id": 5,
+    "question": "In Python, the elif clause must directly follow an if statement and precede an else clause if one is present.",
+    "difficulty": 5,
+    "type": "True/False"
+  },
+  {
+    "id": 6,
+    "question": "In Python, the colon (:) after the condition in an if-statement is optional.",
+    "difficulty": 6,
+    "type": "True/False"
+  },
+  {
+    "id": 7,
+    "question": "In a nested if-statement, the inner if-statement is only executed if the outer if-statement's condition is True.",
+    "difficulty": 7,
+    "type": "True/False"
+  },
+  {
+    "id": 8,
+    "question": "Python's if statements do not support the use of ternary conditional operators.",
+    "difficulty": 8,
+    "type": "True/False"
+  },
+  {
+    "id": 9,
+    "question": "If an exception is raised in the condition of an if-statement, the else clause will still execute.",
+    "difficulty": 9,
+    "type": "True/False"
+  },
+  {
+    "id": 10,
+    "question": "In Python, an if statement can exist without an else or elif clause, but an elif clause cannot appear without a preceding if statement.",
+    "difficulty": 10,
+    "type": "True/False"
+  }
+]

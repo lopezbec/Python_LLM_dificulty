@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "question": "Drag and drop the correct keyword to complete the statement so that it prints 'x is greater than 5' when x > 5.",
+      "difficulty": 1,
+      "code": "x = 10\n__1__ x > 5:\n    print(\"x is greater than 5\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "while", "func"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords and operator to complete the code so that it prints 'Yes' if x is equal to 0, and 'No' otherwise.",
+      "difficulty": 2,
+      "code": "x = 0\n__1__ x __2__ 0:\n    print(\"Yes\")\n__3__:\n    print(\"No\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "elif", "while"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "==",
+          "possibleAnswers": ["==", "!=", ">"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["else", "except", "elif"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to determine if x is negative, zero, or positive.",
+      "difficulty": 3,
+      "code": "x = -3\n__1__ x < 0:\n    print(\"Negative\")\n__2__ x == 0:\n    print(\"Zero\")\n__3__:\n    print(\"Positive\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "try"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["elif", "else", "return"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["else", "elif", "except"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to check divisibility of x by 3 and 5.",
+      "difficulty": 4,
+      "code": "x = 15\n__1__ x % 3 == 0 and x % 5 == 0:\n    print(\"Divisible by 3 and 5\")\n__2__ x % 3 == 0:\n    print(\"Divisible by 3\")\n__3__ x % 5 == 0:\n    print(\"Divisible by 5\")\n__4__:\n    print(\"Not divisible by 3 or 5\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["while", "elif", "if"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["else", "elif", "pass"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["try", "elif", "else"]
+        },
+        {
+          "id": "__4__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["except", "else", "return"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to form nested if statements checking if x is even or not, and whether it's negative or positive.",
+      "difficulty": 5,
+      "code": "x = -2\n__1__ x % 2 == 0:\n    __2__ x < 0:\n        print(\"Even Negative\")\n    __3__:\n        print(\"Even Positive\")\n__4__:\n    print(\"Not Even\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "elif", "while"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "except"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "for", "else"]
+        },
+        {
+          "id": "__4__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["finally", "else", "with"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to categorize age into Child, Teen, Adult, or Senior.",
+      "difficulty": 6,
+      "code": "age = 40\n__1__ age < 13:\n    print(\"Child\")\n__2__ age < 18:\n    print(\"Teen\")\n__3__ age < 65:\n    print(\"Adult\")\n__4__:\n    print(\"Senior\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "while"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["elif", "else", "try"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["else", "except", "elif"]
+        },
+        {
+          "id": "__4__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "return", "else"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to check how a word starts or ends.",
+      "difficulty": 7,
+      "code": "word = \"Python\"\n__1__ word.startswith(\"P\"):\n    print(\"Starts with P\")\n__2__ word.endswith(\"n\"):\n    print(\"Ends with n\")\n__3__:\n    print(\"Does not start with P or end with n\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "with"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["elif", "else", "except"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["finally", "else", "elif"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keyword and operator to determine if a given year is a leap year.",
+      "difficulty": 8,
+      "code": "year = 2020\n__1__ (year % 400 == 0) __2__ (year % 4 == 0 and year % 100 != 0):\n    print(\"Leap Year\")\n__3__:\n    print(\"Not a Leap Year\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "elif", "while"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "or",
+          "possibleAnswers": ["and", "or", "not"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "else", "except"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to check if a food item is in the fruit list and whether it is uppercase.",
+      "difficulty": 9,
+      "code": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfood = \"APPLE\"\n\n__1__ food.lower() in fruits:\n    __2__ food.isupper():\n        print(\"Fruit in uppercase form\")\n    __3__:\n        print(\"Fruit in non-uppercase form\")\n__4__:\n    print(\"Not a fruit\")",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "while", "elif"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "try"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "return", "else"]
+        },
+        {
+          "id": "__4__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "else", "except"]
+        }
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keywords to assign grades based on score, using nested if-statements and multiple conditions.",
+      "difficulty": 10,
+      "code": "score = 92\n__1__ score >= 90:\n    category = \"A\"\n    __2__ score > 95:\n        grade = \"A+\"\n    __3__:\n        grade = \"A\"\n__4__ score >= 80:\n    category = \"B\"\n    grade = \"B\"\n__5__:\n    category = \"C\"\n    grade = \"C\"",
+      "placeholders": [
+        {
+          "id": "__1__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "elif", "while"]
+        },
+        {
+          "id": "__2__",
+          "correctAnswer": "if",
+          "possibleAnswers": ["if", "else", "elif"]
+        },
+        {
+          "id": "__3__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "except", "else"]
+        },
+        {
+          "id": "__4__",
+          "correctAnswer": "elif",
+          "possibleAnswers": ["if", "elif", "else"]
+        },
+        {
+          "id": "__5__",
+          "correctAnswer": "else",
+          "possibleAnswers": ["elif", "finally", "else"]
+        }
+      ]
+    }
+  ]
+}

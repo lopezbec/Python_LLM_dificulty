@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "In if-statements, the condition is placed inside _____.",
+            "answer": "parentheses"
+        },
+        {
+            "difficulty": 2,
+            "question": "The statement inside an if-statement executes when the condition is _____.",
+            "answer": "true"
+        },
+        {
+            "difficulty": 3,
+            "question": "The Python keyword used to specify an alternative branch to an if-statement is _____.",
+            "answer": "else"
+        },
+        {
+            "difficulty": 4,
+            "question": "The symbol used to separate multiple conditions in an 'if' and 'elif' statement is _____.",
+            "answer": "or"
+        },
+        {
+            "difficulty": 5,
+            "question": "In Python, the Boolean comparison operator for inequality is _____.",
+            "answer": "!="
+        },
+        {
+            "difficulty": 6,
+            "question": "To check if a variable 'x' is less than or equal to 10 in an if-statement, write: if x _____ 10.",
+            "answer": "<="
+        },
+        {
+            "difficulty": 7,
+            "question": "The keyword _____ is used in Python if-statements to add another condition for evaluation.",
+            "answer": "elif"
+        },
+        {
+            "difficulty": 8,
+            "question": "To verify whether 'a' is both greater than 5 and less than 20 using Python's if-statement, the condition would be: if 5 < a _____ a < 20.",
+            "answer": "and"
+        },
+        {
+            "difficulty": 9,
+            "question": "To invert a condition in Python's if-statements, the keyword used is _____.",
+            "answer": "not"
+        },
+        {
+            "difficulty": 10,
+            "question": "In Python, nested if-statements can be used for complex decision-making. The technique that ensures each statement is correctly associated is _____.",
+            "answer": "indentation"
+        }
+    ]
+}

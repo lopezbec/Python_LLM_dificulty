@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "A 'for' loop can be used to iterate over each character in a string in Python.",
+      "difficulty": 1,
+      "correct_answer": "True"
+    },
+    {
+      "question": "We must convert a range into a list before using it in a 'for' loop in Python.",
+      "difficulty": 2,
+      "correct_answer": "False"
+    },
+    {
+      "question": "A 'while' loop in Python continues to run as long as its condition remains True.",
+      "difficulty": 3,
+      "correct_answer": "True"
+    },
+    {
+      "question": "The 'else' clause of a loop in Python executes only if the loop does not encounter a 'break' statement.",
+      "difficulty": 4,
+      "correct_answer": "True"
+    },
+    {
+      "question": "We can end a loop early by using the 'break' statement in Python.",
+      "difficulty": 5,
+      "correct_answer": "True"
+    },
+    {
+      "question": "The 'continue' keyword in Python ends the entire loop when encountered.",
+      "difficulty": 6,
+      "correct_answer": "False"
+    },
+    {
+      "question": "A loop in Python that never updates its condition can become an infinite loop.",
+      "difficulty": 7,
+      "correct_answer": "True"
+    },
+    {
+      "question": "The call 'range(5)' in a 'for' loop will iterate over the values 1, 2, 3, 4, 5 in Python.",
+      "difficulty": 8,
+      "correct_answer": "False"
+    },
+    {
+      "question": "Python's 'for' keyword can iterate over any iterable object, such as lists, tuples, and generators.",
+      "difficulty": 9,
+      "correct_answer": "True"
+    },
+    {
+      "question": "A 'break' statement within nested loops in Python only exits the innermost loop by default.",
+      "difficulty": 10,
+      "correct_answer": "True"
+    }
+  ]
+}

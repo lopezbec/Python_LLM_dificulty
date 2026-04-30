@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following is the default step value in Python's range() function used in a for loop?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 2,
+      "question": "In Python, a while loop continues to run as long as which of the following is true?",
+      "options": {
+        "A": "The condition in the while statement is True",
+        "B": "The loop contains at least one 'break' statement",
+        "C": "The loop is inside a function",
+        "D": "The loop has an else clause"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 3,
+      "question": "Which keyword can be used to skip the current iteration of a loop in Python, continuing to the next iteration?",
+      "options": {
+        "A": "pass",
+        "B": "stop",
+        "C": "break",
+        "D": "continue"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, what happens to the else clause of a for loop if a break statement is executed inside the loop?",
+      "options": {
+        "A": "The else clause is still executed",
+        "B": "The else clause is skipped",
+        "C": "The else clause is executed in a separate function",
+        "D": "The else clause is repeated for every iteration"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which of these statements is true about iterating over dictionaries using a for loop in Python?",
+      "options": {
+        "A": "A for loop can directly iterate over the dictionary's values by default",
+        "B": "A for loop can directly iterate over only the dictionary's keys by default",
+        "C": "A for loop can iterate over both keys and values by default",
+        "D": "A for loop cannot iterate over dictionaries by default"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 6,
+      "question": "In which of the following scenarios would a while loop be more suitable than a for loop in Python?",
+      "options": {
+        "A": "When you need to iterate over the elements of a list",
+        "B": "When you have a known range of numbers to iterate through",
+        "C": "When you need to loop until a specific condition changes",
+        "D": "When you want to iterate using the range function"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 7,
+      "question": "What is the output of the following code?\n\nx = 5\nwhile x > 0:\n    print(x)\n    x -= 2",
+      "options": {
+        "A": "5 3 1",
+        "B": "5 4 3 2 1",
+        "C": "5 3",
+        "D": "4 2"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 8,
+      "question": "Given the code:\n\nfor i in range(4):\n    for j in range(2):\n        print(i, j)\n\nHow many times is the print statement executed?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python, which loop structure would you choose to simultaneously track the index and value of items in a list without manually incrementing a counter?",
+      "options": {
+        "A": "while with break",
+        "B": "for i, v in enumerate(sequence)",
+        "C": "for i in sequence",
+        "D": "for x, y in zip(sequence)"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 10,
+      "question": "What is the most efficient approach for building a list of squares from 0 to 999 in Python?",
+      "options": {
+        "A": "Using a while loop that appends squares",
+        "B": "Using a for loop with list.append(x*x)",
+        "C": "Using a list comprehension: [x*x for x in range(1000)]",
+        "D": "Using a generator expression inside a list() call"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Drag and drop the correct condition to complete the if-statement: \n`if ( ):`",
+        "drops": ["x > 10", "x == 10", "x < 5", "x = 5"],
+        "correct": "x == 10",
+        "difficulty": 1
+    },
+    {
+        "question": "Fill in the blanks with the correct code fragments: \n`if (condition) { return value; } else {  ____ ; }`",
+        "drops": ["return otherValue;", "if (otherCondition) { }", "for (i in range(5)) { }"],
+        "correct": "return otherValue;",
+        "difficulty": 2
+    },
+    {
+        "question": "Drag and drop to complete the if-statement for checking even numbers:\n`if (number ____ 2 == 0):`",
+        "drops": [" / ", " % ", " + ", " - "],
+        "correct": "%", 
+        "difficulty": 3
+    },
+    {
+        "question": "Drag the correct answers to fill in the if-else structure:\n`if (x > 10) { console.log('Big'); } ____  { console.log('Small'); }`",
+        "drops": ["else", "elseif", "finally", "try"],
+        "correct": "else",
+        "difficulty": 4
+    },
+    {
+        "question": "Complete the if-statement by dragging the missing components:\n`if (weather === 'rainy') { ____; }`",
+        "drops": ["take an umbrella;", "play outside;", "stay indoors;", "go for a walk;"],
+        "correct": "take an umbrella;",
+        "difficulty": 5
+    },
+    {
+        "question": "Complete the nested if-statement below:\n`if (x > 0) { if (x > 10) { ____; } }`",
+        "drops": ["console.log('X is large');", "console.log('X is negative');", "console.log('X is small'),", "continue;"],
+        "correct": "console.log('X is large');",
+        "difficulty": 6
+    },
+    {
+        "question": "Fill in the missing components to define the correct behavior of the if-statement: \n`if (marks >= 50) { ____; } else { ____; }`",
+        "drops": ["console.log('Pass');", "console.log('Fail');", "return 'Pass';", "return 'Fail';"],
+        "correct": "console.log('Pass');", 
+        "alternate_correct": "console.log('Fail');",
+        "difficulty": 7
+    },
+    {
+        "question": "Complete this if-statement with a conditional check: \n`if (temperature < 0) { ____; }`",
+        "drops": ["console.log('It's freezing!');", "console.log('It's warm!');", "console.log('It's hot!');", "console.log('It's cool!');"],
+        "correct": "console.log('It's freezing!');",
+        "difficulty": 8
+    },
+    {
+        "question": "Drag the correct operands and comparison operators to form valid conditions:\n`if (a ____ b) { ____; }`",
+        "drops": ["==", ">=", "doSomething();", ">", "console.log('match');"],
+        "correct": ">",
+        "alternate_correct": "==",
+        "difficulty": 9
+    },
+    {
+        "question": "Create a complete if-else if-else structure by filling in the blanks:\n`if (score > 90) { ____; } ____ if (score > 75) { ____; } else { ____; }`",
+        "drops": ["console.log('Grade A');", "console.log('Grade B');", "console.log('Grade C');", "console.log('Grade D');"],
+        "correct": "console.log('Grade A');",
+        "alternate_correct": "console.log('Grade B');",
+        "difficulty": 10
+    }
+]

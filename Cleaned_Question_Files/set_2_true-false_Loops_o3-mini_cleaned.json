@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a loop is a control structure that repeatedly executes a block of code.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "The 'for' loop in Python always requires the use of the range() function.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 3,
+      "question": "A while loop in Python evaluates its condition before executing its body.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 4,
+      "question": "An infinite loop can occur in Python if the loop's control variable is not updated correctly.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 5,
+      "question": "Python allows the use of an 'else' clause with loops, which executes when the loop terminates normally.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "The 'break' statement in Python only works with while loops and cannot be used in for loops.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 7,
+      "question": "The 'continue' statement in Python skips the rest of the current loop iteration and proceeds to the next iteration.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 8,
+      "question": "In nested loops, the inner loop will complete all of its iterations for each single iteration of the outer loop.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 9,
+      "question": "Python's list comprehension is an alternative to traditional for loops and can be used to generate new lists in one concise expression.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 10,
+      "question": "Recursion is considered a type of loop in Python because it repeatedly calls a function until a base condition is met.",
+      "correct_answer": false
+    }
+  ]
+}

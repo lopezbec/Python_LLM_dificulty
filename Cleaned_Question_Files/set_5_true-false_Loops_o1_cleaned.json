@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A 'for' loop iterates over each element in a sequence.",
+      "correctAnswer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "A 'while' loop continues to run as long as its condition is True and stops when the condition becomes False.",
+      "correctAnswer": "True"
+    },
+    {
+      "difficulty": 3,
+      "question": "In Python, 'break' only skips the current iteration of the loop and does not terminate it.",
+      "correctAnswer": "False"
+    },
+    {
+      "difficulty": 4,
+      "question": "A 'for' loop can iterate over the values of a dictionary by using the values() method.",
+      "correctAnswer": "True"
+    },
+    {
+      "difficulty": 5,
+      "question": "Placing an 'else' clause after a 'while' loop will still execute the 'else' block even if the loop is broken with 'break'.",
+      "correctAnswer": "False"
+    },
+    {
+      "difficulty": 6,
+      "question": "List comprehensions can replace certain 'for' loops in Python to achieve more concise code.",
+      "correctAnswer": "True"
+    },
+    {
+      "difficulty": 7,
+      "question": "You can use a 'while' loop with a counter or index to iterate over the characters in a string.",
+      "correctAnswer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "It is not possible to nest a 'for' loop inside a 'while' loop in Python.",
+      "correctAnswer": "False"
+    },
+    {
+      "difficulty": 9,
+      "question": "When iterating over a dictionary using a 'for' loop, you must convert the dictionary to a list to access its keys.",
+      "correctAnswer": "False"
+    },
+    {
+      "difficulty": 10,
+      "question": "The 'enumerate()' function can be used within a 'for' loop to obtain both the index and the element in each iteration.",
+      "correctAnswer": "True"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "question": "Complete the basic if-statement keyword.",
+      "difficulty": 1,
+      "instructions": "Drag the correct keyword to complete the statement.",
+      "codeSnippet": "___ (x > 0):\n    print('Positive')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "if"
+        }
+      ],
+      "draggableItems": ["if", "else", "elif", "for"]
+    },
+    {
+      "question": "Complete the if-else statement.",
+      "difficulty": 2,
+      "instructions": "Drag the missing keyword to complete the if-else block.",
+      "codeSnippet": "if x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "else"
+        }
+      ],
+      "draggableItems": ["if", "elif", "else", "then"]
+    },
+    {
+      "question": "Fill in the if-elif chain.",
+      "difficulty": 3,
+      "instructions": "Drag the correct keywords into the blanks to complete the if-elif statement.",
+      "codeSnippet": "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')",
+      "dropZones": [
+        {
+          "placeholder": "First blank",
+          "correctAnswer": "if"
+        },
+        {
+          "placeholder": "Second blank",
+          "correctAnswer": "elif"
+        }
+      ],
+      "draggableItems": ["if", "else", "elif", "while"]
+    },
+    {
+      "question": "Complete the if-elif-else chain.",
+      "difficulty": 4,
+      "instructions": "Drag the correct keywords into the blanks to form a complete if-elif-else statement.",
+      "codeSnippet": "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')\n___:\n    print('Negative')",
+      "dropZones": [
+        {
+          "placeholder": "First blank",
+          "correctAnswer": "if"
+        },
+        {
+          "placeholder": "Second blank",
+          "correctAnswer": "elif"
+        },
+        {
+          "placeholder": "Third blank",
+          "correctAnswer": "else"
+        }
+      ],
+      "draggableItems": ["if", "elif", "else", "for"]
+    },
+    {
+      "question": "Complete the nested if-statement.",
+      "difficulty": 5,
+      "instructions": "Drag the keyword needed for the inner if-statement.",
+      "codeSnippet": "if x > 0:\n    ___ y > 0:\n        print('Both positive')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "if"
+        }
+      ],
+      "draggableItems": ["if", "else", "elif", "while"]
+    },
+    {
+      "question": "Fill in the missing logical operator.",
+      "difficulty": 6,
+      "instructions": "Drag the correct logical operator to complete the compound condition.",
+      "codeSnippet": "if x > 0 ___ y > 0:\n    print('Both x and y are positive')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "and"
+        }
+      ],
+      "draggableItems": ["and", "or", "not", "else"]
+    },
+    {
+      "question": "Complete the comparison operator in the if-statement.",
+      "difficulty": 7,
+      "instructions": "Drag the correct comparison operator to complete the condition.",
+      "codeSnippet": "if x ___ 0:\n    print('x is non-zero')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "!="
+        }
+      ],
+      "draggableItems": ["==", "!=", ">", "<"]
+    },
+    {
+      "question": "Complete the range check using if-statement.",
+      "difficulty": 8,
+      "instructions": "Drag the correct operators to complete the condition that checks if x is between 0 and 10.",
+      "codeSnippet": "if 0 ___ x and x ___ 10:\n    print('x is between 0 and 10')",
+      "dropZones": [
+        {
+          "placeholder": "First blank",
+          "correctAnswer": "<"
+        },
+        {
+          "placeholder": "Second blank",
+          "correctAnswer": "<"
+        }
+      ],
+      "draggableItems": ["<", ">", "<=", ">="]
+    },
+    {
+      "question": "Complete the inline if-else (ternary) statement.",
+      "difficulty": 9,
+      "instructions": "Drag the correct operator to complete the inline condition that checks for even numbers.",
+      "codeSnippet": "print('Even') if x % 2 ___ 0 else print('Odd')",
+      "dropZones": [
+        {
+          "placeholder": "___",
+          "correctAnswer": "=="
+        }
+      ],
+      "draggableItems": ["==", "!=", "%", "<="]
+    },
+    {
+      "question": "Complete the function with a full if-elif-else chain.",
+      "difficulty": 10,
+      "instructions": "Drag the appropriate keywords into the blanks to complete the function's if-elif-else structure.",
+      "codeSnippet": "def check_number(n):\n    ___ n > 0:\n        return 'Positive'\n    ___ n == 0:\n        return 'Zero'\n    ___:\n        return 'Negative'",
+      "dropZones": [
+        {
+          "placeholder": "Blank 1",
+          "correctAnswer": "if"
+        },
+        {
+          "placeholder": "Blank 2",
+          "correctAnswer": "elif"
+        },
+        {
+          "placeholder": "Blank 3",
+          "correctAnswer": "else"
+        }
+      ],
+      "draggableItems": ["if", "elif", "else", "for"]
+    }
+  ]
+}

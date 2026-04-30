@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What will the following code output? \n\n```python\nx = 10\nif x > 5:\n    print('Greater than 5')\n```\n",
+        "options": [
+            "Greater than 5",
+            "Less than 5",
+            "No output",
+            "Error"
+        ],
+        "correct_answer": "Greater than 5",
+        "difficulty": 1
+    },
+    {
+        "question": "In the following code snippet, what will be printed? \n\n```python\nx = 3\nif x < 5:\n    print('x is less than 5')\nelse:\n    print('x is 5 or more')\n```",
+        "options": [
+            "x is less than 5",
+            "x is 5 or more",
+            "Error",
+            "No output"
+        ],
+        "correct_answer": "x is less than 5",
+        "difficulty": 2
+    },
+    {
+        "question": "Given the following code, what will the output be? \n\n```python\nx = -1\nif x >= 0:\n    print('Non-negative')\nelse:\n    print('Negative')\n```",
+        "options": [
+            "Non-negative",
+            "Negative",
+            "Zero",
+            "Error"
+        ],
+        "correct_answer": "Negative",
+        "difficulty": 3
+    },
+    {
+        "question": "What will be the output of this code? \n\n```python\nage = 18\nif age < 18:\n    print('Minor')\nelif age == 18:\n    print('Just an adult')\nelse:\n    print('Adult')\n```",
+        "options": [
+            "Minor",
+            "Just an adult",
+            "Adult",
+            "No output"
+        ],
+        "correct_answer": "Just an adult",
+        "difficulty": 4
+    },
+    {
+        "question": "What will be printed by the following code? \n\n```python\nnumber = 0\nif number:\n    print('True')\nelse:\n    print('False')\n```",
+        "options": [
+            "True",
+            "False",
+            "0",
+            "Error"
+        ],
+        "correct_answer": "False",
+        "difficulty": 5
+    },
+    {
+        "question": "What will this code output? \n\n```python\nx = True\nif x:\n    print('x is True')\nelse:\n    print('x is False')\n```",
+        "options": [
+            "x is True",
+            "x is False",
+            "True",
+            "Error"
+        ],
+        "correct_answer": "x is True",
+        "difficulty": 6
+    },
+    {
+        "question": "What will be the output of the following code? \n\n```python\nnum = 10\nif num%2 == 0:\n    print('Even')\nelse:\n    print('Odd')\n```",
+        "options": [
+            "Even",
+            "Odd",
+            "Error",
+            "No output"
+        ],
+        "correct_answer": "Even",
+        "difficulty": 7
+    },
+    {
+        "question": "What will be printed when this code runs? \n\n```python\nx = '5'\nif int(x) == 5:\n    print('Five')\nelse:\n    print('Not Five')\n```",
+        "options": [
+            "Five",
+            "Not Five",
+            "Error",
+            "No output"
+        ],
+        "correct_answer": "Five",
+        "difficulty": 8
+    },
+    {
+        "question": "Consider the following code snippet. What will it output? \n\n```python\ncountry = 'USA'\nif country in ['USA', 'Canada']:\n    print('North America')\nelif country in ['Brazil', 'Argentina']:\n    print('South America')\nelse:\n    print('Other')\n```",
+        "options": [
+            "North America",
+            "South America",
+            "Other",
+            "Error"
+        ],
+        "correct_answer": "North America",
+        "difficulty": 9
+    },
+    {
+        "question": "What will be the output of this complex condition? \n\n```python\nx = 10\nif x >= 10 and x <= 20:\n    print('x is between 10 and 20')\nelif x < 10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 20')\n```",
+        "options": [
+            "x is between 10 and 20",
+            "x is less than 10",
+            "x is greater than 20",
+            "Error"
+        ],
+        "correct_answer": "x is between 10 and 20",
+        "difficulty": 10
+    }
+]

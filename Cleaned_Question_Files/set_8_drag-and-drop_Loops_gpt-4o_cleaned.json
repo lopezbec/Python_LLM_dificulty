@@ -1,0 +1,178 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Match each type of loop to the correct description.",
+      "choices": [
+        "for loop",
+        "while loop"
+      ],
+      "descriptions": [
+        "Executes a block of code a specified number of times.",
+        "Continues to execute a block of code as long as a specified condition remains true."
+      ],
+      "correct_answers": {
+        "for loop": "Executes a block of code a specified number of times.",
+        "while loop": "Continues to execute a block of code as long as a specified condition remains true."
+      }
+    },
+    {
+      "difficulty": 2,
+      "question": "Match each scenario with the most suitable type of loop:",
+      "choices": [
+        "for loop",
+        "while loop"
+      ],
+      "scenarios": [
+        "Iterate over a fixed list of elements.",
+        "Keep asking for user input until they enter 'exit'."
+      ],
+      "correct_answers": {
+        "for loop": "Iterate over a fixed list of elements.",
+        "while loop": "Keep asking for user input until they enter 'exit'."
+      }
+    },
+    {
+      "difficulty": 3,
+      "question": "Match each keyword to its correct role in a loop.",
+      "choices": [
+        "break",
+        "continue"
+      ],
+      "roles": [
+        "Exits the loop prematurely.",
+        "Skips the current iteration and moves to the next one."
+      ],
+      "correct_answers": {
+        "break": "Exits the loop prematurely.",
+        "continue": "Skips the current iteration and moves to the next one."
+      }
+    },
+    {
+      "difficulty": 4,
+      "question": "Pair each loop type with its syntax style in Python.",
+      "choices": [
+        "for loop",
+        "while loop"
+      ],
+      "syntax": [
+        "for i in range(n):",
+        "while condition:"
+      ],
+      "correct_answers": {
+        "for loop": "for i in range(n):",
+        "while loop": "while condition:"
+      }
+    },
+    {
+      "difficulty": 5,
+      "question": "Match each loop with an appropriate use case.",
+      "choices": [
+        "for loop",
+        "while loop"
+      ],
+      "use_cases": [
+        "Count down from 10 to 1.",
+        "Prompt user to guess a number until correct."
+      ],
+      "correct_answers": {
+        "for loop": "Count down from 10 to 1.",
+        "while loop": "Prompt user to guess a number until correct."
+      }
+    },
+    {
+      "difficulty": 6,
+      "question": "Assign each statement to the control structure it affects: loop, function, both, or neither.",
+      "choices": [
+        "break",
+        "return",
+        "pass",
+        "continue"
+      ],
+      "structures": [
+        "loop",
+        "function",
+        "both",
+        "neither"
+      ],
+      "correct_answers": {
+        "break": "loop",
+        "return": "function",
+        "pass": "neither",
+        "continue": "loop"
+      }
+    },
+    {
+      "difficulty": 7,
+      "question": "Assign the output of each loop to the correct result.",
+      "choices": [
+        "Output: 0 1 2 3 4",
+        "Output: 1 2 3 4 5"
+      ],
+      "loops": [
+        {
+          "code": "for i in range(5): print(i)"
+        },
+        {
+          "code": "for i in range(1, 6): print(i)"
+        }
+      ],
+      "correct_answers": {
+        "Output: 0 1 2 3 4": "for i in range(5): print(i)",
+        "Output: 1 2 3 4 5": "for i in range(1, 6): print(i)"
+      }
+    },
+    {
+      "difficulty": 8,
+      "question": "Match each loop with its effect on the given list 'lst = [1, 2, 3, 4]'.",
+      "choices": [
+        "Output: 2 4 6 8",
+        "Output: 1 2 3 4"
+      ],
+      "loops": [
+        {
+          "code": "for i in range(len(lst)): lst[i] *= 2"
+        },
+        {
+          "code": "for i in lst: print(i)"
+        }
+      ],
+      "correct_answers": {
+        "Output: 2 4 6 8": "for i in range(len(lst)): lst[i] *= 2",
+        "Output: 1 2 3 4": "for i in lst: print(i)"
+      }
+    },
+    {
+      "difficulty": 9,
+      "question": "Connect each loop's structure to how it influences iteration.",
+      "choices": [
+        "Uses an index to access elements.",
+        "Directly iterates over elements."
+      ],
+      "structures": [
+        "for i in range(len(lst)):",
+        "for item in lst:"
+      ],
+      "correct_answers": {
+        "Uses an index to access elements.": "for i in range(len(lst)):",
+        "Directly iterates over elements.": "for item in lst:"
+      }
+    },
+    {
+      "difficulty": 10,
+      "question": "Pair each possible infinite loop condition to the scenario preventing it.",
+      "choices": [
+        "while True:",
+        "while condition:"
+      ],
+      "prevention_scenarios": [
+        "Include a 'break' statement within the block.",
+        "Ensure 'condition' evaluates to False eventually."
+      ],
+      "correct_answers": {
+        "while True:": "Include a 'break' statement within the block.",
+        "while condition:": "Ensure 'condition' evaluates to False eventually."
+      }
+    }
+  ]
+}

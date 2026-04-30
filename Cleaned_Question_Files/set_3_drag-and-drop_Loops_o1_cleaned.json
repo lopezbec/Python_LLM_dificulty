@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "difficulty": 1,
+      "questionText": "Drag the correct condition and increment statement to complete this while loop that prints numbers 1 through 3:",
+      "codeSnippet": [
+        "numbers = 1",
+        "while [CONDITION_PLACEHOLDER]:",
+        "    print(numbers)",
+        "    [INCREMENT_PLACEHOLDER]"
+      ],
+      "dragItems": [
+        "numbers < 4",
+        "numbers += 1",
+        "numbers > 3",
+        "numbers -= 1"
+      ],
+      "dropSlots": [
+        "CONDITION_PLACEHOLDER",
+        "INCREMENT_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "CONDITION_PLACEHOLDER": "numbers < 4",
+        "INCREMENT_PLACEHOLDER": "numbers += 1"
+      }
+    },
+    {
+      "questionNumber": 2,
+      "difficulty": 2,
+      "questionText": "Drag the correct range parameters and print statement to create a for loop that prints 0, 1, 2:",
+      "codeSnippet": [
+        "for i in [RANGE_PLACEHOLDER]:",
+        "    [PRINT_PLACEHOLDER]"
+      ],
+      "dragItems": [
+        "range(3)",
+        "range(4, 7)",
+        "print(i)",
+        "print(i + 3)"
+      ],
+      "dropSlots": [
+        "RANGE_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "RANGE_PLACEHOLDER": "range(3)",
+        "PRINT_PLACEHOLDER": "print(i)"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "difficulty": 3,
+      "questionText": "Complete this while loop so that it only prints the even numbers from 2 to 6:",
+      "codeSnippet": [
+        "number = 1",
+        "while number <= 6:",
+        "    number += 1",
+        "    [CONTINUE_CONDITION_PLACEHOLDER]",
+        "    print(number)"
+      ],
+      "dragItems": [
+        "if number % 2 != 0: continue",
+        "if number % 2 == 0: continue",
+        "if number > 6: continue",
+        "if number < 2: continue"
+      ],
+      "dropSlots": [
+        "CONTINUE_CONDITION_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "CONTINUE_CONDITION_PLACEHOLDER": "if number % 2 != 0: continue"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "difficulty": 4,
+      "questionText": "Drag the correct condition and increment to create a while loop that breaks out when the count reaches 3:",
+      "codeSnippet": [
+        "count = 0",
+        "while True:",
+        "    [INCREMENT_PLACEHOLDER]",
+        "    if [BREAK_CONDITION_PLACEHOLDER]:",
+        "        break",
+        "    print(count)"
+      ],
+      "dragItems": [
+        "count += 1",
+        "count = 0",
+        "count == 3",
+        "count > 5"
+      ],
+      "dropSlots": [
+        "INCREMENT_PLACEHOLDER",
+        "BREAK_CONDITION_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "INCREMENT_PLACEHOLDER": "count += 1",
+        "BREAK_CONDITION_PLACEHOLDER": "count == 3"
+      }
+    },
+    {
+      "questionNumber": 5,
+      "difficulty": 5,
+      "questionText": "Complete this for loop to iterate over the given list and print each fruit in uppercase, skipping any fruit that is 'apple':",
+      "codeSnippet": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "    [SKIP_CONDITION_PLACEHOLDER]",
+        "    print([PRINT_PLACEHOLDER])"
+      ],
+      "dragItems": [
+        "if fruit == 'apple': continue",
+        "fruit.upper()",
+        "if fruit != 'apple': continue",
+        "fruit.capitalize()"
+      ],
+      "dropSlots": [
+        "SKIP_CONDITION_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "SKIP_CONDITION_PLACEHOLDER": "if fruit == 'apple': continue",
+        "PRINT_PLACEHOLDER": "fruit.upper()"
+      }
+    },
+    {
+      "questionNumber": 6,
+      "difficulty": 6,
+      "questionText": "Drag the correct range usage and increment logic to print 3 to 1 in descending order using a for loop:",
+      "codeSnippet": [
+        "for i in [RANGE_PLACEHOLDER]:",
+        "    [PRINT_PLACEHOLDER]"
+      ],
+      "dragItems": [
+        "range(3, 0, -1)",
+        "range(1, 4)",
+        "print(i)",
+        "print(i * -1)"
+      ],
+      "dropSlots": [
+        "RANGE_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "RANGE_PLACEHOLDER": "range(3, 0, -1)",
+        "PRINT_PLACEHOLDER": "print(i)"
+      }
+    },
+    {
+      "questionNumber": 7,
+      "difficulty": 7,
+      "questionText": "Complete this nested loop structure so it prints the car brands and their models in a pair, skipping any model containing 'X':",
+      "codeSnippet": [
+        "car_brands = ['BrandA', 'BrandB']",
+        "models = ['XModel', 'YModel', 'ZModel']",
+        "for brand in car_brands:",
+        "    for model in models:",
+        "        [SKIP_CONDITION_PLACEHOLDER]",
+        "        print(brand, model)"
+      ],
+      "dragItems": [
+        "if 'X' in model: continue",
+        "if 'X' in brand: continue",
+        "if model == 'XModel': break",
+        "if brand == 'BrandA': continue"
+      ],
+      "dropSlots": [
+        "SKIP_CONDITION_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "SKIP_CONDITION_PLACEHOLDER": "if 'X' in model: continue"
+      }
+    },
+    {
+      "questionNumber": 8,
+      "difficulty": 8,
+      "questionText": "Fill in the missing range arguments and print statement to iterate from 10 down to 1 (inclusive), halting early if the number is less than 5:",
+      "codeSnippet": [
+        "for num in [RANGE_PLACEHOLDER]:",
+        "    if num < 5:",
+        "        [BREAK_PLACEHOLDER]",
+        "    [PRINT_PLACEHOLDER]"
+      ],
+      "dragItems": [
+        "range(10, 0, -1)",
+        "range(10, 1)",
+        "print(num)",
+        "break",
+        "print(num + 1)",
+        "continue"
+      ],
+      "dropSlots": [
+        "RANGE_PLACEHOLDER",
+        "BREAK_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "RANGE_PLACEHOLDER": "range(10, 0, -1)",
+        "BREAK_PLACEHOLDER": "break",
+        "PRINT_PLACEHOLDER": "print(num)"
+      }
+    },
+    {
+      "questionNumber": 9,
+      "difficulty": 9,
+      "questionText": "Complete the loop to iterate over the indexes of 'my_list' and print only the elements at even indices, skipping odd indices:",
+      "codeSnippet": [
+        "my_list = [10, 20, 30, 40, 50]",
+        "for i in [RANGE_PLACEHOLDER]:",
+        "    [SKIP_CONDITION_PLACEHOLDER]",
+        "    print(my_list[i])"
+      ],
+      "dragItems": [
+        "range(len(my_list))",
+        "range(len(my_list), 0, -1)",
+        "if i % 2 != 0: continue",
+        "if my_list[i] == 30: continue"
+      ],
+      "dropSlots": [
+        "RANGE_PLACEHOLDER",
+        "SKIP_CONDITION_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "RANGE_PLACEHOLDER": "range(len(my_list))",
+        "SKIP_CONDITION_PLACEHOLDER": "if i % 2 != 0: continue"
+      }
+    },
+    {
+      "questionNumber": 10,
+      "difficulty": 10,
+      "questionText": "Drag the correct pieces to form a while loop that repeatedly prompts the user for input until they type 'exit', storing all valid inputs in a list called 'entries':",
+      "codeSnippet": [
+        "entries = []",
+        "while True:",
+        "    user_input = input('Enter something (or exit): ')",
+        "    [EXIT_CONDITION_PLACEHOLDER]",
+        "    [APPEND_PLACEHOLDER]"
+      ],
+      "dragItems": [
+        "if user_input.lower() == 'exit': break",
+        "entries.append(user_input)",
+        "if user_input.lower() == 'exit': continue",
+        "entries.remove(user_input)"
+      ],
+      "dropSlots": [
+        "EXIT_CONDITION_PLACEHOLDER",
+        "APPEND_PLACEHOLDER"
+      ],
+      "correctMatches": {
+        "EXIT_CONDITION_PLACEHOLDER": "if user_input.lower() == 'exit': break",
+        "APPEND_PLACEHOLDER": "entries.append(user_input)"
+      }
+    }
+  ]
+}

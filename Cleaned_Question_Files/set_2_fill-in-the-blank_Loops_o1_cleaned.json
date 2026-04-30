@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "To create a simple loop that counts from 0 to 4, we can write: for i in ______(5).",
+      "difficulty": 1,
+      "answer": "range"
+    },
+    {
+      "question": "A loop that continues running as long as a condition is True is called a ______ loop in Python.",
+      "difficulty": 2,
+      "answer": "while"
+    },
+    {
+      "question": "To exit a loop prematurely, we can use the ______ statement in Python.",
+      "difficulty": 3,
+      "answer": "break"
+    },
+    {
+      "question": "In a loop, the ______ statement lets us skip the rest of the current iteration and move on to the next one.",
+      "difficulty": 4,
+      "answer": "continue"
+    },
+    {
+      "question": "When iterating over a dictionary using a for loop, we typically use the ______ method to get its keys.",
+      "difficulty": 5,
+      "answer": "keys"
+    },
+    {
+      "question": "To get both index and value while looping over a list, we can use the built-in function ______.",
+      "difficulty": 6,
+      "answer": "enumerate"
+    },
+    {
+      "question": "To create a nested loop, you can place one 'for' loop ______ another 'for' loop.",
+      "difficulty": 7,
+      "answer": "inside"
+    },
+    {
+      "question": "A concise way to create a list using a loop in Python is called a ______ comprehension.",
+      "difficulty": 8,
+      "answer": "list"
+    },
+    {
+      "question": "When a 'for' loop completes all its iterations without a 'break', the optional ______ block is executed.",
+      "difficulty": 9,
+      "answer": "else"
+    },
+    {
+      "question": "The module ______ provides specialized tools for creating and working with complex iterators in Python.",
+      "difficulty": 10,
+      "answer": "itertools"
+    }
+  ]
+}

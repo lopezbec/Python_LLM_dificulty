@@ -1,0 +1,201 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Match the loop type with its primary characteristic.",
+      "instruction": "Drag the correct loop type to the drop zone that describes it best.",
+      "drag_items": [
+        "for loop",
+        "while loop"
+      ],
+      "drop_zones": [
+        "Iterates over a sequence of values"
+      ],
+      "correct_mapping": {
+        "Iterates over a sequence of values": "for loop"
+      }
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Complete the for loop to print numbers 0 to 2.",
+      "instruction": "Drag and drop the correct function call to complete the for loop.",
+      "drag_items": [
+        "range(3)",
+        "while True"
+      ],
+      "drop_zones": [
+        "Missing code in: for i in ______:"
+      ],
+      "correct_mapping": {
+        "Missing code in: for i in ______:": "range(3)"
+      }
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Match the loop control keywords with their uses.",
+      "instruction": "Drag the appropriate keyword to each description.",
+      "drag_items": [
+        "break",
+        "continue"
+      ],
+      "drop_zones": [
+        "Keyword to exit the loop immediately",
+        "Keyword to skip the current iteration and continue with the next"
+      ],
+      "correct_mapping": {
+        "Keyword to exit the loop immediately": "break",
+        "Keyword to skip the current iteration and continue with the next": "continue"
+      }
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Arrange the code snippets in the correct order to build a while loop that sums numbers from 1 to 10.",
+      "instruction": "Drag each code fragment to its proper step in the sequence.",
+      "drag_items": [
+        "total = 0",
+        "num = 1",
+        "while num <= 10:",
+        "total += num",
+        "num += 1",
+        "print(total)"
+      ],
+      "drop_zones": [
+        "Step 1: Initialize the accumulator",
+        "Step 2: Initialize the counter",
+        "Step 3: Begin the loop with the correct condition",
+        "Step 4: Add the counter to the accumulator",
+        "Step 5: Increment the counter",
+        "Step 6: Output the result"
+      ],
+      "correct_mapping": {
+        "Step 1: Initialize the accumulator": "total = 0",
+        "Step 2: Initialize the counter": "num = 1",
+        "Step 3: Begin the loop with the correct condition": "while num <= 10:",
+        "Step 4: Add the counter to the accumulator": "total += num",
+        "Step 5: Increment the counter": "num += 1",
+        "Step 6: Output the result": "print(total)"
+      }
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Prevent an infinite loop.",
+      "instruction": "Drag and drop the correct code snippet to update the loop variable within the while loop.",
+      "drag_items": [
+        "i += 1",
+        "i = 0",
+        "continue",
+        "break"
+      ],
+      "drop_zones": [
+        "Missing updater in: while i < 5: print(i) _______"
+      ],
+      "correct_mapping": {
+        "Missing updater in: while i < 5: print(i) _______": "i += 1"
+      }
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Complete the nested loops to print a 3x3 grid.",
+      "instruction": "Drag and drop the correct range generator into both the outer and inner loop drop zones.",
+      "drag_items": [
+        "range(3)",
+        "range(1,4)",
+        "range(10)",
+        "while True"
+      ],
+      "drop_zones": [
+        "Outer loop (iterating 3 times)",
+        "Inner loop (iterating 3 times)"
+      ],
+      "correct_mapping": {
+        "Outer loop (iterating 3 times)": "range(3)",
+        "Inner loop (iterating 3 times)": "range(3)"
+      }
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Understanding the loop 'else' clause.",
+      "instruction": "Drag and drop the correct keyword to complete the code so that the block executes only if the loop is not terminated by a break.",
+      "drag_items": [
+        "else",
+        "finally",
+        "continue",
+        "pass"
+      ],
+      "drop_zones": [
+        "Code keyword that follows the for loop: ______:"
+      ],
+      "correct_mapping": {
+        "Code keyword that follows the for loop: ______:": "else"
+      }
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Convert the for loop into a list comprehension.",
+      "instruction": "Drag and drop the components to form the equivalent list comprehension that produces the same list of squares.",
+      "drag_items": [
+        "squares = [",
+        "i*i",
+        "for i in range(5)",
+        "if ...",
+        "]"
+      ],
+      "drop_zones": [
+        "List assignment start",
+        "Expression to compute square",
+        "For clause",
+        "List closing bracket"
+      ],
+      "correct_mapping": {
+        "List assignment start": "squares = [",
+        "Expression to compute square": "i*i",
+        "For clause": "for i in range(5)",
+        "List closing bracket": "]"
+      }
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Create a list of even numbers from 0 to 9 using a for loop and conditional.",
+      "instruction": "Drag and drop the correct condition to complete the if statement in the code snippet.",
+      "drag_items": [
+        "i % 2 == 0",
+        "i % 2 != 0",
+        "i == 0",
+        "i > 0"
+      ],
+      "drop_zones": [
+        "Missing condition in: if ______:"
+      ],
+      "correct_mapping": {
+        "Missing condition in: if ______:": "i % 2 == 0"
+      }
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Implement a custom iterator by completing the __next__ method.",
+      "instruction": "Drag and drop the correct condition that determines when to stop iteration.",
+      "drag_items": [
+        "self.current >= self.limit",
+        "self.current < self.limit",
+        "while True",
+        "self.current == self.limit"
+      ],
+      "drop_zones": [
+        "Missing if condition in __next__ method (i.e., if ______: raise StopIteration)"
+      ],
+      "correct_mapping": {
+        "Missing if condition in __next__ method (i.e., if ______: raise StopIteration)": "self.current >= self.limit"
+      }
+    }
+  ]
+}

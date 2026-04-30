@@ -1,0 +1,62 @@
+[
+    {
+        "question": "An if statement checks whether a condition is _____ before executing the block of code inside it.",
+        "difficulty": 1,
+        "answer": "True",
+        "correct": true
+    },
+    {
+        "question": "In Python, the keyword used to start an if statement is _____",
+        "difficulty": 2,
+        "answer": "if",
+        "correct": true
+    },
+    {
+        "question": "The else clause in an if statement executes when the condition is _____",
+        "difficulty": 3,
+        "answer": "False",
+        "correct": true
+    },
+    {
+        "question": "To check for multiple conditions, you can use _____ statements after an if statement.",
+        "difficulty": 4,
+        "answer": "elif",
+        "correct": true
+    },
+    {
+        "question": "An if statement can also use _____ operators such as 'and' and 'or' to combine conditions.",
+        "difficulty": 5,
+        "answer": "logical",
+        "correct": true
+    },
+    {
+        "question": "The indentation level for the code block inside an if statement must be consistent, otherwise Python will raise an _____ error.",
+        "difficulty": 6,
+        "answer": "IndentationError",
+        "correct": true
+    },
+    {
+        "question": "In Python, if you want to execute a block only when a variable x is greater than 10, you would write: if x _____ 10:",
+        "difficulty": 7,
+        "answer": ">",
+        "correct": true
+    },
+    {
+        "question": "To nest an if statement inside another, the inner if must be properly _____ to maintain its scope.",
+        "difficulty": 8,
+        "answer": "indented",
+        "correct": true
+    },
+    {
+        "question": "When using an if statement, if no conditions are met, Python will simply _____ without throwing an error.",
+        "difficulty": 9,
+        "answer": "continue",
+        "correct": true
+    },
+    {
+        "question": "The syntax of an if statement ends with a colon (:) and the expected indentation level should be _____ spaces or a tab.",
+        "difficulty": 10,
+        "answer": "4",
+        "correct": true
+    }
+]

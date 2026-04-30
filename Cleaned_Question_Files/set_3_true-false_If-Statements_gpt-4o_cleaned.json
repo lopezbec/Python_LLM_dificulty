@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, an if-statement is used to execute a block of code if a specified condition is true.",
+      "answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "In Python, every if-statement must always be paired with an else-statement.",
+      "answer": false
+    },
+    {
+      "difficulty": 3,
+      "question": "The syntax for an if-statement in Python requires the condition to be followed by a colon (:).",
+      "answer": true
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, the elif keyword is used to specify a new condition to test, if the previous condition was true.",
+      "answer": false
+    },
+    {
+      "difficulty": 5,
+      "question": "In Python, indentation is mandatory to define the block of code under an if-statement.",
+      "answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "In Python, the not operator can be used to reverse the logic of the condition in an if-statement.",
+      "answer": true
+    },
+    {
+      "difficulty": 7,
+      "question": "The expression inside an if-statement in Python can include logical operators like and, or, and not.",
+      "answer": true
+    },
+    {
+      "difficulty": 8,
+      "question": "You can have multiple elif statements following a single if statement but only one else statement.",
+      "answer": true
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python, if-statements are capable of evaluating any object, not just boolean conditions.",
+      "answer": true
+    },
+    {
+      "difficulty": 10,
+      "question": "Python's conditional expressions, often termed as one-liner if-statements, use the syntax: condition if expression else alternative.",
+      "answer": true
+    }
+  ]
+}

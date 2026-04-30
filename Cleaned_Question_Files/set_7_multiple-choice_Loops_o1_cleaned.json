@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which keyword is commonly used to repeat a block of code a set number of times in Python?",
+      "options": ["for", "while", "if", "print"],
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which Python loop continues running as long as a given condition remains True?",
+      "options": ["for loop", "if statement", "while loop", "function"],
+      "correct_answer": "while loop"
+    },
+    {
+      "difficulty": 3,
+      "question": "What is the output of the following code snippet?\n\nfor i in range(2):\n    print(i)",
+      "options": ["0 1", "0 1 2", "2 3", "1 2"],
+      "correct_answer": "0 1"
+    },
+    {
+      "difficulty": 4,
+      "question": "Which statement immediately ends a loop in Python?",
+      "options": ["continue", "break", "pass", "stop"],
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 5,
+      "question": "Given the code snippet below, which statement is true about the output?\n\nfor i in range(5):\n    if i == 2:\n        continue\n    print(i)",
+      "options": [
+        "It skips printing 2 and prints 0, 1, 3, 4",
+        "It ends the loop when i is 2",
+        "It prints all numbers from 0 to 4",
+        "It produces a syntax error"
+      ],
+      "correct_answer": "It skips printing 2 and prints 0, 1, 3, 4"
+    },
+    {
+      "difficulty": 6,
+      "question": "In Python, the 'else' block in a 'for' or 'while' loop executes only if:",
+      "options": [
+        "The loop runs at least one iteration",
+        "A 'break' statement was encountered",
+        "No 'break' statement was encountered during the loop",
+        "The loop has an infinite iteration"
+      ],
+      "correct_answer": "No 'break' statement was encountered during the loop"
+    },
+    {
+      "difficulty": 7,
+      "question": "How many times will 'Hello' be printed?\n\nfor i in range(2):\n    for j in range(2):\n        print('Hello')",
+      "options": ["1 time", "2 times", "3 times", "4 times"],
+      "correct_answer": "4 times"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which best describes the time complexity of the following code snippet?\n\nfor i in range(n):\n    for j in range(n):\n        print(i, j)",
+      "options": ["O(n)", "O(n^2)", "O(n^3)", "O(log n)"],
+      "correct_answer": "O(n^2)"
+    },
+    {
+      "difficulty": 9,
+      "question": "Consider the code snippet:\n\nnumbers = [3, 5, 7]\nfor num in numbers:\n    if num % 2 == 0:\n        print('Even number found:', num)\n        break\nelse:\n    print('No even number found')\n\nWhat is the output?",
+      "options": [
+        "Even number found: 5",
+        "Even number found: 7",
+        "No even number found",
+        "SyntaxError: else must not follow a 'for'"
+      ],
+      "correct_answer": "No even number found"
+    },
+    {
+      "difficulty": 10,
+      "question": "Which of the following statements accurately describes the behavior of 'while True:' when combined with a 'break' statement inside the loop?",
+      "options": [
+        "It will never terminate under any circumstances",
+        "It will terminate only if the break statement is executed, otherwise it loops infinitely",
+        "It automatically ends after one iteration",
+        "It requires an additional 'exit' statement to terminate"
+      ],
+      "correct_answer": "It will terminate only if the break statement is executed, otherwise it loops infinitely"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, the 'if' statement is used to make decisions based on conditions.",
+      "answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "If-statements in Python always require an 'else' clause to execute.",
+      "answer": false
+    },
+    {
+      "difficulty": 3,
+      "question": "You can nest 'if' statements within other 'if' statements in Python.",
+      "answer": true
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, the syntax `if(x > 0): print('positive')` is correct.",
+      "answer": false
+    },
+    {
+      "difficulty": 5,
+      "question": "An 'elif' clause in Python is optional when writing conditional logic.",
+      "answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "Without proper indentation, an 'if' statement in Python will still execute correctly.",
+      "answer": false
+    },
+    {
+      "difficulty": 7,
+      "question": "The condition in an 'if' statement can only be an expression that evaluates to a boolean.",
+      "answer": false
+    },
+    {
+      "difficulty": 8,
+      "question": "A single 'if' statement can have multiple independent conditions evaluated using 'and' or 'or'.",
+      "answer": true
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python, 'else if' is used instead of 'elif' to check multiple conditions.",
+      "answer": false
+    },
+    {
+      "difficulty": 10,
+      "question": "It is possible to write an if-statement with multiple conditions in Python using a combination of logical operators and parentheses to control the order of evaluation.",
+      "answer": true
+    }
+  ]
+}

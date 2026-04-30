@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "type": "drag-and-drop",
+        "difficulty": 1,
+        "topic": "If-Statements",
+        "question": "Arrange the following components to form a basic if-statement in Python.",
+        "options": [
+            "if",
+            "condition",
+            ":",
+            "    # code block"
+        ],
+        "targets": [
+            "Start of if-statement",
+            "Condition part",
+            "End of condition",
+            "Code block indentation"
+        ],
+        "correctAnswer": {
+            "Start of if-statement": "if",
+            "Condition part": "condition",
+            "End of condition": ":",
+            "Code block indentation": "    # code block"
+        }
+    },
+    {
+        "id": 2,
+        "type": "drag-and-drop",
+        "difficulty": 2,
+        "topic": "If-Statements",
+        "question": "Match the if-statement component to its purpose.",
+        "options": [
+            "if",
+            "elif",
+            "else",
+            ":"
+        ],
+        "targets": [
+            "Starts a conditional block",
+            "Checks another condition if previous conditions fail",
+            "Defines the fallback block if all conditions fail",
+            "Ends the condition statement"
+        ],
+        "correctAnswer": {
+            "Starts a conditional block": "if",
+            "Checks another condition if previous conditions fail": "elif",
+            "Defines the fallback block if all conditions fail": "else",
+            "Ends the condition statement": ":"
+        }
+    },
+    {
+        "id": 3,
+        "type": "drag-and-drop",
+        "difficulty": 3,
+        "topic": "If-Statements",
+        "question": "Drag the correct comparison operators to complete the if-statement conditions.",
+        "codeSnippet": "number = 10\nif number __ operator1 __ 5:\n    print('Greater than 5')\nelif number __ operator2 __ 10:\n    print('Equal to 10')\nelse:\n    print('Less than 5')",
+        "options": [
+            ">",
+            "==",
+            "<",
+            ">=",
+            "<="
+        ],
+        "targets": [
+            "operator1",
+            "operator2"
+        ],
+        "correctAnswer": {
+            "operator1": ">",
+            "operator2": "=="
+        }
+    },
+    {
+        "id": 4,
+        "type": "drag-and-drop",
+        "difficulty": 4,
+        "topic": "If-Statements",
+        "question": "Organize the following lines to create a nested if-statement.",
+        "options": [
+            "if x > 0:",
+            "    if x % 2 == 0:",
+            "        print('Positive even number')",
+            "    else:",
+            "        print('Positive odd number')",
+            "else:",
+            "    print('Non-positive number')"
+        ],
+        "targets": [
+            "Line 1",
+            "Line 2",
+            "Line 3",
+            "Line 4",
+            "Line 5",
+            "Line 6",
+            "Line 7"
+        ],
+        "correctAnswer": {
+            "Line 1": "if x > 0:",
+            "Line 2": "    if x % 2 == 0:",
+            "Line 3": "        print('Positive even number')",
+            "Line 4": "    else:",
+            "Line 5": "        print('Positive odd number')",
+            "Line 6": "else:",
+            "Line 7": "    print('Non-positive number')"
+        }
+    },
+    {
+        "id": 5,
+        "type": "drag-and-drop",
+        "difficulty": 5,
+        "topic": "If-Statements",
+        "question": "Complete the if-elif-else structure by dragging the appropriate logical operators.",
+        "codeSnippet": "age = 25\nif age __ operator1 __ 18:\n    print('Minor')\nelif age __ operator2 __ 65:\n    print('Adult')\nelse:\n    print('Senior')",
+        "options": [
+            "<",
+            ">=",
+            "<=",
+            ">",
+            "=="
+        ],
+        "targets": [
+            "operator1",
+            "operator2"
+        ],
+        "correctAnswer": {
+            "operator1": "<",
+            "operator2": "<= "
+        }
+    },
+    {
+        "id": 6,
+        "type": "drag-and-drop",
+        "difficulty": 6,
+        "topic": "If-Statements",
+        "question": "Arrange the following statements to correctly use logical operators in an if-statement.",
+        "options": [
+            "if",
+            "and",
+            "or",
+            "not",
+            "condition1",
+            "condition2",
+            ":",
+            "    # code block"
+        ],
+        "targets": [
+            "Start of if-statement",
+            "First condition",
+            "Logical operator",
+            "Second condition",
+            "End of condition",
+            "Code block indentation"
+        ],
+        "correctAnswer": {
+            "Start of if-statement": "if",
+            "First condition": "condition1",
+            "Logical operator": "and",
+            "Second condition": "condition2",
+            "End of condition": ":",
+            "Code block indentation": "    # code block"
+        }
+    },
+    {
+        "id": 7,
+        "type": "drag-and-drop",
+        "difficulty": 7,
+        "topic": "If-Statements",
+        "question": "Drag the correct statements to handle multiple conditions using elif.",
+        "codeSnippet": "score = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __ operator1 __:\n    grade = 'B'\nelif score >= __ operator2 __:\n    grade = 'C'\nelse:\n    grade = 'F'",
+        "options": [
+            "80",
+            "70",
+            "60",
+            "85",
+            "75"
+        ],
+        "targets": [
+            "operator1",
+            "operator2"
+        ],
+        "correctAnswer": {
+            "operator1": "80",
+            "operator2": "70"
+        }
+    },
+    {
+        "id": 8,
+        "type": "drag-and-drop",
+        "difficulty": 8,
+        "topic": "If-Statements",
+        "question": "Organize the components to create an if-statement with multiple logical conditions.",
+        "options": [
+            "if",
+            "(",
+            ")",
+            "and",
+            "or",
+            "not",
+            "condition1",
+            "condition2",
+            "condition3",
+            ":",
+            "    # code block"
+        ],
+        "targets": [
+            "Start of if-statement",
+            "Opening parenthesis",
+            "First condition",
+            "Logical operator",
+            "Second condition",
+            "Logical operator",
+            "Third condition",
+            "Closing parenthesis",
+            "End of condition",
+            "Code block indentation"
+        ],
+        "correctAnswer": {
+            "Start of if-statement": "if",
+            "Opening parenthesis": "(",
+            "First condition": "condition1",
+            "Logical operator": "and",
+            "Second condition": "condition2",
+            "Logical operator": "or",
+            "Third condition": "condition3",
+            "Closing parenthesis": ")",
+            "End of condition": ":",
+            "Code block indentation": "    # code block"
+        }
+    },
+    {
+        "id": 9,
+        "type": "drag-and-drop",
+        "difficulty": 9,
+        "topic": "If-Statements",
+        "question": "Drag the correct indentation to complete the nested if-else blocks.",
+        "codeSnippet": "x = 15\ny = 20\nif x > 10:\n__ if y > 15:\n____ print('x and y are greater than thresholds')\n__ else:\n____ print('x is greater, y is not')\nelse:\n    print('x is not greater than 10')",
+        "options": [
+            "    ",
+            "        ",
+            "",
+            "        ",
+            ""
+        ],
+        "targets": [
+            "Indentation for inner if",
+            "Indentation for inner if's code",
+            "Indentation for else of inner if",
+            "Indentation for inner else's code",
+            "Indentation for outer else's print statement"
+        ],
+        "correctAnswer": {
+            "Indentation for inner if": "    ",
+            "Indentation for inner if's code": "        ",
+            "Indentation for else of inner if": "    ",
+            "Indentation for inner else's code": "        ",
+            "Indentation for outer else's print statement": ""
+        }
+    },
+    {
+        "id": 10,
+        "type": "drag-and-drop",
+        "difficulty": 10,
+        "topic": "If-Statements",
+        "question": "Arrange the components to implement a complex if-elif-else structure with multiple conditions and nested statements.",
+        "options": [
+            "if",
+            "(",
+            ")",
+            "and",
+            "or",
+            "not",
+            "condition1",
+            "condition2",
+            "condition3",
+            "elif",
+            ":",
+            "else",
+            ":",
+            "    if",
+            "        # nested code block",
+            "    else:",
+            "        # another nested code block",
+            "    # outer code block"
+        ],
+        "targets": [
+            "Line 1",
+            "Line 2",
+            "Line 3",
+            "Line 4",
+            "Line 5",
+            "Line 6",
+            "Line 7",
+            "Line 8",
+            "Line 9",
+            "Line 10",
+            "Line 11",
+            "Line 12",
+            "Line 13",
+            "Line 14",
+            "Line 15",
+            "Line 16",
+            "Line 17",
+            "Line 18"
+        ],
+        "correctAnswer": {
+            "Line 1": "if",
+            "Line 2": "(",
+            "Line 3": "condition1",
+            "Line 4": "and",
+            "Line 5": "condition2",
+            "Line 6": ")",
+            "Line 7": ":",
+            "Line 8": "    if",
+            "Line 9": "(",
+            "Line 10": "condition3",
+            "Line 11": ")",
+            "Line 12": ":",
+            "Line 13": "        # nested code block",
+            "Line 14": "    else:",
+            "Line 15": "        # another nested code block",
+            "Line 16": "    # outer code block",
+            "Line 17": "elif",
+            "Line 18": ":"
+        }
+    }
+]

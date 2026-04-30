@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What will be the output of the following code?\n\n```python\nx = 10\nif x > 5:\n    print('Greater')\n```\n",
+        "options": [
+            "Greater",
+            "Lesser",
+            "Equal",
+            "None"
+        ],
+        "correct_answer": "Greater",
+        "difficulty": 1
+    },
+    {
+        "question": "What will be the output of the following code?\n\n```python\nx = 3\nif x == 3:\n    print('Equal)\nelse:\n    print('Not Equal')\n```\n",
+        "options": [
+            "Equal",
+            "Not Equal",
+            "Error",
+            "None"
+        ],
+        "correct_answer": "Equal",
+        "difficulty": 2
+    },
+    {
+        "question": "If the following code is executed, what will be printed?\n\n```python\nx = 7\nif x > 10:\n    print('High')\nelif x < 5:\n    print('Low')\nelse:\n    print('Medium')\n```\n",
+        "options": [
+            "High",
+            "Low",
+            "Medium",
+            "None"
+        ],
+        "correct_answer": "Medium",
+        "difficulty": 3
+    },
+    {
+        "question": "What will be the output of the given code?\n\n```python\nx = 5\nif x != 5:\n    print('Not 5')\nelse:\n    print('Is 5')\n```\n",
+        "options": [
+            "Not 5",
+            "Is 5",
+            "None",
+            "Error"
+        ],
+        "correct_answer": "Is 5",
+        "difficulty": 4
+    },
+    {
+        "question": "Given the following code, what will be printed?\n\n```python\nx = 10\nif x >= 10:\n    print('Exactly or more')\nelif x < 10:\n    print('Less')\nelse:\n    print('Something else')\n```\n",
+        "options": [
+            "Exactly or more",
+            "Less",
+            "Something else",
+            "None"
+        ],
+        "correct_answer": "Exactly or more",
+        "difficulty": 5
+    },
+    {
+        "question": "What will be the output of the following code snippet?\n\n```python\nx = 20\ny = 15\nif x < 15:\n    print('x is less than y')\nelif y < 15:\n    print('y is less than x')\nelse:\n    print('y is not less')\n```\n",
+        "options": [
+            "x is less than y",
+            "y is less than x",
+            "y is not less",
+            "None"
+        ],
+        "correct_answer": "y is not less",
+        "difficulty": 6
+    },
+    {
+        "question": "What will the following code output?\n\n```python\nx = 12\nif x in [5, 10, 15]:\n    print('Found')\nelse:\n    print('Not Found')\n```\n",
+        "options": [
+            "Found",
+            "Not Found",
+            "Error",
+            "None"
+        ],
+        "correct_answer": "Not Found",
+        "difficulty": 7
+    },
+    {
+        "question": "Analyze the output of this code block:\n\n```python\nx = -1\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')\n```\n",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "None"
+        ],
+        "correct_answer": "Negative",
+        "difficulty": 8
+    },
+    {
+        "question": "Determine the output of the following code:\n\n```python\nx = True\nif x:\n    print('True condition')\nelse:\n    print('False condition')\n```\n",
+        "options": [
+            "True condition",
+            "False condition",
+            "None",
+            "Error"
+        ],
+        "correct_answer": "True condition",
+        "difficulty": 9
+    },
+    {
+        "question": "What will be the output of the following code?\n\n```python\nx = 0\nif x:\n    print('True')\nelif not x:\n    print('False')\nelse:\n    print('Neither')\n```\n",
+        "options": [
+            "True",
+            "False",
+            "Neither",
+            "None"
+        ],
+        "correct_answer": "False",
+        "difficulty": 10
+    }
+]

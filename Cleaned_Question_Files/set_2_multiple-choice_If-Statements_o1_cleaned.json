@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which keyword initiates a simple conditional statement in Python?",
+      "answers": {
+        "A": "if",
+        "B": "for",
+        "C": "while",
+        "D": "loop"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which of the following is a correct Python if statement checking if x is greater than 5?",
+      "answers": {
+        "A": "if x => 5:",
+        "B": "if x > 5:",
+        "C": "if (x) > 5",
+        "D": "if x > 5 then"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 3,
+      "question": "In Python, what is required right after the condition in an if statement?",
+      "answers": {
+        "A": "A semicolon (;)",
+        "B": "A colon (:)",
+        "C": "Double equals (==)",
+        "D": "Nothing special; just a newline"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 4,
+      "question": "What is the purpose of the else clause in an if-else statement?",
+      "answers": {
+        "A": "It executes only when the if condition is True.",
+        "B": "It executes only when the if condition is False.",
+        "C": "It executes if the if condition runs successfully without errors.",
+        "D": "It repeats the if condition until it becomes True."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which statement best describes the elif keyword?",
+      "answers": {
+        "A": "elif immediately ends the program.",
+        "B": "elif is used to check an entirely different condition if the previous conditions are False.",
+        "C": "elif can only be used once in a program.",
+        "D": "elif is an alternative to else, but it lacks a condition."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 6,
+      "question": "Given the code:\n\nx = 'Hello'\nif x == 'Hello':\n    print('Match')\nelse:\n    print('No match')\n\nWhich output will be produced?",
+      "answers": {
+        "A": "No match",
+        "B": "Syntax Error",
+        "C": "Match",
+        "D": "Nothing is printed"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 7,
+      "question": "What will happen if you forget the indentation inside an if statement in Python?",
+      "answers": {
+        "A": "The code will still run without error.",
+        "B": "Python will continue execution with unpredictable behavior.",
+        "C": "Python raises an IndentationError.",
+        "D": "The if statement’s body will become part of the else clause."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which of the following expressions checks if variable a is greater than 5 and b is less than 10?",
+      "answers": {
+        "A": "if a > 5 or b < 10:",
+        "B": "if a and b < 5, 10:",
+        "C": "if (a > 5) and (b < 10):",
+        "D": "if a > 5 < b < 10:"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 9,
+      "question": "Consider the code:\n\nnum = 10\nif num > 5:\n    if num < 15:\n        print('Within range')\n\nWhich condition must be True for 'Within range' to be printed?",
+      "answers": {
+        "A": "num > 15 only",
+        "B": "num < 5 only",
+        "C": "num > 5 and num < 15",
+        "D": "num == 10"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 10,
+      "question": "What is the primary benefit of nesting multiple if statements instead of using a single if statement with complex conditions?",
+      "answers": {
+        "A": "It reduces the need for indentation.",
+        "B": "It always executes faster at runtime.",
+        "C": "It allows more granular checks and can separate logic more clearly.",
+        "D": "It prevents logical short-circuits in multiple conditions."
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}

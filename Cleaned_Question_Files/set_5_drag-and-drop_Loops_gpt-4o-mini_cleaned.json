@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Drag the correct loop type to complete the statement: 'To iterate over a list, we typically use a ____ loop.'",
+      "options": ["for", "while", "do-while", "foreach"],
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Drag the correct keyword to fill in the blanks: 'The ____ loop continues as long as the condition is ____.'",
+      "options": ["for", "while", "break", "continue"],
+      "correct_answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "Complete the code with proper syntax by dragging the correct elements: 'for i in ____: print(i)'",
+      "options": ["range(5)", "5", "index(5)", "list"],
+      "correct_answer": "range(5)"
+    },
+    {
+      "difficulty": 4,
+      "question": "To count down from 10 to 1 using a loop, drag the correct line of code to this blank: 'for i in ____:'",
+      "options": ["range(10, 0, -1)", "range(1, 10)", "range(0, 10)", "range(10, 1)"],
+      "correct_answer": "range(10, 0, -1)"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blanks to properly use a 'break' statement: 'while True: print(num); if num == 5: ____'.",
+      "options": ["continue", "pass", "break", "return"],
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 6,
+      "question": "Drag the correct components to create a nested loop that prints pairs of numbers from 1 to 3: 'for i in range(1, 4): for j in ____:'",
+      "options": ["range(1, 4)", "1, 2, 3", "range(3)", "3 to 1"],
+      "correct_answer": "range(1, 4)"
+    },
+    {
+      "difficulty": 7,
+      "question": "To create an infinite loop, drag the correct keyword into this statement: 'while ____:'",
+      "options": ["True", "False", "1", "None"],
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "Complete this loop using drag-and-drop: 'for i in range(5): print(i); ____'.",
+      "options": ["break", "continue", "pass", "return"],
+      "correct_answer": "pass"
+    },
+    {
+      "difficulty": 9,
+      "question": "To iterate through a dictionary 'my_dict', the correct way to set up the loop is: 'for key, value in ____:'",
+      "options": ["my_dict", "my_dict.items()", "my_dict.keys()", "my_dict.values()"],
+      "correct_answer": "my_dict.items()"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blanks to use a list comprehension effectively: '[x for x in range(10) if ____]'.",
+      "options": ["x % 2 == 0", "x > 5", "x is int", "x < 10"],
+      "correct_answer": "x % 2 == 0"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A 'for' loop can iterate over a string character by character in Python.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "A 'while' loop in Python always runs at least once before checking its condition.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 3,
+      "question": "The 'break' statement in Python ends a loop completely rather than just skipping the current iteration.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 4,
+      "question": "Using 'continue' in a loop ends the entire loop execution immediately.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 5,
+      "question": "You can nest multiple 'for' loops in Python to handle multi-dimensional data sets.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "Without specifying a step, range(5, 1) produces a sequence of integers from 5 down to 2.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 7,
+      "question": "A 'for' loop in Python does not require explicit type declarations for the loop variable.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "A 'while' loop can be designed to run indefinitely, but it's risky if the exit condition is never met.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 9,
+      "question": "By specifying a negative step in the range() function, a for loop can iterate backward.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 10,
+      "question": "The 'break' statement in Python only terminates the innermost loop in which it's used, not all outer loops.",
+      "correct_answer": "True"
+    }
+  ]
+}

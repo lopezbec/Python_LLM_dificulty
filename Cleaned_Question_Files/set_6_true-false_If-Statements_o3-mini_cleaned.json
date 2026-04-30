@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "True or False: In Python, an if statement executes the indented block of code only if the associated condition evaluates to True.",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "True or False: In Python, the condition in an if statement must be enclosed in parentheses.",
+      "correct_answer": false
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "True or False: The colon (:) is required at the end of an if statement header in Python.",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "True or False: It is valid in Python to have multiple independent if statements to evaluate separate conditions.",
+      "correct_answer": true
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "True or False: A Python if-else statement only allows one alternative branch and does not support multiple conditions beyond this pair.",
+      "correct_answer": false
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "True or False: In Python, an else clause following an if statement is executed when the if condition evaluates to False.",
+      "correct_answer": true
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "True or False: In a chained if-elif-else statement, once a condition is satisfied, all subsequent conditions are still evaluated.",
+      "correct_answer": false
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "True or False: The condition in a Python if statement can combine comparison and logical operators, as well as include arithmetic operations.",
+      "correct_answer": true
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "True or False: Using nested if statements in Python allows for more complex decision-making, although excessive nesting can reduce code readability.",
+      "correct_answer": true
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "True or False: In Python, if an if statement references an undefined variable in its condition, the condition automatically evaluates to False without causing a runtime error.",
+      "correct_answer": false
+    }
+  ]
+}

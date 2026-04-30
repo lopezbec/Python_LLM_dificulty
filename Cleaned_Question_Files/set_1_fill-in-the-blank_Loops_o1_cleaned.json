@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill-in-the-blank",
+      "difficulty": 1,
+      "question": "In Python, a ______ loop runs until a certain condition is no longer met.",
+      "correct_answer": "while"
+    },
+    {
+      "id": 2,
+      "type": "fill-in-the-blank",
+      "difficulty": 2,
+      "question": "A ______ loop in Python iterates over a sequence without needing an index variable.",
+      "correct_answer": "for"
+    },
+    {
+      "id": 3,
+      "type": "fill-in-the-blank",
+      "difficulty": 3,
+      "question": "To exit a loop prematurely, we can use the ______ statement.",
+      "correct_answer": "break"
+    },
+    {
+      "id": 4,
+      "type": "fill-in-the-blank",
+      "difficulty": 4,
+      "question": "The '______' statement can be used to skip the current iteration of a loop and continue with the next one.",
+      "correct_answer": "continue"
+    },
+    {
+      "id": 5,
+      "type": "fill-in-the-blank",
+      "difficulty": 5,
+      "question": "A for loop is commonly used when the number of iterations is ______ in advance.",
+      "correct_answer": "known"
+    },
+    {
+      "id": 6,
+      "type": "fill-in-the-blank",
+      "difficulty": 6,
+      "question": "The built-in Python function '_______' can be used to generate a sequence of numbers for a for loop.",
+      "correct_answer": "range"
+    },
+    {
+      "id": 7,
+      "type": "fill-in-the-blank",
+      "difficulty": 7,
+      "question": "To loop over a list using both the index and the element, we can use 'for i, item in ______(my_list):'.",
+      "correct_answer": "enumerate"
+    },
+    {
+      "id": 8,
+      "type": "fill-in-the-blank",
+      "difficulty": 8,
+      "question": "When iterating over multiple iterables at once in a for loop, we can combine them using ______.",
+      "correct_answer": "zip"
+    },
+    {
+      "id": 9,
+      "type": "fill-in-the-blank",
+      "difficulty": 9,
+      "question": "In a list comprehension, the 'if' clause is placed ______ the for clause.",
+      "correct_answer": "after"
+    },
+    {
+      "id": 10,
+      "type": "fill-in-the-blank",
+      "difficulty": 10,
+      "question": "To create a generator expression in Python, we use parentheses instead of ______, allowing iteration without generating the entire list in memory.",
+      "correct_answer": "brackets"
+    }
+  ]
+}

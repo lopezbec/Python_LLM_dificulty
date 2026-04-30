@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Python's 'if' statements can evaluate conditions to determine the flow of execution.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "An 'if' statement in Python must always be followed by an 'else' statement.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 3,
+      "question": "The colon at the end of an 'if' statement in Python is optional.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, the indentation level is irrelevant in the blocks following an 'if' statement.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 5,
+      "question": "Python's 'if' statements can be nested within other 'if' statements.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "The 'elif' keyword is used to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions is TRUE.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 7,
+      "question": "It is possible to combine multiple conditions in a single 'if' statement using logical operators in Python.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "In Python, an 'else' statement can exist without a preceding 'if' statement.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 9,
+      "question": "The 'pass' statement can be used in an 'if' block to avoid syntax errors when no action is to be performed.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 10,
+      "question": "In Python, 'if' statements can only compare equality and cannot use operators like '<' or '!='.",
+      "answer": "False"
+    }
+  ]
+}

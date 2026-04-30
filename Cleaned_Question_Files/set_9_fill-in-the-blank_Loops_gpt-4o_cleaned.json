@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a simple loop can be created using the ___ keyword.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "In a for loop, the ___ function is commonly used to iterate a specific number of times.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 3,
+      "question": "The ___ keyword can be used inside a loop to skip the current iteration and continue with the next one.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 4,
+      "question": "For a loop to iterate over each character in a string named 'text', we can write: for char in ___.",
+      "answer": "text"
+    },
+    {
+      "difficulty": 5,
+      "question": "To create an infinite loop using a while loop, the condition should always evaluate to ___.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "In a nested loop, the loop inside another loop is commonly referred to as the ___ loop.",
+      "answer": "inner"
+    },
+    {
+      "difficulty": 7,
+      "question": "The ___ statement in Python is used to exit a loop prematurely, skipping all remaining iterations.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 8,
+      "question": "List comprehension can be used as an alternative to loops for creating lists and involves expressions and ___ in a single line.",
+      "answer": "iterables"
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python, a loop that decreases the value of a counter and runs backwards can be created by using the 'range' function with a negative ___.",
+      "answer": "step"
+    },
+    {
+      "difficulty": 10,
+      "question": "A loop that iterates over elements in a list while keeping track of both index and value can be created using the ___ function alongside 'enumerate'.",
+      "answer": "for"
+    }
+  ]
+}

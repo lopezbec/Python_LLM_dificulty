@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "What keyword is used to create a loop in Python?",
+      "options": ["loop", "for", "repeat", "iterate"],
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "What will be the output of the following code: print(list(range(5)))?",
+      "options": ["[1, 2, 3, 4, 5]", "[0, 1, 2, 3, 4]", "[5]", "Error"],
+      "answer": "[0, 1, 2, 3, 4]"
+    },
+    {
+      "difficulty": 3,
+      "question": "Which of the following is a valid while loop structure in Python?",
+      "options": ["while (x < 5):", "while x < 5:", "while x < 5{}", "while: x < 5"],
+      "answer": "while x < 5:"
+    },
+    {
+      "difficulty": 4,
+      "question": "What is the output of the following code? x = 0; while x < 3: print(x); x += 1",
+      "options": ["1 2 3", "0 1 2 3", "0 1 2", "0 2"],
+      "answer": "0 1 2"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which of the following statements will terminate a loop immediately?",
+      "options": ["continue", "return", "break", "exit"],
+      "answer": "break"
+    },
+    {
+      "difficulty": 6,
+      "question": "Given the following code snippet, what will be the final value of 'count'? count = 0; for i in range(4): count += 2",
+      "options": ["2", "4", "6", "8"],
+      "answer": "8"
+    },
+    {
+      "difficulty": 7,
+      "question": "In a nested loop situation, which loop runs the most times if both have equal iterations?",
+      "options": ["Outer loop", "Inner loop", "Both run equal", "It depends on the condition"],
+      "answer": "Inner loop"
+    },
+    {
+      "difficulty": 8,
+      "question": "What does the following code segment print? for i in range(5): if i == 3: break; print(i)",
+      "options": ["0 1 2 3", "0 1 2", "0 1 2 3 4", "3"],
+      "answer": "0 1 2"
+    },
+    {
+      "difficulty": 9,
+      "question": "Which of the following loop structures can potentially cause an infinite loop?",
+      "options": ["for i in range(10):", "while True:", "for i in iter(range(10)):", "while i < n:"],
+      "answer": "while True:"
+    },
+    {
+      "difficulty": 10,
+      "question": "What will be the output of the following code? for i in range(1, 5, 2): print(i ** 2)", 
+      "options": ["1 4 9 16", "1 9", "4 16", "1 16"],
+      "answer": "1 9"
+    }
+  ]
+}

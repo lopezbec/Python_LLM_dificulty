@@ -1,0 +1,62 @@
+[
+  {
+    "difficulty": 1,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to complete the if statement in Python:\n\nif x > 10 ___",
+    "answer": ":"
+  },
+  {
+    "difficulty": 2,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to execute code when the condition is false:\n\nif y == 5:\n    print(\"Five\")\n___:",
+    "answer": "else"
+  },
+  {
+    "difficulty": 3,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to check an additional condition after the first if statement:\n\nif a > b:\n    print(\"a is greater\")\n___ a == b:\n    print(\"a and b are equal\")",
+    "answer": "elif"
+  },
+  {
+    "difficulty": 4,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to combine two conditions using logical AND:\n\nif x > 0 ___ y > 0:\n    print(\"Both positive\")",
+    "answer": "and"
+  },
+  {
+    "difficulty": 5,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to create a nested if statement:\n\nif score >= 50:\n    if score >= 75:\n        print(\"Pass with distinction\")\n    ___:\n        print(\"Pass\")\nelse:\n    print(\"Fail\")",
+    "answer": "else"
+  },
+  {
+    "difficulty": 6,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use a comparison operator for inequality in an if statement:\n\nif user_input ___ \"yes\":\n    proceed()",
+    "answer": "!="
+  },
+  {
+    "difficulty": 7,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use a ternary conditional operator in Python:\n\nresult = \"Adult\" ___ age >= 18 ___ \"Minor\"",
+    "answer": "if"
+  },
+  {
+    "difficulty": 8,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to handle multiple exclusive conditions using logical OR:\n\nif temperature < 0 ___ temperature > 100:\n    print(\"Extreme temperature\")",
+    "answer": "or"
+  },
+  {
+    "difficulty": 9,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to prevent code execution when the condition is true without doing anything:\n\nif debug_mode:\n    ___",
+    "answer": "pass"
+  },
+  {
+    "difficulty": 10,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use an if statement within a list comprehension to include only even numbers:\n\neven_numbers = [num for num in range(10) ___ num % 2 == 0]",
+    "answer": "if"
+  }
+]

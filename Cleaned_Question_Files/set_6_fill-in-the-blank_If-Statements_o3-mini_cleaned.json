@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank to create a simple if statement in Python. For example:\n\n___ x > 0:\n    print('Positive')",
+      "answer": "if"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank to complete the if-else structure. For example:\n\nif x < 10:\n    print('Small')\n______:\n    print('Large')",
+      "answer": "else"
+    },
+    {
+      "difficulty": 3,
+      "question": "Complete the following if-elif-else statement by filling in the blank:\n\nif x == 0:\n    print('Zero')\n______ x > 0:\n    print('Positive')\nelse:\n    print('Negative')",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank to complete the nested if statement which checks if x is even:\n\nif x > 0:\n    if ______:\n         print('x is even')",
+      "answer": "x % 2 == 0"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank to complete the condition that verifies if the score is at least 50:\n\nscore = 60\nif score ______:\n    print('Passed')",
+      "answer": ">= 50"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank with the correct punctuation to complete the if statement:\n\nif x != 10______\n    print('x is not 10')",
+      "answer": ":"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank to complete the if statement that checks if x is between 5 and 10:\n\nif ______:\n    print('x is between 5 and 10')",
+      "answer": "x > 5 and x < 10"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank to correctly start the if statement inside the function:\n\ndef is_positive(num):\n    ______ num > 0:\n         return True\n    return False",
+      "answer": "if"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank to complete the one-line if-else (ternary) expression that assigns 'Pass' if score is at least 50, otherwise 'Fail':\n\nscore = 75\nresult = 'Pass' ______ 'Fail'",
+      "answer": "if score >= 50 else"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank to complete the one-line if-else statement that prints 'Medium' if x is between 5 and 10 (inclusive), otherwise prints 'Not Medium':\n\nx = 7\nprint('Medium') if ______ else print('Not Medium')",
+      "answer": "5 <= x <= 10"
+    }
+  ]
+}

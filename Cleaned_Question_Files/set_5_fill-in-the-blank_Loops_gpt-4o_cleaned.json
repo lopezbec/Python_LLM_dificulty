@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a simple loop structure that iterates over each item in a list is a __________ loop.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "The __________ function in Python can be used within a loop to exit the loop prematurely.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 3,
+      "question": "To iterate over a range of numbers from 0 to 4, you would use the syntax __________.",
+      "answer": "range(5)"
+    },
+    {
+      "difficulty": 4,
+      "question": "In a 'while' loop, the loop continues as long as the __________ expression evaluates to True.",
+      "answer": "condition"
+    },
+    {
+      "difficulty": 5,
+      "question": "To skip the current iteration and move to the next one, use the __________ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 6,
+      "question": "When using nested loops, the __________ loop is executed once for each iteration of the outer loop.",
+      "answer": "inner"
+    },
+    {
+      "difficulty": 7,
+      "question": "You can iterate over a dictionary's keys and values at the same time by using the __________ method.",
+      "answer": "items"
+    },
+    {
+      "difficulty": 8,
+      "question": "To avoid an infinite loop with a 'while' loop, ensure that the __________ variable changes with each iteration.",
+      "answer": "control"
+    },
+    {
+      "difficulty": 9,
+      "question": "A 'for' loop with the syntax 'for i in range(start, stop, step)' will increment by __________ each time.",
+      "answer": "step"
+    },
+    {
+      "difficulty": 10,
+      "question": "List comprehension provides a concise way to create lists by writing the 'for' loop inside the __________ of a list.",
+      "answer": "brackets"
+    }
+  ]
+}

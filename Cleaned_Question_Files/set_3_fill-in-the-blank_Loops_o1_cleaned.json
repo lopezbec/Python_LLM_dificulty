@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "type": "fill-in-the-blank",
+      "question": "In Python, the '___' loop is commonly used to iterate over a sequence of elements.",
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "type": "fill-in-the-blank",
+      "question": "The '___' loop in Python continues to run as long as a specified condition remains True.",
+      "correct_answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "type": "fill-in-the-blank",
+      "question": "In Python, the '___' statement is used to exit a loop prematurely.",
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "type": "fill-in-the-blank",
+      "question": "In a 'for' loop, you can generate a series of numbers using the built-in function '___'.",
+      "correct_answer": "range"
+    },
+    {
+      "difficulty": 5,
+      "type": "fill-in-the-blank",
+      "question": "In Python, a '___' statement inside a loop can be used to skip the rest of the current iteration and continue with the next iteration.",
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 6,
+      "type": "fill-in-the-blank",
+      "question": "When using 'for index, value in enumerate(my_list):', the variable '___' stores the index of the current item.",
+      "correct_answer": "index"
+    },
+    {
+      "difficulty": 7,
+      "type": "fill-in-the-blank",
+      "question": "To create a loop that goes from 10 down to 1 in steps of -1, we can use range(10, 0, ___).",
+      "correct_answer": "-1"
+    },
+    {
+      "difficulty": 8,
+      "type": "fill-in-the-blank",
+      "question": "Nested loops are loops placed inside another loop. The outer loop runs first, then the inner loop executes its entire cycle for each iteration of the '___' loop.",
+      "correct_answer": "outer"
+    },
+    {
+      "difficulty": 9,
+      "type": "fill-in-the-blank",
+      "question": "When using a 'while' loop, you must manually change the loop variable's value to avoid creating an '___' loop.",
+      "correct_answer": "infinite"
+    },
+    {
+      "difficulty": 10,
+      "type": "fill-in-the-blank",
+      "question": "List comprehensions use a 'for' loop to construct a new list in a concise way. For example, [x**2 for x in range(5)] uses a 'for x in range(5)' loop and returns a '___' of squared numbers.",
+      "correct_answer": "list"
+    }
+  ]
+}

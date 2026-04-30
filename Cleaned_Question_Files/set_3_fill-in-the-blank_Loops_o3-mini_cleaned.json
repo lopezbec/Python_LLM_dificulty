@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank: In Python, the keyword __ is used to start a for loop.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank: In the for loop statement 'for x __ [1, 2, 3]:', the missing keyword is __.",
+      "answer": "in"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank: In a while loop, the statement __ is used to immediately exit the loop.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank: In a loop, if you want to skip the rest of the current iteration and move to the next one, you use the __ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank: Given the code snippet 'for i in range(3):\\n    for j in range(4):\\n        print(i, j)', the inner loop completes __ iterations for each iteration of the outer loop.",
+      "answer": "4"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank: A loop that never terminates due to an improperly updated condition is called an __ loop.",
+      "answer": "infinite"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank: The built-in function __ returns a range of numbers and is commonly used for iteration in for loops.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank: When iterating over a string using a for loop, each iteration assigns a single __ from the string.",
+      "answer": "character"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank: The function __ is useful when you need both the index and the item during iteration of a sequence.",
+      "answer": "enumerate"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank: To iterate over a sequence in reverse order using a for loop, you can use the __ function.",
+      "answer": "reversed"
+    }
+  ]
+}

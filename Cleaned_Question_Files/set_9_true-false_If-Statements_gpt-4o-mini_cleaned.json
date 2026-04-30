@@ -1,0 +1,52 @@
+[
+    {
+        "question": "An if-statement can control the flow of a program by executing a block of code only if a specified condition is true.",
+        "difficulty": 1,
+        "answer": true
+    },
+    {
+        "question": "If the condition in an if-statement is false, the code inside the if block will execute.",
+        "difficulty": 2,
+        "answer": false
+    },
+    {
+        "question": "An if-statement can be followed by one or more else if and else statements to provide additional conditional checks.",
+        "difficulty": 3,
+        "answer": true
+    },
+    {
+        "question": "In Python, the keyword 'elif' is used to specify an additional condition in a chain of if-statement evaluations.",
+        "difficulty": 4,
+        "answer": true
+    },
+    {
+        "question": "If-else statements in Python can only be used with boolean values; other data types cannot be used as conditions.",
+        "difficulty": 5,
+        "answer": false
+    },
+    {
+        "question": "An if-statement can be used to check for multiple conditions using logical operators such as 'and' and 'or'.",
+        "difficulty": 6,
+        "answer": true
+    },
+    {
+        "question": "A single if-statement cannot have more than one condition in its expression.",
+        "difficulty": 7,
+        "answer": false
+    },
+    {
+        "question": "Using 'if x == 10:' in Python checks if the variable x is equal to 10.",
+        "difficulty": 8,
+        "answer": true
+    },
+    {
+        "question": "If none of the conditions in an if-else chain are true, the code block under the last else statement will always execute.",
+        "difficulty": 9,
+        "answer": true
+    },
+    {
+        "question": "An if-statement in Python can be placed on a single line, which simplifies the code for very short conditions.",
+        "difficulty": 10,
+        "answer": true
+    }
+]

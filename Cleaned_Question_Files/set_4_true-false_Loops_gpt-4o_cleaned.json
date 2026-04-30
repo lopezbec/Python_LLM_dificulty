@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "A 'while' loop in Python executes a block of code as long as the condition is true.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "A 'for' loop in Python cannot iterate over a string.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "The 'range' function in a 'for' loop generates numbers starting from 0 by default.",
+            "answer": true
+        },
+        {
+            "difficulty": 4,
+            "question": "You must use an iterable object in a 'for' loop in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 5,
+            "question": "The 'break' statement can only be used inside a 'while' loop.",
+            "answer": false
+        },
+        {
+            "difficulty": 6,
+            "question": "A 'for' loop can have an 'else' block that executes if the loop is not terminated by a 'break' statement.",
+            "answer": true
+        },
+        {
+            "difficulty": 7,
+            "question": "A 'continue' statement skips all remaining iterations of the loop.",
+            "answer": false
+        },
+        {
+            "difficulty": 8,
+            "question": "Nested loops can have multiple 'break' statements in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 9,
+            "question": "It is possible to modify the list you are iterating over within a 'for' loop without causing any issues.",
+            "answer": false
+        },
+        {
+            "difficulty": 10,
+            "question": "Using a 'while True:' loop is an efficient way to optimize memory usage compared to a finite 'for' loop.",
+            "answer": false
+        }
+    ]
+}

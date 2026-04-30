@@ -1,0 +1,52 @@
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, an if-statement is used to execute a block of code only if a specified condition is true.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "In Python, the condition in an if-statement must explicitly evaluate to a boolean value (True or False).",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "In Python, indentation is used to define the scope of the code block inside an if-statement.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "A single line in Python can contain both the if-statement condition and its corresponding code block.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the else clause of an if-statement is executed only when the if condition evaluates to False.",
+    "answer": true
+  },
+  {
+    "difficulty": 6,
+    "question": "Python allows the use of multiple elif clauses in an if-else statement to handle multiple conditions.",
+    "answer": true
+  },
+  {
+    "difficulty": 7,
+    "question": "In Python, you can combine multiple conditions in an if-statement using logical operators like 'and' and 'or'.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "Variables defined inside an if-statement in Python are confined to the if-block and cannot be accessed outside of it.",
+    "answer": false
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, an if-statement can evaluate multiple conditions simultaneously without using logical operators.",
+    "answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "Within a loop in Python, the condition of an if-statement is re-evaluated each time the loop iterates.",
+    "answer": true
+  }
+]

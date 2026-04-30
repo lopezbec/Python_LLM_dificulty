@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A 'while' loop will continue to execute as long as its condition is True.",
+      "answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "The 'for' loop is designed to iterate over a sequence like lists, strings, or range objects.",
+      "answer": true
+    },
+    {
+      "difficulty": 3,
+      "question": "A 'break' statement in a loop will cause the loop to skip the current iteration.",
+      "answer": false
+    },
+    {
+      "difficulty": 4,
+      "question": "The 'continue' statement in a loop stops the execution of the loop entirely.",
+      "answer": false
+    },
+    {
+      "difficulty": 5,
+      "question": "Nested loops can exist in Python, where one loop runs inside another loop.",
+      "answer": true
+    },
+    {
+      "difficulty": 6,
+      "question": "If a 'while' loop's condition is always False, the loop will still execute at least once.",
+      "answer": false
+    },
+    {
+      "difficulty": 7,
+      "question": "Using 'else' with a loop will execute the 'else' block only if the loop finishes its iterations normally.",
+      "answer": true
+    },
+    {
+      "difficulty": 8,
+      "question": "Infinite loops can occur when the loop's exit condition is never met or reached.",
+      "answer": true
+    },
+    {
+      "difficulty": 9,
+      "question": "A 'for' loop can iterate over dictionaries directly without any additional functions.",
+      "answer": true
+    },
+    {
+      "difficulty": 10,
+      "question": "The 'zip()' function can be used in conjunction with loops to iterate over multiple sequences in parallel.",
+      "answer": true
+    }
+  ]
+}

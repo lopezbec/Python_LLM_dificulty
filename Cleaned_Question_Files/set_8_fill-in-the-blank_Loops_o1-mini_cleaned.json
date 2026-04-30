@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Fill in the blank: The keyword used to start a loop that repeats a block of code while a condition is true is ____. ",
+    "answer": "while"
+  },
+  {
+    "question": "Fill in the blank: In Python, the keyword used to iterate over a sequence of items is ____. ",
+    "answer": "for"
+  },
+  {
+    "question": "Fill in the blank: Inside a loop, the ____ statement is used to skip the rest of the current iteration and continue with the next one.",
+    "answer": "continue"
+  },
+  {
+    "question": "Fill in the blank: To immediately exit a loop, regardless of the loop condition, you use the ____ statement.",
+    "answer": "break"
+  },
+  {
+    "question": "Fill in the blank: When you need both the index and the value of items in a list during iteration, you can use the ____ function in a for loop.",
+    "answer": "enumerate"
+  },
+  {
+    "question": "Fill in the blank: A loop structure where one loop runs inside another loop is known as a ____ loop.",
+    "answer": "nested"
+  },
+  {
+    "question": "Fill in the blank: To generate a sequence of numbers, commonly used with loops, the built-in function ____ is often utilized.",
+    "answer": "range"
+  },
+  {
+    "question": "Fill in the blank: Unlike while and for loops, Python does not have a built-in ____ loop that executes the loop body at least once before checking the condition.",
+    "answer": "do-while"
+  },
+  {
+    "question": "Fill in the blank: In a list comprehension, the loop is placed inside ____ which allows for the creation of a new list based on the existing one.",
+    "answer": "square brackets"
+  },
+  {
+    "question": "Fill in the blank: Using a generator expression within a loop allows for iteration over data streams without holding the entire sequence in ____. ",
+    "answer": "memory"
+  }
+]

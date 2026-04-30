@@ -1,0 +1,133 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Drag and drop the correct keyword into the blank to create a valid if-statement that checks if variable 'x' is greater than 0.",
+      "codeSnippet": "____ x > 0:\n    print('x is positive')",
+      "dragItems": ["if"],
+      "dropTargets": ["drop1"],
+      "correctMatches": {
+        "drop1": "if"
+      }
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Drag and drop the tokens to complete the if-statement condition that checks if the variable 'x' is greater than 0.",
+      "codeSnippet": "if ____ ____ ____:\n    print('x is positive')",
+      "dragItems": ["x", ">", "0"],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "x",
+        "drop2": ">",
+        "drop3": "0"
+      }
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Drag and drop the correct keywords and operator to complete the if-else statement that checks if 'x' is greater than 0.",
+      "codeSnippet": "____ x ____ 0:\n    print('Positive')\n____:\n    print('Non-positive')",
+      "dragItems": ["if", ">", "else"],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": ">",
+        "drop3": "else"
+      }
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Drag and drop the correct keywords to complete the nested if-statement that checks if 'x' is positive and even.",
+      "codeSnippet": "____ x > 0:\n    ____ x % 2 ____ 0:\n        print('x is positive and even')",
+      "dragItems": ["if", "if", "=="],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "if",
+        "drop3": "=="
+      }
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Drag and drop the correct keywords to complete the if-elif-else statement that evaluates the sign of 'x'.",
+      "codeSnippet": "____ x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\n____:\n    print('Negative')",
+      "dragItems": ["if", "elif", "else"],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "elif",
+        "drop3": "else"
+      }
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Drag and drop the correct logical operators to complete the if-statement that checks if 'x' and 'y' are positive and not equal.",
+      "codeSnippet": "if x > 0 ____ y > 0 ____ x != y:\n    print('x and y are positive and different')",
+      "dragItems": ["and", "and"],
+      "dropTargets": ["drop1", "drop2"],
+      "correctMatches": {
+        "drop1": "and",
+        "drop2": "and"
+      }
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Drag and drop the correct keywords and logical operators to complete the compound condition that checks if 'x' is positive and divisible by both 2 and 3.",
+      "codeSnippet": "____ x > 0 ____ (x % 2 == 0 ____ x % 3 == 0):\n    print('x is positive and divisible by 2 and 3')",
+      "dragItems": ["if", "and", "and"],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "and",
+        "drop3": "and"
+      }
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Drag and drop the correct keyword and operators to complete the if-statement that checks if 'x' is between 10 and 20 (inclusive) and if 'y' is not equal to 0.",
+      "codeSnippet": "____ (10 <= x <= 20) ____ (y ____ 0):\n    print('Valid input')",
+      "dragItems": ["if", "and", "!="],
+      "dropTargets": ["drop1", "drop2", "drop3"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "and",
+        "drop3": "!="
+      }
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Drag and drop the correct keywords and operator to complete a nested if-else structure that distinguishes between positive even, positive odd, and non-positive values of 'x'.",
+      "codeSnippet": "____ x > 0:\n    if x % 2 ____ 0:\n        print('Positive even')\n    ____:\n        print('Positive odd')\n____:\n    print('Non-positive')",
+      "dragItems": ["if", "==", "else", "else"],
+      "dropTargets": ["drop1", "drop2", "drop3", "drop4"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "==",
+        "drop3": "else",
+        "drop4": "else"
+      }
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Drag and drop the correct keywords and operator to complete the multi-branch if statement that checks which numerical range 'x' falls into.",
+      "codeSnippet": "____ x >= 10 and x <= 20:\n    print('x is between 10 and 20')\n____ x > 20 ____ x < 30:\n    print('x is between 21 and 29')\n____:\n    print('x is out of range')",
+      "dragItems": ["if", "elif", "and", "else"],
+      "dropTargets": ["drop1", "drop2", "drop3", "drop4"],
+      "correctMatches": {
+        "drop1": "if",
+        "drop2": "elif",
+        "drop3": "and",
+        "drop4": "else"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question_text": "Drag the lines into the correct order to create a simple for loop that prints 1, 2, 3, then 'Done!'.",
+      "choices": [
+        "print('Done!')",
+        "for i in range(1, 4):",
+        "print(i)"
+      ],
+      "correct_order": [2, 3, 1]
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question_text": "Arrange the snippets to form a while loop that prints 1, 2, 3.",
+      "choices": [
+        "print(x)",
+        "x = 1",
+        "while x <= 3:",
+        "x += 1"
+      ],
+      "correct_order": [2, 3, 1, 4]
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question_text": "Rearrange these lines to construct a for loop that stops printing once it reaches 3.",
+      "choices": [
+        "if i == 3: break",
+        "for i in range(5):",
+        "print(i)"
+      ],
+      "correct_order": [2, 1, 3]
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question_text": "Put the lines in order to create a for loop that skips printing the letter 'a' in the string 'banana'.",
+      "choices": [
+        "if char == 'a': continue",
+        "print(char)",
+        "for char in 'banana':"
+      ],
+      "correct_order": [3, 1, 2]
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question_text": "Rearrange these lines to form nested loops that print all (x, y) pairs for x, y in range(2).",
+      "choices": [
+        "for y in range(2):",
+        "for x in range(2):",
+        "print(x, y)"
+      ],
+      "correct_order": [2, 1, 3]
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question_text": "Drag these snippets into place to build a while loop that uses both continue and break statements, printing x values accordingly.",
+      "choices": [
+        "x = 0",
+        "while x < 5:",
+        "x += 1",
+        "if x == 2: continue",
+        "if x == 4: break",
+        "print(x)"
+      ],
+      "correct_order": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question_text": "Put these lines in the correct order to write a for/else loop checking for an even number between 2 and 4. If found, it breaks; otherwise, it prints a message.",
+      "choices": [
+        "for i in range(2, 5):",
+        "if i % 2 == 0:",
+        "print('Found an even number:', i)",
+        "break",
+        "else:",
+        "print('No even number found.')"
+      ],
+      "correct_order": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question_text": "Arrange the lines to form a loop using enumerate to print both index and fruit in the list ['apple', 'banana', 'cherry'].",
+      "choices": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for index, fruit in enumerate(fruits):",
+        "print(index, fruit)"
+      ],
+      "correct_order": [1, 2, 3]
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question_text": "Reorder these lines to build a loop that prints the numbers 2, 1, 0 using reversed().",
+      "choices": [
+        "for i in reversed(range(3)):",
+        "print(i)"
+      ],
+      "correct_order": [1, 2]
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question_text": "Rearrange these lines to create a nested loop that prints a triangle of asterisks using range(1, 4).",
+      "choices": [
+        "for i in range(1, 4):",
+        "for j in range(i):",
+        "print('*', end='')",
+        "print()"
+      ],
+      "correct_order": [1, 2, 3, 4]
+    }
+  ]
+}

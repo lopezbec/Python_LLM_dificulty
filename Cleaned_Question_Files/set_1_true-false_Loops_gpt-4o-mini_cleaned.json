@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "A 'for' loop in Python can only iterate over lists.",
+      "answer": false,
+      "difficulty": 1
+    },
+    {
+      "question": "The 'while' loop will always execute at least once in Python.",
+      "answer": false,
+      "difficulty": 2
+    },
+    {
+      "question": "The 'break' statement can be used to exit a loop prematurely.",
+      "answer": true,
+      "difficulty": 3
+    },
+    {
+      "question": "In Python, the range function generates numbers up to but not including the specified endpoint.",
+      "answer": true,
+      "difficulty": 4
+    },
+    {
+      "question": "Using 'continue' within a loop will stop the loop's execution entirely.",
+      "answer": false,
+      "difficulty": 5
+    },
+    {
+      "question": "Nested loops can be used in Python, where a loop is placed inside another loop.",
+      "answer": true,
+      "difficulty": 6
+    },
+    {
+      "question": "An infinite loop in Python can be created using 'while True:'.",
+      "answer": true,
+      "difficulty": 7
+    },
+    {
+      "question": "The 'else' clause can be applied to a loop that executes after the loop finishes and no 'break' is encountered.",
+      "answer": true,
+      "difficulty": 8
+    },
+    {
+      "question": "When using a 'for' loop, the variable in the loop's declaration cannot be used outside of the loop.",
+      "answer": false,
+      "difficulty": 9
+    },
+    {
+      "question": "You can use a loop to iterate over a dictionary's keys, values, or items in Python.",
+      "answer": true,
+      "difficulty": 10
+    }
+  ]
+}

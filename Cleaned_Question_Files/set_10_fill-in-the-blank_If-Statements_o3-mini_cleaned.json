@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank: In Python, the keyword ______ is used to begin a conditional statement.",
+      "answer": "if"
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank: In an if statement, the clause that runs when the condition is false is written using the keyword ______.",
+      "answer": "else"
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank: To compare if two values are equal in a Python if-statement, you use the ______ operator.",
+      "answer": "=="
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank: When checking if two values are not equal in an if-statement, you use the ______ operator.",
+      "answer": "!="
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank: In an if statement, to ensure that two conditions are both True, you join them with the ______ operator.",
+      "answer": "and"
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank: To check if at least one out of multiple conditions is True in an if-statement, you use the ______ operator.",
+      "answer": "or"
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank: When nesting an if statement inside another in Python, the nested block must be ______ relative to the outer block.",
+      "answer": "indented"
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Fill in the blank: In an if-elif-else structure, the keyword ______ is used to test another condition if the previous 'if' condition is False.",
+      "answer": "elif"
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank: In Python, the operator ______ is used to reverse the truth value of a condition.",
+      "answer": "not"
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank: Identify the missing keyword in the following code snippet:\n\nif x > 10:\n    print('Greater than 10')\n_____ x == 10:\n    print('Equal to 10')\nelse:\n    print('Less than 10')\n\nFill in the blank with the correct keyword.",
+      "answer": "elif"
+    }
+  ]
+}

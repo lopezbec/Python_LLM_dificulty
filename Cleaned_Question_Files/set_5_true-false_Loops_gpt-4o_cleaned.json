@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A 'for' loop in Python can be used to iterate over a list.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 2,
+      "question": "A 'while' loop will always execute at least once in Python.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 3,
+      "question": "You can stop a loop prematurely using the 'break' statement.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 4,
+      "question": "The 'continue' statement skips the rest of the loop iteration and starts the next iteration.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 5,
+      "question": "A loop with no iterable object will result in an infinite loop.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 6,
+      "question": "Python's range() function used in a 'for' loop can take a negative step value to iterate backwards.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 7,
+      "question": "Nested loops in Python are limited to two levels deep.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 8,
+      "question": "You can use the 'else' statement in Python with loops, and it will execute only if the loop completes without a 'break' statement.",
+      "correct_answer": true
+    },
+    {
+      "difficulty": 9,
+      "question": "A 'while' loop's condition is evaluated only once, at the beginning of the loop.",
+      "correct_answer": false
+    },
+    {
+      "difficulty": 10,
+      "question": "The 'for-else' construct in Python executes the 'else' block only if the loop raises an exception.",
+      "correct_answer": false
+    }
+  ]
+}

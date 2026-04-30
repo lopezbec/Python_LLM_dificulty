@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, the __________ keyword is used to create a loop that continues to execute as long as a specified condition is True.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 2,
+      "question": "A __________ loop in Python is used to iterate over each element in a sequence (like a list or string).",
+      "answer": "for"
+    },
+    {
+      "difficulty": 3,
+      "question": "To exit a loop prematurely in Python, you can use the __________ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "To skip the current iteration and continue with the next iteration of a loop in Python, you use the __________ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "When you want to loop over a sequence and track the index of each item at the same time, you can use the __________ function inside a for loop.",
+      "answer": "enumerate"
+    },
+    {
+      "difficulty": 6,
+      "question": "A for loop that iterates using the __________ function allows you to generate a sequence of numbers, such as from 0 to 9.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 7,
+      "question": "You can use an __________ clause after a loop to execute a block of code only if the loop completes normally without a break statement.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 8,
+      "question": "In Python, a nested loop means placing one loop inside another. The __________ loop is executed completely for each iteration of the outer loop.",
+      "answer": "inner"
+    },
+    {
+      "difficulty": 9,
+      "question": "When using a while loop, if you forget to update the condition, you might create an __________ loop that never stops running.",
+      "answer": "infinite"
+    },
+    {
+      "difficulty": 10,
+      "question": "Generators in Python can be used to create objects that produce sequence elements on demand. A special form of loop, the __________ comprehension, can often replace simple loops to build lists efficiently.",
+      "answer": "list"
+    }
+  ]
+}

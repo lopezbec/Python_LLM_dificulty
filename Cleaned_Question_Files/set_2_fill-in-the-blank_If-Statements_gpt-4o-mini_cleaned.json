@@ -1,0 +1,52 @@
+[
+    {
+        "question": "In Python, an if-statement starts with the keyword ___ followed by a condition.",
+        "answer": "if",
+        "difficulty": 1
+    },
+    {
+        "question": "To check if a variable 'x' is equal to 10, you would write: if x ___ 10:",
+        "answer": "==",
+        "difficulty": 2
+    },
+    {
+        "question": "The keyword used to specify an alternative block of code in an if-statement is ___ .",
+        "answer": "else",
+        "difficulty": 3
+    },
+    {
+        "question": "When you have multiple conditions, you can use ___ in an if-statement to check for additional conditions.",
+        "answer": "elif",
+        "difficulty": 4
+    },
+    {
+        "question": "The statement 'if x > 10:' checks if x is ___ than 10.",
+        "answer": "greater",
+        "difficulty": 5
+    },
+    {
+        "question": "In Python, the block of code inside an if-statement must be indented with ___ spaces.",
+        "answer": "4",
+        "difficulty": 6
+    },
+    {
+        "question": "If no conditions in an if-elif structure are satisfied, the ___ block will be executed.",
+        "answer": "else",
+        "difficulty": 7
+    },
+    {
+        "question": "You can check for multiple conditions in the same if-statement by using logical operators like ___ .",
+        "answer": "and",
+        "difficulty": 8
+    },
+    {
+        "question": "In the statement 'if x < 5 and y > 10:', the block will execute if ___ are true.",
+        "answer": "both conditions",
+        "difficulty": 9
+    },
+    {
+        "question": "Using an if-statement inside another if-statement is known as ___ .",
+        "answer": "nested if",
+        "difficulty": 10
+    }
+]

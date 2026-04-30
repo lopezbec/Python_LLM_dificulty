@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What will be printed by the following Python code?\n\nfor i in range(3):\n    print(i)",
+        "options": {
+            "A": "1 2 3",
+            "B": "0 1 2",
+            "C": "0 1 2 3",
+            "D": "1 2"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "options": {
+            "A": "1 2 3 4 5",
+            "B": "0 1 2 3 4",
+            "C": "0 1 2 3 4 5",
+            "D": "Infinite loop"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is a key difference between a 'for' loop and a 'while' loop in Python?",
+        "options": {
+            "A": "'for' loops require a counter variable, 'while' loops do not.",
+            "B": "'for' loops iterate over a sequence, 'while' loops continue until a condition is met.",
+            "C": "'while' loops can only iterate over lists.",
+            "D": "'for' loops cannot be nested."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What will be the output of the following code?\n\nfor i in range(5):\n    if i == 3:\n        break\n    print(i)",
+        "options": {
+            "A": "0 1 2 3",
+            "B": "0 1 2",
+            "C": "1 2 3",
+            "D": "0 1 2 3 4"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What does the 'continue' statement do in a loop?",
+        "options": {
+            "A": "Terminates the loop entirely.",
+            "B": "Skips the current iteration and continues with the next one.",
+            "C": "Repeats the current iteration.",
+            "D": "Exits the current function."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of the following code?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)",
+        "options": {
+            "A": "0 1 0 1",
+            "B": "0 0 1 1",
+            "C": "0 0 0 1 1 0 1 1",
+            "D": "0 0 1 0 0 1 1 1"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Given the following dictionary:\n\nfruits = {'a': 'apple', 'b': 'banana', 'c': 'cherry'}\n\nWhich code correctly prints the keys and values?",
+        "options": {
+            "A": "for key in fruits:\n    print(key, fruits[key])",
+            "B": "for key, value in fruits:\n    print(key, value)",
+            "C": "for key in fruits.keys():\n    print(key, fruits.values())",
+            "D": "for key, value in fruits.items():\n    print(key, value)"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which of the following list comprehensions is equivalent to the for loop below?\n\nresult = []\nfor x in range(5):\n    result.append(x * 2)",
+        "options": {
+            "A": "result = [x * 2 for x in range(5)]",
+            "B": "result = [x + 2 for x in range(5)]",
+            "C": "result = [2 * x for x in range(5)]",
+            "D": "Both A and C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is a generator in Python?",
+        "options": {
+            "A": "A function that returns a list.",
+            "B": "A function that returns an iterator.",
+            "C": "A loop that cannot be stopped.",
+            "D": "A data type for storing multiple items."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What will the following code output?\n\ndef generator():\n    for i in range(3):\n        yield i\n    else:\n        print(\"Loop completed\")\n\ngen = generator()\nfor num in gen:\n    print(num)",
+        "options": {
+            "A": "0\n1\n2",
+            "B": "0\n1\n2\nLoop completed",
+            "C": "0 1 2 Loop completed",
+            "D": "Loop completed"
+        },
+        "answer": "B"
+    }
+]

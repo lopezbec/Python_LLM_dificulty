@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "True or False: In Python, a while loop will continue executing as long as its condition evaluates to True.",
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "True or False: A for loop in Python can iterate directly over the items of a list.",
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "True or False: The break statement in a loop only exits out of the current iteration, not the entire loop.",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "True or False: Using an else clause with a loop in Python will always execute regardless of whether the loop was terminated by a break statement.",
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "True or False: An infinite loop in Python can be created by using 'while True' without including a break statement.",
+      "answer": "True"
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "True or False: When iterating over a dictionary with a for loop in Python, the loop iterates over the keys by default.",
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "True or False: The range() function requires three arguments (start, stop, and step); therefore, calling range(5) will result in a runtime error.",
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "True or False: Nested loops in Python can lead to a time complexity of O(n*m) if they iterate over two lists of lengths n and m respectively.",
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "True or False: Modifying the iterable (such as a list) while iterating over it in a for loop is generally safe and recommended in Python.",
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "True or False: List comprehensions in Python provide a compact alternative to for loops for creating lists.",
+      "answer": "True"
+    }
+  ]
+}

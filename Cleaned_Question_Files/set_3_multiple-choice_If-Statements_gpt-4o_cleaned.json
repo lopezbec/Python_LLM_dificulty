@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is the correct syntax for a basic if-statement in Python?",
+            "difficulty": 1,
+            "choices": {
+                "a": "if x = 10:",
+                "b": "if (x == 10):",
+                "c": "if x == 10:",
+                "d": "if x = 10"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which keyword is used to execute a block of code, only if the specified condition is false?",
+            "difficulty": 2,
+            "choices": {
+                "a": "unless",
+                "b": "else",
+                "c": "then",
+                "d": "or"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What will be the output of the following code snippet?\n\n```python\nx = 5\ny = 10\nif x > y:\n    print('x is greater')\nelse:\n    print('y is greater')\n```",
+            "difficulty": 3,
+            "choices": {
+                "a": "x is greater",
+                "b": "x equals y",
+                "c": "y is greater",
+                "d": "None of the above"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is the result of the following code?\n\n```python\nif 3 < 2:\n    print('Hello')\nelse:\n    print('World')\n```",
+            "difficulty": 4,
+            "choices": {
+                "a": "Hello",
+                "b": "World",
+                "c": "HelloWorld",
+                "d": "Error"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "In a Python if-statement, what will be the output if the condition is not met and there is no else block?",
+            "difficulty": 5,
+            "choices": {
+                "a": "Code will raise an error",
+                "b": "The program will terminate",
+                "c": "Nothing will be printed",
+                "d": "Default output is printed"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "In the code snippet below, what will be printed?\n\n```python\nx = 5\ny = 5\nif x >= y:\n    print('x is greater or equal')\nelif x < y:\n    print('x is lesser')\n```",
+            "difficulty": 6,
+            "choices": {
+                "a": "x is lesser",
+                "b": "x is greater or equal",
+                "c": "Error",
+                "d": "Nothing"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Consider the code below. What will be the output?\n\n```python\nx = 10\ny = 8\nif x < y:\n    if x > 5:\n        print('Inside Nested If')\nelse:\n    print('Outside Nested If')\n```",
+            "difficulty": 7,
+            "choices": {
+                "a": "Inside Nested If",
+                "b": "Outside Nested If",
+                "c": "Error",
+                "d": "None of the above"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is true about if-statements in Python?",
+            "difficulty": 8,
+            "choices": {
+                "a": "They must always include an else block",
+                "b": "They can contain other if-statements inside them",
+                "c": "Indentation is optional",
+                "d": "Only one elif statement is allowed"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "For the following code, identify the output:\n\n```python\nx = True\ny = False\nif x or y:\n    if x and not y:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    print('Case 3')\n```",
+            "difficulty": 9,
+            "choices": {
+                "a": "Case 1",
+                "b": "Case 2",
+                "c": "Case 3",
+                "d": "Error"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Examine the code snippet below. What is the output?\n\n```python\na, b, c = 5, 10, 15\nif a < b:\n    if b < c:\n        print('ABC')\n    elif a < c:\n        print('ACB')\n    else:\n        print('CBA')\nelse:\n    print('BAC')\n```",
+            "difficulty": 10,
+            "choices": {
+                "a": "ABC",
+                "b": "ACB",
+                "c": "CBA",
+                "d": "BAC"
+            },
+            "correct_answer": "a"
+        }
+    ]
+}

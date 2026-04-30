@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "In Python, a basic loop to iterate over a range of numbers is a ___ loop.",
+            "correct_answer": "for"
+        },
+        {
+            "difficulty": 2,
+            "question": "The ___ statement is used to skip the current iteration of a loop but continue with the next.",
+            "correct_answer": "continue"
+        },
+        {
+            "difficulty": 3,
+            "question": "To stop any loop prematurely, you can use the ___ statement.",
+            "correct_answer": "break"
+        },
+        {
+            "difficulty": 4,
+            "question": "A ___ loop will continue to execute as long as a certain condition is True.",
+            "correct_answer": "while"
+        },
+        {
+            "difficulty": 5,
+            "question": "To iterate through a list 'colors', you can use the syntax 'for color in ___:'.",
+            "correct_answer": "colors"
+        },
+        {
+            "difficulty": 6,
+            "question": "Using a ___ loop allows you to iterate over the keys of a dictionary.",
+            "correct_answer": "for"
+        },
+        {
+            "difficulty": 7,
+            "question": "The ___ function can be used to create a sequence of numbers to iterate over in a loop.",
+            "correct_answer": "range"
+        },
+        {
+            "difficulty": 8,
+            "question": "For an indefinite loop where you're awaiting a condition to become False, use a loop with the condition ___ at the beginning.",
+            "correct_answer": "while True"
+        },
+        {
+            "difficulty": 9,
+            "question": "In a nested loop, if you want to exit from all loops, you need to use an additional control mechanism such as a ___ to manage the flow.",
+            "correct_answer": "flag"
+        },
+        {
+            "difficulty": 10,
+            "question": "The following code snippet: 'for i, value in enumerate(my_list):' allows you to loop over 'my_list' while also tracking the ___ of each element.",
+            "correct_answer": "index"
+        }
+    ]
+}

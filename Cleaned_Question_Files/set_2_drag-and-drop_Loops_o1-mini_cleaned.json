@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "question": "Match the loop type to its description.",
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "Loops",
+    "dragItems": ["for loop", "while loop"],
+    "dropTargets": ["Iterates a fixed number of times", "Continues until a condition is false"],
+    "correctAssociations": {
+      "for loop": "Iterates a fixed number of times",
+      "while loop": "Continues until a condition is false"
+    }
+  },
+  {
+    "id": 2,
+    "question": "Drag the keywords to complete the for loop syntax in Python.",
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "Loops",
+    "dragItems": ["for", "in", "range", ":"],
+    "dropTargets": ["_1_", "_2_", "_3_", "_4_"],
+    "correctAssociations": {
+      "for": "_1_",
+      "in": "_2_",
+      "range": "_3_",
+      ":": "_4_"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Arrange the following loop control statements in the order they appear in a loop body.",
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "Loops",
+    "dragItems": ["initialize loop", "check condition", "execute body", "update counter"],
+    "dropTargets": ["1st", "2nd", "3rd", "4th"],
+    "correctAssociations": {
+      "initialize loop": "1st",
+      "check condition": "2nd",
+      "execute body": "3rd",
+      "update counter": "4th"
+    }
+  },
+  {
+    "id": 4,
+    "question": "Match the loop control keyword to its function.",
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "Loops",
+    "dragItems": ["break", "continue", "pass"],
+    "dropTargets": [
+      "Exit the loop entirely",
+      "Skip the current iteration and continue",
+      "Do nothing and continue"
+    ],
+    "correctAssociations": {
+      "break": "Exit the loop entirely",
+      "continue": "Skip the current iteration and continue",
+      "pass": "Do nothing and continue"
+    }
+  },
+  {
+    "id": 5,
+    "question": "Match the loop type to its appropriate use case.",
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "Loops",
+    "dragItems": ["for loop", "while loop", "nested loop"],
+    "dropTargets": [
+      "Iterating over items in a list",
+      "Repeating until a user inputs 'quit'",
+      "Processing a matrix with rows and columns"
+    ],
+    "correctAssociations": {
+      "for loop": "Iterating over items in a list",
+      "while loop": "Repeating until a user inputs 'quit'",
+      "nested loop": "Processing a matrix with rows and columns"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Drag the missing parts to complete the following while loop that counts from 1 to 5.",
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "Loops",
+    "dragItems": ["i += 1", "i < 6", "print(i)", "i = 1"],
+    "dropTargets": ["while _1_:", "    _2_", "    _3_", "_4_"],
+    "correctAssociations": {
+      "i < 6": "_1_",
+      "print(i)": "_2_",
+      "i += 1": "_3_",
+      "i = 1": "_4_"
+    }
+  },
+  {
+    "id": 7,
+    "question": "Match the loop construct to its equivalent behavior in a different programming language.",
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "Loops",
+    "dragItems": ["for item in collection:", "foreach ($item in collection)", "for (int i = 0; i < len; i++)"],
+    "dropTargets": [
+      "Python equivalent",
+      "PHP equivalent",
+      "C-style equivalent"
+    ],
+    "correctAssociations": {
+      "for item in collection:": "Python equivalent",
+      "foreach ($item in collection)": "PHP equivalent",
+      "for (int i = 0; i < len; i++)": "C-style equivalent"
+    }
+  },
+  {
+    "id": 8,
+    "question": "Drag the error in the following loop code to its correction.",
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "Loops",
+    "dragItems": [
+      "Infinite loop due to missing counter update",
+      "Add a counter update statement inside the loop",
+      "Incorrect indentation of loop body",
+      "Fix the indentation to include the counter update"
+    ],
+    "dropTargets": [
+      "Error",
+      "Correction"
+    ],
+    "correctAssociations": {
+      "Infinite loop due to missing counter update": "Error",
+      "Add a counter update statement inside the loop": "Correction",
+      "Incorrect indentation of loop body": "Error",
+      "Fix the indentation to include the counter update": "Correction"
+    }
+  },
+  {
+    "id": 9,
+    "question": "Match the loop optimization technique to its description.",
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "Loops",
+    "dragItems": ["Loop unrolling", "Loop fusion", "Loop invariant code motion"],
+    "dropTargets": [
+      "Combining two adjacent loops into a single loop",
+      "Moving calculations that do not change within the loop outside the loop",
+      "Increasing the loop body size to decrease the number of iterations"
+    ],
+    "correctAssociations": {
+      "Loop unrolling": "Increasing the loop body size to decrease the number of iterations",
+      "Loop fusion": "Combining two adjacent loops into a single loop",
+      "Loop invariant code motion": "Moving calculations that do not change within the loop outside the loop"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Drag the components to correctly construct a nested for loop that iterates over a 2D list in Python.",
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "Loops",
+    "dragItems": [
+      "for row in matrix:",
+      "    for item in row:",
+      "        print(item)"
+    ],
+    "dropTargets": ["_1_", "_2_", "_3_"],
+    "correctAssociations": {
+      "for row in matrix:": "_1_",
+      "for item in row:": "_2_",
+      "print(item)": "_3_"
+    }
+  }
+]

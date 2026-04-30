@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "description": "Complete the basic if-statement to print 'Hello!' when condition x is True.",
+      "code": "x = True\nif ( ___ ):\n    print('Hello!')",
+      "options": ["True", "x == True", "x", "False"],
+      "correct": "x"
+    },
+    {
+      "difficulty": 2,
+      "description": "Fill in the blanks to check if a variable 'y' is equal to 10 and then print 'Equal'.",
+      "code": "y = 10\nif ( ___ == ___ ):\n    print('Equal')",
+      "options": ["y", "10", "20", "==", "="],
+      "correct": ["y", "10"]
+    },
+    {
+      "difficulty": 3,
+      "description": "Complete the if-else statement to print 'Positive' if 'number' is greater than 0, otherwise print 'Negative'.",
+      "code": "number = -5\nif ( number ___ 0 ):\n    print('Positive')\nelse:\n    print('Negative')",
+      "options": ["<", ">", "==", "!=", "0"],
+      "correct": ">"
+    },
+    {
+      "difficulty": 4,
+      "description": "Fill in the blanks to check if the variable 'age' is within the range of 13 to 19 inclusive.",
+      "code": "age = 15\nif ( ___ <= age ___ ___ ):\n    print('Teenager')",
+      "options": ["13", "<=", "==", "19", ">="],
+      "correct": ["13", "<=", "19"]
+    },
+    {
+      "difficulty": 5,
+      "description": "Complete the nested if-statement to check if 'x' is positive and even.",
+      "code": "x = 4\nif ( x > 0 ):\n    if ( x % 2 ___ ___ ):\n        print('Positive and even')",
+      "options": ["==", "0", "!= 0", "<", ">"],
+      "correct": ["==", "0"]
+    },
+    {
+      "difficulty": 6,
+      "description": "Fill in the placeholders to execute the elif branch if 'value' is 0.",
+      "code": "value = 0\nif ( value < 0 ):\n    print('Negative')\nelif ( ___ == ___ ):\n    print('Zero')\nelse:\n    print('Positive')",
+      "options": ["value", "0", "1", "<", ">"],
+      "correct": ["value", "0"]
+    },
+    {
+      "difficulty": 7,
+      "description": "Complete the if-elif-else structure to categorize 'score' into 'Low', 'Medium', or 'High'.",
+      "code": "score = 75\nif ( score < 50 ):\n    print('Low')\nelif ( 50 <= score < 80 ):\n    print('Medium')\nelse:\n    print('High')",
+      "options": ["<", ">=", "<=", "score", "80"],
+      "correct": ["50", "80"]
+    },
+    {
+      "difficulty": 8,
+      "description": "Fill in the blanks to check if 'password' meets two conditions: it is longer than 8 characters and contains the substring 'secure'.",
+      "code": "password = 'mysecurepassword'\nif ( len(password) ___ 8 and 'secure' ___ password ):\n    print('Valid password')",
+      "options": [">", "<", "==", "in", "not in"],
+      "correct": [">", "in"]
+    },
+    {
+      "difficulty": 9,
+      "description": "Complete the if-statement to check multiple conditions on a list. The list 'numbers' should contain both positive numbers and the number 10.",
+      "code": "numbers = [10, 12, -2, 8]\nif ( any(n > 0 for n in numbers) and ___(10 in numbers) ):\n    print('Criteria met')",
+      "options": ["all", "any", "not", "all not"],
+      "correct": ["any"]
+    },
+    {
+      "difficulty": 10,
+      "description": "Fill in the placeholders to implement a complex condition that evaluates the parity of 'num' and checks if it falls within specific bounds and set conditions.",
+      "code": "num = 8\nif ( ((5 < num < 15) and (___num % 2 == 0)) or (num in ___) ):\n    print('Condition met')",
+      "options": ["not", "even", "{7, 14, 8}", "{0}", "set"],
+      "correct": ["not", "{7, 14, 8}"]
+    }
+  ]
+}

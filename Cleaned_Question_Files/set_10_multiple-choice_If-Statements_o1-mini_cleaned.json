@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the correct syntax to start an if statement in Python?",
+    "options": {
+      "A": "if x = 5 then",
+      "B": "if x == 5:",
+      "C": "if (x == 5)",
+      "D": "if x equal 5:"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "What will be printed by the following code?\n\nx = 10\nif x > 5:\n    print(\"Greater\")",
+    "options": {
+      "A": "Less",
+      "B": "Greater",
+      "C": "Equal",
+      "D": "Nothing"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "Which keyword is used to provide an alternative block of code if the if condition is False?",
+    "options": {
+      "A": "else",
+      "B": "elif",
+      "C": "otherwise",
+      "D": "fallback"
+    },
+    "answer": "A",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "What will the following code output?\n\nnum = 7\nif num % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")",
+    "options": {
+      "A": "Even",
+      "B": "Odd",
+      "C": "7",
+      "D": "No output"
+    },
+    "answer": "B",
+    "difficulty": 4
+  },
+  {
+    "id": 5,
+    "question": "How do you add an additional condition to an if statement in Python?",
+    "options": {
+      "A": "Using the && operator",
+      "B": "Using the AND keyword",
+      "C": "Using the & symbol",
+      "D": "Using the OR keyword"
+    },
+    "answer": "B",
+    "difficulty": 5
+  },
+  {
+    "id": 6,
+    "question": "What is the output of the following code?\n\nx = 15\nif x > 10:\n    if x < 20:\n        print(\"Between 10 and 20\")",
+    "options": {
+      "A": "Greater than 20",
+      "B": "Less than 10",
+      "C": "Between 10 and 20",
+      "D": "No output"
+    },
+    "answer": "C",
+    "difficulty": 6
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a valid use of an elif statement?",
+    "options": {
+      "A": "To check multiple exclusive conditions after the initial if.",
+      "B": "To execute code only when all previous conditions are False.",
+      "C": "To create an infinite loop.",
+      "D": "To terminate an if statement."
+    },
+    "answer": "A",
+    "difficulty": 7
+  },
+  {
+    "id": 8,
+    "question": "Consider the following code snippet:\n\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= 80:\n    grade = 'B'\nelse:\n    grade = 'C'\n\nprint(grade)\n\nWhat will be printed?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "No output"
+    },
+    "answer": "B",
+    "difficulty": 8
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of the `pass` statement in an if block?",
+    "options": {
+      "A": "To skip the if condition.",
+      "B": "To create an empty block when no action is needed.",
+      "C": "To terminate the program.",
+      "D": "To continue to the next iteration of a loop."
+    },
+    "answer": "B",
+    "difficulty": 9
+  },
+  {
+    "id": 10,
+    "question": "Analyze the following code and determine its output:\n\nx = 10\ny = 20\nif x > 5:\n    if y > 25:\n        print(\"A\")\n    elif y > 15:\n        print(\"B\")\n    else:\n        print(\"C\")\nelse:\n    print(\"D\")",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "C",
+    "difficulty": 10
+  }
+]

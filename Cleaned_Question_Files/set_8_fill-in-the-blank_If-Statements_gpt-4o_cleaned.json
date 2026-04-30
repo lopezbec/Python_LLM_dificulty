@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In an if-statement, the keyword used to start the conditional block is ___.",
+      "answer": "if"
+    },
+    {
+      "difficulty": 2,
+      "question": "The __ keyword is used to execute code only if the initial if-statement is false.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 3,
+      "question": "An ___ block can provide additional conditions after the initial if statement.",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, if statements are followed by a __ before the code block begins.",
+      "answer": "colon (:)"
+    },
+    {
+      "difficulty": 5,
+      "question": "To check if two values are not equal inside an if-statement, you use the __ operator.",
+      "answer": "!="
+    },
+    {
+      "difficulty": 6,
+      "question": "To compare two variables 'a' and 'b', and execute code if 'a' is greater than 'b', you can use the condition: if a __ b:",
+      "answer": ">"
+    },
+    {
+      "difficulty": 7,
+      "question": "The opposite of the logical operator '==' in an if-statement is the ____ operator.",
+      "answer": "!="
+    },
+    {
+      "difficulty": 8,
+      "question": "In an if-statement, to check multiple conditions where all must be true, use the ___ keyword to link conditions.",
+      "answer": "and"
+    },
+    {
+      "difficulty": 9,
+      "question": "To check if a variable 'x' is either less than 10 or more than 20, you can write: if x < 10 __ x > 20:",
+      "answer": "or"
+    },
+    {
+      "difficulty": 10,
+      "question": "A nested if-statement is placed inside another if-statement. To check a nested condition only when a > 5, write: if a > 5:\n    if b == 10: __",
+      "answer": "execute code block"
+    }
+  ]
+}

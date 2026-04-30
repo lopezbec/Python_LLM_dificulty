@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Complete the simple if-else statement to check if x < 10 and print 'Small' or 'Large'.",
+      "instruction": "Drag the correct items into the placeholders to complete the code.",
+      "partiallyCompletedCode": "x = 8\n____ x < 10 ____\n    print('Small')\nelse:\n    print('Large')",
+      "dragItems": ["if", ":", "elif"],
+      "correctAnswer": ["if", ":"],
+      "explanation": "Use 'if' to start the condition (x < 10) and follow it with a colon."
+    },
+    {
+      "difficulty": 2,
+      "question": "Complete the code snippet to print 'Negative', 'Zero', or 'Positive' based on x.",
+      "instruction": "Drag and drop the correct statements into the placeholders.",
+      "partiallyCompletedCode": "x = 0\n____ x < 0:\n    print('Negative')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Positive')",
+      "dragItems": ["if", "while", "elif", "for"],
+      "correctAnswer": ["if", "elif"],
+      "explanation": "We start with 'if x < 0' and then use 'elif x == 0' before the else condition."
+    },
+    {
+      "difficulty": 3,
+      "question": "Complete the nested if statement to determine if x is a positive even number or a positive odd number.",
+      "instruction": "Drag the correct items into the placeholders inside the code.",
+      "partiallyCompletedCode": "x = 4\nif x > 0:\n    ____ x % 2 ____ 0:\n        print('Positive even')\n    else:\n        print('Positive odd')\nelse:\n    print('Not positive')",
+      "dragItems": ["if", "==", "elif", "!="],
+      "correctAnswer": ["if", "=="],
+      "explanation": "Within the 'if x > 0' block, use 'if x % 2 == 0' to check if x is even."
+    },
+    {
+      "difficulty": 4,
+      "question": "Complete the chain of conditions to categorize x as negative, small positive, or large positive.",
+      "instruction": "Drag the correct statements into the placeholders.",
+      "partiallyCompletedCode": "x = 7\n____ x < 0:\n    print('Negative')\n____ x <= 10:\n    print('Small positive')\nelse:\n    print('Large positive')",
+      "dragItems": ["if", "while", "elif", "for"],
+      "correctAnswer": ["if", "elif"],
+      "explanation": "Begin with 'if x < 0' to check negativity, then use 'elif x <= 10' before the final else."
+    },
+    {
+      "difficulty": 5,
+      "question": "Complete the nested if and elif statements to check divisibility and magnitude.",
+      "instruction": "Drag the correct items into the placeholders.",
+      "partiallyCompletedCode": "x = 105\nif x > 100:\n    ____ x % 3 == 0:\n        print('Divisible by 3 and greater than 100')\n    else:\n        print('Greater than 100 but not divisible by 3')\n____ x % 5 == 0:\n    print('Divisible by 5')",
+      "dragItems": ["if", "while", "elif", "else"],
+      "correctAnswer": ["if", "elif"],
+      "explanation": "Use a nested 'if' to check divisibility by 3 inside 'if x > 100', then 'elif x % 5 == 0' for the next condition."
+    },
+    {
+      "difficulty": 6,
+      "question": "Complete the code to check if x is between 5 and 15 or exactly 20.",
+      "instruction": "Drag the correct operators into the placeholders.",
+      "partiallyCompletedCode": "x = 10\nif x >= 5 ____ x <= 15:\n    print('Between 5 and 15')\nelif x ____ 20:\n    print('Equal to 20')\nelse:\n    print('Outside the range')",
+      "dragItems": ["and", "or", ">", "=="],
+      "correctAnswer": ["and", "=="],
+      "explanation": "Use 'and' to ensure x is both ≥ 5 and ≤ 15, then '==' to check if x is exactly 20."
+    },
+    {
+      "difficulty": 7,
+      "question": "Complete the code to check if x is a multiple of both 2 and 3 or if x is negative.",
+      "instruction": "Drag the correct items into the placeholders.",
+      "partiallyCompletedCode": "x = 6\n____ (x % 2 == 0 ____ x % 3 == 0):\n    print('Multiple of 2 and 3')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Does not match any condition')",
+      "dragItems": ["if", "elif", "or", "and"],
+      "correctAnswer": ["if", "and"],
+      "explanation": "Start with 'if' and use 'and' to require that x be divisible by both 2 and 3."
+    },
+    {
+      "difficulty": 8,
+      "question": "Complete the nested if statement to classify a score as 'Excellent', 'Passing', or 'Failing'.",
+      "instruction": "Drag the correct statements into the placeholders.",
+      "partiallyCompletedCode": "score = 95\n____ score > 50:\n    ____ score > 90:\n        print('Excellent')\n    else:\n        print('Passing')\nelse:\n    print('Failing')",
+      "dragItems": ["if", "elif", "while", "for"],
+      "correctAnswer": ["if", "if"],
+      "explanation": "Use 'if score > 50' for the first condition, then a nested 'if' for 'score > 90'."
+    },
+    {
+      "difficulty": 9,
+      "question": "Complete the function to assign a letter grade based on the numeric score in 'grade'.",
+      "instruction": "Drag the correct statements into the placeholders.",
+      "partiallyCompletedCode": "def evaluate_grade(grade):\n    ____ grade >= 90:\n        print('A')\n    ____ grade >= 80:\n        print('B')\n    elif grade >= 70:\n        print('C')\n    elif grade >= 60:\n        print('D')\n    else:\n        print('F')",
+      "dragItems": ["if", "elif", "while", "for"],
+      "correctAnswer": ["if", "elif"],
+      "explanation": "Begin with 'if grade >= 90' for an A, then use 'elif grade >= 80' to proceed through the other letter grades."
+    },
+    {
+      "difficulty": 10,
+      "question": "Complete the code snippet to check if x is a multiple of 4 or if it's a prime under 10.",
+      "instruction": "Drag the correct statements into the placeholders to complete the nested conditions.",
+      "partiallyCompletedCode": "x = 7\n____ x % 4 == 0:\n    print('Multiple of 4')\n____ x < 10:\n    ____ x in [2, 3, 5, 7]:\n        print('Prime under 10')\n    else:\n        print('Under 10 but not prime')\nelse:\n    print('Does not meet any condition')",
+      "dragItems": ["if", "elif", "while", "for"],
+      "correctAnswer": ["if", "elif", "if"],
+      "explanation": "Use 'if' to check if x is a multiple of 4, then 'elif' to handle x < 10, and a nested 'if' to see if x is prime under 10."
+    }
+  ]
+}
