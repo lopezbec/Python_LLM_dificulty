@@ -1,0 +1,107 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "Python",
+        "if (condition) {}",
+        "if condition:",
+        "if condition then",
+        "if: condition"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "print('Greater')",
+        "else:",
+        "print('Smaller')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "==",
+        "=",
+        "!=",
+        "=>",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 4",
+        "if x < 6:",
+        "print('A')",
+        "if x < 5:",
+        "print('B')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "`elif`",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "nested if-statement",
+        "outer condition",
+        "inner condition"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 15",
+        "y = 10",
+        "if x > y:",
+        "if x < 20:",
+        "print('x is between y and 20')",
+        "else:",
+        "print('x is not greater than y')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "if-else",
+        "if-elif",
+        "if",
+        "while-if"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 5",
+        "y = 10",
+        "z = 15",
+        "if x < y:",
+        "if y < z:",
+        "if x < z:",
+        "result = 'Nested'",
+        "else:",
+        "result = 'Inner else'",
+        "else:",
+        "result = 'Middle else'",
+        "else:",
+        "result = 'Outer else'"
+      ]
+    }
+  ]
+}

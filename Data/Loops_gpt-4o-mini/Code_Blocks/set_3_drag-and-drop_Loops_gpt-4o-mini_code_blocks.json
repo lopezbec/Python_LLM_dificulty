@@ -1,0 +1,111 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "for i in range(10):",
+        "for (i = 0; i < 10; i++):",
+        "foreach i in range(10):",
+        "loop i from 0 to 10:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "count = 1",
+        "while count <= 5:",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for",
+        "for i in range(0, 11, 2):",
+        "for i in range(1, 11):",
+        "if i % 2 == 0:",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "while",
+        "x",
+        "while x < 10:",
+        "print(x)",
+        "x = x + 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "i",
+        "j",
+        "for i in range(1, 4):",
+        "for j in range(1, 3):",
+        "print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "number",
+        "for number in range(6):",
+        "if number == 3:",
+        "break",
+        "print(number)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "items",
+        "for",
+        "item",
+        "items = ['apple', 'banana', 'cherry']",
+        "for item in items:",
+        "print(item)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "total",
+        "for",
+        "i",
+        "total = 0",
+        "for i in range(1, 6):",
+        "total += i",
+        "print(total)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for",
+        "i",
+        "j",
+        "for i in range(1, 6):",
+        "for j in range(1, 6):",
+        "print(i * j)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "user_input",
+        "while",
+        "user_input = ''",
+        "while user_input != 'exit':",
+        "user_input = input('Type something (type exit to quit): ')",
+        "print(user_input)"
+      ]
+    }
+  ]
+}

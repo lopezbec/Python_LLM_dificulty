@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which keyword starts a basic loop that will iterate over items in a sequence in Python?",
+      "options": [
+        "while",
+        "for",
+        "loop",
+        "iterate"
+      ],
+      "correct_answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which built-in Python function is commonly used to generate a sequence of integers for iteration?",
+      "options": [
+        "range()",
+        "list()",
+        "enumerate()",
+        "sequence()"
+      ],
+      "correct_answer": "range()"
+    },
+    {
+      "difficulty": 3,
+      "question": "Which type of loop in Python continues to run as long as a specified condition remains True?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "range loop"
+      ],
+      "correct_answer": "while loop"
+    },
+    {
+      "difficulty": 4,
+      "question": "Which keyword is used to skip only the current iteration in a loop and continue with the next iteration?",
+      "options": [
+        "pass",
+        "break",
+        "skip",
+        "continue"
+      ],
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "What does the built-in function enumerate() provide when used in a loop?",
+      "options": [
+        "It returns the sum of all items in an iterable",
+        "It generates random integers",
+        "It provides both index and value for each item",
+        "It creates a static list from a dynamic sequence"
+      ],
+      "correct_answer": "It provides both index and value for each item"
+    },
+    {
+      "difficulty": 6,
+      "question": "What is true about the else clause in a Python for or while loop?",
+      "options": [
+        "It always executes before the loop starts",
+        "It executes only if the loop was never entered",
+        "It executes only if the loop completes without a break",
+        "It executes after every iteration"
+      ],
+      "correct_answer": "It executes only if the loop completes without a break"
+    },
+    {
+      "difficulty": 7,
+      "question": "What is the primary difference between a for loop and a while loop in Python?",
+      "options": [
+        "A for loop always runs infinitely, while a while loop does not",
+        "A for loop iterates over a known sequence or range, while a while loop runs until a condition changes",
+        "The for loop is always slower than the while loop",
+        "A while loop can only iterate over lists, while a for loop can handle any iterable"
+      ],
+      "correct_answer": "A for loop iterates over a known sequence or range, while a while loop runs until a condition changes"
+    },
+    {
+      "difficulty": 8,
+      "question": "If a nested loop runs i times in its outer loop and j times in its inner loop, what is its general time complexity?",
+      "options": [
+        "O(1)",
+        "O(i + j)",
+        "O(i * j)",
+        "O(i / j)"
+      ],
+      "correct_answer": "O(i * j)"
+    },
+    {
+      "difficulty": 9,
+      "question": "What will the following code output?\n\nnumbers = [1, 2, 3]\nfor i in range(len(numbers)):\n    numbers[i] = numbers[i] * 2\nprint(numbers)",
+      "options": [
+        "[1, 2, 3]",
+        "[2, 4, 6]",
+        "[1, 4, 9]",
+        "[1, 2, 3, 2, 4, 6]"
+      ],
+      "correct_answer": "[2, 4, 6]"
+    },
+    {
+      "difficulty": 10,
+      "question": "Given the code:\n\nresult = []\nfor x in range(3):\n    for y in range(2):\n        if x == y:\n            break\n        result.append((x, y))\nelse:\n    result.append('done')\nprint(result)\n\nWhat is the final content of result?",
+      "options": [
+        "[(0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1), 'done']",
+        "[(1, 0), (2, 0), (2, 1)]",
+        "[(1, 0), (2, 0), (2, 1), 'done']",
+        "The code raises an error"
+      ],
+      "correct_answer": "[(1, 0), (2, 0), (2, 1), 'done']"
+    }
+  ]
+}

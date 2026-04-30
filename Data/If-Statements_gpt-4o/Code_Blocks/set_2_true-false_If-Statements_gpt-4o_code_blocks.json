@@ -1,0 +1,90 @@
+{
+    "code_segments": [
+        {
+            "difficulty": 1,
+            "content": [
+                "if-statement",
+                "code",
+                "condition"
+            ]
+        },
+        {
+            "difficulty": 2,
+            "content": [
+                "Python",
+                "condition",
+                "if-statement",
+                "parentheses"
+            ]
+        },
+        {
+            "difficulty": 3,
+            "content": [
+                "if-statement",
+                "expression",
+                "Boolean",
+                "Python"
+            ]
+        },
+        {
+            "difficulty": 4,
+            "content": [
+                "indented block of code",
+                "if-statement",
+                "'clause'"
+            ]
+        },
+        {
+            "difficulty": 5,
+            "content": [
+                "elif statement",
+                "Python",
+                "if-statement"
+            ]
+        },
+        {
+            "difficulty": 6,
+            "content": [
+                "Python",
+                "else",
+                "condition",
+                "block"
+            ]
+        },
+        {
+            "difficulty": 7,
+            "content": [
+                "if-else statement",
+                "function definition",
+                "Python"
+            ]
+        },
+        {
+            "difficulty": 8,
+            "content": [
+                "'pass'",
+                "if-block",
+                "Python"
+            ]
+        },
+        {
+            "difficulty": 9,
+            "content": [
+                "Python",
+                "conditions",
+                "if-statement",
+                "'and'",
+                "'or'",
+                "logical operators"
+            ]
+        },
+        {
+            "difficulty": 10,
+            "content": [
+                "Python",
+                "elif branches",
+                "if-statement"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "print('Hello')",
+        "print('Hi')",
+        "for i in range(3):",
+        "for i in range(3):",
+        "print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "count += 1",
+        "count = 1",
+        "while count <= 3:",
+        "print(count)",
+        "count = 10",
+        "count = 1",
+        "while count <= 3:",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if num < 10: break",
+        "if num % 2 != 0:",
+        "print(num)",
+        "for num in range(11):",
+        "continue",
+        "for num in range(11):",
+        "if num % 2 != 0:",
+        "continue",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "print('Done')",
+        "for j in range(1, 4):",
+        "print(i, 'x', j, '=', i * j)",
+        "for i in range(1, 4):",
+        "print('-----')",
+        "for i in range(1, 4):",
+        "for j in range(1, 4):",
+        "print(i, 'x', j, '=', i * j)",
+        "print('-----')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "print('End of loop')",
+        "if n < 7: continue",
+        "break",
+        "numbers = [3, 5, 7, 9]",
+        "if n == 7:",
+        "for n in numbers:",
+        "print('Found 7')",
+        "numbers = [3, 5, 7, 9]",
+        "for n in numbers:",
+        "if n == 7:",
+        "print('Found 7')",
+        "break",
+        "print('End of loop')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if user_input == 'exit':",
+        "continue",
+        "while True:",
+        "print('You entered:', user_input)",
+        "user_input = input('Enter something: ')",
+        "break",
+        "while True:",
+        "user_input = input('Enter something: ')",
+        "if user_input == 'exit':",
+        "break",
+        "print('You entered:', user_input)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "continue",
+        "for i in range(1, 6):",
+        "if i % 2 != 0:",
+        "sum_even = 0",
+        "print('Sum of even numbers:', sum_even)",
+        "sum_even += i",
+        "sum_even = 0",
+        "for i in range(1, 6):",
+        "if i % 2 != 0:",
+        "continue",
+        "sum_even += i",
+        "print('Sum of even numbers:', sum_even)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "count_prime = 0",
+        "num = 2",
+        "is_prime = True",
+        "for i in range(2, num):",
+        "while count_prime < 3:",
+        "if num % i == 0:",
+        "if is_prime:",
+        "print(num)",
+        "num += 1",
+        "is_prime = False",
+        "count_prime += 1",
+        "break",
+        "count_prime = 0",
+        "num = 2",
+        "while count_prime < 3:",
+        "is_prime = True",
+        "for i in range(2, num):",
+        "if num % i == 0:",
+        "is_prime = False",
+        "break",
+        "if is_prime:",
+        "print(num)",
+        "count_prime += 1",
+        "num += 1"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for key, value in my_dict.items():",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "for value in my_dict:",
+        "print(f'Key: {key}, Value: {value}')",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "for key, value in my_dict.items():",
+        "print(f'Key: {key}, Value: {value}')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if n == 5:",
+        "for val in reversed(squares):",
+        "squares = []",
+        "for n in range(10):",
+        "squares.append(n*n)",
+        "continue",
+        "print(val)",
+        "squares = []",
+        "for n in range(10):",
+        "if n == 5:",
+        "continue",
+        "squares.append(n*n)",
+        "for val in reversed(squares):",
+        "print(val)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "True or False: A 'for' loop in Python is used to iterate over a sequence of elements such as lists, strings, and tuples.",
+      "correct_answer": true
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "True or False: A 'while' loop in Python guarantees that the loop body will execute at least once, regardless of the condition.",
+      "correct_answer": false
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "True or False: The built-in range() function returns a sequence of numbers that starts at 0 by default and stops before the specified end value.",
+      "correct_answer": true
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "True or False: The break statement inside a loop causes the current iteration to be skipped, and the loop continues with the next iteration.",
+      "correct_answer": false
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "True or False: Nested loops in Python are created by placing one loop inside the block of another loop, enabling iteration over multi-dimensional data.",
+      "correct_answer": true
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "True or False: In Python, a for loop can include an else clause which executes if the loop terminates normally, meaning it didn't encounter a break statement.",
+      "correct_answer": true
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "True or False: If the condition in a while loop never becomes False, the loop will run infinitely, potentially causing the program to hang.",
+      "correct_answer": true
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "True or False: Modifying a dictionary while iterating over it with a for loop is considered safe and will not lead to any errors.",
+      "correct_answer": false
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "True or False: List comprehensions offer a concise alternative for creating lists and can often replace simple for loops in Python.",
+      "correct_answer": true
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "True or False: The step parameter in the range() function is compulsory; without it, a for loop will not work correctly.",
+      "correct_answer": false
+    }
+  ]
+}

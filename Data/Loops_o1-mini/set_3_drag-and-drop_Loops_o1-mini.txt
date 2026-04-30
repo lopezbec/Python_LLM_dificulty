@@ -1,0 +1,218 @@
+```json
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "type": "drag-and-drop",
+    "topic": "Types of Loops",
+    "question": "Match each loop type with its correct description.",
+    "drag_items": [
+      "for loop",
+      "while loop"
+    ],
+    "drop_targets": [
+      "Repeats a block of code a fixed number of times",
+      "Repeats a block of code as long as a condition is true"
+    ],
+    "correct_matches": {
+      "for loop": "Repeats a block of code a fixed number of times",
+      "while loop": "Repeats a block of code as long as a condition is true"
+    }
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "type": "drag-and-drop",
+    "topic": "Loop Syntax",
+    "question": "Arrange the parts of a basic for loop in Python.",
+    "drag_items": [
+      "for",
+      "in",
+      "range(5)",
+      ":"
+    ],
+    "drop_targets": [
+      "Keyword to start a for loop",
+      "Keyword used to iterate over a sequence",
+      "Function used to generate a sequence of numbers",
+      "Symbol to indicate the start of the loop body"
+    ],
+    "correct_matches": {
+      "for": "Keyword to start a for loop",
+      "in": "Keyword used to iterate over a sequence",
+      "range(5)": "Function used to generate a sequence of numbers",
+      ":": "Symbol to indicate the start of the loop body"
+    }
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "type": "drag-and-drop",
+    "topic": "Loop Components",
+    "question": "Identify the components of the following while loop.",
+    "loop_code": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+    "drag_items": [
+      "Initialization",
+      "Condition",
+      "Loop Body",
+      "Increment"
+    ],
+    "drop_targets": [
+      "count = 0",
+      "count < 5",
+      "print(count)",
+      "count += 1"
+    ],
+    "correct_matches": {
+      "Initialization": "count = 0",
+      "Condition": "count < 5",
+      "Loop Body": "print(count)",
+      "Increment": "count += 1"
+    }
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "type": "drag-and-drop",
+    "topic": "Loop Control Statements",
+    "question": "Match each loop control statement with its purpose.",
+    "drag_items": [
+      "break",
+      "continue",
+      "pass"
+    ],
+    "drop_targets": [
+      "Exits the nearest enclosing loop",
+      "Skips the rest of the current loop iteration and moves to the next iteration",
+      "Does nothing and is used as a placeholder"
+    ],
+    "correct_matches": {
+      "break": "Exits the nearest enclosing loop",
+      "continue": "Skips the rest of the current loop iteration and moves to the next iteration",
+      "pass": "Does nothing and is used as a placeholder"
+    }
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "type": "drag-and-drop",
+    "topic": "Nested Loops",
+    "question": "Match each loop to its appropriate description in the context of nested loops.",
+    "drag_items": [
+      "Outer loop",
+      "Inner loop"
+    ],
+    "drop_targets": [
+      "The loop that starts first and controls the number of times the entire nested loops execute",
+      "The loop that runs completely within each iteration of the outer loop"
+    ],
+    "correct_matches": {
+      "Outer loop": "The loop that starts first and controls the number of times the entire nested loops execute",
+      "Inner loop": "The loop that runs completely within each iteration of the outer loop"
+    }
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "type": "drag-and-drop",
+    "topic": "Looping Through Data Structures",
+    "question": "Associate each loop with the data structure it is best suited for.",
+    "drag_items": [
+      "for loop",
+      "while loop"
+    ],
+    "drop_targets": [
+      "Iterating over elements in a list or other iterable",
+      "Repeating until a certain condition involving the data structure is met"
+    ],
+    "correct_matches": {
+      "for loop": "Iterating over elements in a list or other iterable",
+      "while loop": "Repeating until a certain condition involving the data structure is met"
+    }
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "type": "drag-and-drop",
+    "topic": "Loop Optimization",
+    "question": "Match each optimization technique with its description.",
+    "drag_items": [
+      "Avoiding unnecessary computations within the loop",
+      "Using appropriate loop constructs",
+      "Breaking out of loops early when possible"
+    ],
+    "drop_targets": [
+      "Reducing the number of operations executed each iteration to improve performance",
+      "Choosing between for and while loops based on the specific use case for better efficiency",
+      "Exiting the loop as soon as the desired condition is met to save processing time"
+    ],
+    "correct_matches": {
+      "Avoiding unnecessary computations within the loop": "Reducing the number of operations executed each iteration to improve performance",
+      "Using appropriate loop constructs": "Choosing between for and while loops based on the specific use case for better efficiency",
+      "Breaking out of loops early when possible": "Exiting the loop as soon as the desired condition is met to save processing time"
+    }
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "type": "drag-and-drop",
+    "topic": "Loop with Enumerate",
+    "question": "Match each part of the loop using enumerate() with its function.",
+    "loop_code": "for index, value in enumerate(my_list):\n    print(index, value)",
+    "drag_items": [
+      "enumerate(my_list)",
+      "index",
+      "value"
+    ],
+    "drop_targets": [
+      "Provides both the index and value of each item in the iterable",
+      "Represents the current index in the loop",
+      "Represents the current item value in the loop"
+    ],
+    "correct_matches": {
+      "enumerate(my_list)": "Provides both the index and value of each item in the iterable",
+      "index": "Represents the current index in the loop",
+      "value": "Represents the current item value in the loop"
+    }
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "type": "drag-and-drop",
+    "topic": "Infinite Loops",
+    "question": "Identify the parts of the loop that cause it to become infinite.",
+    "loop_code": "while True:\n    print('This loop never ends')",
+    "drag_items": [
+      "Condition",
+      "Loop Body"
+    ],
+    "drop_targets": [
+      "\"True\" as the condition that never changes",
+      "The print statement that does not alter the loop condition"
+    ],
+    "correct_matches": {
+      "Condition": "\"True\" as the condition that never changes",
+      "Loop Body": "The print statement that does not alter the loop condition"
+    }
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "type": "drag-and-drop",
+    "topic": "List Comprehensions vs. Loops",
+    "question": "Match each scenario with whether a list comprehension or a traditional loop is more appropriate.",
+    "drag_items": [
+      "Creating a new list by applying a transformation to each element",
+      "Performing multiple operations in a single iteration"
+    ],
+    "drop_targets": [
+      "List comprehension",
+      "Traditional loop"
+    ],
+    "correct_matches": {
+      "Creating a new list by applying a transformation to each element": "List comprehension",
+      "Performing multiple operations in a single iteration": "Traditional loop"
+    }
+  }
+]
+```

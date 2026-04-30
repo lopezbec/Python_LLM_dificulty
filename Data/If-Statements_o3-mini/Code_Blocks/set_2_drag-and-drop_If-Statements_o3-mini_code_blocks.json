@@ -1,0 +1,126 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if condition:",
+        "Indented code block"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > y:",
+        "    print('x is greater')",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if temperature > 30:",
+        "    print('Hot day')",
+        "else:",
+        "    print('Not a hot day')",
+        "temperature"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score >= 90:",
+        "    print('Grade A')",
+        "elif score >= 80:",
+        "    print('Grade B')",
+        "score"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if marks >= 50:",
+        "    print('Pass')",
+        "elif marks >= 40:",
+        "    print('Resit')",
+        "else:",
+        "    print('Fail')",
+        "marks"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 0:",
+        "    if x % 2 == 0:",
+        "        print('Positive even')",
+        "    else:",
+        "        print('Positive odd')",
+        "x",
+        "x % 2 == 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if num > 0:",
+        "    if num < 100:",
+        "        print('Positive and less than 100')",
+        "    else:",
+        "        print('Positive but 100 or more')",
+        "else:",
+        "    print('Zero or negative')",
+        "num",
+        "num < 100"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if char.isalpha():",
+        "    if char.isupper():",
+        "        print('Uppercase letter')",
+        "    else:",
+        "        print('Lowercase letter')",
+        "elif char.isdigit():",
+        "    print('Digit')",
+        "else:",
+        "    print('Special character')",
+        "char.isalpha()",
+        "char.isupper()",
+        "char.isdigit()",
+        "char"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if age >= 18 and age < 65:",
+        "    print('Working age')",
+        "elif age >= 65:",
+        "    print('Retired')",
+        "else:",
+        "    print('Minor')",
+        "age >= 18 and age < 65",
+        "age >= 65",
+        "age"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def check_number(num):",
+        "    if num >= 0:",
+        "        if num == 0:",
+        "            print('Zero')",
+        "        else:",
+        "            print('Positive number')",
+        "    else:",
+        "        print('Negative number')",
+        "num >= 0",
+        "num == 0",
+        "num"
+      ]
+    }
+  ]
+}

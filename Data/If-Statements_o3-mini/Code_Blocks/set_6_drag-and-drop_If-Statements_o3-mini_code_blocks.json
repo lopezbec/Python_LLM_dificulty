@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ____:\n    print('Hello, World!')",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 15\nif ____:\n    print('x is greater than 10')",
+        "x > 10",
+        "x < 10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age = 20\nif ____:\n    print('Adult')",
+        "age < 18",
+        "age >= 18",
+        "age == 18"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10\nif x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+        "elif",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x % 2 == 0:\n    print('Even')",
+        "else:\n    print('Not Even')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "a = 5\nb = 3\nif a > 0:\n    ____\n        print('Both positive')",
+        "if b > 0:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "score = 75\nif ____:\n    print('Low')\n____ score <= 80:\n    print('Average')\nelse:\n    print('High')",
+        "score < 50",
+        "elif",
+        "if",
+        "score > 80"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = -5\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if 0 ____ x ____ 10:\n    print('x is between 0 and 10')",
+        "<=",
+        ">=",
+        "==",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "A: if x > 0:",
+        "B:     if x % 2 == 0:",
+        "C:         print('Valid')",
+        "D:     elif x > 5:",
+        "E:         print('Valid')",
+        "F: else:",
+        "G:     print('Invalid')"
+      ]
+    }
+  ]
+}

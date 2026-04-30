@@ -1,0 +1,72 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x = 10:",
+        "if (x == 10):",
+        "if x == 10:",
+        "if x = 10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "unless",
+        "else",
+        "then",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5\ny = 10\nif x > y:\n    print('x is greater')\nelse:\n    print('y is greater')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if 3 < 2:\n    print('Hello')\nelse:\n    print('World')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": []
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 5\ny = 5\nif x >= y:\n    print('x is greater or equal')\nelif x < y:\n    print('x is lesser')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 10\ny = 8\nif x < y:\n    if x > 5:\n        print('Inside Nested If')\nelse:\n    print('Outside Nested If')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statements",
+        "else block",
+        "if-statements inside them",
+        "Indentation",
+        "elif statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = True\ny = False\nif x or y:\n    if x and not y:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    print('Case 3')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "a, b, c = 5, 10, 15\nif a < b:\n    if b < c:\n        print('ABC')\n    elif a < c:\n        print('ACB')\n    else:\n        print('CBA')\nelse:\n    print('BAC')"
+      ]
+    }
+  ]
+}

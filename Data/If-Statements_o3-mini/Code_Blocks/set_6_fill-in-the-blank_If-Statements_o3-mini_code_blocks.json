@@ -1,0 +1,85 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x > 0",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x < 10:",
+        "print('Small')",
+        "else:",
+        "print('Large')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x == 0:",
+        "print('Zero')",
+        "elif x > 0:",
+        "print('Positive')",
+        "else:",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:",
+        "if x % 2 == 0:",
+        "print('x is even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "score = 60",
+        "if score >= 50:",
+        "print('Passed')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x != 10:",
+        "print('x is not 10')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 5 and x < 10:",
+        "print('x is between 5 and 10')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "def is_positive(num):",
+        "if num > 0:",
+        "return True",
+        "return False"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "score = 75",
+        "result = 'Pass' if score >= 50 else 'Fail'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 7",
+        "print('Medium') if 5 <= x <= 10 else print('Not Medium')"
+      ]
+    }
+  ]
+}

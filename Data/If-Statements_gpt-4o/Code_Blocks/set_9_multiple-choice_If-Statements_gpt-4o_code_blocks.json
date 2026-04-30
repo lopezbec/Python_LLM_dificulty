@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (condition)",
+        "if condition:",
+        "if condition then",
+        "if: condition",
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5\nif x > 4:\n    print('x is greater than 4')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (3 > 2):",
+        "if 3 > 2:",
+        "if 3 > 2",
+        "if (3 > 2)",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10\nif x == 5:\n    print('x is 5')\nelse:\n    print('x is not 5')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 5\ny = 10\nif x > y:\n    print('x is greater than y')\nelif x < y:\n    print('x is less than y')\nelse:\n    print('x is equal to y')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 5: pass\nelse if x < 5: pass",
+        "if x > 5: pass\nelif x < 5: pass\nelse: pass",
+        "if x > 5 then pass\nelif x < 5 then pass",
+        "if x > 5: pass\nelif: x < 5: pass\nelse: pass",
+        "'elif' statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 3\ny = 4\nif x > y:\n    print('x is greater')\nprint('Comparison done')\nelse:\n    print('y is greater or equal')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 4\nif x > 3:\n    if x < 5:\n        print('x is between 3 and 5')\n    else:\n        print('x is greater than or equal to 5')\nelse:\n    print('x is 3 or less')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 5\ny = 10\nif x > 2:\n    if y < 15:\n        if x == 5:\n            print('x is 5 and y is less than 15')\n        else:\n            print('x is not 5')\n    else:\n        print('y is greater than or equal to 15')\nelse:\n    print('x is less than or equal to 2')",
+        "if-statements"
+      ]
+    }
+  ]
+}

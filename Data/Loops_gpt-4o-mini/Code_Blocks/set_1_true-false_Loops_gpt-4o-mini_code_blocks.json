@@ -1,0 +1,69 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'for'",
+        "lists"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'while'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "range"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'continue'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "Nested loops"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'while True:'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'else'",
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for'",
+        "variable"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "dictionary's keys",
+        "values",
+        "items"
+      ]
+    }
+  ]
+}

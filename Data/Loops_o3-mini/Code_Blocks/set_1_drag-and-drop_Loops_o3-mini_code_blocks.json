@@ -1,0 +1,102 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "print(i)",
+        "for i in range(3):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(i)",
+        "i = 0",
+        "while i < 3:",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(2):",
+        "for j in range(2):",
+        "print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for num in [1, 2, 3]:",
+        "if num % 2 == 0:",
+        "print('Even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(5):",
+        "if i == 3:",
+        "break",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "i = 0",
+        "while i < 5:",
+        "i += 1",
+        "if i % 2 == 0:",
+        "continue",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for num in range(3):",
+        "print(num)",
+        "else:",
+        "print('Done')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(1, 4):",
+        "for j in range(1, 4):",
+        "if i == j:",
+        "break",
+        "print(i, j)",
+        "else:",
+        "print('No Break')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "total = 0",
+        "while total <= 10:",
+        "num = int(input('Enter a number: '))",
+        "total += num",
+        "print('Total exceeded 10')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "matrix = [[1, 2], [3, 4]]",
+        "for row in matrix:",
+        "for num in row:",
+        "if num % 2 == 0:",
+        "continue",
+        "print(num)",
+        "else:",
+        "print('Row complete')",
+        "if row[0] == 3:",
+        "break"
+      ]
+    }
+  ]
+}

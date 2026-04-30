@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, a for loop can iterate over each element in a list.",
+    "answer": true
+  },
+  {
+    "difficulty": 2,
+    "question": "A while loop in Python will execute its block of code at least once, regardless of the condition.",
+    "answer": false
+  },
+  {
+    "difficulty": 3,
+    "question": "Using the 'break' statement inside a loop will terminate the entire loop immediately.",
+    "answer": true
+  },
+  {
+    "difficulty": 4,
+    "question": "In Python, the 'continue' statement skips the current iteration and moves to the next one within a loop.",
+    "answer": true
+  },
+  {
+    "difficulty": 5,
+    "question": "Nested loops in Python can only be constructed using for loops inside while loops.",
+    "answer": false
+  },
+  {
+    "difficulty": 6,
+    "question": "List comprehensions in Python are generally slower than equivalent for loops for creating lists.",
+    "answer": false
+  },
+  {
+    "difficulty": 7,
+    "question": "Variables defined inside a for loop in Python are accessible outside the loop after its execution.",
+    "answer": true
+  },
+  {
+    "difficulty": 8,
+    "question": "An infinite loop in Python can be created by using a while loop with a condition that never evaluates to False.",
+    "answer": true
+  },
+  {
+    "difficulty": 9,
+    "question": "In Python, the 'else' block in a loop will execute only if the loop was terminated by a 'break' statement.",
+    "answer": false
+  },
+  {
+    "difficulty": 10,
+    "question": "Using generator expressions with loops in Python can reduce memory consumption compared to using list comprehensions for large datasets.",
+    "answer": true
+  }
+]
+```

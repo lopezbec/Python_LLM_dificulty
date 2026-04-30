@@ -1,0 +1,185 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "difficulty": 1,
+      "questionType": "drag-and-drop",
+      "prompt": "Drag and drop the statements to print numbers from 0 to 4 using a for loop.",
+      "codeSnippet": "???\n    ???",
+      "draggableItems": [
+        "for i in range(5):",
+        "print(i)",
+        "i = 0"
+      ],
+      "correctAnswer": [
+        "for i in range(5):",
+        "print(i)"
+      ],
+      "explanation": "Use 'for i in range(5):' to iterate from 0 to 4, and 'print(i)' to display each number."
+    },
+    {
+      "questionNumber": 2,
+      "difficulty": 2,
+      "questionType": "drag-and-drop",
+      "prompt": "Fill in the blanks to print numbers from 0 to 4 using a while loop.",
+      "codeSnippet": "c = 0\n???\n    ???\n    ???\nprint(\"Loop finished\")",
+      "draggableItems": [
+        "while c < 5:",
+        "for c in range(5):",
+        "c += 1",
+        "print(c)",
+        "break"
+      ],
+      "correctAnswer": [
+        "while c < 5:",
+        "print(c)",
+        "c += 1"
+      ],
+      "explanation": "A while loop runs until the condition is false. 'while c < 5:' keeps looping, 'print(c)' displays c, and 'c += 1' increments c until it reaches 5."
+    },
+    {
+      "questionNumber": 3,
+      "difficulty": 3,
+      "questionType": "drag-and-drop",
+      "prompt": "Complete the for loop to stop printing when i equals 2.",
+      "codeSnippet": "for i in range(5):\n    if ???:\n        ???\n    print(i)",
+      "draggableItems": [
+        "i == 2",
+        "break",
+        "continue",
+        "i = 0"
+      ],
+      "correctAnswer": [
+        "i == 2",
+        "break"
+      ],
+      "explanation": "When i equals 2, using 'break' ends the loop, so the numbers after 2 are not printed."
+    },
+    {
+      "questionNumber": 4,
+      "difficulty": 4,
+      "questionType": "drag-and-drop",
+      "prompt": "Complete the code to use a for-else structure. The 'else' block executes only if the loop never breaks.",
+      "codeSnippet": "???\n    if char == 'x':\n        break\n???\n    print(\"No break encountered\")",
+      "draggableItems": [
+        "for char in 'abc':",
+        "while char != 'x':",
+        "else:",
+        "continue"
+      ],
+      "correctAnswer": [
+        "for char in 'abc':",
+        "else:"
+      ],
+      "explanation": "A for-else construct executes the 'else' block only when the for loop completes without a 'break'."
+    },
+    {
+      "questionNumber": 5,
+      "difficulty": 5,
+      "questionType": "drag-and-drop",
+      "prompt": "Arrange the code blocks to create nested for loops that print coordinate pairs (x, y) from 0 to 1.",
+      "codeSnippet": "???\n    ???\n        print(x, y)",
+      "draggableItems": [
+        "for x in range(2):",
+        "for y in range(2):",
+        "while x < 2:",
+        "while y < 2:"
+      ],
+      "correctAnswer": [
+        "for x in range(2):",
+        "for y in range(2):"
+      ],
+      "explanation": "Nested for loops 'for x in range(2):' and 'for y in range(2):' print pairs (0,0), (0,1), (1,0), and (1,1)."
+    },
+    {
+      "questionNumber": 6,
+      "difficulty": 6,
+      "questionType": "drag-and-drop",
+      "prompt": "Fill in the blanks so the while loop skips printing even numbers using 'continue'.",
+      "codeSnippet": "i = 0\nwhile i < 5:\n    if ???:\n        ???\n    print(i)\n    i += 1",
+      "draggableItems": [
+        "i % 2 == 0",
+        "continue",
+        "break",
+        "i *= 2"
+      ],
+      "correctAnswer": [
+        "i % 2 == 0",
+        "continue"
+      ],
+      "explanation": "Using 'if i % 2 == 0: continue' skips printing even values, proceeding to the next iteration immediately."
+    },
+    {
+      "questionNumber": 7,
+      "difficulty": 7,
+      "questionType": "drag-and-drop",
+      "prompt": "Use enumerate to print both the index and the fruit name from the list.",
+      "codeSnippet": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfor ??? in ???:\n    print(index, fruit)",
+      "draggableItems": [
+        "index, fruit",
+        "enumerate(fruits)",
+        "for fruit in fruits:",
+        "for i in range(len(fruits)):"
+      ],
+      "correctAnswer": [
+        "index, fruit",
+        "enumerate(fruits)"
+      ],
+      "explanation": "Using 'for index, fruit in enumerate(fruits):' provides both the index and the item from the list."
+    },
+    {
+      "questionNumber": 8,
+      "difficulty": 8,
+      "questionType": "drag-and-drop",
+      "prompt": "Complete the for loop to iterate over both keys and values in the dictionary.",
+      "codeSnippet": "person = {\"name\": \"Alice\", \"age\": 30}\nfor ??? in ???:\n    print(key, value)",
+      "draggableItems": [
+        "key, value",
+        "person.items()",
+        "person.keys()",
+        "age, name"
+      ],
+      "correctAnswer": [
+        "key, value",
+        "person.items()"
+      ],
+      "explanation": "Using 'for key, value in person.items():' iterates over each key and its corresponding value in the dictionary."
+    },
+    {
+      "questionNumber": 9,
+      "difficulty": 9,
+      "questionType": "drag-and-drop",
+      "prompt": "Complete the nested loops. Break the inner loop when x equals y, so that pair is not printed.",
+      "codeSnippet": "for x in range(3):\n    for y in range(3):\n        if ???:\n            ???\n        print(x, y)",
+      "draggableItems": [
+        "x == y",
+        "break",
+        "continue",
+        "x != y"
+      ],
+      "correctAnswer": [
+        "x == y",
+        "break"
+      ],
+      "explanation": "When x equals y, 'break' exits the inner loop, so that matching pair is skipped."
+    },
+    {
+      "questionNumber": 10,
+      "difficulty": 10,
+      "questionType": "drag-and-drop",
+      "prompt": "Use a for-else structure to check if the number is prime. If a divisor is found, break; otherwise print 'Prime'.",
+      "codeSnippet": "num = 29\nfor i in range(2, num):\n    if ???:\n        ???\nelse:\n    print(\"Prime\")",
+      "draggableItems": [
+        "num % i == 0",
+        "break",
+        "continue",
+        "num / i == 0"
+      ],
+      "correctAnswer": [
+        "num % i == 0",
+        "break"
+      ],
+      "explanation": "If 'num % i == 0', the number is divisible, so 'break' stops the loop. The else block only runs if no break occurs, indicating num is prime."
+    }
+  ]
+}

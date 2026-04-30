@@ -1,0 +1,152 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "___ (x > 0):\n    print('Positive')",
+        "x",
+        "print('Positive')",
+        "___",
+        "if",
+        "else",
+        "elif",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+        "x",
+        "print('Positive')",
+        "___",
+        "print('Non-positive')",
+        "if",
+        "elif",
+        "else",
+        "then"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')",
+        "x",
+        "print('Positive')",
+        "x == 0",
+        "print('Zero')",
+        "if",
+        "else",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "___ x > 0:\n    print('Positive')\n___ x == 0:\n    print('Zero')\n___:\n    print('Negative')",
+        "x",
+        "print('Positive')",
+        "x == 0",
+        "print('Zero')",
+        "print('Negative')",
+        "if",
+        "elif",
+        "else",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 0:\n    ___ y > 0:\n        print('Both positive')",
+        "x",
+        "___",
+        "y",
+        "print('Both positive')",
+        "if",
+        "else",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 0 ___ y > 0:\n    print('Both x and y are positive')",
+        "x",
+        "___",
+        "y",
+        "print('Both x and y are positive')",
+        "and",
+        "or",
+        "not",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x ___ 0:\n    print('x is non-zero')",
+        "x",
+        "___",
+        "print('x is non-zero')",
+        "==",
+        "!=",
+        ">",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if 0 ___ x and x ___ 10:\n    print('x is between 0 and 10')",
+        "0",
+        "___",
+        "x",
+        "x ___ 10",
+        "print('x is between 0 and 10')",
+        "<",
+        ">",
+        "<=",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "print('Even') if x % 2 ___ 0 else print('Odd')",
+        "print('Even')",
+        "x",
+        "%",
+        "2",
+        "___",
+        "0",
+        "else",
+        "print('Odd')",
+        "==",
+        "!=",
+        "%",
+        "<="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def check_number(n):\n    ___ n > 0:\n        return 'Positive'\n    ___ n == 0:\n        return 'Zero'\n    ___:\n        return 'Negative'",
+        "check_number",
+        "n",
+        "___ n > 0",
+        "return 'Positive'",
+        "___ n == 0",
+        "return 'Zero'",
+        "___",
+        "return 'Negative'",
+        "if",
+        "elif",
+        "else",
+        "for"
+      ]
+    }
+  ]
+}

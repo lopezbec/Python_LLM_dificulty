@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list",
+        "tuple",
+        "string",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "enumerate",
+        "for idx, val in '________'(list): print(idx, val)",
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "for",
+        "while",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "inner"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "range",
+        "comparison"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "itertools",
+        "zip"
+      ]
+    }
+  ]
+}

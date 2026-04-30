@@ -1,0 +1,67 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "range"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i, item in ______(my_list):",
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "zip"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "parentheses",
+        "brackets"
+      ]
+    }
+  ]
+}

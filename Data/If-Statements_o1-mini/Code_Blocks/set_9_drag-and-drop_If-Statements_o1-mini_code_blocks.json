@@ -1,0 +1,131 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x",
+        "x > 0",
+        "x = int(input('Enter a number: '))",
+        "if x > 0:",
+        "    print('x is positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-else",
+        "age",
+        "age >= 18",
+        "if age >= 18:",
+        "    print('You are an adult.')",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-elif-else",
+        "score",
+        "if score >= 90:",
+        "    print('Grade A')",
+        "elif score >= 70:",
+        "    print('Grade B')",
+        "else:",
+        "    print('Grade C')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "nested if",
+        "num",
+        "if num > 0:",
+        "    print('The number is positive.')",
+        "    if num % 2 == 0:",
+        "        print('The number is even.')",
+        "else:",
+        "    print('The number is not positive.')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "multiple conditions",
+        "logical operators",
+        "age",
+        "has_license",
+        "if age >= 18 and has_license:",
+        "    print('Access granted.')",
+        "else:",
+        "    print('Access denied.')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "in",
+        "item",
+        "items",
+        "if item in items:",
+        "    print('Item found.')",
+        "else:",
+        "    print('Item not found.')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "elif",
+        "if",
+        "temperature",
+        "if temperature <= 0:",
+        "    print('Temperature is freezing.')",
+        "elif temperature > 20:",
+        "    print('Temperature is warm.')",
+        "else:",
+        "    print('Temperature is moderate.')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "or",
+        "a",
+        "b",
+        "c",
+        "d",
+        "if a > b or c < d:",
+        "    print('At least one condition is true.')",
+        "else:",
+        "    print('All conditions are false.')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "ternary operator",
+        "result",
+        "score",
+        "result = 'Pass' if score >= 60 else 'Fail'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-elif-else",
+        "input_str",
+        "if len(input_str) < 5:",
+        "    print('Input is too short.')",
+        "elif not input_str.isalnum():",
+        "    print('Input contains special characters.')",
+        "else:",
+        "    print('Input is valid.')"
+      ]
+    }
+  ]
+}

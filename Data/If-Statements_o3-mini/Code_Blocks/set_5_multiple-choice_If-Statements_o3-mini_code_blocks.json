@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 0: print('positive')",
+        "if x > 0 then print('positive')",
+        "if (x > 0) print('positive')",
+        "if x > 0: then print('positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "elif",
+        "else",
+        "default",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else",
+        "elif",
+        "except",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 5\nif x < 10:\n    print('Low')\nelse:\n    print('High')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10\nif x > 5:\n    if x < 15:\n        print('Mid range')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x > 0) and (x < 10):\n    print('x is a single digit')",
+        "if x > 0 or x < 10:\n    print('x is a single digit')",
+        "if (x > 0 && x < 10):\n    print('x is a single digit')",
+        "if x > 0 & x < 10:\n    print('x is a single digit')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 7\nif x % 2 == 0:\n    print('Even')\nelif x % 2 != 0:\n    print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 3\nif x > 5:\n    print('Greater than 5')\nelif x == 3:\n    print('Equal to 3')\nelse:\n    print('Less than 5')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "a = 10\nb = 20\nif a > b:\n    print('a is greater')\nelif a == b:\n    print('a and b are equal')\nelse:\n    print('b is greater')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if s.startswith('A'):\n    print('Starts with A')",
+        "if s[0] == 'A':\n    print('Starts with A')",
+        "if s == 'A':\n    print('Starts with A')",
+        "if s.find('A'):\n    print('Starts with A')"
+      ]
+    }
+  ]
+}

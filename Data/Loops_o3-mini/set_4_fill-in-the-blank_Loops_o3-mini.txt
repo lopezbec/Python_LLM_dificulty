@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank: To iterate over a sequence of elements in Python, you typically use a ______ loop.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank: When the number of iterations is not predetermined and depends on a condition, you use a ______ loop in Python.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank: Complete the following loop to print numbers from 0 to 9: for i in ______(10): print(i)",
+      "answer": "range"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank: To iterate over both keys and values in a dictionary called 'data', you can use the method: for key, value in data.________():",
+      "answer": "items"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank: In a loop, if you need to exit the loop immediately when a condition is met, you use the ______ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank: To skip the remainder of the current loop iteration and move to the next one, use the ______ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank: In a 'while' loop that increments a counter, it is essential to include a statement to ______ the counter variable in order to eventually meet the termination condition.",
+      "answer": "increment"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank: To iterate over two sequences simultaneously, you can use the ______ function, which pairs elements from each sequence together.",
+      "answer": "zip"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank: In a list comprehension, loops are used to generate lists concisely. The syntax begins with an expression followed by a ______ clause.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank: Using the ______ function with start, stop, and step parameters, you can generate a sequence of even numbers. For example: list(range(2, 21, 2)) produces even numbers from 2 to 20.",
+      "answer": "range"
+    }
+  ]
+}

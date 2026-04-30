@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while",
+        "while True",
+        "while False",
+        "for True",
+        "if True"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for index, value in enumerate(list):",
+        "for index, value in list.enumerate():",
+        "for index, value in enumerate(list()):",
+        "for index in range(len(list)):"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue",
+        "pass",
+        "break",
+        "exit()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "i = 0\nwhile i < 5:\n    print(i)\n    i += 1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "total = 0\nfor num in range(1, 5):\n    if num % 2 == 0:\n        continue\n    total += num\nprint(total)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for key, value in dict.items():",
+        "for key, value in dict.iteritems():",
+        "for (key, value) in dict:",
+        "for key, value in dict.keys():"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(2):\n    for j in range(i):\n        print('Hello')",
+        "'Hello'"
+      ]
+    }
+  ]
+}

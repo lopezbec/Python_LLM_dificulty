@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "range()",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "while statement",
+        "True",
+        "'break'",
+        "else clause"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "pass",
+        "stop",
+        "break",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else clause",
+        "for loop",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "dictionary",
+        "dictionary's values",
+        "dictionary's keys"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "while loop",
+        "for loop",
+        "list",
+        "range function"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 5\nwhile x > 0:\n    print(x)\n    x -= 2"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(4):\n    for j in range(2):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i, v in enumerate(sequence)",
+        "for i in sequence",
+        "for x, y in zip(sequence)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while loop",
+        "for loop",
+        "list.append(x*x)",
+        "[x*x for x in range(1000)]",
+        "generator expression",
+        "list()"
+      ]
+    }
+  ]
+}

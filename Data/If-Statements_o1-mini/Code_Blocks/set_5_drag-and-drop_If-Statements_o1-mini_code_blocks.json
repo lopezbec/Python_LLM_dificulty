@@ -1,0 +1,142 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ___(1)___ > 10:",
+        "print(\"Greater than 10\")",
+        "x",
+        "else",
+        "elif",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if score >= 50:",
+        "result = \"Pass\"",
+        "___(1)___:",
+        "result = \"Fail\"",
+        "elif",
+        "else",
+        "endif",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if num > 0:",
+        "print(\"Positive\")",
+        "elif num < 0:",
+        "print(\"Negative\")",
+        "else:",
+        "print(\"Zero\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "and",
+        ":",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 18",
+        "if age ___(1)___ 18:",
+        "print(\"Eligible to vote\")",
+        "else:",
+        "print(\"Not eligible\")",
+        ">",
+        ">=",
+        "<",
+        "<=",
+        "==",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "result = 'Even' ___(1)___ (number % 2 == 0) ___(2)___ 'Odd'",
+        "if",
+        "else",
+        "elif",
+        ":",
+        "?"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (x > 0 ___(1)___ y > 0) ___(2)___ (x + y < 100):",
+        "print(\"Conditions met\")",
+        "and",
+        "or",
+        "not",
+        ":",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "age = 25",
+        "print(\"Senior\")",
+        "else:",
+        "print(\"Adult\")",
+        "if age < 13:",
+        "print(\"Child\")",
+        "elif age < 20:",
+        "if age < 13:",
+        "print(\"Child\")",
+        "elif age < 20:",
+        "print(\"Teenager\")",
+        "else:",
+        "print(\"Adult\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def check_divisible(n):",
+        "if n % 3 == 0 ___(1)___ n % 5 == 0:",
+        "return True",
+        "else:",
+        "return False",
+        "and",
+        "or",
+        "not",
+        "==",
+        ":",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def classify_triangle(a, b, c):",
+        "if a == b and b == c:",
+        "___(1)___(\"Equilateral\")",
+        "elif a == b or b == c or a == c:",
+        "___(2)___(\"Isosceles\")",
+        "else:",
+        "___(3)___(\"Scalene\")",
+        "print",
+        "return",
+        "elif",
+        "if",
+        "else",
+        "pass"
+      ]
+    }
+  ]
+}

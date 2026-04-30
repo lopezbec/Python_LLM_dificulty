@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "code inside the loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Loops",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break statement",
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for loop",
+        "dictionary's keys",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Python",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "continue statement",
+        "Python's loop"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Nested loops",
+        "Python",
+        "loop inside another loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "else block",
+        "loops",
+        "Python"
+      ]
+    }
+  ]
+}

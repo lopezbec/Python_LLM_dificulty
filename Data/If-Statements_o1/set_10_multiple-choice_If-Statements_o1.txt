@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which is the correct syntax for a simple if statement in Python that checks if x is greater than 0?",
+      "choices": [
+        "A) if x > 0:",
+        "B) if x > 0",
+        "C) if (x > 0);",
+        "D) x if > 0:"
+      ],
+      "correct_answer": "A",
+      "explanation": "In Python, an if statement must end with a colon, and the condition goes immediately after the 'if' keyword."
+    },
+    {
+      "difficulty": 2,
+      "question": "What is the significance of indentation in Python's if statements?",
+      "choices": [
+        "A) It is optional and has no effect on program flow.",
+        "B) It is used arbitrarily to align code.",
+        "C) It defines the block of code controlled by the if statement.",
+        "D) It improves readability but is not enforced."
+      ],
+      "correct_answer": "C",
+      "explanation": "Python uses indentation to group lines of code. Code at the same indentation level belongs to the same block."
+    },
+    {
+      "difficulty": 3,
+      "question": "Which keyword can be used to check multiple conditions in succession, apart from 'if' and 'else'?",
+      "choices": [
+        "A) elif",
+        "B) else if",
+        "C) or",
+        "D) then"
+      ],
+      "correct_answer": "A",
+      "explanation": "In Python, the 'elif' keyword stands for 'else if' and allows multiple condition checks in an if-else chain."
+    },
+    {
+      "difficulty": 4,
+      "question": "How does Python execute an if statement without an else branch, when the condition is false?",
+      "choices": [
+        "A) The program stops execution immediately.",
+        "B) The if block is skipped, and execution continues after it.",
+        "C) It automatically checks for an elif block.",
+        "D) It raises a runtime error."
+      ],
+      "correct_answer": "B",
+      "explanation": "If the condition is false and there is no else or elif, Python simply skips the code inside the if block and continues execution afterward."
+    },
+    {
+      "difficulty": 5,
+      "question": "Consider the following code snippet:\n\nx = 5\nif x < 3:\n    print(\"Small\")\nelif x < 5:\n    print(\"Medium\")\nelse:\n    print(\"Large\")\n\nWhat will it print?",
+      "choices": [
+        "A) Small",
+        "B) Medium",
+        "C) Large",
+        "D) No output"
+      ],
+      "correct_answer": "C",
+      "explanation": "Because x equals 5, the condition x < 3 is false and x < 5 is also false, so the else block executes, printing \"Large\"."
+    },
+    {
+      "difficulty": 6,
+      "question": "What does the following nested if code snippet print when x = 7?\n\nx = 7\nif x < 10:\n    if x % 2 == 0:\n        print(\"Less than 10 and even\")\n    else:\n        print(\"Less than 10 and odd\")\nelse:\n    print(\"Greater or equal to 10\")",
+      "choices": [
+        "A) Less than 10 and even",
+        "B) Less than 10 and odd",
+        "C) Greater or equal to 10",
+        "D) No output"
+      ],
+      "correct_answer": "B",
+      "explanation": "Since x is 7 (which is below 10) and 7 % 2 equals 1, the code prints \"Less than 10 and odd.\""
+    },
+    {
+      "difficulty": 7,
+      "question": "What is the output of this code snippet?\n\nx = 5\nif x < 10 and x > 2:\n    print(\"Within range\")\nelse:\n    print(\"Out of range\")",
+      "choices": [
+        "A) Within range",
+        "B) Out of range",
+        "C) No output",
+        "D) Error"
+      ],
+      "correct_answer": "A",
+      "explanation": "Since x is 5, which is both less than 10 and greater than 2, it meets the condition and prints \"Within range.\""
+    },
+    {
+      "difficulty": 8,
+      "question": "Which of the following Python values will be interpreted as falsy in an if condition?",
+      "choices": [
+        "A) 0",
+        "B) None",
+        "C) An empty string",
+        "D) All of the above"
+      ],
+      "correct_answer": "D",
+      "explanation": "In Python, 0, None, empty strings, empty containers, and False are examples of values that evaluate to False in a conditional statement."
+    },
+    {
+      "difficulty": 9,
+      "question": "Which of the following is the correct one-line ternary if statement to assign var = 'Positive' if x > 0, otherwise 'Non-positive'?",
+      "choices": [
+        "A) var = 'Positive' if x > 0 else 'Non-positive'",
+        "B) var = if x > 0: 'Positive' else: 'Non-positive'",
+        "C) if x > 0 ? var = 'Positive' : var = 'Non-positive'",
+        "D) var = 'Non-positive' if x > 0 else 'Positive'"
+      ],
+      "correct_answer": "A",
+      "explanation": "Python's ternary operator uses the syntax: <true-value> if <condition> else <false-value>."
+    },
+    {
+      "difficulty": 10,
+      "question": "Which statement about short-circuit evaluation in Python if statements is correct when using 'and' or 'or'?",
+      "choices": [
+        "A) Python always evaluates every operand, ignoring short-circuit evaluation.",
+        "B) Python uses short-circuit evaluation, so the second operand may not be evaluated if the result is known.",
+        "C) Python applies short-circuit evaluation only to the 'and' operator and not to the 'or' operator.",
+        "D) Short-circuit evaluation is only applied to built-in functions, not user-defined expressions."
+      ],
+      "correct_answer": "B",
+      "explanation": "Python's logical operators 'and' and 'or' perform short-circuit evaluation, meaning the second expression is skipped if the overall outcome can be determined from the first."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10\nif x > 5:\n    print('Greater')\nelse:\n    print('Smaller')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else",
+        "if-statement",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 20\nif age >= 18:\n    print('Adult')\nelif age < 18 and age > 0:\n    print('Minor')\nelse:\n    print('Invalid age')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if condition:\n  pass\nelseif condition:\n  pass\nelse:\n  pass",
+        "if condition then:\n  pass\nelif condition then:\n  pass\notherwise:\n  pass",
+        "if condition:\n  pass\nelif condition:\n  pass\nelse:\n  pass",
+        "if (condition){\n  pass;\n} elseif (condition){\n  pass;\n} else {\n  pass;\n}",
+        "if-elif-else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 15\nif x < 10:\n    print('Less than 10')\nelif x < 20:\n    print('Between 10 and 20')\nelif x < 30:\n    print('Between 20 and 30')\nelse:\n    print('30 or more')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "def check_number(num):\n    if num == 0:\n        return 'Zero'\n    if num > 0:\n        return 'Positive'\n    return 'Negative'\n\nprint(check_number(-5))"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x",
+        "if x < 5 or x > 15:",
+        "if x < 5 && x > 15:",
+        "if (x < 5) || (x > 15):",
+        "if x < 5 & x > 15:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "values = [2, 4, 6, 8]\nfor val in values:\n    if val % 4 == 0:\n        print(val)\n    elif val % 2 == 0:\n        print(val * 2)\n    else:\n        print(val - 1)"
+      ]
+    }
+  ]
+}

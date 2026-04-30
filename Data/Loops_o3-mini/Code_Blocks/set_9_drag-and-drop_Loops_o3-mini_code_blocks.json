@@ -1,0 +1,107 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "if",
+        "____ i in range(3):\n    print(i)",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "i = 0",
+        "while",
+        "if",
+        "for",
+        "____ i < 3:\n    print(i)\n    i += 1",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for ____ in [1, 2, 3]:\n    print(____)",
+        "num",
+        "item",
+        "element",
+        "num",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "____\nwhile ____:\n    print(i)\n    i += 1",
+        "i = 0",
+        "i < 3",
+        "for i in range(3)",
+        "i = 0",
+        "i < 3"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):\n    for j in _____(2):\n        print(i, j)",
+        "range",
+        "while",
+        "if",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for ch in _____:\n    print(ch)",
+        "\"Hello\"",
+        "10",
+        "[1, 2, 3]",
+        "\"Hello\""
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "i = 0\nwhile i < 5:\n    print(i)\n    ____",
+        "i += 1",
+        "i -= 1",
+        "i++",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "my_dict = {'a': 1, 'b': 2}\nfor key in _____:\n    print(key)",
+        "my_dict.keys()",
+        "my_dict.values()",
+        "my_dict.items()",
+        "my_dict.keys()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for num in range(10):\n    if num == 5:\n        _____\n    print(num)",
+        "break",
+        "continue",
+        "pass",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(3):\n    print(i)\n____:\n    print('Done')",
+        "else",
+        "finally",
+        "except",
+        "else"
+      ]
+    }
+  ]
+}

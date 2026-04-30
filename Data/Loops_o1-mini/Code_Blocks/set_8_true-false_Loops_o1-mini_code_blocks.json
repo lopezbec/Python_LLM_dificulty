@@ -1,0 +1,67 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'while'",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'for'",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'continue'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": []
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'else'",
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'for'",
+        "'for'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while True:\n    pass"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "list",
+        "'for'"
+      ]
+    }
+  ]
+}

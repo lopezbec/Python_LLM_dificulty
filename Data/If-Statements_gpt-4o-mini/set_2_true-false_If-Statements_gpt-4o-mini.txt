@@ -1,0 +1,58 @@
+Here are 10 true-false questions about If-Statements in Python, formatted as JSON objects. The difficulty level increases from 1 to 10.
+
+```json
+[
+    {
+        "question": "An if-statement in Python performs a specified action if a certain condition evaluates to true.",
+        "answer": true,
+        "difficulty": 1
+    },
+    {
+        "question": "The else clause is mandatory in an if statement in Python.",
+        "answer": false,
+        "difficulty": 2
+    },
+    {
+        "question": "In Python, multiple conditions can be combined in an if statement using logical operators such as 'and' and 'or'.",
+        "answer": true,
+        "difficulty": 3
+    },
+    {
+        "question": "The elif statement in Python can be used to specify multiple alternative conditions to an if statement.",
+        "answer": true,
+        "difficulty": 4
+    },
+    {
+        "question": "In an if statement, if the condition is false, the code inside the if block will be executed.",
+        "answer": false,
+        "difficulty": 5
+    },
+    {
+        "question": "An if statement can only evaluate expressions of types int and float in Python.",
+        "answer": false,
+        "difficulty": 6
+    },
+    {
+        "question": "It is possible to nest if statements within other if statements in Python.",
+        "answer": true,
+        "difficulty": 7
+    },
+    {
+        "question": "The following if statement is correctly written: if x == 10: print('x is 10')",
+        "answer": true,
+        "difficulty": 8
+    },
+    {
+        "question": "Python allows the use of ternary conditional operators to simplify simple if-else statements, formatted as: x if condition else y.",
+        "answer": true,
+        "difficulty": 9
+    },
+    {
+        "question": "The indentation level of the code blocks in if statements does not matter in Python.",
+        "answer": false,
+        "difficulty": 10
+    }
+]
+```
+
+Each question has been crafted to ensure clarity and correctness. They progress in complexity as requested, covering various aspects of if-statements in Python while adhering to the true/false format.

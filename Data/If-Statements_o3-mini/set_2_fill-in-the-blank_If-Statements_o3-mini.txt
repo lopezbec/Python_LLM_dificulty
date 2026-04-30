@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: In Python, an if-statement begins with ____ followed by a condition.",
+      "answer": "if"
+    },
+    {
+      "difficulty": 2,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To check for equality in an if-statement, you must use the operator ____.",
+      "answer": "=="
+    },
+    {
+      "difficulty": 3,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: Every if-statement in Python must end its header with a ____.",
+      "answer": "colon"
+    },
+    {
+      "difficulty": 4,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To execute code when an if condition evaluates to False, you can use the ____ clause.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 5,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To introduce an additional condition after an if, use the keyword ____.",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 6,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To combine two conditions that both must be True in an if-statement, you use the ____ operator.",
+      "answer": "and"
+    },
+    {
+      "difficulty": 7,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To check if at least one condition is True in an if-statement, you use the ____ operator.",
+      "answer": "or"
+    },
+    {
+      "difficulty": 8,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: In nested if-statements, each level of indentation is conventionally increased by ____ spaces.",
+      "answer": "4"
+    },
+    {
+      "difficulty": 9,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: To check that a value is not equal to another in an if condition, you use the ____ operator.",
+      "answer": "!="
+    },
+    {
+      "difficulty": 10,
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: In Python, to verify if an element exists within a list inside an if-statement, use the ____ keyword.",
+      "answer": "in"
+    }
+  ]
+}

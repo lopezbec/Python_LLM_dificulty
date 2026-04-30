@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "In Python, the 'while' loop continues executing as long as its condition is True.",
+    "difficulty": 1,
+    "answer": true
+  },
+  {
+    "question": "In a 'for' loop in Python, the loop variable changes its value during each iteration.",
+    "difficulty": 2,
+    "answer": true
+  },
+  {
+    "question": "In Python, you can use the 'break' statement to exit a loop prematurely.",
+    "difficulty": 3,
+    "answer": true
+  },
+  {
+    "question": "In Python, the 'continue' statement skips the rest of the current loop iteration and proceeds to the next iteration.",
+    "difficulty": 4,
+    "answer": true
+  },
+  {
+    "question": "The 'else' clause in a loop in Python is executed only if the loop was terminated by a 'break' statement.",
+    "difficulty": 5,
+    "answer": false
+  },
+  {
+    "question": "In Python, the 'for' loop can iterate over a range of numbers defined by the 'range()' function.",
+    "difficulty": 6,
+    "answer": true
+  },
+  {
+    "question": "In Python, a 'for' loop can iterate over a string to access each character.",
+    "difficulty": 7,
+    "answer": true
+  },
+  {
+    "question": "In Python, omitting the condition in a 'while' loop will result in a syntax error.",
+    "difficulty": 8,
+    "answer": true
+  },
+  {
+    "question": "In Python, the time complexity of nested loops is generally quadratic, i.e., O(n²).",
+    "difficulty": 9,
+    "answer": true
+  },
+  {
+    "question": "In Python, 'foreach' is a valid keyword used for looping over items in a collection.",
+    "difficulty": 10,
+    "answer": false
+  }
+]
+```

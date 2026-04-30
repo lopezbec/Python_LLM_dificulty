@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "All basic if statements in Python must end with a colon (:).",
+      "difficulty": 1,
+      "correct_answer": "True"
+    },
+    {
+      "question": "If statements in Python ignore indentation, focusing only on line breaks for block structure.",
+      "difficulty": 2,
+      "correct_answer": "False"
+    },
+    {
+      "question": "Multiple conditions can be combined using logical operators like 'and' or 'or' in Python if statements.",
+      "difficulty": 3,
+      "correct_answer": "True"
+    },
+    {
+      "question": "The 'elif' keyword in Python is an abbreviation for 'else if' and checks additional conditions after an initial if.",
+      "difficulty": 4,
+      "correct_answer": "True"
+    },
+    {
+      "question": "The else clause is required whenever we write an if statement in Python.",
+      "difficulty": 5,
+      "correct_answer": "False"
+    },
+    {
+      "question": "Nested if statements in Python allow you to place an if statement inside another if block.",
+      "difficulty": 6,
+      "correct_answer": "True"
+    },
+    {
+      "question": "Python's conditional expression follows the syntax: x if condition else y.",
+      "difficulty": 7,
+      "correct_answer": "True"
+    },
+    {
+      "question": "In Python, an if statement can contain only one elif clause.",
+      "difficulty": 8,
+      "correct_answer": "False"
+    },
+    {
+      "question": "The pass keyword can be used within an if statement as a placeholder without executing any operation.",
+      "difficulty": 9,
+      "correct_answer": "True"
+    },
+    {
+      "question": "Placing multiple if statements sequentially in Python automatically makes them part of the same decision chain.",
+      "difficulty": 10,
+      "correct_answer": "False"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "10",
+        "if ______ :\n    print('x is 10')",
+        "x == 10",
+        "x = 10",
+        "x > 10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "greeting",
+        "'hi'",
+        "if ______ :\n    print(______) ",
+        "greeting == 'hi'",
+        "greeting = 'hi'",
+        "'Hello'",
+        "'Hi'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "score",
+        "50",
+        "if ______ score ______ 50:\n    ______('Pass')",
+        ">=",
+        ">",
+        "<",
+        "print",
+        "max"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "a",
+        "b",
+        "if a ______ b:\n    print('Valid')",
+        "<=",
+        "!=",
+        ">=",
+        "!"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "num",
+        "0",
+        "100",
+        "if num > 0 ______ num ______ 100:\n    print('Number in range')",
+        "and",
+        "or",
+        "not",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x",
+        "y",
+        "if x > y:\n    print('x is greater')\n______:\n    print('x is not greater')",
+        "else",
+        "elif",
+        "except",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "if x < 10:\n    print('Small')\n______ x == 20:\n    print('Medium')\nelse:\n    print('Large')",
+        "elif",
+        "else",
+        "then",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "temperature",
+        "0",
+        "30",
+        "if temperature < 0 ______ temperature ______ 30:\n    print('Extreme weather')",
+        "or",
+        "and",
+        "<",
+        ">",
+        "<="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "value",
+        "0",
+        "if ______ > 0:\n    print('Positive')\n______ value < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+        "elif",
+        "==",
+        "=",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "age",
+        "18",
+        "65",
+        "if age >= 18:\n    print('Adult')\n    ______ age >= 65:\n        print('Senior Privileges')\n    else:\n        print('Standard Privileges')\nelse:\n    print('Minor')",
+        "if",
+        "else",
+        "elif",
+        "then"
+      ]
+    }
+  ]
+}

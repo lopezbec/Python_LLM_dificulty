@@ -1,0 +1,75 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following keywords is used to create a simple loop in Python?",
+      "choices": ["if", "for", "else", "def"],
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "When using a 'for' loop, which function can be used to generate a sequence of numbers?",
+      "choices": ["range()", "list()", "dict()", "set()"],
+      "answer": "range()"
+    },
+    {
+      "difficulty": 3,
+      "question": "What will be the output of the following code?\n\nfor i in range(3):\n    print(i)\n",
+      "choices": ["0 1 2", "1 2 3", "0 1 2 3", "3"],
+      "answer": "0 1 2"
+    },
+    {
+      "difficulty": 4,
+      "question": "What is the output of the code snippet?\n\nx = 0\nwhile x < 5:\n    x += 1\n    print(x)\n    if x == 3:\n        break\n",
+      "choices": ["1 2 3", "1 2 3 4 5", "1 2", "3"],
+      "answer": "1 2 3"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which loop would you use if you know the number of iterations ahead of time?",
+      "choices": ["for loop", "while loop", "do-while loop", "None"],
+      "answer": "for loop"
+    },
+    {
+      "difficulty": 6,
+      "question": "What will the following code output?\n\nx = 10\ny = 0\nwhile x > y:\n    print(x)\n    x -= 2\n",
+      "choices": ["10 8 6 4 2", "10 9 8 7 6 5 4 3 2 1", "10 9", "8 6 4 2 0"],
+      "answer": "10 8 6 4 2"
+    },
+    {
+      "difficulty": 7,
+      "question": "Which of the following statements will correctly execute a loop 5 times in Python?",
+      "choices": [
+        "for i in range(5): pass",
+        "while i in range(5): pass",
+        "for i in range(1, 6): pass",
+        "while True: pass"
+      ],
+      "answer": "for i in range(5): pass"
+    },
+    {
+      "difficulty": 8,
+      "question": "What does the 'continue' statement do in a loop?",
+      "choices": [
+        "Exits the loop",
+        "Skips the rest of the code inside the loop for the current iteration",
+        "Exits the program",
+        "Pauses the loop"
+      ],
+      "answer": "Skips the rest of the code inside the loop for the current iteration"
+    },
+    {
+      "difficulty": 9,
+      "question": "Consider the following code:\n\nnumbers = [10, 20, 30]\nfor i, val in enumerate(numbers):\n    if val == 20:\n        numbers[i] = 40\nprint(numbers)\n\nWhat will be the output?",
+      "choices": ["[10, 20, 30]", "[10, 40, 30]", "[40, 20, 30]", "[10, 30, 40]"],
+      "answer": "[10, 40, 30]"
+    },
+    {
+      "difficulty": 10,
+      "question": "What is the output of this nested loop code?\n\nfor i in range(1, 4):\n    for j in range(i):\n        print(i, end='')\n    print()\n",
+      "choices": ["1\n22\n333", "1\n12\n123", "123\n", "Error"],
+      "answer": "1\n22\n333"
+    }
+  ]
+}

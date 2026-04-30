@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, an 'if' statement only executes the indented code if the condition evaluates to True.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "If you omit the colon (:) after the 'if' keyword in Python, your code will still run without error.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 3,
+      "question": "Python enforces indentation for code within an 'if' statement.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 4,
+      "question": "An 'if' statement in Python must always be paired with an 'else' clause.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 5,
+      "question": "Multiple 'elif' statements can appear between an 'if' and an 'else' to handle more complex conditions.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "Writing 'if (condition):' is valid syntax in Python and functions the same as 'if condition:'.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 7,
+      "question": "Nested 'if' statements allow deeper condition checks within the same block of code.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "You can combine multiple conditions in a single 'if' statement using logical operators like 'and', 'or', and 'not'.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 9,
+      "question": "Short-circuit evaluation in Python means that if the outcome is already determined, the rest of an 'and' or 'or' expression is not evaluated.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 10,
+      "question": "The ternary operator syntax 'value_if_true if condition else value_if_false' is invalid in Python.",
+      "correct_answer": "False"
+    }
+  ]
+}

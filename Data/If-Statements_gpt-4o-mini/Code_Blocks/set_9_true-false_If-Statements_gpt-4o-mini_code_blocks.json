@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "condition",
+        "if block"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "else if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Python",
+        "elif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "If-else statements",
+        "Python",
+        "boolean values",
+        "conditions"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "logical operators",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "condition",
+        "expression"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x == 10:",
+        "Python",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-else chain",
+        "else statement",
+        "code block"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "Python",
+        "single line"
+      ]
+    }
+  ]
+}

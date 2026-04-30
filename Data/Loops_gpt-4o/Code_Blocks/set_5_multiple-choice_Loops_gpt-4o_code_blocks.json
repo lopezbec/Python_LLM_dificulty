@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "while",
+        "def",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "stop",
+        "exit",
+        "end"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(3):\n  print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "numbers = [1, 2, 3, 4]\nfor n in numbers:\n  if n == 3:\n    continue\n  print(n)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "for",
+        "while",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(2):\n  for j in range(2):\n    print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "a = [1, 2]",
+        "b = [3, 4]",
+        "for x in a:\n  for y in b:\n    print(x, y)",
+        "for x in a:\n  for y in a:\n    print(x, y)",
+        "for x in b:\n  for y in b:\n    print(x, y)",
+        "for x in a:\n  for y in b:\n    pass"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "__iter__()",
+        "__next__()"
+      ]
+    }
+  ]
+}

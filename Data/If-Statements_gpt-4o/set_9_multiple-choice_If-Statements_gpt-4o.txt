@@ -1,0 +1,115 @@
+
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of an if-statement in Python?",
+      "difficulty": 1,
+      "options": {
+        "A": "To perform calculations",
+        "B": "To store data",
+        "C": "To execute code based on a condition",
+        "D": "To repeat a block of code"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is the correct way to start an if-statement in Python?",
+      "difficulty": 2,
+      "options": {
+        "A": "if (condition)",
+        "B": "if condition:",
+        "C": "if condition then",
+        "D": "if: condition"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Consider the following code block:\n\n```\nx = 5\nif x > 4:\n    print('x is greater than 4')\n```\n\nWhat is the output?",
+      "difficulty": 3,
+      "options": {
+        "A": "x is greater than 4",
+        "B": "x is not greater than 4",
+        "C": "No output",
+        "D": "Error"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following will cause a syntax error in an if-statement?",
+      "difficulty": 4,
+      "options": {
+        "A": "if (3 > 2):",
+        "B": "if 3 > 2:",
+        "C": "if 3 > 2",
+        "D": "if (3 > 2)"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Given the following code, what will be the output?\n\n```\nx = 10\nif x == 5:\n    print('x is 5')\nelse:\n    print('x is not 5')\n```",
+      "difficulty": 5,
+      "options": {
+        "A": "x is 5",
+        "B": "x is not 5",
+        "C": "Error",
+        "D": "No output"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "What will be the output of the following code?\n\n```\nx = 5\ny = 10\nif x > y:\n    print('x is greater than y')\nelif x < y:\n    print('x is less than y')\nelse:\n    print('x is equal to y')\n```",
+      "difficulty": 6,
+      "options": {
+        "A": "x is greater than y",
+        "B": "x is less than y",
+        "C": "x is equal to y",
+        "D": "Error"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which block of code correctly uses the 'elif' statement?",
+      "difficulty": 7,
+      "options": {
+        "A": "if x > 5: pass\nelse if x < 5: pass",
+        "B": "if x > 5: pass\nelif x < 5: pass\nelse: pass",
+        "C": "if x > 5 then pass\nelif x < 5 then pass",
+        "D": "if x > 5: pass\nelif: x < 5: pass\nelse: pass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Identify the problem in the following code snippet:\n\n```\nx = 3\ny = 4\nif x > y:\n    print('x is greater')\nprint('Comparison done')\nelse:\n    print('y is greater or equal')\n```",
+      "difficulty": 8,
+      "options": {
+        "A": "The else statement is misplaced",
+        "B": "The if-statement needs a condition",
+        "C": "There is no problem",
+        "D": "There should not be an else after the print statement"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "What will be the result of running this code?\n\n```\nx = 4\nif x > 3:\n    if x < 5:\n        print('x is between 3 and 5')\n    else:\n        print('x is greater than or equal to 5')\nelse:\n    print('x is 3 or less')\n```",
+      "difficulty": 9,
+      "options": {
+        "A": "x is greater than or equal to 5",
+        "B": "x is 3 or less",
+        "C": "x is between 3 and 5",
+        "D": "No output"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Consider the following nested if-statements:\n\n```\nx = 5\ny = 10\nif x > 2:\n    if y < 15:\n        if x == 5:\n            print('x is 5 and y is less than 15')\n        else:\n            print('x is not 5')\n    else:\n        print('y is greater than or equal to 15')\nelse:\n    print('x is less than or equal to 2')\n```\n\nWhat is the output?",
+      "difficulty": 10,
+      "options": {
+        "A": "x is 5 and y is less than 15",
+        "B": "y is greater than or equal to 15",
+        "C": "x is not 5",
+        "D": "x is less than or equal to 2"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

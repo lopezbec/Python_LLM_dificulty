@@ -1,0 +1,207 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10",
+        "__1__ x > 5:",
+        "print(\"x is greater than 5\")",
+        "x",
+        "if",
+        "while",
+        "func"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 0",
+        "__1__ x __2__ 0:",
+        "print(\"Yes\")",
+        "__3__:",
+        "print(\"No\")",
+        "x",
+        "if",
+        "elif",
+        "while",
+        "==",
+        "!=",
+        ">",
+        "else",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = -3",
+        "__1__ x < 0:",
+        "print(\"Negative\")",
+        "__2__ x == 0:",
+        "print(\"Zero\")",
+        "__3__:",
+        "print(\"Positive\")",
+        "x",
+        "if",
+        "else",
+        "try",
+        "elif",
+        "return",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 15",
+        "__1__ x % 3 == 0 and x % 5 == 0:",
+        "print(\"Divisible by 3 and 5\")",
+        "__2__ x % 3 == 0:",
+        "print(\"Divisible by 3\")",
+        "__3__ x % 5 == 0:",
+        "print(\"Divisible by 5\")",
+        "__4__:",
+        "print(\"Not divisible by 3 or 5\")",
+        "x",
+        "if",
+        "while",
+        "elif",
+        "else",
+        "pass",
+        "try",
+        "except",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = -2",
+        "__1__ x % 2 == 0:",
+        "__2__ x < 0:",
+        "print(\"Even Negative\")",
+        "__3__:",
+        "print(\"Even Positive\")",
+        "__4__:",
+        "print(\"Not Even\")",
+        "x",
+        "if",
+        "elif",
+        "while",
+        "else",
+        "except",
+        "for",
+        "finally",
+        "with"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "age = 40",
+        "__1__ age < 13:",
+        "print(\"Child\")",
+        "__2__ age < 18:",
+        "print(\"Teen\")",
+        "__3__ age < 65:",
+        "print(\"Adult\")",
+        "__4__:",
+        "print(\"Senior\")",
+        "age",
+        "if",
+        "else",
+        "while",
+        "elif",
+        "try",
+        "except",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "word = \"Python\"",
+        "__1__ word.startswith(\"P\"):",
+        "print(\"Starts with P\")",
+        "__2__ word.endswith(\"n\"):",
+        "print(\"Ends with n\")",
+        "__3__:",
+        "print(\"Does not start with P or end with n\")",
+        "word",
+        "if",
+        "else",
+        "with",
+        "elif",
+        "except",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "year = 2020",
+        "__1__ (year % 400 == 0) __2__ (year % 4 == 0 and year % 100 != 0):",
+        "print(\"Leap Year\")",
+        "__3__:",
+        "print(\"Not a Leap Year\")",
+        "year",
+        "if",
+        "elif",
+        "while",
+        "and",
+        "or",
+        "not",
+        "else",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "fruits = [\"apple\", \"banana\", \"cherry\"]",
+        "food = \"APPLE\"",
+        "__1__ food.lower() in fruits:",
+        "__2__ food.isupper():",
+        "print(\"Fruit in uppercase form\")",
+        "__3__:",
+        "print(\"Fruit in non-uppercase form\")",
+        "__4__:",
+        "print(\"Not a fruit\")",
+        "fruits",
+        "food",
+        "if",
+        "while",
+        "elif",
+        "else",
+        "try",
+        "return",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "score = 92",
+        "__1__ score >= 90:",
+        "category = \"A\"",
+        "__2__ score > 95:",
+        "grade = \"A+\"",
+        "__3__:",
+        "grade = \"A\"",
+        "__4__ score >= 80:",
+        "category = \"B\"",
+        "grade = \"B\"",
+        "__5__:",
+        "category = \"C\"",
+        "grade = \"C\"",
+        "score",
+        "if",
+        "elif",
+        "while",
+        "else",
+        "except",
+        "finally"
+      ]
+    }
+  ]
+}

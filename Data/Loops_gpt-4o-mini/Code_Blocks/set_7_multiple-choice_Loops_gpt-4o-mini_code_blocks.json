@@ -1,0 +1,75 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "continue",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(4):\n    print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "while x < 10:",
+        "while (x < 10):",
+        "while x < 10",
+        "while: x < 10"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "sum = 0\nfor i in range(1, 5):\n    sum += i\n\nprint(sum)",
+        "sum"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "enumerate()",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "count = 0\nwhile count < 10:\n    count += 2"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(5):\n    if i == 3:\n        break\n    print(i)",
+        "i == 3",
+        "break",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "values = [1, 2, 3]\nfor index, value in enumerate(values):\n    print(index, value)",
+        "enumerate(values)",
+        "print(index, value)"
+      ]
+    }
+  ]
+}

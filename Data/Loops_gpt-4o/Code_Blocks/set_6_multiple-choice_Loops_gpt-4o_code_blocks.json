@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "fruits",
+        "for fruit in fruits:",
+        "while fruit in fruits:",
+        "for i = 0; i < fruits.length; i++",
+        "repeat fruits"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(5): print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "continue",
+        "exit",
+        "break",
+        "stop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(3):\n    print(i)\nelse:\n    print('Done')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "i",
+        "for i in range(10):\n    if i == 5:\n        break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "return",
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "numbers = [1, 2, 3]",
+        "[x ** 2 for x in numbers]",
+        "[x * 2 for x in numbers]",
+        "[numbers[i] ** 2 for i in numbers]",
+        "[i ** 3 for i in numbers]"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for key in dictionary.keys()",
+        "for value in dictionary.values()",
+        "for key, value in dictionary.items()",
+        "for item in dictionary"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "horsemen = ['war', 'famine', 'pestilence']",
+        "for name in enumerate(horsemen): horsemen[name] = name + 'death'",
+        "for i in range(len(horsemen)): horsemen[i] += 'death'",
+        "for i in range(len(horsemen)): horsemen += ['death']",
+        "horsemen += ['death']"
+      ]
+    }
+  ]
+}

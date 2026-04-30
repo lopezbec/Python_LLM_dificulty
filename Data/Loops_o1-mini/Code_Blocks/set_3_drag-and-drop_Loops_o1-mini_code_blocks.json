@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for",
+        "in",
+        "range(5)",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "count = 0",
+        "count < 5",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Outer loop",
+        "Inner loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": []
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for index, value in enumerate(my_list):\n    print(index, value)",
+        "enumerate(my_list)",
+        "index",
+        "value"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "while True:\n    print('This loop never ends')",
+        "True",
+        "print('This loop never ends')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'while'",
+        "condition",
+        "'True'"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "For loops",
+        "lists"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'break'",
+        "loop",
+        "loop condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'continue'",
+        "loop",
+        "loop block"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "loop",
+        "nested",
+        "syntax errors"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'for'",
+        "sequence of numbers",
+        "iteration",
+        "iterable"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'break'",
+        "nested loop",
+        "innermost loop"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "loop variable",
+        "arithmetic operations",
+        "+=",
+        "loop's control"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "dictionary",
+        "loop",
+        "key",
+        "value"
+      ]
+    }
+  ]
+}

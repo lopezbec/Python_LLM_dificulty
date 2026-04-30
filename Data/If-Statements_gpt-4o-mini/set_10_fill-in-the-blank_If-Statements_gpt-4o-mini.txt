@@ -1,0 +1,114 @@
+```json
+[
+    {
+        "difficulty": 1,
+        "question": "In Python, an if-statement is used to make _____ based on certain conditions.",
+        "correct_answer": "decisions",
+        "options": [
+            "decisions",
+            "loops",
+            "functions",
+            "calls"
+        ]
+    },
+    {
+        "difficulty": 2,
+        "question": "The syntax for an if-statement begins with the keyword 'if' followed by a _____ and a colon.",
+        "correct_answer": "condition",
+        "options": [
+            "block",
+            "condition",
+            "parameter",
+            "function"
+        ]
+    },
+    {
+        "difficulty": 3,
+        "question": "To execute a block of code when the condition in an if-statement is true, you write the code _____ the if statement.",
+        "correct_answer": "indented under",
+        "options": [
+            "directly after",
+            "indented under",
+            "in a separate function",
+            "after the endif"
+        ]
+    },
+    {
+        "difficulty": 4,
+        "question": "An if-statement can be expanded to include multiple alternative conditions using the _____ keyword.",
+        "correct_answer": "elif",
+        "options": [
+            "else",
+            "elif",
+            "when",
+            "moreif"
+        ]
+    },
+    {
+        "difficulty": 5,
+        "question": "In a compound if-statement, the logical operator _____ can be used to check if at least one condition is true.",
+        "correct_answer": "or",
+        "options": [
+            "and",
+            "or",
+            "not",
+            "xor"
+        ]
+    },
+    {
+        "difficulty": 6,
+        "question": "To specify a block of code to execute if the if condition is false, you use the _____ clause.",
+        "correct_answer": "else",
+        "options": [
+            "elseif",
+            "else",
+            "not",
+            "when"
+        ]
+    },
+    {
+        "difficulty": 7,
+        "question": "The _____ operator is used to check for equality in an if-statement.",
+        "correct_answer": "==",
+        "options": [
+            "!=",
+            "==",
+            "=",
+            "is"
+        ]
+    },
+    {
+        "difficulty": 8,
+        "question": "When nesting if-statements, the inner if-statement must be indented relative to the _____ if-statement.",
+        "correct_answer": "outer",
+        "options": [
+            "first",
+            "outer",
+            "last",
+            "final"
+        ]
+    },
+    {
+        "difficulty": 9,
+        "question": "In Python, the _____ statement can be used to exit if-statements prematurely based on a condition.",
+        "correct_answer": "break",
+        "options": [
+            "exit",
+            "continue",
+            "break",
+            "stop"
+        ]
+    },
+    {
+        "difficulty": 10,
+        "question": "Using an if-statement, if the condition is (x > 10) and you want to check if x is also less than 20, you would write: 'if (x > 10) _____ (x < 20):'",
+        "correct_answer": "and",
+        "options": [
+            "or",
+            "not",
+            "and",
+            "xor"
+        ]
+    }
+]
+```

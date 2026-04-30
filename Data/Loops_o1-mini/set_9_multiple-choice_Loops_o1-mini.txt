@@ -1,0 +1,84 @@
+```json
+[
+  {
+    "question": "What keyword is used to start a loop that iterates a specific number of times in Python?",
+    "options": ["while", "loop", "for", "iterate"],
+    "answer": "for",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following is the correct syntax for a while loop in Python?",
+    "options": [
+      "while (i < 5) { print(i) }",
+      "while i < 5: print(i)",
+      "while i < 5 then print(i)",
+      "while i < 5 do print(i)"
+    ],
+    "answer": "while i < 5: print(i)",
+    "difficulty": 2
+  },
+  {
+    "question": "What will be the output of the following code?\n\nfor i in range(3):\n  print(i)",
+    "options": ["0 1 2 3", "1 2 3", "0 1 2", "1 2"],
+    "answer": "0 1 2",
+    "difficulty": 3
+  },
+  {
+    "question": "Which statement is used to skip the current iteration and continue with the next one in a loop?",
+    "options": ["break", "pass", "continue", "exit"],
+    "answer": "continue",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 3:\n  print(count)\n  count += 1\n  else:\n  print('Done')",
+    "options": ["0 1 2", "0 1 2 Done", "1 2 3 Done", "Infinite loop"],
+    "answer": "0 1 2 Done",
+    "difficulty": 5
+  },
+  {
+    "question": "How many times will the inner loop execute in the following nested loops?\n\nfor i in range(2):\n  for j in range(3):\n   print(i, j)",
+    "options": ["2", "3", "5", "6"],
+    "answer": "6",
+    "difficulty": 6
+  },
+  {
+    "question": "Which of the following list comprehensions correctly creates a list of squares from 0 to 9?",
+    "options": [
+      "[x^2 for x in range(10)]",
+      "[x**2 for x in range(10)]",
+      "[pow(x, 2) for x in range(10)]",
+      "Both B and C"
+    ],
+    "answer": "Both B and C",
+    "difficulty": 7
+  },
+  {
+    "question": "What will be the output of this code snippet?\n\nfor i in range(5):\n  if i == 3:\n   break\n  print(i)",
+    "options": ["0 1 2 3", "0 1 2", "0 1 2 3 4", "No output"],
+    "answer": "0 1 2",
+    "difficulty": 8
+  },
+  {
+    "question": "In Python, what is the purpose of the 'else' block in a for loop?",
+    "options": [
+      "To execute code if the loop was terminated by a break statement.",
+      "To execute code after the loop completes normally without a break.",
+      "To handle exceptions that occur within the loop.",
+      "To define an alternative loop condition."
+    ],
+    "answer": "To execute code after the loop completes normally without a break.",
+    "difficulty": 9
+  },
+  {
+    "question": "Consider the following code:\n\ndef find_first_even(numbers):\n  for num in numbers:\n   if num % 2 == 0:\n    return num\n  else:\n   return None\n\nWhat will 'find_first_even([1, 3, 5, 7])' return?",
+    "options": [
+      "1",
+      "None",
+      "It will raise an error.",
+      "7"
+    ],
+    "answer": "None",
+    "difficulty": 10
+  }
+]
+```

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, we start a conditional statement with the ______ keyword.",
+      "answer": "if"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which symbol must immediately follow the condition in an if statement? For example, if x > 0 ______",
+      "answer": ":"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank in the following code so that it prints 'High' if x is greater than 10, and 'Low' otherwise:\n\nif x > 10:\n    print(\"High\")\n________:\n    print(\"Low\")",
+      "answer": "else"
+    },
+    {
+      "difficulty": 4,
+      "question": "Complete the code snippet to handle three conditions. It should print 'Positive' if x is greater than 0, 'Zero' if x equals 0, and 'Negative' otherwise:\n\nif x > 0:\n    print(\"Positive\")\n________ x == 0:\n    print(\"Zero\")\nelse:\n    print(\"Negative\")",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 5,
+      "question": "Given the code snippet below, fill in the blank so 'Valid' prints only if x is greater than 5 and y is not 0:\n\nif x > 5 and __________:\n    print(\"Valid\")",
+      "answer": "y != 0"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank so the code prints 'True' if x is less than 0 or greater than 10:\n\nif x < 0 ______ x > 10:\n    print(\"True\")",
+      "answer": "or"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank so the code prints 'Flag is False' only when flag is False:\n\nif ______flag:\n    print(\"Flag is False\")",
+      "answer": "not "
+    },
+    {
+      "difficulty": 8,
+      "question": "Complete the nested if statement so that it checks 'y > 10' only when 'x > 0'. Fill in the blank in the second line:\n\nif x > 0:\n    ______ y > 10:\n        print(\"Both conditions met\")",
+      "answer": "if"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank to complete the one-line conditional assignment. It should assign 'Positive' if x > 0, otherwise 'Non-positive':\n\nresult = \"Positive\" if x > 0 ______ \"Non-positive\"",
+      "answer": "else"
+    },
+    {
+      "difficulty": 10,
+      "question": "Use the walrus operator to read input and then check if it's not empty in a single step. Fill in the blank:\n\nif ______:\n    print(\"You typed:\", user_input)",
+      "answer": "(user_input := input('Type something: '))"
+    }
+  ]
+}

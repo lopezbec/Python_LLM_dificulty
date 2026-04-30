@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for item in iterable:",
+        "    print(item)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while condition:",
+        "    # loop body",
+        "    statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):",
+        "    for j in range(2):",
+        "        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(3):\n    print(i)",
+        "i = 0\nwhile i < 3:\n    print(i)\n    i += 1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for item in iterable:",
+        "    if condition:",
+        "        break",
+        "else:",
+        "    print('Completed without break')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "List comprehension",
+        "Generator expressions"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for key, value in dictionary.items():",
+        "    print(key, value)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while loop",
+        "for loop"
+      ]
+    }
+  ]
+}

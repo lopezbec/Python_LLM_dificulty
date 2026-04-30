@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "question": "Fill in the blank to create a for loop that prints numbers from 0 to 4.\n\n```python\nfor ___ in range(5):\n    print(___)\n```",
+    "answer": "i, i"
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "question": "Fill in the blank to complete the while loop that runs as long as `count` is less than 3.\n\n```python\ncount = 0\nwhile ___ < 3:\n    print(count)\n    count += 1\n```",
+    "answer": "count"
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "question": "Fill in the blank to skip the current iteration when `number` is even within the for loop.\n\n```python\nfor number in range(10):\n    if number % 2 == 0:\n        ___\n    print(number)\n```",
+    "answer": "continue"
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "question": "Fill in the blank to exit the loop when `user_input` is 'exit'.\n\n```python\nwhile True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___\n    print('You entered:', user_input)\n```",
+    "answer": "break"
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "question": "Fill in the blank to create a nested loop that prints a 3x3 grid of asterisks.\n\n```python\nfor i in range(3):\n    for j in ___(3):\n        print('*', end=' ')\n    print()\n```",
+    "answer": "range"
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "question": "Fill in the blank to iterate over both keys and values in a dictionary using a for loop.\n\n```python\ndictionary = {'a': 1, 'b': 2}\nfor key, value in dictionary.___():\n    print(key, value)\n```",
+    "answer": "items"
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "question": "Fill in the blank to create a list comprehension that uses a for loop to generate a list of squares from 0 to 9.\n\n```python\nsquares = [___ for i in range(10)]\nprint(squares)\n```",
+    "answer": "i**2"
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "question": "Fill in the blank to correctly use the `enumerate` function in a for loop.\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor index, fruit in ___(fruits):\n    print(index, fruit)\n```",
+    "answer": "enumerate"
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "question": "Fill in the blank to implement a generator function that yields numbers from 0 to 4 using a for loop.\n\n```python\ndef generate_numbers():\n    for i in range(5):\n        ___ i\n\ngen = generate_numbers()\nfor number in gen:\n    print(number)\n```",
+    "answer": "yield"
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "question": "Fill in the blank to handle multiple exceptions within a loop that processes a list of operations.\n\n```python\noperations = ['add', 'subtract', 'multiply', 'divide']\nfor op in operations:\n    try:\n        result = perform_operation(op)\n    except ValueError:\n        print('Value error encountered')\n    ___ Exception as e:\n        print(f'An error occurred: {e}')\n```",
+    "answer": "except"
+  }
+]
+```

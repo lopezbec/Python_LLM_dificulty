@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "block of code",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "condition",
+        "integer"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else clause",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "'and' keyword"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "condition",
+        "False",
+        "code block",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statements"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Python",
+        "if-statement",
+        "string",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "elif clauses",
+        "else clause"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statements",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "numerical data types",
+        "booleans",
+        "strings"
+      ]
+    }
+  ]
+}

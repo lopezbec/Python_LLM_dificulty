@@ -1,0 +1,118 @@
+Here are 10 drag-and-drop questions about If-Statements, incrementing in difficulty from 1 to 10, formatted as JSON objects:
+
+```json
+[
+    {
+        "question": "Drag the correct condition to complete the if-statement: \nif ( ______ ) {\n    // code block\n}",
+        "options": [
+            "5 > 2",
+            "hello",
+            "function()",
+            "myVariable"
+        ],
+        "correct_answer": "5 > 2",
+        "difficulty": 1
+    },
+    {
+        "question": "Complete the if-statement by dragging the correct code: \nif (x == 10) { ______ }",
+        "options": [
+            "print('x is 10')",
+            "x = 5",
+            "x + 1",
+            "if (x)"
+        ],
+        "correct_answer": "print('x is 10')",
+        "difficulty": 2
+    },
+    {
+        "question": "Fill in the missing condition with the correct option: \nif ( ______ ) { return True; }",
+        "options": [
+            "x != 0",
+            "return False",
+            "True",
+            "x = 0"
+        ],
+        "correct_answer": "x != 0",
+        "difficulty": 3
+    },
+    {
+        "question": "Complete this if-else statement by dragging the correct option to the blank: \nif (y < 0) { ______ } else { print(y) }",
+        "options": [
+            "print('Negative')",
+            "y * 2",
+            "True",
+            "y = 1"
+        ],
+        "correct_answer": "print('Negative')",
+        "difficulty": 4
+    },
+    {
+        "question": "Drag the correct else-if condition into the blank space: \nif (grade >= 90) { print('A'); } ______ { print('B'); }",
+        "options": [
+            "if (grade >= 80)",
+            "grade = 80",
+            "print('Passing')",
+            "if (grade < 90)"
+        ],
+        "correct_answer": "if (grade >= 80)",
+        "difficulty": 5
+    },
+    {
+        "question": "Complete the nested if-statement by dragging the appropriate condition: \nif (x > 0) {\n    if ( ______ ) {\n        print('Positive even number');\n    }\n}",
+        "options": [
+            "x % 2 == 0",
+            "x < 10",
+            "x + 1",
+            "print('Even')"
+        ],
+        "correct_answer": "x % 2 == 0",
+        "difficulty": 6
+    },
+    {
+        "question": "Fill in the correct statement using the drag-and-drop feature: \nif (user_input == 'yes') { print('Proceed'); } ______ { print('Cancel'); }",
+        "options": [
+            "else if (user_input == 'no')",
+            "if (user_input != 'yes')",
+            "else",
+            "else if (user_input == 'maybe')"
+        ],
+        "correct_answer": "else",
+        "difficulty": 7
+    },
+    {
+        "question": "Complete this chained if-else statement: \nif (temperature > 30) { print('Hot'); } ______ { print('Cold'); } else { print('Temperate'); }",
+        "options": [
+            "if (temperature <= 0)",
+            "else",
+            "if (temperature < 20)",
+            "if (temperature == 30)"
+        ],
+        "correct_answer": "if (temperature <= 0)",
+        "difficulty": 8
+    },
+    {
+        "question": "Fill in the code correctly within the nested if-statement: \nif (num % 2 == 0) {\n    if (num == 0) { ______ }\n}",
+        "options": [
+            "print('Zero')",
+            "print('Even')",
+            "return False",
+            "num = 100"
+        ],
+        "correct_answer": "print('Zero')",
+        "difficulty": 9
+    },
+    {
+        "question": "Complete the multi-condition if statement by dragging the appropriate option: \nif (x > 5 && y < 10) { ______ } else { print('Conditions not met'); }",
+        "options": [
+            "print('Both conditions satisfied')",
+            "return True",
+            "x + y",
+            "print('Single condition met')"
+        ],
+        "correct_answer": "print('Both conditions satisfied')",
+        "difficulty": 10
+    }
+]
+```
+
+Each question has been crafted with clarity and precision while ensuring that there is a clear differentiation in difficulty levels and the content of each question is relevant to If-Statements in Python.

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank to complete the if statement in Python:\n\nif x ___ 10:\n    print('x is less than 10')",
+    "answer": "<",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank to check equality in the if statement:\n\nif name ___ 'Alice':\n    print('Hello, Alice!')",
+    "answer": "==",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank to complete the if-else statement:\n\nif score >= 60:\n    result = 'Pass'\nelse:\n    result ___ 'Fail'",
+    "answer": "=",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank to use the logical AND operator in the if statement:\n\nif age >= 18 ___ citizenship == 'US':\n    print('Eligible to vote')",
+    "answer": "and",
+    "difficulty": 4
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank to check if a list is empty using an if statement:\n\nif not ___:\n    print('The list is empty')",
+    "answer": "my_list",
+    "difficulty": 5
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank to handle multiple conditions with elif:\n\nif temperature > 30:\n    weather = 'Hot'\nelif temperature > 20:\n    weather ___ 'Warm'\nelse:\n    weather = 'Cold'",
+    "answer": "=",
+    "difficulty": 6
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank to correctly nest an if statement:\n\nif user:\n    if user.is_active___\n        print('User is active')",
+    "answer": ".is_admin()",
+    "difficulty": 7
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank to use the ternary operator within an if statement:\n\nstatus = 'Approved' ___ x > 100 else 'Denied'",
+    "answer": "if",
+    "difficulty": 8
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank to check for multiple data types in an if statement:\n\nif isinstance(value, (int, ___)):\n    print('Value is a number or float')",
+    "answer": "float",
+    "difficulty": 9
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank to implement short-circuit evaluation in an if statement:\n\nif config and config.get('enabled') ___ execute_task():\n    print('Task executed')",
+    "answer": "and",
+    "difficulty": 10
+  }
+]
+```

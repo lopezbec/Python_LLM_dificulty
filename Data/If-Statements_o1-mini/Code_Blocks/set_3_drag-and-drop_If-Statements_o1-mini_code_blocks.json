@@ -1,0 +1,136 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "condition",
+        ":",
+        "    # code block"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "number = 10\nif number __ operator1 __ 5:\n    print('Greater than 5')\nelif number __ operator2 __ 10:\n    print('Equal to 10')\nelse:\n    print('Less than 5')",
+        ">",
+        "==",
+        "<",
+        ">=",
+        "<=",
+        "operator1",
+        "operator2"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:",
+        "    if x % 2 == 0:",
+        "        print('Positive even number')",
+        "    else:",
+        "        print('Positive odd number')",
+        "else:",
+        "    print('Non-positive number')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 25\nif age __ operator1 __ 18:\n    print('Minor')\nelif age __ operator2 __ 65:\n    print('Adult')\nelse:\n    print('Senior')",
+        "<",
+        ">=",
+        "<=",
+        ">",
+        "==",
+        "operator1",
+        "operator2"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "and",
+        "or",
+        "not",
+        "condition1",
+        "condition2",
+        ":",
+        "    # code block"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "score = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __ operator1 __:\n    grade = 'B'\nelif score >= __ operator2 __:\n    grade = 'C'\nelse:\n    grade = 'F'",
+        "80",
+        "70",
+        "60",
+        "85",
+        "75",
+        "operator1",
+        "operator2"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "(",
+        ")",
+        "and",
+        "or",
+        "not",
+        "condition1",
+        "condition2",
+        "condition3",
+        ":",
+        "    # code block"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 15\ny = 20\nif x > 10:\n__ if y > 15:\n____ print('x and y are greater than thresholds')\n__ else:\n____ print('x is greater, y is not')\nelse:\n    print('x is not greater than 10')",
+        "    ",
+        "        ",
+        "",
+        "        ",
+        ""
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "(",
+        ")",
+        "and",
+        "or",
+        "not",
+        "condition1",
+        "condition2",
+        "condition3",
+        "elif",
+        ":",
+        "else",
+        ":",
+        "    if",
+        "        # nested code block",
+        "    else:",
+        "        # another nested code block",
+        "    # outer code block"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "In Python, which loop statement continues to run as long as a certain condition is True?",
+      "difficulty": 1,
+      "options": [
+        "while loop",
+        "for loop",
+        "if statement",
+        "pass"
+      ],
+      "answer": "while loop"
+    },
+    {
+      "question": "What is the default increment step in the range() function for a for loop in Python if not specified?",
+      "difficulty": 2,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Which of the following statements correctly breaks out of a loop in Python?",
+      "difficulty": 3,
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "exit"
+      ],
+      "answer": "break"
+    },
+    {
+      "question": "In Python, what does the 'continue' statement do inside a loop?",
+      "difficulty": 4,
+      "options": [
+        "Exits the loop entirely",
+        "Skips the current iteration and moves to the next one",
+        "Resets the loop counter to zero",
+        "Adds a new iteration variable"
+      ],
+      "answer": "Skips the current iteration and moves to the next one"
+    },
+    {
+      "question": "Which built-in function returns both the index and the corresponding item when iterating over a list in a for loop?",
+      "difficulty": 5,
+      "options": [
+        "range()",
+        "enumerate()",
+        "len()",
+        "zip()"
+      ],
+      "answer": "enumerate()"
+    },
+    {
+      "question": "What will be the output of the following code snippet?\n\nitems = [\"apple\", \"banana\", \"cherry\"]\nfor i in range(len(items)):\n    if i == 1:\n        continue\n    print(items[i])",
+      "difficulty": 6,
+      "options": [
+        "apple banana cherry",
+        "apple cherry",
+        "banana",
+        "apple banana"
+      ],
+      "answer": "apple cherry"
+    },
+    {
+      "question": "Which best describes how the 'else' clause works in a Python for loop?",
+      "difficulty": 7,
+      "options": [
+        "It executes if the loop completes normally without a break statement",
+        "It always executes after the loop ends",
+        "It only executes if there's an exception inside the loop",
+        "It never executes when the loop has more than one iteration"
+      ],
+      "answer": "It executes if the loop completes normally without a break statement"
+    },
+    {
+      "question": "In the following code snippet, how many times will the print statement be executed?\n\nfor i in range(2):\n    for j in range(2):\n        print(i, j)",
+      "difficulty": 8,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which code snippet correctly iterates over both keys and values of a dictionary named 'my_dict' in Python?",
+      "difficulty": 9,
+      "options": [
+        "for (key, value) in my_dict:",
+        "for key, value in my_dict.items():",
+        "for key in my_dict.keys(), value in my_dict.values():",
+        "for key in my_dict: for value in my_dict:"
+      ],
+      "answer": "for key, value in my_dict.items():"
+    },
+    {
+      "question": "What is the output of the following code snippet?\n\nnumbers = [2, 3, 5, 7, 9]\nfor num in numbers:\n    if num % 2 == 0:\n        print('Even found:', num)\n        break\nelse:\n    print('No even number found')",
+      "difficulty": 10,
+      "options": [
+        "Even found: 2",
+        "No even number found",
+        "Even found: 2\nNo even number found",
+        "No output"
+      ],
+      "answer": "Even found: 2"
+    }
+  ]
+}

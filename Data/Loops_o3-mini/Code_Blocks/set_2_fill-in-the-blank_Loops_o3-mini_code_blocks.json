@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "range"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for num in range(1, 10, ____):",
+        "print(num)",
+        "2"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10",
+        "while ____:",
+        "print(x)",
+        "x -= 1",
+        "x > 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "scope"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(3):",
+        "for j in range(____):",
+        "print(i, j)",
+        "5"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def count_down(n):",
+        "while n > 0:",
+        "print(n)",
+        "____",
+        "n -= 1"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = [x for x in my_list if ____]",
+        "x > 10"
+      ]
+    }
+  ]
+}

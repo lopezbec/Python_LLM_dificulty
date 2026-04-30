@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "loop",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "sequence()",
+        "list()",
+        "range()",
+        "int()"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while",
+        "break",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(2):\n    for j in range(2):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "pass",
+        "break",
+        "continue",
+        "stop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "total = 0\nfor i in range(1, 6):\n    total += i\n    if i == 3:\n        break\nprint(total)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for x in range(3):\n    if x == 5:\n        break\nelse:\n    print(\"No break was encountered\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(n):\n    for j in range(n):\n        # O(1) operations",
+        "n"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "generator expressions",
+        "sum()",
+        "break"
+      ]
+    }
+  ]
+}

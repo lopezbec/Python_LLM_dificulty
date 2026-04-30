@@ -1,0 +1,136 @@
+```json
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the correct syntax for an if statement in Python to check if variable x is greater than 10?",
+      "options": {
+        "A": "if x > 10:",
+        "B": "if (x > 10)",
+        "C": "if x > 10 then:",
+        "D": "if x > 10 do:"
+      },
+      "correct_answer": "A",
+      "difficulty": 1,
+      "topic": "if statements"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword is used to specify the alternative block of code that runs if the condition in an if statement is False?",
+      "options": {
+        "A": "else",
+        "B": "elif",
+        "C": "otherwise",
+        "D": "otherwise_if"
+      },
+      "correct_answer": "A",
+      "difficulty": 2,
+      "topic": "if statements"
+    },
+    {
+      "id": 3,
+      "question": "What will be the output of the following code?\n\nx = 5\nif x > 3:\n    print(\"Greater\")\nelse:\n    print(\"Smaller\")",
+      "options": {
+        "A": "Greater",
+        "B": "Smaller",
+        "C": "Error",
+        "D": "Nothing is printed"
+      },
+      "correct_answer": "A",
+      "difficulty": 3,
+      "topic": "if statements"
+    },
+    {
+      "id": 4,
+      "question": "How do you write a nested if statement in Python?",
+      "options": {
+        "A": "Using an if statement inside another if statement",
+        "B": "Using multiple else statements",
+        "C": "Using elif statements",
+        "D": "Using switch-case statements"
+      },
+      "correct_answer": "A",
+      "difficulty": 4,
+      "topic": "if statements"
+    },
+    {
+      "id": 5,
+      "question": "What is the output of the following code?\n\nx = 10\ny = 20\nif x > y:\n    print(\"x is greater\")\nelif x == y:\n    print(\"x and y are equal\")\nelse:\n    print(\"y is greater\")",
+      "options": {
+        "A": "x is greater",
+        "B": "x and y are equal",
+        "C": "y is greater",
+        "D": "No output"
+      },
+      "correct_answer": "C",
+      "difficulty": 5,
+      "topic": "if statements"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following statements about if-elif-else chains is True in Python?",
+      "options": {
+        "A": "Only the first True condition is executed",
+        "B": "All True conditions are executed",
+        "C": "elif can only follow an else statement",
+        "D": "else can come before elif"
+      },
+      "correct_answer": "A",
+      "difficulty": 6,
+      "topic": "if statements"
+    },
+    {
+      "id": 7,
+      "question": "What will be the result of the following code?\n\nx = 15\nif x < 10:\n    print(\"Less than 10\")\nelif x < 20:\n    print(\"Between 10 and 20\")\nelif x < 30:\n    print(\"Between 20 and 30\")\nelse:\n    print(\"30 or more\")",
+      "options": {
+        "A": "Less than 10",
+        "B": "Between 10 and 20",
+        "C": "Between 20 and 30",
+        "D": "30 or more"
+      },
+      "correct_answer": "B",
+      "difficulty": 7,
+      "topic": "if statements"
+    },
+    {
+      "id": 8,
+      "question": "Consider the following code snippet:\n\nx = 7\nif x % 2 == 0:\n    print(\"Even\")\nelse:\n    print(\"Odd\")\n    if x > 5:\n        print(\"Greater than 5\")",
+      "options": {
+        "A": "Odd\nGreater than 5",
+        "B": "Odd",
+        "C": "Greater than 5",
+        "D": "Even"
+      },
+      "correct_answer": "A",
+      "difficulty": 8,
+      "topic": "if statements"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a valid way to combine multiple conditions in an if statement using logical operators?",
+      "options": {
+        "A": "if x > 0 and y < 0:",
+        "B": "if x > 0 && y < 0:",
+        "C": "if x > 0 || y < 0:",
+        "D": "if (x > 0) & (y < 0):"
+      },
+      "correct_answer": "A",
+      "difficulty": 9,
+      "topic": "if statements"
+    },
+    {
+      "id": 10,
+      "question": "What is the output of the following code?\n\nx = 10\ny = 20\nz = 30\nif x > y:\n    if y > z:\n        print(\"x > y > z\")\n    else:\n        print(\"x > y and y <= z\")\nelif x > z:\n    print(\"x > z and x <= y\")\nelse:\n    print(\"x <= z and x <= y\")",
+      "options": {
+        "A": "x > y > z",
+        "B": "x > y and y <= z",
+        "C": "x > z and x <= y",
+        "D": "x <= z and x <= y"
+      },
+      "correct_answer": "D",
+      "difficulty": 10,
+      "topic": "if statements"
+    }
+  ]
+}
+```

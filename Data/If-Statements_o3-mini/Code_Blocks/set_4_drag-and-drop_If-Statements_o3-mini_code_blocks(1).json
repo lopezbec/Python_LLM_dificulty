@@ -1,0 +1,133 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "elif",
+        "for",
+        "while",
+        "x > 10",
+        "print('x is greater than 10')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        ":",
+        "elif",
+        "print",
+        "x == 10",
+        "print('x is equal to 10')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "for",
+        "x > 0",
+        "print('x is positive')",
+        "print('x is zero or negative')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "for",
+        "while",
+        "a == b",
+        "print('a is equal to b')",
+        "a > b",
+        "print('a is greater than b')",
+        "print('a is less than b')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "and",
+        "or",
+        "if",
+        "elif",
+        "if x > 0 _____ x < 10:",
+        "print('x is between 0 and 10')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "for",
+        "elif",
+        "while",
+        "x > 0",
+        "y < 5",
+        "print('Both conditions are true')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "elif",
+        "and",
+        "or",
+        ":",
+        "(x > 0 _____ x < 10)",
+        "print('x is in range')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "while",
+        "for",
+        "score >= 90",
+        "grade = 'A'",
+        "score >= 80",
+        "grade = 'B'",
+        "grade = 'C'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "for",
+        "while",
+        "x > 0",
+        "y < 0",
+        "print('x is positive and y is negative')",
+        "print('x is positive but y is not negative')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "and",
+        "or",
+        "temperature > 30",
+        "print(\"It's hot\")",
+        "temperature <= 30",
+        "temperature > 15",
+        "print(\"It's warm\")",
+        "print(\"It's cold\")"
+      ]
+    }
+  ]
+}

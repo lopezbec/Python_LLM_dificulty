@@ -1,0 +1,96 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "for",
+        "while",
+        "def"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x = 10: print('Greater')",
+        "if x == 10 print('Greater')",
+        "if x > 10: print('Greater')",
+        "if x => 10: print('Greater')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-elif-else",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5",
+        "if x > 10: print('x is small')",
+        "if x >= 5: print('x is small')",
+        "if x < 10: print('x is small')",
+        "if x <= 5: print('x is small')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (condition): elif: else:",
+        "if (condition): elif (condition): else:",
+        "if: elif: else",
+        "if condition: elif: else condition:",
+        "if-elif-else"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 3",
+        "y = 5",
+        "if x < 4:",
+        "if y > 4:",
+        "print(\"Nested condition met\")",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "x += 2",
+        "elif x == 10:",
+        "x *= 2",
+        "else:",
+        "x -= 1",
+        "x"
+      ]
+    }
+  ]
+}

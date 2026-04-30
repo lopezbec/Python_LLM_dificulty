@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "question": "What is the correct syntax for an if statement in Python that checks if variable x is equal to 10?",
+    "options": [
+      "A) if x = 10:",
+      "B) if x == 10:",
+      "C) if (x = 10)",
+      "D) if (x == 10)"
+    ],
+    "answer": "B",
+    "difficulty": 1,
+    "topic": "if statements"
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 5\nif x > 3:\n    print('Greater')\n```",
+    "options": [
+      "A) Greater",
+      "B) 5",
+      "C) Error",
+      "D) Nothing is printed"
+    ],
+    "answer": "A",
+    "difficulty": 2,
+    "topic": "if statements"
+  },
+  {
+    "question": "Which keyword is used to specify an alternative block of code when an if condition is not met?",
+    "options": [
+      "A) else",
+      "B) elif",
+      "C) otherwise",
+      "D) ifnot"
+    ],
+    "answer": "A",
+    "difficulty": 3,
+    "topic": "if statements"
+  },
+  {
+    "question": "Consider the following code snippet:\n\n```python\nx = 10\nif x > 5:\n    if x < 15:\n        print('x is between 5 and 15')\n``` \nWhat will be printed?",
+    "options": [
+      "A) x is between 5 and 15",
+      "B) Nothing",
+      "C) Error",
+      "D) x is greater than 5"
+    ],
+    "answer": "A",
+    "difficulty": 4,
+    "topic": "if statements"
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nx = 7\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')\n```",
+    "options": [
+      "A) Even",
+      "B) Odd",
+      "C) 7",
+      "D) No output"
+    ],
+    "answer": "B",
+    "difficulty": 5,
+    "topic": "if statements"
+  },
+  {
+    "question": "Which of the following is the correct way to use multiple conditions in an if statement using logical AND?",
+    "options": [
+      "A) if x > 5 AND y < 10:",
+      "B) if (x > 5) && (y < 10):",
+      "C) if x > 5 and y < 10:",
+      "D) if x > 5 & y < 10:"
+    ],
+    "answer": "C",
+    "difficulty": 6,
+    "topic": "if statements"
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 20\nif x < 10:\n    print('Less than 10')\nelif x < 30:\n    print('Between 10 and 30')\nelse:\n    print('30 or more')\n```",
+    "options": [
+      "A) Less than 10",
+      "B) Between 10 and 30",
+      "C) 30 or more",
+      "D) Error"
+    ],
+    "answer": "B",
+    "difficulty": 7,
+    "topic": "if statements"
+  },
+  {
+    "question": "Analyze the following code and determine its output:\n\n```python\nx = 15\nif x > 10:\n    if x > 20:\n        print('Greater than 20')\n    else:\n        print('Between 11 and 20')\nelse:\n    print('10 or less')\n```",
+    "options": [
+      "A) Greater than 20",
+      "B) Between 11 and 20",
+      "C) 10 or less",
+      "D) No output"
+    ],
+    "answer": "B",
+    "difficulty": 8,
+    "topic": "if statements"
+  },
+  {
+    "question": "What is the result of the following code snippet?\n\n```python\nx = 5\nif x == 5:\n    print('Five')\nif x > 3:\n    print('Greater than three')\nelse:\n    print('Not greater than three')\n```",
+    "options": [
+      "A) Five",
+      "A) Five\nGreater than three",
+      "Five\nNot greater than three",
+      "Greater than three"
+    ],
+    "answer": "B",
+    "difficulty": 9,
+    "topic": "if statements"
+  },
+  {
+    "question": "Identify the error in the following Python if statement:\n\n```python\nif x = 10:\n    print('Ten')\n```",
+    "options": [
+      "A) Missing colon at the end of if statement",
+      "B) Use of single equals for comparison",
+      "C) Indentation error",
+      "D) No error",
+    ],
+    "answer": "B",
+    "difficulty": 10,
+    "topic": "if statements"
+  }
+]
+```

@@ -1,0 +1,99 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if ____ > 5:",
+        "print(\"x is greater than 5\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "number",
+        "if number % 2 == ____:",
+        "print(\"Even number\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age",
+        "if age >= 18:",
+        "print(\"Adult\")",
+        "____:",
+        "print(\"Minor\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "score",
+        "if score > 80:",
+        "grade = 'A'",
+        "elif ____ <= score <= ____:",
+        "grade = 'B'",
+        "else:",
+        "grade = 'C'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "if x > 0:",
+        "if x % 2 == ____:",
+        "print(\"Positive even number\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "age",
+        "citizen",
+        "if age >= 18 ____ citizen == True:",
+        "print(\"Eligible voter\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "a",
+        "b",
+        "if a ____ b:",
+        "print(\"a and b are not equal\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "status",
+        "is_active",
+        "status = \"Active\" ____ \"Inactive\" if is_active else ____"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "input_str",
+        "if input_str.___():",
+        "print(\"Input is numeric\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "temperature",
+        "if temperature > 30:",
+        "weather = \"Hot\"",
+        "elif 20 < temperature <= 30:",
+        "weather = \"Warm\"",
+        "elif 10 < temperature <= 20:",
+        "weather = \"Cool\"",
+        "____:",
+        "weather = \"Cold\""
+      ]
+    }
+  ]
+}

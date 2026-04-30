@@ -1,0 +1,75 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "description": "Complete the if-statement to print 'Hello' if a variable x is equal to 5.",
+      "premise": "x = 5\nif __:\n    print('Hello')",
+      "options": ["x == 5", "x > 5", "x < 5"],
+      "correct_answer": "x == 5"
+    },
+    {
+      "difficulty": 2,
+      "description": "Fill in the blanks to print 'Yes' if the value of y is not zero.",
+      "premise": "y = 3\nif __:\n    print('Yes')",
+      "options": ["y != 0", "y == 0", "y > 0"],
+      "correct_answer": "y != 0"
+    },
+    {
+      "difficulty": 3,
+      "description": "Complete the if-statement to check both conditions and print 'Correct' if both are true.",
+      "premise": "a = 7\nb = 10\nif __ and __:\n    print('Correct')",
+      "options": ["a < 10", "b == 10", "a > 10", "b != 10"],
+      "correct_answer": ["a < 10", "b == 10"]
+    },
+    {
+      "difficulty": 4,
+      "description": "Fill in the blanks to use elif conditions to print the correct message based on the value of variable grade.",
+      "premise": "grade = 85\nif __:\n    print('A')\nelif __:\n    print('B')\nelse:\n    print('C')",
+      "options": ["grade >= 90", "grade >= 80", "grade < 80"],
+      "correct_answer": ["grade >= 90", "grade >= 80"]
+    },
+    {
+      "difficulty": 5,
+      "description": "Select the correct statements to include a check for adults and seniors.",
+      "premise": "age = 45\nif __:\n    print('Adult')\nelif __:\n    print('Senior')",
+      "options": ["age >= 18", "age >= 65", "age < 18", "age < 65"],
+      "correct_answer": ["age >= 18", "age >= 65"]
+    },
+    {
+      "difficulty": 6,
+      "description": "Fill in the blanks to validate an even number and check if greater than 10.",
+      "premise": "num = 14\nif __ and __:\n    print('Pass')",
+      "options": ["num % 2 == 0", "num > 10", "num < 10", "num % 2 != 0"],
+      "correct_answer": ["num % 2 == 0", "num > 10"]
+    },
+    {
+      "difficulty": 7,
+      "description": "Complete the nested if-statements to print 'Qualified' if conditions are met.",
+      "premise": "temperature = 75\nstatus = 'active'\n\nif __:\n    if __:\n        print('Qualified')",
+      "options": ["temperature > 70", "status == 'active'", "temperature < 70", "status != 'active'"],
+      "correct_answer": ["temperature > 70", "status == 'active'"]
+    },
+    {
+      "difficulty": 8,
+      "description": "Fill in the blanks to correctly handle multiple conditions in complex logic.",
+      "premise": "score = 92\ncompleted = True\nif __ and (completed or __):\n    print('Success')",
+      "options": ["score > 90", "completed == False", "score < 90", "completed == True"],
+      "correct_answer": ["score > 90", "completed == False"]
+    },
+    {
+      "difficulty": 9,
+      "description": "Choose the appropriate statements to correctly implement a decision-making logic.",
+      "premise": "balance = 200\nmin_balance = 100\nif __:\n    if __:\n        print('Sufficient')",
+      "options": ["balance >= min_balance", "balance <= min_balance", "balance < min_balance", "balance >= 150"],
+      "correct_answer": ["balance >= min_balance", "balance >= 150"]
+    },
+    {
+      "difficulty": 10,
+      "description": "Fill in the blanks for a complex if-else structure handling priority and status checks.",
+      "premise": "priority = 1\nstatus = 'pending'\nif __:\n    if __:\n        print('Urgent')\n    else:\n        print('High Priority')\nelse:\n    print('Low Priority')",
+      "options": ["priority == 1", "status == 'pending'", "priority > 1", "status != 'pending'"],
+      "correct_answer": ["priority == 1", "status == 'pending'"]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "topic": "loops",
+      "question": "Arrange the code lines in the correct order to form a simple Python for loop that prints numbers from 0 to 4.",
+      "instructions": "Drag and drop the following code snippets so that they form a valid for loop.",
+      "items": [
+        { "id": "A", "text": "for i in range(5):" },
+        { "id": "B", "text": "    print(i)" }
+      ],
+      "correct_order": ["A", "B"]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "topic": "loops",
+      "question": "Arrange the code lines in the correct order to form a while loop that prints numbers from 1 to 3.",
+      "instructions": "Drag and drop the following code snippets into the correct sequence.",
+      "items": [
+        { "id": "A", "text": "i = 1" },
+        { "id": "B", "text": "while i <= 3:" },
+        { "id": "C", "text": "    print(i)" },
+        { "id": "D", "text": "    i += 1" }
+      ],
+      "correct_order": ["A", "B", "C", "D"]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "topic": "loops",
+      "question": "Arrange the code lines to iterate over a list of fruits and print each fruit.",
+      "instructions": "Drag and drop the following code snippets in the correct order.",
+      "items": [
+        { "id": "A", "text": "fruits = ['apple', 'banana', 'cherry']" },
+        { "id": "B", "text": "for fruit in fruits:" },
+        { "id": "C", "text": "    print(fruit)" }
+      ],
+      "correct_order": ["A", "B", "C"]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "topic": "loops",
+      "question": "Arrange the lines to create a nested for loop that prints pairs (i, j) for i in range(2) and j in range(3).",
+      "instructions": "Drag and drop the code snippets in the correct hierarchical order.",
+      "items": [
+        { "id": "A", "text": "for i in range(2):" },
+        { "id": "B", "text": "    for j in range(3):" },
+        { "id": "C", "text": "        print(i, j)" }
+      ],
+      "correct_order": ["A", "B", "C"]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "topic": "loops",
+      "question": "Arrange the code lines to form a for loop that calculates the sum of numbers in a list and then prints the total.",
+      "instructions": "Drag and drop the following snippets to complete the program.",
+      "items": [
+        { "id": "A", "text": "total = 0" },
+        { "id": "B", "text": "for num in [1, 2, 3, 4, 5]:" },
+        { "id": "C", "text": "    total += num" },
+        { "id": "D", "text": "print(total)" }
+      ],
+      "correct_order": ["A", "B", "C", "D"]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "topic": "loops",
+      "question": "Arrange the lines to form a while loop that prints numbers starting from 1 and stops when the number 3 is printed using a break statement.",
+      "instructions": "Drag and drop the following code snippets into the correct order.",
+      "items": [
+        { "id": "A", "text": "i = 1" },
+        { "id": "B", "text": "while True:" },
+        { "id": "C", "text": "    print(i)" },
+        { "id": "D", "text": "    if i == 3:" },
+        { "id": "E", "text": "        break" },
+        { "id": "F", "text": "    i += 1" }
+      ],
+      "correct_order": ["A", "B", "C", "D", "E", "F"]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "topic": "loops",
+      "question": "Arrange the lines to build a nested loop where the inner loop uses a continue statement. The outer loop iterates over letters and the inner loop over numbers; the code should skip printing when the number is 2.",
+      "instructions": "Drag and drop the following lines in the correct order to achieve the desired behavior.",
+      "items": [
+        { "id": "A", "text": "for letter in ['a', 'b']:" },
+        { "id": "B", "text": "    for number in [1, 2, 3]:" },
+        { "id": "C", "text": "        if number == 2:" },
+        { "id": "D", "text": "            continue" },
+        { "id": "E", "text": "        print(letter, number)" }
+      ],
+      "correct_order": ["A", "B", "C", "D", "E"]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "topic": "loops",
+      "question": "Arrange the code lines to form a for loop that uses an else clause, which executes after the loop completes normally.",
+      "instructions": "Drag and drop the code snippets in the correct order to complete the loop.",
+      "items": [
+        { "id": "A", "text": "for i in range(3):" },
+        { "id": "B", "text": "    print(i)" },
+        { "id": "C", "text": "else:" },
+        { "id": "D", "text": "    print('Done')" }
+      ],
+      "correct_order": ["A", "B", "C", "D"]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "topic": "loops",
+      "question": "Arrange the code lines to create a list of squares using a list comprehension and then iterate over the resulting list to print each square.",
+      "instructions": "Drag and drop the following code snippets in the correct sequence.",
+      "items": [
+        { "id": "A", "text": "numbers = [1, 2, 3, 4]" },
+        { "id": "B", "text": "squares = [n**2 for n in numbers]" },
+        { "id": "C", "text": "for square in squares:" },
+        { "id": "D", "text": "    print(square)" }
+      ],
+      "correct_order": ["A", "B", "C", "D"]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "topic": "loops",
+      "question": "Arrange the code lines to create a nested loop that identifies prime numbers in the range 2 to 9. The inner loop checks for factors and uses a break statement, while an else clause prints the prime number if no factors are found.",
+      "instructions": "Drag and drop the code snippets in the correct order to form the complete program.",
+      "items": [
+        { "id": "A", "text": "for num in range(2, 10):" },
+        { "id": "B", "text": "    for i in range(2, num):" },
+        { "id": "C", "text": "        if num % i == 0:" },
+        { "id": "D", "text": "            break" },
+        { "id": "E", "text": "    else:" },
+        { "id": "F", "text": "        print(num)" }
+      ],
+      "correct_order": ["A", "B", "C", "D", "E", "F"]
+    }
+  ]
+}

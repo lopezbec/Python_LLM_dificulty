@@ -1,0 +1,98 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x = 5:",
+        "if (x == 5)",
+        "if x == 5:",
+        "if x === 5:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "print('Greater')",
+        "else:",
+        "print('Smaller')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statements",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 5",
+        "y = 10",
+        "if x > y:",
+        "print('X')",
+        "elif y > x:",
+        "print('Y')",
+        "else:",
+        "print('Equal')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statements",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nested if-statement",
+        "x = 10",
+        "if x > 5:",
+        "if x < 15:",
+        "print('Within range')",
+        "x > 5",
+        "x < 15"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 10",
+        "y = 5",
+        "if x > y:",
+        "if y < 3:",
+        "print('Path A')",
+        "else:",
+        "print('Path B')",
+        "else:",
+        "print('Path C')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statements"
+      ]
+    }
+  ]
+}

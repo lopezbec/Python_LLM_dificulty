@@ -1,0 +1,179 @@
+```json
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "loops",
+    "question": "Arrange the parts of a basic for loop in Python in the correct order.",
+    "options": [
+      "for i in range(5):",
+      "print(i)",
+      "    print(i)"
+    ],
+    "correct_order": [
+      "for i in range(5):",
+      "    print(i)"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "loops",
+    "question": "Match the loop type to its description.",
+    "options": [
+      "for loop",
+      "while loop",
+      "nested loop"
+    ],
+    "matches": {
+      "for loop": "Iterates over a sequence of elements.",
+      "while loop": "Continues execution as long as a condition is true.",
+      "nested loop": "A loop inside another loop."
+    }
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "loops",
+    "question": "Drag the missing keywords to complete the while loop.",
+    "code_snippet": "i = 0\nwhile ___ < 5:\n    print(i)\n    ___ += 1",
+    "options": [
+      "i",
+      "i"
+    ],
+    "correct_fill": [
+      "i",
+      "i"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "loops",
+    "question": "Arrange the following loop control statements in the order they appear in a loop that skips even numbers and stops at 10.",
+    "options": [
+      "if i % 2 == 0:",
+      "continue",
+      "if i > 10:",
+      "break"
+    ],
+    "correct_order": [
+      "if i % 2 == 0:",
+      "continue",
+      "if i > 10:",
+      "break"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "loops",
+    "question": "Fill in the blanks to create a nested for loop that prints a 3x3 grid.",
+    "code_snippet": "for i in range(3):\n    for j in range(3):\n        print('X', end=' ')\n    ___",
+    "options": [
+      "print()"
+    ],
+    "correct_fill": [
+      "print()"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "loops",
+    "question": "Arrange the following list comprehension components to create a list of squares from 0 to 4.",
+    "options": [
+      "[",
+      "x**2",
+      "for x in range(5)",
+      "]"
+    ],
+    "correct_order": [
+      "[",
+      "x**2",
+      "for x in range(5)",
+      "]"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "loops",
+    "question": "Drag the statements to correctly implement a loop that calculates the factorial of a number.",
+    "options": [
+      "result = 1",
+      "for i in range(1, n + 1):",
+      "result *= i",
+      "print(result)"
+    ],
+    "correct_order": [
+      "result = 1",
+      "for i in range(1, n + 1):",
+      "    result *= i",
+      "print(result)"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "loops",
+    "question": "Arrange the following code blocks to implement a while loop with an else clause that executes when the loop finishes normally.",
+    "options": [
+      "else:",
+      "print('Completed')",
+      "while count < 5:",
+      "    print(count)",
+      "    count += 1"
+    ],
+    "correct_order": [
+      "count = 0",
+      "while count < 5:",
+      "    print(count)",
+      "    count += 1",
+      "else:",
+      "    print('Completed')"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "loops",
+    "question": "Fill in the blanks to correctly implement a generator using a for loop and the yield statement.",
+    "code_snippet": "def count_up_to(max):\n    ___ i in range(max):\n        ___ i",
+    "options": [
+      "for",
+      "yield"
+    ],
+    "correct_fill": [
+      "for",
+      "yield"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "loops",
+    "question": "Arrange the following code blocks to execute a loop that iterates over a dictionary and prints key-value pairs.",
+    "options": [
+      "for key, value in my_dict.___():",
+      "print(f'{key}: {value}')",
+      "my_dict = {'a': 1, 'b': 2, 'c': 3}"
+    ],
+    "correct_order": [
+      "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+      "for key, value in my_dict.items():",
+      "    print(f'{key}: {value}')"
+    ]
+  }
+]
+```

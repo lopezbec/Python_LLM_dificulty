@@ -1,0 +1,94 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if (condition) _______ ;",
+        "print('Hello')",
+        "else",
+        "for i in range(5)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x > 10) _______ ;",
+        "print('Too high')",
+        "if (x < 10)",
+        "x += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if (x == 5) { } else _______ ;",
+        "print('Not five')",
+        "if (x != 5)",
+        "x = 5"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (________) { print('True'); }",
+        "5 < 3",
+        "2 * 2 == 4",
+        "x = 10"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if (a > b) { if (b > c) _______ ; }",
+        "print('B is greater')",
+        "else",
+        "print(a)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x < 0) { } _______ (x == 0) { } else _______ ;",
+        "elif",
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (________) { print('Value is high'); }",
+        "value > 100",
+        "value == 100",
+        "value < 100"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (score >= 90) { print('A'); } _______ (score >= 80) { print('B'); } else _______ ;",
+        "elif",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (x > 5 _______ y < 10) { print('Valid'); }",
+        "&&",
+        "||",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (age < 18 _______ has_permission) { print('Access denied'); }",
+        "or",
+        "and",
+        "not"
+      ]
+    }
+  ]
+}

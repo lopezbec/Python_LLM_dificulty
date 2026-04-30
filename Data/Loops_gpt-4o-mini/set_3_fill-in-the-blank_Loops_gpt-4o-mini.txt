@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a loop that executes a block of code a specific number of times is called a __________ loop.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "The keyword used to exit a loop prematurely in Python is __________.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 3,
+      "question": "To continue with the next iteration of a loop, skipping the current one, you would use the __________ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 4,
+      "question": "To repeat a block of code while a condition is true, you would use a __________ loop.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 5,
+      "question": "In a for loop, the function used to create a range of numbers is __________.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 6,
+      "question": "When using a while loop, you should ensure that the condition eventually becomes __________.",
+      "answer": "false"
+    },
+    {
+      "difficulty": 7,
+      "question": "If you want to iterate over a list in a for loop, you would typically use __________ as the variable name.",
+      "answer": "element"
+    },
+    {
+      "difficulty": 8,
+      "question": "The process of executing a loop without an end point is known as __________.",
+      "answer": "infinite loop"
+    },
+    {
+      "difficulty": 9,
+      "question": "To get the index of the current iteration during a for loop, you can use the __________ function along with enumerate().",
+      "answer": "index"
+    },
+    {
+      "difficulty": 10,
+      "question": "A loop that goes through each character of a string can be created with a __________ loop.",
+      "answer": "for"
+    }
+  ]
+}

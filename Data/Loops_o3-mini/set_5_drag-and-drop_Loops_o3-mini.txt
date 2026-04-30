@@ -1,0 +1,226 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Arrange the components to form a valid basic for loop syntax in Python.",
+      "instructions": "Drag and drop the components into the correct order to form a basic for loop header in Python.",
+      "dragItems": [
+        "for",
+        "variable",
+        "in",
+        "iterable"
+      ],
+      "dropZones": [
+        "Position 1",
+        "Position 2",
+        "Position 3",
+        "Position 4"
+      ],
+      "correctOrder": [
+        "for",
+        "variable",
+        "in",
+        "iterable"
+      ]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Arrange the steps of a while loop in proper order.",
+      "instructions": "Drag and drop the following steps to show the order in which they are executed in a while loop.",
+      "dragItems": [
+        "initialization",
+        "condition check",
+        "loop execution",
+        "update"
+      ],
+      "dropZones": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "correctOrder": [
+        "initialization",
+        "condition check",
+        "loop execution",
+        "update"
+      ]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Arrange the components of nested for loops to print each element of a 2D matrix.",
+      "instructions": "Drag and drop the items in the correct order as they would appear in a nested loop structure.",
+      "dragItems": [
+        "for row in matrix:",
+        "for element in row:",
+        "print(element)"
+      ],
+      "dropZones": [
+        "Outer loop declaration",
+        "Inner loop declaration",
+        "Loop body"
+      ],
+      "correctOrder": [
+        "for row in matrix:",
+        "for element in row:",
+        "print(element)"
+      ]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Rearrange the components to form a valid 'range'-based for loop that prints numbers from 0 to 4.",
+      "instructions": "Drag and drop the code pieces into the correct sequence.",
+      "dragItems": [
+        "for i in range(5):",
+        "print(i)"
+      ],
+      "dropZones": [
+        "Step 1",
+        "Step 2"
+      ],
+      "correctOrder": [
+        "for i in range(5):",
+        "print(i)"
+      ]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Arrange the parts of a loop that uses a break statement to exit when a condition is met.",
+      "instructions": "Drag and drop the code parts into the order they should appear, maintaining valid Python indentation logic.",
+      "dragItems": [
+        "for num in range(10):",
+        "if num == 5:",
+        "break",
+        "print(num)"
+      ],
+      "dropZones": [
+        "Line 1",
+        "Line 2",
+        "Line 3",
+        "Line 4"
+      ],
+      "correctOrder": [
+        "for num in range(10):",
+        "if num == 5:",
+        "break",
+        "print(num)"
+      ]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Arrange the components of a for loop that uses a continue statement to skip even numbers.",
+      "instructions": "Drag and drop the code pieces to form a valid loop that prints numbers from a range except when the number is even.",
+      "dragItems": [
+        "for i in range(5):",
+        "if i % 2 == 0:",
+        "continue",
+        "print(i)"
+      ],
+      "dropZones": [
+        "Step 1 (Loop header)",
+        "Step 2 (Conditional check)",
+        "Step 3 (Continue statement)",
+        "Step 4 (Print statement)"
+      ],
+      "correctOrder": [
+        "for i in range(5):",
+        "if i % 2 == 0:",
+        "continue",
+        "print(i)"
+      ]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Arrange the parts of a for loop that filters and prints even numbers from a list.",
+      "instructions": "Drag and drop the provided code segments to create a loop that prints even numbers from the list 'numbers'.",
+      "dragItems": [
+        "for num in numbers:",
+        "if num % 2 == 0:",
+        "print(num)"
+      ],
+      "dropZones": [
+        "Step 1 (Loop initiation)",
+        "Step 2 (Conditional filtering)",
+        "Step 3 (Output)"
+      ],
+      "correctOrder": [
+        "for num in numbers:",
+        "if num % 2 == 0:",
+        "print(num)"
+      ]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Arrange the code pieces for nested loops that iterate over a dictionary with list values and print keys with each value.",
+      "instructions": "Drag and drop the items in the correct order to traverse 'my_dict', where each key maps to a list of values.",
+      "dragItems": [
+        "for key in my_dict:",
+        "for value in my_dict[key]:",
+        "print(key, value)"
+      ],
+      "dropZones": [
+        "Outer loop (iterate over keys)",
+        "Inner loop (iterate over associated list)",
+        "Loop body (print key and value)"
+      ],
+      "correctOrder": [
+        "for key in my_dict:",
+        "for value in my_dict[key]:",
+        "print(key, value)"
+      ]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Arrange the components of a for loop that uses the enumerate function to print both the index and the value.",
+      "instructions": "Drag and drop the code parts to form a loop that iterates over a list 'items' while printing the index and the value of each element.",
+      "dragItems": [
+        "for index, value in enumerate(items):",
+        "print(index, value)"
+      ],
+      "dropZones": [
+        "Step 1 (Loop using enumerate)",
+        "Step 2 (Print index and value)"
+      ],
+      "correctOrder": [
+        "for index, value in enumerate(items):",
+        "print(index, value)"
+      ]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Arrange the components of a while loop with an else clause that executes when the loop completes normally.",
+      "instructions": "Drag and drop the following code pieces into the correct order to form a while loop where the else block is executed after the loop finishes without encountering a break.",
+      "dragItems": [
+        "while count < 5:",
+        "print(count)",
+        "count += 1",
+        "else:",
+        "print('Loop finished')"
+      ],
+      "dropZones": [
+        "Line 1",
+        "Line 2",
+        "Line 3",
+        "Line 4",
+        "Line 5"
+      ],
+      "correctOrder": [
+        "while count < 5:",
+        "print(count)",
+        "count += 1",
+        "else:",
+        "print('Loop finished')"
+      ]
+    }
+  ]
+}

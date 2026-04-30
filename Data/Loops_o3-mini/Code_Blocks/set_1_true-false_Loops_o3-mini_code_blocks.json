@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for loop",
+        "iterable",
+        "strings",
+        "tuples",
+        "dictionaries"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "local scope",
+        "loop variable"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else",
+        "loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested loops",
+        "inner loop",
+        "outer loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "dictionary",
+        "for loop",
+        "values"
+      ]
+    }
+  ]
+}

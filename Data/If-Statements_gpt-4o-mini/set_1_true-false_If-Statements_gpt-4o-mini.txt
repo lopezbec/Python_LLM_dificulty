@@ -1,0 +1,58 @@
+Here are 10 true-false questions about if-statements, formatted as JSON objects. Each question increases in difficulty from 1 to 10:
+
+```json
+[
+    {
+        "question": "An if-statement in Python is used to execute a block of code only when a specified condition is true.",
+        "difficulty": 1,
+        "answer": true
+    },
+    {
+        "question": "In Python, the condition in an if-statement must always evaluate to a boolean value (True or False).",
+        "difficulty": 2,
+        "answer": false
+    },
+    {
+        "question": "The else clause is optional in an if-statement and is executed only when the if condition is false.",
+        "difficulty": 3,
+        "answer": true
+    },
+    {
+        "question": "If a condition in an if-statement evaluates to zero, the if block will execute.",
+        "difficulty": 4,
+        "answer": false
+    },
+    {
+        "question": "An if-statement can contain multiple conditions by using the 'and' operator.",
+        "difficulty": 5,
+        "answer": true
+    },
+    {
+        "question": "In Python, if you use '==' instead of '=', an error will occur.",
+        "difficulty": 6,
+        "answer": false
+    },
+    {
+        "question": "You can nest if-statements inside another if-statement in Python.",
+        "difficulty": 7,
+        "answer": true
+    },
+    {
+        "question": "The 'elif' keyword can be used to check for multiple conditions in an if-statement.",
+        "difficulty": 8,
+        "answer": true
+    },
+    {
+        "question": "In Python, if the first if condition is true, the following elif conditions will still be checked.",
+        "difficulty": 9,
+        "answer": false
+    },
+    {
+        "question": "An if-statement can only be followed by an else statement; no other structures are allowed after it.",
+        "difficulty": 10,
+        "answer": false
+    }
+]
+```
+
+This set comprehensively covers various aspects of if-statements in Python, increasing in complexity and nuance with each question. Each question is structured to be clear and informative.

@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "==",
+        "="
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "IndentationError"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "if",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 0: print(\"Positive\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "a and b or c",
+        "((a and b) or c)"
+      ]
+    }
+  ]
+}

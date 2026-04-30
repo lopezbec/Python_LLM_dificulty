@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "if statement",
+        "condition",
+        "parentheses"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'elif'",
+        "keyword",
+        "multiple conditions"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Indentation",
+        "Python",
+        "if statements",
+        "multi-line blocks"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if statements",
+        "if statements",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'else'",
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Python",
+        "logical operators",
+        "'and'",
+        "'or'",
+        "if statements",
+        "conditions"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Equality comparisons",
+        "if statements",
+        "numeric data types",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Chained comparison operators",
+        "1 < x < 10",
+        "Python",
+        "if statements"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if statements",
+        "'elif'",
+        "'else'"
+      ]
+    }
+  ]
+}

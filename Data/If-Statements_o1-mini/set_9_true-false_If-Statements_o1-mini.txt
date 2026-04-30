@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "An if statement in Python allows the program to execute certain code only if a specified condition is true.",
+    "difficulty": 1,
+    "answer": true
+  },
+  {
+    "question": "In Python, an if statement requires a condition to be followed by a colon (:).",
+    "difficulty": 2,
+    "answer": true
+  },
+  {
+    "question": "In Python, the indentation level does not affect the execution of if statements.",
+    "difficulty": 3,
+    "answer": false
+  },
+  {
+    "question": "An if statement in Python can have multiple conditions connected with 'and' or 'or' operators.",
+    "difficulty": 4,
+    "answer": true
+  },
+  {
+    "question": "The else clause in an if-else statement in Python is executed only when the if condition evaluates to False.",
+    "difficulty": 5,
+    "answer": true
+  },
+  {
+    "question": "In a Python if-elif-else chain, only the first True condition's block is executed, and the rest are skipped.",
+    "difficulty": 6,
+    "answer": true
+  },
+  {
+    "question": "Placing a semicolon at the end of an if statement condition in Python is necessary.",
+    "difficulty": 7,
+    "answer": false
+  },
+  {
+    "question": "Python allows an if statement to be written on a single line using a conditional expression.",
+    "difficulty": 8,
+    "answer": true
+  },
+  {
+    "question": "The following Python code will result in a syntax error:\n\nif x > 0\n    print(\"Positive\")",
+    "difficulty": 9,
+    "answer": true
+  },
+  {
+    "question": "In Python, the condition in an if statement must evaluate to a boolean value; otherwise, it will raise a TypeError.",
+    "difficulty": 10,
+    "answer": false
+  }
+]
+```

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank to check if x is greater than zero:\n\nif ______:\n    print('Positive')",
+      "correct_answer": "x > 0"
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "In Python, an if statement must be followed by a ______ to define its block.",
+      "correct_answer": "colon"
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "Complete the condition so this code prints 'Zero' when x is equal to 0:\n\nif ______:\n    print('Zero')",
+      "correct_answer": "x == 0"
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank to check if x is both greater than 0 and less than 10:\n\nif ______:\n    print('Between 1 and 9')",
+      "correct_answer": "0 < x < 10"
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Complete the condition to print 'Even' if x is an even number:\n\nif ______:\n    print('Even')",
+      "correct_answer": "x % 2 == 0"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank to check if the variable 'name' is not empty:\n\nif ______:\n    print('Name is present')",
+      "correct_answer": "name != \"\""
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank to chain two conditions: If x > 10, print 'Big'; otherwise, if x == 10, print 'Equal'; else print 'Small':\n\nif x > 10:\n    print('Big')\n______ x == 10:\n    print('Equal')\nelse:\n    print('Small')",
+      "correct_answer": "elif"
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "Complete the nested if-statement: If x > 0, then check if x % 2 == 1 for a positive odd number:\n\nif x > 0:\n    ______ x % 2 == 1:\n        print('Positive odd number')",
+      "correct_answer": "if"
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank to check x is not zero before verifying if y is divisible by x:\n\nif ______ and (y % x == 0):\n    print('y is divisible by x')",
+      "correct_answer": "x != 0"
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank to check if result is either greater than 100 or less than -100:\n\nif ______:\n    print('Out of range')",
+      "correct_answer": "result > 100 or result < -100"
+    }
+  ]
+}

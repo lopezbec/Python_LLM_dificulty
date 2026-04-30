@@ -1,0 +1,109 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "x",
+        "10",
+        "if x = 10:",
+        "if (x == 10):",
+        "if x == 10:",
+        "if (x = 10):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "elif",
+        "else",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "=",
+        "==",
+        "===",
+        "equals"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "or",
+        "and",
+        "&",
+        "&&"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 15\nif x < 10:\n    print('Less than 10')\nelif x < 20:\n    print('Less than 20')\nelse:\n    print('20 or more')\n",
+        "x",
+        "if",
+        "elif",
+        "else",
+        "print('Less than 10')",
+        "print('Less than 20')",
+        "print('20 or more')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "IndentationError"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 5\nif x > 3:\n    if x > 4:\n        print('A')\n    else:\n        print('B')\nelse:\n    print('C')\n",
+        "x",
+        "if",
+        "else",
+        "print('A')",
+        "print('B')",
+        "print('C')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'elif'",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "!=",
+        "=!",
+        "!==",
+        "not="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 10\ny = 20\nif x > 5 and (y < 20 or y == 20):\n    print('Correct')\nelse:\n    print('Incorrect')\n",
+        "x",
+        "y",
+        "if",
+        "and",
+        "or",
+        "==",
+        "print('Correct')",
+        "else",
+        "print('Incorrect')"
+      ]
+    }
+  ]
+}

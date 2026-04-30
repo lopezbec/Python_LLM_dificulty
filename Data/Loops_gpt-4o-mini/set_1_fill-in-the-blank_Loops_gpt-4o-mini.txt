@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a _____ loop is used to iterate over a sequence such as a list or a string.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "To create an infinite loop, you can use the _____ statement.",
+      "answer": "while True"
+    },
+    {
+      "difficulty": 3,
+      "question": "The _____ statement is used to exit a loop prematurely in Python.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "You can skip the current iteration of a loop by using the _____ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "In a for loop, the _____ function can be used to get the range of numbers to iterate over.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 6,
+      "question": "When using a while loop, a _____ condition must eventually become false to prevent an infinite loop.",
+      "answer": "Boolean"
+    },
+    {
+      "difficulty": 7,
+      "question": "The loop control variable is often used to keep track of the number of iterations; it is typically initialized _____ the loop starts.",
+      "answer": "before"
+    },
+    {
+      "difficulty": 8,
+      "question": "To combine two sequences into a loop, you can use the built-in _____ function.",
+      "answer": "zip"
+    },
+    {
+      "difficulty": 9,
+      "question": "Nested loops can be useful; however, they can lead to _____ complexity in execution time.",
+      "answer": "exponential"
+    },
+    {
+      "difficulty": 10,
+      "question": "Using a loop with a collection like a dictionary will allow you to iterate through its _____ and values.",
+      "answer": "keys"
+    }
+  ]
+}

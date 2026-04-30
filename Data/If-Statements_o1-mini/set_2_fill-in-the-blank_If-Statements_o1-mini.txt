@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "Fill in the blank: The keyword used to start an if statement in Python is ______.",
+    "answer": "if",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank: An if statement in Python must end with a ______.",
+    "answer": "colon",
+    "difficulty": 2
+  },
+  {
+    "question": "Fill in the blank: The block of code inside an if statement must be ______.",
+    "answer": "indented",
+    "difficulty": 3
+  },
+  {
+    "question": "Fill in the blank: To check an additional condition in an if statement, you use the ______ keyword.",
+    "answer": "elif",
+    "difficulty": 4
+  },
+  {
+    "question": "Fill in the blank: To execute code when none of the if or elif conditions are met, you use the ______ keyword.",
+    "answer": "else",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blank: To check if two conditions are both true in an if statement, you can use the ______ operator.",
+    "answer": "and",
+    "difficulty": 6
+  },
+  {
+    "question": "Fill in the blank: In Python, the ______ operator is used to check if at least one condition is true in an if statement.",
+    "answer": "or",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank: Complete the if statement below to check if a number is positive.\n\n```python\nnumber = 10\nif number > 0 ____\n    print(\"Positive number\")\n```",
+    "answer": ":",
+    "difficulty": 8
+  },
+  {
+    "question": "Fill in the blank: In a nested if statement, the inner if must be ______ relative to the outer if statement.",
+    "answer": "indented more",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank: Complete the following code to check if a number is between 10 and 20.\n\n```python\nnumber = 15\nif number > 10 and number < 20 ____\n    print(\"Number is between 10 and 20\")\nelse ____\n    print(\"Number is not in the range\")\n```",
+    "answer": ":\n    :",
+    "difficulty": 10
+  }
+]
+```

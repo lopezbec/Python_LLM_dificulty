@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "code block",
+        "condition",
+        "True",
+        "Python",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "function",
+        "sequence of numbers",
+        "for loop",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "loop",
+        "Python",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Python loop",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for loop",
+        "list",
+        "loop variable",
+        "element"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "total = 0",
+        "for num in range(1, 6):",
+        "total += num",
+        "print(total)",
+        "15"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "dictionary's keys and values",
+        "Python",
+        "items()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "loop",
+        "termination condition",
+        "infinite"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "sequence of even numbers",
+        "0 to 10 (inclusive)",
+        "for loop",
+        "range(0, ___, 2)",
+        "11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "x = 7\nif [BLANK]:\n    print(\"x is 7\")",
+        "x == 7",
+        "x >= 7",
+        "x < 7"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "score",
+        "score = 85\nif [BLANK]:\n    print(\"Excellent score\")",
+        "score < 80",
+        "score >= 80",
+        "score == 80"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "y",
+        "y = 4\nif [BLANK]:\n    print(\"y is less than 10\")",
+        "y > 10",
+        "y <= 10",
+        "y < 10"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "grade",
+        "grade = 55\nif [BLANK]:\n    print(\"Grade is in the 50s\")",
+        "50 < grade < 60",
+        "grade < 50 or grade > 60",
+        "grade == 50 and grade == 60"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "total",
+        "total = 100\nif [BLANK]:\n    print(\"100 or more\")",
+        "total >= 100",
+        "total = 100 or total = 0",
+        "total > 100 and total = 100"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "login_status",
+        "login_status = False\nif [BLANK]:\n    print(\"User must be logged in\")",
+        "login_status == True",
+        "login_status == False",
+        "login_status >= 1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "role",
+        "active",
+        "role = \"admin\"\nactive = True\nif [BLANK]:\n    print(\"Access Granted\")",
+        "role == \"admin\" and active == True",
+        "role == \"admin\" or active == True",
+        "role != \"admin\" and not active"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "number",
+        "number = 5\nif [BLANK]:\n    print(\"Number is outside 10 to 50\")",
+        "10 <= number <= 50",
+        "number < 10 or number > 50",
+        "number > 10 or number < 50"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "temp",
+        "temp = 50\nif [BLANK]:\n    print(\"Normal range\")",
+        "temp != 0 and temp != 100",
+        "temp == 0 and temp == 100",
+        "temp < 0 or temp > 100"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "msg",
+        "msg = \"The operation failed unexpectedly\"\nif [BLANK]:\n    print(\"Error detected\")",
+        "\"error\" not in msg or \"failed\" not in msg",
+        "\"error\" in msg and \"failed\" in msg",
+        "\"error\" in msg or \"failed\" in msg"
+      ]
+    }
+  ]
+}

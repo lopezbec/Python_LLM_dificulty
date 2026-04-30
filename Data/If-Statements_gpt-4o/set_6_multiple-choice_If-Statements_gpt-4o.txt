@@ -1,0 +1,115 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "What is the purpose of an if-statement in Python?",
+            "choices": [
+                "To repeat a block of code multiple times.",
+                "To perform different actions based on different conditions.",
+                "To store multiple values in a single variable.",
+                "To define a function."
+            ],
+            "correct_answer": "To perform different actions based on different conditions."
+        },
+        {
+            "difficulty": 2,
+            "question": "Which of the following is a correctly formatted simple if-statement?",
+            "choices": [
+                "if x > 5: print('x is greater than 5')",
+                "if (x > 5): print('x is greater than 5')",
+                "if x > 5; print('x is greater than 5')",
+                "if x > 5 print('x is greater than 5')"
+            ],
+            "correct_answer": "if x > 5: print('x is greater than 5')"
+        },
+        {
+            "difficulty": 3,
+            "question": "What will the following code print?\n\nx = 10\nif x < 5:\n    print('Less than 5')\nelse:\n    print('5 or more')",
+            "choices": [
+                "Less than 5",
+                "5 or more",
+                "Nothing",
+                "Error"
+            ],
+            "correct_answer": "5 or more"
+        },
+        {
+            "difficulty": 4,
+            "question": "Given the statement 'if x == 10:', which of the following values of 'x' will make the condition true?",
+            "choices": [
+                "x = '10'",
+                "x = 20",
+                "x = 10.0",
+                "x = 5"
+            ],
+            "correct_answer": "x = 10.0"
+        },
+        {
+            "difficulty": 5,
+            "question": "Consider the following code:\n\nx = 5\nif x > 3:\n    if x < 10:\n        print('Within range')\nWhat will be printed?",
+            "choices": [
+                "Within range",
+                "Nothing",
+                "Error",
+                "5"
+            ],
+            "correct_answer": "Within range"
+        },
+        {
+            "difficulty": 6,
+            "question": "What will be the output of this code?\n\nx = 42\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+            "choices": [
+                "Even",
+                "Odd",
+                "42",
+                "Error"
+            ],
+            "correct_answer": "Even"
+        },
+        {
+            "difficulty": 7,
+            "question": "In the expression 'if not x:', when will the if-statement execute the code block?",
+            "choices": [
+                "When x is any non-zero value",
+                "When x is zero",
+                "When x is True",
+                "When x is a positive number"
+            ],
+            "correct_answer": "When x is zero"
+        },
+        {
+            "difficulty": 8,
+            "question": "What will be the output when 'x = None', and executing the following code?\n\nif x:\n    print('True')\nelse:\n    print('False')",
+            "choices": [
+                "True",
+                "False",
+                "None",
+                "Error"
+            ],
+            "correct_answer": "False"
+        },
+        {
+            "difficulty": 9,
+            "question": "What is the output of the following code?\n\nx = [1, 2, 3]\nif x[2] == 3:\n    print('Match')\nelse:\n    print('No Match')",
+            "choices": [
+                "Match",
+                "No Match",
+                "Error",
+                "3"
+            ],
+            "correct_answer": "Match"
+        },
+        {
+            "difficulty": 10,
+            "question": "Which of the following is a logical error in using if-statements?\n\nx = 20\ny = 30\nif x > y:\n    print('x is greater than y')\nelse:\n    print('y is greater than or equal to x')",
+            "choices": [
+                "Incorrect indentations.",
+                "Comparing two variables using '>' instead of '=='.",
+                "Printing a statement in the else clause that implies x is not greater than y.",
+                "Using '=' instead of '=='."
+            ],
+            "correct_answer": "Printing a statement in the else clause that implies x is not greater than y."
+        }
+    ]
+}

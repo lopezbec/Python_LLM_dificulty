@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "condition",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "if-statement",
+        "'endif'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "Python",
+        "'elif'",
+        "'if'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if statement",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if condition",
+        "else clause",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "Python",
+        "'if'",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "object identity",
+        "if-statement",
+        "'is'",
+        "'if x is y:'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "equality",
+        "Python if-statement",
+        "'=='",
+        "'='"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "If statements",
+        "integer conditions",
+        "Python"
+      ]
+    }
+  ]
+}

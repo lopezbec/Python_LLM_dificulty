@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(1, 6): print(i)",
+        "i = 1; while i <= 5: print(i); i += 1",
+        "while i < 5: print(i); i += 1",
+        "i = 1; while i < 5: print(i); i++",
+        "while",
+        "i",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 0\nfor j in range(4):\n    count += j",
+        "count",
+        "j"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for x in range(1, 10, 2):\n    print('Hello')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "nested loops"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "data = [1, 2, 3]\nfor i in data:\n    for j in range(i):\n        print(i * j)",
+        "data",
+        "i",
+        "j",
+        "i * j"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 0\nwhile x < 5:\n    if x == 3:\n        break\n    x += 1\nprint(x)",
+        "x",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "O(n)",
+        "O(n^2)",
+        "O(log n)",
+        "O(1)",
+        "n"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "n = 3\nfor i in range(n):\n    for j in range(n):\n        if i == j:\n            print('Looping')",
+        "n",
+        "i",
+        "j"
+      ]
+    }
+  ]
+}

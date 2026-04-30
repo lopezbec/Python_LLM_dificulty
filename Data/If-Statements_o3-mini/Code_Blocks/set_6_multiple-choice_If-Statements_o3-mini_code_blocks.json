@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if a = 10:",
+        "if (a == 10):",
+        "if a == 10:",
+        "if a equals 10:",
+        "a",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "Python",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0: print(\"Positive\")",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if n > 0:\n    print('Positive')\nelif n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+        "if n > 0:\n    print('Positive')\nelse if n < 0:\n    print('Negative')\nelse:\n    print('Zero')",
+        "if (n > 0): print('Positive')\nif (n < 0): print('Negative')\nif (n == 0): print('Zero')",
+        "if n > 0 then print('Positive') else if n < 0 then print('Negative') else print('Zero')",
+        "if-elif-else",
+        "n"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 0\nif x:\n    print('True')\nelse:\n    print('False')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 5\nif x > 2:\n    if x < 10:\n        print('x is between 3 and 9')\n    else:\n        print('x is 10 or more')\nelse:\n    print('x is 2 or less')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if 1 <= a < 10:",
+        "if 1 < a < 10:",
+        "if a >= 1 and a <= 10:",
+        "a"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "print('Even') if n % 2 == 0 else print('Odd')",
+        "n"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "Python",
+        "'or'",
+        "'and'",
+        "'and'",
+        "'or'"
+      ]
+    }
+  ]
+}

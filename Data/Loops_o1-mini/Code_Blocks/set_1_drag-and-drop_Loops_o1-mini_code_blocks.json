@@ -1,0 +1,116 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(5):",
+        "print(i)",
+        "    print(i)",
+        "for i in range(5):",
+        "    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "while loop",
+        "nested loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "i = 0\nwhile ___ < 5:\n    print(i)\n    ___ += 1",
+        "i",
+        "i",
+        "i",
+        "i"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if i % 2 == 0:",
+        "continue",
+        "if i > 10:",
+        "break",
+        "if i % 2 == 0:",
+        "continue",
+        "if i > 10:",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):\n    for j in range(3):\n        print('X', end=' ')\n    ___",
+        "print()",
+        "print()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "[",
+        "x**2",
+        "for x in range(5)",
+        "]",
+        "[",
+        "x**2",
+        "for x in range(5)",
+        "]"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "result = 1",
+        "for i in range(1, n + 1):",
+        "result *= i",
+        "print(result)",
+        "result = 1",
+        "for i in range(1, n + 1):",
+        "    result *= i",
+        "print(result)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else:",
+        "print('Completed')",
+        "while count < 5:",
+        "    print(count)",
+        "    count += 1",
+        "count = 0",
+        "while count < 5:",
+        "    print(count)",
+        "    count += 1",
+        "else:",
+        "    print('Completed')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def count_up_to(max):\n    ___ i in range(max):\n        ___ i",
+        "for",
+        "yield",
+        "for",
+        "yield"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for key, value in my_dict.___():",
+        "print(f'{key}: {value}')",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "my_dict = {'a': 1, 'b': 2, 'c': 3}",
+        "for key, value in my_dict.items():",
+        "    print(f'{key}: {value}')"
+      ]
+    }
+  ]
+}

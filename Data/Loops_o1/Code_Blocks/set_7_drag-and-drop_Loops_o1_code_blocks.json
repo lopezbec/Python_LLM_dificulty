@@ -1,0 +1,97 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "print(i)",
+        "for i in range(1, 4):",
+        "    "
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for letter in 'Loop':",
+        "    ",
+        "print(letter)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while x < 3:",
+        "x = 0",
+        "x += 1",
+        "print(x)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "print(num)",
+        "for num in range(2, 8, 2):",
+        "    "
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "start -= 2",
+        "while start >= 1:",
+        "start = 7",
+        "print(start)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for col in range(2):",
+        "print((row, col))",
+        "for row in range(2):",
+        "    ",
+        "    "
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(5):",
+        "    ",
+        "print(i)",
+        "if i == 3:",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while n < 10:",
+        "continue",
+        "n += 1",
+        "print(n)",
+        "if n % 2 == 0:",
+        "n = 1"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for j in range(2):",
+        "    ",
+        "print('*', end=' ')",
+        "for i in range(3):",
+        "    "
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "numbers.append(x)",
+        "numbers = []",
+        "if x % 3 == 0:",
+        "for x in range(1, 15):",
+        "print(numbers)"
+      ]
+    }
+  ]
+}

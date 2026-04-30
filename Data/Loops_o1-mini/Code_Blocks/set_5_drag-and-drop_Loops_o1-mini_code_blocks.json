@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(1, 4):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "count = 5",
+        "while count > 0:",
+        "print(count)",
+        "count -= 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "while loop",
+        "nested loop",
+        "infinite loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "print(fruit)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(1, 4):",
+        "for j in range(1, 4):",
+        "print(i * j)",
+        "    print(i * j)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for number in range(1, 6):",
+        "if number == 3:",
+        "    break",
+        "    print(number)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "data = {'a': 1, 'b': 2, 'c': 3}",
+        "for key, value in data.items():",
+        "print(f'Key: {key}, Value: {value}')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for num in range(1, 6):",
+        "if num % 2 == 0:",
+        "    continue",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "try:",
+        "    for item in my_list:",
+        "        print(item)",
+        "except Exception as e:",
+        "    print(f'Error: {e}')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def generate_squares():",
+        "    for num in range(0, 11):",
+        "        if num % 2 == 0:",
+        "            yield num ** 2"
+      ]
+    }
+  ]
+}

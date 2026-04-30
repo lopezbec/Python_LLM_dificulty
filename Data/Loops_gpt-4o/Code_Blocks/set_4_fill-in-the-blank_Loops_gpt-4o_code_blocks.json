@@ -1,0 +1,92 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "block of code",
+        "executed repeatedly",
+        "condition is true",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "loop",
+        "block of code",
+        "condition is true",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for",
+        "iterate over a sequence",
+        "lists",
+        "tuples",
+        "strings"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break",
+        "loop iteration",
+        "statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "range",
+        "sequence of numbers"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "continue",
+        "loops",
+        "skipping the current iteration"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "loop",
+        "loop condition becomes false",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Nested loops",
+        "within",
+        "another loop",
+        "multidimensional iterations"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "while",
+        "infinite loop",
+        "loop's condition",
+        "updated within the block"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "list",
+        "[x for x in sequence]",
+        "comprehension",
+        "process sequences in loops"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in ______(5)",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "keys"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'for' loop",
+        "'for' loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "list comprehension"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for' loop",
+        "'break'",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "itertools"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "equality conditions"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "If-statements",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statements",
+        "integer values"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if True print('yes'):"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else",
+        "if-else",
+        "if condition"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if-statements",
+        "if-statement",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "expression",
+        "if-statement's condition",
+        "boolean value"
+      ]
+    }
+  ]
+}

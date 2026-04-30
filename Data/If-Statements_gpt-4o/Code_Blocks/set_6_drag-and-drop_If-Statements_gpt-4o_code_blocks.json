@@ -1,0 +1,108 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 5",
+        "if x == 5:",
+        "print('Hello, World!')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "number = 4",
+        "if number % 2 == 0:",
+        "print('Even')",
+        "else:",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "num = 8",
+        "if num > 0:",
+        "if num % 2 == 0:",
+        "print('Positive Even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 17",
+        "if age >= 18:",
+        "print('Eligible to vote')",
+        "elif age < 18:",
+        "print('Minor')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "score = 75",
+        "if score >= 90:",
+        "print('A')",
+        "elif score >= 70:",
+        "print('B')",
+        "else:",
+        "print('C')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 15",
+        "if num >= 10 and num <= 20:",
+        "print('Within range')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "a = 5",
+        "b = 10",
+        "if a == b:",
+        "print('Equal')",
+        "elif a > b:",
+        "print('a is greater')",
+        "elif a < b:",
+        "print('b is greater')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "value = 45",
+        "if value <= 30:",
+        "print('Low')",
+        "elif value <= 60:",
+        "print('Medium')",
+        "else:",
+        "print('High')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "score = 82",
+        "if score >= 90:",
+        "print('Outstanding')",
+        "elif score >= 75 and score < 90:",
+        "print('Good')",
+        "elif score >= 60 and score < 75:",
+        "print('Satisfactory')",
+        "else:",
+        "print('Needs Improvement')"
+      ]
+    }
+  ]
+}

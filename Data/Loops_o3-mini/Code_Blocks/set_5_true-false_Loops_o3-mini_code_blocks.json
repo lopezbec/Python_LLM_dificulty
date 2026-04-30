@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "while loop",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else clause",
+        "loop",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "infinite loop",
+        "'while True'",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "dictionary",
+        "for loop",
+        "keys"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "range()",
+        "range(5)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Nested loops",
+        "O(n*m)",
+        "n",
+        "m"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "iterable",
+        "list",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "for loops"
+      ]
+    }
+  ]
+}

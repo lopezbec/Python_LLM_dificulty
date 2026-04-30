@@ -1,0 +1,85 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Drag and drop to complete the basic if-statement that prints 'Hello World' if the variable 'x' is greater than 0.",
+            "code": "if x > 0:\n    <blank>",
+            "options": ["print('Hello World')", "x = 0", "else"]
+        },
+        {
+            "difficulty": 2,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Drag and drop to complete the if-statement that checks if 'y' is equal to 10.",
+            "code": "if <blank>:\n    print('y is 10')",
+            "options": ["y == 10", "y != 10", "y < 10"]
+        },
+        {
+            "difficulty": 3,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the if-else statement that prints 'Positive' if the number is greater than zero, otherwise 'Non-positive'.",
+            "code": "if <blank>:\n    print('Positive')\nelse:\n    <blank>",
+            "options": ["number > 0", "print('Non-positive')", "number == 0"]
+        },
+        {
+            "difficulty": 4,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Choose the correct comparison operator to complete the if-statement, checking if 'a' is not equal to 5.",
+            "code": "if a <blank>:\n    print('a is not 5')",
+            "options": ["!= 5", "== 5", "> 5"]
+        },
+        {
+            "difficulty": 5,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Fill in the blanks to check if 'b' is between 3 and 7 inclusive.",
+            "code": "if 3 <= b <blank> 7:\n    print('b is within range')",
+            "options": ["<=", "==", "<"]
+        },
+        {
+            "difficulty": 6,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the code to print different messages based on the value of 'day'.",
+            "code": "if day == 'Monday':\n    <blank>\nelif <blank>:\n    print('Midweek')\nelse:\n    print('Weekend')",
+            "options": ["print('Start of week')", "day == 'Wednesday'", "day == 'Friday'"]
+        },
+        {
+            "difficulty": 7,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Drag and drop to build nested if-statements that check if 'score' is greater than 50 and if 'passed' is True.",
+            "code": "if score > 50:\n    <blank>\n        print('Pass')\n    else:\n        <blank>",
+            "options": ["if passed:", "print('Fail')", "print('Score is high')"]
+        },
+        {
+            "difficulty": 8,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Construct the if-elif-else chain to categorize age into 'Child', 'Teen', or 'Adult'.",
+            "code": "if age < 13:\n    print('Child')\nelif <blank>:\n    <blank>\nelse:\n    print('Adult')",
+            "options": ["13 <= age < 18", "print('Teen')", "age > 18"]
+        },
+        {
+            "difficulty": 9,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Fill in the parameters to complete the if-statement checking multiple conditions: 'a' is positive or 'b' is negative.",
+            "code": "if <blank> or <blank>:\n    print('Conditions met')",
+            "options": ["a > 0", "b < 0", "a < 0"]
+        },
+        {
+            "difficulty": 10,
+            "type": "drag-and-drop",
+            "topic": "If-Statements",
+            "question": "Complete the complex if-elif-else structure to check logical conditions involving three variables 'x', 'y', and 'z'.",
+            "code": "if x > y and z < y:\n    <blank>\nelif x < y or z > x:\n    print('Condition B')\nelse:\n    <blank>",
+            "options": ["print('Condition A')", "print('Condition C')", "print('x is less than y')"]
+        }
+    ]
+}

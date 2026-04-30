@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Which Python keyword is used to create a for loop?",
+      "difficulty": 1,
+      "options": [
+        "A. for",
+        "B. loop",
+        "C. iterate",
+        "D. while"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which built-in function in Python is primarily used to generate a sequence for iteration in a for loop?",
+      "difficulty": 2,
+      "options": [
+        "A. list()",
+        "B. dict()",
+        "C. range()",
+        "D. enumerate()"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What does the following Python code print?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1",
+      "difficulty": 3,
+      "options": [
+        "A. It prints 1, 2, 3",
+        "B. It prints 0, 1, 2",
+        "C. It prints 0, 1, 2, 3",
+        "D. It results in an infinite loop"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "How many times is 'Hello' printed?\n\nfor i in range(5):\n    if i == 2:\n        break\n    print('Hello')",
+      "difficulty": 4,
+      "options": [
+        "A. 0",
+        "B. 2",
+        "C. 3",
+        "D. 5"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which statement best describes the else clause in a Python loop?",
+      "difficulty": 5,
+      "options": [
+        "A. It only runs if the loop is forcibly terminated with break.",
+        "B. It always runs after every iteration.",
+        "C. It only runs if the loop completes without encountering a break.",
+        "D. It is only valid for while loops."
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which function returns an iterator of pairs (index, value) when looping over a sequence?",
+      "difficulty": 6,
+      "options": [
+        "A. zip()",
+        "B. enumerate()",
+        "C. items()",
+        "D. map()"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What is the final value of 'result' after running this code?\n\nresult = []\nfor i in range(5):\n    if i % 2 == 0:\n        continue\n    result.append(i)\nprint(result)",
+      "difficulty": 7,
+      "options": [
+        "A. [0, 2, 4]",
+        "B. [1, 3]",
+        "C. [1, 2, 3, 4]",
+        "D. [0, 1, 2, 3, 4]"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which statement about the 'break' and 'continue' keywords in Python is correct?",
+      "difficulty": 8,
+      "options": [
+        "A. 'break' continues to the next iteration, while 'continue' stops the loop entirely.",
+        "B. 'break' ends only the current iteration, while 'continue' terminates the loop entirely.",
+        "C. 'break' terminates the loop entirely, while 'continue' only skips the current iteration.",
+        "D. Both 'break' and 'continue' skip the remaining iterations of the loop."
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which code snippet produces the list [0, 1, 4, 9, 16] using a for loop in Python?",
+      "difficulty": 9,
+      "options": [
+        "A. squares = []\\nfor x in range(5):\\n    squares.append(x)\\nprint(squares)",
+        "B. squares = [x*x for x in range(5)]\\nprint(squares)",
+        "C. squares = []\\nfor x in range(5):\\n    squares.append(x*x)\\nprint(squares)",
+        "D. squares = []\\nfor x in range(1, 5):\\n    squares.append(x*x)\\nprint(squares)"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What is the time complexity of the following code snippet assuming 'n' is the length of 'my_list'?\n\nmy_list = [x for x in range(n)]\nfor i in range(n):\n    for j in range(n):\n        print(my_list[i] + my_list[j])",
+      "difficulty": 10,
+      "options": [
+        "A. O(n)",
+        "B. O(n log n)",
+        "C. O(n^2)",
+        "D. O(1)"
+      ],
+      "answer": "C"
+    }
+  ]
+}

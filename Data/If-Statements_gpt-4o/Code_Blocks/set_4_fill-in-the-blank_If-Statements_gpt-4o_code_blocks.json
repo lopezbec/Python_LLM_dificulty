@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 5: print('Greater')",
+        "x > 5"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "n",
+        "if n > 5:\n    print('n is big')\nelse:\n    print('n is small')",
+        "n is big"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        ">",
+        "<",
+        ">=",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x > 5:\n    if x < 10:\n        print('x is between 5 and 10')",
+        "x = 7",
+        "x is between 5 and 10"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x and y:",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "or"
+      ]
+    }
+  ]
+}

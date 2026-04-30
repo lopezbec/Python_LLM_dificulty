@@ -1,0 +1,82 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "if",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "if statement",
+        "while loop",
+        "function"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(2):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue",
+        "break",
+        "pass",
+        "stop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(5):\n    if i == 2:\n        continue\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "for",
+        "while",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(2):\n    for j in range(2):\n        print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(n):\n    for j in range(n):\n        print(i, j)",
+        "O(n)",
+        "O(n^2)",
+        "O(n^3)",
+        "O(log n)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [3, 5, 7]\nfor num in numbers:\n    if num % 2 == 0:\n        print('Even number found:', num)\n        break\nelse:\n    print('No even number found')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while True:",
+        "break",
+        "exit"
+      ]
+    }
+  ]
+}

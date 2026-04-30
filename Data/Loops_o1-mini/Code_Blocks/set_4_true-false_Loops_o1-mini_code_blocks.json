@@ -1,0 +1,70 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "dictionary's keys and values"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "O(n²)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "list",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "else",
+        "for",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "for"
+      ]
+    }
+  ]
+}

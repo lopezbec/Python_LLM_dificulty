@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank to start a Python conditional statement that checks if x is greater than 10:\n\n______ x > 10:",
+      "answer": "if"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank to correctly end the following if-statement header:\n\nif x == 5______",
+      "answer": ":"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank to provide an alternate branch for the following code:\n\nif x > 0:\n    print('Positive')\n______:\n    print('Non-positive')",
+      "answer": "else:"
+    },
+    {
+      "difficulty": 4,
+      "question": "Complete the code by filling in the blank to add an additional condition check:\n\nif x == 1:\n    print('One')\n______ x == 2:\n    print('Two')",
+      "answer": "elif:"
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank to use a built-in function within an if-statement:\n\nif ______(nums) > 0:\n    print('List is not empty')",
+      "answer": "len"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank to complete the if condition that uses the modulo operator to check if n is even:\n\nif n % ______ == 0:\n    print('Even number!')",
+      "answer": "2"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank to add a compound condition that checks if x is between 1 and 10:\n\nif x >= 1 ______ x <= 10:\n    print('x is between 1 and 10')",
+      "answer": "and"
+    },
+    {
+      "difficulty": 8,
+      "question": "Complete the if-statement with the appropriate logical operator to check for two grades:\n\nif grade == 'A' ______ grade == 'B':\n    print('Excellent!')",
+      "answer": "or"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank to complete the Python ternary conditional expression that assigns 'Even' if num is even, otherwise 'Odd':\n\nresult = 'Even' if num % 2 == 0 ______ 'Odd'",
+      "answer": "else"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank in the following code that uses the walrus operator to both assign and use the length of a list:\n\nif (n := len(my_list)) > 5:\n    print('Large list')\nelse:\n    print('List has', ______, 'elements')",
+      "answer": "n"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+```json
+[
+  {
+    "question": "In Python, a for loop can be used to iterate over the elements of a list.",
+    "answer": true,
+    "difficulty": 1,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "A while loop in Python will execute its block of code only once regardless of the condition.",
+    "answer": false,
+    "difficulty": 2,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "In a for loop, the loop variable automatically takes the value of each element in the iterable during each iteration.",
+    "answer": true,
+    "difficulty": 3,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "The range(5) function in a for loop generates the sequence of numbers from 1 to 5 inclusive.",
+    "answer": false,
+    "difficulty": 4,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "Nested loops allow you to iterate over multi-dimensional data structures by placing one loop inside another.",
+    "answer": true,
+    "difficulty": 5,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "Using a break statement inside a loop will immediately terminate the loop regardless of the loop condition.",
+    "answer": true,
+    "difficulty": 6,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "The continue statement in a loop skips the current iteration and exits the loop entirely.",
+    "answer": false,
+    "difficulty": 7,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "In Python, a for loop can have an else clause that executes only if the loop completes without encountering a break statement.",
+    "answer": true,
+    "difficulty": 8,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "An infinite loop occurs when the loop's terminating condition is never met, causing the loop to run indefinitely.",
+    "answer": true,
+    "difficulty": 9,
+    "topic": "Loops",
+    "type": "True/False"
+  },
+  {
+    "question": "List comprehensions in Python are a form of loops that can include conditional statements to filter items, making them equivalent to nested loops in complexity.",
+    "answer": false,
+    "difficulty": 10,
+    "topic": "Loops",
+    "type": "True/False"
+  }
+]
+```

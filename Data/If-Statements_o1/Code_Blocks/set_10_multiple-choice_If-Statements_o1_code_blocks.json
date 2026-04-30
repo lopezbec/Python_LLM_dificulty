@@ -1,0 +1,116 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 0:",
+        "if x > 0",
+        "if (x > 0);",
+        "x if > 0:",
+        "x",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "elif",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5\nif x < 3:\n    print(\"Small\")\nelif x < 5:\n    print(\"Medium\")\nelse:\n    print(\"Large\")",
+        "x",
+        "if x < 3:",
+        "print(\"Small\")",
+        "elif x < 5:",
+        "print(\"Medium\")",
+        "else:",
+        "print(\"Large\")",
+        "else",
+        "elif",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 7\nif x < 10:\n    if x % 2 == 0:\n        print(\"Less than 10 and even\")\n    else:\n        print(\"Less than 10 and odd\")\nelse:\n    print(\"Greater or equal to 10\")",
+        "x",
+        "if x < 10:",
+        "if x % 2 == 0:",
+        "print(\"Less than 10 and even\")",
+        "else:",
+        "print(\"Less than 10 and odd\")",
+        "else:",
+        "print(\"Greater or equal to 10\")",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 5\nif x < 10 and x > 2:\n    print(\"Within range\")\nelse:\n    print(\"Out of range\")",
+        "x",
+        "if x < 10 and x > 2:",
+        "print(\"Within range\")",
+        "else:",
+        "print(\"Out of range\")",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "0",
+        "None",
+        "An empty string",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "var = 'Positive' if x > 0 else 'Non-positive'",
+        "var = if x > 0: 'Positive' else: 'Non-positive'",
+        "if x > 0 ? var = 'Positive' : var = 'Non-positive'",
+        "var = 'Non-positive' if x > 0 else 'Positive'",
+        "var",
+        "x > 0",
+        "if",
+        "else",
+        "<true-value> if <condition> else <false-value>"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "'and'",
+        "'or'",
+        "and",
+        "or"
+      ]
+    }
+  ]
+}

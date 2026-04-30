@@ -1,0 +1,96 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "for",
+        "while",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x => 5:",
+        "if x > 5:",
+        "if (x) > 5",
+        "if x > 5 then",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        ";",
+        ":",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif",
+        "elif",
+        "elif",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 'Hello'",
+        "if x == 'Hello':",
+        "    print('Match')",
+        "else:",
+        "    print('No match')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "IndentationError"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "a",
+        "b",
+        "if a > 5 or b < 10:",
+        "if a and b < 5, 10:",
+        "if (a > 5) and (b < 10):",
+        "if a > 5 < b < 10:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "num = 10",
+        "if num > 5:",
+        "    if num < 15:",
+        "        print('Within range')",
+        "num > 15",
+        "num < 5",
+        "num > 5 and num < 15",
+        "num == 10"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "if"
+      ]
+    }
+  ]
+}

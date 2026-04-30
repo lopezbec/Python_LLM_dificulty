@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "loop variable",
+        "iterable"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "range(5)",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Nested loops"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "break statement",
+        "loop",
+        "loop condition"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "continue statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for loop",
+        "else clause",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "infinite loop",
+        "terminating condition"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "loops",
+        "conditional statements",
+        "nested loops"
+      ]
+    }
+  ]
+}

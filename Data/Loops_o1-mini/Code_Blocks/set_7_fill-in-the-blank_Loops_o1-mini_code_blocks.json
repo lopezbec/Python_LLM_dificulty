@@ -1,0 +1,64 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "outer"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "zero-iteration"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "list comprehension"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "yield"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "function calls"
+      ]
+    }
+  ]
+}

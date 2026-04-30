@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python",
+        "iterate",
+        "sequence",
+        "list",
+        "string",
+        "while loop",
+        "for loop",
+        "do-while loop",
+        "until loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(3):\n    print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'i'",
+        "for i in range(5):\n    pass"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "count = 0\nwhile count < 4:\n    print(count)\n    count += 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'items()'",
+        "dictionary"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'break'",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for num in range(5):\n    if num == 3:\n        continue\n    print(num)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nested loop",
+        "outer loop",
+        "inner loop"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "loop construct",
+        "do-while loop",
+        "while loop",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "time complexity",
+        "for loop",
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ]
+    }
+  ]
+}

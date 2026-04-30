@@ -1,0 +1,96 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in ______:",
+        "range(3)",
+        "while True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "total = 0",
+        "num = 1",
+        "while num <= 10:",
+        "total += num",
+        "num += 1",
+        "print(total)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "while i < 5: print(i) _______",
+        "i += 1",
+        "i = 0",
+        "continue",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "range(3)",
+        "range(1,4)",
+        "range(10)",
+        "while True"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "finally",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "squares = [",
+        "i*i",
+        "for i in range(5)",
+        "if ...",
+        "]"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if ______:",
+        "i % 2 == 0",
+        "i % 2 != 0",
+        "i == 0",
+        "i > 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "__next__",
+        "if ______: raise StopIteration",
+        "self.current >= self.limit",
+        "self.current < self.limit",
+        "while True",
+        "self.current == self.limit"
+      ]
+    }
+  ]
+}

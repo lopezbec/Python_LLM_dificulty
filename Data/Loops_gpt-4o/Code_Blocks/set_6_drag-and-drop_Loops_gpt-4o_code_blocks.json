@@ -1,0 +1,180 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        ":",
+        "in",
+        ":",
+        "range(5)",
+        "print(i)",
+        "i"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "i",
+        "<=",
+        "=",
+        "5",
+        "while",
+        "print(i)",
+        ":",
+        "1",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for",
+        "for",
+        "print(matrix[i][j])",
+        "i",
+        "in",
+        "range",
+        "(",
+        "len(matrix)",
+        ")",
+        "j",
+        "range",
+        "(",
+        "len(matrix[i])",
+        ")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "=",
+        "factorial",
+        "*=",
+        "n",
+        "1",
+        "for",
+        "i",
+        "in",
+        "range",
+        "(",
+        "1",
+        ",",
+        "n",
+        "+",
+        "1",
+        ")",
+        "print(factorial)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "if",
+        "%",
+        ":",
+        "==",
+        "0",
+        "print(num)",
+        "num",
+        "in",
+        "range",
+        "(",
+        "1",
+        ",",
+        "11",
+        ")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "count",
+        "0",
+        "for",
+        "char",
+        "in",
+        "string",
+        "if",
+        "char",
+        "in",
+        "vowels",
+        "aeiou",
+        "+=1",
+        ":",
+        "print(count)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "target",
+        "10",
+        "for",
+        "if",
+        "==",
+        "num",
+        ":",
+        "break",
+        "in",
+        "numbers",
+        "print",
+        "(",
+        "num",
+        ")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for",
+        "in",
+        ":",
+        "10",
+        "if",
+        "%",
+        "3",
+        "==",
+        "0",
+        "continue",
+        "else",
+        "print(num)",
+        "range("
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers",
+        "[",
+        "]",
+        "for",
+        "if",
+        "<",
+        ":",
+        "break",
+        "else",
+        "print",
+        "'All are positive'",
+        "<= 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "total",
+        "0",
+        "for",
+        "amount",
+        "in",
+        "transactions",
+        "total",
+        "=",
+        "print",
+        "total",
+        "+="
+      ]
+    }
+  ]
+}

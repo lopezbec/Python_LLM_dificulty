@@ -1,0 +1,166 @@
+```json
+[
+  {
+    "id": 1,
+    "difficulty": 1,
+    "topic": "Loops",
+    "question": "Arrange the parts of a basic `for` loop in Python in the correct order.",
+    "drag_items": [
+      "for item in iterable:",
+      "    print(item)"
+    ],
+    "drop_zones": [
+      "Start of the loop",
+      "Body of the loop"
+    ],
+    "instructions": "Drag and drop the code snippets into the correct order."
+  },
+  {
+    "id": 2,
+    "difficulty": 2,
+    "topic": "Loops",
+    "question": "Match the loop type to its description.",
+    "drag_items": [
+      "for loop",
+      "while loop"
+    ],
+    "drop_zones": [
+      "Iterates over a sequence",
+      "Continues until a condition is False"
+    ],
+    "instructions": "Drag each loop type to its corresponding description."
+  },
+  {
+    "id": 3,
+    "difficulty": 3,
+    "topic": "Loops",
+    "question": "Arrange the following `while` loop components in the correct sequence.",
+    "drag_items": [
+      "while condition:",
+      "    # loop body",
+      "    statement"
+    ],
+    "drop_zones": [
+      "Loop declaration",
+      "Loop body comment",
+      "Loop statement"
+    ],
+    "instructions": "Drag the components to their respective parts of the loop."
+  },
+  {
+    "id": 4,
+    "difficulty": 4,
+    "topic": "Loops",
+    "question": "Match the loop control statements to their function.",
+    "drag_items": [
+      "break",
+      "continue",
+      "pass"
+    ],
+    "drop_zones": [
+      "Exit the loop immediately",
+      "Skip to the next iteration",
+      "Do nothing and continue"
+    ],
+    "instructions": "Drag each control statement to its correct description."
+  },
+  {
+    "id": 5,
+    "difficulty": 5,
+    "topic": "Loops",
+    "question": "Arrange the nested loop structure correctly.",
+    "drag_items": [
+      "for i in range(3):",
+      "    for j in range(2):",
+      "        print(i, j)"
+    ],
+    "drop_zones": [
+      "Outer loop",
+      "Inner loop",
+      "Loop body"
+    ],
+    "instructions": "Drag the code snippets into the correct nesting order."
+  },
+  {
+    "id": 6,
+    "difficulty": 6,
+    "topic": "Loops",
+    "question": "Match the loop with its output.",
+    "drag_items": [
+      "for i in range(3):\n    print(i)",
+      "i = 0\nwhile i < 3:\n    print(i)\n    i += 1"
+    ],
+    "drop_zones": [
+      "0\n1\n2",
+      "0\n1\n2"
+    ],
+    "instructions": "Drag each loop to its corresponding output."
+  },
+  {
+    "id": 7,
+    "difficulty": 7,
+    "topic": "Loops",
+    "question": "Arrange the loop with an `else` clause correctly.",
+    "drag_items": [
+      "for item in iterable:",
+      "    if condition:",
+      "        break",
+      "else:",
+      "    print('Completed without break')"
+    ],
+    "drop_zones": [
+      "Loop start",
+      "Condition check",
+      "Break statement",
+      "Else clause",
+      "Else body"
+    ],
+    "instructions": "Drag the code snippets into the proper `for-else` structure."
+  },
+  {
+    "id": 8,
+    "difficulty": 8,
+    "topic": "Loops",
+    "question": "Match the loop optimization techniques to their descriptions.",
+    "drag_items": [
+      "List comprehension",
+      "Generator expressions"
+    ],
+    "drop_zones": [
+      "Creates a new list based on existing iterables",
+      "Generates items on-the-fly without storing the entire list"
+    ],
+    "instructions": "Drag each optimization technique to its correct description."
+  },
+  {
+    "id": 9,
+    "difficulty": 9,
+    "topic": "Loops",
+    "question": "Arrange the loop that iterates over a dictionary correctly.",
+    "drag_items": [
+      "for key, value in dictionary.items():",
+      "    print(key, value)"
+    ],
+    "drop_zones": [
+      "Loop declaration",
+      "Loop body"
+    ],
+    "instructions": "Drag the code snippets into the correct order for iterating over a dictionary."
+  },
+  {
+    "id": 10,
+    "difficulty": 10,
+    "topic": "Loops",
+    "question": "Match the loop scenarios to their appropriate loop type.",
+    "drag_items": [
+      "Unknown number of iterations, continue until a condition is met",
+      "Fixed number of iterations based on a sequence"
+    ],
+    "drop_zones": [
+      "while loop",
+      "for loop"
+    ],
+    "instructions": "Drag each scenario to the loop type that best fits."
+  }
+]
+```

@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "condition",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5\nif x > 0:\n    print(\"Positive\")",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if statement",
+        "else",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Nested if statements",
+        "indentation",
+        "code blocks"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if statement",
+        "IndentationError"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if statement",
+        "expression",
+        "Boolean value",
+        "function call",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'elif'",
+        "if statements",
+        "'elif'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'=='",
+        "equality",
+        "identity"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if True:\n    print('Hello')\n\tprint('World')",
+        "SyntaxError",
+        "tabs",
+        "spaces",
+        "indentation"
+      ]
+    }
+  ]
+}

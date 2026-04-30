@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if condition then:",
+        "if (condition) {",
+        "if condition:",
+        "if: condition"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "=",
+        "==",
+        "===",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10\nif x > 5:\n    print('A')\nelse:\n    print('B')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 3\nif x > 5:\n    print('A')\nelif x == 3:\n    print('B')\nelse:\n    print('C')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "age = 20\nhas_id = False\nif age >= 18:\n    if has_id:\n        print('Entry allowed')\n    else:\n        print('No ID, entry denied')\nelse:\n    print('Too young')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if not (x > 5 and y < 10):\n    # some code",
+        "if x > 5 or y < 10:",
+        "if x <= 5 and y >= 10:",
+        "if x <= 5 or y >= 10:",
+        "if not x > 5 and not y < 10:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "def check_number(x):\n    if x < 0:\n        return True\n    else:\n        return False",
+        "def check_number(x):\n    if x > 0:\n        return 'Positive'\n    else:\n        return 'Non-positive'",
+        "def check_number(x):\n    if x == 0:\n        return 'Zero'\n    print('Non-zero')",
+        "def check_number(x):\n    print('Checking...')\n    return x"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if condition1:\n    if condition2:\n        process_a()\n    else:\n        process_b()",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x > 0 and y < 0 or z == 0:",
+        "if (x > 0 and y < 0) or z == 0:",
+        "if x > 0 and (y < 0 or z == 0):",
+        "if (x > 0 and y < 0 or z == 0):",
+        "x is positive and (y is negative or z is zero)"
+      ]
+    }
+  ]
+}

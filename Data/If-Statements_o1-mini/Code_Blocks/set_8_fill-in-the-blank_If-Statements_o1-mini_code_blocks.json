@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "___ x > 10:",
+        "print(\"x is greater than 10\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "age",
+        "if ___:",
+        "print(\"You are an adult.\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if temperature > 30:",
+        "___ print(\"It's a hot day.\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score >= 50:",
+        "print(\"Pass\")",
+        "___:",
+        "print(\"Fail\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if score > 90:",
+        "print(\"Excellent\")",
+        "elif ___:",
+        "print(\"Good\")",
+        "else:",
+        "print(\"Average\")",
+        "score"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 10 ___ x < 20:",
+        "print(\"x is between 10 and 20\")",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if num > 0:",
+        "___ num % 2 == 0:",
+        "print(\"Positive even number\")",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "result = 'Yes' ___ flag ___ 'No'",
+        "flag",
+        "result"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if a % b == 0 ___ a % c == 0:",
+        "print(\"Divisible by both\")",
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if age < 13:",
+        "category = \"Child\"",
+        "elif age < 20:",
+        "___ age < 65:",
+        "category = \"Adult\"",
+        "else:",
+        "category = \"Senior\"",
+        "age"
+      ]
+    }
+  ]
+}

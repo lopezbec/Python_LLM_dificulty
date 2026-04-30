@@ -1,0 +1,72 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "strings",
+        "lists"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "Python",
+        "for",
+        "dict.keys()"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "break",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for",
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        ""
+      ]
+    }
+  ]
+}

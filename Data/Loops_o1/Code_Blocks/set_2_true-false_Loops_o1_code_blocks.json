@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'for' loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'while' loops",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'continue' statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'break' statement",
+        "Python",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Nested loops",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "Python",
+        "empty 'for' loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'return' statement",
+        "function",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "range(5, 1, -1)",
+        "'for' loop",
+        "5, 4, 3, 2, 1"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "dictionary.items()",
+        "key-value pairs",
+        "'for' loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "Python",
+        "'for' loop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "An if statement in Python begins with the keyword 'if' followed by a condition and ends with a colon.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "In Python, 'elif' is used to specify a new condition if the previous condition in an if-else block evaluates to False.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 3,
+      "question": "Every if statement in Python must have an accompanying else clause to handle the false condition.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 4,
+      "question": "Proper indentation is optional in Python if statements, as long as the logic is clear.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 5,
+      "question": "A colon (:) is required after the condition in an if statement header in Python.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "In a Python if statement, you can combine multiple conditions using the 'and' operator.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 7,
+      "question": "Python allows you to enclose the block of an if statement within curly braces { } similar to languages like C or Java.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 8,
+      "question": "The condition in a Python if statement can be any expression that returns a Boolean value, including function calls.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 9,
+      "question": "In an if-elif-else chain, more than one block can be executed if multiple conditions evaluate to True.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 10,
+      "question": "In nested if statements, the inner if block executes regardless of the outer if condition, even if the outer condition is False.",
+      "answer": "False"
+    }
+  ]
+}

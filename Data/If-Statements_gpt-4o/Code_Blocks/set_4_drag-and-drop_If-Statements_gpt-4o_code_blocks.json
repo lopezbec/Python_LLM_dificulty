@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ___ == ___:\n    print('Hello World!')",
+        "x",
+        "10",
+        "20",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if num > 5:\n    print('Greater')\nelif num == 5:\n    print('Equal')\n__:\n    print('Lesser')",
+        "else",
+        "elif",
+        "endif"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x __ 0:\n    print('x is not zero')",
+        "!=",
+        "==",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if age > 18 __ age < 65:\n    print('Working age')",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if person:\n    if 13 <= person.age <= 19:\n        print('Teenager')",
+        "True",
+        "pass",
+        "continue",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x == 1:\nprint('Condition Met')\n   print('Still inside')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if ___ not is_active:\n    print('Inactive')",
+        "not",
+        "!",
+        "no"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if some_object:\n    print('Defined and true')\nelse:\n    print('Undefined or false')",
+        "try",
+        "else",
+        "if",
+        "catch"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if a > b:\n    print('a is greater')\nelif a == b:\n    print('They are equal')\nelse:\n    print('a is less')",
+        "elif",
+        "else",
+        "if",
+        "end"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "try:\n    value = dict[key]\n__ KeyError:\n    handle_error()",
+        "except",
+        "else",
+        "finally"
+      ]
+    }
+  ]
+}

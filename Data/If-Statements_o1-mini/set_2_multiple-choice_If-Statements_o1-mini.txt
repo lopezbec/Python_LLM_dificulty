@@ -1,0 +1,114 @@
+```json
+[
+  {
+    "question": "What is the primary purpose of an if statement in Python?",
+    "options": {
+      "A": "To create a loop",
+      "B": "To define a function",
+      "C": "To make decisions based on conditions",
+      "D": "To import modules"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "question": "Which keyword is used to specify the condition in an if statement?",
+    "options": {
+      "A": "when",
+      "B": "for",
+      "C": "if",
+      "D": "while"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 10\nif x > 5:\n    print(\"Greater than 5\")\n```\n",
+    "options": {
+      "A": "Greater than 5",
+      "B": "Less than 5",
+      "C": "No output",
+      "D": "Error"
+    },
+    "answer": "A",
+    "difficulty": 3
+  },
+  {
+    "question": "How do you add an alternative condition to an if statement?",
+    "options": {
+      "A": "Using the `else` keyword",
+      "B": "Using the `elif` keyword",
+      "C": "Using the `otherwise` keyword",
+      "D": "Using the `alternative` keyword"
+    },
+    "answer": "B",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nage = 20\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")\n```\n",
+    "options": {
+      "A": "Minor",
+      "B": "Adult",
+      "C": "Error",
+      "D": "No output"
+    },
+    "answer": "B",
+    "difficulty": 5
+  },
+  {
+    "question": "Which of the following is the correct syntax for an if-elif-else statement in Python?",
+    "options": {
+      "A": "if condition:\n    # code\nelif condition:\n    # code\nelse:\n    # code",
+      "B": "if (condition) {\n    // code\n} elseif (condition) {\n    // code\n} else {\n    // code\n}",
+      "C": "if condition then:\n    # code\nelseif condition then:\n    # code\nelse:\n    # code",
+      "D": "if condition do:\n    # code\nelif condition do:\n    # code\nelse do:\n    # code"
+    },
+    "answer": "A",
+    "difficulty": 6
+  },
+  {
+    "question": "Consider the following code snippet:\n\n```python\nx = 15\ny = 20\nif x > 10 and y > 25:\n    print(\"Both conditions are true\")\nelif x > 10 and y > 15:\n    print(\"First condition true, second false\")\nelse:\n    print(\"At least one condition is false\")\n```\nWhat will be printed?",
+    "options": {
+      "A": "Both conditions are true",
+      "B": "First condition true, second false",
+      "C": "At least one condition is false",
+      "D": "Error"
+    },
+    "answer": "C",
+    "difficulty": 7
+  },
+  {
+    "question": "Which of the following statements about nested if statements is true?",
+    "options": {
+      "A": "Nested if statements cannot be used in Python.",
+      "B": "Nested if statements must use elif for the inner conditions.",
+      "C": "Nested if statements allow multiple conditions to be checked in a hierarchical manner.",
+      "D": "Nested if statements execute all conditions sequentially regardless of previous outcomes."
+    },
+    "answer": "C",
+    "difficulty": 8
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nnumber = 7\nif number % 2 == 0:\n    print(\"Even\")\nelif number % 3 == 0:\n    print(\"Divisible by 3\")\nelif number % 5 == 0:\n    print(\"Divisible by 5\")\nelse:\n    print(\"Odd\")\n```\n",
+    "options": {
+      "A": "Even",
+      "B": "Divisible by 3",
+      "C": "Divisible by 5",
+      "D": "Odd"
+    },
+    "answer": "D",
+    "difficulty": 9
+  },
+  {
+    "question": "Analyze the following code and determine if there are any logical errors. If so, identify them.\n\n```python\nscore = 85\nif score > 90:\n    grade = 'A'\nelif score > 80:\n    grade = 'B'\nelif score > 70:\n    grade = 'C'\nelse:\n    grade = 'D'\nprint(grade)\n```\n",
+    "options": {
+      "A": "No logical errors; the code correctly assigns grades based on score.",
+      "B": "The first condition should be `score >= 90`.",
+      "C": "The `elif` statements should use `if` instead.",
+      "D": "The grade for scores above 80 should be 'A', not 'B'."
+    },
+    "answer": "A",
+    "difficulty": 10
+  }
+]
+```

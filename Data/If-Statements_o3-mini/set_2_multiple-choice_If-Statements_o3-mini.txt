@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following is the proper way to start an if-statement in Python that checks if the variable x is greater than 10?",
+      "options": [
+        "if x > 10:",
+        "if (x > 10) then:",
+        "if: x > 10",
+        "if x > 10 {"
+      ],
+      "correct_answer": "if x > 10:"
+    },
+    {
+      "difficulty": 2,
+      "question": "What keyword is used to define an alternative block that executes when an if-statement condition is false?",
+      "options": [
+        "elseif",
+        "elif",
+        "otherwise",
+        "then"
+      ],
+      "correct_answer": "elif"
+    },
+    {
+      "difficulty": 3,
+      "question": "What will be the output of the following code?\n\nx = 5\nif x < 10:\n    if x % 2 == 0:\n        print('Even')\n    else:\n        print('Odd')",
+      "options": [
+        "Even",
+        "Odd",
+        "Error",
+        "No output"
+      ],
+      "correct_answer": "Odd"
+    },
+    {
+      "difficulty": 4,
+      "question": "What does the following code print when x is 10?\n\nx = 10\nif x > 5:\n    print('A')\nelif x > 8:\n    print('B')\nelse:\n    print('C')",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "An error occurs"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which logical operator should you use to combine two conditions in an if-statement when both conditions must be true?",
+      "options": [
+        "or",
+        "and",
+        "not",
+        "=="
+      ],
+      "correct_answer": "and"
+    },
+    {
+      "difficulty": 6,
+      "question": "Consider the following code snippet:\n\nif True:\nprint('Hello')\n\nWhat type of error will this code produce?",
+      "options": [
+        "SyntaxError",
+        "IndentationError",
+        "NameError",
+        "TypeError"
+      ],
+      "correct_answer": "IndentationError"
+    },
+    {
+      "difficulty": 7,
+      "question": "What is the output of the following Python code?\n\na = 0\nif a:\n    print('Non-zero')\nelse:\n    print('Zero')",
+      "options": [
+        "Non-zero",
+        "Zero",
+        "Error",
+        "None"
+      ],
+      "correct_answer": "Zero"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which of the following is the most Pythonic way to check if the variable a is between 10 and 20 inclusive?",
+      "options": [
+        "if a >= 10 and a <= 20:",
+        "if 10 <= a <= 20:",
+        "if a in range(10, 21):",
+        "if 10 <= a and a <= 20:"
+      ],
+      "correct_answer": "if 10 <= a <= 20:"
+    },
+    {
+      "difficulty": 9,
+      "question": "What will be the output of the following code?\n\nx = 3\nif not x > 5:\n    print('A')\nelif x > 2:\n    print('B')\nelse:\n    print('C')",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "Nothing is printed"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "difficulty": 10,
+      "question": "Consider the following function:\n\ndef test(n):\n    if n > 10:\n        if n % 2 == 0:\n            return 'Even and large'\n        else:\n            return 'Odd and large'\n    elif n > 5:\n        if n % 2 == 0:\n            return 'Even and medium'\n        else:\n            return 'Odd and medium'\n    else:\n        return 'Small'\n\nprint(test(7))\n\nWhat is the output of this function call?",
+      "options": [
+        "Even and large",
+        "Odd and large",
+        "Odd and medium",
+        "Small"
+      ],
+      "correct_answer": "Odd and medium"
+    }
+  ]
+}

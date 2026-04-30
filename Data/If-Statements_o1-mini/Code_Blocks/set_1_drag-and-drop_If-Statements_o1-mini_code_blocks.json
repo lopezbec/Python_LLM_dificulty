@@ -1,0 +1,143 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "while",
+        "___ (x > 10):",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else:",
+        "if x > 5:",
+        "    print('Greater than five')",
+        "    print('Less than or equal to five')",
+        "if x > 5:",
+        "    print('Greater than five')",
+        "else:",
+        "    print('Less than or equal to five')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        ">",
+        "<",
+        "==",
+        ">=",
+        "if (age ___ 18):",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Apple",
+        "Banana",
+        "Cherry"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if number > 0:",
+        "    if number % 2 == 0:",
+        "        print('Positive and even')",
+        "    else:",
+        "        print('Positive but odd')",
+        "else:",
+        "    print('Non-positive number')",
+        "if number > 0:",
+        "    if number % 2 == 0:",
+        "        print('Positive and even')",
+        "    else:",
+        "        print('Positive but odd')",
+        "else:",
+        "    print('Non-positive number')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "and",
+        "or",
+        "not",
+        "if (x > 0 ___ y < 10):",
+        "if not (is_raining ___ is_windy):",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "elif score >= 80:",
+        "elif score >= 70:",
+        "elif score >= 60:",
+        "else:",
+        "if score >= 90:",
+        "elif score >= 80:",
+        "elif score >= 70:",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if temperature > 30:",
+        "print('It is hot outside.')",
+        "    if humidity > 70:",
+        "        print('It is also humid.')",
+        "print('Check complete.')",
+        "if temperature > 30:",
+        "    print('It is hot outside.')",
+        "    if humidity > 70:",
+        "        print('It is also humid.')",
+        "print('Check complete.')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 10 and y < 5:",
+        "if not (a == b):",
+        "if x > 0 or y > 0:",
+        "if x > 10 and y < 5:",
+        "if not (a == b):",
+        "if x > 0 or y > 0:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "    elif score >= 50:",
+        "        print('Passed')",
+        "if score >= 90:",
+        "        print('Excellent')",
+        "    else:",
+        "    elif score >= 70:",
+        "        print('Good')",
+        "    elif score >= 80:",
+        "        print('Very Good')",
+        "else:",
+        "        print('Needs Improvement')",
+        "if score >= 90:",
+        "        print('Excellent')",
+        "    elif score >= 80:",
+        "        print('Very Good')",
+        "    elif score >= 70:",
+        "        print('Good')",
+        "    elif score >= 50:",
+        "        print('Passed')",
+        "    else:",
+        "        print('Needs Improvement')"
+      ]
+    }
+  ]
+}

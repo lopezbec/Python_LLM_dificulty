@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "Fill in the blank: The keyword used to start a loop that iterates over a sequence in Python is ____.",
+    "answer": "for",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank: To create a loop that continues until a certain condition is false, you can use a ____ loop.",
+    "answer": "while",
+    "difficulty": 2
+  },
+  {
+    "question": "Fill in the blank: In a for loop, the statement `range(5)` generates numbers starting from ____, up to but not including ____, with a default step of ____. ",
+    "answer": "0, 5, 1",
+    "difficulty": 3
+  },
+  {
+    "question": "Fill in the blank: To skip the current iteration and move to the next one in a loop, the ____ statement is used.",
+    "answer": "continue",
+    "difficulty": 4
+  },
+  {
+    "question": "Fill in the blank: The ____ statement is used to exit a loop immediately, regardless of the loop's condition.",
+    "answer": "break",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blanks: In a nested loop structure, the inner loop runs ____ times for each iteration of the ____ loop.",
+    "answer": "all outer, outer",
+    "difficulty": 6
+  },
+  {
+    "question": "Fill in the blank: To iterate over both the index and value of a list in a for loop, the ____ function is commonly used.",
+    "answer": "enumerate",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank: In list comprehensions, the loop is typically placed ____ the expression being evaluated.",
+    "answer": "after",
+    "difficulty": 8
+  },
+  {
+    "question": "Fill in the blank: When using a while loop, if the loop condition never becomes false, the loop will result in a(n) ____.",
+    "answer": "infinite loop",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank: To iterate over multiple sequences simultaneously in a for loop, the ____ function is used to aggregate elements.",
+    "answer": "zip",
+    "difficulty": 10
+  }
+]
+```

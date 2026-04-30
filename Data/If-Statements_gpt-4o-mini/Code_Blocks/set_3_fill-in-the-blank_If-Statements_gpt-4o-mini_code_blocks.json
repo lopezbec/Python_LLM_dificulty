@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "if condition:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "indentation"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "and",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "variable 'x'",
+        "if _____ or x > 20:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "variable 'x'",
+        "if x < 0: _____"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (x == 5) and (y != 10):",
+        "and"
+      ]
+    }
+  ]
+}

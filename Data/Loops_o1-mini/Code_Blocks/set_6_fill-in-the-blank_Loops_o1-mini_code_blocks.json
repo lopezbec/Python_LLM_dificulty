@@ -1,0 +1,73 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "infinite"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "print(____)",
+        "fruit"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "[x for x in range(5) ____ x > 2]"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while ____:",
+        "pass",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "yield"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def square_generator(n):",
+        "for i in range(n):",
+        "____(i**2)",
+        "yield"
+      ]
+    }
+  ]
+}

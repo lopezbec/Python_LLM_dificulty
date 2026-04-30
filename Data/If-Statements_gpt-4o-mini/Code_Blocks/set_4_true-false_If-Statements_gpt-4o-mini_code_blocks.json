@@ -1,0 +1,73 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "elif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "'false'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statements",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'if x = 10:'",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x",
+        "if x != 5:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statements",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "integer"
+      ]
+    }
+  ]
+}

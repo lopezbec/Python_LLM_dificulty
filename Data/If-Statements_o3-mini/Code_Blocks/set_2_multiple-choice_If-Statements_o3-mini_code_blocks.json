@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "x",
+        "if x > 10:",
+        "if (x > 10) then:",
+        "if: x > 10",
+        "if x > 10 {",
+        "if x > 10:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "keyword",
+        "if-statement",
+        "elseif",
+        "elif",
+        "otherwise",
+        "then",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5\nif x < 10:\n    if x % 2 == 0:\n        print('Even')\n    else:\n        print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10\nif x > 5:\n    print('A')\nelif x > 8:\n    print('B')\nelse:\n    print('C')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "logical operator",
+        "if-statement",
+        "or",
+        "and",
+        "not",
+        "==",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if True:\nprint('Hello')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "a = 0\nif a:\n    print('Non-zero')\nelse:\n    print('Zero')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "a",
+        "if a >= 10 and a <= 20:",
+        "if 10 <= a <= 20:",
+        "if a in range(10, 21):",
+        "if 10 <= a and a <= 20:",
+        "if 10 <= a <= 20:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 3\nif not x > 5:\n    print('A')\nelif x > 2:\n    print('B')\nelse:\n    print('C')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def test(n):\n    if n > 10:\n        if n % 2 == 0:\n            return 'Even and large'\n        else:\n            return 'Odd and large'\n    elif n > 5:\n        if n % 2 == 0:\n            return 'Even and medium'\n        else:\n            return 'Odd and medium'\n    else:\n        return 'Small'\n\nprint(test(7))"
+      ]
+    }
+  ]
+}

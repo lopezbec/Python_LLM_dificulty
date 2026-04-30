@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)",
+        "1 2 3",
+        "0 1 2",
+        "0 1 2 3",
+        "1 2"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "1 2 3 4 5",
+        "0 1 2 3 4",
+        "0 1 2 3 4 5"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "'for'",
+        "'while'",
+        "'for' loops require a counter variable, 'while' loops do not.",
+        "'for' loops iterate over a sequence, 'while' loops continue until a condition is met.",
+        "'while' loops can only iterate over lists.",
+        "'for' loops cannot be nested."
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(5):\n    if i == 3:\n        break\n    print(i)",
+        "0 1 2 3",
+        "0 1 2",
+        "1 2 3",
+        "0 1 2 3 4"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "'continue'",
+        "Terminates the loop entirely.",
+        "Skips the current iteration and continues with the next one.",
+        "Repeats the current iteration.",
+        "Exits the current function."
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(2):\n    for j in range(2):\n        print(i, j)",
+        "0 1 0 1",
+        "0 0 1 1",
+        "0 0 0 1 1 0 1 1",
+        "0 0 1 0 0 1 1 1"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "fruits = {'a': 'apple', 'b': 'banana', 'c': 'cherry'}",
+        "for key in fruits:\n    print(key, fruits[key])",
+        "for key, value in fruits:\n    print(key, value)",
+        "for key in fruits.keys():\n    print(key, fruits.values())",
+        "for key, value in fruits.items():\n    print(key, value)"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "result = []\nfor x in range(5):\n    result.append(x * 2)",
+        "result = [x * 2 for x in range(5)]",
+        "result = [x + 2 for x in range(5)]",
+        "result = [2 * x for x in range(5)]"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "generator",
+        "A function that returns a list.",
+        "A function that returns an iterator.",
+        "A loop that cannot be stopped.",
+        "A data type for storing multiple items."
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "def generator():\n    for i in range(3):\n        yield i\n    else:\n        print(\"Loop completed\")\n\ngen = generator()\nfor num in gen:\n    print(num)",
+        "0\n1\n2",
+        "0\n1\n2\nLoop completed",
+        "0 1 2 Loop completed",
+        "Loop completed"
+      ]
+    }
+  ]
+}

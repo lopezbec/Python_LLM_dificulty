@@ -1,0 +1,130 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "temperature > 30:",
+        "print(\"It's a hot day.\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(\"Good evening.\")",
+        "if time < 18:",
+        "print(\"Good day.\")",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age = 20",
+        "if age ___ 18:",
+        "print(\"Adult\")",
+        "else:",
+        "print(\"Minor\")",
+        ">=",
+        "==",
+        "!=",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 15",
+        "if x > 10:",
+        "___ x < 20:",
+        "print(\"x is between 10 and 20\")",
+        "else:",
+        "print(\"x is 20 or more\")",
+        "else:",
+        "print(\"x is 10 or less\")",
+        "if",
+        "elif",
+        "else",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "print(\"Senior\")",
+        "elif age >= 65:",
+        "if age < 18:",
+        "print(\"Adult\")",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 25",
+        "if num > 20 ___ num < 30:",
+        "print(\"Number is between 21 and 29\")",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score = 85",
+        "if score >= 70:",
+        "if score >= 90:",
+        "grade = 'A'",
+        "elif ___:",
+        "grade = 'B'",
+        "else:",
+        "grade = 'C'",
+        "else:",
+        "grade = 'F'",
+        "score >= 80",
+        "score >= 85",
+        "score >= 75",
+        "score >= 90"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def check_number(num):",
+        "if num > 0:",
+        "print(\"Positive\")",
+        "elif num < 0:",
+        "print(\"Negative\")",
+        "else:",
+        "print(\"Zero\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def categorize_temperature(temp):",
+        "if temp > 30:",
+        "category = \"Hot\"",
+        "___ temp > 20:",
+        "category = \"Warm\"",
+        "elif temp > 10:",
+        "category = \"Cool\"",
+        "else:",
+        "category = \"Cold\"",
+        "return category",
+        "elif",
+        "else",
+        "if"
+      ]
+    }
+  ]
+}

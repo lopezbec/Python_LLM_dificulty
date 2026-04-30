@@ -1,0 +1,116 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "Python",
+        "loop",
+        "for",
+        "while",
+        "do-while",
+        "repeat"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "break",
+        "continue",
+        "stop",
+        "exit"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "loop",
+        "while",
+        "for",
+        "do-while",
+        "nested"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Python",
+        "continue",
+        "break",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "variable",
+        "loop",
+        "control",
+        "iterator",
+        "index"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "function",
+        "enumerate",
+        "for loop",
+        "range",
+        "map",
+        "filter"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "for ________ in collection",
+        "element",
+        "item",
+        "value",
+        "index"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nested loops",
+        "triangle pattern",
+        "asterisks",
+        "outer loop",
+        "rows",
+        "columns",
+        "iterations",
+        "characters"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Python",
+        "loop",
+        "iterate",
+        "list",
+        "string",
+        "filter",
+        "sort",
+        "modify"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "keyword",
+        "for",
+        "else",
+        "break",
+        "while",
+        "do-while",
+        "exit"
+      ]
+    }
+  ]
+}

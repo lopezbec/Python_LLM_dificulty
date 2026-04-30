@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif",
+        "else if"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "nested if-statements",
+        "if",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "0 < x < 5",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "parentheses"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-elif-else",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statements",
+        "if-elif"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "short-circuit logic"
+      ]
+    }
+  ]
+}

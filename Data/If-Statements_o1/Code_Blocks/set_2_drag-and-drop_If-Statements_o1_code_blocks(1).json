@@ -1,0 +1,146 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "print(\"Positive\")",
+        "if",
+        ">",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "print(\"Positive\")",
+        "print(\"Negative\")",
+        "if",
+        ">=",
+        ":",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "print(\"High\")",
+        "x",
+        "print(\"Medium\")",
+        "print(\"Low\")",
+        "if",
+        ">",
+        ":",
+        "elif",
+        "==",
+        ":",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "has_weapon",
+        "True",
+        "weapon_type",
+        "'sword'",
+        "print(\"Player has a sword\")",
+        "if",
+        "==",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "score",
+        "grade = 'A'",
+        "score",
+        "score",
+        "grade = 'B'",
+        "grade = 'C'",
+        "if",
+        ">=",
+        ":",
+        "elif",
+        "<=",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "is_logged_in",
+        "True",
+        "is_admin",
+        "True",
+        "print(\"Welcome Admin\")",
+        "print(\"Welcome User\")",
+        "print(\"Please log in\")",
+        "if",
+        "==",
+        ":",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "customer_type",
+        "'member'",
+        "total_purchase",
+        "50",
+        "print(\"Discount applied!\")",
+        "if customer_type == 'member':",
+        "if total_purchase > 50:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "1",
+        "user_input",
+        "10",
+        "print(\"Valid input\")",
+        "print(\"Invalid input\")",
+        "if",
+        "<=",
+        ":",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "required_flags = [True, True]",
+        "required_flags[0]",
+        "True",
+        "required_flags[1]",
+        "print(\"Access Granted\")",
+        "print(\"Access Denied\")",
+        "if",
+        "and",
+        "==",
+        ":",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "user_type",
+        "'member'",
+        "loyalty_points",
+        "1000",
+        "print(\"VIP\")",
+        "print(\"Member\")",
+        "print(\"Guest\")",
+        "if user_type == 'member':",
+        "if loyalty_points > 1000:",
+        "else:"
+      ]
+    }
+  ]
+}

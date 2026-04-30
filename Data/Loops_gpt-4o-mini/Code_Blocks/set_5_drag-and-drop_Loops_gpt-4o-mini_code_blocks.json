@@ -1,0 +1,107 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "list",
+        "for",
+        "while",
+        "do-while",
+        "foreach"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "loop",
+        "condition",
+        "for",
+        "while",
+        "break",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in ____: print(i)",
+        "range(5)",
+        "5",
+        "index(5)",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in ____:",
+        "range(10, 0, -1)",
+        "range(1, 10)",
+        "range(0, 10)",
+        "range(10, 1)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "while True: print(num); if num == 5: ____",
+        "break",
+        "continue",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(1, 4): for j in ____:",
+        "range(1, 4)",
+        "1, 2, 3",
+        "range(3)",
+        "3 to 1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "while ____:",
+        "True",
+        "False",
+        "1",
+        "None"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(5): print(i); ____",
+        "break",
+        "continue",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "dictionary",
+        "my_dict",
+        "for key, value in ____:",
+        "my_dict",
+        "my_dict.items()",
+        "my_dict.keys()",
+        "my_dict.values()"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "[x for x in range(10) if ____]",
+        "x % 2 == 0",
+        "x > 5",
+        "x is int",
+        "x < 10"
+      ]
+    }
+  ]
+}

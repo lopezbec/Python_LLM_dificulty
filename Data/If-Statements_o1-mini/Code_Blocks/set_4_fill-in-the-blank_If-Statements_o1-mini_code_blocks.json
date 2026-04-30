@@ -1,0 +1,92 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x ___ 10:",
+        "print(\"x is ten\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "number",
+        "if number ___ 0:",
+        "print(\"Positive number\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "num",
+        "if num % 2 == 0:",
+        "print(\"Even\")",
+        "else:",
+        "print(\"___\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "age",
+        "has_license",
+        "if age >= 18:",
+        "if has_license ___ True:",
+        "print(\"Can drive\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "if x > 10 ___ x < 20:",
+        "print(\"x is between 10 and 20\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "score",
+        "if score >= 90:",
+        "grade = \"A\"",
+        "elif score >= 80:",
+        "grade = ___",
+        "else:",
+        "grade = \"F\""
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "day",
+        "if day == 'Saturday' ___ day == 'Sunday':",
+        "print(\"Weekend\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "user",
+        "if ___ user.is_admin():",
+        "print(\"Access denied\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "a",
+        "if a % 2 == 0 ___ a % 3 == 0:",
+        "print(\"a is divisible by both 2 and 3\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "temperature",
+        "if ___ <= temperature <= ___:",
+        "print(\"Temperature is comfortable\")"
+      ]
+    }
+  ]
+}

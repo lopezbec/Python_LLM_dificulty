@@ -1,0 +1,118 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "condition",
+        ":",
+        "    print(\"Hello\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "condition1",
+        ":",
+        "    action1()",
+        "elif",
+        "condition2",
+        ":",
+        "    action2()",
+        "else",
+        ":",
+        "    default_action()"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x > 0:",
+        "    if x > 10:",
+        "        print(\"x is greater than 10\")",
+        "    else:",
+        "        print(\"x is positive but not greater than 10\")",
+        "else:",
+        "    print(\"x is not positive\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "number == 5",
+        ":",
+        "    print(\"Number is five\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "10 <= number and number <= 20",
+        ":",
+        "    print(\"Number is between 10 and 20\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "age >= 18 and citizen == True",
+        ":",
+        "    print(\"Eligible to vote\")",
+        "else:",
+        "    print(\"Not eligible to vote\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "isinstance(data, int)",
+        ":",
+        "    print(\"Data is an integer\")",
+        "else:",
+        "    print(\"Data is not an integer\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "is_valid(user_input())",
+        ":",
+        "    process(user_input())",
+        "else:",
+        "    handle_error()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for item in items:",
+        "    if item == target:",
+        "        print(\"Target found\")",
+        "        break",
+        "    else:",
+        "        print(\"Searching...\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "try:",
+        "    if user.is_active:",
+        "        if user.has_permission():",
+        "            perform_action()",
+        "        else:",
+        "            raise PermissionError(\"User lacks permissions\")",
+        "    else:",
+        "        print(\"User is not active\")",
+        "except PermissionError as e:",
+        "    print(e)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10",
+        "if _____ > 5:",
+        "print('x is greater than 5')",
+        "x",
+        "y",
+        "z",
+        "w"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "____ y ____ ____ 20:",
+        "print('y is 20')",
+        "if",
+        "==",
+        "is",
+        ":",
+        "="
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if num _____ 15:",
+        "print('Number is small or equal to 15')",
+        ">",
+        "<=",
+        "!=",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "____ a > 0 ____ b > 0:",
+        "print('At least one is positive')",
+        "if",
+        "else",
+        "or",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if 10 ____ value ____ 20:",
+        "print('Value is between 10 and 20')",
+        ">",
+        "<",
+        ">=",
+        "<=",
+        "&&"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "____ age > 0:",
+        "____ age < 18:",
+        "print('Minor')",
+        "if",
+        "else",
+        "elif",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if temp < 15:",
+        "print('Cold')",
+        "____ 15 <= temp <= 25:",
+        "print('Normal')",
+        "else:",
+        "print('Hot')",
+        "elif",
+        "then",
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if valid_id ____ age > 21:",
+        "print('Access granted')",
+        "&&",
+        "or",
+        "and",
+        "||"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "vowels = ['a', 'e', 'i', 'o', 'u']",
+        "char = 'a'",
+        "____ char ____ vowels:",
+        "print('Character is a vowel')",
+        "if",
+        "not in",
+        "in",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "____ username == 'admin' ____ password == '1234':",
+        "print('Welcome, Admin!')",
+        "else:",
+        "print('Invalid credentials')",
+        "if",
+        "and",
+        "then",
+        "or"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for x __ [1, 2, 3]:",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):\n    for j in range(4):\n        print(i, j)",
+        "4"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "loop",
+        "infinite"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "range"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for loop",
+        "character"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "reversed"
+      ]
+    }
+  ]
+}

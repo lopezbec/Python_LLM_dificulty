@@ -1,0 +1,70 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range(5)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Nested loops",
+        "lists of lists"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'break' statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for loop",
+        "dictionary",
+        "dictionary keys"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "loop's 'else' block",
+        "'break' statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nested loops"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Variables defined inside a loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "Generator expressions"
+      ]
+    }
+  ]
+}

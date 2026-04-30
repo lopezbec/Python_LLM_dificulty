@@ -1,0 +1,55 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "In Python, an if-statement allows code to be executed only if the condition is true.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "An if-statement can only have a single condition to evaluate.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "It is possible to execute multiple statements when the condition of an if-statement is true.",
+            "answer": true
+        },
+        {
+            "difficulty": 4,
+            "question": "The 'else' part of an if-else statement is mandatory.",
+            "answer": false
+        },
+        {
+            "difficulty": 5,
+            "question": "An if-statement must end with a colon in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 6,
+            "question": "You can replace all if-statements with switch statements in Python.",
+            "answer": false
+        },
+        {
+            "difficulty": 7,
+            "question": "In an if-elif-else chain, all the conditions are evaluated even after one condition is true.",
+            "answer": false
+        },
+        {
+            "difficulty": 8,
+            "question": "An if-statement can be used to evaluate both the truth value of a condition and the execution of specific functions simultaneously.",
+            "answer": true
+        },
+        {
+            "difficulty": 9,
+            "question": "Using nested if-statements in Python allows for more complex decision-making processes.",
+            "answer": true
+        },
+        {
+            "difficulty": 10,
+            "question": "Python if-statements, by default, evaluate the condition and proceed with short-circuit evaluation.",
+            "answer": true
+        }
+    ]
+}

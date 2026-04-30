@@ -1,0 +1,64 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": []
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "`while`",
+        "`for`",
+        "`while`",
+        "`for`"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "numbers = [2, 4, 6]",
+        "for num in numbers:\n    print(num + 1)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'continue'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(5):\n    if i == 3:\n        break\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": []
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(5):\n    for j in range(2):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(3):\n    for j in range(2):\n        for k in range(3):\n            print('Hello')"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ______:",
+        "print('Hello, World!')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x ______ 10:",
+        "print('x is 10')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if a ______ b:",
+        "print('a is not equal to b')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 5 and x ______ 10:",
+        "print('x is between 6 and 9')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if isinstance(x, ______):",
+        "print('x is an integer')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 0 ______ x < 100:",
+        "print('x is between 1 and 99')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x < 0:",
+        "print('Negative')",
+        "elif x ______ 0:",
+        "print('Zero')",
+        "else:",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (n := len(my_list)) ______ 3:",
+        "print('The list has three or more elements')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if any( ______ for num in nums):",
+        "print('There is a positive number')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if user_input.isdigit():",
+        "num = int(user_input)",
+        "if num > 0:",
+        "print('Positive')",
+        "elif num == 0:",
+        "print('Zero')",
+        "______:",
+        "print('Negative')"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x = 5: print(\"x is 5\")",
+        "if x == 5 print(\"x is 5\")",
+        "if x == 5: print(\"x is 5\")",
+        "if x = 5 print(\"x is 5\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "indent",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10\nif x > 5:\n    x = x + 2\nprint(x)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5",
+        "y = 10",
+        "x > 5 or y > 10",
+        "x == 5 and y > 5",
+        "x < 5 or y == 5",
+        "x >= 10 and y == 10"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-elif-else",
+        "'elif'",
+        "'if'",
+        "'elif'",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 8\nif x > 5:\n    if x < 10:\n        print(\"x is a single-digit number greater than 5\")\nelse:\n    print(\"x is 5 or less\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-elif-else"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (not x) and y:",
+        "x=False",
+        "y=True"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 4\nif x < 5:\n    x += 10\nif x > 10:\n    x -= 3\nif x == 11:\n    x *= 2\nelse:\n    x /= 2\nprint(x)"
+      ]
+    }
+  ]
+}

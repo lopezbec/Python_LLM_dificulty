@@ -1,0 +1,88 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "numbers = [1, 2, 3]",
+        "for num in numbers:",
+        "    print(num)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "while loop",
+        "do-while loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break",
+        "continue",
+        "pass",
+        "exit"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "items = ['a', 'b', 'c']",
+        "for i in range(len(items)):",
+        "    items[i] = items[i].upper()",
+        "print(items)",
+        "['A', 'B', 'C']",
+        "['a', 'b', 'c']",
+        "['A', 'b', 'c']",
+        "['a', 'B', 'C']"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(2, 6):",
+        "    print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "map()",
+        "enumerate()",
+        "range()",
+        "zip()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(3):",
+        "    for j in range(4):",
+        "        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while True:",
+        "while 1 > 2:",
+        "while False:",
+        "while 1 < 2:"
+      ]
+    }
+  ]
+}

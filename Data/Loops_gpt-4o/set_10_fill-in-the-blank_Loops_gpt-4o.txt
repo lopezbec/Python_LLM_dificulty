@@ -1,0 +1,55 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "A basic loop that repeats a fixed number of times can be created using a ___ loop in Python.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "In a while loop in Python, if you do not include a condition that eventually becomes ___, the loop will run indefinitely.",
+      "answer": "False"
+    },
+    {
+      "difficulty": 3,
+      "question": "To iterate over a list called `my_list` using a for loop, you can use the syntax `for ___ in my_list:`.",
+      "answer": "item"
+    },
+    {
+      "difficulty": 4,
+      "question": "In a for loop, to loop over both elements and their indices, you can use the ___ function.",
+      "answer": "enumerate"
+    },
+    {
+      "difficulty": 5,
+      "question": "In Python, you can immediately terminate a loop using the ___ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 6,
+      "question": "If you want to skip the current iteration of a loop and proceed with the next iteration, you use the ___ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 7,
+      "question": "To iterate over a list of tuples called `pairs` where each tuple contains two elements, you can use the syntax `for x, y in ___:`.",
+      "answer": "pairs"
+    },
+    {
+      "difficulty": 8,
+      "question": "The `range()` function can generate a sequence of numbers. The syntax `range(start, stop, ___)` is used to specify an increment step.",
+      "answer": "step"
+    },
+    {
+      "difficulty": 9,
+      "question": "To execute a block of code while iterating over the keys of a dictionary named `my_dict`, the correct loop would be `for key in my_dict.___():`.",
+      "answer": "keys"
+    },
+    {
+      "difficulty": 10,
+      "question": "When using nested loops, a ___ loop is defined within the scope of another loop to perform more complex iterations.",
+      "answer": "nested"
+    }
+  ]
+}

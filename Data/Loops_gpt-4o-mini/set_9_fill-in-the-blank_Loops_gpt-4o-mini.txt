@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a loop that executes a block of code repeatedly for a specific number of times is called a _____ loop.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "The keyword _____ is used to exit a loop immediately in Python.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 3,
+      "question": "To skip the current iteration of a loop and move on to the next one, the keyword _____ is used.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 4,
+      "question": "The expression 'x in range(5)' is used in a _____ loop to define the range of numbers.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 5,
+      "question": "To create a loop that runs while a certain condition is _____, we use a _____ loop.",
+      "answer": "true; while"
+    },
+    {
+      "difficulty": 6,
+      "question": "In a while loop, if the condition never becomes _____, the loop will continue indefinitely.",
+      "answer": "false"
+    },
+    {
+      "difficulty": 7,
+      "question": "In a for loop, we can iterate over elements of a list by using _____ as the iterable.",
+      "answer": "list"
+    },
+    {
+      "difficulty": 8,
+      "question": "The loop will not execute even once if the condition of a while loop is _____ initially.",
+      "answer": "false"
+    },
+    {
+      "difficulty": 9,
+      "question": "To iterate through both index and value in a list using a for loop, we can use the _____ function.",
+      "answer": "enumerate"
+    },
+    {
+      "difficulty": 10,
+      "question": "A nested loop is a loop that runs inside another loop, and it must be careful to avoid _____ conditions that lead to infinite execution.",
+      "answer": "endless"
+    }
+  ]
+}

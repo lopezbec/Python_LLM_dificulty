@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "type": "drag-and-drop",
+      "difficulty": 1,
+      "prompt": "Drag the correct keyword into the blank to complete the statement and print 'Correct' when x is 5.",
+      "code": "x = 5\n_____ x == 5:\n    print(\"Correct\")",
+      "choices": [
+        "if",
+        "def",
+        "while",
+        "return"
+      ],
+      "correct_choice": "if"
+    },
+    {
+      "number": 2,
+      "type": "drag-and-drop",
+      "difficulty": 2,
+      "prompt": "Drag the correct condition into the blank so the code prints 'Too big' if x is greater than 10.",
+      "code": "x = 12\nif __________:\n    print(\"Too big\")",
+      "choices": [
+        "x == 10",
+        "x > 10",
+        "x < 10",
+        "x >= 12"
+      ],
+      "correct_choice": "x > 10"
+    },
+    {
+      "number": 3,
+      "type": "drag-and-drop",
+      "difficulty": 3,
+      "prompt": "Drag the correct comparison operator into the blank to print 'Yes' if x is not equal to 5.",
+      "code": "x = 3\nif x __________ 5:\n    print(\"Yes\")",
+      "choices": [
+        "!=",
+        "==",
+        ">=",
+        "<"
+      ],
+      "correct_choice": "!="
+    },
+    {
+      "number": 4,
+      "type": "drag-and-drop",
+      "difficulty": 4,
+      "prompt": "Drag the correct keyword to decide which code block runs if 'temperature' is over 100 or if it is not.",
+      "code": "temperature = 105\nif temperature > 100:\n    print(\"Too hot!\")\n________:\n    print(\"Just right!\")",
+      "choices": [
+        "if",
+        "else",
+        "elif",
+        "for"
+      ],
+      "correct_choice": "else"
+    },
+    {
+      "number": 5,
+      "type": "drag-and-drop",
+      "difficulty": 5,
+      "prompt": "Drag the correct keywords into the blanks to create an if-elif-else chain that prints one of three messages based on x's value.",
+      "code": "x = 50\n________ x < 20:\n    print(\"Less than 20\")\n________ x < 100:\n    print(\"Less than 100\")\n________:\n    print(\"100 or more\")",
+      "choices": [
+        "if",
+        "print",
+        "elif",
+        "while",
+        "for",
+        "else"
+      ],
+      "correct_choice": ["if", "elif", "else"]
+    },
+    {
+      "number": 6,
+      "type": "drag-and-drop",
+      "difficulty": 6,
+      "prompt": "Complete the code with the correct logical operator so 'Valid' prints only if x is between 10 and 20 (inclusive). Drag the operator into the blank.",
+      "code": "x = 15\nif 10 <= x __________ x <= 20:\n    print(\"Valid\")",
+      "choices": [
+        "and",
+        "or",
+        "not",
+        "=="
+      ],
+      "correct_choice": "and"
+    },
+    {
+      "number": 7,
+      "type": "drag-and-drop",
+      "difficulty": 7,
+      "prompt": "Complete the program to check two conditions. Print 'In range!' if x is between 0 and 10 or between 20 and 30. Use the correct operators.",
+      "code": "x = 25\nif (0 <= x <= 10) __________ (20 <= x <= 30):\n    print(\"In range!\")",
+      "choices": [
+        "and",
+        "or",
+        "not",
+        "=="
+      ],
+      "correct_choice": "or"
+    },
+    {
+      "number": 8,
+      "type": "drag-and-drop",
+      "difficulty": 8,
+      "prompt": "Drag the correct comparison and keyword into the code so that 'Open' prints only if door is 'locked' AND key is True.",
+      "code": "door = 'locked'\nkey = True\nif door __________ 'locked' __________ key:\n    print(\"Open\")",
+      "choices": [
+        "==",
+        "!=",
+        "and",
+        "or",
+        "elif"
+      ],
+      "correct_choice": ["==", "and"]
+    },
+    {
+      "number": 9,
+      "type": "drag-and-drop",
+      "difficulty": 9,
+      "prompt": "Fill in the blanks to handle multiple conditions. If guest_count is 0, print 'No guests'. Otherwise, if it's less than 5, print 'Small gathering'; if it's 5 or more, print 'Big party!'.",
+      "code": "guest_count = 7\n________ guest_count == 0:\n    print(\"No guests\")\n________ guest_count < 5:\n    print(\"Small gathering\")\n________:\n    print(\"Big party!\")",
+      "choices": [
+        "if",
+        "elif",
+        "else",
+        "for",
+        "while"
+      ],
+      "correct_choice": ["if", "elif", "else"]
+    },
+    {
+      "number": 10,
+      "type": "drag-and-drop",
+      "difficulty": 10,
+      "prompt": "Complete the nested if statement. If x is even, then check if x is greater than 10. Print 'Large even' if it is; otherwise print 'Small even'.",
+      "code": "x = 14\nif x % 2 == 0:\n    ________ x > 10:\n        print(\"Large even\")\n    ________:\n        print(\"Small even\")",
+      "choices": [
+        "if",
+        "else",
+        "elif",
+        "while",
+        "for"
+      ],
+      "correct_choice": ["if", "else"]
+    }
+  ]
+}

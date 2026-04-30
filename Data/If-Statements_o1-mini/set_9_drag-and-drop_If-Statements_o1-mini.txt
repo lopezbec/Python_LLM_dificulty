@@ -1,0 +1,202 @@
+```json
+[
+  {
+    "id": 1,
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "topic": "if-statements",
+    "question": "Arrange the following code snippets to form a basic `if` statement that checks if `x` is greater than 0.",
+    "options": [
+      "    print('x is positive')",
+      "if x > 0:",
+      "x = int(input('Enter a number: '))"
+    ],
+    "answer": [
+      "x = int(input('Enter a number: '))",
+      "if x > 0:",
+      "    print('x is positive')"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "topic": "if-statements",
+    "question": "Arrange the following code snippets to create an `if-else` statement that checks if `age` is at least 18.",
+    "options": [
+      "    print('You are an adult.')",
+      "else:",
+      "if age >= 18:"
+    ],
+    "answer": [
+      "if age >= 18:",
+      "    print('You are an adult.')",
+      "else:"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "topic": "if-statements",
+    "question": "Arrange the code to form an `if-elif-else` statement that categorizes `score` into grades.",
+    "options": [
+      "    print('Grade B')",
+      "elif score >= 70:",
+      "if score >= 90:",
+      "    print('Grade A')",
+      "else:",
+      "    print('Grade C')"
+    ],
+    "answer": [
+      "if score >= 90:",
+      "    print('Grade A')",
+      "elif score >= 70:",
+      "    print('Grade B')",
+      "else:",
+      "    print('Grade C')"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "topic": "if-statements",
+    "question": "Arrange the following snippets to create a nested `if` statement that checks if `num` is positive and even.",
+    "options": [
+      "        print('The number is even.')",
+      "if num > 0:",
+      "    if num % 2 == 0:",
+      "    print('The number is positive.')",
+      "else:",
+      "    print('The number is not positive.')"
+    ],
+    "answer": [
+      "if num > 0:",
+      "    print('The number is positive.')",
+      "    if num % 2 == 0:",
+      "        print('The number is even.')",
+      "else:",
+      "    print('The number is not positive.')"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "topic": "if-statements",
+    "question": "Arrange the code snippets to implement an `if` statement with multiple conditions using logical operators.",
+    "options": [
+      "    print('Access granted.')",
+      "if age >= 18 and has_license:",
+      "else:",
+      "    print('Access denied.')"
+    ],
+    "answer": [
+      "if age >= 18 and has_license:",
+      "    print('Access granted.')",
+      "else:",
+      "    print('Access denied.')"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "topic": "if-statements",
+    "question": "Arrange the following snippets to create an `if` statement that uses `in` to check membership in a list.",
+    "options": [
+      "    print('Item found.')",
+      "if item in items:",
+      "    print('Item not found.')",
+      "else:"
+    ],
+    "answer": [
+      "if item in items:",
+      "    print('Item found.')",
+      "else:",
+      "    print('Item not found.')"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "topic": "if-statements",
+    "question": "Arrange the code to handle multiple exclusive conditions using `elif` in an `if` statement.",
+    "options": [
+      "    print('Temperature is warm.')",
+      "elif temperature > 20:",
+      "if temperature <= 0:",
+      "    print('Temperature is freezing.')",
+      "else:",
+      "    print('Temperature is moderate.')"
+    ],
+    "answer": [
+      "if temperature <= 0:",
+      "    print('Temperature is freezing.')",
+      "elif temperature > 20:",
+      "    print('Temperature is warm.')",
+      "else:",
+      "    print('Temperature is moderate.')"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "topic": "if-statements",
+    "question": "Arrange the snippets to create an `if` statement that includes a compound condition with `or`.",
+    "options": [
+      "    print('At least one condition is true.')",
+      "if a > b or c < d:",
+      "    print('All conditions are false.')"
+    ],
+    "answer": [
+      "if a > b or c < d:",
+      "    print('At least one condition is true.')",
+      "else:",
+      "    print('All conditions are false.')"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "topic": "if-statements",
+    "question": "Arrange the following code snippets to implement an `if` statement that uses a ternary operator for conditional assignment.",
+    "options": [
+      "    result = 'Pass'",
+      "    result = 'Fail'",
+      "result = 'Pass' if score >= 60 else 'Fail'"
+    ],
+    "answer": [
+      "result = 'Pass' if score >= 60 else 'Fail'"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "topic": "if-statements",
+    "question": "Arrange the code snippets to create a complex `if-elif-else` statement that validates user input for multiple criteria.",
+    "options": [
+      "    print('Input is too short.')",
+      "        print('Input is valid.')",
+      "elif not input_str.isalnum():",
+      "if len(input_str) < 5:",
+      "    print('Input is valid.')",
+      "    print('Input contains special characters.')",
+      "else:"
+    ],
+    "answer": [
+      "if len(input_str) < 5:",
+      "    print('Input is too short.')",
+      "elif not input_str.isalnum():",
+      "    print('Input contains special characters.')",
+      "else:",
+      "    print('Input is valid.')"
+    ]
+  }
+]
+```

@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "elif statement",
+        "else clause"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if statement",
+        "colon (:)",
+        "if x > 5:"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Indentation",
+        "if statements"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif clauses",
+        "if-elif-else chain"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if statement",
+        "elif statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "pass keyword",
+        "if block"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "comparison operators",
+        "if statements",
+        "1 < x < 5"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if statements"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "Nested if statements"
+      ]
+    }
+  ]
+}

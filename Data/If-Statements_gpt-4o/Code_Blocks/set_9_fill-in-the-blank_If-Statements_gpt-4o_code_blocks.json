@@ -1,0 +1,85 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "False",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > y:",
+        ">",
+        "comparison operator"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "indented"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "Boolean value",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "code block",
+        "indented"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "==",
+        "!=",
+        ">",
+        "<",
+        "<=",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if __ then execute code inside the block",
+        "if condition:",
+        "condition is True"
+      ]
+    }
+  ]
+}

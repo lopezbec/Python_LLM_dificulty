@@ -1,0 +1,72 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if True:\n    print('Hello')\nelse:\n    print('Goodbye')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5\nif x == 5:\n    print('Five')\nelse:\n    print('Not Five')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10\nif x < 5:\n    print('Less than 5')\nelif x == 10:\n    print('Ten')\nelse:\n    print('More than 5')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x",
+        "x = 3\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 8\nif x < 5:\n    print('Hello')\nelif x == 8:\n    print('World')\nelse:\n    print('Test')",
+        "x < 5",
+        "x == 8",
+        "x > 10",
+        "x == 0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x",
+        "x = 20\nif x <= 20:\n    print('Twenty or less')\nelse:\n    print('More than twenty')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "day",
+        "day = 'Saturday'\nif day == 'Monday':\n    print('Start of the week')\nelif day == 'Saturday':\n    print('Weekend')\nelse:\n    print('Midweek')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score = 85\nif score >= 90:\n    print('A')\nelif score >= 80:\n    print('B')\nelif score >= 70:\n    print('C')\nelse:\n    print('D')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "num = 7\nif num % 2 == 0:\n    print('Even')\nelif num % 3 == 0:\n    print('Divisible by 3')\nelse:\n    print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "age = 17\nif age < 18:\n    print('Minor')\nelif age < 65:\n    print('Adult')\nelse:\n    print('Senior')\nif age == 17:\n    print('Teenager')",
+        "age"
+      ]
+    }
+  ]
+}

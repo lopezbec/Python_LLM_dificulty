@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(___):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 0",
+        "while x ___ 10:",
+        "print(x)",
+        "x += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for ___ in fruits:",
+        "print(___)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "student = {'name': 'Alice', 'age': 25}",
+        "for ___, ___ in student.___():",
+        "print(key, value)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(5):",
+        "if i == 3:",
+        "___",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(6):",
+        "if i % 2 == 0:",
+        "___",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x_values = [1, 2]",
+        "y_values = [3, 4]",
+        "for x in x_values:",
+        "for ___ in ___:",
+        "print((x, y))"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "squares = [___ for i in range(5)]",
+        "print(squares)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def count_up_to(max):",
+        "i = 1",
+        "while i <= max:",
+        "yield ___",
+        "___",
+        "for number in count_up_to(3):",
+        "print(number)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "with open('file.txt', 'r') as file:",
+        "for ___, line in ___(file, ___):",
+        "print(f'Line {i}: {line.strip()}')"
+      ]
+    }
+  ]
+}

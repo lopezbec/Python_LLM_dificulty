@@ -1,0 +1,131 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "x = 5\nif ( {CONDITION} ):\n    print(\"x is greater than 3\")",
+        "x > 3",
+        "x == 3",
+        "x < 3"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "x = 7\nif x < 10:\n    print(\"x is less than 10\")\n{KEYWORD}:\n    print(\"x is 10 or more\")",
+        "if",
+        "else",
+        "elif",
+        "try"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "x = 10\nif ( {CONDITION} ):\n    print(\"x is not 10\")\nelse:\n    print(\"x is 10\")",
+        "x != 10",
+        "x == 10",
+        "x > 10",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "score",
+        "score = 75\nif {CONDITION1}:\n    print(\"High score\")\n{KEYWORD} {CONDITION2}:\n    print(\"Medium score\")\nelse:\n    print(\"Low score\")",
+        "if",
+        "elif",
+        "else",
+        "score > 80",
+        "score > 60",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "temperature",
+        "weather",
+        "temperature = 25\nweather = \"sunny\"\nif ( {CONDITION1} and {CONDITION2} ):\n    print(\"Perfect for a walk!\")",
+        "if",
+        "and",
+        "temperature > 20",
+        "temperature == 20",
+        "weather == \"sunny\"",
+        "weather != \"sunny\""
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "score",
+        "score = 120\nif {CONDITION1}:\n    if {CONDITION2}:\n        print(\"High score\")\n    else:\n        print(\"Score is not that high\")\nelse:\n    print(\"Invalid score\")",
+        "if",
+        "else",
+        "score > 0",
+        "score < 0",
+        "score > 100",
+        "score == 100"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "toy",
+        "items",
+        "items = [\"book\", \"pen\", \"toy\", \"paper\"]\nif \"toy\" {KEYWORD} items:\n    print(\"Toy found!\")",
+        "in",
+        "is",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "age",
+        "has_permission",
+        "age = 16\nhas_permission = True\nif ( {CONDITION1} or {CONDITION2} ):\n    print(\"Access granted\")\nelse:\n    print(\"Access denied\")",
+        "if",
+        "or",
+        "else",
+        "age >= 18",
+        "age < 0",
+        "has_permission == True",
+        "age == 18"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x",
+        "x = 0\nif {CONDITION1}:\n    print(\"Negative\")\nelif {CONDITION2}:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+        "if",
+        "elif",
+        "else",
+        "x < 0",
+        "x <= 0",
+        "x == 0",
+        "x != 0",
+        "x > 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x",
+        "x = 20\nif x == 10:\n    print(\"x is 10\")\n{KEYWORD1} x == 20:\n    print(\"x is 20\")\n{KEYWORD2} x == 30:\n    print(\"x is 30\")\nelse:\n    print(\"x is not 10, 20, or 30\")",
+        "if",
+        "elif",
+        "else",
+        "while",
+        "x == 10",
+        "x == 20",
+        "x == 30"
+      ]
+    }
+  ]
+}

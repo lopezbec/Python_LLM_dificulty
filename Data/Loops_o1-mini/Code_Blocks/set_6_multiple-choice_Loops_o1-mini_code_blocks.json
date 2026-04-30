@@ -1,0 +1,114 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "if loop",
+        "do-while loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(3):\n    print(i)",
+        "0 1 2 3",
+        "1 2 3",
+        "0 1 2",
+        "1 2",
+        "0 1 2"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "4",
+        "5",
+        "6",
+        "Infinite times",
+        "5"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(2, 10, 3):\n    print(i, end=' ')",
+        "2 5 8",
+        "2 3 4",
+        "2 5",
+        "2 6 9",
+        "2 5 8"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break",
+        "pass",
+        "continue",
+        "exit",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(1, 3):\n    for j in range(1, 3):\n        print(i * j, end=' ')",
+        "1 2 2 3",
+        "1 2 1 2",
+        "1 2 2 4",
+        "1 4 2 4",
+        "1 2 2 4"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "`else`",
+        "`for`",
+        "`break`",
+        "It executes only if the loop is terminated by a `break` statement.",
+        "It executes after the loop completes normally without encountering a `break`.",
+        "It acts as an alternative loop condition.",
+        "It handles exceptions raised within the loop.",
+        "It executes after the loop completes normally without encountering a `break`."
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "`for`",
+        "for index in range(len(list)): value = list[index]",
+        "for value, index in list:",
+        "for index, value in enumerate(list):",
+        "for list[index], list[value] in list:",
+        "for index, value in enumerate(list):"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [1, 2, 3, 4]\nresult = 0\nfor num in numbers:\n    if num % 2 == 0:\n        continue\n    result += num\nprint(result)",
+        "6",
+        "4",
+        "10",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def nested_loop(n):\n    count = 0\n    for i in range(n):\n        for j in range(i, n):\n            count += 1\n    return count",
+        "O(n)",
+        "O(n log n)",
+        "O(n²)",
+        "O(2^n)",
+        "O(n²)"
+      ]
+    }
+  ]
+}

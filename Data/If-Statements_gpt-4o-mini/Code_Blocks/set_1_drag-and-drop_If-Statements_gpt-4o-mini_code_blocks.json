@@ -1,0 +1,117 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ( ____ ) { print('Hello'); }",
+        "true",
+        "false",
+        "1 > 2",
+        "print('Hello');"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x > 5) { ____ } else { print('x is not greater than 5'); }",
+        "x > 5",
+        "print('x is greater than 5');",
+        "print('x is less than or equal to 5');",
+        "pass;",
+        "print('x is not greater than 5');"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if ( ____ == 'Python') { print('Correct!'); }",
+        "____ == 'Python'",
+        "language",
+        "program",
+        "script",
+        "print('Correct!');"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if ( ____ ) { flag = True; }",
+        "x == 10",
+        "x != 10",
+        "x > 10",
+        "flag = True;"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if (age < 18) { ____ } else { print('Adult'); }",
+        "age < 18",
+        "print('Minor');",
+        "pass;",
+        "continue;",
+        "print('Adult');"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x < 10) { ____ } else if (x < 20) { print('Between 10 and 20'); }",
+        "x < 10",
+        "print('Less than 10');",
+        "print('Greater than 20');",
+        "print('Equals 10');",
+        "x < 20",
+        "print('Between 10 and 20');"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (x > 5 && ____ ) { print('Valid'); }",
+        "x > 5",
+        "y < 10",
+        "y > 10",
+        "y == 5",
+        "print('Valid');"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (user.is_authenticated == True && ____ ) { print('Access granted'); }",
+        "user.is_authenticated == True",
+        "user.is_active == True",
+        "user.is_authenticated == False",
+        "user.has_perm('view_data')",
+        "print('Access granted');"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (score >= 90) { ____ } else if (score >= 80) { print('B'); } else { print('C'); }",
+        "score >= 90",
+        "print('A');",
+        "print('D');",
+        "print('F');",
+        "score >= 80",
+        "print('B');",
+        "print('C');"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (state == 'on') { print('Light is on'); } else if (state == 'off') { ____ } else { print('Unknown state'); }",
+        "state == 'on'",
+        "print('Light is on');",
+        "state == 'off'",
+        "print('Light is off');",
+        "raise Error;",
+        "print('State is not valid');",
+        "print('Unknown state');"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, an if-statement is used to execute a block of code only if a given condition is ___.",
+      "answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "An if-statement in Python begins with the keyword ___ followed by a condition.",
+      "answer": "if"
+    },
+    {
+      "difficulty": 3,
+      "question": "The condition in an if-statement must evaluate to a ___ value.",
+      "answer": "Boolean"
+    },
+    {
+      "difficulty": 4,
+      "question": "To prevent errors from variable comparisons in an if-statement, use the ___ operator for equality checks.",
+      "answer": "=="
+    },
+    {
+      "difficulty": 5,
+      "question": "In Python, an if-statement block should end with a ___.",
+      "answer": "colon"
+    },
+    {
+      "difficulty": 6,
+      "question": "To manage multiple conditions in an if-else chain, the keyword ___ is used.",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 7,
+      "question": "When none of the conditions in an if-elif chain are True, the ___ block is executed.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 8,
+      "question": "Python uses ___ to define a block of code following an if-statement.",
+      "answer": "indentation"
+    },
+    {
+      "difficulty": 9,
+      "question": "An if-statement can directly check if an object represents a True or False value by its ___.",
+      "answer": "truthiness"
+    },
+    {
+      "difficulty": 10,
+      "question": "To evaluate multiple conditions in a single if-statement using logical operators, the operators ___ and ___ are often used.",
+      "answer": "and, or"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x ___ 10:",
+        "print('x is less than 10')",
+        "x",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if name ___ 'Alice':",
+        "print('Hello, Alice!')",
+        "name",
+        "'Alice'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if score >= 60:",
+        "result = 'Pass'",
+        "else:",
+        "result ___ 'Fail'",
+        "score",
+        "60",
+        "result",
+        "'Pass'",
+        "'Fail'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if age >= 18 ___ citizenship == 'US':",
+        "print('Eligible to vote')",
+        "age",
+        "18",
+        "citizenship",
+        "'US'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if not ___:",
+        "print('The list is empty')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if temperature > 30:",
+        "weather = 'Hot'",
+        "elif temperature > 20:",
+        "weather ___ 'Warm'",
+        "else:",
+        "weather = 'Cold'",
+        "temperature",
+        "30",
+        "20",
+        "weather",
+        "'Hot'",
+        "'Warm'",
+        "'Cold'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if user:",
+        "if user.is_active___",
+        "print('User is active')",
+        "user",
+        ".is_active"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "status = 'Approved' ___ x > 100 else 'Denied'",
+        "status",
+        "'Approved'",
+        "x",
+        "100",
+        "'Denied'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if isinstance(value, (int, ___)):",
+        "print('Value is a number or float')",
+        "isinstance",
+        "value",
+        "int",
+        "float"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if config and config.get('enabled') ___ execute_task():",
+        "print('Task executed')",
+        "config",
+        "config.get('enabled')",
+        "execute_task()"
+      ]
+    }
+  ]
+}

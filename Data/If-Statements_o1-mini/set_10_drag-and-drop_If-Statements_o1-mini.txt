@@ -1,0 +1,289 @@
+```json
+[
+  {
+    "id": 1,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 1,
+    "question": "Arrange the basic structure of an if statement in Python.",
+    "dragItems": [
+      "if condition:",
+      "    statement"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2"
+    ],
+    "correctAnswers": {
+      "Line 1": "if condition:",
+      "Line 2": "    statement"
+    }
+  },
+  {
+    "id": 2,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 2,
+    "question": "Match the if statement components to their descriptions.",
+    "dragItems": [
+      "if",
+      "condition",
+      "block"
+    ],
+    "dropZones": [
+      "Keyword to start a conditional statement",
+      "Expression evaluated to True or False",
+      "Indented code to execute if condition is True"
+    ],
+    "correctAnswers": {
+      "Keyword to start a conditional statement": "if",
+      "Expression evaluated to True or False": "condition",
+      "Indented code to execute if condition is True": "block"
+    }
+  },
+  {
+    "id": 3,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 3,
+    "question": "Place the components of the following if-else statement in the correct order.",
+    "dragItems": [
+      "if score >= 60:",
+      "    print('Passed')",
+      "else:",
+      "    print('Failed')"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2",
+      "Line 3",
+      "Line 4"
+    ],
+    "correctAnswers": {
+      "Line 1": "if score >= 60:",
+      "Line 2": "    print('Passed')",
+      "Line 3": "else:",
+      "Line 4": "    print('Failed')"
+    }
+  },
+  {
+    "id": 4,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 4,
+    "question": "Arrange the nested if statement correctly.",
+    "dragItems": [
+      "if temperature > 30:",
+      "    print('Hot')",
+      "    if humidity > 70:",
+      "        print('Humid')",
+      "else:",
+      "    print('Not Hot')"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2",
+      "Line 3",
+      "Line 4",
+      "Line 5",
+      "Line 6"
+    ],
+    "correctAnswers": {
+      "Line 1": "if temperature > 30:",
+      "Line 2": "    print('Hot')",
+      "Line 3": "    if humidity > 70:",
+      "Line 4": "        print('Humid')",
+      "Line 5": "else:",
+      "Line 6": "    print('Not Hot')"
+    }
+  },
+  {
+    "id": 5,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 5,
+    "question": "Fill in the blanks to complete the if-elif-else statement.",
+    "dragItems": [
+      "num > 0",
+      "print('Positive')",
+      "num == 0",
+      "print('Zero')",
+      "print('Negative')"
+    ],
+    "dropZones": [
+      "Condition for elif",
+      "Statement for elif",
+      "Statement for else"
+    ],
+    "correctAnswers": {
+      "Condition for elif": "num == 0",
+      "Statement for elif": "print('Zero')",
+      "Statement for else": "print('Negative')"
+    }
+  },
+  {
+    "id": 6,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 6,
+    "question": "Order the execution flow of the following nested if statements.",
+    "dragItems": [
+      "Check if age is greater than 18",
+      "Check if has a valid ID",
+      "Allow access",
+      "Deny access"
+    ],
+    "dropZones": [
+      "First Step",
+      "Second Step",
+      "Third Step",
+      "Fourth Step"
+    ],
+    "correctAnswers": {
+      "First Step": "Check if age is greater than 18",
+      "Second Step": "Check if has a valid ID",
+      "Third Step": "Allow access",
+      "Fourth Step": "Deny access"
+    }
+  },
+  {
+    "id": 7,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 7,
+    "question": "Match the following if statement errors with their descriptions.",
+    "dragItems": [
+      "Missing colon",
+      "Incorrect indentation",
+      "Undefined variable in condition",
+      "Using assignment instead of comparison"
+    ],
+    "dropZones": [
+      "Syntax error due to ':'' after condition",
+      "Runtime error due to inconsistent spaces",
+      "NameError when condition variable is not defined",
+      "Logic error where variable is assigned instead of compared"
+    ],
+    "correctAnswers": {
+      "Syntax error due to ':'' after condition": "Missing colon",
+      "Runtime error due to inconsistent spaces": "Incorrect indentation",
+      "NameError when condition variable is not defined": "Undefined variable in condition",
+      "Logic error where variable is assigned instead of compared": "Using assignment instead of comparison"
+    }
+  },
+  {
+    "id": 8,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 8,
+    "question": "Rearrange the code blocks to implement the following logic:\nIf the number is divisible by 2, print 'Even'. If it's divisible by 3, print 'Divisible by 3'. Otherwise, print 'Other'.",
+    "dragItems": [
+      "if number % 2 == 0:",
+      "    print('Even')",
+      "elif number % 3 == 0:",
+      "    print('Divisible by 3')",
+      "else:",
+      "    print('Other')"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2",
+      "Line 3",
+      "Line 4",
+      "Line 5",
+      "Line 6"
+    ],
+    "correctAnswers": {
+      "Line 1": "if number % 2 == 0:",
+      "Line 2": "    print('Even')",
+      "Line 3": "elif number % 3 == 0:",
+      "Line 4": "    print('Divisible by 3')",
+      "Line 5": "else:",
+      "Line 6": "    print('Other')"
+    }
+  },
+  {
+    "id": 9,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 9,
+    "question": "Organize the following code to handle multiple conditions for grading.",
+    "dragItems": [
+      "if score >= 90:",
+      "    grade = 'A'",
+      "elif score >= 80:",
+      "    grade = 'B'",
+      "elif score >= 70:",
+      "    grade = 'C'",
+      "elif score >= 60:",
+      "    grade = 'D'",
+      "else:",
+      "    grade = 'F'"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2",
+      "Line 3",
+      "Line 4",
+      "Line 5",
+      "Line 6",
+      "Line 7",
+      "Line 8",
+      "Line 9",
+      "Line 10"
+    ],
+    "correctAnswers": {
+      "Line 1": "if score >= 90:",
+      "Line 2": "    grade = 'A'",
+      "Line 3": "elif score >= 80:",
+      "Line 4": "    grade = 'B'",
+      "Line 5": "elif score >= 70:",
+      "Line 6": "    grade = 'C'",
+      "Line 7": "elif score >= 60:",
+      "Line 8": "    grade = 'D'",
+      "Line 9": "else:",
+      "Line 10": "    grade = 'F'"
+    }
+  },
+  {
+    "id": 10,
+    "topic": "If-Statements",
+    "type": "drag-and-drop",
+    "difficulty": 10,
+    "question": "Arrange the following code to implement a function that determines if a year is a leap year.",
+    "dragItems": [
+      "def is_leap_year(year):",
+      "    if year % 4 != 0:",
+      "        return False",
+      "    elif year % 100 != 0:",
+      "        return True",
+      "    elif year % 400 != 0:",
+      "        return False",
+      "    else:",
+      "        return True"
+    ],
+    "dropZones": [
+      "Line 1",
+      "Line 2",
+      "Line 3",
+      "Line 4",
+      "Line 5",
+      "Line 6",
+      "Line 7",
+      "Line 8",
+      "Line 9"
+    ],
+    "correctAnswers": {
+      "Line 1": "def is_leap_year(year):",
+      "Line 2": "    if year % 4 != 0:",
+      "Line 3": "        return False",
+      "Line 4": "    elif year % 100 != 0:",
+      "Line 5": "        return True",
+      "Line 6": "    elif year % 400 != 0:",
+      "Line 7": "        return False",
+      "Line 8": "    else:",
+      "Line 9": "        return True"
+    }
+  }
+]
+```

@@ -1,0 +1,106 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 10:\n    print('x is greater than 10')",
+        "x",
+        "print('x is less than or equal to 10')",
+        "print('x is greater than 10')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5",
+        "if x < 10:\n    print('Small')\nelse:\n    print('Large')",
+        "x",
+        "print('Small')",
+        "print('Large')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x == 0:\n    print('Zero')\nelif x > 0:\n    print('Positive')\nelse:\n    print('Negative')",
+        "x",
+        "print('Zero')",
+        "print('Positive')",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = -1",
+        "if x >= 0:\n    print('Non-negative')\nelse:\n    print('Negative')",
+        "x",
+        "print('Non-negative')",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 15\nif x < 10:\n    print('Small')\nelif x < 20:\n    print('Medium')\nelse:\n    print('Large')",
+        "x",
+        "print('Small')",
+        "print('Medium')",
+        "print('Large')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+        "x = 7",
+        "x",
+        "print('Even')",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if 'a' in 'apple':\n    print('Contains a')\nelse:\n    print('Does not contain a')",
+        "'a' in 'apple'",
+        "print('Contains a')",
+        "print('Does not contain a')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 10",
+        "y = 20",
+        "if x < y:\n    print('x is less than y')\nelse:\n    print('x is greater than or equal to y')",
+        "x",
+        "y",
+        "print('x is less than y')",
+        "print('x is greater than or equal to y')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 'hello'",
+        "if isinstance(x, str):\n    print('x is a string')\nelse:\n    print('x is not a string')",
+        "isinstance(x, str)",
+        "x",
+        "print('x is a string')",
+        "print('x is not a string')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 2",
+        "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+        "x",
+        "print('One')",
+        "print('Two')",
+        "print('Other')"
+      ]
+    }
+  ]
+}

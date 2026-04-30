@@ -1,0 +1,115 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "total = 0\nfor i in range(4):\n    total += i\nprint(total)",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "while (i < 5) { ... }",
+        "while i < 5:\n    # code block",
+        "while i < 5 do\n    # code block",
+        "while i < 5 then\n    # code block",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "range(5, 10)",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)\nelse:\n    print(\"Loop completed\")",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "count = 0\nfor i in range(10):\n    if i % 2 == 0:\n        continue\n    count += 1",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "result = 1\nfor i in range(1, 4):\n    result *= i",
+        "result",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "exit",
+        "continue",
+        "pass",
+        "break",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(2):\n    for j in range(2):\n        print(i, j)",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    if i == 1:\n        break\n    print(i)\nelse:\n    print(\"Completed\")",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "numbers = [1, 2, 3, 4]\nfor index, value in enumerate(numbers):\n    if value == 3:\n        continue\n    print(f\"Index: {index}, Value: {value}\")",
+        "numbers",
+        "index",
+        "value",
+        "enumerate",
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ]
+}

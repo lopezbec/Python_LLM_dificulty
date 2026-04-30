@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "fruits",
+        "for (fruit in fruits):",
+        "for fruit in fruits:",
+        "foreach fruit in fruits:",
+        "for fruit = fruits:",
+        "exit",
+        "stop",
+        "break",
+        "quit"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "count = 0\nwhile count < 3:\n    print(count)\n    count += 1",
+        "0 1 2 3",
+        "1 2 3",
+        "0 1 2",
+        "Infinite loop",
+        "for i in range(2, 10, 3):\n    print(i)",
+        "2 times",
+        "3 times",
+        "4 times",
+        "5 times"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(1, 4):\n    for j in range(1, i):\n        print(i, j)",
+        "1 1 2 1 2 2 3 1 3 2",
+        "2 1 3 1 3 2",
+        "1 2 3",
+        "No output",
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "Both for and while loops"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "result = 0\nfor i in range(5):\n    if i == 3:\n        continue\n    result += i",
+        "result",
+        "10",
+        "6",
+        "8",
+        "12",
+        "numbers = [1, 2, 3, 4]\nfor num in numbers:\n    if num == 3:\n        break\n    print(num)\nelse:\n    print(\"Completed\")",
+        "numbers",
+        "num",
+        "1 2 3 Completed",
+        "1 2 Completed",
+        "1 2 3",
+        "1 2"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "n",
+        "m",
+        "O(n)",
+        "O(m)",
+        "O(n + m)",
+        "O(n * m)",
+        "(x for x in range(0, None, 2))",
+        "x for x in itertools.count(0, 2)",
+        "(x for x in itertools.count(0, 2))",
+        "[x for x in itertools.count(0, 2)]",
+        "result = [x * y for x in range(2) for y in range(3)]\nprint(result)",
+        "result",
+        "[0, 0, 0, 0, 1, 2]",
+        "[0, 0, 1, 0, 1, 2]",
+        "[0, 1, 2, 0, 1, 2]",
+        "[0, 0, 0, 1, 2, 2]"
+      ]
+    }
+  ]
+}

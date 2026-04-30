@@ -1,0 +1,75 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "topic": "Loops",
+            "question": "Fill in the blanks to complete a simple for loop that prints numbers from 1 to 5.",
+            "code": "for ___ in range(___, ___):\n    print(i)",
+            "drag_and_drop_options": ["i", "1", "6"]
+        },
+        {
+            "difficulty": 2,
+            "topic": "Loops",
+            "question": "Complete the while loop so that it prints \"Python\" 3 times.",
+            "code": "count = 0\nwhile count ___ 3:\n    print(\"Python\")\n    ___",
+            "drag_and_drop_options": ["<", "count += 1"]
+        },
+        {
+            "difficulty": 3,
+            "topic": "Loops",
+            "question": "Fill in the blanks to create a loop that prints all even numbers from 0 to 10.",
+            "code": "for num in range(0, 11):\n    if num % ___ == 0:\n        ___(num)",
+            "drag_and_drop_options": ["2", "print"]
+        },
+        {
+            "difficulty": 4,
+            "topic": "Loops",
+            "question": "Complete the code to use a loop for summing up numbers from 1 to 10.",
+            "code": "total = 0\nfor n in range(___, ___):\n    total ___ n\nprint(total)",
+            "drag_and_drop_options": ["1", "11", "+="]
+        },
+        {
+            "difficulty": 5,
+            "topic": "Loops",
+            "question": "Complete the loop to count down from 5 to 1.",
+            "code": "for i in range(5, 0, ___):\n    print(i)",
+            "drag_and_drop_options": ["-1"]
+        },
+        {
+            "difficulty": 6,
+            "topic": "Loops",
+            "question": "Fill in the blanks to loop through a list and print each item.",
+            "code": "fruits = ['apple', 'banana', 'cherry']\nfor ___ in fruits:\n    print(___)",
+            "drag_and_drop_options": ["fruit", "fruit"]
+        },
+        {
+            "difficulty": 7,
+            "topic": "Loops",
+            "question": "Complete the nested loop structure to print a 3x3 grid of * symbols.",
+            "code": "for i in range(3):\n    for j in range(3):\n        print('*', end='___')\n    print()",
+            "drag_and_drop_options": [" "]
+        },
+        {
+            "difficulty": 8,
+            "topic": "Loops",
+            "question": "Fill in the blanks to loop over a dictionary and print each key-value pair.",
+            "code": "my_dict = {\"a\": 1, \"b\": 2, \"c\": 3}\nfor key, value in ___.items():\n    print(key,':', value)",
+            "drag_and_drop_options": ["my_dict"]
+        },
+        {
+            "difficulty": 9,
+            "topic": "Loops",
+            "question": "Complete the code to break out of a loop when 'stop' is encountered in the list.",
+            "code": "words = ['go', 'stop', 'proceed']\nfor word in words:\n    if word == '___':\n        ___\n    print(word)",
+            "drag_and_drop_options": ["stop", "break"]
+        },
+        {
+            "difficulty": 10,
+            "topic": "Loops",
+            "question": "Fill in the blanks to use the loop with 'else' to print numbers and end properly.",
+            "code": "for i in range(3):\n    print(i)\nelse:\n    print(\"Finished counting, i is now\", ___)",
+            "drag_and_drop_options": ["3"]
+        }
+    ]
+}

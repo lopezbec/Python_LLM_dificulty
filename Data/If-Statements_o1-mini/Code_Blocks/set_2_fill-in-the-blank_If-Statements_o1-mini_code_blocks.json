@@ -1,0 +1,70 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "indented"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "and"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "or"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "number = 10",
+        "if number > 0 ____",
+        "print(\"Positive number\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "indented more"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "number = 15",
+        "if number > 10 and number < 20 ____",
+        "print(\"Number is between 10 and 20\")",
+        "else ____",
+        "print(\"Number is not in the range\")"
+      ]
+    }
+  ]
+}

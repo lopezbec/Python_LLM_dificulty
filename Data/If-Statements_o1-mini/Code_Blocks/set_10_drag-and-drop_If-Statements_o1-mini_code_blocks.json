@@ -1,0 +1,101 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if condition:",
+        "    statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "condition",
+        "block"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if score >= 60:",
+        "    print('Passed')",
+        "else:",
+        "    print('Failed')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if temperature > 30:",
+        "    print('Hot')",
+        "    if humidity > 70:",
+        "        print('Humid')",
+        "else:",
+        "    print('Not Hot')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "num > 0",
+        "print('Positive')",
+        "num == 0",
+        "print('Zero')",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if number % 2 == 0:",
+        "    print('Even')",
+        "elif number % 3 == 0:",
+        "    print('Divisible by 3')",
+        "else:",
+        "    print('Other')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if score >= 90:",
+        "    grade = 'A'",
+        "elif score >= 80:",
+        "    grade = 'B'",
+        "elif score >= 70:",
+        "    grade = 'C'",
+        "elif score >= 60:",
+        "    grade = 'D'",
+        "else:",
+        "    grade = 'F'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def is_leap_year(year):",
+        "    if year % 4 != 0:",
+        "        return False",
+        "    elif year % 100 != 0:",
+        "        return True",
+        "    elif year % 400 != 0:",
+        "        return False",
+        "    else:",
+        "        return True"
+      ]
+    }
+  ]
+}

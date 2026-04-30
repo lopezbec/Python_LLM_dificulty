@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "while loop",
+        "Python",
+        "conditional expression",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "Python",
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "iterate",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'break'",
+        "'for'",
+        "'while'",
+        "loops"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'continue'",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "nested loops",
+        "'break'",
+        "innermost loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "loop's 'else' clause",
+        "'break'",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Python 3",
+        "range()",
+        "range object",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "loops",
+        "lists"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "{}"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statements",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'elif'",
+        "if-statements",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'if 5 > 3:'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'if x = 10: print(x)'"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "questionType": "drag-and-drop",
+      "question": "Drag the correct keyword to complete a simple if statement that prints 'Hello' if the name is 'Alice'.",
+      "codeSnippet": "name = 'Alice'\n___ name == 'Alice':\n    print('Hello')",
+      "draggables": ["if", "for", "while"],
+      "correctDrops": ["if"],
+      "explanation": "Only 'if' is the correct keyword to start the conditional check for name == 'Alice'."
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "questionType": "drag-and-drop",
+      "question": "Fill in the blanks to check if a variable x is greater than 0 and print 'Positive'.",
+      "codeSnippet": "x = 10\n___ x > 0:\n    ___('Positive')",
+      "draggables": ["if", "print", "else"],
+      "correctDrops": ["if", "print"],
+      "explanation": "Use 'if' to start the condition and 'print' to display the message."
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "questionType": "drag-and-drop",
+      "question": "Complete the if-else logic to print 'Even' if x is divisible by 2, otherwise print 'Odd'.",
+      "codeSnippet": "x = 5\nif x % 2 == 0:\n    print(___)\n___:\n    print(___)",
+      "draggables": ["Even", "Odd", "while", "else"],
+      "correctDrops": ["Even", "else", "Odd"],
+      "explanation": "When x % 2 == 0 the program should print 'Even'. Otherwise 'else' is used to print 'Odd'."
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "questionType": "drag-and-drop",
+      "question": "Drag the correct items to check if y is both greater than 10 and not equal to 15, then print 'Valid'.",
+      "codeSnippet": "y = 12\n___ y > 10 ___ y != 15:\n    print('Valid')",
+      "draggables": ["if", "and", "else", "or"],
+      "correctDrops": ["if", "and"],
+      "explanation": "Use 'if' to begin the conditional, then 'and' to combine the two conditions: y > 10 and y != 15."
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "questionType": "drag-and-drop",
+      "question": "Fill the placeholders to utilize if-elif-else and print 'Hot' if temp > 30, 'Warm' if 20 <= temp <= 30, otherwise 'Cold'.",
+      "codeSnippet": "temp = 25\nif temp > 30:\n    print(___)\n___ 20 <= temp <= 30:\n    print(___)\n___:\n    print(___)",
+      "draggables": ["else", "elif", "Hot", "Warm", "Cold"],
+      "correctDrops": ["Hot", "elif", "Warm", "else", "Cold"],
+      "explanation": "First branch is if temp > 30 prints 'Hot', second branch uses 'elif' for 20 <= temp <= 30 prints 'Warm', final 'else' prints 'Cold'."
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "questionType": "drag-and-drop",
+      "question": "Drag the correct keywords to create a nested if statement checking if num is positive and divisible by 3.",
+      "codeSnippet": "num = 9\n___ num > 0:\n    ___ num % 3 == 0:\n        print('Positive and divisible by 3')",
+      "draggables": ["if", "for", "else", "if"],
+      "correctDrops": ["if", "if"],
+      "explanation": "Use 'if' to check if num is positive, and a nested 'if' statement to check if it is also divisible by 3."
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "questionType": "drag-and-drop",
+      "question": "Complete the conditions using 'and' to confirm user is logged in and has admin role before printing 'Access Granted'.",
+      "codeSnippet": "logged_in = True\nrole = 'admin'\nif logged_in ___ role == 'admin':\n    print('Access Granted')",
+      "draggables": ["==", "and", "or", "else"],
+      "correctDrops": ["and"],
+      "explanation": "We must ensure both conditions are true, so we use 'and' to check logged_in is True and role == 'admin'."
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "questionType": "drag-and-drop",
+      "question": "Decide between 'and' or 'or' to check if x is less than 0 or greater than 100. If so, print 'Out of Range'.",
+      "codeSnippet": "x = 150\nif x < 0 ___ x > 100:\n    print('Out of Range')",
+      "draggables": ["and", "or"],
+      "correctDrops": ["or"],
+      "explanation": "We want to check if at least one of the conditions (x < 0 or x > 100) is true, so we use 'or'."
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "questionType": "drag-and-drop",
+      "question": "Complete the code to print 'Found!' if 'B' is an element of the list items. Use the membership operator.",
+      "codeSnippet": "items = ['A', 'B', 'C']\nif 'B' ___ items:\n    print('Found!')",
+      "draggables": ["in", "not", "else"],
+      "correctDrops": ["in"],
+      "explanation": "The 'in' operator checks if an element is a member of a collection, making 'Found!' print when 'B' is in items."
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "questionType": "drag-and-drop",
+      "question": "Use 'if', 'elif', and 'else' to handle multiple conditions with short-circuit logic: greater than 40, exactly 40, or otherwise less than 40.",
+      "codeSnippet": "val = 40\n___ val > 40:\n    print('Above')\n___ val == 40:\n    print('Equal')\n___:\n    print('Below')",
+      "draggables": ["if", "elif", "else", "while", "for"],
+      "correctDrops": ["if", "elif", "else"],
+      "explanation": "First 'if' checks val > 40, then 'elif' verifies exactly 40, and 'else' covers anything less than 40 in a short-circuit manner."
+    }
+  ]
+}

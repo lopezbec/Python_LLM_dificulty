@@ -1,0 +1,75 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "Complete the following loop to print numbers 0 to 4:",
+            "code": "for i in ___(5):\n    print(___)",
+            "options": ["range", "i", "while", "5, 0, -1"],
+            "correct_answers": ["range", "i"]
+        },
+        {
+            "difficulty": 2,
+            "question": "Fill in the blanks to iterate over the elements in the list and print each one:",
+            "code": "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ___:\n    ___(fruit)",
+            "options": ["print", "fruits", "len(fruits)", "fruit"],
+            "correct_answers": ["fruits", "print"]
+        },
+        {
+            "difficulty": 3,
+            "question": "Complete the while loop that counts from 1 to 5.",
+            "code": "count = 1\nwhile ___ <= ___:\n    print(count)\n    count += 1",
+            "options": ["count", "1", "5", "6", "0"],
+            "correct_answers": ["count", "5"]
+        },
+        {
+            "difficulty": 4,
+            "question": "Fill in the blanks to print only the even numbers from 1 to 10 using a for loop.",
+            "code": "for i in range(1, 11):\n    if i % ___ == 0:\n        ___(i)",
+            "options": ["print", "2", "0", "i", "10"],
+            "correct_answers": ["2", "print"]
+        },
+        {
+            "difficulty": 5,
+            "question": "Complete the nested loop to print a 3x3 grid of asterisks.",
+            "code": "for i in range(___):\n    for j in range(___):\n        print('*', end=' ')\n    print()",
+            "options": ["3", "2", "4", "j", "i"],
+            "correct_answers": ["3", "3"]
+        },
+        {
+            "difficulty": 6,
+            "question": "Fill in the blanks to calculate the sum of the first 10 natural numbers using a loop.",
+            "code": "total = 0\nfor n in range(___, ___):\n    ___ += n\nprint(total)",
+            "options": ["1", "11", "total", "n", "10"],
+            "correct_answers": ["1", "11", "total"]
+        },
+        {
+            "difficulty": 7,
+            "question": "Complete the for loop to iterate over a dictionary and print each key-value pair.",
+            "code": "person = {'name': 'John', 'age': 25}\nfor key, value in person.___():\n    ___(key, value)",
+            "options": ["print", "items", "keys", "values", "dict"],
+            "correct_answers": ["items", "print"]
+        },
+        {
+            "difficulty": 8,
+            "question": "Fill in the blanks to break out of the loop when the number 7 is found.",
+            "code": "numbers = [1, 2, 3, 7, 8]\nfor number in numbers:\n    if number == ___:\n        ___\n    print(number)",
+            "options": ["7", "3", "continue", "break", "number"],
+            "correct_answers": ["7", "break"]
+        },
+        {
+            "difficulty": 9,
+            "question": "Complete the loop to create a list of squares of numbers from 1 to 5 using list comprehension.",
+            "code": "squares = [___**2 for ___ in ___(___, ___)]",
+            "options": ["number", "range", "6", "1", "2"],
+            "correct_answers": ["number", "number", "range", "1", "6"]
+        },
+        {
+            "difficulty": 10,
+            "question": "Fill in the blanks to create a generator for odd numbers up to 10 using loop and yield.",
+            "code": "def odd_numbers():\n    for i in range(1, 11):\n        if i % 2 == 1:\n            ___ i\n\nodd_gen = odd_numbers()\nfor num in ___.___:\n    print(num)",
+            "options": ["yield", "range", "odd_gen", "iter", "next"],
+            "correct_answers": ["yield", "odd_gen", "iter"]
+        }
+    ]
+}

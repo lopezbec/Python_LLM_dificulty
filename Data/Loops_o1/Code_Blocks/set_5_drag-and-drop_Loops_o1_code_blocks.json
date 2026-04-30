@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "print('Done!')",
+        "for i in range(1, 4):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(x)",
+        "x = 1",
+        "while x <= 3:",
+        "x += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if i == 3: break",
+        "for i in range(5):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if char == 'a': continue",
+        "print(char)",
+        "for char in 'banana':"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for y in range(2):",
+        "for x in range(2):",
+        "print(x, y)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 0",
+        "while x < 5:",
+        "x += 1",
+        "if x == 2: continue",
+        "if x == 4: break",
+        "print(x)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(2, 5):",
+        "if i % 2 == 0:",
+        "print('Found an even number:', i)",
+        "break",
+        "else:",
+        "print('No even number found.')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for index, fruit in enumerate(fruits):",
+        "print(index, fruit)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in reversed(range(3)):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(1, 4):",
+        "for j in range(i):",
+        "print('*', end='')",
+        "print()"
+      ]
+    }
+  ]
+}

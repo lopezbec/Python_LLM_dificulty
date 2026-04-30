@@ -1,0 +1,114 @@
+```json
+[
+  {
+    "question": "What is the primary purpose of an if-statement in Python?",
+    "options": {
+      "A": "To create a loop",
+      "B": "To define a function",
+      "C": "To make a decision based on a condition",
+      "D": "To import a module"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "question": "Which keyword is used to specify the condition in an if-statement?",
+    "options": {
+      "A": "when",
+      "B": "unless",
+      "C": "if",
+      "D": "loop"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 10\nif x > 5:\n    print('Greater')\nelse:\n    print('Smaller')\n```",
+    "options": {
+      "A": "Smaller",
+      "B": "Greater",
+      "C": "Error",
+      "D": "Nothing"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "question": "How do you add an else clause to an if-statement in Python?",
+    "options": {
+      "A": "Using the `elif` keyword",
+      "B": "Using the `else` keyword",
+      "C": "Using the `endif` keyword",
+      "D": "Using the `otherwise` keyword"
+    },
+    "answer": "B",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nage = 20\nif age >= 18:\n    print('Adult')\nelif age < 18 and age > 0:\n    print('Minor')\nelse:\n    print('Invalid age')\n```",
+    "options": {
+      "A": "Minor",
+      "B": "Adult",
+      "C": "Invalid age",
+      "D": "Error"
+    },
+    "answer": "B",
+    "difficulty": 5
+  },
+  {
+    "question": "Which of the following is the correct syntax for an if-elif-else statement in Python?",
+    "options": {
+      "A": "if condition:\n  pass\nelseif condition:\n  pass\nelse:\n  pass",
+      "B": "if condition then:\n  pass\nelif condition then:\n  pass\notherwise:\n  pass",
+      "C": "if condition:\n  pass\nelif condition:\n  pass\nelse:\n  pass",
+      "D": "if (condition){\n  pass;\n} elseif (condition){\n  pass;\n} else {\n  pass;\n}"
+    },
+    "answer": "C",
+    "difficulty": 6
+  },
+  {
+    "question": "Consider the following code snippet. What will be printed?\n\n```python\nx = 15\nif x < 10:\n    print('Less than 10')\nelif x < 20:\n    print('Between 10 and 20')\nelif x < 30:\n    print('Between 20 and 30')\nelse:\n    print('30 or more')\n```",
+    "options": {
+      "A": "Less than 10",
+      "B": "Between 10 and 20",
+      "C": "Between 20 and 30",
+      "D": "30 or more"
+    },
+    "answer": "B",
+    "difficulty": 7
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\ndef check_number(num):\n    if num == 0:\n        return 'Zero'\n    if num > 0:\n        return 'Positive'\n    return 'Negative'\n\nprint(check_number(-5))\n```",
+    "options": {
+      "A": "Zero",
+      "B": "Positive",
+      "C": "Negative",
+      "D": "Error"
+    },
+    "answer": "C",
+    "difficulty": 8
+  },
+  {
+    "question": "Which of the following conditions correctly checks if a variable `x` is either less than 5 or greater than 15 in an if-statement?",
+    "options": {
+      "A": "if x < 5 or x > 15:",
+      "B": "if x < 5 && x > 15:",
+      "C": "if (x < 5) || (x > 15):",
+      "D": "if x < 5 & x > 15:"
+    },
+    "answer": "A",
+    "difficulty": 9
+  },
+  {
+    "question": "Analyze the following code. What will be the output?\n\n```python\nvalues = [2, 4, 6, 8]\nfor val in values:\n    if val % 4 == 0:\n        print(val)\n    elif val % 2 == 0:\n        print(val * 2)\n    else:\n        print(val - 1)\n```",
+    "options": {
+      "A": "4\n8\n12\n16",
+      "B": "2\n4\n6\n8",
+      "C": "4\n8\n12\n8",
+      "D": "4\n8\n12\n16"
+    },
+    "answer": "C",
+    "difficulty": 10
+  }
+]
+```

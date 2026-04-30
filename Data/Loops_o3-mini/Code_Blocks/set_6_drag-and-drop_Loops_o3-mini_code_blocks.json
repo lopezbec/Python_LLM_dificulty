@@ -1,0 +1,120 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in ____(0, 5):\n    print(i)",
+        "range",
+        "list",
+        "enumerate",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "____ True:\n    print('Looping')",
+        "while",
+        "if",
+        "for",
+        "def"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 5\nwhile count > 0:\n    print(count)\n    count ____ 1",
+        "-=",
+        "==",
+        "=",
+        "+="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']\nfor fruit in ____:\n    print(fruit)",
+        "fruits",
+        "range(fruits)",
+        "list",
+        "enumerate(fruits)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "colors = ['red', 'green', 'blue']\nfor index, color in ____(colors):\n    print(index, color)",
+        "enumerate",
+        "range",
+        "zip",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for num in ____(1, 4):\n    print(num ____ 2)",
+        "range",
+        "list",
+        "tuple",
+        "map",
+        "**",
+        "^",
+        "pow",
+        "*"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in ____(1, 3):\n    for j in ____:\n         print((i, j))",
+        "range",
+        "list",
+        "enumerate",
+        "tuple",
+        "['a', 'b']",
+        "('a', 'b')",
+        "set(['a', 'b'])",
+        "{'a': 1}"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "student_grades = {'Alice': 85, 'Bob': 92}\nfor key in ____:\n    print(key, student_grades[key])",
+        "student_grades",
+        "student_grades.keys()",
+        "student_grades.values()",
+        "student_grades.items()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "coordinates = [(1, 2), (3, 4), (5, 6)]\nfor pair in ____(coordinates):\n    print(pair)",
+        "iter",
+        "enumerate",
+        "range",
+        "zip"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "squares = [____ for ____ in ____(1, 6)]\nprint(squares)",
+        "x**2",
+        "x*2",
+        "square",
+        "pow(x, 2)",
+        "x",
+        "i",
+        "num",
+        "item",
+        "range",
+        "list",
+        "enumerate",
+        "tuple"
+      ]
+    }
+  ]
+}

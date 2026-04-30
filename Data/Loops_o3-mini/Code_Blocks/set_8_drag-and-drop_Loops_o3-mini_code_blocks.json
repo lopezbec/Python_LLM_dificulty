@@ -1,0 +1,98 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "if",
+        "_____ i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(_____):\n    print(i)",
+        "5",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "_____ item _____ items:\n    print(item)",
+        "for",
+        "in",
+        "if",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "total = _____\nfor num in numbers:\n    total _____ num\nprint(total)",
+        "0",
+        "*=",
+        "+=",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for ch in 'hello':",
+        "    print(ch)",
+        "print('done')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(0, 10, _____):\n    print(i)",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(2):\n    for j in _____(3):\n        print(i, j)",
+        "range",
+        "list",
+        "tuple"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(3):\n    print(i)\n_____:\n    print('done')",
+        "else",
+        "except",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "i = 0\nwhile _____ < 3:\n    print(i)\n    i _____ 1",
+        "i",
+        "j",
+        "3",
+        "+=",
+        "-="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "i = 5",
+        "while i > 0:",
+        "    print(i)",
+        "    i -= 1",
+        "print('Done')"
+      ]
+    }
+  ]
+}

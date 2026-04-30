@@ -1,0 +1,169 @@
+
+{
+    "questions": [
+        {
+            "question": "Level 1: Basic If-statement Structure",
+            "instruction": "Drag each component to its correct position in the if-statement.",
+            "difficulty": 1,
+            "code_blocks": [
+                "if __condition__:",
+                "    __print_statement__"
+            ],
+            "options": ["x > 0", "print('Positive number')"],
+            "correct_structure": {
+                "__condition__": "x > 0",
+                "__print_statement__": "print('Positive number')"
+            }
+        },
+        {
+            "question": "Level 2: Adding an Else Clause",
+            "instruction": "Arrange the code blocks to create a correct if-else statement.",
+            "difficulty": 2,
+            "code_blocks": [
+                "if __condition__:",
+                "    __print_statement_1__",
+                "else:",
+                "    __print_statement_2__"
+            ],
+            "options": ["x == 5", "print('Equal to five')", "print('Not equal to five')"],
+            "correct_structure": {
+                "__condition__": "x == 5",
+                "__print_statement_1__": "print('Equal to five')",
+                "__print_statement_2__": "print('Not equal to five')"
+            }
+        },
+        {
+            "question": "Level 3: Nested If-Statements",
+            "instruction": "Organize these blocks into a nested if statement.",
+            "difficulty": 3,
+            "code_blocks": [
+                "if __outer_condition__:",
+                "    if __inner_condition__:",
+                "        __print_statement_1__",
+                "    else:",
+                "        __print_statement_2__"
+            ],
+            "options": ["x > 10", "y == 2", "print('Both conditions met')", "print('Only outer condition met')"],
+            "correct_structure": {
+                "__outer_condition__": "x > 10",
+                "__inner_condition__": "y == 2",
+                "__print_statement_1__": "print('Both conditions met')",
+                "__print_statement_2__": "print('Only outer condition met')"
+            }
+        },
+        {
+            "question": "Level 4: Using Else If (Elif)",
+            "instruction": "Rearrange to form a correct if-elif-else structure.",
+            "difficulty": 4,
+            "code_blocks": [
+                "if __condition_1__:",
+                "    __print_statement_1__",
+                "elif __condition_2__:",
+                "    __print_statement_2__",
+                "else:",
+                "    __print_statement_3__"
+            ],
+            "options": ["a < 0", "a == 0", "print('Negative number')", "print('Zero')", "print('Positive number')"],
+            "correct_structure": {
+                "__condition_1__": "a < 0",
+                "__print_statement_1__": "print('Negative number')",
+                "__condition_2__": "a == 0",
+                "__print_statement_2__": "print('Zero')",
+                "__print_statement_3__": "print('Positive number')"
+            }
+        },
+        {
+            "question": "Level 5: Logical Operators",
+            "instruction": "Construct a statement using logical operators.",
+            "difficulty": 5,
+            "code_blocks": [
+                "if __complex_condition__:",
+                "    __print_statement__"
+            ],
+            "options": ["x > 0 and y < 5", "print('Condition met')"],
+            "correct_structure": {
+                "__complex_condition__": "x > 0 and y < 5",
+                "__print_statement__": "print('Condition met')"
+            }
+        },
+        {
+            "question": "Level 6: Multiple Conditions with Or",
+            "instruction": "Formulate a statement that involves an or logic.",
+            "difficulty": 6,
+            "code_blocks": [
+                "if __complex_condition__:",
+                "    __print_statement_1__",
+                "else:",
+                "    __print_statement_2__"
+            ],
+            "options": ["x == 1 or y == 1", "print('One of the conditions is true')", "print('Neither condition is true')"],
+            "correct_structure": {
+                "__complex_condition__": "x == 1 or y == 1",
+                "__print_statement_1__": "print('One of the conditions is true')",
+                "__print_statement_2__": "print('Neither condition is true')"
+            }
+        },
+        {
+            "question": "Level 7: Short-circuit Evaluation",
+            "instruction": "Identify the condition and output of a short-circuit evaluated if statement.",
+            "difficulty": 7,
+            "code_blocks": [
+                "if __condition__:",
+                "    __print_statement__"
+            ],
+            "options": ["x > 0 or y / x > 5", "print('Condition passed')"],
+            "correct_structure": {
+                "__condition__": "x > 0 or y / x > 5",
+                "__print_statement__": "print('Condition passed')"
+            }
+        },
+        {
+            "question": "Level 8: Ternary Conditional Operator",
+            "instruction": "Arrange to use a ternary conditional operator into the if-statement.",
+            "difficulty": 8,
+            "code_blocks": [
+                "__variable__ = __condition__",
+                "__if_true__ if __boolean_expression__ else __if_false__"
+            ],
+            "options": ["'x is even'", "'x is odd'", "x % 2 == 0", "result"],
+            "correct_structure": {
+                "__variable__": "result",
+                "__condition__": "'x is even'",
+                "__boolean_expression__": "x % 2 == 0",
+                "__if_true__": "'x is even'",
+                "__if_false__": "'x is odd'"
+            }
+        },
+        {
+            "question": "Level 9: Checking Membership in Lists",
+            "instruction": "Set up a condition that checks membership within a list.",
+            "difficulty": 9,
+            "code_blocks": [
+                "if __membership_condition__:",
+                "    __print_statement__"
+            ],
+            "options": ["element in my_list", "print('Element found')"],
+            "correct_structure": {
+                "__membership_condition__": "element in my_list",
+                "__print_statement__": "print('Element found')"
+            }
+        },
+        {
+            "question": "Level 10: Using Functions in Conditions",
+            "instruction": "Organize this code to check conditions by calling functions.",
+            "difficulty": 10,
+            "code_blocks": [
+                "if __function_call__:",
+                "    __print_statement_1__",
+                "else:",
+                "    __print_statement_2__"
+            ],
+            "options": ["check_condition(x, y)", "print('Condition is True')", "print('Condition is False')"],
+            "correct_structure": {
+                "__function_call__": "check_condition(x, y)",
+                "__print_statement_1__": "print('Condition is True')",
+                "__print_statement_2__": "print('Condition is False')"
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "topic": "if-statements",
+      "question": "Complete the if-statement so that it always prints 'Hello, World!'.",
+      "instruction": "Drag the correct condition into the blank.",
+      "code": "if ____:\n    print('Hello, World!')",
+      "dragItems": ["True", "False"],
+      "dropZones": ["[condition]"],
+      "correctMapping": {
+        "[condition]": "True"
+      }
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "topic": "if-statements",
+      "question": "Fill in the condition that checks if the variable x is greater than 10.",
+      "instruction": "Drag the correct condition into the blank.",
+      "code": "x = 15\nif ____:\n    print('x is greater than 10')",
+      "dragItems": ["x > 10", "x < 10"],
+      "dropZones": ["[condition]"],
+      "correctMapping": {
+        "[condition]": "x > 10"
+      }
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "topic": "if-statements",
+      "question": "Complete the condition to check if a person is 18 years or older.",
+      "instruction": "Drag the correct condition into the blank.",
+      "code": "age = 20\nif ____:\n    print('Adult')",
+      "dragItems": ["age < 18", "age >= 18", "age == 18"],
+      "dropZones": ["[condition]"],
+      "correctMapping": {
+        "[condition]": "age >= 18"
+      }
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "topic": "if-statements",
+      "question": "Drag the correct keyword to complete the if-elif-else structure.",
+      "instruction": "Drag the correct keyword into the blank to correctly form an if-elif-else statement.",
+      "code": "x = 10\nif x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+      "dragItems": ["elif", "if"],
+      "dropZones": ["[keyword]"],
+      "correctMapping": {
+        "[keyword]": "elif"
+      }
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "topic": "if-statements",
+      "question": "Drag and drop the code blocks to form a correct if-else statement that checks if a number is even.",
+      "instruction": "Arrange the code blocks in the correct order.",
+      "code": "/* Arrange the blocks below: */",
+      "dragItems": [
+        "if x % 2 == 0:\n    print('Even')",
+        "else:\n    print('Not Even')"
+      ],
+      "dropZones": ["[Block 1]", "[Block 2]"],
+      "correctMapping": {
+        "[Block 1]": "if x % 2 == 0:\n    print('Even')",
+        "[Block 2]": "else:\n    print('Not Even')"
+      }
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "topic": "if-statements",
+      "question": "Complete the nested if-statement so that 'Both positive' is printed only when both a and b are greater than 0.",
+      "instruction": "Drag the correct nested if line into the blank.",
+      "code": "a = 5\nb = 3\nif a > 0:\n    ____\n        print('Both positive')",
+      "dragItems": ["if b > 0:"],
+      "dropZones": ["[nested if]"],
+      "correctMapping": {
+        "[nested if]": "if b > 0:"
+      }
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "topic": "if-statements",
+      "question": "Fill in the missing parts to complete the if-elif-else structure that prints 'Low', 'Average', or 'High' based on the score.",
+      "instruction": "Drag the correct condition and keyword into the blanks.",
+      "code": "score = 75\nif ____:\n    print('Low')\n____ score <= 80:\n    print('Average')\nelse:\n    print('High')",
+      "dragItems": ["score < 50", "elif", "if", "score > 80"],
+      "dropZones": ["[condition1]", "[keyword]"],
+      "correctMapping": {
+        "[condition1]": "score < 50",
+        "[keyword]": "elif"
+      }
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "topic": "if-statements",
+      "question": "Drag the correct output that will be printed by the following code when x = -5:",
+      "instruction": "Drag the correct output into the drop zone.",
+      "code": "x = -5\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+      "dragItems": ["Positive", "Zero", "Negative"],
+      "dropZones": ["[output]"],
+      "correctMapping": {
+        "[output]": "Negative"
+      }
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "topic": "if-statements",
+      "question": "Fill in the missing logical operators to check if x is between 0 and 10 (inclusive).",
+      "instruction": "Drag the correct operator into each blank.",
+      "code": "if 0 ____ x ____ 10:\n    print('x is between 0 and 10')",
+      "dragItems": ["<=", ">=", "==", "!="],
+      "dropZones": ["[operator1]", "[operator2]"],
+      "correctMapping": {
+        "[operator1]": "<=",
+        "[operator2]": "<="
+      }
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "topic": "if-statements",
+      "question": "Arrange the following code blocks into the correct order to form a valid Python code that prints 'Valid' only when x is positive and either even or greater than 5. In any other case, it should print 'Invalid'.",
+      "instruction": "Drag and drop the blocks into the correct order (from Block 1 to Block 7).",
+      "code": "/* Scrambled code blocks */",
+      "dragItems": [
+        "A: if x > 0:",
+        "B:     if x % 2 == 0:",
+        "C:         print('Valid')",
+        "D:     elif x > 5:",
+        "E:         print('Valid')",
+        "F: else:",
+        "G:     print('Invalid')"
+      ],
+      "dropZones": ["[Block 1]", "[Block 2]", "[Block 3]", "[Block 4]", "[Block 5]", "[Block 6]", "[Block 7]"],
+      "correctMapping": {
+        "[Block 1]": "A: if x > 0:",
+        "[Block 2]": "B:     if x % 2 == 0:",
+        "[Block 3]": "C:         print('Valid')",
+        "[Block 4]": "D:     elif x > 5:",
+        "[Block 5]": "E:         print('Valid')",
+        "[Block 6]": "F: else:",
+        "[Block 7]": "G:     print('Invalid')"
+      }
+    }
+  ]
+}

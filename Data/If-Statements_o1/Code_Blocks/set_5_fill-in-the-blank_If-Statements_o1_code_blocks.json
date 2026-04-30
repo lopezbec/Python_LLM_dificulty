@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 0 ______",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x > 10:",
+        "    print(\"High\")",
+        "________:",
+        "    print(\"Low\")",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:",
+        "    print(\"Positive\")",
+        "________ x == 0:",
+        "    print(\"Zero\")",
+        "else:",
+        "    print(\"Negative\")",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 5 and __________:",
+        "    print(\"Valid\")",
+        "y != 0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x < 0 ______ x > 10:",
+        "    print(\"True\")",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if ______flag:",
+        "    print(\"Flag is False\")",
+        "not "
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x > 0:",
+        "    ______ y > 10:",
+        "        print(\"Both conditions met\")",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "result = \"Positive\" if x > 0 ______ \"Non-positive\"",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if ______:",
+        "    print(\"You typed:\", user_input)",
+        "(user_input := input('Type something: '))"
+      ]
+    }
+  ]
+}

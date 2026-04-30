@@ -1,0 +1,54 @@
+```json
+[
+    {
+        "question": "An if-statement in Python allows a block of code to be executed only if a specified condition is true.",
+        "answer": "True",
+        "difficulty": 1
+    },
+    {
+        "question": "In Python, an if-statement must be followed by an 'else' statement.",
+        "answer": "False",
+        "difficulty": 2
+    },
+    {
+        "question": "The condition in an if-statement can evaluate to multiple expressions in one line using 'and' or 'or'.",
+        "answer": "True",
+        "difficulty": 3
+    },
+    {
+        "question": "An if-statement can operate without indentation in the code block that follows it.",
+        "answer": "False",
+        "difficulty": 4
+    },
+    {
+        "question": "You can nest if-statements inside each other to create more complex conditions.",
+        "answer": "True",
+        "difficulty": 5
+    },
+    {
+        "question": "Using 'elif' allows for more than two conditions to be checked in an if-statement structure.",
+        "answer": "True",
+        "difficulty": 6
+    },
+    {
+        "question": "A single if-statement can compare multiple variables directly without any logical operators.",
+        "answer": "False",
+        "difficulty": 7
+    },
+    {
+        "question": "In Python, an if-statement can only evaluate numerical types.",
+        "answer": "False",
+        "difficulty": 8
+    },
+    {
+        "question": "An if-statement can include a condition that is always false, but the code will still execute if there are no 'else' or 'elif' clauses.",
+        "answer": "True",
+        "difficulty": 9
+    },
+    {
+        "question": "The keyword 'if' can be used to create a loop in Python.",
+        "answer": "False",
+        "difficulty": 10
+    }
+]
+```

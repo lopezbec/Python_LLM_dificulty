@@ -1,0 +1,117 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if __condition__:",
+        "    __print_statement__",
+        "x > 0",
+        "print('Positive number')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if __condition__:",
+        "    __print_statement_1__",
+        "else:",
+        "    __print_statement_2__",
+        "x == 5",
+        "print('Equal to five')",
+        "print('Not equal to five')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if __outer_condition__:",
+        "    if __inner_condition__:",
+        "        __print_statement_1__",
+        "    else:",
+        "        __print_statement_2__",
+        "x > 10",
+        "y == 2",
+        "print('Both conditions met')",
+        "print('Only outer condition met')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if __condition_1__:",
+        "    __print_statement_1__",
+        "elif __condition_2__:",
+        "    __print_statement_2__",
+        "else:",
+        "    __print_statement_3__",
+        "a < 0",
+        "a == 0",
+        "print('Negative number')",
+        "print('Zero')",
+        "print('Positive number')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if __complex_condition__:",
+        "    __print_statement__",
+        "x > 0 and y < 5",
+        "print('Condition met')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if __complex_condition__:",
+        "    __print_statement_1__",
+        "else:",
+        "    __print_statement_2__",
+        "x == 1 or y == 1",
+        "print('One of the conditions is true')",
+        "print('Neither condition is true')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if __condition__:",
+        "    __print_statement__",
+        "x > 0 or y / x > 5",
+        "print('Condition passed')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "__variable__ = __condition__",
+        "__if_true__ if __boolean_expression__ else __if_false__",
+        "'x is even'",
+        "'x is odd'",
+        "x % 2 == 0",
+        "result"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if __membership_condition__:",
+        "    __print_statement__",
+        "element in my_list",
+        "print('Element found')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if __function_call__:",
+        "    __print_statement_1__",
+        "else:",
+        "    __print_statement_2__",
+        "check_condition(x, y)",
+        "print('Condition is True')",
+        "print('Condition is False')"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if ____:",
+        "condition",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'5 > 3'",
+        "if-statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "False",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "scope"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "logical operators"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statements"
+      ]
+    }
+  ]
+}

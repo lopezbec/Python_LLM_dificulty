@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following is the correct basic syntax for an if statement in Python?",
+      "options": [
+        "A) if condition:",
+        "B) if (condition)",
+        "C) if condition then:",
+        "D) If condition:"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which keyword do you use to handle the scenario when an if statement’s condition is not met?",
+      "options": [
+        "A) else",
+        "B) elif",
+        "C) try",
+        "D) except"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 3,
+      "question": "What will be printed by the following code?\n\nx = 10\nif x > 5:\n    print(\"Greater\")\nif x > 8:\n    print(\"Even Greater\")",
+      "options": [
+        "A) Prints nothing",
+        "B) Greater\nEven Greater",
+        "C) Greater",
+        "D) Error due to invalid syntax"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 4,
+      "question": "Which of the following is true about if statements in Python?",
+      "options": [
+        "A) They must always be followed by a semicolon",
+        "B) Indentation determines which statements are executed within the if block",
+        "C) The colon (:) is optional after the condition",
+        "D) Python does not support nested if statements"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 5,
+      "question": "Consider the code:\n\nnumber = 7\nif number < 5:\n    print(\"Less than 5\")\nelif number < 10:\n    print(\"Between 5 and 10\")\nelse:\n    print(\"10 or more\")\n\nWhat is the output?",
+      "options": [
+        "A) Less than 5",
+        "B) Between 5 and 10",
+        "C) 10 or more",
+        "D) Error: 'elif' is not a valid keyword"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 6,
+      "question": "Which of the following statements about if-elif-else blocks in Python is correct?",
+      "options": [
+        "A) Only one block can be executed even if multiple conditions are true",
+        "B) All conditions that evaluate to True will be executed",
+        "C) The else block always runs regardless of conditions",
+        "D) 'elif' can appear multiple times only if there is no 'else'"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 7,
+      "question": "In Python, what happens if none of the if or elif conditions are True and an else clause is specified?",
+      "options": [
+        "A) The program raises a SyntaxError",
+        "B) The first if statement is re-executed",
+        "C) The statements within the else block are run",
+        "D) Nothing happens; the else is ignored"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "difficulty": 8,
+      "question": "Which of the following best describes how Python evaluates a chained conditional like this?\n\nif x > 10:\n    # do something\nelif x > 5:\n    # do something else\nelse:\n    # do another thing",
+      "options": [
+        "A) Python checks all conditions and executes all matching blocks",
+        "B) Python checks each condition in order and executes the first matching block",
+        "C) Python randomly picks a condition to check first",
+        "D) Python compiles all conditions into a single expression"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "difficulty": 9,
+      "question": "What will the following code output?\n\nx = 4\nif x % 2 == 0 and x < 5:\n    print(\"Small even\")\nelif x % 2 == 0 and x < 10:\n    print(\"Medium even\")\nelse:\n    print(\"Other\")",
+      "options": [
+        "A) Small even",
+        "B) Medium even",
+        "C) Other",
+        "D) Syntax error"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "difficulty": 10,
+      "question": "Which statement about nested if structures is most accurate in Python?",
+      "options": [
+        "A) Nested if statements are not allowed in Python",
+        "B) The inner if statement can only run if the outer if statement’s condition is True",
+        "C) Each nested if must use 'elif' instead of 'if'",
+        "D) Indentation is not required in nested if statements"
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

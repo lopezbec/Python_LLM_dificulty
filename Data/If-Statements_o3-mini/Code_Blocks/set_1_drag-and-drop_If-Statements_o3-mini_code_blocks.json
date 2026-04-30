@@ -1,0 +1,136 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "5 > 3:",
+        "print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "x > 0:",
+        "print('Positive')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "num % 2 == 0:",
+        "print('Even')",
+        "else:",
+        "print('Odd')",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "score >= 90:",
+        "print('A')",
+        "elif",
+        "score >= 80:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "score"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "temperature > 30:",
+        "if",
+        "humidity > 70:",
+        "print('Hot and Humid')",
+        "else:",
+        "print('Hot')",
+        "temperature",
+        "humidity"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "user == 'admin':",
+        "if",
+        "password == '1234':",
+        "print('Access granted')",
+        "else:",
+        "print('Wrong password')",
+        "else:",
+        "print('No access')",
+        "user",
+        "password"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "num >= 10",
+        "and",
+        "num <= 20",
+        ":",
+        "print('In range')",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "not",
+        "(",
+        "input_value.isdigit()",
+        "and",
+        "int(input_value) > 0",
+        ")",
+        ":",
+        "print('Invalid input')",
+        "input_value"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "a > b:",
+        "if",
+        "a > c:",
+        "print('a is largest')",
+        "elif",
+        "c > a:",
+        "print('c is largest')",
+        "else:",
+        "print('a and c are equal')",
+        "else:",
+        "print('b is largest')",
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "(n := len(input_str))",
+        ">",
+        "5",
+        ":",
+        "print('Long string, length:', n)",
+        "n",
+        "input_str"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "keyword",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if statement",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if statement",
+        "indented"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-elif-else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "not"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x > 10:",
+        "print('Greater than 10')",
+        "_____ x == 10:",
+        "print('Equal to 10')",
+        "else:",
+        "print('Less than 10')",
+        "elif"
+      ]
+    }
+  ]
+}

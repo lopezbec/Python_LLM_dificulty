@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if number > 10:",
+        "if number < 10:",
+        "if number == 10:",
+        "if number >= 10:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x = 5:",
+        "if x == 5:",
+        "if x != 5:",
+        "if x > 5:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "print('Fail')",
+        "if score < 50:"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if status == 'active':",
+        "print('User is inactive')",
+        "print('User is active')",
+        "if status != 'active':",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "print('Needs Improvement')",
+        "elif grade == 'B':",
+        "if grade == 'A':",
+        "print('Excellent')",
+        "print('Good')",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if age > 18:",
+        "print('Eligible to drive')",
+        "if has_license:",
+        "if age < 18:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "print('It's pleasant!')",
+        "print('It's hot!')",
+        "elif temperature == 'cold':",
+        "if temperature == 'hot':",
+        "print('It's cold!')",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x > 10 and y < 5:",
+        "print('Condition Met')",
+        "if x < 10 and y > 5:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "print('Access denied')",
+        "if user_role == 'admin':",
+        "print('Access granted')",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if balance > 1000 or balance >= savings - 500:",
+        "print('Sufficient funds')",
+        "if balance < 500:"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "x",
+        "if x __________ 5:",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "False",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "boolean"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Python",
+        "variables 'a' and 'b'",
+        "if-statement",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if-statement",
+        "if-statement",
+        "if-statement",
+        "multiple"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'x'",
+        "if-statement",
+        "else if"
+      ]
+    }
+  ]
+}

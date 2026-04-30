@@ -1,0 +1,97 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x = 5 then",
+        "if x == 5:",
+        "if (x == 5)",
+        "if x equal 5:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "    print(\"Greater\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "num = 7",
+        "if num % 2 == 0:",
+        "    print(\"Even\")",
+        "else:",
+        "    print(\"Odd\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "&&",
+        "AND",
+        "&",
+        "OR"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 15",
+        "if x > 10:",
+        "    if x < 20:",
+        "        print(\"Between 10 and 20\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score = 85",
+        "if score >= 90:",
+        "    grade = 'A'",
+        "elif score >= 80:",
+        "    grade = 'B'",
+        "else:",
+        "    grade = 'C'",
+        "print(grade)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 10",
+        "y = 20",
+        "if x > 5:",
+        "    if y > 25:",
+        "        print(\"A\")",
+        "    elif y > 15:",
+        "        print(\"B\")",
+        "    else:",
+        "        print(\"C\")",
+        "else:",
+        "    print(\"D\")"
+      ]
+    }
+  ]
+}

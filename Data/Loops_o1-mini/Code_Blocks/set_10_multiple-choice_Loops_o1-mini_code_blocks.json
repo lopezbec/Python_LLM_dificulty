@@ -1,0 +1,73 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(5)",
+        "for i = 0; i < 5; i++",
+        "loop from 1 to 5",
+        "for (i < 5; i += 1)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "i = 0\nwhile i < 3:\n    print(i)\n    i += 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break",
+        "continue",
+        "exit",
+        "stop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "Python loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for item in [1, 2, 3]:\n    if item == 2:\n        continue\n    print(item)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "result = []\nfor i in range(3):\n    for j in range(2):\n        result.append(i * j)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "enumerate",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def generator():\n    i = 0\n    while True:\n        yield i\n        i += 1\n\ngen = generator()\nfor _ in range(5):\n    print(next(gen))"
+      ]
+    }
+  ]
+}

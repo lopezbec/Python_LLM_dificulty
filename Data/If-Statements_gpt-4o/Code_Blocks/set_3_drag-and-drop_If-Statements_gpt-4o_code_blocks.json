@@ -1,0 +1,110 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if __condition__: \n    print(\"Hello World!\")",
+        "x > 5",
+        "x < 10",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x __condition__ y: \n    print(\"x is greater\")\nelse:\n    print(\"y is greater or equal\")",
+        "x",
+        "y",
+        ">",
+        "<",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if a __operator__ b: \n    print(\"a equals b\")",
+        "a",
+        "b",
+        "!=",
+        "==",
+        ">",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if __lower__ score __upper__: \n    print(\"Score is valid\")",
+        "score",
+        "50 <=",
+        "<= 100",
+        "< 50",
+        "> 100"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if number __condition1__: \n    print(\"Positive\")\nelif number __condition2__: \n    print(\"Negative\")\nelse: \n    print(\"Zero\")",
+        "number",
+        "> 0",
+        "< 0",
+        "== 0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x % 2 == 0 __logical_operator__ x % 3 == 0: \n    print(\"Divisible by both 2 and 3\")",
+        "x % 2 == 0",
+        "x % 3 == 0",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if __check__: \n    print(\"Name is present\")",
+        "name != \"\"",
+        "len(name) > 0",
+        "name is not None"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if a > b __op1__ a < c and b != d __op2__ c == d: \n    print(\"Complex condition met\")",
+        "a > b",
+        "a < c",
+        "b != d",
+        "c == d",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "grade = __condition__ if score >= 90 else __alternative__",
+        "score >= 90",
+        "\"A\"",
+        "\"B\"",
+        "\"C\""
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x > 10: \n    if y < 5: \n        __inner_statement__\nelse:\n    print(\"x is not greater than 10\")",
+        "x > 10",
+        "y < 5",
+        "print(\"Valid Range\")",
+        "continue",
+        "break"
+      ]
+    }
+  ]
+}

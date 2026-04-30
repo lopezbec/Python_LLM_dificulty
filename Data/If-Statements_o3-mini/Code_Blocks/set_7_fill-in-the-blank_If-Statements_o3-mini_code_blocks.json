@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x > 0",
+        "print('x is positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 10:",
+        "print('High')",
+        "else:",
+        "print('Low')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x > 10:",
+        "print('Too high')",
+        "elif x > 5:",
+        "print('Normal')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:",
+        "if x % 2 __ 0:",
+        "print('Even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if score >= 90____ print('Excellent')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if n % 3 == 0 ______ n % 5 == 0:",
+        "print('Divisible by both')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if condition_met:",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if ______ == '__main__':",
+        "main()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if ______ flag:",
+        "print('Flag is false')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (n ______= len(my_list)) > 0:",
+        "print(n)"
+      ]
+    }
+  ]
+}

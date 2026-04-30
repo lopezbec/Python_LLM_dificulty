@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "Python",
+        "block of code"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "range function",
+        "sequence of numbers"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "loop control variable",
+        "declared outside the loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "nested loop",
+        "loop inside another loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "continue statement",
+        "loop",
+        "current iteration",
+        "next iteration"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while loop",
+        "condition",
+        "false"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for loop",
+        "iterate over strings",
+        "character in the string"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "Python",
+        "iterations",
+        "while loop",
+        "runtime"
+      ]
+    }
+  ]
+}

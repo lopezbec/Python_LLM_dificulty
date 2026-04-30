@@ -1,0 +1,115 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "What is the primary purpose of using a loop in Python?",
+            "options": [
+                "A) To repeat a block of code multiple times",
+                "B) To call a function",
+                "C) To declare variables",
+                "D) To import libraries"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "difficulty": 2,
+            "question": "How many times will the following loop execute?\n\nfor i in range(3):\n    print(i)",
+            "options": [
+                "A) 1",
+                "B) 2",
+                "C) 3",
+                "D) 4"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 3,
+            "question": "What will be the output of the following code?\n\nresult = []\nfor i in 'abcd':\n    result.append(i)\nprint(result)",
+            "options": [
+                "A) ['a', 'ab', 'abc', 'abcd']",
+                "B) ['abcd']",
+                "C) ['a', 'b', 'c', 'd']",
+                "D) ['d', 'c', 'b', 'a']"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 4,
+            "question": "Which of the following keywords is used to exit a loop early?",
+            "options": [
+                "A) continue",
+                "B) escape",
+                "C) pass",
+                "D) break"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "difficulty": 5,
+            "question": "What will happen if the conditional statement in a 'while' loop never becomes false?",
+            "options": [
+                "A) The loop will exit immediately.",
+                "B) The loop will run forever.",
+                "C) The program will execute a 'break' automatically.",
+                "D) None of the above."
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 6,
+            "question": "What will the following code output?\n\ni = 0\nwhile i < 3:\n    i += 1\n    if i == 2:\n        continue\n    print(i)",
+            "options": [
+                "A) 1\n3",
+                "B) 1\n2\n3",
+                "C) 2\n3",
+                "D) 1\n2"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "difficulty": 7,
+            "question": "What is the purpose of the 'else' clause in a loop statement?",
+            "options": [
+                "A) To handle exceptions",
+                "B) To run a block of code if the loop is exited normally",
+                "C) To exit the loop",
+                "D) None of the above"
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 8,
+            "question": "Analyze this code snippet. How many times does the inner loop execute in total?\n\nfor i in range(3):\n    for j in range(2):\n        print(i, j)",
+            "options": [
+                "A) 2",
+                "B) 3",
+                "C) 6",
+                "D) 9"
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 9,
+            "question": "If the range function range(start, stop, step) is used inside a 'for' loop, what will happen if 'step' is set to 0?",
+            "options": [
+                "A) The loop will run backwards.",
+                "B) The loop will not run.",
+                "C) A ValueError will occur.",
+                "D) The loop will run indefinitely."
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 10,
+            "question": "Given this complex loop, what is the final output?\n\nresult = 0\nfor i in range(1, 4):\n    for j in range(1, 3):\n        if i * j % 2 == 0:\n            result += i + j\nprint(result)",
+            "options": [
+                "A) 0",
+                "B) 12",
+                "C) 18",
+                "D) 24"
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

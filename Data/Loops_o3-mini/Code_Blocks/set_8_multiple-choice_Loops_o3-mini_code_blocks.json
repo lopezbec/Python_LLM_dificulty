@@ -1,0 +1,81 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "while",
+        "for",
+        "iterate"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "enumerate",
+        "range",
+        "list",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while True: print(\"Hello\")",
+        "while (True) print(\"Hello\")",
+        "while True { print(\"Hello\") }",
+        "loop True: print(\"Hello\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue",
+        "skip",
+        "break",
+        "exit"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "count = 0\nwhile count < 3:\n    count += 1\n    print(count)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "my_list[:]"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "i = 0\nnums = []\nwhile i < 5:\n    nums.append(i)\n    i += 2",
+        "nums"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for loop",
+        "next()"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "O(n)",
+        "O(n^2)",
+        "O(n log n)",
+        "O(n^3)"
+      ]
+    }
+  ]
+}

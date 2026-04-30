@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "condition",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "elif",
+        "if-else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "indentation",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        ":",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "{ }"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "Boolean",
+        "function calls"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-elif-else",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "nested if",
+        "if",
+        "False"
+      ]
+    }
+  ]
+}

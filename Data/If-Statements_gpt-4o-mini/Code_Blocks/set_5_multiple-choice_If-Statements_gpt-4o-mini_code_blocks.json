@@ -1,0 +1,72 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if True: \n    print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if 5 > 3: \n    print('Five is greater than three')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if 2 == 2: \n    print('Equal')\nelse: \n    print('Not Equal')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x == 10: \n    print('X is ten')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if a < b:\n    answer = 'A is less than B'\nelse:\n    answer = 'A is not less than B'",
+        "answer",
+        "a = 5",
+        "b = 10"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x:\n    print('True')\nelse:\n    print('False')",
+        "x = 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = -1\nif x > 0:\n    print('Positive')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Negative')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (5 == 5) and (3 > 2):\n    print('Both conditions are true')\nelse:\n    print('At least one condition is false')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if 'Hello' in 'Hello World':\n    print('Found')\nelse:\n    print('Not found')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "a = '10'\nb = 10\nif a == b:\n    print('Equal')\nelif int(a) == b:\n    print('Both are same when converted')\nelse:\n    print('Different')",
+        "a",
+        "b"
+      ]
+    }
+  ]
+}

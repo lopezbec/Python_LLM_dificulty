@@ -1,0 +1,113 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(1, 4):",
+        "for i in range(3):",
+        "for i in range(0, 3):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "while x < 5:",
+        "while x == 5:",
+        "while x > 5:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "y",
+        "if y < 10: break",
+        "if y > 10: break",
+        "if y == 10: break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "total = 0\nfor i in range(0, n): total += i",
+        "total = 0\nfor i in range(n): total += i",
+        "total = 0\nfor i in range(1, n+1): total += i",
+        "n",
+        "total"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in iterable:\n    do_something()\nelse:\n    completed()",
+        "for i in iterable:\n    do_something()\n\nelse:\n    has_finished()",
+        "for i in iterable:\n    do_something()\nelse:\n    finished()",
+        "iterable",
+        "do_something()",
+        "completed()",
+        "has_finished()",
+        "finished()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(1, 5):\n    for j in range(1, 5):\n        print(i * j)",
+        "for i in range(1, 5):\n    for j in range(5):\n        print(i * j)",
+        "for i in range(0, 5):\n    for j in range(1, 6):\n        print(i * j)",
+        "i",
+        "j",
+        "print(i * j)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(len(my_list)):\n    my_list[i] *= 2",
+        "for i in my_list:\n    my_list[i] *= 2",
+        "for i in my_list:\n    my_list[i] = my_list[i] * 2",
+        "my_list",
+        "i"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "count = 0\nfor number in numbers:\n    if number % 2 != 0:\n        count += 1\nprint(count)",
+        "count = 0\nfor number in numbers:\n    if number % 2 == 0:\n        count += 1\nprint(count)",
+        "count = 0\nfor number in numbers:\n    if number % 2 == 1:\n        count += 1\nprint(count)",
+        "count",
+        "number",
+        "numbers",
+        "number % 2 != 0",
+        "number % 2 == 0",
+        "number % 2 == 1",
+        "print(count)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(start, -1, -1): print(i)",
+        "for i in range(start, 0, -1): print(i)",
+        "for i in range(start, 0): print(i)",
+        "start",
+        "i",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "a, b = 0, 1\nwhile a <= limit:\n    print(a)\n    a, b = b, a + b",
+        "a, b = 0, 1\nfor i in range(limit):\n    print(a)\n    a, b = b, a + b",
+        "a, b = 0, 1\ndo:\n    print(a)\n    a, b = b, a + b\nwhile a <= limit",
+        "a",
+        "b",
+        "limit",
+        "print(a)",
+        "a, b = b, a + b"
+      ]
+    }
+  ]
+}

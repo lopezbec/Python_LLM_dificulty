@@ -1,0 +1,120 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 5\n_____ x == 5:\n    print(\"Correct\")",
+        "x",
+        "if",
+        "def",
+        "while",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 12\nif __________:\n    print(\"Too big\")",
+        "x",
+        "x == 10",
+        "x > 10",
+        "x < 10",
+        "x >= 12"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 3\nif x __________ 5:\n    print(\"Yes\")",
+        "x",
+        "!=",
+        "==",
+        ">=",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "temperature = 105\nif temperature > 100:\n    print(\"Too hot!\")\n________:\n    print(\"Just right!\")",
+        "temperature",
+        "if",
+        "else",
+        "elif",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 50\n________ x < 20:\n    print(\"Less than 20\")\n________ x < 100:\n    print(\"Less than 100\")\n________:\n    print(\"100 or more\")",
+        "x",
+        "if",
+        "print",
+        "elif",
+        "while",
+        "for",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 15\nif 10 <= x __________ x <= 20:\n    print(\"Valid\")",
+        "x",
+        "and",
+        "or",
+        "not",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 25\nif (0 <= x <= 10) __________ (20 <= x <= 30):\n    print(\"In range!\")",
+        "x",
+        "and",
+        "or",
+        "not",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "door = 'locked'\nkey = True\nif door __________ 'locked' __________ key:\n    print(\"Open\")",
+        "door",
+        "key",
+        "==",
+        "!=",
+        "and",
+        "or",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "guest_count = 7\n________ guest_count == 0:\n    print(\"No guests\")\n________ guest_count < 5:\n    print(\"Small gathering\")\n________:\n    print(\"Big party!\")",
+        "guest_count",
+        "if",
+        "elif",
+        "else",
+        "for",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 14\nif x % 2 == 0:\n    ________ x > 10:\n        print(\"Large even\")\n    ________:\n        print(\"Small even\")",
+        "x",
+        "if",
+        "else",
+        "elif",
+        "while",
+        "for"
+      ]
+    }
+  ]
+}

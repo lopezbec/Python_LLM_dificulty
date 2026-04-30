@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "question": "What is the correct structure of a 'for' loop in Python?",
+      "options": [
+        "for i in range(10):",
+        "for (i = 0; i < 10; i++):",
+        "foreach i in range(10):",
+        "loop i from 0 to 10:"
+      ],
+      "correctOption": "for i in range(10):",
+      "difficulty": 1
+    },
+    {
+      "question": "Order the parts to create a while loop that prints numbers from 1 to 5.",
+      "options": [
+        "count = 1",
+        "while count <= 5:",
+        "print(count)",
+        "count += 1"
+      ],
+      "correctOrder": [
+        "count = 1",
+        "while count <= 5:",
+        "print(count)",
+        "count += 1"
+      ],
+      "difficulty": 2
+    },
+    {
+      "question": "Drag and drop to complete the 'for' loop that prints even numbers from 0 to 10.",
+      "options": [
+        "for i in range(0, 11, 2):",
+        "for i in range(1, 11):",
+        "if i % 2 == 0:",
+        "print(i)"
+      ],
+      "correctOrder": [
+        "for i in range(0, 11, 2):",
+        "print(i)"
+      ],
+      "difficulty": 3
+    },
+    {
+      "question": "Complete the syntax of the loop that continues until a variable reaches 10.",
+      "options": [
+        "while x < 10:",
+        "print(x)",
+        "x = x + 1"
+      ],
+      "correctOrder": [
+        "while x < 10:",
+        "print(x)",
+        "x = x + 1"
+      ],
+      "difficulty": 4
+    },
+    {
+      "question": "Arrange the components of a nested loop that prints pairs of numbers (i, j) where i ranges from 1 to 3 and j from 1 to 2.",
+      "options": [
+        "for i in range(1, 4):",
+        "for j in range(1, 3):",
+        "print(i, j)"
+      ],
+      "correctOrder": [
+        "for i in range(1, 4):",
+        "for j in range(1, 3):",
+        "print(i, j)"
+      ],
+      "difficulty": 5
+    },
+    {
+      "question": "Structure the loop to break when a number equals 3.",
+      "options": [
+        "for number in range(6):",
+        "if number == 3:",
+        "break",
+        "print(number)"
+      ],
+      "correctOrder": [
+        "for number in range(6):",
+        "print(number)",
+        "if number == 3:",
+        "break"
+      ],
+      "difficulty": 6
+    },
+    {
+      "question": "Arrange the components to loop through a list and print its items.",
+      "options": [
+        "items = ['apple', 'banana', 'cherry']",
+        "for item in items:",
+        "print(item)"
+      ],
+      "correctOrder": [
+        "items = ['apple', 'banana', 'cherry']",
+        "for item in items:",
+        "print(item)"
+      ],
+      "difficulty": 7
+    },
+    {
+      "question": "Complete the loop to sum the first 5 integer numbers.",
+      "options": [
+        "total = 0",
+        "for i in range(1, 6):",
+        "total += i",
+        "print(total)"
+      ],
+      "correctOrder": [
+        "total = 0",
+        "for i in range(1, 6):",
+        "total += i",
+        "print(total)"
+      ],
+      "difficulty": 8
+    },
+    {
+      "question": "Structure the code to create a multiplication table for numbers 1 through 5 using nested loops.",
+      "options": [
+        "for i in range(1, 6):",
+        "for j in range(1, 6):",
+        "print(i * j)"
+      ],
+      "correctOrder": [
+        "for i in range(1, 6):",
+        "for j in range(1, 6):",
+        "print(i * j)"
+      ],
+      "difficulty": 9
+    },
+    {
+      "question": "Arrange the code that takes user input and keeps looping until the user types 'exit'.",
+      "options": [
+        "user_input = ''",
+        "while user_input != 'exit':",
+        "user_input = input('Type something (type exit to quit): ')",
+        "print(user_input)"
+      ],
+      "correctOrder": [
+        "user_input = ''",
+        "while user_input != 'exit':",
+        "user_input = input('Type something (type exit to quit): ')",
+        "print(user_input)"
+      ],
+      "difficulty": 10
+    }
+  ]
+}

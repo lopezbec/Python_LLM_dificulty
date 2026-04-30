@@ -1,0 +1,201 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "topic": "Loops",
+      "question": "Drag and drop the following components to form a valid Python for loop that prints numbers from 0 to 2.",
+      "drag_items": [
+        "    print(i)",
+        "for i in range(3):"
+      ],
+      "correct_order": [
+        "for i in range(3):",
+        "    print(i)"
+      ]
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "topic": "Loops",
+      "question": "Arrange the fragments to create a valid while loop that prints numbers until i becomes 3.",
+      "drag_items": [
+        "    print(i)",
+        "i = 0",
+        "while i < 3:",
+        "    i += 1"
+      ],
+      "correct_order": [
+        "i = 0",
+        "while i < 3:",
+        "    print(i)",
+        "    i += 1"
+      ]
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "topic": "Loops",
+      "question": "Drag and drop the pieces to form a nested for loop that prints all coordinate pairs (i, j) for i and j in range(0, 2).",
+      "drag_items": [
+        "    for j in range(2):",
+        "for i in range(2):",
+        "        print(i, j)"
+      ],
+      "correct_order": [
+        "for i in range(2):",
+        "    for j in range(2):",
+        "        print(i, j)"
+      ]
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "topic": "Loops",
+      "question": "Arrange the following code blocks to create a for loop that iterates over the list [1, 2, 3] and prints 'Even' for even numbers.",
+      "drag_items": [
+        "    if num % 2 == 0:",
+        "for num in [1, 2, 3]:",
+        "        print('Even')"
+      ],
+      "correct_order": [
+        "for num in [1, 2, 3]:",
+        "    if num % 2 == 0:",
+        "        print('Even')"
+      ]
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "topic": "Loops",
+      "question": "Drag and drop the segments to form a for loop that prints numbers from 0 to 4, but stops when the number equals 3.",
+      "drag_items": [
+        "    if i == 3:",
+        "for i in range(5):",
+        "        break",
+        "    print(i)"
+      ],
+      "correct_order": [
+        "for i in range(5):",
+        "    if i == 3:",
+        "        break",
+        "    print(i)"
+      ]
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "topic": "Loops",
+      "question": "Arrange the code fragments to form a while loop that increments i from 0 and prints only odd numbers until i reaches 5, skipping even numbers using continue.",
+      "drag_items": [
+        "    if i % 2 == 0:",
+        "i = 0",
+        "    print(i)",
+        "while i < 5:",
+        "    i += 1",
+        "        continue"
+      ],
+      "correct_order": [
+        "i = 0",
+        "while i < 5:",
+        "    i += 1",
+        "    if i % 2 == 0:",
+        "        continue",
+        "    print(i)"
+      ]
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "topic": "Loops",
+      "question": "Drag and drop the following components to build a for loop with an else clause that prints 'Done' after normal completion.",
+      "drag_items": [
+        "else:",
+        "for num in range(3):",
+        "    print(num)",
+        "    print('Done')"
+      ],
+      "correct_order": [
+        "for num in range(3):",
+        "    print(num)",
+        "else:",
+        "    print('Done')"
+      ]
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "topic": "Loops",
+      "question": "Arrange the fragments to create a nested loop: an outer loop iterating over i in range(1, 4) with an inner loop iterating over j in range(1, 4) where if i equals j the inner loop breaks, and an else clause in the outer loop prints 'No Break'.",
+      "drag_items": [
+        "    for j in range(1, 4):",
+        "        if i == j:",
+        "            break",
+        "for i in range(1, 4):",
+        "    else:",
+        "        print('No Break')",
+        "        print(i, j)",
+        "        print(i, j)"
+      ],
+      "correct_order": [
+        "for i in range(1, 4):",
+        "    for j in range(1, 4):",
+        "        if i == j:",
+        "            break",
+        "        print(i, j)",
+        "    else:",
+        "        print('No Break')"
+      ]
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "topic": "Loops",
+      "question": "Drag and drop the code segments to form a while loop that continuously prompts the user for a number, adds it to a total, and exits when the total exceeds 10.",
+      "drag_items": [
+        "while total <= 10:",
+        "    num = int(input('Enter a number: '))",
+        "total = 0",
+        "    total += num",
+        "print('Total exceeded 10')"
+      ],
+      "correct_order": [
+        "total = 0",
+        "while total <= 10:",
+        "    num = int(input('Enter a number: '))",
+        "    total += num",
+        "print('Total exceeded 10')"
+      ]
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "topic": "Loops",
+      "question": "Arrange the following fragments to form a complex loop that iterates over a matrix, prints odd numbers while skipping even numbers using continue, includes an else clause for complete rows, and breaks the loop when the first element of a row is 3.",
+      "drag_items": [
+        "matrix = [[1, 2], [3, 4]]",
+        "    for num in row:",
+        "        if num % 2 == 0:",
+        "for row in matrix:",
+        "        continue",
+        "    if row[0] == 3:",
+        "        break",
+        "        print(num)",
+        "    else:",
+        "        print('Row complete')"
+      ],
+      "correct_order": [
+        "matrix = [[1, 2], [3, 4]]",
+        "for row in matrix:",
+        "    for num in row:",
+        "        if num % 2 == 0:",
+        "            continue",
+        "        print(num)",
+        "    else:",
+        "        print('Row complete')",
+        "    if row[0] == 3:",
+        "        break"
+      ]
+    }
+  ]
+}

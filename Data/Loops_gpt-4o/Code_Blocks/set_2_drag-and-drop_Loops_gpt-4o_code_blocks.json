@@ -1,0 +1,133 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "x",
+        "range(5):",
+        "in",
+        "if",
+        "else",
+        "while",
+        "for x ___ range(5):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "==",
+        "i",
+        "print",
+        "10",
+        "while ____ < ____ :"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for",
+        "i",
+        "reversed",
+        "range",
+        "len",
+        "for i in ____ (my_list):"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(1, 6):",
+        ":",
+        "print(i)",
+        " ",
+        "for i in range(1, 6):",
+        " ",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "i",
+        "range",
+        "0",
+        "3",
+        "4",
+        "5",
+        "for i in range(___):"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "char",
+        "in",
+        "string",
+        "for",
+        "___",
+        "___",
+        " 'Hello':",
+        "print(char)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "condition",
+        "break",
+        "return",
+        "stop",
+        "end",
+        "if condition: ____"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "print(i)",
+        "i",
+        "while i >= 0:",
+        "i -= 1",
+        "i = 10",
+        "while i >= 0:",
+        "print(i)",
+        "i -= 1"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for",
+        "j",
+        "range",
+        "row",
+        "for",
+        "____",
+        "in matrix:",
+        "for",
+        "____",
+        "in",
+        "____:",
+        "print(cell)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "gen = (x ** 2 for x in range(5))",
+        "print(num)",
+        "for num in gen:",
+        " ",
+        "gen = (x ** 2 for x in range(5))",
+        "for num in gen:",
+        " ",
+        "print(num)"
+      ]
+    }
+  ]
+}

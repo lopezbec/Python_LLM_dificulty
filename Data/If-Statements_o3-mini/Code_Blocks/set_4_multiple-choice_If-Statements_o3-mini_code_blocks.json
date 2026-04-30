@@ -1,0 +1,109 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'if'"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 7",
+        "if x > 5:",
+        "print('High')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "num = 3",
+        "if num % 2 == 0:",
+        "print('Even')",
+        "else:",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10",
+        "if x == 10:",
+        "print('Ten')",
+        "else:",
+        "print('Not Ten')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "=="
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "score = 85",
+        "if score >= 90:",
+        "print('A')",
+        "elif score >= 80:",
+        "print('B')",
+        "else:",
+        "print('C')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 15",
+        "if num % 3 == 0 and num % 5 == 0:",
+        "print('FizzBuzz')",
+        "elif num % 3 == 0:",
+        "print('Fizz')",
+        "elif num % 5 == 0:",
+        "print('Buzz')",
+        "else:",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 0",
+        "if x:",
+        "print('True')",
+        "else:",
+        "print('False')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 5",
+        "if x > 0:",
+        "if x % 2 == 0:",
+        "print('Positive even')",
+        "else:",
+        "print('Positive odd')",
+        "else:",
+        "print('Non-positive')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 12",
+        "y = 8",
+        "if x > 10:",
+        "if y < 10:",
+        "print('A')",
+        "elif y == 8:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "else:",
+        "print('D')"
+      ]
+    }
+  ]
+}

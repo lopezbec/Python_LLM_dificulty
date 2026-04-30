@@ -1,0 +1,97 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "Python",
+        "'___'",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'___'",
+        "loop",
+        "Python",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "Python",
+        "'___'",
+        "statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'for'",
+        "loop",
+        "built-in function",
+        "'___'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Python",
+        "'___'",
+        "statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'for index, value in enumerate(my_list):'",
+        "'___'",
+        "index"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "range(10, 0, ___)",
+        "'___'",
+        "-1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Nested loops",
+        "loops",
+        "loop",
+        "'___'",
+        "outer"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'while'",
+        "loop",
+        "loop variable",
+        "'___'",
+        "infinite"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehensions",
+        "'for'",
+        "loop",
+        "[x**2 for x in range(5)]",
+        "'for x in range(5)'",
+        "loop",
+        "'___'",
+        "list"
+      ]
+    }
+  ]
+}

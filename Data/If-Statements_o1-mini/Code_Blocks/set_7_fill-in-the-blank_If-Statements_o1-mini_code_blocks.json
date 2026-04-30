@@ -1,0 +1,132 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 10 ___",
+        "x",
+        "10",
+        "if",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if y == 5:",
+        "    print(\"Five\")",
+        "___:",
+        "y",
+        "5",
+        "if",
+        "==",
+        "print",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if a > b:",
+        "    print(\"a is greater\")",
+        "___ a == b:",
+        "    print(\"a and b are equal\")",
+        "a",
+        "b",
+        "if",
+        ">",
+        "==",
+        "print",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0 ___ y > 0:",
+        "    print(\"Both positive\")",
+        "x",
+        "y",
+        "if",
+        ">",
+        "and",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if score >= 50:",
+        "    if score >= 75:",
+        "        print(\"Pass with distinction\")",
+        "    ___:",
+        "        print(\"Pass\")",
+        "else:",
+        "    print(\"Fail\")",
+        "score",
+        "if",
+        ">=",
+        "print",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if user_input ___ \"yes\":",
+        "    proceed()",
+        "user_input",
+        "if",
+        "!=",
+        "proceed"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "result = \"Adult\" ___ age >= 18 ___ \"Minor\"",
+        "result",
+        "age",
+        ">=",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if temperature < 0 ___ temperature > 100:",
+        "    print(\"Extreme temperature\")",
+        "temperature",
+        "<",
+        ">",
+        "if",
+        "or",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if debug_mode:",
+        "    ___",
+        "debug_mode",
+        "if",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "even_numbers = [num for num in range(10) ___ num % 2 == 0]",
+        "even_numbers",
+        "num",
+        "range",
+        "10",
+        "%",
+        "2",
+        "==",
+        "if"
+      ]
+    }
+  ]
+}

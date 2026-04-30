@@ -1,0 +1,93 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(5):",
+        "i = 0",
+        "print(i)",
+        "while i < 5:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "i = 1",
+        "while i <= 3:",
+        "i += 1",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for letter in 'AB':",
+        "for i in range(1, 3):",
+        "print(i)",
+        "print(letter)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "while True:",
+        "if x == 5:",
+        "break",
+        "print(x)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "total = 0",
+        "for i in range(1, 11):",
+        "total += i",
+        "print(total)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(1, 11):",
+        "if i % 2 == 0:",
+        "continue",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "fruits = ['apple', 'orange', 'apple']",
+        "count = 0",
+        "for fruit in fruits:",
+        "if fruit == 'apple':",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "a, b = 0, 1",
+        "for _ in range(5):",
+        "print(a)",
+        "a, b = b, a + b"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(1, 11):",
+        "print('2 x', i, '=', 2 * i)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "original_list = [1, 2, 3, 4]",
+        "reversed_list = []",
+        "for item in original_list:",
+        "reversed_list.insert(0, item)"
+      ]
+    }
+  ]
+}

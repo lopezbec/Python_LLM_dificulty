@@ -1,0 +1,139 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 5",
+        "if __:",
+        "print('Hello')",
+        "x == 5",
+        "x > 5",
+        "x < 5"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "y = 3",
+        "if __:",
+        "print('Yes')",
+        "y != 0",
+        "y == 0",
+        "y > 0"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "a = 7",
+        "b = 10",
+        "if __ and __:",
+        "print('Correct')",
+        "a < 10",
+        "b == 10",
+        "a > 10",
+        "b != 10"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "grade = 85",
+        "if __:",
+        "print('A')",
+        "elif __:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "grade >= 90",
+        "grade >= 80",
+        "grade < 80"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 45",
+        "if __:",
+        "print('Adult')",
+        "elif __:",
+        "print('Senior')",
+        "age >= 18",
+        "age >= 65",
+        "age < 18",
+        "age < 65"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "num = 14",
+        "if __ and __:",
+        "print('Pass')",
+        "num % 2 == 0",
+        "num > 10",
+        "num < 10",
+        "num % 2 != 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "temperature = 75",
+        "status = 'active'",
+        "if __:",
+        "if __:",
+        "print('Qualified')",
+        "temperature > 70",
+        "status == 'active'",
+        "temperature < 70",
+        "status != 'active'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score = 92",
+        "completed = True",
+        "if __ and (completed or __):",
+        "print('Success')",
+        "score > 90",
+        "completed == False",
+        "score < 90",
+        "completed == True"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "balance = 200",
+        "min_balance = 100",
+        "if __:",
+        "if __:",
+        "print('Sufficient')",
+        "balance >= min_balance",
+        "balance <= min_balance",
+        "balance < min_balance",
+        "balance >= 150"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "priority = 1",
+        "status = 'pending'",
+        "if __:",
+        "if __:",
+        "print('Urgent')",
+        "else:",
+        "print('High Priority')",
+        "else:",
+        "print('Low Priority')",
+        "priority == 1",
+        "status == 'pending'",
+        "priority > 1",
+        "status != 'pending'"
+      ]
+    }
+  ]
+}

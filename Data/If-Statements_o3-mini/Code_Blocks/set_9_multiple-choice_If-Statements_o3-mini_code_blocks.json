@@ -1,0 +1,100 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 0: print('Positive')",
+        "if (x > 0) then: print('Positive')",
+        "if x > 0 print('Positive')",
+        "if (x > 0) { print('Positive') }",
+        "if",
+        "x",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else",
+        "elif",
+        "finally"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x == 10:\n    print('Ten')",
+        "x",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "==",
+        "=",
+        "<>",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "{}",
+        "()",
+        "Indentation",
+        "'end'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x < 0:\n    print('Negative')\nelif x == 0:\n    print('Zero')\nelse:\n    print('Positive')",
+        "x",
+        "elif",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x < 5 print(x)",
+        "if (x < 5): print(x)",
+        "if x < 5:\n    print(x)",
+        "if (x < 5):\n    print(x)",
+        "SyntaxError"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "and",
+        "or",
+        "not",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 5 and x < 10:\n    print('x is between 6 and 9')\nelse:\n    print('x is out of range')",
+        "x",
+        "and",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "value = 7\nif value % 2:\n    print('Odd')\nelse:\n    print('Even')",
+        "value",
+        "if",
+        "%",
+        "else",
+        "print"
+      ]
+    }
+  ]
+}

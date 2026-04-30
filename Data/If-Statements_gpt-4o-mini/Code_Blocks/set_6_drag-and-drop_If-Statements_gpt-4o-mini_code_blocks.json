@@ -1,0 +1,117 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ( ):",
+        "x > 10",
+        "x == 10",
+        "x < 5",
+        "x = 5",
+        "x == 10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (condition) { return value; } else {  ____ ; }",
+        "return otherValue;",
+        "if (otherCondition) { }",
+        "for (i in range(5)) { }",
+        "return otherValue;"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if (number ____ 2 == 0):",
+        " / ",
+        " % ",
+        " + ",
+        " - ",
+        "%"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (x > 10) { console.log('Big'); } ____  { console.log('Small'); }",
+        "else",
+        "elseif",
+        "finally",
+        "try",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if (weather === 'rainy') { ____; }",
+        "take an umbrella;",
+        "play outside;",
+        "stay indoors;",
+        "go for a walk;",
+        "take an umbrella;"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x > 0) { if (x > 10) { ____; } }",
+        "console.log('X is large');",
+        "console.log('X is negative');",
+        "console.log('X is small'),",
+        "continue;",
+        "console.log('X is large');"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (marks >= 50) { ____; } else { ____; }",
+        "console.log('Pass');",
+        "console.log('Fail');",
+        "return 'Pass';",
+        "return 'Fail';",
+        "console.log('Pass');",
+        "console.log('Fail');"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (temperature < 0) { ____; }",
+        "console.log('It's freezing!');",
+        "console.log('It's warm!');",
+        "console.log('It's hot!');",
+        "console.log('It's cool!');",
+        "console.log('It's freezing!');"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (a ____ b) { ____; }",
+        "==",
+        ">=",
+        "doSomething();",
+        ">",
+        "console.log('match');",
+        ">",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (score > 90) { ____; } ____ if (score > 75) { ____; } else { ____; }",
+        "console.log('Grade A');",
+        "console.log('Grade B');",
+        "console.log('Grade C');",
+        "console.log('Grade D');",
+        "console.log('Grade A');",
+        "console.log('Grade B');"
+      ]
+    }
+  ]
+}

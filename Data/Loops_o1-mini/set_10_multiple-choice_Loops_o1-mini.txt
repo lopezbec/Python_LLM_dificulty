@@ -1,0 +1,114 @@
+```json
+[
+  {
+    "question": "What is the purpose of a loop in Python?",
+    "options": [
+      "To perform a task repeatedly",
+      "To store data",
+      "To define a function",
+      "To import a module"
+    ],
+    "correct_answer": "To perform a task repeatedly",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following is a valid for loop in Python?",
+    "options": [
+      "for i in range(5)",
+      "for i = 0; i < 5; i++",
+      "loop from 1 to 5",
+      "for (i < 5; i += 1)"
+    ],
+    "correct_answer": "for i in range(5)",
+    "difficulty": 2
+  },
+  {
+    "question": "What will the following code print?\n\n```python\nfor i in range(3):\n    print(i)\n```",
+    "options": [
+      "1\n2\n3",
+      "0\n1\n2",
+      "0\n1\n2\n3",
+      "1\n2"
+    ],
+    "correct_answer": "0\n1\n2",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\n```",
+    "options": [
+      "0\n1\n2",
+      "1\n2\n3",
+      "0\n1\n2\n3",
+      "Infinite loop"
+    ],
+    "correct_answer": "0\n1\n2",
+    "difficulty": 4
+  },
+  {
+    "question": "How do you exit a loop prematurely when a certain condition is met in Python?",
+    "options": [
+      "break",
+      "continue",
+      "exit",
+      "stop"
+    ],
+    "correct_answer": "break",
+    "difficulty": 5
+  },
+  {
+    "question": "What is the purpose of the 'else' statement in a Python loop?",
+    "options": [
+      "To execute code when the loop finishes normally",
+      "To execute code when the loop exits via break",
+      "To define an alternative loop condition",
+      "To handle exceptions in the loop"
+    ],
+    "correct_answer": "To execute code when the loop finishes normally",
+    "difficulty": 6
+  },
+  {
+    "question": "What does the following code do?\n\n```python\nfor item in [1, 2, 3]:\n    if item == 2:\n        continue\n    print(item)\n```",
+    "options": [
+      "Prints 1, 2, 3",
+      "Prints 1 and 3",
+      "Prints 2",
+      "Does not print anything"
+    ],
+    "correct_answer": "Prints 1 and 3",
+    "difficulty": 7
+  },
+  {
+    "question": "What will be the value of 'result' after the following code executes?\n\n```python\nresult = []\nfor i in range(3):\n    for j in range(2):\n        result.append(i * j)\n```",
+    "options": [
+      "[0, 0, 1, 1, 2, 2]",
+      "[0, 1, 2]",
+      "[0, 0, 0]",
+      "[0, 1, 2, 3, 4, 5]"
+    ],
+    "correct_answer": "[0, 0, 1, 1, 2, 2]",
+    "difficulty": 8
+  },
+  {
+    "question": "What does the 'enumerate' function do when used in a for loop?",
+    "options": [
+      "It returns the index and value of each item in the loop",
+      "It counts the number of times the loop has run",
+      "It alternates the looping direction",
+      "It filters out duplicate items"
+    ],
+    "correct_answer": "It returns the index and value of each item in the loop",
+    "difficulty": 9
+  },
+  {
+    "question": "Given the following code, what is the output?\n\n```python\ndef generator():\n    i = 0\n    while True:\n        yield i\n        i += 1\n\ngen = generator()\nfor _ in range(5):\n    print(next(gen))\n```",
+    "options": [
+      "1\n2\n3\n4\n5",
+      "0\n1\n2\n3\n4",
+      "Infinite numbers",
+      "Error"
+    ],
+    "correct_answer": "0\n1\n2\n3\n4",
+    "difficulty": 10
+  }
+]
+```

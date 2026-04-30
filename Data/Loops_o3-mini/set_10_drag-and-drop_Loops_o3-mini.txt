@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "topic": "Loops",
+      "question": "Drag and drop the correct loop keyword to complete the code that prints numbers 0 through 4.",
+      "instructions": "Drag the correct keyword into the blank.",
+      "code": "___ i in range(5):\n    print(i)",
+      "drag_items": ["for", "while"],
+      "correct_answers": { "___": "for" }
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "topic": "Loops",
+      "question": "Drag and drop the missing keyword to complete the while loop that prints numbers 0 through 4.",
+      "instructions": "Drag the correct keyword into the blank.",
+      "code": "i = 0\n___ i < 5:\n    print(i)\n    i += 1",
+      "drag_items": ["while", "for"],
+      "correct_answers": { "___": "while" }
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "topic": "Loops",
+      "question": "Drag and drop the missing symbol to complete the for loop syntax.",
+      "instructions": "Drag the correct symbol to fill in the blank at the end of the for loop header.",
+      "code": "for i in range(3) ___\n    print(i)",
+      "drag_items": [":", ";"],
+      "correct_answers": { "___": ":" }
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "topic": "Loops",
+      "question": "Drag and drop to arrange the components in the correct order to form a valid for loop header that iterates 5 times.",
+      "instructions": "Drag the components into the correct sequence.",
+      "code": "Rearrange the following components:\n[for, i, in, range(5)]",
+      "drag_items": ["for", "i", "in", "range(5)"],
+      "correct_answers": ["for", "i", "in", "range(5)"]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "topic": "Loops",
+      "question": "Drag and drop the code blocks into the correct order to form a while loop that prints numbers 0 through 4.",
+      "instructions": "Arrange the following code blocks into the correct sequence.",
+      "code": "Code Blocks:\n1. count = 0\n2. while count < 5:\n3. print(count)\n4. count += 1",
+      "drag_items": ["print(count)", "while count < 5", "count = 0", "count += 1"],
+      "correct_answers": ["count = 0", "while count < 5", "print(count)", "count += 1"]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "topic": "Loops",
+      "question": "Drag and drop the correct indentation to fix the for loop that prints numbers.",
+      "instructions": "Drag the correct number of spaces to indent the print statement.",
+      "code": "for i in range(3):\n___print(i)",
+      "drag_items": ["4 spaces", "2 spaces", "8 spaces"],
+      "correct_answers": { "___": "4 spaces" }
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "topic": "Loops",
+      "question": "Drag and drop the missing keywords to complete the nested loops that print the product of two numbers.",
+      "instructions": "Drag the correct keywords into the blanks. The first blank is for the outer loop and the second blank is for the inner loop.",
+      "code": "___ i in range(1, 3):\n    ___ j in range(1, 4):\n        print(i * j)",
+      "drag_items": ["for", "while"],
+      "correct_answers": { "blank1": "for", "blank2": "for" }
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "topic": "Loops",
+      "question": "Drag and drop the missing keyword to exit the for loop early when a condition is met.",
+      "instructions": "Drag the correct keyword into the blank inside the if-statement.",
+      "code": "for i in range(10):\n    if i == 5:\n        ___\n    print(i)",
+      "drag_items": ["continue", "break", "pass"],
+      "correct_answers": { "___": "break" }
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "topic": "Loops",
+      "question": "Drag and drop the missing keyword to add an else block to the loop, which executes if the loop completes normally.",
+      "instructions": "Drag the correct keyword into the blank.",
+      "code": "for n in range(3):\n    print(n)\n___:\n    print('Loop completed')",
+      "drag_items": ["finally", "else", "except"],
+      "correct_answers": { "___": "else" }
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "topic": "Loops",
+      "question": "Drag and drop the missing function to complete the list comprehension that computes the squares of numbers from 0 to 9.",
+      "instructions": "Drag the correct function name into the blank.",
+      "code": "squares = [x**2 for x in ___(10)]",
+      "drag_items": ["range", "list", "tuple"],
+      "correct_answers": { "___": "range" }
+    }
+  ]
+}

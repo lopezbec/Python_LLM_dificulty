@@ -1,0 +1,83 @@
+{
+    "code_segments": [
+        {
+            "difficulty": 1,
+            "content": [
+                "if-statement",
+                "block of code",
+                "condition"
+            ]
+        },
+        {
+            "difficulty": 2,
+            "content": [
+                "if-statement",
+                "else-statement"
+            ]
+        },
+        {
+            "difficulty": 3,
+            "content": [
+                "condition",
+                "if-statement",
+                "equality"
+            ]
+        },
+        {
+            "difficulty": 4,
+            "content": [
+                "condition",
+                "if-statement",
+                "False",
+                "code block",
+                "if-statement"
+            ]
+        },
+        {
+            "difficulty": 5,
+            "content": [
+                "and",
+                "or",
+                "not",
+                "if-statements"
+            ]
+        },
+        {
+            "difficulty": 6,
+            "content": [
+                "if-statements",
+                "elif"
+            ]
+        },
+        {
+            "difficulty": 7,
+            "content": [
+                "if-statements",
+                "if-statements"
+            ]
+        },
+        {
+            "difficulty": 8,
+            "content": [
+                "colon (:)",
+                "if-statement"
+            ]
+        },
+        {
+            "difficulty": 9,
+            "content": [
+                "short-circuit evaluation",
+                "if-condition"
+            ]
+        },
+        {
+            "difficulty": 10,
+            "content": [
+                "assignment expressions",
+                "walrus operator",
+                "condition",
+                "if-statements"
+            ]
+        }
+    ]
+}

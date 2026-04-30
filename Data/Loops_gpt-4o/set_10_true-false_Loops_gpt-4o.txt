@@ -1,0 +1,55 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "A 'for' loop can be used to iterate over elements in a list.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "A 'while' loop executes at least once, regardless of the given condition.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "The 'break' statement allows you to terminate a loop before it has looped through all the items.",
+            "answer": true
+        },
+        {
+            "difficulty": 4,
+            "question": "A 'for' loop can only iterate over numeric ranges and not over sequences like strings or lists.",
+            "answer": false
+        },
+        {
+            "difficulty": 5,
+            "question": "Using a 'continue' statement in a loop will cause it to terminate immediately.",
+            "answer": false
+        },
+        {
+            "difficulty": 6,
+            "question": "In Python, you can loop through the keys of a dictionary using a 'for' loop with 'dict.keys()'.",
+            "answer": true
+        },
+        {
+            "difficulty": 7,
+            "question": "The else block in a loop executes after the loop only if the loop completes all its iterations without encountering a 'break' statement.",
+            "answer": true
+        },
+        {
+            "difficulty": 8,
+            "question": "In nested loops, 'break' and 'continue' affect both inner and outer loops simultaneously.",
+            "answer": false
+        },
+        {
+            "difficulty": 9,
+            "question": "A 'for' loop using the 'range()' function can only increment by 1 each time through the loop.",
+            "answer": false
+        },
+        {
+            "difficulty": 10,
+            "question": "The time complexity of a nested loop is equal to the sum of the complexities of the individual loops.",
+            "answer": false
+        }
+    ]
+}

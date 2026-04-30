@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        ":",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (condition):",
+        "if condition:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "value_if_true if condition else value_if_false"
+      ]
+    }
+  ]
+}

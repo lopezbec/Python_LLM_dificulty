@@ -1,0 +1,58 @@
+Here are 10 fill-in-the-blank questions about If-Statements with increasing difficulty from 1 to 10, formatted as JSON objects:
+
+```json
+[
+    {
+        "difficulty": 1,
+        "question": "In Python, an if-statement starts with the keyword ____. ",
+        "answer": "if"
+    },
+    {
+        "difficulty": 2,
+        "question": "The syntax to test a condition in an if-statement is: if ____: ",
+        "answer": "condition"
+    },
+    {
+        "difficulty": 3,
+        "question": "In an if-statement, the block of code that runs if the condition is ____. ",
+        "answer": "True"
+    },
+    {
+        "difficulty": 4,
+        "question": "To define an alternative block in an if-statement, the keyword ____ is used. ",
+        "answer": "else"
+    },
+    {
+        "difficulty": 5,
+        "question": "An if-statement can have additional conditions checked using the ____ keyword. ",
+        "answer": "elif"
+    },
+    {
+        "difficulty": 6,
+        "question": "The expression '5 > 3' is an example of a ____ in an if-statement. ",
+        "answer": "condition"
+    },
+    {
+        "difficulty": 7,
+        "question": "If the condition in the if-statement evaluates to False, the code block under ____ will execute. ",
+        "answer": "else"
+    },
+    {
+        "difficulty": 8,
+        "question": "The indentation level in an if-statement determines the ____ of the code block. ",
+        "answer": "scope"
+    },
+    {
+        "difficulty": 9,
+        "question": "In Python, an if-statement can be combined with ____ to check multiple conditions. ",
+        "answer": "logical operators"
+    },
+    {
+        "difficulty": 10,
+        "question": "Using nested if-statements can lead to complex logic, but it can also improve ____ in certain situations. ",
+        "answer": "readability"
+    }
+]
+```
+
+Each question increases in difficulty and focuses on the fundamental concepts of if-statements in Python. The answers are designed to match the difficulty level specified.

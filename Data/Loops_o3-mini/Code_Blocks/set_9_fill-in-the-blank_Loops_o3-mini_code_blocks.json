@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "loop",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "loops",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "loop",
+        "Python",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "list",
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "nested loop structure",
+        "inner loop",
+        "outer"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "loop",
+        "infinite"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "sequence of numbers",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Python",
+        "else clause",
+        "loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "generator function",
+        "loop-based iteration",
+        "yield"
+      ]
+    }
+  ]
+}

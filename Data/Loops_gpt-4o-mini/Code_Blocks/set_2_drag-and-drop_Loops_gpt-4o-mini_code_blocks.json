@@ -1,0 +1,121 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "in",
+        "range(5)",
+        ":",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "count < 4",
+        ":",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for",
+        "item",
+        "in",
+        "my_list",
+        ":",
+        "print(item)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "i in range(3)",
+        ":",
+        "for",
+        "j in range(5)",
+        ":",
+        "print('*', end='')",
+        "print()"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "i in range(10)",
+        ":",
+        "print(i)",
+        "if",
+        "i == 5",
+        ":",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "i in range(5)",
+        ":",
+        "if",
+        "i == 3",
+        ":",
+        "continue",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "count = 10",
+        "while",
+        "count > 0",
+        ":",
+        "print(count)",
+        "count -= 1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "even_numbers = []",
+        "for",
+        "i in range(1, 21)",
+        ":",
+        "if",
+        "i % 2 == 0",
+        ":",
+        "even_numbers.append(i)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "n = 5",
+        "factorial = 1",
+        "for",
+        "i in range(1, n + 1)",
+        ":",
+        "factorial *= i",
+        "print(factorial)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "a, b = 0, 1",
+        "while",
+        "b < 100",
+        ":",
+        "print(b)",
+        "a, b = b, a + b"
+      ]
+    }
+  ]
+}

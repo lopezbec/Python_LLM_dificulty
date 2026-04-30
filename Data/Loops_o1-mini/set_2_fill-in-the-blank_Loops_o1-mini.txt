@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "difficulty": 1,
+    "question": "Fill in the blank to complete a basic for loop that prints numbers from 0 to 4:\n\n```python\nfor i in range(___):\n    print(i)\n```",
+    "answer": "5"
+  },
+  {
+    "difficulty": 2,
+    "question": "Fill in the blank to create a while loop that runs as long as x is less than 10:\n\n```python\nx = 0\nwhile x ___ 10:\n    print(x)\n    x += 1\n```",
+    "answer": "<"
+  },
+  {
+    "difficulty": 3,
+    "question": "Fill in the blank to iterate over each item in the list `fruits` using a for loop:\n\n```python\nfruits = ['apple', 'banana', 'cherry']\nfor ___ in fruits:\n    print(___)\n```",
+    "answer": "fruit, fruit"
+  },
+  {
+    "difficulty": 4,
+    "question": "Fill in the blanks to create a for loop that iterates through the keys and values of a dictionary `student`:\n\n```python\nstudent = {'name': 'Alice', 'age': 25}\nfor ___, ___ in student.___():\n    print(key, value)\n```",
+    "answer": "key, value, items"
+  },
+  {
+    "difficulty": 5,
+    "question": "Fill in the blank to break out of the loop when `i` is equal to 3:\n\n```python\nfor i in range(5):\n    if i == 3:\n        ___\n    print(i)\n```",
+    "answer": "break"
+  },
+  {
+    "difficulty": 6,
+    "question": "Fill in the blank to skip the current iteration when `i` is even using a for loop:\n\n```python\nfor i in range(6):\n    if i % 2 == 0:\n        ___\n    print(i)\n```",
+    "answer": "continue"
+  },
+  {
+    "difficulty": 7,
+    "question": "Fill in the blanks to create a nested for loop that generates coordinate pairs from two lists `x_values` and `y_values`:\n\n```python\nx_values = [1, 2]\ny_values = [3, 4]\nfor x in x_values:\n    for ___ in ___:\n        print((x, y))\n```",
+    "answer": "y, y_values"
+  },
+  {
+    "difficulty": 8,
+    "question": "Fill in the blank to create a list comprehension that uses a for loop to generate squares of numbers from 0 to 4:\n\n```python\nsquares = [___ for i in range(5)]\nprint(squares)\n```",
+    "answer": "i**2"
+  },
+  {
+    "difficulty": 9,
+    "question": "Fill in the blanks to implement a generator function `count_up_to` that yields numbers from 1 to `max` using a while loop:\n\n```python\ndef count_up_to(max):\n    i = 1\n    while i <= max:\n        yield ___\n        ___\n\nfor number in count_up_to(3):\n    print(number)\n```",
+    "answer": "i, i += 1"
+  },
+  {
+    "difficulty": 10,
+    "question": "Fill in the blanks to iterate over a file line by line using a for loop and enumerate, starting the count at 1:\n\n```python\nwith open('file.txt', 'r') as file:\n    for ___, line in ___(file, ___):\n        print(f'Line {i}: {line.strip()}')\n```",
+    "answer": "i, enumerate, 1"
+  }
+]
+```

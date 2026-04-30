@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "indented block of code",
+        "condition",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "condition",
+        "parentheses"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "colon (:)",
+        "if statement header"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if statements",
+        "conditions"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-else statement",
+        "alternative branch",
+        "multiple conditions"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else clause",
+        "if statement",
+        "if condition",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-elif-else statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "condition",
+        "if statement",
+        "comparison",
+        "logical operators",
+        "arithmetic operations"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if statements",
+        "decision-making",
+        "nesting"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if statement",
+        "undefined variable",
+        "condition",
+        "False",
+        "runtime error"
+      ]
+    }
+  ]
+}

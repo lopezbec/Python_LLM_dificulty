@@ -1,0 +1,109 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ____:",
+        "print(\"Condition is True\")",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "number = 15",
+        "if number ____ 10:",
+        "print(\"Greater than 10\")",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "a = 5",
+        "b = 10",
+        "if a < b:",
+        "if ____ > 5:",
+        "print(\"b is greater than 5\")",
+        "b"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "age = 18",
+        "if age >= 18:",
+        "print(\"Adult\")",
+        "else:",
+        "print(\"Minor\")",
+        "age < 18"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "score = 85",
+        "if score >= 90:",
+        "grade = 'A'",
+        "elif score >= __:",
+        "grade = 'B'",
+        "else:",
+        "grade = 'C'",
+        "80"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10",
+        "y = 20",
+        "if x > 5 ____ y < 25:",
+        "print(\"Both conditions are True\")",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "a = 10",
+        "b = 20",
+        "result = a if a > b __ b",
+        "print(result)",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "if 'banana' ____ fruits:",
+        "print(\"Banana is in the list\")",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "is_valid = False",
+        "if not ____:",
+        "print(\"Invalid\")",
+        "is_valid"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 15",
+        "y = 25",
+        "if x > 10:",
+        "if y > 20:",
+        "print(\"x is greater than 10 and y is greater than 20\")",
+        "else:",
+        "print(\"x is greater than 10 but y is not greater than 20\")",
+        "____:",
+        "print(\"x is not greater than 10\")",
+        "else"
+      ]
+    }
+  ]
+}

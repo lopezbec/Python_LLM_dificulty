@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "function",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range(5)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'while'",
+        "expression",
+        "True",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "nested loops",
+        "inner"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "dictionary",
+        "keys",
+        "values",
+        "items"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'while'",
+        "variable",
+        "control"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for'",
+        "'for i in range(start, stop, step)'",
+        "step"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "List comprehension",
+        "'for'",
+        "brackets"
+      ]
+    }
+  ]
+}

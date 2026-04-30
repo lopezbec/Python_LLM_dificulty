@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "difficulty": 1,
+    "question": "In Python, a `for` loop can iterate over the elements of a list.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 2,
+    "question": "A `while` loop in Python will execute its block of code at least once, regardless of the condition.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 3,
+    "question": "The `range()` function in Python generates a list of numbers.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 4,
+    "question": "Using the `break` statement inside a loop will terminate the nearest enclosing loop immediately.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 5,
+    "question": "In Python, the `continue` statement skips the current iteration and moves to the next iteration of the loop.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 6,
+    "question": "A `for` loop in Python cannot be used to iterate over a dictionary's keys and values simultaneously.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 7,
+    "question": "Nested loops can lead to higher time complexity, often resulting in O(n²) or worse.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 8,
+    "question": "In Python, modifying the list you are iterating over within a `for` loop has no effect on the loop's execution.",
+    "answer": "False"
+  },
+  {
+    "difficulty": 9,
+    "question": "Using `else` with a `for` loop in Python allows you to execute a block of code only if the loop was not terminated by a `break` statement.",
+    "answer": "True"
+  },
+  {
+    "difficulty": 10,
+    "question": "List comprehensions in Python are generally slower than equivalent `for` loops due to their functional nature.",
+    "answer": "False"
+  }
+]
+```

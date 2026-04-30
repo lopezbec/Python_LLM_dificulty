@@ -1,0 +1,196 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 15",
+        "_____ x > 10 _____",
+        "print(\"x is greater than 10\")",
+        "if",
+        "for",
+        "while",
+        ":",
+        "=",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = -3",
+        "_____ x >= 0 _____",
+        "print(\"x is non-negative\")",
+        "_____ _____",
+        "print(\"x is negative\")",
+        "if",
+        "else",
+        ":",
+        "while",
+        "if",
+        ":",
+        "else",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 15",
+        "_____ 10 <= x <= 25 _____",
+        "print(\"Within range\")",
+        "if",
+        "elif",
+        "else",
+        ":",
+        "==",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 5",
+        "if x > 0:",
+        "_____ x < 10 _____",
+        "print(\"Positive and less than 10\")",
+        "elif",
+        "if",
+        "else",
+        ":",
+        "for",
+        "=",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5",
+        "_____ x != 5 _____",
+        "print(\"x is not 5\")",
+        "else:",
+        "print(\"x is 5\")",
+        "if",
+        "elif",
+        "else",
+        ":",
+        "!=",
+        "not",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10",
+        "_____ x < 5 _____",
+        "print(\"Less than 5\")",
+        "_____ x < 10 _____",
+        "print(\"Between 5 and 9\")",
+        "else:",
+        "print(\"10 or more\")",
+        "if",
+        "elif",
+        "else",
+        "for",
+        "and",
+        ":",
+        "if",
+        ":",
+        "elif",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 4",
+        "y = 5",
+        "_____ x % 2 == 0 _____",
+        "print(\"x is even\")",
+        "_____ y % 2 != 0 _____",
+        "print(\"y is odd\")",
+        "_____ _____",
+        "print(\"Neither\")",
+        "if",
+        "elif",
+        "else",
+        "while",
+        ":",
+        "for",
+        "if",
+        ":",
+        "elif",
+        ":",
+        "else",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 9",
+        "_____ x > 0 _____",
+        "print(\"x is positive\")",
+        "_____ x % 3 == 0 _____",
+        "print(\"x is also a multiple of 3\")",
+        "else:",
+        "print(\"x is not positive\")",
+        "if",
+        "elif",
+        "else",
+        ":",
+        "for",
+        "and",
+        "if",
+        ":",
+        "if",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 7",
+        "y = 40",
+        "_____ 0 <= x <= 10 _____ y == 50 _____",
+        "print(\"Condition met\")",
+        "else:",
+        "print(\"Condition not met\")",
+        "if",
+        "elif",
+        "or",
+        "and",
+        ":",
+        "=",
+        "if",
+        "or",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 35",
+        "_____ (x % 5 == 0 or x % 7 == 0) _____ (x % 5 == 0 and x % 7 == 0) _____",
+        "print(\"Special multiple\")",
+        "else:",
+        "print(\"Regular number\")",
+        "if",
+        "and",
+        "not",
+        ":",
+        "or",
+        "elif",
+        "if",
+        "and",
+        "not",
+        ":"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Drag and drop the correct keyword to complete the basic if-statement.",
+      "code_snippet": "___ x > 0:\n    print('x is positive')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "if"
+        }
+      ],
+      "choices": ["if", "for", "while", "elif"]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Drag and drop the correct comparison operator to check for equality in the if-statement.",
+      "code_snippet": "if x ___ 10:\n    print('x is ten')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "=="
+        }
+      ],
+      "choices": ["==", "=", "!=", ">"]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Complete the if-else structure by dragging the appropriate keywords into the blanks.",
+      "code_snippet": "___ x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "if"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "else"
+        }
+      ],
+      "choices": ["if", "elif", "else", "for"]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Drag and drop the missing keyword to complete this if-elif-else chain.",
+      "code_snippet": "if score >= 90:\n    grade = 'A'\n___ score >= 80:\n    grade = 'B'\nelse:\n    grade = 'F'",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "elif"
+        }
+      ],
+      "choices": ["if", "elif", "else", "for"]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Complete the compound condition by dragging the correct keywords into the blanks.",
+      "code_snippet": "___ x > 0 ___ y > 0:\n    print('Both x and y are positive')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "if"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "and"
+        }
+      ],
+      "choices": ["if", "for", "and", "or", "elif"]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Fill in the missing keywords to complete this nested if-else structure.",
+      "code_snippet": "if x > 0:\n    ___ y > 0:\n        print('Both x and y are positive')\n    ___:\n        print('x is positive but y is not')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "if"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "else"
+        }
+      ],
+      "choices": ["if", "elif", "else", "for"]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Drag and drop the missing keywords to complete the function that checks if a number is even.",
+      "code_snippet": "def is_even(n):\n    ___ n % 2 ___ 0:\n        return True\n    return False",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "if"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "=="
+        }
+      ],
+      "choices": ["if", "for", "while", "==", "=", "!="]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Complete the nested if-else structure by dragging the correct operator and keyword into the blanks.",
+      "code_snippet": "if a > b:\n    if a ___ c:\n        print('a is the greatest')\n    ___:\n        print('a is greater than b but not c')\nelse:\n    print('a is not greater than b')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": ">"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "else"
+        }
+      ],
+      "choices": ["if", "elif", "else", ">", "<", "=="]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Drag and drop the correct keywords and operators to complete the nested if structure.",
+      "code_snippet": "if a != b:\n    if a ___ 0:\n        print('a is positive')\n    ___:\n        print('a is not positive')\nelse:\n    print('a and b are equal')",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": ">"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "else"
+        }
+      ],
+      "choices": ["if", "elif", "else", ">", "<", "==", "!="]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Complete the multi-branch function by dragging the correct comparison operators and keywords into the blanks.",
+      "code_snippet": "def categorize_number(n):\n    if n > 0:\n        if n ___ 10:\n            return 'Small positive'\n        ___ n >= 10 and n < 100:\n            return 'Medium positive'\n        ___:\n            return 'Large positive'\n    elif n < 0:\n        return 'Negative'\n    ___:\n        return 'Zero'",
+      "blanks": [
+        {
+          "blank_id": 1,
+          "correct_answer": "<"
+        },
+        {
+          "blank_id": 2,
+          "correct_answer": "elif"
+        },
+        {
+          "blank_id": 3,
+          "correct_answer": "else"
+        },
+        {
+          "blank_id": 4,
+          "correct_answer": "else"
+        }
+      ],
+      "choices": ["if", "elif", "else", "<", ">", "==", "and", "or"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "variable",
+        "in",
+        "iterable"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "initialization",
+        "condition check",
+        "loop execution",
+        "update"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for row in matrix:",
+        "for element in row:",
+        "print(element)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(5):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for num in range(10):",
+        "if num == 5:",
+        "break",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(5):",
+        "if i % 2 == 0:",
+        "continue",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for num in numbers:",
+        "if num % 2 == 0:",
+        "print(num)",
+        "numbers"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for key in my_dict:",
+        "for value in my_dict[key]:",
+        "print(key, value)",
+        "my_dict"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for index, value in enumerate(items):",
+        "print(index, value)",
+        "items"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while count < 5:",
+        "print(count)",
+        "count += 1",
+        "else:",
+        "print('Loop finished')",
+        "count"
+      ]
+    }
+  ]
+}

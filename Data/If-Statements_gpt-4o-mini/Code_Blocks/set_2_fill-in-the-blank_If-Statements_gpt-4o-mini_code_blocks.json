@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "if x ___ 10:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 10:",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-elif structure",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x < 5 and y > 10:",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "nested if"
+      ]
+    }
+  ]
+}

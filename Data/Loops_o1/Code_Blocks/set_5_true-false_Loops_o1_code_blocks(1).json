@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "loop",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "Python",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "loop",
+        "values()"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "else",
+        "while",
+        "loop",
+        "else",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "List comprehensions",
+        "for",
+        "loops",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "while",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for",
+        "loop",
+        "while",
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "dictionary",
+        "for",
+        "loop",
+        "list",
+        "keys"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "enumerate()",
+        "for",
+        "loop"
+      ]
+    }
+  ]
+}

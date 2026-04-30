@@ -1,0 +1,55 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In a _______, a block of code is executed repeatedly as long as a specified condition is true.",
+      "answer": "loop"
+    },
+    {
+      "difficulty": 2,
+      "question": "A _______ loop repeats a block of code while a condition is true.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "The _______ loop is used to iterate over a sequence like lists, tuples, or strings.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 4,
+      "question": "To prematurely end a loop iteration in Python, you can use the _______ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 5,
+      "question": "In a 'for' loop, the _______ function generates a sequence of numbers.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 6,
+      "question": "The _______ statement in loops allows skipping the current iteration and continuing with the next.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 7,
+      "question": "The _______ clause in a loop is executed when the loop condition becomes false, but not if the loop exits via a break statement.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 8,
+      "question": "Nested loops are loops that exist _______ another loop, allowing for the execution of multidimensional iterations.",
+      "answer": "within"
+    },
+    {
+      "difficulty": 9,
+      "question": "To avoid an infinite loop in a 'while' statement, ensure that the loop's _______ is correctly updated within the block.",
+      "answer": "condition"
+    },
+    {
+      "difficulty": 10,
+      "question": "A _______ comprehension, such as '[x for x in sequence]', provides a compact way to process sequences in loops and generally increases code readability.",
+      "answer": "list"
+    }
+  ]
+}

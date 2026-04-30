@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "Fill in the blank: A ______ loop is used to iterate over a sequence of items when the number of iterations is known.",
+    "answer": "for",
+    "difficulty": 1
+  },
+  {
+    "question": "Fill in the blank: The ______ statement can be used to exit a loop prematurely based on a condition.",
+    "answer": "break",
+    "difficulty": 2
+  },
+  {
+    "question": "Fill in the blank: In Python, a ______ loop continues to execute as long as its condition remains true.",
+    "answer": "while",
+    "difficulty": 3
+  },
+  {
+    "question": "Fill in the blank: To skip the current iteration and proceed to the next one in a loop, you use the ______ statement.",
+    "answer": "continue",
+    "difficulty": 4
+  },
+  {
+    "question": "Fill in the blank: The ______ function is commonly used to generate a sequence of numbers in a for loop.",
+    "answer": "range",
+    "difficulty": 5
+  },
+  {
+    "question": "Fill in the blank: To iterate over both keys and values in a dictionary within a for loop, you use the ______ method.",
+    "answer": "items()",
+    "difficulty": 6
+  },
+  {
+    "question": "Fill in the blank: A ______ loop is used inside another loop to perform more complex iterations.",
+    "answer": "nested",
+    "difficulty": 7
+  },
+  {
+    "question": "Fill in the blank: In a for loop, the variable that takes the value of the item inside the sequence is called the ______ variable.",
+    "answer": "loop",
+    "difficulty": 8
+  },
+  {
+    "question": "Fill in the blank: List comprehensions can be used as a concise way to create lists using a ______ loop.",
+    "answer": "for",
+    "difficulty": 9
+  },
+  {
+    "question": "Fill in the blank: To exit multiple nested loops at once, you can use a ______ flag in combination with break statements.",
+    "answer": "control",
+    "difficulty": 10
+  }
+]
+```

@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'for' loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'while' loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'break' keyword",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Python",
+        "'continue' statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Nested loops",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'for' loop",
+        "dictionary keys",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'range(5)'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "infinite loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "loop control statements",
+        "Python",
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'else' clause",
+        "loop",
+        "'break' statement"
+      ]
+    }
+  ]
+}

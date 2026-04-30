@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "==",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statements",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Python",
+        "break",
+        "if-statements"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "(x > 10)",
+        "x",
+        "20",
+        "if (x > 10) _____ (x < 20):",
+        "and",
+        "(x < 20)"
+      ]
+    }
+  ]
+}

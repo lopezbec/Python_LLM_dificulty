@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank to check if x is 10:\nif x ____ 10:\n    print(\"x is 10\")",
+      "answer": "=="
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank to handle the alternative if x <= 5:\nif x > 5:\n    print(\"x is greater than 5\")\n________:\n    print(\"x is less than or equal to 5\")",
+      "answer": "else"
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank to check for an additional condition if y == 5:\nif y > 5:\n    print(\"Greater than 5\")\n_____ y == 5:\n    print(\"Equal to 5\")\nelse:\n    print(\"Less than 5\")",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank so the condition checks if x is between 1 and 10:\nif x >= 1 and x ____ 10:\n    print(\"x is between 1 and 10\")",
+      "answer": "<="
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank in the nested if-statement to verify it is Monday morning:\nif day == \"Monday\":\n    ______ time == \"morning\":\n        print(\"It's Monday morning!\")",
+      "answer": "if"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank to check if day is Saturday or Sunday:\nif day == \"Saturday\" ____ day == \"Sunday\":\n    print(\"Weekend\")",
+      "answer": "or"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank so the code prints \"Consonant\" if letter is absent from the vowels:\nif letter ______ in [\"a\", \"e\", \"i\", \"o\", \"u\"]:\n    print(\"Consonant\")",
+      "answer": "not"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank to complete this one-line if-statement that assigns \"Even\" if x % 2 == 0, otherwise \"Odd\":\nresult = \"Even\" ______ x % 2 == 0 else \"Odd\"",
+      "answer": "if"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank so the code prints \"Positive multiple of 5\" when n is both > 0 and a multiple of 5:\nif n > 0 ______ n % 5 == 0:\n    print(\"Positive multiple of 5\")",
+      "answer": "and"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank so the code prints \"Data is usable\" if data is not None and (status is \"active\" or \"pending\"):\nif data is not None ______ (status == \"active\" or status == \"pending\"):\n    print(\"Data is usable\")",
+      "answer": "and"
+    }
+  ]
+}

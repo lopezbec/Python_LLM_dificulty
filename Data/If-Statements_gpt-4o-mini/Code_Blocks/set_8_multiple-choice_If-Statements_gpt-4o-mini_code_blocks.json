@@ -1,0 +1,64 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10\nif x > 5:\n    print('Greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 3\nif x < 5:\n    print('x is less than 5')\nelse:\n    print('x is 5 or more')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = -1\nif x >= 0:\n    print('Non-negative')\nelse:\n    print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "age = 18\nif age < 18:\n    print('Minor')\nelif age == 18:\n    print('Just an adult')\nelse:\n    print('Adult')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "number = 0\nif number:\n    print('True')\nelse:\n    print('False')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = True\nif x:\n    print('x is True')\nelse:\n    print('x is False')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 10\nif num%2 == 0:\n    print('Even')\nelse:\n    print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = '5'\nif int(x) == 5:\n    print('Five')\nelse:\n    print('Not Five')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "country = 'USA'\nif country in ['USA', 'Canada']:\n    print('North America')\nelif country in ['Brazil', 'Argentina']:\n    print('South America')\nelse:\n    print('Other')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 10\nif x >= 10 and x <= 20:\n    print('x is between 10 and 20')\nelif x < 10:\n    print('x is less than 10')\nelse:\n    print('x is greater than 20')"
+      ]
+    }
+  ]
+}

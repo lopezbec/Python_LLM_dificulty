@@ -1,0 +1,82 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "while loop",
+        "'exit'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for loop",
+        "while loop",
+        "for i in range(n):",
+        "while condition:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "break",
+        "return",
+        "pass",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(5): print(i)",
+        "for i in range(1, 6): print(i)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "lst = [1, 2, 3, 4]",
+        "for i in range(len(lst)): lst[i] *= 2",
+        "for i in lst: print(i)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(len(lst)):",
+        "for item in lst:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while True:",
+        "while condition:",
+        "'break'",
+        "'condition'"
+      ]
+    }
+  ]
+}

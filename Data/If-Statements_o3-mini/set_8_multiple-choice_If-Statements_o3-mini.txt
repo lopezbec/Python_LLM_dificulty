@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "What is the primary purpose of an if-statement in Python?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To execute code conditionally",
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "To perform loops over a sequence",
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "To define a function",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "To import external modules",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Which of the following is the correct syntax to start an if-statement in Python?",
+      "options": [
+        {
+          "label": "A",
+          "text": "if condition then:",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "if (condition) {",
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "if condition:",
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "if: condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "In an if-statement, which operator is used to test whether two values are equal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "=",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "==",
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "===",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "!=",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "What will be the output of the following code snippet?\n\nx = 10\nif x > 5:\n    print('A')\nelse:\n    print('B')",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "isCorrect": true
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "No output",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Given the code snippet below, what will be printed?\n\nx = 3\nif x > 5:\n    print('A')\nelif x == 3:\n    print('B')\nelse:\n    print('C')",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "No output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "What will be the output when the following code is executed?\n\nage = 20\nhas_id = False\nif age >= 18:\n    if has_id:\n        print('Entry allowed')\n    else:\n        print('No ID, entry denied')\nelse:\n    print('Too young')",
+      "options": [
+        {
+          "label": "A",
+          "text": "Entry allowed",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "No ID, entry denied",
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "Too young",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Which of the following if-statement conditions is logically equivalent to:\n\nif not (x > 5 and y < 10):\n    # some code\n\n?",
+      "options": [
+        {
+          "label": "A",
+          "text": "if x > 5 or y < 10:",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "if x <= 5 and y >= 10:",
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "if x <= 5 or y >= 10:",
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "if not x > 5 and not y < 10:",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Which of the following code snippets demonstrates the use of an if-statement within a function to check if a number is positive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "def check_number(x):\n    if x < 0:\n        return True\n    else:\n        return False",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "def check_number(x):\n    if x > 0:\n        return 'Positive'\n    else:\n        return 'Non-positive'",
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "def check_number(x):\n    if x == 0:\n        return 'Zero'\n    print('Non-zero')",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "def check_number(x):\n    print('Checking...')\n    return x",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Consider the following nested if-statements:\n\nif condition1:\n    if condition2:\n        process_a()\n    else:\n        process_b()\n\nIf the intention is for the else to be associated with the first if-statement rather than the second, which indentation change is necessary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indent the 'else' block to align with the inner if-statement.",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "Unindent the 'else' block to align with the outer if-statement.",
+          "isCorrect": true
+        },
+        {
+          "label": "C",
+          "text": "No indentation change is needed; Python associates the else correctly by default.",
+          "isCorrect": false
+        },
+        {
+          "label": "D",
+          "text": "Place a colon after both if-statements to avoid ambiguity.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Which of the following if-statement constructs correctly ensures that the condition 'x is positive and (y is negative or z is zero)' is evaluated as intended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "if x > 0 and y < 0 or z == 0:",
+          "isCorrect": false
+        },
+        {
+          "label": "B",
+          "text": "if (x > 0 and y < 0) or z == 0:",
+          "isCorrect": false
+        },
+        {
+          "label": "C",
+          "text": "if x > 0 and (y < 0 or z == 0):",
+          "isCorrect": true
+        },
+        {
+          "label": "D",
+          "text": "if (x > 0 and y < 0 or z == 0):",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "'____'"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x > 10",
+        "'____'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "____"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else",
+        "'____'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif",
+        "'____'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "==",
+        "____"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "a",
+        "a ____ 5",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "and",
+        "'____'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 3",
+        "if x < 5:\n    print('x is less than 5')  \nelse:\n    print('x is 5 or more')",
+        "'____'",
+        "'x is less than 5'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (a > 0 and b < 10) or c == 5:\n    print('Condition met')",
+        "a > 0",
+        "b < 10",
+        "c == 5",
+        "'____'",
+        "'Condition met'"
+      ]
+    }
+  ]
+}

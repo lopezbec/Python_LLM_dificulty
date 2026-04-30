@@ -1,0 +1,99 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x == 5",
+        "print('x is 5')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "indentation"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x > 10 or y < 5:",
+        "x > 10",
+        "or",
+        "y < 5",
+        "print('Condition met')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x % 2 == 0:",
+        "x % 2 == 0",
+        "print('Even')",
+        "else:",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 10:",
+        "x > 10",
+        "print('Greater')",
+        "elif x == 10:",
+        "x == 10",
+        "print('Equal')",
+        "else:",
+        "print('Less')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x != 10:",
+        "x != 10",
+        "print('Not equal to 10')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if 5 <= num <= 15:",
+        "5 <= num",
+        "<=",
+        "num <= 15",
+        "print('Within range')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x < 0 and y > 0:",
+        "x < 0",
+        "and",
+        "y > 0",
+        "print('x is negative and y is positive')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 0:",
+        "x > 0",
+        "if x < 10:",
+        "x < 10",
+        "print('Single-digit positive number')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "message = 'Positive' if x > 0 else 'Non-positive'",
+        "'Positive'",
+        "x > 0",
+        "else",
+        "'Non-positive'"
+      ]
+    }
+  ]
+}

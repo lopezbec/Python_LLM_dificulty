@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "print(fruit)",
+        "for i in 3:",
+        "print(fruits[i])",
+        "for fruit in range(len(fruits)):",
+        "print(fruits)",
+        "while fruit in fruits:",
+        "print(fruit)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 0\nwhile count < 3:\n    print(count)\n    count += 1"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue",
+        "for i in range(5):\n    if i == 3:\n        continue\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(2):\n    for j in range(3):\n        print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(3):\n    print(i)\nelse:\n    print('Loop completed')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "enumerate",
+        "fruits = ['apple', 'banana', 'cherry']\nfor index, fruit in enumerate(fruits, start=1):\n    print(index, fruit)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "[x**2 for x in range(5)]",
+        "[x*2 for x in range(5)]",
+        "list(x**2 for x in range(5))"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def gen_numbers():\n    for i in range(3):\n        yield i * i\n\nfor number in gen_numbers():\n    print(number)"
+      ]
+    }
+  ]
+}

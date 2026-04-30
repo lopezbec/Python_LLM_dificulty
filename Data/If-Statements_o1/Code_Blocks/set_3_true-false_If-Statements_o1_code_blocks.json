@@ -1,0 +1,73 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "elif",
+        "if-elif-else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        ":",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "()"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "Indentation",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'if'",
+        "x = a if condition else b"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statements"
+      ]
+    }
+  ]
+}

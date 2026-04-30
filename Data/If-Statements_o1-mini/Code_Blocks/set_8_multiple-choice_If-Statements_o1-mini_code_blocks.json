@@ -1,0 +1,107 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if (x > y) {",
+        "if x > y:",
+        "if x > y then",
+        "if x > y do"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 10",
+        "y = 5",
+        "if x > y:",
+        "    print(\"x is greater than y\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "elseif",
+        "elif",
+        "else if",
+        "otherwise"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 7",
+        "if x > 5:",
+        "    if x < 10:",
+        "        print(\"x is between 5 and 10\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 20",
+        "if x > 10:",
+        "    print(\"Greater than 10\")",
+        "elif x > 15:",
+        "    print(\"Greater than 15\")",
+        "else:",
+        "    print(\"10 or less\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 0 and y > 0:",
+        "if (x > 0) && (y > 0):",
+        "if x > 0 & y > 0:",
+        "if x > 0 AND y > 0:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 3",
+        "y = 4",
+        "if x > 2 and y < 5:",
+        "    print(\"Condition met\")",
+        "else:",
+        "    print(\"Condition not met\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "numbers = [1, 2, 3, 4, 5]",
+        "for num in numbers:",
+        "    if num % 2 == 0:",
+        "        print(num)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 10",
+        "if x == 10:",
+        "    print(\"Ten\")",
+        "elif x > 5:",
+        "    print(\"Greater than five\")",
+        "else:",
+        "    print(\"Less than or equal to five\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "a = 15",
+        "b = 20",
+        "if a > 10:",
+        "    if b > 15:",
+        "        print(\"a > 10 and b > 15\")",
+        "    else:",
+        "        print(\"a > 10 and b <= 15\")",
+        "else:",
+        "    print(\"a <= 10\")"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else clause",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "indentation",
+        "if statements",
+        "syntax"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "condition",
+        "if statement",
+        "comparison operators",
+        "==",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif clauses",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if statement",
+        "nested if statements"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'and' logical operator",
+        "if statement",
+        "condition",
+        "code block"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Variables",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "assigning a value to a variable",
+        "condition",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if statement",
+        "empty lists",
+        "empty strings",
+        "zero",
+        "False"
+      ]
+    }
+  ]
+}

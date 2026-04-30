@@ -1,0 +1,55 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "An if-statement in Python executes a block of code if a specified condition is true.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "In Python, every if-statement must be followed by an else-statement.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "The condition in an if-statement can only check for equality.",
+            "answer": false
+        },
+        {
+            "difficulty": 4,
+            "question": "If the condition in an if-statement is False, the code block under that if-statement will be skipped.",
+            "answer": true
+        },
+        {
+            "difficulty": 5,
+            "question": "You can use logical operators like 'and', 'or', and 'not' in Python's if-statements to combine conditions.",
+            "answer": true
+        },
+        {
+            "difficulty": 6,
+            "question": "Python's if-statements do not support the elif keyword for adding additional conditions.",
+            "answer": false
+        },
+        {
+            "difficulty": 7,
+            "question": "It is possible to nest if-statements inside other if-statements in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 8,
+            "question": "In Python, the colon (:) at the end of an if-statement is optional.",
+            "answer": false
+        },
+        {
+            "difficulty": 9,
+            "question": "With short-circuit evaluation, Python stops evaluating an if-condition as soon as it determines the overall condition's truth value.",
+            "answer": true
+        },
+        {
+            "difficulty": 10,
+            "question": "In Python, you can use assignment expressions (also known as the walrus operator) in the condition of if-statements to both test and assign a value simultaneously.",
+            "answer": true
+        }
+    ]
+}

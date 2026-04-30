@@ -1,0 +1,105 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if ___:\n    print('x is small')",
+        "x < 5",
+        "x > 5",
+        "x == 5"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "y",
+        "if ___:\n    print('Perfect ten')\nelse:\n    print('Not quite')",
+        "y == 10",
+        "y > 10",
+        "y < 10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "z",
+        "if ___ and ___:\n    print('z is within range')",
+        "z >= 1",
+        "z <= 10",
+        "z > 10"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "a",
+        "if ___:\n    print('negative')\nelif ___:\n    print('zero')\nelse:\n    print('positive')",
+        "a < 0",
+        "a == 0",
+        "a > 0"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "b",
+        "if ___ and ___:\n    print('b is positive and even')",
+        "b > 0",
+        "b % 2 == 0",
+        "b < 0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "c",
+        "if ___:\n    if ___:\n        print('c is hello')",
+        "isinstance(c, str)",
+        "c == 'hello'",
+        "c != 'hello'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "if ___ or ___:\n    print('x is out of range')",
+        "x < 0",
+        "x > 100",
+        "0 <= x <= 100"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "number",
+        "if ___:\n    print('Divisible by both')\nelif ___:\n    print('Divisible by 2')\nelif ___:\n    print('Divisible by 3')",
+        "number % 2 == 0 and number % 3 == 0",
+        "number % 2 == 0",
+        "number % 3 == 0"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "num",
+        "i",
+        "if ___:\n    print('num is not a prime')",
+        "num % i == 0",
+        "for i in range(2, int(num**0.5) + 1)",
+        "num > 1"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "s",
+        "def is_palindrome(s):\n    if len(s) <= 1:\n        return True\n    elif ___ and ___:\n        return is_palindrome(s[1:-1])\n    else:\n        return False",
+        "s[0] == s[-1]",
+        "s[1:] == s[:-1]",
+        "s != s[::-1]"
+      ]
+    }
+  ]
+}

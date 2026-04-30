@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(___):",
+        "print(i)",
+        "5"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(10):",
+        "if i % 2 == 0:",
+        "____",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "while ____:",
+        "count",
+        "count < 10"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for index, value in enumerate(___):",
+        "my_list"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(3):",
+        "for j in range(___):",
+        "print(i, j)",
+        "2"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for key in ___.keys():",
+        "my_dict"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "squares = [x___2 for x in range(10)]",
+        "x",
+        "**",
+        "for x in range(10)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def generator():",
+        "for item in data:",
+        "___ item",
+        "yield",
+        "data"
+      ]
+    }
+  ]
+}

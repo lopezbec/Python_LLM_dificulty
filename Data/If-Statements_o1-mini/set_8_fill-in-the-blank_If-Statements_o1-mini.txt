@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "Fill in the blank to complete the if-statement in Python:\n\n```python\n___ x > 10:\n    print(\"x is greater than 10\")\n```",
+    "difficulty": 1,
+    "answer": "if"
+  },
+  {
+    "question": "Fill in the blank to check if the variable `age` is at least 18:\n\n```python\nif ___:\n    print(\"You are an adult.\")\n```",
+    "difficulty": 2,
+    "answer": "age >= 18"
+  },
+  {
+    "question": "Fill in the blank to ensure proper indentation in the following if-statement:\n\n```python\nif temperature > 30:\n___ print(\"It's a hot day.\")\n```",
+    "difficulty": 3,
+    "answer": "    "
+  },
+  {
+    "question": "Fill in the blank to add an else clause to the if-statement:\n\n```python\nif score >= 50:\n    print(\"Pass\")\n___:\n    print(\"Fail\")\n```",
+    "difficulty": 4,
+    "answer": "else"
+  },
+  {
+    "question": "Fill in the blank to add an elif condition checking if `score` is exactly 75:\n\n```python\nif score > 90:\n    print(\"Excellent\")\nelif ___:\n    print(\"Good\")\nelse:\n    print(\"Average\")\n```",
+    "difficulty": 5,
+    "answer": "score == 75"
+  },
+  {
+    "question": "Fill in the blank with the appropriate logical operator to check if `x` is between 10 and 20:\n\n```python\nif x > 10 ___ x < 20:\n    print(\"x is between 10 and 20\")\n```",
+    "difficulty": 6,
+    "answer": "and"
+  },
+  {
+    "question": "Fill in the blanks to create a nested if-statement that checks if `num` is positive and even:\n\n```python\nif num > 0:\n    ___ num % 2 == 0:\n        print(\"Positive even number\")\n```",
+    "difficulty": 7,
+    "answer": "if"
+  },
+  {
+    "question": "Fill in the blank to use a ternary if-else statement that assigns `'Yes'` to `result` if `flag` is `True`, otherwise `'No'`:\n\n```python\nresult = 'Yes' ___ flag ___ 'No'\n```",
+    "difficulty": 8,
+    "answer": "if, else"
+  },
+  {
+    "question": "Fill in the blanks to check if `a` is divisible by both `b` and `c` using logical operators:\n\n```python\nif a % b == 0 ___ a % c == 0:\n    print(\"Divisible by both\")\n```",
+    "difficulty": 9,
+    "answer": "and"
+  },
+  {
+    "question": "Fill in the blank to handle multiple conditions using nested if-statements to categorize `age`:\n\n```python\nif age < 13:\n    category = \"Child\"\nelif age < 20:\n    ___ age < 65:\n        category = \"Adult\"\n    else:\n        category = \"Senior\"\n```",
+    "difficulty": 10,
+    "answer": "if"
+  }
+]
+```

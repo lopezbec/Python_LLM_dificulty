@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "while",
+        "x > 5:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x % 2 == 0____",
+        ":",
+        ";"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "else",
+        "for",
+        "if score >= 60:\n    print('Pass')\nelse:\n    print('Fail')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "while",
+        "if temperature > 30:\n    print('Hot')\nelif temperature > 15:\n    print('Warm')\nelse:\n    print('Cold')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "for",
+        "if a > b:\n    print('a is greater')\nelif a == b:\n    print('a equals b')\nelse a < b:\n    print('a is less')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x __ 10:",
+        "!=",
+        "==",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 5:\n____print('x is greater than 5')",
+        "    ",
+        "  ",
+        "\t"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "while",
+        "if x > 0:\n    if x > 10:\n        print('Large number')\n    else:\n        print('Small positive number')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 5 __ y < 10:\n    print('Within range')",
+        "or",
+        "and",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (x == 10 __1__ x < 20) __2__ (y != 0 __3__ y > -5):\n    print('Condition met')",
+        "or",
+        "and",
+        "not"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Drag the correct number into the blank to complete the basic loop structure.\n\nfor i in range(___):",
+      "options": ["5", "1", "0", "10"],
+      "answer": "5"
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blanks to complete a loop that prints numbers 0 to 4.\n\nfor i in range(___):\n    print(i)",
+      "options": ["4", "5", "0", "10"],
+      "answer": "5"
+    },
+    {
+      "difficulty": 3,
+      "question": "Drag the correct word blocks to form a loop that prints the elements of a list.\n\nlist = [1, 2, 3]\nfor element in ___ :\n    print(element)",
+      "options": ["list", "range", "string", "object"],
+      "answer": "list"
+    },
+    {
+      "difficulty": 4,
+      "question": "Complete the loop that prints odd numbers from 1 to 10.\n\nfor i in range(___, 11, ___):\n    print(i)",
+      "options": ["2", "3", "1", "0"],
+      "answer": ["1", "2"]
+    },
+    {
+      "difficulty": 5,
+      "question": "Choose the correct blocks to iterate over a dictionary.\n\nd = {'a': 1, 'b': 2}\nfor key, value in d.___() :\n    print(key, value)",
+      "options": ["items", "keys", "values", "pairs"],
+      "answer": "items"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blanks to create a loop with a break statement when the value is 3.\n\nfor i in range(___):\n    if i == ___:\n        break\n    print(i)",
+      "options": ["5", "3", "10", "1"],
+      "answer": ["5", "3"]
+    },
+    {
+      "difficulty": 7,
+      "question": "Complete the nested loops that print pairs of numbers.\n\nfor i in range(3):\n    for j in range(___):\n        print(i, j)",
+      "options": ["3", "2", "1", "4"],
+      "answer": "3"
+    },
+    {
+      "difficulty": 8,
+      "question": "Select the correct components to use a loop with the continue statement to skip numbers divisible by 2.\n\nfor i in range(5):\n    if i % ___ == 0:\n        ___   \n    print(i)",
+      "options": ["2", "3", "continue", "break"],
+      "answer": ["2", "continue"]
+    },
+    {
+      "difficulty": 9,
+      "question": "Complete the loop with the correct block to iterate over only even indices in a list.\n\nlst = [10, 20, 30, 40]\nfor i in range(___, len(lst), ___):\n    print(lst[i])",
+      "options": ["0", "1", "2", "3"],
+      "answer": ["0", "2"]
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blanks to create a loop where a function call is made within the loop, and continues only if the function returns True.\n\ndef check(value):\n    return value % 2 == 0\n\nfor i in range(1, 10):\n    if not check(___) :\n        continue\n    print(i)",
+      "options": ["i", "value", "j", "5"],
+      "answer": ["i"]
+    }
+  ]
+}

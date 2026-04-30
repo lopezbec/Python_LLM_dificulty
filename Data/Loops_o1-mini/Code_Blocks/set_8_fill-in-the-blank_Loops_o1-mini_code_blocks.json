@@ -1,0 +1,19 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "while",
+        "for",
+        "continue",
+        "break",
+        "enumerate",
+        "nested",
+        "range",
+        "do-while",
+        "square brackets",
+        "memory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "block of code",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "condition",
+        "if-statement",
+        "boolean value",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "indentation",
+        "scope",
+        "code block",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "condition",
+        "code block"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "else clause",
+        "if-statement",
+        "if condition",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "elif clauses",
+        "if-else statement",
+        "multiple conditions"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "logical operators",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Variables",
+        "if-statement",
+        "if-block"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "multiple conditions",
+        "logical operators"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "loop",
+        "condition",
+        "if-statement"
+      ]
+    }
+  ]
+}

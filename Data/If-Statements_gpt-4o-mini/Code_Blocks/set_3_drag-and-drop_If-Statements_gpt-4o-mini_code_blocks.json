@@ -1,0 +1,123 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ( ______ ) {\n    // code block\n}",
+        "5 > 2",
+        "hello",
+        "function()",
+        "myVariable"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x == 10) { ______ }",
+        "x == 10",
+        "print('x is 10')",
+        "x = 5",
+        "x + 1",
+        "if (x)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if ( ______ ) { return True; }",
+        "x != 0",
+        "return False",
+        "True",
+        "x = 0"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (y < 0) { ______ } else { print(y) }",
+        "y < 0",
+        "print('Negative')",
+        "y * 2",
+        "True",
+        "y = 1",
+        "print(y)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if (grade >= 90) { print('A'); } ______ { print('B'); }",
+        "grade >= 90",
+        "print('A')",
+        "if (grade >= 80)",
+        "grade = 80",
+        "print('Passing')",
+        "if (grade < 90)",
+        "print('B')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x > 0) {\n    if ( ______ ) {\n        print('Positive even number');\n    }\n}",
+        "x > 0",
+        "x % 2 == 0",
+        "x < 10",
+        "x + 1",
+        "print('Even')",
+        "print('Positive even number')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (user_input == 'yes') { print('Proceed'); } ______ { print('Cancel'); }",
+        "user_input == 'yes'",
+        "print('Proceed')",
+        "else if (user_input == 'no')",
+        "if (user_input != 'yes')",
+        "else",
+        "else if (user_input == 'maybe')",
+        "print('Cancel')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (temperature > 30) { print('Hot'); } ______ { print('Cold'); } else { print('Temperate'); }",
+        "temperature > 30",
+        "print('Hot')",
+        "if (temperature <= 0)",
+        "else",
+        "if (temperature < 20)",
+        "if (temperature == 30)",
+        "print('Cold')",
+        "print('Temperate')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (num % 2 == 0) {\n    if (num == 0) { ______ }\n}",
+        "num % 2 == 0",
+        "num == 0",
+        "print('Zero')",
+        "print('Even')",
+        "return False",
+        "num = 100"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (x > 5 && y < 10) { ______ } else { print('Conditions not met'); }",
+        "x > 5 && y < 10",
+        "print('Both conditions satisfied')",
+        "return True",
+        "x + y",
+        "print('Single condition met')",
+        "print('Conditions not met')"
+      ]
+    }
+  ]
+}

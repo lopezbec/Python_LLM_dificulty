@@ -1,0 +1,171 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 8",
+        "____ x < 10 ____",
+        "print('Small')",
+        "else:",
+        "print('Large')",
+        "if",
+        ":",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 0",
+        "____ x < 0:",
+        "print('Negative')",
+        "____ x == 0:",
+        "print('Zero')",
+        "else:",
+        "print('Positive')",
+        "if",
+        "while",
+        "elif",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 4",
+        "if x > 0:",
+        "____ x % 2 ____ 0:",
+        "print('Positive even')",
+        "else:",
+        "print('Positive odd')",
+        "else:",
+        "print('Not positive')",
+        "if",
+        "==",
+        "elif",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 7",
+        "____ x < 0:",
+        "print('Negative')",
+        "____ x <= 10:",
+        "print('Small positive')",
+        "else:",
+        "print('Large positive')",
+        "if",
+        "while",
+        "elif",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 105",
+        "if x > 100:",
+        "____ x % 3 == 0:",
+        "print('Divisible by 3 and greater than 100')",
+        "else:",
+        "print('Greater than 100 but not divisible by 3')",
+        "____ x % 5 == 0:",
+        "print('Divisible by 5')",
+        "if",
+        "while",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10",
+        "if x >= 5 ____ x <= 15:",
+        "print('Between 5 and 15')",
+        "elif x ____ 20:",
+        "print('Equal to 20')",
+        "else:",
+        "print('Outside the range')",
+        "and",
+        "or",
+        ">",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 6",
+        "____ (x % 2 == 0 ____ x % 3 == 0):",
+        "print('Multiple of 2 and 3')",
+        "elif x < 0:",
+        "print('Negative')",
+        "else:",
+        "print('Does not match any condition')",
+        "if",
+        "elif",
+        "or",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score = 95",
+        "____ score > 50:",
+        "____ score > 90:",
+        "print('Excellent')",
+        "else:",
+        "print('Passing')",
+        "else:",
+        "print('Failing')",
+        "if",
+        "elif",
+        "while",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def evaluate_grade(grade):",
+        "____ grade >= 90:",
+        "print('A')",
+        "____ grade >= 80:",
+        "print('B')",
+        "elif grade >= 70:",
+        "print('C')",
+        "elif grade >= 60:",
+        "print('D')",
+        "else:",
+        "print('F')",
+        "if",
+        "elif",
+        "while",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 7",
+        "____ x % 4 == 0:",
+        "print('Multiple of 4')",
+        "____ x < 10:",
+        "____ x in [2, 3, 5, 7]:",
+        "print('Prime under 10')",
+        "else:",
+        "print('Under 10 but not prime')",
+        "else:",
+        "print('Does not meet any condition')",
+        "if",
+        "elif",
+        "while",
+        "for"
+      ]
+    }
+  ]
+}

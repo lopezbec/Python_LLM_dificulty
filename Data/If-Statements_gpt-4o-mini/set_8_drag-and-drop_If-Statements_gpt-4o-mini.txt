@@ -1,0 +1,109 @@
+Sure! Here are 10 drag-and-drop questions about if-statements, formatted as JSON objects, incrementing in difficulty from 1 to 10.
+
+```json
+[
+    {
+        "difficulty": 1,
+        "question": "Drag and drop the correct statement to complete the if-statement: \n if x > 10: \n    _____\n",
+        "options": [
+            "print('x is greater than 10')",
+            "print('x is less than 10')",
+            "print('x equals 10')"
+        ],
+        "correct_answer": "print('x is greater than 10')"
+    },
+    {
+        "difficulty": 2,
+        "question": "Fill in the blank in the if-statement: \n if y == 5: \n    _____\n",
+        "options": [
+            "y += 1",
+            "print('y is not 5')",
+            "y = 0"
+        ],
+        "correct_answer": "y += 1"
+    },
+    {
+        "difficulty": 3,
+        "question": "Drag and drop the correct statements to show how to use an else clause:\n if age < 18: \n    _____\n else: \n    _____\n",
+        "options": [
+            "print('You are a minor')",
+            "print('You are an adult')",
+            "age += 1"
+        ],
+        "correct_answers": [
+            "print('You are a minor')",
+            "print('You are an adult')"
+        ]
+    },
+    {
+        "difficulty": 4,
+        "question": "Complete the code snippet by dragging the correct condition: \n if _____: \n    print('True condition')\n",
+        "options": [
+            "x != 0",
+            "x == 0",
+            "x < 0"
+        ],
+        "correct_answer": "x != 0"
+    },
+    {
+        "difficulty": 5,
+        "question": "Drag and drop the correct code to check if the number is even:\n if number % 2 == 0: \n    _____\n",
+        "options": [
+            "print('Number is odd')",
+            "print('Number is even')",
+            "number += 1"
+        ],
+        "correct_answer": "print('Number is even')"
+    },
+    {
+        "difficulty": 6,
+        "question": "Arrange the following lines to form a valid if-elif-else structure:\n 1. print('True')\n 2. if x > 10:\n 3. elif x == 10:\n 4. print('False')\n 5. print('Equal to 10')\n",
+        "correct_order": [2, 1, 3, 5, 4]
+    },
+    {
+        "difficulty": 7,
+        "question": "Create a valid if-statement by dragging the correct comparison operator:\n if 10 _____ 20: \n    print('10 is less than 20')\n",
+        "options": [
+            ">=",
+            "<",
+            "=="
+        ],
+        "correct_answer": "<"
+    },
+    {
+        "difficulty": 8,
+        "question": "Complete the if-elif-else statement for checking the range:\n if score < 50: \n    _____\n elif score >= 50 and score < 70: \n    _____\n else: \n    _____\n",
+        "options": [
+            "print('Fail')",
+            "print('Pass')",
+            "print('Excellent')"
+        ],
+        "correct_answers": [
+            "print('Fail')",
+            "print('Pass')",
+            "print('Excellent')"
+        ]
+    },
+    {
+        "difficulty": 9,
+        "question": "Arrange the following if-statement snippets into a complete valid code:\n 1. if user_input == 'yes':\n 2. print('Proceed')\n 3. else:\n 4. print('Do not proceed')\n",
+        "correct_order": [1, 2, 3, 4]
+    },
+    {
+        "difficulty": 10,
+        "question": "Drag and drop the complete function that uses if-statements to decide on a rating:\n def rate_quality(q):\n if q >= 90:\n    _____\n elif q >= 70:\n    _____\n else:\n    _____\n",
+        "options": [
+            "return 'Excellent'",
+            "return 'Good'",
+            "return 'Needs improvement'"
+        ],
+        "correct_answers": [
+            "return 'Excellent'",
+            "return 'Good'",
+            "return 'Needs improvement'"
+        ]
+    }
+]
+```
+
+Each question has been crafted to ensure clarity, correctness, and adherence to the specified difficulty level. The structure allows for a variety of interactions while addressing key concepts related to if-statements in Python.

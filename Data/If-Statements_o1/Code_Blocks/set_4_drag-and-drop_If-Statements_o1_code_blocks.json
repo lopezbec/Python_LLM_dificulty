@@ -1,0 +1,170 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "name = 'Alice'",
+        "___ name == 'Alice':",
+        "print('Hello')",
+        "if",
+        "for",
+        "while",
+        "if",
+        "name == 'Alice'"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 10",
+        "___ x > 0:",
+        "___('Positive')",
+        "if",
+        "print",
+        "else",
+        "if",
+        "print",
+        "x > 0"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5",
+        "if x % 2 == 0:",
+        "print(___)",
+        "___:",
+        "print(___)",
+        "Even",
+        "Odd",
+        "while",
+        "else",
+        "Even",
+        "else",
+        "Odd",
+        "x % 2 == 0"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "y = 12",
+        "___ y > 10 ___ y != 15:",
+        "print('Valid')",
+        "if",
+        "and",
+        "else",
+        "or",
+        "if",
+        "and",
+        "y > 10",
+        "y != 15"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "temp = 25",
+        "if temp > 30:",
+        "print(___)",
+        "___ 20 <= temp <= 30:",
+        "print(___)",
+        "___:",
+        "print(___)",
+        "else",
+        "elif",
+        "Hot",
+        "Warm",
+        "Cold",
+        "Hot",
+        "elif",
+        "Warm",
+        "else",
+        "Cold",
+        "temp > 30",
+        "20 <= temp <= 30"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "num = 9",
+        "___ num > 0:",
+        "___ num % 3 == 0:",
+        "print('Positive and divisible by 3')",
+        "if",
+        "for",
+        "else",
+        "if",
+        "if",
+        "if",
+        "num > 0",
+        "num % 3 == 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "logged_in = True",
+        "role = 'admin'",
+        "if logged_in ___ role == 'admin':",
+        "print('Access Granted')",
+        "==",
+        "and",
+        "or",
+        "else",
+        "and",
+        "logged_in",
+        "role == 'admin'"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 150",
+        "if x < 0 ___ x > 100:",
+        "print('Out of Range')",
+        "and",
+        "or",
+        "or",
+        "x < 0",
+        "x > 100"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "items = ['A', 'B', 'C']",
+        "if 'B' ___ items:",
+        "print('Found!')",
+        "in",
+        "not",
+        "else",
+        "in",
+        "'B' in items"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "val = 40",
+        "___ val > 40:",
+        "print('Above')",
+        "___ val == 40:",
+        "print('Equal')",
+        "___:",
+        "print('Below')",
+        "if",
+        "elif",
+        "else",
+        "while",
+        "for",
+        "if",
+        "elif",
+        "else",
+        "val > 40",
+        "val == 40"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "number = 10",
+        "if ___ > 0:",
+        "print(\"Positive\")",
+        "number"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "age = 18",
+        "if age >= 18:",
+        "print(\"Adult\")",
+        "else:",
+        "___(\"Minor\")",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "score = 85",
+        "if score ___ 100:",
+        "print(\"Perfect Score\")",
+        "score",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "temp = 32",
+        "if temp > 30:",
+        "print(\"Warm\")",
+        "___ temp < 32:",
+        "print(\"Freezing\")",
+        "else:",
+        "print(\"Cold\")",
+        "temp",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "num = 4",
+        "if num > 0:",
+        "___ num % 2 == 0:",
+        "print(\"Positive and Even\")",
+        "num",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "age = 20",
+        "status = \"Adult\" if age >= 18 ___ \"Minor\"",
+        "age",
+        "status",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 5",
+        "y = 10",
+        "if x > 0 ___ y > 5:",
+        "print(\"Both conditions are true\")",
+        "x",
+        "y",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "inventory = ['apple', 'banana', 'orange']",
+        "item = 'grape'",
+        "if item ___ ___ inventory:",
+        "print(\"Item not found\")",
+        "item",
+        "inventory",
+        "not in"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def process(value):",
+        "if value ___ None:",
+        "return",
+        "# Continue processing",
+        "value",
+        "is not"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "numbers = [1, 2, 3, 4, 5, 6]",
+        "even_numbers = [n for n in numbers ___ n % 2 == 0]",
+        "numbers",
+        "even_numbers",
+        "n",
+        "if"
+      ]
+    }
+  ]
+}

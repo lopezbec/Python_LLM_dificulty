@@ -1,0 +1,68 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "range",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "dictionary"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "list"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Nested loops"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while",
+        "for"
+      ]
+    }
+  ]
+}

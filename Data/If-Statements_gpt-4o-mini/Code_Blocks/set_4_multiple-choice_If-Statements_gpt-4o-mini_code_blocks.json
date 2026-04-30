@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if True:\n    print('Yes')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x == 5:",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10 \nif x < 5:\n    print('Low') \nelif x < 15:\n    print('Medium') \nelse:\n    print('High')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if condition:\n    # do something\nelse:\n    # do something else",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 2 \ny = 3 \nif x == y:\n    print('Equal') \nelse:\n    print('Not Equal')",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "age = 18 \nif age < 18:\n    print('Minor') \nelif age == 18:\n    print('Just Adult') \nelse:\n    print('Adult')",
+        "age"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 7 \nif num % 2 == 0:\n    print('Even') \nelif num % 2 != 0:\n    print('Odd') \nelse:\n    print('Not a number')",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = -5 \ny = 0 \nif x < 0:\n    print('Negative') \nelif y < 0:\n    print('Y Negative') \nelse:\n    print('None')",
+        "x",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "value = 'Python' \nif 'y' in value:\n    print('Found') \nelif 'o' in value:\n    print('Also Found') \nelse:\n    print('Not Found')",
+        "value"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 100 \nif x > 100:\n    print('Over') \nelif x == 100:\n    print('Equal') \nelse:\n    print('Under')",
+        "x"
+      ]
+    }
+  ]
+}

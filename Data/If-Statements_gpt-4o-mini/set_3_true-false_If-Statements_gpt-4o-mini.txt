@@ -1,0 +1,54 @@
+```json
+[
+    {
+        "difficulty": 1,
+        "question": "An if-statement is used to execute a block of code only if a specified condition evaluates to True.",
+        "answer": true
+    },
+    {
+        "difficulty": 2,
+        "question": "In an if-statement, the condition must be an integer for the statement to work properly.",
+        "answer": false
+    },
+    {
+        "difficulty": 3,
+        "question": "An else clause is required in an if-statement.",
+        "answer": false
+    },
+    {
+        "difficulty": 4,
+        "question": "An if-statement can evaluate multiple conditions using the 'and' keyword.",
+        "answer": true
+    },
+    {
+        "difficulty": 5,
+        "question": "If an if-statement condition evaluates to False, the code block within that if-statement will still execute.",
+        "answer": false
+    },
+    {
+        "difficulty": 6,
+        "question": "You can nest if-statements within each other to create more complex decision-making structures.",
+        "answer": true
+    },
+    {
+        "difficulty": 7,
+        "question": "In Python, an if-statement can directly evaluate the value of a string to determine if it is True or False.",
+        "answer": true
+    },
+    {
+        "difficulty": 8,
+        "question": "An if-statement can have several elif clauses, but only one else clause.",
+        "answer": true
+    },
+    {
+        "difficulty": 9,
+        "question": "When using multiple if-statements sequentially, both can execute even if the first condition evaluates to True.",
+        "answer": true
+    },
+    {
+        "difficulty": 10,
+        "question": "An if-statement can only compare numerical data types and cannot be used with booleans or strings.",
+        "answer": false
+    }
+]
+```

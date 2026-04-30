@@ -1,0 +1,115 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "print('Greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 3",
+        "if x == 2:",
+        "print('Two')",
+        "else:",
+        "print('Not Two')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 20",
+        "if x < 10:",
+        "print('Less than 10')",
+        "elif x < 30:",
+        "print('Less than 30')",
+        "else:",
+        "print('30 or more')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "age = 18",
+        "if age >= 18:",
+        "print('Adult')",
+        "else:",
+        "print('Minor')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "num = 15",
+        "if num % 2 == 0:",
+        "print('Even')",
+        "elif num % 2 != 0:",
+        "print('Odd')",
+        "else:",
+        "print('Not a number')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "score = 70",
+        "if score >= 90:",
+        "print('A')",
+        "elif score >= 80:",
+        "print('B')",
+        "elif score >= 70:",
+        "print('C')",
+        "else:",
+        "print('D')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = -5",
+        "if x > 0:",
+        "print('Positive')",
+        "elif x < 0:",
+        "print('Negative')",
+        "else:",
+        "print('Zero')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "number = 0",
+        "if number:",
+        "print('True')",
+        "else:",
+        "print('False')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 5",
+        "if x == 5:",
+        "print('Five')",
+        "elif x >= 5:",
+        "print('Greater than or equal to Five')",
+        "else:",
+        "print('Less than Five')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "num = 4",
+        "if num % 2 == 0:",
+        "result = 'Even'",
+        "else:",
+        "result = 'Odd'",
+        "print(result)"
+      ]
+    }
+  ]
+}

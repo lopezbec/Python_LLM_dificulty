@@ -1,0 +1,104 @@
+```json
+[
+  {
+    "question": "What is the correct syntax for a basic if statement in Python?",
+    "options": [
+      "if x = 5:",
+      "if (x == 5)",
+      "if x == 5:",
+      "if x == 5 then"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What will be printed when the following code is executed?\n\n```python\nx = 10\nif x > 5:\n    print(\"Greater than 5\")\n```",
+    "options": [
+      "Greater than 5",
+      "Less than or equal to 5",
+      "Nothing will be printed",
+      "An error occurs"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which indentation is correct for the if statement below?\n\n```python\nx = 3\nif x == 3:\nprint(\"x is three\")\n```",
+    "options": [
+      "Indent 'print' with one space",
+      "Indent 'print' with two spaces",
+      "Indent 'print' with four spaces",
+      "No indentation needed"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does the else block do in an if-else statement?",
+    "options": [
+      "Executes if the if condition is True",
+      "Executes if the if condition is False",
+      "Always executes regardless of the if condition",
+      "Defines a new condition"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How many elif statements can you have in a single if-elif-else chain?",
+    "options": [
+      "Only one",
+      "Up to three",
+      "As many as needed",
+      "None"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nx = 4\nif x > 2 and x < 5:\n    print(\"x is between 2 and 5\")\n```",
+    "options": [
+      "x is between 2 and 5",
+      "x is not between 2 and 5",
+      "Nothing is printed",
+      "An error occurs"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What will be the output of the following code snippet?\n\n```python\nx = 10\nif x > 5:\n    if x < 15:\n        print(\"x is between 5 and 15\")\n```",
+    "options": [
+      "x is between 5 and 15",
+      "x is greater than 5",
+      "Nothing is printed",
+      "An error occurs"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following will correctly check if a number is even within a loop?",
+    "options": [
+      "for i in range(10):\n    if i / 2 == 0:\n        print(i)",
+      "for i in range(10):\n    if i % 2 = 0:\n        print(i)",
+      "for i in range(10):\n    if i % 2 == 0:\n        print(i)",
+      "for i in range(10):\n    if i // 2 == 0:\n        print(i)"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 5\nif x > 3 or x < 2:\n    print(\"Condition is True\")\nelse:\n    print(\"Condition is False\")\n```",
+    "options": [
+      "Condition is True",
+      "Condition is False",
+      "Nothing is printed",
+      "An error occurs"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Consider the following code. What will be printed if `a = 10`, `b = 20`, and `c = 30`?\n\n```python\nif a > b:\n    if a > c:\n        print(\"a is the largest\")\n    else:\n        print(\"c is the largest\")\nelif b > c:\n    print(\"b is the largest\")\nelse:\n    print(\"c is the largest\")\n```",
+    "options": [
+      "a is the largest",
+      "b is the largest",
+      "c is the largest",
+      "Nothing is printed"
+    ],
+    "answer": "C"
+  }
+]
+```

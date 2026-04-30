@@ -1,0 +1,106 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x ",
+        "> 0:",
+        "< 0:",
+        "== 0:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x % ",
+        "1 == 0:",
+        "2 == 0:",
+        "3 == 0:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else:",
+        "if x > 10:",
+        "print('Greater than 10')",
+        "print('10 or less')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "status",
+        "if status ",
+        "== 'active':",
+        "!= 'active':",
+        "is 'active':"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif grade >= 80:",
+        "if grade >= 90:",
+        "else:",
+        "print('A')",
+        "print('B')",
+        "print('C')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "item",
+        "items",
+        "if item ",
+        "in items:",
+        "not in items:",
+        "exists in items:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if age > 18 ",
+        "and country == 'USA':",
+        "print('Eligible to vote')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "elif score >= 50:",
+        "if score >= 75:",
+        "else:",
+        "print('Good')",
+        "print('Excellent')",
+        "print('Needs Improvement')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x",
+        "flag",
+        "if x > 0:",
+        "if flag:",
+        "if flag == True:",
+        "if flag == False:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if input_type == 'text':",
+        "print('Processing text...')",
+        "elif input_type == 'number':",
+        "print('Processing number...')",
+        "elif input_type == 'boolean':",
+        "print('Processing boolean...')",
+        "else:",
+        "print('Unknown input type')"
+      ]
+    }
+  ]
+}

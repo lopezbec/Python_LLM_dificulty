@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "if",
+        "for",
+        "else",
+        "def"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'for'",
+        "range()",
+        "list()",
+        "dict()",
+        "set()"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 0\nwhile x < 5:\n    x += 1\n    print(x)\n    if x == 3:\n        break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "while loop",
+        "do-while loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10\ny = 0\nwhile x > y:\n    print(x)\n    x -= 2"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(5): pass",
+        "while i in range(5): pass",
+        "for i in range(1, 6): pass",
+        "while True: pass"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'continue'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [10, 20, 30]\nfor i, val in enumerate(numbers):\n    if val == 20:\n        numbers[i] = 40\nprint(numbers)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(1, 4):\n    for j in range(i):\n        print(i, end='')\n    print()"
+      ]
+    }
+  ]
+}

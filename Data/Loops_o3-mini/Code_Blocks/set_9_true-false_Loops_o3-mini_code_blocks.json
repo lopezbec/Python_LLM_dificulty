@@ -1,0 +1,75 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "list",
+        "tuple",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "break statement",
+        "else clause"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "loop variable"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "range()",
+        "list",
+        "range object"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "else clause",
+        "break statement",
+        "else block"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "list",
+        "for loop"
+      ]
+    }
+  ]
+}

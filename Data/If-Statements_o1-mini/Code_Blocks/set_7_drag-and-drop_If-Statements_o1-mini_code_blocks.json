@@ -1,0 +1,117 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ___ (x > 10):\n    print(\"x is greater than 10\")",
+        "if",
+        "elif",
+        "else",
+        "for",
+        "___"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(\"Yes\")",
+        "if a == 5:",
+        "else:",
+        "print(\"No\")",
+        "a"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if temperature > 30:\n___ print(\"It's a hot day\")\nprint(\"Stay hydrated\")",
+        "    ",
+        "        ",
+        "No indentation",
+        "Invalid indentation",
+        "___"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score >= 90:",
+        "elif score >= 75:",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 10 ___ x < 20:\n    print(\"x is between 10 and 20\")",
+        "and",
+        "or",
+        "not",
+        "==",
+        "___",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if num > 0:",
+        "if num % 2 == 0:",
+        "print(\"Number is positive and even\")",
+        "else:",
+        "print(\"Number is positive but odd\")",
+        "num",
+        "num % 2 == 0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if score >= 90:\n    grade = \"A\"\n___ score >= 80:\n    grade = \"B\"\n___:\n    grade = \"C\"",
+        "elif",
+        "else",
+        "___",
+        "score"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if not (age ___ 0 ___ age ___ 120):\n    print(\"Invalid age\")\nelse:\n    print(\"Age is valid\")",
+        "<",
+        ">",
+        "and",
+        "or",
+        "<=",
+        ">=",
+        "___",
+        "age"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if temp >= 100:\n    warning = ___\nelif temp >= 90:\n    warning = ___\nelif temp >= 80:\n    warning = ___\nelse:\n    warning = ___",
+        "\"Extreme heat warning!\"",
+        "\"High temperature warning!\"",
+        "\"Moderate temperature.\"",
+        "\"Temperature is normal.\"",
+        "___",
+        "temp"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def categorize_number(n):",
+        "    if n < 0:",
+        "        return \"Negative\"",
+        "    elif n == 0:",
+        "        return \"Zero\"",
+        "    else:",
+        "        return \"Positive\"",
+        "n"
+      ]
+    }
+  ]
+}

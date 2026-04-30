@@ -1,0 +1,93 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "keyword",
+        "if statement",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else clause",
+        "if statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "multiple conditions",
+        "elif",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if statement",
+        "operators",
+        "and",
+        "or",
+        "conditions"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "indentation level",
+        "code block",
+        "if statement",
+        "Python",
+        "IndentationError"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Python",
+        "variable x",
+        "x",
+        "10",
+        "if x _____ 10:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nest an if statement",
+        "inner if",
+        "scope"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if statement",
+        "conditions",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "syntax",
+        "if statement",
+        "colon (:)",
+        "indentation level",
+        "spaces",
+        "tab"
+      ]
+    }
+  ]
+}

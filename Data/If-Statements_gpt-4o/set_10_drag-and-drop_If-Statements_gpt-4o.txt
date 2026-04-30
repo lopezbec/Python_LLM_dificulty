@@ -1,0 +1,85 @@
+
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "instruction": "Drag and drop the correct values to complete the if-statement.",
+      "code": "x = 10\nif _____ > 5:\n    print('x is greater than 5')",
+      "options": ["x", "y", "z", "w"],
+      "answer": ["x"]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "instruction": "Arrange the components to form a correct if-statement for checking if y is equal to 20.",
+      "code": "____ y ____ ____ 20:\n    print('y is 20')",
+      "options": ["if", "==", "is", ":", "="],
+      "answer": ["if", "==", ":", ""]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "instruction": "Complete the if-statement by dragging the correct operation to check if a number is less than or equal to 15.",
+      "code": "if num _____ 15:\n    print('Number is small or equal to 15')",
+      "options": [">", "<=", "!=", "=="],
+      "answer": ["<="]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "instruction": "Rearrange and complete the if-statement to check if either a or b is greater than 0.",
+      "code": "____ a > 0 ____ b > 0:\n    print('At least one is positive')",
+      "options": ["if", "else", "or", "and"],
+      "answer": ["if", "or"]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "instruction": "Construct an if-statement to determine if value is between 10 and 20 exclusive.",
+      "code": "if 10 ____ value ____ 20:\n    print('Value is between 10 and 20')",
+      "options": [">", "<", ">=", "<=", "&&"],
+      "answer": ["<", "<"]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "instruction": "Fill the blanks to form a valid nested if-statement to check if age is positive and under 18.",
+      "code": "____ age > 0:\n    ____ age < 18:\n       print('Minor')",
+      "options": ["if", "else", "elif", "while"],
+      "answer": ["if", "if"]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "instruction": "Drag and drop to create an if-else chain to print 'Normal' for temperatures between 15 and 25 inclusive.",
+      "code": "if temp < 15:\n    print('Cold')\n____ 15 <= temp <= 25:\n    print('Normal')\nelse:\n    print('Hot')",
+      "options": ["elif", "then", "else", "if"],
+      "answer": ["elif"]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "instruction": "Complete the logic to check if the user has both a valid id and their age is over 21.",
+      "code": "if valid_id ____ age > 21:\n    print('Access granted')",
+      "options": ["&&", "or", "and", "||"],
+      "answer": ["and"]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "instruction": "Construct an if-statement that checks if a character is a vowel using a list.",
+      "code": "vowels = ['a', 'e', 'i', 'o', 'u']\nchar = 'a'\n____ char ____ vowels:\n    print('Character is a vowel')",
+      "options": ["if", "not in", "in", "or"],
+      "answer": ["if", "in"]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "instruction": "Arrange the blocks to form a compound condition with if-else to validate user credentials.",
+      "code": "____ username == 'admin' ____ password == '1234':\n    print('Welcome, Admin!')\nelse:\n    print('Invalid credentials')",
+      "options": ["if", "and", "then", "or"],
+      "answer": ["if", "and"]
+    }
+  ]
+}

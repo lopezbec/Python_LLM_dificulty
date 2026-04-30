@@ -1,0 +1,104 @@
+```json
+[
+  {
+    "question": "What is the correct syntax for a simple if statement in Python?",
+    "options": {
+      "A": "if (x > y) {",
+      "B": "if x > y:",
+      "C": "if x > y then",
+      "D": "if x > y do"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 10\ny = 5\nif x > y:\n    print(\"x is greater than y\")\n```",
+    "options": {
+      "A": "x is greater than y",
+      "B": "y is greater than x",
+      "C": "No output",
+      "D": "Error"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which keyword is used to specify an alternative block of code in an if statement?",
+    "options": {
+      "A": "elseif",
+      "B": "elif",
+      "C": "else if",
+      "D": "otherwise"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What will be the output of the following code?\n\n```python\nx = 7\nif x > 5:\n    if x < 10:\n        print(\"x is between 5 and 10\")\n```",
+    "options": {
+      "A": "x is between 5 and 10",
+      "B": "x is greater than 5",
+      "C": "No output",
+      "D": "Error"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the output of the following code?\n\n```python\nx = 20\nif x > 10:\n    print(\"Greater than 10\")\nelif x > 15:\n    print(\"Greater than 15\")\nelse:\n    print(\"10 or less\")\n```",
+    "options": {
+      "A": "Greater than 15",
+      "B": "Greater than 10",
+      "C": "10 or less",
+      "D": "Error"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following conditions correctly uses a logical AND in an if statement?",
+    "options": {
+      "A": "if x > 0 and y > 0:",
+      "B": "if (x > 0) && (y > 0):",
+      "C": "if x > 0 & y > 0:",
+      "D": "if x > 0 AND y > 0:"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Consider the following code snippet. What will be printed?\n\n```python\nx = 3\ny = 4\nif x > 2 and y < 5:\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")\n```",
+    "options": {
+      "A": "Condition met",
+      "B": "Condition not met",
+      "C": "Error",
+      "D": "No output"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What will the following code output?\n\n```python\nnumbers = [1, 2, 3, 4, 5]\nfor num in numbers:\n    if num % 2 == 0:\n        print(num)\n```",
+    "options": {
+      "A": "1 3 5",
+      "B": "2 4",
+      "C": "1 2 3 4 5",
+      "D": "No output"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of the following code?\n\n```python\nx = 10\nif x == 10:\n    print(\"Ten\")\nelif x > 5:\n    print(\"Greater than five\")\nelse:\n    print(\"Less than or equal to five\")\n```",
+    "options": {
+      "A": "Ten",
+      "B": "Greater than five",
+      "C": "Less than or equal to five",
+      "D": "Error"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What will be the output of the following nested if statements?\n\n```python\na = 15\nb = 20\nif a > 10:\n    if b > 15:\n        print(\"a > 10 and b > 15\")\n    else:\n        print(\"a > 10 and b <= 15\")\nelse:\n    print(\"a <= 10\")\n```",
+    "options": {
+      "A": "a > 10 and b > 15",
+      "B": "a > 10 and b <= 15",
+      "C": "a <= 10",
+      "D": "Error"
+    },
+    "answer": "A"
+  }
+]
+```

@@ -1,0 +1,101 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "print(\"Greater\")",
+        "else:",
+        "print(\"Smaller\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "==",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "a = 5",
+        "b = 3",
+        "if a < b:",
+        "print(\"a is less\")",
+        "elif a == b:",
+        "print(\"a is equal\")",
+        "else:",
+        "print(\"a is greater\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "n = -1",
+        "if n > 0:",
+        "print(\"Positive\")",
+        "elif n == 0:",
+        "print(\"Zero\")",
+        "else:",
+        "print(\"Negative\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if age is >= 18",
+        "if age >= 18:",
+        "if age >= 18 then:",
+        "if (age >= 18)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "if-else statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 0",
+        "if x == 0:",
+        "print(\"Hi\")",
+        "if x > 0:",
+        "print(\"Hi\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if-statements",
+        "if-statement",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def check_value(val):",
+        "if val % 2 == 0:",
+        "if val % 3 == 0:",
+        "return \"Divisible by 6\"",
+        "else:",
+        "return \"Divisible by 2\"",
+        "else:",
+        "return \"Not Divisible by 2\"",
+        "check_value(9)"
+      ]
+    }
+  ]
+}

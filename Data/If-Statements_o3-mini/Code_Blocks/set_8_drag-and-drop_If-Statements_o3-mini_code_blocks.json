@@ -1,0 +1,199 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "___ x > 0:\n    print('x is positive')",
+        "if",
+        "x",
+        "print",
+        "'x is positive'"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x ___ 10:\n    print('x is ten')",
+        "if",
+        "x",
+        "==",
+        "10",
+        "print",
+        "'x is ten'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "___ x > 0:\n    print('Positive')\n___:\n    print('Non-positive')",
+        "if",
+        "x",
+        "print",
+        "'Positive'",
+        "else",
+        "print",
+        "'Non-positive'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score >= 90:\n    grade = 'A'\n___ score >= 80:\n    grade = 'B'\nelse:\n    grade = 'F'",
+        "if",
+        "score",
+        ">=",
+        "90",
+        "grade",
+        "'A'",
+        "elif",
+        "score",
+        ">=",
+        "80",
+        "grade",
+        "'B'",
+        "else",
+        "grade",
+        "'F'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "___ x > 0 ___ y > 0:\n    print('Both x and y are positive')",
+        "if",
+        "x",
+        ">",
+        "0",
+        "and",
+        "y",
+        ">",
+        "0",
+        "print",
+        "'Both x and y are positive'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 0:\n    ___ y > 0:\n        print('Both x and y are positive')\n    ___:\n        print('x is positive but y is not')",
+        "if",
+        "x",
+        ">",
+        "0",
+        "if",
+        "y",
+        ">",
+        "0",
+        "print",
+        "'Both x and y are positive'",
+        "else",
+        "print",
+        "'x is positive but y is not'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "def is_even(n):\n    ___ n % 2 ___ 0:\n        return True\n    return False",
+        "def",
+        "is_even",
+        "n",
+        "if",
+        "n",
+        "%",
+        "2",
+        "==",
+        "0",
+        "return",
+        "True",
+        "return",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if a > b:\n    if a ___ c:\n        print('a is the greatest')\n    ___:\n        print('a is greater than b but not c')\nelse:\n    print('a is not greater than b')",
+        "if",
+        "a",
+        ">",
+        "b",
+        "if",
+        "a",
+        ">",
+        "c",
+        "print",
+        "'a is the greatest'",
+        "else",
+        "print",
+        "'a is greater than b but not c'",
+        "else",
+        "print",
+        "'a is not greater than b'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if a != b:\n    if a ___ 0:\n        print('a is positive')\n    ___:\n        print('a is not positive')\nelse:\n    print('a and b are equal')",
+        "if",
+        "a",
+        "!=",
+        "b",
+        "if",
+        "a",
+        ">",
+        "0",
+        "print",
+        "'a is positive'",
+        "else",
+        "print",
+        "'a is not positive'",
+        "else",
+        "print",
+        "'a and b are equal'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def categorize_number(n):\n    if n > 0:\n        if n ___ 10:\n            return 'Small positive'\n        ___ n >= 10 and n < 100:\n            return 'Medium positive'\n        ___:\n            return 'Large positive'\n    elif n < 0:\n        return 'Negative'\n    ___:\n        return 'Zero'",
+        "def",
+        "categorize_number",
+        "n",
+        "if",
+        "n",
+        ">",
+        "0",
+        "if",
+        "n",
+        "<",
+        "10",
+        "return",
+        "'Small positive'",
+        "elif",
+        "n",
+        ">=",
+        "10",
+        "and",
+        "n",
+        "<",
+        "100",
+        "return",
+        "'Medium positive'",
+        "else",
+        "return",
+        "'Large positive'",
+        "elif",
+        "n",
+        "<",
+        "0",
+        "return",
+        "'Negative'",
+        "else",
+        "return",
+        "'Zero'"
+      ]
+    }
+  ]
+}

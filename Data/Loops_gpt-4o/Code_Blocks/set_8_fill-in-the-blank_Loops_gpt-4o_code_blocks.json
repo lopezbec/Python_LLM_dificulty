@@ -1,0 +1,98 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python",
+        "iterate",
+        "sequence",
+        "list",
+        "tuple",
+        "string",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "loop",
+        "block of code",
+        "condition",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "variable",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "exit",
+        "loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "nested loops",
+        "loop",
+        "outer loop",
+        "inner"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "skip",
+        "iteration",
+        "loop",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "range",
+        "Python",
+        "sequence of numbers",
+        "for loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Python",
+        "else",
+        "loop",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "time complexity",
+        "nested loop",
+        "n",
+        "O(n^2)",
+        "n^2"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "Python",
+        "zip",
+        "iterate",
+        "iterables",
+        "loop"
+      ]
+    }
+  ]
+}

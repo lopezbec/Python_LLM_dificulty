@@ -1,0 +1,112 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "if x == 10:",
+        "if (x == 10)",
+        "if x = 10:",
+        "if: x == 10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5",
+        "if x > 3:",
+        "print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 2",
+        "if x < 5:",
+        "print('A')",
+        "elif x < 3:",
+        "print('B')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10",
+        "if x == 10:",
+        "print('Ten')",
+        "else:",
+        "print('Not Ten')",
+        "if x > 5:",
+        "print('Greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 20",
+        "if age < 18:",
+        "print('Minor')",
+        "elif age < 65:",
+        "print('Adult')",
+        "else:",
+        "print('Senior')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = -1",
+        "if x >= 0:",
+        "print('Positive')",
+        "else:",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num = 15",
+        "if num % 2 == 0:",
+        "print('Even')",
+        "elif num % 3 == 0:",
+        "print('Divisible by 3')",
+        "else:",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 0",
+        "if x:",
+        "print('True')",
+        "else:",
+        "print('False')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 'Python'",
+        "if x == 'Python' and len(x) > 5:",
+        "print('Correct')",
+        "else:",
+        "print('Incorrect')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "score = 75",
+        "if score >= 90:",
+        "print('A')",
+        "elif score >= 75:",
+        "print('B')",
+        "elif score >= 60:",
+        "print('C')",
+        "else:",
+        "print('D')"
+      ]
+    }
+  ]
+}

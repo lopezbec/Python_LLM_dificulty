@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'for'",
+        "string",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "range",
+        "list",
+        "'for'",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "'while'",
+        "Python",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'else'",
+        "loop",
+        "Python",
+        "'break'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'break'",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'continue'",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'range(5)'",
+        "'for'",
+        "1, 2, 3, 4, 5",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for'",
+        "iterable",
+        "lists",
+        "tuples",
+        "generators"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'break'",
+        "nested loops",
+        "Python"
+      ]
+    }
+  ]
+}

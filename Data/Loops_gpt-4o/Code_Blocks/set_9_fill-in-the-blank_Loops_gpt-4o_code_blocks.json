@@ -1,0 +1,71 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for char in ___",
+        "text"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "while",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "nested loop",
+        "inner"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "List comprehension",
+        "iterables"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "range",
+        "step"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for",
+        "enumerate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x > 10) { }",
+        "if x > 10:",
+        "if x > 10 then",
+        "if x > 10 do"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5",
+        "if x > 3:",
+        "print(\"Greater than 3\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:\n    print(\"Positive\")\nelse:\n    print(\"Non-positive\")",
+        "if x > 0:\n    print(\"Positive\")\notherwise:\n    print(\"Non-positive\")",
+        "if x > 0:\n    print(\"Positive\")\nelse if:\n    print(\"Non-positive\")",
+        "if x > 0:\n    print(\"Positive\")\nend"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10",
+        "y = 20",
+        "if x == y:",
+        "print(\"Equal\")",
+        "else:",
+        "print(\"Not Equal\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 5 and y < 10:",
+        "if x > 5 or y < 10:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 15",
+        "if x > 10:",
+        "if x > 20:",
+        "print(\"Greater than 20\")",
+        "else:",
+        "print(\"Between 11 and 20\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "elif x = 0:",
+        "elif x == 0:",
+        "elif (x == 0)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 7",
+        "if x % 2 == 0:",
+        "print(\"Even\")",
+        "elif x % 3 == 0:",
+        "print(\"Divisible by 3\")",
+        "else:",
+        "print(\"Odd\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 10",
+        "y = 20",
+        "z = 30",
+        "if x < y and y < z:",
+        "if z > 25:",
+        "print(\"All conditions met\")",
+        "else:",
+        "print(\"Condition z failed\")",
+        "else:",
+        "print(\"Condition x or y failed\")"
+      ]
+    }
+  ]
+}

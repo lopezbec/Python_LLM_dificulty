@@ -1,0 +1,112 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "for",
+        "while",
+        "def"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5",
+        "if x > 2:",
+        "print('Greater than 2')",
+        "else:",
+        "print('Less than or equal to 2')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "==",
+        "!=",
+        ">=",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10",
+        "if x < 5:",
+        "print('Hi')",
+        "elif x > 15:",
+        "print('Hello')",
+        "else:",
+        "print('Goodbye')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "my_list = []",
+        "if my_list:",
+        "print('List is not empty')",
+        "else:",
+        "print('List is empty')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "'then'",
+        "if statement",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 3",
+        "y = 4",
+        "if x == 3 and y == 5 or y == 4:",
+        "print('Condition met')",
+        "else:",
+        "print('Condition not met')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'elif'",
+        "if",
+        "else",
+        "'elif'",
+        "'elif'",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 10",
+        "if x % 2 == 0:",
+        "if x % 5 == 0:",
+        "print('Divisible by 2 and 5')",
+        "else:",
+        "print('Divisible by 2 but not by 5')",
+        "else:",
+        "print('Not divisible by 2')",
+        "x = 10"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = 'Positive' if x > 0 else 'Non-positive'",
+        "result = if x > 0 then 'Positive' else 'Non-positive'",
+        "if x > 0 ? 'Positive' : 'Non-positive'",
+        "result = ('Positive', 'Non-positive')[x <= 0]",
+        "result",
+        "x > 0",
+        "'Positive'",
+        "'Non-positive'"
+      ]
+    }
+  ]
+}

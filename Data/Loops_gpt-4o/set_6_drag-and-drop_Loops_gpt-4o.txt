@@ -1,0 +1,65 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Organize the structure of a basic 'for' loop in Python.",
+      "choices": ["for", ":", "in", ":", "range(5)", "print(i)", "i"],
+      "correct_order": ["for", "i", "in", "range(5)", ":", "print(i)"]
+    },
+    {
+      "difficulty": 2,
+      "question": "Complete the code to print the numbers from 1 to 5 using a 'while' loop.",
+      "choices": ["i", "<=", "=", "5", "while", "print(i)", ":", "1", "i += 1"],
+      "correct_order": ["i", "=", "1", "while", "i", "<=", "5", ":", "print(i)", "i += 1"]
+    },
+    {
+      "difficulty": 3,
+      "question": "Correctly arrange the components of a nested loop to iterate through a matrix.",
+      "choices": ["for", "for", "print(matrix[i][j])", "i", "in", "range", "(", "len(matrix)", ")", "j", "range", "(", "len(matrix[i])", ")"],
+      "correct_order": ["for", "i", "in", "range", "(", "len(matrix)", ")", ":", "for", "j", "in", "range", "(", "len(matrix[i])", ")", ":", "print(matrix[i][j])"]
+    },
+    {
+      "difficulty": 4,
+      "question": "Arrange these blocks to create a loop that calculates and prints the factorial of a number.",
+      "choices": ["=", "factorial", "*=", "n", "1", "for", "i", "in", "range", "(", "1", ",", "n", "+", "1", ")", "print(factorial)"],
+      "correct_order": ["factorial", "=", "1", "for", "i", "in", "range", "(", "1", ",", "n", "+", "1", ")", ":", "factorial", "*=", "i", "print(factorial)"]
+    },
+    {
+      "difficulty": 5,
+      "question": "Arrange the statements to print only even numbers in a given range using a loop and conditional.",
+      "choices": ["for", "if", "%", ":", "==", "0", "print(num)", "num", "in", "range", "(", "1", ",", "11", ")"],
+      "correct_order": ["for", "num", "in", "range", "(", "1", ",", "11", ")", ":", "if", "num", "%", "2", "==", "0", ":", "print(num)"]
+    },
+    {
+      "difficulty": 6,
+      "question": "Rearrange these code snippets to count the number of vowels in a given string using a loop.",
+      "choices": ["count", "0", "for", "char", "in", "string", "if", "char", "in", "vowels", "aeiou", "+=1", ":", "print(count)"],
+      "correct_order": ["count", "=", "0", "for", "char", "in", "string", ":", "if", "char", "in", "aeiou", ":", "count", "+=", "1", "print(count)"]
+    },
+    {
+      "difficulty": 7,
+      "question": "Order these statements to create a loop that uses 'break' to stop when it finds the target.",
+      "choices": ["target", "10", "for", "if", "==", "num", ":", "break", "in", "numbers", "print", "(", "num", ")"],
+      "correct_order": ["target", "=", "10", "for", "num", "in", "numbers", ":", "if", "num", "==", "target", ":", "break", "print", "(", "num", ")"]
+    },
+    {
+      "difficulty": 8,
+      "question": "Arrange the code to skip over numbers divisible by 3 in a loop using 'continue'.",
+      "choices": ["for", "in", ":", "10", "if", "%", "3", "==", "0", "continue", "else", "print(num)", "range("],
+      "correct_order": ["for", "num", "in", "range(", "10", ")", ":", "if", "num", "%", "3", "==", "0", ":", "continue", "else", ":", "print(num)"]
+    },
+    {
+      "difficulty": 9,
+      "question": "Configure the statements to use a loop with 'else' to detect if all elements are positive.",
+      "choices": ["numbers", "[", "]", "for", "if", "<", ":", "break", "else", "print", "'All are positive'", "<= 0"],
+      "correct_order": ["numbers", "=", "[", "some_values", "]", "for", "n", "in", "numbers", ":", "if", "n", "<=", "0", ":", "break", "else", ":", "print", "'All are positive'"]
+    },
+    {
+      "difficulty": 10,
+      "question": "Complete the loop to calculate a running total. Use given variables and operators.",
+      "choices": ["total", "0", "for", "amount", "in", "transactions", "total", "=", "print", "total", "+="],
+      "correct_order": ["total", "=", "0", "for", "amount", "in", "transactions", ":", "total", "+=", "amount", "print", "total"]
+    }
+  ]
+}

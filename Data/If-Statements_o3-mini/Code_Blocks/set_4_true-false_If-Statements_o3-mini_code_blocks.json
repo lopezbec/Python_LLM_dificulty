@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "else-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statements",
+        "indentation",
+        "blocks of code"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "condition",
+        "Boolean value",
+        "truthy/falsy value"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x = y:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement's condition",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "block of code for an if-statement",
+        "indented consistently",
+        "four spaces"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "multiple statements on the same line",
+        "if-statement's block",
+        "semicolons"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "nested if-statements",
+        "else clauses"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (x > 5): print('Greater than 5') else: print('Not greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "conditional expression",
+        "ternary operator",
+        "if-statements",
+        "result = true_value if condition else false_value"
+      ]
+    }
+  ]
+}

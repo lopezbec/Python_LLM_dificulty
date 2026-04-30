@@ -1,0 +1,136 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(____):\n    print(i)",
+        "i",
+        "range",
+        "print",
+        "5",
+        "4",
+        "0",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for ____ in my_list:\n    print(item)",
+        "my_list",
+        "item",
+        "each",
+        "element",
+        "var"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while x ____ 10:\n    x += 1",
+        "x",
+        "x += 1",
+        "<",
+        "<=",
+        ">",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(3):\n    for j in range(____):\n        print(i, j)",
+        "i",
+        "j",
+        "range",
+        "print",
+        "3",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(5):\n    if i == 3:\n        ____\n    print(i)",
+        "i",
+        "range",
+        "if i == 3:",
+        "print",
+        "continue",
+        "break",
+        "exit",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for key, value in ____:\n    print(key, value)",
+        "key",
+        "value",
+        "print",
+        "items(my_dict)",
+        "my_dict.items()",
+        "my_dict.keys()",
+        "values(my_dict)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(10, 0, ____):\n    print(i)",
+        "i",
+        "range",
+        "print",
+        "-1",
+        "1",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(4):\n    for j in range(4):\n        if j == 2:\n            ____\n        print(i, j)",
+        "i",
+        "j",
+        "range",
+        "if j == 2:",
+        "print",
+        "continue",
+        "break",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "count = 5\nwhile count ____ 0:\n    print(count)\n    count -= 1",
+        "count",
+        "print",
+        "count -= 1",
+        ">",
+        "<",
+        "==",
+        "<="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "squares = [i**2 for i in range(21) if i ____ 0 and i % 2 == 0]",
+        "squares",
+        "i",
+        "i**2",
+        "range",
+        "i % 2 == 0",
+        "==",
+        "!=",
+        "<",
+        ">"
+      ]
+    }
+  ]
+}

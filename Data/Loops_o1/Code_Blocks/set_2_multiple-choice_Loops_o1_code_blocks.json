@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "loop",
+        "iterate"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "range()",
+        "list()",
+        "enumerate()",
+        "sequence()"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "range loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "pass",
+        "break",
+        "skip",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "enumerate()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "for",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "i",
+        "j",
+        "O(1)",
+        "O(i + j)",
+        "O(i * j)",
+        "O(i / j)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [1, 2, 3]",
+        "for i in range(len(numbers)):",
+        "    numbers[i] = numbers[i] * 2",
+        "print(numbers)",
+        "[1, 2, 3]",
+        "[2, 4, 6]",
+        "[1, 4, 9]",
+        "[1, 2, 3, 2, 4, 6]"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = []",
+        "for x in range(3):",
+        "    for y in range(2):",
+        "        if x == y:",
+        "            break",
+        "        result.append((x, y))",
+        "else:",
+        "    result.append('done')",
+        "print(result)",
+        "result",
+        "[(0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1), 'done']",
+        "[(1, 0), (2, 0), (2, 1)]",
+        "[(1, 0), (2, 0), (2, 1), 'done']"
+      ]
+    }
+  ]
+}

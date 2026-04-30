@@ -1,0 +1,111 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if (condition):",
+        "____",
+        "else:",
+        "____",
+        "print('True branch')",
+        "print('False branch')",
+        "print('Else branch')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x > 5):",
+        "____",
+        "print('X is greater than 5')",
+        "print('X is less than 5')",
+        "print('X is equal to 5')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "____ condition:",
+        "____",
+        "if",
+        "print('Condition met')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (temperature > 30):",
+        "____",
+        "else:",
+        "____",
+        "print('It's hot!')",
+        "print('It's cold!')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if (____ and ____):",
+        "print('Both conditions are true')",
+        "x > 10",
+        "y < 5",
+        "x == 5"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (x > 0):",
+        "if (y > 0):",
+        "____",
+        "else:",
+        "____",
+        "print('Both x and y are positive')",
+        "print('Either x or y is non-positive')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if (age < 18) ____:",
+        "print('Minor')",
+        "elif ____:",
+        "print('Adult')",
+        "pass",
+        "age > 65"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if (x <= y) ____ (z == 0):",
+        "print('Condition met')",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (x < 0):",
+        "____",
+        "elif (x == 0):",
+        "____",
+        "else:",
+        "____",
+        "print('Negative')",
+        "print('Zero')",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = ____ ? ____ : ____",
+        "x > y",
+        "'X is greater' ",
+        "'Y is greater'"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+```json
+[
+  {
+    "question": "Arrange the following parts to form a basic if-statement that prints \"Hello\" when the condition is true:",
+    "options": [
+      "if",
+      "condition",
+      ":",
+      "    print(\"Hello\")"
+    ],
+    "answer": [
+      "if",
+      "condition",
+      ":",
+      "    print(\"Hello\")"
+    ],
+    "difficulty": 1
+  },
+  {
+    "question": "Drag and drop the components to complete an if-elif-else structure that handles multiple conditions:",
+    "options": [
+      "if",
+      "condition1",
+      ":",
+      "    action1()",
+      "elif",
+      "condition2",
+      ":",
+      "    action2()",
+      "else",
+      ":",
+      "    default_action()"
+    ],
+    "answer": [
+      "if",
+      "condition1",
+      ":",
+      "    action1()",
+      "elif",
+      "condition2",
+      ":",
+      "    action2()",
+      "else",
+      ":",
+      "    default_action()"
+    ],
+    "difficulty": 2
+  },
+  {
+    "question": "Organize the following lines to create a nested if-statement where the inner condition checks if x is positive:",
+    "options": [
+      "if x > 0:",
+      "    if x > 10:",
+      "        print(\"x is greater than 10\")",
+      "    else:",
+      "        print(\"x is positive but not greater than 10\")",
+      "else:",
+      "    print(\"x is not positive\")"
+    ],
+    "answer": [
+      "if x > 0:",
+      "    if x > 10:",
+      "        print(\"x is greater than 10\")",
+      "    else:",
+      "        print(\"x is positive but not greater than 10\")",
+      "else:",
+      "    print(\"x is not positive\")"
+    ],
+    "difficulty": 3
+  },
+  {
+    "question": "Arrange the following parts to form an if-statement using comparison operators to check if a number is equal to 5:",
+    "options": [
+      "if",
+      "number == 5",
+      ":",
+      "    print(\"Number is five\")"
+    ],
+    "answer": [
+      "if",
+      "number == 5",
+      ":",
+      "    print(\"Number is five\")"
+    ],
+    "difficulty": 4
+  },
+  {
+    "question": "Drag and drop the components to complete an if-statement that uses logical operators to check if a number is between 10 and 20:",
+    "options": [
+      "if",
+      "10 <= number and number <= 20",
+      ":",
+      "    print(\"Number is between 10 and 20\")"
+    ],
+    "answer": [
+      "if",
+      "10 <= number and number <= 20",
+      ":",
+      "    print(\"Number is between 10 and 20\")"
+    ],
+    "difficulty": 5
+  },
+  {
+    "question": "Organize the following lines to create an if-statement with multiple conditions using logical AND:",
+    "options": [
+      "if",
+      "age >= 18 and citizen == True",
+      ":",
+      "    print(\"Eligible to vote\")",
+      "else:",
+      "    print(\"Not eligible to vote\")"
+    ],
+    "answer": [
+      "if",
+      "age >= 18 and citizen == True",
+      ":",
+      "    print(\"Eligible to vote\")",
+      "else:",
+      "    print(\"Not eligible to vote\")"
+    ],
+    "difficulty": 6
+  },
+  {
+    "question": "Arrange the following parts to form an if-else statement that handles different data types for the variable 'data':",
+    "options": [
+      "if",
+      "isinstance(data, int)",
+      ":",
+      "    print(\"Data is an integer\")",
+      "else:",
+      "    print(\"Data is not an integer\")"
+    ],
+    "answer": [
+      "if",
+      "isinstance(data, int)",
+      ":",
+      "    print(\"Data is an integer\")",
+      "else:",
+      "    print(\"Data is not an integer\")"
+    ],
+    "difficulty": 7
+  },
+  {
+    "question": "Drag and drop the components to complete an if-statement that calls a function within its condition:",
+    "options": [
+      "if",
+      "is_valid(user_input())",
+      ":",
+      "    process(user_input())",
+      "else:",
+      "    handle_error()"
+    ],
+    "answer": [
+      "if",
+      "is_valid(user_input())",
+      ":",
+      "    process(user_input())",
+      "else:",
+      "    handle_error()"
+    ],
+    "difficulty": 8
+  },
+  {
+    "question": "Organize the following lines to create an if-statement inside a loop that checks for a specific condition and breaks the loop when met:",
+    "options": [
+      "for item in items:",
+      "    if item == target:",
+      "        print(\"Target found\")",
+      "        break",
+      "    else:",
+      "        print(\"Searching...\")"
+    ],
+    "answer": [
+      "for item in items:",
+      "    if item == target:",
+      "        print(\"Target found\")",
+      "        break",
+      "    else:",
+      "        print(\"Searching...\")"
+    ],
+    "difficulty": 9
+  },
+  {
+    "question": "Arrange the following parts to form a complex if-statement with multiple nested conditions and exception handling:",
+    "options": [
+      "try:",
+      "    if user.is_active:",
+      "        if user.has_permission():",
+      "            perform_action()",
+      "        else:",
+      "            raise PermissionError(\"User lacks permissions\")",
+      "    else:",
+      "        print(\"User is not active\")",
+      "except PermissionError as e:",
+      "    print(e)"
+    ],
+    "answer": [
+      "try:",
+      "    if user.is_active:",
+      "        if user.has_permission():",
+      "            perform_action()",
+      "        else:",
+      "            raise PermissionError(\"User lacks permissions\")",
+      "    else:",
+      "        print(\"User is not active\")",
+      "except PermissionError as e:",
+      "    print(e)"
+    ],
+    "difficulty": 10
+  }
+]
+```

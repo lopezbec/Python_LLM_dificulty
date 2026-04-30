@@ -1,0 +1,94 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "'for'",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(3):\n    print(i)\n",
+        "i",
+        "range(3)",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while loop",
+        "for loop",
+        "do-while loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "count = 0\nwhile count < 3:\n    print('Hello')\n    count += 1\n",
+        "count",
+        "while count < 3",
+        "print('Hello')",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue",
+        "break",
+        "exit",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'x'",
+        "x = 0\nfor i in range(5, 8):\n    x += i\n",
+        "x",
+        "i",
+        "range(5, 8)",
+        "x += i"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for key in dictionary",
+        "while key in dictionary",
+        "for key dictionary",
+        "do for key in dictionary"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(infinity):",
+        "while True:",
+        "do while(True):",
+        "while(1): sleep(1)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'while' loop",
+        "'for' loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(1, 4):\n    for j in range(1, 4):\n        pass\n",
+        "i",
+        "range(1, 4)",
+        "j",
+        "pass"
+      ]
+    }
+  ]
+}

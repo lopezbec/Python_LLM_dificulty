@@ -1,0 +1,94 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for ___ in range(1, 6):\n    print(number)",
+        "number",
+        "digit",
+        "nums"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "counter = 1\n___ counter <= 3:\n    print(counter)\n    counter += 1",
+        "for",
+        "while",
+        "until"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "days = ['Mon', 'Tue', 'Wed']\n___ day in days:\n    print(day)",
+        "for",
+        "while",
+        "do"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(___, ___, ___):\n    print(i)",
+        "2, 10, 2",
+        "1, 8, 1",
+        "2, 8, 1"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(1, 11):\n    ___ i == 5:\n        continue\n    print(i)",
+        "if",
+        "when",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for letter in 'Python':\n    if letter == 'h':\n        ___\n    print(letter)",
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "number = 0\n___ True:\n    print('Run this loop')\n    if number == 0:\n        break",
+        "while",
+        "do",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___",
+        "stop",
+        "exit",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [1, 2, 3]\nsquares = []\nfor num in numbers:\n    for i ___ range(2):\n        num = num * num\n    squares.append(num)",
+        "in",
+        "of",
+        "within"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "squares = [x**2 ___ x in range(1, 11) if x%2 != 0]",
+        "for",
+        "while",
+        "within"
+      ]
+    }
+  ]
+}

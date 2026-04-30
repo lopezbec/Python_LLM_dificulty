@@ -1,0 +1,115 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "Which Python keyword is used to create a loop that continues until a condition becomes false?",
+            "options": {
+                "A": "for",
+                "B": "loop",
+                "C": "while",
+                "D": "until"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 2,
+            "question": "How many times will the loop 'for i in range(3):' execute?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 3,
+            "question": "What is the output of the following code?\n\nfor i in range(2):\n    print('Hello')",
+            "options": {
+                "A": "Hello\nHello",
+                "B": "Hello",
+                "C": "Hello\nHello\nHello",
+                "D": "No output"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "difficulty": 4,
+            "question": "Which of the following will cause a 'for' loop to stop its current iteration and move to the next iteration?",
+            "options": {
+                "A": "stop",
+                "B": "skip",
+                "C": "continue",
+                "D": "break"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 5,
+            "question": "What will be the output of the following code?\n\ni = 0\nwhile i < 3:\n    i += 1\n    if i == 2:\n        break\n    print(i)",
+            "options": {
+                "A": "1\n2",
+                "B": "1",
+                "C": "1\n2\n3",
+                "D": "No output"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 6,
+            "question": "What is the purpose of the 'else' clause in a loop structure?",
+            "options": {
+                "A": "Executes when the loop condition is initially false",
+                "B": "Executes after the loop if the loop terminates without encountering a 'break'",
+                "C": "Executes when the loop condition is true",
+                "D": "Executes with each iteration of the loop"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 7,
+            "question": "Consider the code snippet:\n\nnums = [1, 2, 3]\nfor i in nums:\n    if i%2 == 0:\n        continue\n    print(i)\n\nWhat is printed?",
+            "options": {
+                "A": "2",
+                "B": "1\n3",
+                "C": "1\n2",
+                "D": "1\n2\n3"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "difficulty": 8,
+            "question": "In which scenario would you choose a 'while' loop over a 'for' loop?",
+            "options": {
+                "A": "When you know the number of iterations in advance",
+                "B": "When you want to iterate over a sequence",
+                "C": "When the number of iterations is dependent on a condition",
+                "D": "When looping over a dictionary"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 9,
+            "question": "What will be the final value of 'x' after executing the following code?\n\nx = 0\nfor i in range(5):\n    for j in range(5):\n        x += 1\n        if j == 3:\n            break",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "15",
+                "D": "20"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "difficulty": 10,
+            "question": "Consider this nested loop:\n\nresult = []\nfor i in range(2):\n    for j in range(2):\n        if i == j:\n            result.append((i, j))\n\nWhat is contained in 'result' after execution?",
+            "options": {
+                "A": "[(0,0), (0,1), (1,0), (1,1)]",
+                "B": "[(0,0), (1,1)]",
+                "C": "[(0,1), (1,0)]",
+                "D": "[(1,0), (0,1)]"
+            },
+            "correct_answer": "B"
+        }
+    ]
+}

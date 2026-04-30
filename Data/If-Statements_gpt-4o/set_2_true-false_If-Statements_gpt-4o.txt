@@ -1,0 +1,55 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "question": "An if-statement is used to execute code based on a condition.",
+            "answer": true
+        },
+        {
+            "difficulty": 2,
+            "question": "In Python, the condition in an if-statement must always be enclosed in parentheses.",
+            "answer": false
+        },
+        {
+            "difficulty": 3,
+            "question": "An if-statement can evaluate any expression that returns a Boolean value in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 4,
+            "question": "The indented block of code following an if-statement is known as its 'clause'.",
+            "answer": false
+        },
+        {
+            "difficulty": 5,
+            "question": "An elif statement in Python can be used without a preceding if-statement.",
+            "answer": false
+        },
+        {
+            "difficulty": 6,
+            "question": "In Python, the else keyword must be followed by a condition to execute its block.",
+            "answer": false
+        },
+        {
+            "difficulty": 7,
+            "question": "An if-else statement can be used inside a function definition in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 8,
+            "question": "The 'pass' statement can be used in an if-block as a placeholder in Python.",
+            "answer": true
+        },
+        {
+            "difficulty": 9,
+            "question": "In Python, multiple conditions can be combined in an if-statement using 'and' and 'or' logical operators.",
+            "answer": true
+        },
+        {
+            "difficulty": 10,
+            "question": "In Python, there is a limit to the number of elif branches that can be used with an if-statement.",
+            "answer": false
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "loop",
+        "iterable object"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "range()",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Nested loops"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else",
+        "loops",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for-else",
+        "else",
+        "loop"
+      ]
+    }
+  ]
+}

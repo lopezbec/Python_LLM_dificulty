@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for ___ in range(5):",
+        "print(___)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "count = 0",
+        "while ___ < 3:",
+        "print(count)",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for number in range(10):",
+        "if number % 2 == 0:",
+        "___",
+        "print(number)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "while True:",
+        "user_input = input('Enter command: ')",
+        "if user_input == 'exit':",
+        "___",
+        "print('You entered:', user_input)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):",
+        "for j in ___(3):",
+        "print('*', end=' ')",
+        "print()"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "dictionary = {'a': 1, 'b': 2}",
+        "for key, value in dictionary.___():",
+        "print(key, value)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "squares = [___ for i in range(10)]",
+        "print(squares)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for index, fruit in ___(fruits):",
+        "print(index, fruit)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "def generate_numbers():",
+        "for i in range(5):",
+        "___ i",
+        "gen = generate_numbers()",
+        "for number in gen:",
+        "print(number)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "operations = ['add', 'subtract', 'multiply', 'divide']",
+        "for op in operations:",
+        "try:",
+        "result = perform_operation(op)",
+        "except ValueError:",
+        "print('Value error encountered')",
+        "___ Exception as e:",
+        "print(f'An error occurred: {e}')"
+      ]
+    }
+  ]
+}

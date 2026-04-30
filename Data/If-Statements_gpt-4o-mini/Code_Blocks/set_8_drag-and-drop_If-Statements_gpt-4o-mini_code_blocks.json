@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 10:",
+        "print('x is greater than 10')",
+        "print('x is less than 10')",
+        "print('x equals 10')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if y == 5:",
+        "y += 1",
+        "print('y is not 5')",
+        "y = 0"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if age < 18:",
+        "else:",
+        "print('You are a minor')",
+        "print('You are an adult')",
+        "age += 1"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if _____:",
+        "print('True condition')",
+        "x != 0",
+        "x == 0",
+        "x < 0"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if number % 2 == 0:",
+        "print('Number is odd')",
+        "print('Number is even')",
+        "number += 1"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "print('True')",
+        "if x > 10:",
+        "elif x == 10:",
+        "print('False')",
+        "print('Equal to 10')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if 10 _____ 20:",
+        "print('10 is less than 20')",
+        ">=",
+        "<",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if score < 50:",
+        "elif score >= 50 and score < 70:",
+        "else:",
+        "print('Fail')",
+        "print('Pass')",
+        "print('Excellent')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if user_input == 'yes':",
+        "print('Proceed')",
+        "else:",
+        "print('Do not proceed')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def rate_quality(q):",
+        "if q >= 90:",
+        "elif q >= 70:",
+        "else:",
+        "return 'Excellent'",
+        "return 'Good'",
+        "return 'Needs improvement'"
+      ]
+    }
+  ]
+}

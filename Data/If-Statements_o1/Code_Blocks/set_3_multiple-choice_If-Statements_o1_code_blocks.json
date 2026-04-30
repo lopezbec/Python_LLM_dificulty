@@ -1,0 +1,105 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if condition:",
+        "if (condition)",
+        "if condition then:",
+        "If condition:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else",
+        "elif",
+        "try",
+        "except"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10",
+        "if x > 5:",
+        "print(\"Greater\")",
+        "if x > 8:",
+        "print(\"Even Greater\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if statements",
+        "semicolon",
+        "Indentation",
+        "colon (:)",
+        "nested if statements"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "number = 7",
+        "if number < 5:",
+        "print(\"Less than 5\")",
+        "elif number < 10:",
+        "print(\"Between 5 and 10\")",
+        "else:",
+        "print(\"10 or more\")",
+        "'elif'"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-elif-else",
+        "block",
+        "'elif'",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x > 10:",
+        "# do something",
+        "elif x > 5:",
+        "# do something else",
+        "else:",
+        "# do another thing"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 4",
+        "if x % 2 == 0 and x < 5:",
+        "print(\"Small even\")",
+        "elif x % 2 == 0 and x < 10:",
+        "print(\"Medium even\")",
+        "else:",
+        "print(\"Other\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "nested if",
+        "if statements",
+        "elif",
+        "if",
+        "Indentation"
+      ]
+    }
+  ]
+}

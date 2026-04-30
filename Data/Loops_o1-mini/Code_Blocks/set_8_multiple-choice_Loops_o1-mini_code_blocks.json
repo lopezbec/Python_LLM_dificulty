@@ -1,0 +1,65 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 0\nfor i in range(5):\n    x += i",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for letter in 'Python':\n    print(letter)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "count = 0\nwhile count < 3:\n    print(count)\n    count += 1\nelse:\n    print('Done')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(2, 10, 3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(2):\n    for j in range(3):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "while"
+      ]
+    }
+  ]
+}

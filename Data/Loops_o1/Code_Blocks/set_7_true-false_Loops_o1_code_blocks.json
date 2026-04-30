@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "string",
+        "character",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "range(5, 1)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "range()",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "break",
+        "Python"
+      ]
+    }
+  ]
+}

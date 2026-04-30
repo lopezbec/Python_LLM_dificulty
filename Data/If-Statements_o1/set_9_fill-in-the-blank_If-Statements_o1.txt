@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Fill in the blank to check if x equals 7:\n\nif x _____ 7:\n    print(\"x is 7\")",
+      "answer": "=="
+    },
+    {
+      "difficulty": 2,
+      "question": "Fill in the blank to check if x is not equal to 0:\n\nif x _____ 0:\n    print(\"x is nonzero\")",
+      "answer": "!="
+    },
+    {
+      "difficulty": 3,
+      "question": "Fill in the blank to check if age is at least 18:\n\nif age _____ 18:\n    print(\"You are an adult\")",
+      "answer": ">="
+    },
+    {
+      "difficulty": 4,
+      "question": "Fill in the blank to ensure score is at most 100:\n\nif 70 <= score _____ 100:\n    print(\"You pass\")",
+      "answer": "<="
+    },
+    {
+      "difficulty": 5,
+      "question": "Fill in the blank to check if both x and y are positive:\n\nif x > 0 _____ y > 0:\n    print(\"Both are positive\")",
+      "answer": "and"
+    },
+    {
+      "difficulty": 6,
+      "question": "Fill in the blank to add an alternative condition:\n\nif x < 0:\n    print(\"Negative\")\n_____ x == 0:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 7,
+      "question": "Fill in the blank to check if value is in one of two ranges:\n\nif (1 <= value <= 10) _____ (20 <= value <= 30):\n    print(\"value is in the specified ranges\")",
+      "answer": "or"
+    },
+    {
+      "difficulty": 8,
+      "question": "Fill in the blank so the code ignores the body when condition is True:\n\nif _____ condition:\n    print(\"Condition is False\")",
+      "answer": "not"
+    },
+    {
+      "difficulty": 9,
+      "question": "Fill in the blank in this conditional expression:\n\nresult = \"High\" if score > 80 _____ \"Low\"",
+      "answer": "else"
+    },
+    {
+      "difficulty": 10,
+      "question": "Fill in the blank to handle two checks simultaneously:\n\nif x == 5 _____ y != 10:\n    print(\"Special case\")",
+      "answer": "and"
+    }
+  ]
+}

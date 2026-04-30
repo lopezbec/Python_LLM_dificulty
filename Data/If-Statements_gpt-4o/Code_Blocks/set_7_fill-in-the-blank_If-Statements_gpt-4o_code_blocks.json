@@ -1,0 +1,93 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x _____ 10:",
+        "print('x is greater than 10')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "num",
+        "if num % 2 == 0:",
+        "print('Even')",
+        "else:",
+        "print('_____')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "score",
+        "if _____ <= score _____ <= 100:",
+        "print('Score is in range')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x",
+        "if x > 0 _____ x < 100:",
+        "print('x is positive')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "z",
+        "if z _____ 0:",
+        "print('z is non-positive')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "items",
+        "if len(items) _____ _____:",
+        "print('List is empty')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "username",
+        "if username.startswith('_____'):",
+        "print('Username starts with A')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "temperature",
+        "if temperature _____ 0 _____ temperature > 100:",
+        "print('Temperature out of range')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "choice",
+        "if choice _____ 'yes' _____ choice _____ 'no':",
+        "print('Invalid input')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "math",
+        "number",
+        "is_prime",
+        "i",
+        "for i in range(2, int(math.sqrt(number)) + 1):",
+        "if number __ i == 0:",
+        "is_prime = False",
+        "break",
+        "if is_prime and number > 1:",
+        "print('Prime number')"
+      ]
+    }
+  ]
+}

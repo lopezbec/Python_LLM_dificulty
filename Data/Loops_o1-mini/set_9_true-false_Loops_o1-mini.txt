@@ -1,0 +1,74 @@
+```json
+[
+  {
+    "question": "In Python, a 'for' loop can iterate over elements of a list.",
+    "type": "true/false",
+    "difficulty": 1,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A 'while' loop in Python requires a condition to be evaluated before each iteration.",
+    "type": "true/false",
+    "difficulty": 2,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, the 'break' statement can be used to exit a loop prematurely.",
+    "type": "true/false",
+    "difficulty": 3,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A 'for' loop can be used to iterate over a range of numbers using the 'range()' function in Python.",
+    "type": "true/false",
+    "difficulty": 4,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Using the 'continue' statement inside a loop will skip the current iteration and proceed to the next one.",
+    "type": "true/false",
+    "difficulty": 5,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, nested loops refer to placing one loop inside another loop.",
+    "type": "true/false",
+    "difficulty": 6,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A 'while' loop can run indefinitely if the loop condition never becomes false and there is no 'break' statement.",
+    "type": "true/false",
+    "difficulty": 7,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, the 'else' block after a loop is executed only if the loop completes normally without encountering a 'break' statement.",
+    "type": "true/false",
+    "difficulty": 8,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "List comprehensions in Python can be used as an alternative to 'for' loops for creating lists.",
+    "type": "true/false",
+    "difficulty": 9,
+    "topic": "loops",
+    "correct_answer": "True"
+  },
+  {
+    "question": "In Python, modifying the loop variable inside a 'for' loop affects the sequence being iterated over.",
+    "type": "true/false",
+    "difficulty": 10,
+    "topic": "loops",
+    "correct_answer": "False"
+  }
+]
+```

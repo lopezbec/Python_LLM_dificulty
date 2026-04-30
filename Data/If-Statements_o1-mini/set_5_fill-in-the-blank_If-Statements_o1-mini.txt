@@ -1,0 +1,74 @@
+```json
+[
+  {
+    "question_number": 1,
+    "difficulty": 1,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to complete the if-statement: \n```python\nif ____: \n    print(\"Condition is True\")\n```",
+    "answer": "True"
+  },
+  {
+    "question_number": 2,
+    "difficulty": 2,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to check if a number is greater than 10: \n```python\nnumber = 15\nif number ____ 10:\n    print(\"Greater than 10\")\n```",
+    "answer": ">="
+  },
+  {
+    "question_number": 3,
+    "difficulty": 3,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to complete the nested if-statement: \n```python\na = 5\nb = 10\nif a < b:\n    if ____ > 5:\n        print(\"b is greater than 5\")\n```",
+    "answer": "b"
+  },
+  {
+    "question_number": 4,
+    "difficulty": 4,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use an else clause: \n```python\nage = 18\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")\n``` \nReplace the condition to check if age is less than 18.",
+    "answer": "age < 18"
+  },
+  {
+    "question_number": 5,
+    "difficulty": 5,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use the elif statement: \n```python\nscore = 85\nif score >= 90:\n    grade = 'A'\nelif score >= __:\n    grade = 'B'\nelse:\n    grade = 'C'\n```",
+    "answer": "80"
+  },
+  {
+    "question_number": 6,
+    "difficulty": 6,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to evaluate multiple conditions using logical AND: \n```python\nx = 10\ny = 20\nif x > 5 ____ y < 25:\n    print(\"Both conditions are True\")\n```",
+    "answer": "and"
+  },
+  {
+    "question_number": 7,
+    "difficulty": 7,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use a ternary if-else statement: \n```python\na = 10\nb = 20\nresult = a if a > b __ b\nprint(result)\n```",
+    "answer": "else"
+  },
+  {
+    "question_number": 8,
+    "difficulty": 8,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to check membership using in: \n```python\nfruits = ['apple', 'banana', 'cherry']\nif 'banana' ____ fruits:\n    print(\"Banana is in the list\")\n```",
+    "answer": "in"
+  },
+  {
+    "question_number": 9,
+    "difficulty": 9,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to use the not keyword in an if-statement: \n```python\nis_valid = False\nif not ____:\n    print(\"Invalid\")\n```",
+    "answer": "is_valid"
+  },
+  {
+    "question_number": 10,
+    "difficulty": 10,
+    "topic": "If-Statements",
+    "question": "Fill in the blank to handle multiple conditions with nested if-statements: \n```python\nx = 15\ny = 25\nif x > 10:\n    if y > 20:\n        print(\"x is greater than 10 and y is greater than 20\")\n    else:\n        print(\"x is greater than 10 but y is not greater than 20\")\n____:\n    print(\"x is not greater than 10\")\n```",
+    "answer": "else"
+  }
+]
+```

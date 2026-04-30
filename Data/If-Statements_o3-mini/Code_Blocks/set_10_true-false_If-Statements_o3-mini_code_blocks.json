@@ -1,0 +1,79 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x = 10:\n    print(\"Yes\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if statements",
+        "and",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "inline if statements",
+        "ternary operator",
+        "result = \"Yes\" if condition else \"No\""
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-elif chain"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "nested if statements",
+        "inner if",
+        "outer if"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if statement",
+        "'in' operator",
+        "if item in collection:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if not x is None:",
+        "if x is not None:"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "nested if statements",
+        "inner if statement",
+        "else",
+        "else block",
+        "None"
+      ]
+    }
+  ]
+}

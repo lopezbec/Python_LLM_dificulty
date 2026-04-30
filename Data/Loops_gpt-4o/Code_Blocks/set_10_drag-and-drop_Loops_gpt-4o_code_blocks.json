@@ -1,0 +1,85 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(___):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(___):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "list = [1, 2, 3]",
+        "for element in ___ :",
+        "print(element)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(___, 11, ___):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "d = {'a': 1, 'b': 2}",
+        "for key, value in d.___() :",
+        "print(key, value)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(___):",
+        "if i == ___:",
+        "break",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(3):",
+        "for j in range(___):",
+        "print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(5):",
+        "if i % ___ == 0:",
+        "___",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "lst = [10, 20, 30, 40]",
+        "for i in range(___, len(lst), ___):",
+        "print(lst[i])"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def check(value):",
+        "return value % 2 == 0",
+        "for i in range(1, 10):",
+        "if not check(___) :",
+        "continue",
+        "print(i)"
+      ]
+    }
+  ]
+}

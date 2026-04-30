@@ -1,0 +1,149 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10",
+        "__keyword__ x > 5:",
+        "print(\"x is greater than 5\")",
+        "else",
+        "if",
+        "elif",
+        "for",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(\"x is not greater than 5\")",
+        "else:",
+        "if x > 5:",
+        "x = 3",
+        "if x > 5:",
+        "    print(\"x is greater than 5\")",
+        "else:",
+        "    print(\"x is not greater than 5\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if age __operator1__ 18:",
+        "print(\"Minor\")",
+        "if score __operator2__ 90:",
+        "print(\"Excellent\")",
+        "<",
+        ">",
+        "==",
+        "<=",
+        ">= ",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if number % 2 == 0:",
+        "if number > 0:",
+        "if number == 0:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if weather == \"sunny\":",
+        "if temperature > 25:",
+        "print(\"Let's go to the beach!\")",
+        "__blank__:",
+        "print(\"Let's have a picnic.\")",
+        "else:",
+        "print(\"Stay indoors.\")",
+        "elif temperature > 15:",
+        "else:",
+        "elif temperature > 20:",
+        "pass",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "print(\"Grade A\")",
+        "elif score >= 80:",
+        "if score >= 90:",
+        "print(\"Grade B\")",
+        "else:",
+        "print(\"Grade C\")",
+        "if score >= 90:",
+        "    print(\"Grade A\")",
+        "elif score >= 80:",
+        "    print(\"Grade B\")",
+        "else:",
+        "    print(\"Grade C\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if user.is_admin:",
+        "__blank__ if user.has_access():",
+        "print(\"Access granted.\")",
+        "else:",
+        "print(\"Access denied.\")",
+        "else:",
+        "print(\"User is not an admin.\")",
+        "        ",
+        "    ",
+        "            ",
+        "no indentation",
+        "    "
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if x > 10:",
+        "if x == 5:",
+        "if x < 0:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "age = int(input(\"Enter your age: \"))",
+        "if age < 13:",
+        "category = \"Child\"",
+        "elif __blank__:",
+        "category = \"Teenager\"",
+        "elif __blank__:",
+        "category = \"Adult\"",
+        "else:",
+        "category = \"Senior\"",
+        "print(category)",
+        "13 <= age < 20",
+        "20 <= age < 65",
+        "age >= 65",
+        "age >= 20 and age < 65",
+        "13 <= age < 20",
+        "20 <= age < 65"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def check_eligibility(age, income, credit_score):",
+        "    if age >= 18:",
+        "        if income >= 50000:",
+        "            if credit_score >= 700:",
+        "                return \"Eligible\"",
+        "            else:",
+        "                return \"Ineligible due to credit score\"",
+        "        else:",
+        "            return \"Ineligible due to income\"",
+        "    else:",
+        "        return \"Ineligible due to age\""
+      ]
+    }
+  ]
+}

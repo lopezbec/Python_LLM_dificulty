@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for",
+        "in",
+        "range",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "initialize loop",
+        "check condition",
+        "execute body",
+        "update counter"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "break",
+        "continue",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "while loop",
+        "nested loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "i += 1",
+        "i < 6",
+        "print(i)",
+        "i = 1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for item in collection:",
+        "foreach ($item in collection)",
+        "for (int i = 0; i < len; i++)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Infinite loop due to missing counter update",
+        "Add a counter update statement inside the loop",
+        "Incorrect indentation of loop body",
+        "Fix the indentation to include the counter update"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "Loop unrolling",
+        "Loop fusion",
+        "Loop invariant code motion"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for row in matrix:",
+        "    for item in row:",
+        "        print(item)",
+        "for item in row:",
+        "print(item)"
+      ]
+    }
+  ]
+}

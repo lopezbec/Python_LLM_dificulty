@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x _____ 7:",
+        "print(\"x is 7\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "if x _____ 0:",
+        "print(\"x is nonzero\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age",
+        "if age _____ 18:",
+        "print(\"You are an adult\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "score",
+        "if 70 <= score _____ 100:",
+        "print(\"You pass\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "y",
+        "if x > 0 _____ y > 0:",
+        "print(\"Both are positive\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x",
+        "if x < 0:",
+        "print(\"Negative\")",
+        "_____ x == 0:",
+        "print(\"Zero\")",
+        "else:",
+        "print(\"Positive\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "value",
+        "if (1 <= value <= 10) _____ (20 <= value <= 30):",
+        "print(\"value is in the specified ranges\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "condition",
+        "if _____ condition:",
+        "print(\"Condition is False\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "score",
+        "result = \"High\" if score > 80 _____ \"Low\""
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x",
+        "y",
+        "if x == 5 _____ y != 10:",
+        "print(\"Special case\")"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x",
+        "if x = 10:",
+        "if x == 10:",
+        "if (x = 10)",
+        "if (x == 10)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 5\nif x > 3:\n    print('Greater')",
+        "x",
+        "if",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 10\nif x > 5:\n    if x < 15:\n        print('x is between 5 and 15')",
+        "x",
+        "if",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 7\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')",
+        "x",
+        "if",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x > 5 AND y < 10:",
+        "if (x > 5) && (y < 10):",
+        "if x > 5 and y < 10:",
+        "if x > 5 & y < 10:",
+        "x",
+        "y",
+        "if",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 20\nif x < 10:\n    print('Less than 10')\nelif x < 30:\n    print('Between 10 and 30')\nelse:\n    print('30 or more')",
+        "x",
+        "if",
+        "elif",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 15\nif x > 10:\n    if x > 20:\n        print('Greater than 20')\n    else:\n        print('Between 11 and 20')\nelse:\n    print('10 or less')",
+        "x",
+        "if",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 5\nif x == 5:\n    print('Five')\nif x > 3:\n    print('Greater than three')\nelse:\n    print('Not greater than three')",
+        "x",
+        "if",
+        "else",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x = 10:\n    print('Ten')",
+        "x",
+        "if",
+        "print"
+      ]
+    }
+  ]
+}

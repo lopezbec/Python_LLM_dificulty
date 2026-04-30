@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "'=='",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "colon",
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'elif'",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if statements",
+        "nested"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if statements",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Parentheses",
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if statements"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'not'",
+        "if condition",
+        "Python"
+      ]
+    }
+  ]
+}

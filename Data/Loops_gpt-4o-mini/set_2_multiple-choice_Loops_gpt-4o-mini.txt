@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "What is the output of the following code? \n\n```python\nfor i in range(3):\n    print(i)\n```",
+      "options": [
+        "0\n1\n2",
+        "1\n2\n3",
+        "0\n1\n2\n3",
+        "0\n1"
+      ],
+      "answer": "0\n1\n2",
+      "difficulty": 1
+    },
+    {
+      "question": "Which of the following correctly uses a while loop to print numbers from 1 to 5?",
+      "options": [
+        "for i in range(1, 6): print(i)",
+        "i = 1; while i <= 5: print(i); i += 1",
+        "while i < 5: print(i); i += 1",
+        "i = 1; while i < 5: print(i); i++"
+      ],
+      "answer": "i = 1; while i <= 5: print(i); i += 1",
+      "difficulty": 2
+    },
+    {
+      "question": "What will be the final value of 'count' after executing the following code? \n\n```python\ncount = 0\nfor j in range(4):\n    count += j\n```",
+      "options": [
+        "6",
+        "4",
+        "10",
+        "12"
+      ],
+      "answer": "6",
+      "difficulty": 3
+    },
+    {
+      "question": "How many times will 'Hello' be printed by the following code? \n\n```python\nfor x in range(1, 10, 2):\n    print('Hello')\n```",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "9"
+      ],
+      "answer": "5",
+      "difficulty": 4
+    },
+    {
+      "question": "Which of the following statements is false regarding nested loops?",
+      "options": [
+        "They allow for iterating over multi-dimensional data.",
+        "Inner loops can access the variables from outer loops.",
+        "They can lead to increased time complexity depending on the sizes of each loop.",
+        "Nested loops can only run a fixed number of times."
+      ],
+      "answer": "Nested loops can only run a fixed number of times.",
+      "difficulty": 5
+    },
+    {
+      "question": "Consider the following code snippet: \n\n```python\ndata = [1, 2, 3]\nfor i in data:\n    for j in range(i):\n        print(i * j)\n``` \nWhat will be the output?",
+      "options": [
+        "0\n1\n0\n2\n0\n3",
+        "0\n0\n0\n1\n0\n2\n0\n3\n0\n1\n0\n2",
+        "0\n2\n0\n6",
+        "0\n2\n0\n6\n0"
+      ],
+      "answer": "0\n1\n0\n2\n0\n3",
+      "difficulty": 6
+    },
+    {
+      "question": "What is the purpose of the 'break' statement in a loop?",
+      "options": [
+        "To skip the current iteration and continue with the next one.",
+        "To stop the entire program.",
+        "To exit the loop immediately.",
+        "To restart the loop from the beginning."
+      ],
+      "answer": "To exit the loop immediately.",
+      "difficulty": 7
+    },
+    {
+      "question": "What will be the output of the following code? \n\n```python\nx = 0\nwhile x < 5:\n    if x == 3:\n        break\n    x += 1\nprint(x)\n```",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "0"
+      ],
+      "answer": "3",
+      "difficulty": 8
+    },
+    {
+      "question": "What is the time complexity of a loop nested inside another loop, where both run 'n' times?",
+      "options": [
+        "O(n)",
+        "O(n^2)",
+        "O(log n)",
+        "O(1)"
+      ],
+      "answer": "O(n^2)",
+      "difficulty": 9
+    },
+    {
+      "question": "In the given snippet, how many times will 'Looping' be printed? \n\n```python\nn = 3\nfor i in range(n):\n    for j in range(n):\n        if i == j:\n            print('Looping')\n```",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "0"
+      ],
+      "answer": "3",
+      "difficulty": 10
+    }
+  ]
+}

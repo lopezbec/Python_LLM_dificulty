@@ -1,0 +1,87 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "Python",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while loop",
+        "Python",
+        "code block",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "Python",
+        "break statement",
+        "while loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue statement",
+        "Python",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "For loops",
+        "Python",
+        "numeric ranges"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "Python",
+        "loop",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "while loop",
+        "False",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Python 3",
+        "range()",
+        "for loop",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "else clause",
+        "loop",
+        "Python",
+        "else block",
+        "break statement"
+      ]
+    }
+  ]
+}

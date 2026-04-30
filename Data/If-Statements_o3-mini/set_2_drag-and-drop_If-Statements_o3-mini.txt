@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Drag and drop the parts to form a basic if statement in Python.",
+      "instruction": "Arrange the components in the correct order to create a valid if statement.",
+      "draggable_items": [
+        "Indented code block",
+        "if condition:"
+      ],
+      "correct_order": [
+        "if condition:",
+        "Indented code block"
+      ]
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Drag and drop the lines to complete a simple if statement that checks if x > y and prints a message.",
+      "instruction": "Place each line in the proper order to form the valid if statement.",
+      "draggable_items": [
+        "    print('x is greater')",
+        "if x > y:"
+      ],
+      "correct_order": [
+        "if x > y:",
+        "    print('x is greater')"
+      ]
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Arrange the draggable items to create an if-else statement that checks temperature.",
+      "instruction": "Drag the lines into the correct sequential order to complete the if-else structure.",
+      "draggable_items": [
+        "    print('Not a hot day')",
+        "if temperature > 30:",
+        "else:",
+        "    print('Hot day')"
+      ],
+      "correct_order": [
+        "if temperature > 30:",
+        "    print('Hot day')",
+        "else:",
+        "    print('Not a hot day')"
+      ]
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Complete the if-elif statement that assigns grades based on a score.",
+      "instruction": "Arrange the lines properly to form a valid if-elif statement.",
+      "draggable_items": [
+        "elif score >= 80:",
+        "    print('Grade A')",
+        "if score >= 90:",
+        "    print('Grade B')"
+      ],
+      "correct_order": [
+        "if score >= 90:",
+        "    print('Grade A')",
+        "elif score >= 80:",
+        "    print('Grade B')"
+      ]
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Drag and drop the components for a complete if-elif-else block that determines a student's status based on marks.",
+      "instruction": "Arrange the following lines in the correct order.",
+      "draggable_items": [
+        "elif marks >= 40:",
+        "    print('Fail')",
+        "if marks >= 50:",
+        "    print('Pass')",
+        "else:",
+        "    print('Resit')",
+        "    print('Resit')",
+        "    print('Fail')"
+      ],
+      "correct_order": [
+        "if marks >= 50:",
+        "    print('Pass')",
+        "elif marks >= 40:",
+        "    print('Resit')",
+        "else:",
+        "    print('Fail')"
+      ]
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Arrange these lines to form a nested if statement that checks whether x is positive and then whether it's even or odd.",
+      "instruction": "Drop each code line into the correct sequence to complete the nested structure.",
+      "draggable_items": [
+        "    if x % 2 == 0:",
+        "if x > 0:",
+        "        print('Positive odd')",
+        "    else:",
+        "        print('Positive even')"
+      ],
+      "correct_order": [
+        "if x > 0:",
+        "    if x % 2 == 0:",
+        "        print('Positive even')",
+        "    else:",
+        "        print('Positive odd')"
+      ]
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Drag and drop the code fragments to build an if statement with nested conditions that evaluates the value of num.",
+      "instruction": "Place the following code snippets in the correct order to form a multi-level conditional statement.",
+      "draggable_items": [
+        "    if num < 100:",
+        "else:",
+        "    print('Zero or negative')",
+        "        print('Positive and less than 100')",
+        "if num > 0:",
+        "    else:",
+        "        print('Positive but 100 or more')"
+      ],
+      "correct_order": [
+        "if num > 0:",
+        "    if num < 100:",
+        "        print('Positive and less than 100')",
+        "    else:",
+        "        print('Positive but 100 or more')",
+        "else:",
+        "    print('Zero or negative')"
+      ]
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Arrange the following pieces to create a multi-layered if-elif-else statement that categorizes a character.",
+      "instruction": "Drag the lines in the proper order to distinguish between letters (uppercase/lowercase), digits, and special characters.",
+      "draggable_items": [
+        "        print('Uppercase letter')",
+        "    else:",
+        "elif char.isdigit():",
+        "    if char.isupper():",
+        "if char.isalpha():",
+        "    print('Digit')",
+        "    else:",
+        "        print('Lowercase letter')",
+        "else:",
+        "    print('Special character')"
+      ],
+      "correct_order": [
+        "if char.isalpha():",
+        "    if char.isupper():",
+        "        print('Uppercase letter')",
+        "    else:",
+        "        print('Lowercase letter')",
+        "elif char.isdigit():",
+        "    print('Digit')",
+        "else:",
+        "    print('Special character')"
+      ]
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Drag and drop the fragments to build an if-elif-else statement that uses logical operators to check a person's age group.",
+      "instruction": "Place the code lines into the correct sequence so that it correctly categorizes based on the age variable.",
+      "draggable_items": [
+        "elif age >= 65:",
+        "    print('Minor')",
+        "if age >= 18 and age < 65:",
+        "    print('Working age')",
+        "else:",
+        "    print('Retired')",
+        "    print('Minor')"
+      ],
+      "correct_order": [
+        "if age >= 18 and age < 65:",
+        "    print('Working age')",
+        "elif age >= 65:",
+        "    print('Retired')",
+        "else:",
+        "    print('Minor')"
+      ]
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Drag and drop the code lines to correctly construct a function that checks a number and prints whether it is zero, positive, or negative using nested if statements.",
+      "instruction": "Arrange these code snippets in the proper order so that the function is correctly defined.",
+      "draggable_items": [
+        "    if num >= 0:",
+        "    else:",
+        "def check_number(num):",
+        "        print('Zero')",
+        "        print('Positive number')",
+        "        if num == 0:",
+        "    print('Negative number')",
+        "        else:"
+      ],
+      "correct_order": [
+        "def check_number(num):",
+        "    if num >= 0:",
+        "        if num == 0:",
+        "            print('Zero')",
+        "        else:",
+        "            print('Positive number')",
+        "    else:",
+        "        print('Negative number')"
+      ]
+    }
+  ]
+}

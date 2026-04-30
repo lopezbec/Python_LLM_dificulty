@@ -1,0 +1,77 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "True",
+        "keyword",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "list",
+        "my_list",
+        "for item in ______:",
+        "my_list"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "infinite loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in ______(5):",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "n = n - ______.",
+        "1"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "while ______:",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while x ______ 5:",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for index, value in ______(my_list):",
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "[x for x in range(11) if x % 2 ______ 0]",
+        "=="
+      ]
+    }
+  ]
+}

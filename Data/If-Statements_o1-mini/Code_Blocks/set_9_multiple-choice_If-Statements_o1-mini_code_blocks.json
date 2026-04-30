@@ -1,0 +1,73 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x = 10:",
+        "if (x == 10)",
+        "if x == 10:",
+        "if x equals 10:"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 5\nif x > 3:\n    print(\"Greater\")"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "\"\""
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 10\nif x > 5:\n    if x < 15:\n        print(\"x is between 5 and 15\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 20\nif x < 10:\n    print(\"Less than 10\")\nelif ________:\n    print(\"Between 10 and 30\")\nelse:\n    print(\"30 or more\")",
+        "x < 30",
+        "10 < x < 30",
+        "x > 10 and x < 30"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 7\nif x == 5:\n    print(\"Five\")\nelif x == 6:\n    print(\"Six\")\nelif x == 7:\n    print(\"Seven\")\nelse:\n    print(\"Other\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "a = 10\nb = 20\nif a > 5 and b < 25:\n    print(\"Condition met\")\nelse:\n    print(\"Condition not met\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "def check_number(x):\n    if x % 2 == 0:\n        return \"Even\"\n    return \"Odd\"\n\nprint(check_number(4))"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if my_list == []:",
+        "if not my_list:",
+        "if len(my_list) == 0:"
+      ]
+    },
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 0\nif x:\n    print(\"True\")\nelse:\n    print(\"False\")"
+      ]
+    }
+  ]
+}

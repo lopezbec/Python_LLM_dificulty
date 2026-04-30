@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "id": 1,
+    "question": "In Python, the if statement is used to execute a block of code only if a specified condition is true.",
+    "difficulty": 1,
+    "answer": true
+  },
+  {
+    "id": 2,
+    "question": "In Python, the condition in an if statement must explicitly evaluate to a boolean value (True or False).",
+    "difficulty": 2,
+    "answer": false
+  },
+  {
+    "id": 3,
+    "question": "In Python, every if statement must be followed by a colon (:).",
+    "difficulty": 3,
+    "answer": true
+  },
+  {
+    "id": 4,
+    "question": "Python allows multiple if statements at the same indentation level to act as alternate conditions without using elif or else.",
+    "difficulty": 4,
+    "answer": false
+  },
+  {
+    "id": 5,
+    "question": "In Python, you can have an else block without an accompanying if statement.",
+    "difficulty": 5,
+    "answer": false
+  },
+  {
+    "id": 6,
+    "question": "Nested if statements in Python must maintain consistent indentation for each level of nesting.",
+    "difficulty": 6,
+    "answer": true
+  },
+  {
+    "id": 7,
+    "question": "In Python, the elif keyword allows you to check multiple expressions for True in an if statement.",
+    "difficulty": 7,
+    "answer": true
+  },
+  {
+    "id": 8,
+    "question": "In Python, using a single equals sign (=) in an if statement's condition is valid for comparison.",
+    "difficulty": 8,
+    "answer": false
+  },
+  {
+    "id": 9,
+    "question": "Python evaluates the conditions in an if-elif-else chain from top to bottom and stops at the first condition that is true.",
+    "difficulty": 9,
+    "answer": true
+  },
+  {
+    "id": 10,
+    "question": "In Python, an if statement can have multiple else blocks to handle different false conditions.",
+    "difficulty": 10,
+    "answer": false
+  }
+]
+```

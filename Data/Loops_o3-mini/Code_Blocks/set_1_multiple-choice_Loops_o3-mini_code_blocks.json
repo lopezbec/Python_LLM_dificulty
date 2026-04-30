@@ -1,0 +1,91 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "repeat loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "break",
+        "exit",
+        "stop",
+        "quit"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "count = 0\nwhile count <= 5:\n    print(count)\n    count += 1",
+        "for count in range(5):\n    print(count)",
+        "count = 0\nwhile count < 5:\n    print(count)\n    count = count + 1\n    break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue",
+        "pass",
+        "break",
+        "skip"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'for' loops"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "break",
+        "break",
+        "continue",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for loop",
+        "while loop",
+        "Both for and while loops",
+        "else",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "i = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print('done')\n",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "'for' loop",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def generator():\n     for i in range(3):\n         yield i\n\n for value in generator():\n     if value == 1:\n         break\n else:\n     print('Completed')\n",
+        "generator",
+        "for",
+        "if value == 1:",
+        "break",
+        "else",
+        "print('Completed')"
+      ]
+    }
+  ]
+}

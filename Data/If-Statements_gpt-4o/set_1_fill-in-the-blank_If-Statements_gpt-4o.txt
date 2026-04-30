@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "An if-statement is used to execute code based on a _____.",
+      "answer": "condition"
+    },
+    {
+      "difficulty": 2,
+      "question": "In Python, an if-statement is followed by a _____.",
+      "answer": "colon"
+    },
+    {
+      "difficulty": 3,
+      "question": "The block of code inside an if-statement is called the body, and it must be _____.",
+      "answer": "indented"
+    },
+    {
+      "difficulty": 4,
+      "question": "In Python, an _____ block can be used after an if-statement to run a block of code if the condition is false.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 5,
+      "question": "To test multiple conditions, you can use the _____ keyword along with an if-statement.",
+      "answer": "elif"
+    },
+    {
+      "difficulty": 6,
+      "question": "In an if-else structure, the _____ branch executes when the condition is true.",
+      "answer": "if"
+    },
+    {
+      "difficulty": 7,
+      "question": "When writing compound if-statements, the logical operator 'and' ensures all conditions must be _____.",
+      "answer": "true"
+    },
+    {
+      "difficulty": 8,
+      "question": "In Python, the expression in an if-statement evaluates to a boolean, which can either be _____.",
+      "answer": "True or False"
+    },
+    {
+      "difficulty": 9,
+      "question": "The conditional expression using the _____ operator allows a short-hand way to return a value based on a condition.",
+      "answer": "ternary"
+    },
+    {
+      "difficulty": 10,
+      "question": "Nested if-statements allow for complex decision-making and can be used to evaluate _____ within each decision path.",
+      "answer": "subconditions"
+    }
+  ]
+}

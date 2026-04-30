@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "level": 1,
+    "question": "Fill in the blank to complete the basic if statement syntax in Python:\n\nif ____:\n    print(\"Condition is True\")",
+    "answer": "condition"
+  },
+  {
+    "level": 2,
+    "question": "In Python, to check if variable x is equal to 10, fill in the blank:\n\nif x ____ 10:\n    print(\"x is 10\")",
+    "answer": "=="
+  },
+  {
+    "level": 3,
+    "question": "Fill in the blank to execute code only when the condition is False using an if statement:\n\nif not ____:\n    print(\"Condition is False\")",
+    "answer": "condition"
+  },
+  {
+    "level": 4,
+    "question": "Complete the if statement to check if a number is positive:\n\nif num > ____:\n    print(\"Positive number\")",
+    "answer": "0"
+  },
+  {
+    "level": 5,
+    "question": "Fill in the blank to add an else clause to the if statement:\n\nif x > y:\n    print(\"x is greater\")\n____:\n    print(\"y is greater or equal\")",
+    "answer": "else"
+  },
+  {
+    "level": 6,
+    "question": "Complete the nested if statement to check if a number is positive and even:\n\nif num > 0:\n    if num ____ 2 == 0:\n        print(\"Positive even number\")",
+    "answer": "%"
+  },
+  {
+    "level": 7,
+    "question": "Fill in the blank to use an elif clause to check for a zero value:\n\nif x > 0:\n    print(\"Positive\")\nelif ____:\n    print(\"Zero\")\nelse:\n    print(\"Negative\")",
+    "answer": "x == 0"
+  },
+  {
+    "level": 8,
+    "question": "Complete the if statement to check multiple conditions using a logical AND operator:\n\nif age >= 18 ____ citizen == True:\n    print(\"Eligible to vote\")",
+    "answer": "and"
+  },
+  {
+    "level": 9,
+    "question": "Fill in the blank to use a ternary operator for assigning a value based on a condition:\n\nresult = \"Pass\" if score >= 50 else ____",
+    "answer": "\"Fail\""
+  },
+  {
+    "level": 10,
+    "question": "Complete the if statement to handle multiple conditions with logical operators:\n\nif (x > 0 and y > 0) ____ (x < 0 and y < 0):\n    print(\"Same sign\")\nelse:\n    print(\"Different signs\")",
+    "answer": "or"
+  }
+]
+```

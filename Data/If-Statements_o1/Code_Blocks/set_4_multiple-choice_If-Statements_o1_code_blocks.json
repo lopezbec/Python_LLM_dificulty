@@ -1,0 +1,97 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "then"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        ";",
+        ":",
+        "{",
+        "->"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "elseif",
+        "elsif",
+        "elif",
+        "then if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x",
+        "if (x > 10);",
+        "if x > 10:",
+        "if x > 10",
+        "if x => 10:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x < 0: print('Negative') elif x == 0: print('Zero') else: print('Positive')",
+        "if x < 0: print('Negative') else if x == 0: print('Zero') elif: print('Positive')",
+        "if (x < 0): print('Negative'); elif (x == 0): print('Zero'); else: print('Positive');",
+        "if x < 0: print('Negative') then x == 0: print('Zero') else: print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "and",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "y",
+        "if x > 0:\n    if x < 10:\n        print('Small Positive')\n    else:\n        print('Large Positive')\nelse:\n    print('Non-positive')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "items",
+        "if len(items) =! 0:\n    print(items[0])",
+        "if len(items) > 0:\n    print(items[0])",
+        "if items != '':\n    print(items[0])",
+        "if items is not None:\n    print(items[0])"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "result",
+        "x",
+        "result = if x > 100: 'High' else: 'Low'",
+        "result = 'High' if x > 100 else 'Low'",
+        "result = 'Low' if x < 100 else 'High'",
+        "result = x > 100 ? 'High' : 'Low'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x",
+        "y",
+        "if x > 0:\n    if y > 0:\n        print('Both positive')\n    else:\n        print('x positive, y non-positive')\nelse:\n    print('x non-positive')",
+        "if x > 0:\nelse y > 0:\n    print('Both positive')\nelse:\n    print('One is non-positive')",
+        "if x > 0 and if y > 0:\n    print('Both positive')\nelse:\n    print('Otherwise')",
+        "if x > 0:\n    print('x positive')\nif y > 0:\n    print('y positive')\nelse:\n    print('Both non-positive')"
+      ]
+    }
+  ]
+}

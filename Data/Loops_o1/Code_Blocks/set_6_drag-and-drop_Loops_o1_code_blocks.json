@@ -1,0 +1,108 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for ____ in ____:\n    print(____)",
+        "i",
+        "range(5)",
+        "j",
+        "len(my_list)",
+        "i"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']\n\nfor ____ in ____:\n    print(____)",
+        "fruit",
+        "fruits",
+        "i",
+        "3",
+        "fruit"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "num = 1\n\nwhile ____:\n    print(num)\n    ____\n",
+        "num < 4",
+        "num += 1",
+        "range(4)",
+        "for num in range(1, 4)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "text = 'Python'\n\nfor ____ in ____:\n    print(____)",
+        "char",
+        "text",
+        "i",
+        "len(text)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 0\n\nwhile ____:\n    print(x)\n    ____\n",
+        "x < 10",
+        "x = 10",
+        "x += 1",
+        "for x in range(10)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for ____ in ____:\n    for ____ in ____:\n        print((i, j))",
+        "i",
+        "j",
+        "range(1,3)",
+        "range(1,4)",
+        "range(1,2)",
+        "range(1,3+1)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(1, 6):\n    if ____:\n        ____\n    print(i)",
+        "i == 3",
+        "continue",
+        "break",
+        "i != 3"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "num = 1\nwhile num < 10:\n    if num % 2 == 1:\n        print(num)\n    ____",
+        "num += 1",
+        "num -= 1",
+        "continue",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(1, 4):\n    if ____:\n        ____\n    for letter in ['A', 'B', 'C']:\n        print(i, letter)",
+        "i == 2",
+        "break",
+        "i > 2",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "numbers = [1, 2]\nfor val in numbers:\n    count = 0\n    while ____:\n        print(val)\n        ____",
+        "count < 2",
+        "count -= 2",
+        "count += 1",
+        "val < 2"
+      ]
+    }
+  ]
+}

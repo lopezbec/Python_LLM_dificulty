@@ -1,0 +1,114 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 10 then:",
+        "if x > 10:",
+        "if (x > 10)",
+        "if x > 10 {}",
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 5",
+        "if x > 3:",
+        "print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 4",
+        "y = 10",
+        "if x > 5:",
+        "if y > 5:",
+        "print('A')",
+        "else:",
+        "print('B')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "y",
+        "if-statement",
+        "if y == 10 or 20:",
+        "if y == 10 and 20:",
+        "if y in (10, 20):",
+        "if y is 10 or 20:"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 3",
+        "if x < 5:",
+        "print('Less than 5')",
+        "if x < 10:",
+        "print('Less than 10')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x == 1:\n    print('One')\notherwise:\n    print('Not One')",
+        "if x == 1:\n    print('One')\nelse if x == 2:\n    print('Two')",
+        "if x == 1:\n    print('One')\nelif x == 2:\n    print('Two')\nelse:\n    print('Other')",
+        "if x == 1:\n    print('One')\nelseif x == 2:\n    print('Two')",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 5",
+        "y = 3",
+        "if x < 10:",
+        "if y > 2:",
+        "print('A')",
+        "else:",
+        "print('B')",
+        "print('C')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 5",
+        "if x < 10:",
+        "if x < 5:",
+        "print('A')",
+        "elif x == 5:",
+        "print('B')",
+        "else:",
+        "print('C')",
+        "else:",
+        "print('D')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 'spam'",
+        "y = 'eggs' if x == 'ham' else 'bacon'",
+        "if (len(x) > 4) and (y == 'eggs'):",
+        "print('Good')",
+        "elif (len(x) > 4) or (y == 'bacon'):",
+        "print('Better')",
+        "else:",
+        "print('Best')"
+      ]
+    }
+  ]
+}

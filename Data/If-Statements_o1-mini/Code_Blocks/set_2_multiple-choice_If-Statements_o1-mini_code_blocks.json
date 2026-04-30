@@ -1,0 +1,70 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10\nif x > 5:\n    print(\"Greater than 5\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age = 20\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if condition:\n    # code\nelif condition:\n    # code\nelse:\n    # code",
+        "if (condition) {\n    // code\n} elseif (condition) {\n    // code\n} else {\n    // code\n}",
+        "if condition then:\n    # code\nelseif condition then:\n    # code\nelse:\n    # code",
+        "if condition do:\n    # code\nelif condition do:\n    # code\nelse do:\n    # code"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 15\ny = 20\nif x > 10 and y > 25:\n    print(\"Both conditions are true\")\nelif x > 10 and y > 15:\n    print(\"First condition true, second false\")\nelse:\n    print(\"At least one condition is false\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "number = 7\nif number % 2 == 0:\n    print(\"Even\")\nelif number % 3 == 0:\n    print(\"Divisible by 3\")\nelif number % 5 == 0:\n    print(\"Divisible by 5\")\nelse:\n    print(\"Odd\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "score = 85\nif score > 90:\n    grade = 'A'\nelif score > 80:\n    grade = 'B'\nelif score > 70:\n    grade = 'C'\nelse:\n    grade = 'D'\nprint(grade)",
+        "score >= 90"
+      ]
+    }
+  ]
+}

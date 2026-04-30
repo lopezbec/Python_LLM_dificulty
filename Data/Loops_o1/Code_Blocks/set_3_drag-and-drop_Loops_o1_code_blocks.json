@@ -1,0 +1,157 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "numbers = 1",
+        "while [CONDITION_PLACEHOLDER]:",
+        "print(numbers)",
+        "[INCREMENT_PLACEHOLDER]",
+        "numbers < 4",
+        "numbers += 1",
+        "numbers > 3",
+        "numbers -= 1",
+        "CONDITION_PLACEHOLDER",
+        "INCREMENT_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in [RANGE_PLACEHOLDER]:",
+        "[PRINT_PLACEHOLDER]",
+        "range(3)",
+        "range(4, 7)",
+        "print(i)",
+        "print(i + 3)",
+        "RANGE_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "number = 1",
+        "while number <= 6:",
+        "number += 1",
+        "[CONTINUE_CONDITION_PLACEHOLDER]",
+        "print(number)",
+        "if number % 2 != 0: continue",
+        "if number % 2 == 0: continue",
+        "if number > 6: continue",
+        "if number < 2: continue",
+        "CONTINUE_CONDITION_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "count = 0",
+        "while True:",
+        "[INCREMENT_PLACEHOLDER]",
+        "if [BREAK_CONDITION_PLACEHOLDER]:",
+        "break",
+        "print(count)",
+        "count += 1",
+        "count = 0",
+        "count == 3",
+        "count > 5",
+        "INCREMENT_PLACEHOLDER",
+        "BREAK_CONDITION_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']",
+        "for fruit in fruits:",
+        "[SKIP_CONDITION_PLACEHOLDER]",
+        "print([PRINT_PLACEHOLDER])",
+        "if fruit == 'apple': continue",
+        "fruit.upper()",
+        "if fruit != 'apple': continue",
+        "fruit.capitalize()",
+        "SKIP_CONDITION_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in [RANGE_PLACEHOLDER]:",
+        "[PRINT_PLACEHOLDER]",
+        "range(3, 0, -1)",
+        "range(1, 4)",
+        "print(i)",
+        "print(i * -1)",
+        "RANGE_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "car_brands = ['BrandA', 'BrandB']",
+        "models = ['XModel', 'YModel', 'ZModel']",
+        "for brand in car_brands:",
+        "for model in models:",
+        "[SKIP_CONDITION_PLACEHOLDER]",
+        "print(brand, model)",
+        "if 'X' in model: continue",
+        "if 'X' in brand: continue",
+        "if model == 'XModel': break",
+        "if brand == 'BrandA': continue",
+        "SKIP_CONDITION_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for num in [RANGE_PLACEHOLDER]:",
+        "if num < 5:",
+        "[BREAK_PLACEHOLDER]",
+        "[PRINT_PLACEHOLDER]",
+        "range(10, 0, -1)",
+        "range(10, 1)",
+        "print(num)",
+        "break",
+        "print(num + 1)",
+        "continue",
+        "RANGE_PLACEHOLDER",
+        "BREAK_PLACEHOLDER",
+        "PRINT_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "my_list = [10, 20, 30, 40, 50]",
+        "for i in [RANGE_PLACEHOLDER]:",
+        "[SKIP_CONDITION_PLACEHOLDER]",
+        "print(my_list[i])",
+        "range(len(my_list))",
+        "range(len(my_list), 0, -1)",
+        "if i % 2 != 0: continue",
+        "if my_list[i] == 30: continue",
+        "RANGE_PLACEHOLDER",
+        "SKIP_CONDITION_PLACEHOLDER"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "entries = []",
+        "while True:",
+        "user_input = input('Enter something (or exit): ')",
+        "[EXIT_CONDITION_PLACEHOLDER]",
+        "[APPEND_PLACEHOLDER]",
+        "if user_input.lower() == 'exit': break",
+        "entries.append(user_input)",
+        "if user_input.lower() == 'exit': continue",
+        "entries.remove(user_input)",
+        "EXIT_CONDITION_PLACEHOLDER",
+        "APPEND_PLACEHOLDER"
+      ]
+    }
+  ]
+}

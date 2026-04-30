@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "block of code"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "loop",
+        "nested loops"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "continue",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "dictionary"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "list",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "else",
+        "loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested loops",
+        "loops",
+        "multi-dimensional data structures"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "generator expressions",
+        "loops",
+        "list comprehensions"
+      ]
+    }
+  ]
+}

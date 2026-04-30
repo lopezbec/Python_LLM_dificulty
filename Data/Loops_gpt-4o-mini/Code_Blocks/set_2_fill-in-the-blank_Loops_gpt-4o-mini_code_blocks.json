@@ -1,0 +1,81 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "block of code",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'for' loop",
+        "variable",
+        "sequence"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'while' loop",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'range()' function",
+        "'for' loop",
+        "sequence"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "statement",
+        "iteration",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "Nested loops",
+        "loops"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "loop",
+        "terminating condition"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "loop",
+        "do-while"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "dictionaries",
+        "Python",
+        "method",
+        "keys",
+        "values",
+        "items()"
+      ]
+    }
+  ]
+}

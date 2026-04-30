@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "parentheses",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else",
+        "if-statement",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x < 10 print(x)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statement",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "and",
+        "or",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if True: print('Always True!')",
+        "'Always True!'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if-statements",
+        "inner if",
+        "outer if"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "IndentationError"
+      ]
+    }
+  ]
+}

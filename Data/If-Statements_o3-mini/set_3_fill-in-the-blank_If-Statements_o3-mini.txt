@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank: To start a conditional statement in Python, you use the keyword ______.",
+      "answer": "if"
+    },
+    {
+      "id": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank: Every Python if-statement must end its condition with a ______.",
+      "answer": "colon"
+    },
+    {
+      "id": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank: In the statement 'if 5 ______ 3:', the correct operator to check if 5 is greater than 3 is ______.",
+      "answer": ">"
+    },
+    {
+      "id": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank: An if-statement in Python evaluates its condition to a ______ value (either True or False).",
+      "answer": "boolean"
+    },
+    {
+      "id": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank: In Python, to check an additional condition after an if-statement, you use the ______ keyword.",
+      "answer": "elif"
+    },
+    {
+      "id": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank: In an if-statement structure, the ______ clause is used to handle all cases not caught by the if or elif conditions.",
+      "answer": "else"
+    },
+    {
+      "id": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank: When combining two conditions in an if-statement where both must be True, you use the ______ operator.",
+      "answer": "and"
+    },
+    {
+      "id": 8,
+      "difficulty": 8,
+      "question": "Fill in the blank: To check if at least one of two conditions is True in an if-statement, you would use the ______ operator.",
+      "answer": "or"
+    },
+    {
+      "id": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank: The operator ______ is used in Python to test whether two values are not equal in an if-statement.",
+      "answer": "!="
+    },
+    {
+      "id": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank: In Python, to invert a condition in an if-statement, you use the ______ operator.",
+      "answer": "not"
+    }
+  ]
+}

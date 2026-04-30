@@ -1,0 +1,95 @@
+
+{
+    "questions": [
+        {
+            "difficulty": 1,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Drag and drop the correct loop variable to print the numbers from 1 to 5.",
+            "code_block": "for ___ in range(1, 6):\n    print(number)",
+            "options": ["number", "digit", "nums"],
+            "correct_answer": "number"
+        },
+        {
+            "difficulty": 2,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Drag and drop the correct keyword to complete the while loop that prints the numbers 1 to 3.",
+            "code_block": "counter = 1\n___ counter <= 3:\n    print(counter)\n    counter += 1",
+            "options": ["for", "while", "until"],
+            "correct_answer": "while"
+        },
+        {
+            "difficulty": 3,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Place the correct loop type to iterate over the list elements.",
+            "code_block": "days = ['Mon', 'Tue', 'Wed']\n___ day in days:\n    print(day)",
+            "options": ["for", "while", "do"],
+            "correct_answer": "for"
+        },
+        {
+            "difficulty": 4,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Choose the correct range function parameters to print even numbers from 2 to 8.",
+            "code_block": "for i in range(___, ___, ___):\n    print(i)",
+            "options": ["2, 10, 2", "1, 8, 1", "2, 8, 1"],
+            "correct_answer": "2, 10, 2"
+        },
+        {
+            "difficulty": 5,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Select the correct statement to skip printing the number 5 in the loop from 1 to 10.",
+            "code_block": "for i in range(1, 11):\n    ___ i == 5:\n        continue\n    print(i)",
+            "options": ["if", "when", "while"],
+            "correct_answer": "if"
+        },
+        {
+            "difficulty": 6,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Identify the correct method to prematurely exit a loop once a certain condition is met.",
+            "code_block": "for letter in 'Python':\n    if letter == 'h':\n        ___\n    print(letter)",
+            "options": ["break", "continue", "pass"],
+            "correct_answer": "break"
+        },
+        {
+            "difficulty": 7,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Drop the correct statement to ensure a piece of code is executed at least once in a loop.",
+            "code_block": "number = 0\n___ True:\n    print('Run this loop')\n    if number == 0:\n        break",
+            "options": ["while", "do", "for"],
+            "correct_answer": "while"
+        },
+        {
+            "difficulty": 8,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Complete the loop that keeps asking for input until the user enters 'exit'.",
+            "code_block": "while True:\n    user_input = input('Enter command: ')\n    if user_input == 'exit':\n        ___",
+            "options": ["stop", "exit", "break"],
+            "correct_answer": "break"
+        },
+        {
+            "difficulty": 9,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Complete the nested loop structure to square each number in the list of numbers.",
+            "code_block": "numbers = [1, 2, 3]\nsquares = []\nfor num in numbers:\n    for i ___ range(2):\n        num = num * num\n    squares.append(num)",
+            "options": ["in", "of", "within"],
+            "correct_answer": "in"
+        },
+        {
+            "difficulty": 10,
+            "type": "drag-and-drop",
+            "topic": "Loops",
+            "question": "Complete this program that uses list comprehension with a condition to filter and square only odd numbers from 1 to 10.",
+            "code_block": "squares = [x**2 ___ x in range(1, 11) if x%2 != 0]",
+            "options": ["for", "while", "within"],
+            "correct_answer": "for"
+        }
+    ]
+}

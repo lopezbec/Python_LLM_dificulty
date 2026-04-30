@@ -1,0 +1,82 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for ___ in range(___, ___):\n    print(i)",
+        "i",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "count = 0\nwhile count ___ 3:\n    print(\"Python\")\n    ___",
+        "<",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for num in range(0, 11):\n    if num % ___ == 0:\n        ___(num)",
+        "2",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "total = 0\nfor n in range(___, ___):\n    total ___ n\nprint(total)",
+        "1",
+        "11",
+        "+="
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(5, 0, ___):\n    print(i)",
+        "-1"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "fruits = ['apple', 'banana', 'cherry']\nfor ___ in fruits:\n    print(___)",
+        "fruit",
+        "fruit"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for i in range(3):\n    for j in range(3):\n        print('*', end='___')\n    print()",
+        " "
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "my_dict = {\"a\": 1, \"b\": 2, \"c\": 3}\nfor key, value in ___.items():\n    print(key,':', value)",
+        "my_dict"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "words = ['go', 'stop', 'proceed']\nfor word in words:\n    if word == '___':\n        ___\n    print(word)",
+        "stop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i in range(3):\n    print(i)\nelse:\n    print(\"Finished counting, i is now\", ___)",
+        "3"
+      ]
+    }
+  ]
+}

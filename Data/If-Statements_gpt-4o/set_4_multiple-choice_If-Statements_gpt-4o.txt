@@ -1,0 +1,115 @@
+
+{
+    "questions": [
+        {
+            "question": "1. What is an if-statement used for in Python?",
+            "options": {
+                "a": "To perform a loop action",
+                "b": "To define a function",
+                "c": "To make a decision in code",
+                "d": "To comment the code"
+            },
+            "correct_answer": "c",
+            "difficulty": 1
+        },
+        {
+            "question": "2. What will be the output of the following code?\n\n   ```python\n   x = 10\n   if x > 5:\n       print(\"Greater\")\n   else:\n       print(\"Smaller\")\n   ```",
+            "options": {
+                "a": "Greater",
+                "b": "Smaller",
+                "c": "Nothing",
+                "d": "10"
+            },
+            "correct_answer": "a",
+            "difficulty": 2
+        },
+        {
+            "question": "3. Which operator is used for equality comparison in an if-statement?",
+            "options": {
+                "a": "=",
+                "b": "==",
+                "c": "!=",
+                "d": "<="
+            },
+            "correct_answer": "b",
+            "difficulty": 3
+        },
+        {
+            "question": "4. Consider the following code snippet:\n\n   ```python\n   a = 5\n   b = 3\n   if a < b:\n       print(\"a is less\")\n   elif a == b:\n       print(\"a is equal\")\n   else:\n       print(\"a is greater\")\n   ```\n   What will be the output?",
+            "options": {
+                "a": "a is less",
+                "b": "a is equal",
+                "c": "a is greater",
+                "d": "No output"
+            },
+            "correct_answer": "c",
+            "difficulty": 4
+        },
+        {
+            "question": "5. What does the following code output?\n\n   ```python\n   n = -1\n   if n > 0:\n       print(\"Positive\")\n   elif n == 0:\n       print(\"Zero\")\n   else:\n       print(\"Negative\")\n   ```",
+            "options": {
+                "a": "Positive",
+                "b": "Zero",
+                "c": "Negative",
+                "d": "No output"
+            },
+            "correct_answer": "c",
+            "difficulty": 5
+        },
+        {
+            "question": "6. What is the correct syntax of a simple if-statement that checks whether the variable 'age' is greater than or equal to 18?",
+            "options": {
+                "a": "if age is >= 18",
+                "b": "if age >= 18:",
+                "c": "if age >= 18 then:",
+                "d": "if (age >= 18)"
+            },
+            "correct_answer": "b",
+            "difficulty": 6
+        },
+        {
+            "question": "7. What happens if there is a missing 'else' block in an if-else statement?",
+            "options": {
+                "a": "It throws a syntax error",
+                "b": "The program crashes",
+                "c": "Only the if condition is evaluated",
+                "d": "The condition always returns false"
+            },
+            "correct_answer": "c",
+            "difficulty": 7
+        },
+        {
+            "question": "8. How many times will 'Hi' be printed in the following code?\n\n   ```python\n   x = 0\n   if x == 0:\n       print(\"Hi\")\n   if x > 0:\n       print(\"Hi\")\n   ```",
+            "options": {
+                "a": "0 times",
+                "b": "1 time",
+                "c": "2 times",
+                "d": "None of the above"
+            },
+            "correct_answer": "b",
+            "difficulty": 8
+        },
+        {
+            "question": "9. Which of the following is true about nested if-statements?",
+            "options": {
+                "a": "They cannot have an else block.",
+                "b": "They are not supported in Python.",
+                "c": "An if-statement can contain another if-statement inside it.",
+                "d": "The nested if-statement cannot have a condition."
+            },
+            "correct_answer": "c",
+            "difficulty": 9
+        },
+        {
+            "question": "10. Analyze the following code:\n\n   ```python\n   def check_value(val):\n       if val % 2 == 0:\n           if val % 3 == 0:\n               return \"Divisible by 6\"\n           else:\n               return \"Divisible by 2\"\n       else:\n           return \"Not Divisible by 2\"\n   ```\n   What will `check_value(9)` return?",
+            "options": {
+                "a": "Divisible by 6",
+                "b": "Divisible by 2",
+                "c": "Not Divisible by 2",
+                "d": "Undefined behavior"
+            },
+            "correct_answer": "c",
+            "difficulty": 10
+        }
+    ]
+}

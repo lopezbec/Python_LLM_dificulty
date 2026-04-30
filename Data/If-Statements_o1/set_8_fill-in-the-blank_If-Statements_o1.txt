@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "Fill in the blank to check if x is greater than 0: ______ x > 0: print('Positive')",
+      "correct_answer": "if",
+      "incorrect_answers": ["for", "while", "def"]
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "Fill in the blank in the code snippet to handle multiple conditions: if x > 10: print('Large') ______ x == 10: print('Exactly ten')",
+      "correct_answer": "elif",
+      "incorrect_answers": ["else", "if", "for"]
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "Fill in the blank to handle an alternative scenario: if x >= 0: print('Positive or zero') ______: print('Negative')",
+      "correct_answer": "else",
+      "incorrect_answers": ["pass", "then", "except"]
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "Fill in the blank to check if x is between 0 and 10: if x >= 0 ______ x <= 10: print('Between 0 and 10')",
+      "correct_answer": "and",
+      "incorrect_answers": ["or", "not", "in"]
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Fill in the blank to check if the variable 'fruit' is 'apple' or 'banana': if fruit == 'apple' ______ fruit == 'banana': print('Fruit is either apple or banana')",
+      "correct_answer": "or",
+      "incorrect_answers": ["and", "else", "not"]
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "Fill in the blank to handle more than two conditions with 'elif': if x < 0: print('Negative') ______ x == 0: print('Zero') else: print('Positive')",
+      "correct_answer": "elif",
+      "incorrect_answers": ["else", "and", "or"]
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "Fill in the blank in the nested if statement: if x > 5: ______ x % 2 == 0: print('x is greater than 5 and even')",
+      "correct_answer": "if",
+      "incorrect_answers": ["elif", "else", "for"]
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "Fill in the blank to complete this ternary operator statement: status = 'valid' if x > 0 ______ 'invalid'",
+      "correct_answer": "else",
+      "incorrect_answers": ["elif", "except", "for"]
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "Fill in the blank in this condition to check if 'key' is not in dictionary 'd': if ______ key in d: print('Key not found')",
+      "correct_answer": "not",
+      "incorrect_answers": ["elif", "else", "or"]
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "Fill in the blank to raise an exception if x is negative: if x < 0: ______ ValueError('Negative number!')",
+      "correct_answer": "raise",
+      "incorrect_answers": ["pass", "break", "continue"]
+    }
+  ]
+}

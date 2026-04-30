@@ -1,0 +1,88 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x ___ 5: print(\"Greater than 5\")",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "if x ___ 10: print(\"x is 10\")",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "5 < x ___ x < 10",
+        "if 5 < x ___ x < 10: print(\"x is between 5 and 10\")",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "status",
+        "'complete'",
+        "if status ___ 'complete': print(\"Done!\")",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "if x < 0: print(\"Negative\") ___ x == 0: print(\"Zero\")",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x",
+        "if x < 2 ___ x > 8: print(\"Out of range\")",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "name",
+        "'Alice'",
+        "if name ___ 'Alice': print(\"Different name\")",
+        "!="
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "age",
+        "if age >= 13 and age ___ 19: print(\"Teenager!\")",
+        "<="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "number",
+        "if (number % 2) ___ 0: print(\"Even\")",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'price'",
+        "item",
+        "item['price']",
+        "if 'price' in item and item['price'] ___ 100: print(\"High price!\")",
+        ">"
+      ]
+    }
+  ]
+}

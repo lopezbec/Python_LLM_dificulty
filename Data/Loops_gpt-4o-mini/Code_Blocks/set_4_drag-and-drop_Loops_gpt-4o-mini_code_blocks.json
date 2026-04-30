@@ -1,0 +1,93 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(i)",
+        "for i in range(1, 4):",
+        "i = 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while i < 6:",
+        "print(i)",
+        "i = 1",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for x in range(5):",
+        "for y in range(5):",
+        "print('*')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "total = 0",
+        "for i in range(1, 11):",
+        "if i % 2 == 0:",
+        "total += i"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for num in range(10):",
+        "if num == 5:",
+        "break",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for num in range(1, 11):",
+        "if num % 2 != 0:",
+        "continue",
+        "print(num)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "vowels = 'aeiou'",
+        "count = 0",
+        "for letter in text:",
+        "if letter in vowels:",
+        "count += 1"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "squares = []",
+        "for num in range(1, 6):",
+        "squares.append(num ** 2)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def fibonacci(n):",
+        "a, b = 0, 1",
+        "for _ in range(n):",
+        "result.append(a)",
+        "a, b = b, a + b",
+        "result = []"
+      ]
+    }
+  ]
+}

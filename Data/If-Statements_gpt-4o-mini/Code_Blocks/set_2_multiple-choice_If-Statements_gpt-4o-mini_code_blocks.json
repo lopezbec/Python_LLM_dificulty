@@ -1,0 +1,71 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if condition: do_something()",
+        "if (condition) then do_something()",
+        "if condition then do_something():",
+        "if condition: do_something"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "if x > 10 print('Hello')",
+        "if (x > 10): print('Hello')",
+        "if x > 10: print 'Hello'",
+        "if x > 10 then print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 5\nif x > 3:\n    print('Yes')\nelse:\n    print('No')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10\nif x < 5:\n    print('Small')\nelif x > 8:\n    print('Medium')\nelse:\n    print('Large')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 4\nif x == 4:\n    print('Four')\nif x != 4:\n    print('Not Four')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = -1\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = [1, 2, 3]\nif len(x) == 3:\n    print('Three')\nelse:\n    print('Not Three')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "value = 10\nif value % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "num = 0\nif num:\n    print('True')\nelse:\n    print('False')"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "=="
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x _____ 10",
+        "x",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "y",
+        "if x _____ y:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "and"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if _____",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "indentation"
+      ]
+    }
+  ]
+}

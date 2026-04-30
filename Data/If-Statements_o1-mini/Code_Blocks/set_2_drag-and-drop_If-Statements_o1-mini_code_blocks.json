@@ -1,0 +1,126 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if condition:",
+        "    print(\"Condition is True\")",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "else:",
+        "if temperature > 30",
+        "    print(\"It's hot\")",
+        "    print(\"It's cool\")",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age >= 18",
+        "    print(\"Adult\")",
+        "age < 18",
+        "    print(\"Minor\")",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x > 0:",
+        "    if x % 2 == 0:",
+        "        print(\"Positive even number\")",
+        "    else:",
+        "        print(\"Positive odd number\")",
+        "else:",
+        "    print(\"Non-positive number\")",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif score >= 70:",
+        "    print(\"Good\")",
+        "if score >= 90:",
+        "    print(\"Excellent\")",
+        "elif score >= 80:",
+        "    print(\"Very Good\")",
+        "else:",
+        "    print(\"Needs Improvement\")",
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "result = \"Yes\"",
+        "if condition",
+        "else \"No\"",
+        "result = \"No\"",
+        "result = \"Yes\" if condition else \"No\"",
+        "if",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "def categorize_number(n):",
+        "    if n > 0:",
+        "        return \"Positive\"",
+        "    elif n < 0:",
+        "        return \"Negative\"",
+        "    else:",
+        "        return \"Zero\"",
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if age >= 18 and citizen:",
+        "    print(\"Eligible to vote\")",
+        "age = 20",
+        "citizen = True",
+        "if",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "fruits = [\"apple\", \"banana\", \"cherry\"]",
+        "if \"banana\" in fruits:",
+        "    print(\"Banana is available\")",
+        "else:",
+        "    print(\"Banana is not available\")",
+        "if",
+        "in",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def divide(a, b):",
+        "    if b == 0:",
+        "        return \"Error: Division by zero\"",
+        "    else:",
+        "        return a / b",
+        "if",
+        "else"
+      ]
+    }
+  ]
+}

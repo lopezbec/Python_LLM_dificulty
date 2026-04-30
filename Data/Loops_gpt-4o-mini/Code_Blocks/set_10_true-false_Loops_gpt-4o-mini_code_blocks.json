@@ -1,0 +1,67 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "list"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "range()"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "For"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "nested loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "infinite loop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "question": "In Python, an if statement can be used to execute a block of code only if a certain condition is true.",
+    "difficulty": 1,
+    "answer": true
+  },
+  {
+    "question": "In Python, the else clause in an if statement is mandatory.",
+    "difficulty": 2,
+    "answer": false
+  },
+  {
+    "question": "Proper indentation is not necessary in Python if statements as long as the syntax is correct.",
+    "difficulty": 3,
+    "answer": false
+  },
+  {
+    "question": "In Python, the condition in an if statement can include comparison operators like '==' and '>'.",
+    "difficulty": 4,
+    "answer": true
+  },
+  {
+    "question": "Python allows multiple elif clauses following an if statement to check multiple conditions.",
+    "difficulty": 5,
+    "answer": true
+  },
+  {
+    "question": "In Python, it is not possible to have an if statement inside another if statement (i.e., nested if statements).",
+    "difficulty": 6,
+    "answer": false
+  },
+  {
+    "question": "In Python, using the 'and' logical operator in an if statement condition requires both conditions to be true for the code block to execute.",
+    "difficulty": 7,
+    "answer": true
+  },
+  {
+    "question": "Variables defined inside an if statement in Python are not accessible outside of it.",
+    "difficulty": 8,
+    "answer": false
+  },
+  {
+    "question": "In Python, assigning a value to a variable within the condition of an if statement is allowed and commonly used.",
+    "difficulty": 9,
+    "answer": false
+  },
+  {
+    "question": "In Python, an if statement treats empty lists, empty strings, and zero as False.",
+    "difficulty": 10,
+    "answer": true
+  }
+]
+```

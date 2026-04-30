@@ -1,0 +1,172 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "x = 4",
+        "[1] x [2] 3:",
+        "[3](\"Yes\")",
+        "if",
+        ">",
+        "print",
+        "if x > 3:",
+        "print(\"Yes\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "y",
+        "y = 5",
+        "[1] y % 2 [2] 0:",
+        "[3](\"Even\")",
+        "[4]:",
+        "print(\"Odd\")",
+        "if",
+        "==",
+        "print",
+        "else",
+        "y % 2 == 0",
+        "if y % 2 == 0",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "x = 0",
+        "[1] x [2] 0:",
+        "print(\"Zero\")",
+        "[3] x [4] 0:",
+        "print(\"Positive\")",
+        "[5]:",
+        "print(\"Negative\")",
+        "if",
+        "==",
+        "elif",
+        ">",
+        "else",
+        "if x == 0:",
+        "elif x > 0:",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x",
+        "x = 7",
+        "[1] x [2] 0:",
+        "[3] x [4] 5:",
+        "print(\"Positive and Greater than 5\")",
+        "else:",
+        "print(\"Positive but not greater than 5\")",
+        "else:",
+        "print(\"Not positive\")",
+        "if",
+        ">",
+        "if",
+        ">",
+        "if x > 0",
+        "if x > 5"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "x = 5",
+        "[1] 3 [2] x [3] x [4] 8:",
+        "print(\"Within range\")",
+        "if",
+        "<=",
+        "and",
+        "<=",
+        "if 3 <= x and x <= 8:"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x",
+        "x = 11",
+        "[1] x [2] 0 [3] x [4] 10:",
+        "print(\"Out of range\")",
+        "if",
+        "<",
+        "or",
+        ">",
+        "if x < 0 or x > 10:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "x = 3",
+        "[1] (x [2] 0 [3] x [4] 5) [5] (x [6] 10 [7] x [8] 20):",
+        "print(\"Condition met\")",
+        "if",
+        ">",
+        "and",
+        "<",
+        "or",
+        ">",
+        "and",
+        "<",
+        "(x > 0 and x < 5) or (x > 10 and x < 20)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "fruit",
+        "fruit = 'apple'",
+        "[1] fruit [2] ['apple','banana']:",
+        "print(\"Fruit found\")",
+        "if",
+        "in",
+        "if fruit in [\"apple\",\"banana\"]:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "user_input",
+        "user_input = 'start'",
+        "[1] user_input [2] 'quit':",
+        "print(\"Still running\")",
+        "if",
+        "!=",
+        "not",
+        "if user_input != \"quit\":"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "name",
+        "age",
+        "name = 'Bob'",
+        "age = 20",
+        "[1] name [2] 'Bob' [3] name [4] 'Alice':",
+        "[5] age [6] 18:",
+        "print(\"Adult recognized:\", name)",
+        "else:",
+        "print(\"Minor recognized:\", name)",
+        "else:",
+        "print(\"Name not recognized\")",
+        "if",
+        "==",
+        "or",
+        "==",
+        "if",
+        ">",
+        "if name == 'Bob' or name == 'Alice'",
+        "if age > 18"
+      ]
+    }
+  ]
+}

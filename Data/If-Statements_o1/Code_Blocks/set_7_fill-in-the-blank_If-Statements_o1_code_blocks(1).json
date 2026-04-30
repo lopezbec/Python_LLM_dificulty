@@ -1,0 +1,92 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if x __ 10:",
+        "print('Equal to 10')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "num",
+        "if num __ 0:",
+        "print('Not zero')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "score",
+        "if score __ 80:",
+        "print('Passed')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "n",
+        "if n % 2 __ 0:",
+        "print('Even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "if x < 0:",
+        "print('Negative')",
+        "____ x == 0:",
+        "print('Zero')",
+        "else:",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "temperature",
+        "humidity",
+        "if temperature < 0 ____ humidity > 80:",
+        "print('Freezing and Humid')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "char",
+        "if char ____ 'alphabet':",
+        "print('Found it')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "temperature",
+        "is_raining",
+        "if temperature < 10:",
+        "____ is_raining:",
+        "print('Wear a coat')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x",
+        "y",
+        "if x < 0 ____ y < 0:",
+        "print('Negative value found')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result",
+        "condition",
+        "result = 'Yes' ____ condition else 'No'"
+      ]
+    }
+  ]
+}

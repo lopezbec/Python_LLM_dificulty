@@ -1,0 +1,68 @@
+Here are 10 drag-and-drop questions about If-Statements, incrementing in difficulty from 1 to 10, formatted as JSON objects:
+
+```json
+[
+    {
+        "difficulty": 1,
+        "question": "Drag and drop the correct block to complete the if-statement: \nif (condition) _______ ;",
+        "drops": ["print('Hello')", "else", "for i in range(5)"],
+        "correct": "print('Hello')"
+    },
+    {
+        "difficulty": 2,
+        "question": "Drag and drop to fill in the correct statement: \nif (x > 10) _______ ;",
+        "drops": ["print('Too high')", "if (x < 10)", "x += 1"],
+        "correct": "print('Too high')"
+    },
+    {
+        "difficulty": 3,
+        "question": "Complete the if-statement by dragging the correct else block: \nif (x == 5) { } else _______ ;",
+        "drops": ["print('Not five')", "if (x != 5)", "x = 5"],
+        "correct": "print('Not five')"
+    },
+    {
+        "difficulty": 4,
+        "question": "Drag the correct boolean expression to complete the if statement: \nif (________) { print('True'); }",
+        "drops": ["5 < 3", "2 * 2 == 4", "x = 10"],
+        "correct": "2 * 2 == 4"
+    },
+    {
+        "difficulty": 5,
+        "question": "Drag and drop the correct code to complete the nested if-statement: \nif (a > b) { if (b > c) _______ ; }",
+        "drops": ["print('B is greater')", "else", "print(a)"],
+        "correct": "print('B is greater')"
+    },
+    {
+        "difficulty": 6,
+        "question": "Complete the if-elif-else structure by dragging the correct block: \nif (x < 0) { } _______ (x == 0) { } else _______ ;",
+        "drops": ["elif", "else", "if"],
+        "correct": "elif"
+    },
+    {
+        "difficulty": 7,
+        "question": "Drag and drop the correct condition to this statement: \nif (________) { print('Value is high'); }",
+        "drops": ["value > 100", "value == 100", "value < 100"],
+        "correct": "value > 100"
+    },
+    {
+        "difficulty": 8,
+        "question": "Complete the following elif statement by dragging the correct response: \nif (score >= 90) { print('A'); } _______ (score >= 80) { print('B'); } else _______ ;",
+        "drops": ["elif", "if", "else"],
+        "correct": "elif"
+    },
+    {
+        "difficulty": 9,
+        "question": "Complete the following logical expression in the if statement: \nif (x > 5 _______ y < 10) { print('Valid'); }",
+        "drops": ["&&", "||", "and"],
+        "correct": "and"
+    },
+    {
+        "difficulty": 10,
+        "question": "Complete this multi-condition if statement: \nif (age < 18 _______ has_permission) { print('Access denied'); }",
+        "drops": ["or", "and", "not"],
+        "correct": "or"
+    }
+]
+```
+
+These questions progressively increase in complexity, covering essential if-statement concepts while ensuring valid syntax and logic for Python.

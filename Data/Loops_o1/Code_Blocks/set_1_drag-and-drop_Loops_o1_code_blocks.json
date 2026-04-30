@@ -1,0 +1,153 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(5):",
+        "print(i)",
+        "i = 0",
+        "for i in range(5):",
+        "print(i)",
+        "for i in range(5):",
+        "print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "c = 0",
+        "while c < 5:",
+        "for c in range(5):",
+        "c += 1",
+        "print(c)",
+        "break",
+        "while c < 5:",
+        "print(c)",
+        "c += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(5):",
+        "if ???:",
+        "???",
+        "print(i)",
+        "i == 2",
+        "break",
+        "continue",
+        "i = 0",
+        "i == 2",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "???",
+        "if char == 'x':",
+        "break",
+        "???",
+        "print(\"No break encountered\")",
+        "for char in 'abc':",
+        "while char != 'x':",
+        "else:",
+        "continue",
+        "for char in 'abc':",
+        "else:"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "???",
+        "???",
+        "print(x, y)",
+        "for x in range(2):",
+        "for y in range(2):",
+        "while x < 2:",
+        "while y < 2:",
+        "for x in range(2):",
+        "for y in range(2):"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "i = 0",
+        "while i < 5:",
+        "if ???:",
+        "???",
+        "print(i)",
+        "i += 1",
+        "i % 2 == 0",
+        "continue",
+        "break",
+        "i *= 2",
+        "i % 2 == 0",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "fruits = [\"apple\", \"banana\", \"cherry\"]",
+        "for ??? in ???:",
+        "print(index, fruit)",
+        "index, fruit",
+        "enumerate(fruits)",
+        "for fruit in fruits:",
+        "for i in range(len(fruits)):",
+        "index, fruit",
+        "enumerate(fruits)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "person = {\"name\": \"Alice\", \"age\": 30}",
+        "for ??? in ???:",
+        "print(key, value)",
+        "key, value",
+        "person.items()",
+        "person.keys()",
+        "age, name",
+        "key, value",
+        "person.items()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for x in range(3):",
+        "for y in range(3):",
+        "if ???:",
+        "???",
+        "print(x, y)",
+        "x == y",
+        "break",
+        "continue",
+        "x != y",
+        "x == y",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "num = 29",
+        "for i in range(2, num):",
+        "if ???:",
+        "???",
+        "else:",
+        "print(\"Prime\")",
+        "num % i == 0",
+        "break",
+        "continue",
+        "num / i == 0",
+        "num % i == 0",
+        "break"
+      ]
+    }
+  ]
+}

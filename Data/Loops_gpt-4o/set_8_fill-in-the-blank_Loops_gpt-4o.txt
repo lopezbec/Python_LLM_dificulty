@@ -1,0 +1,55 @@
+
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "The ___ loop in Python is used to iterate over a sequence such as a list, tuple, or string.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "A simple ___ loop will keep running a block of code as long as the condition is true.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "In a for loop, the variable used in the loop is often referred to as the ___ variable.",
+      "answer": "loop"
+    },
+    {
+      "difficulty": 4,
+      "question": "To exit a loop prematurely, you can use the ___ statement.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 5,
+      "question": "In nested loops, the ____ loop is executed once for each iteration of the outer loop.",
+      "answer": "inner"
+    },
+    {
+      "difficulty": 6,
+      "question": "You can skip the current iteration and move to the next iteration in a loop using the ___ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 7,
+      "question": "The ___ function in Python can be used to create a sequence of numbers suitable for iteration with a for loop.",
+      "answer": "range"
+    },
+    {
+      "difficulty": 8,
+      "question": "In Python, you can use the ___ clause with a loop to define a block of code that executes if no break statement was encountered.",
+      "answer": "else"
+    },
+    {
+      "difficulty": 9,
+      "question": "The time complexity of a nested loop where each loop iterates 'n' times is O(___).",
+      "answer": "n^2"
+    },
+    {
+      "difficulty": 10,
+      "question": "In Python, you can utilize ___ to iterate over multiple iterables at once in a single loop construct.",
+      "answer": "zip"
+    }
+  ]
+}

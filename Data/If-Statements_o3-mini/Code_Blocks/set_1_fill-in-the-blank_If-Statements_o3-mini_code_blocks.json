@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "x",
+        "x > 0:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "y",
+        "y == 10:",
+        "print('y is 10')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "num",
+        "if num _____ 5:",
+        "print('num is not 5')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "indentation",
+        "if temperature > 30:",
+        "    print('It is hot')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "nested if-statement",
+        "score",
+        "extra_credit",
+        "if score >= 90:",
+        "    _____ extra_credit:",
+        "        print('Bonus awarded')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-else statement",
+        "n",
+        "if n % 2 == 0:",
+        "print('Even')",
+        "_____:",
+        "print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "age",
+        "if age < 13:",
+        "print('Child')",
+        "_____ age < 20:",
+        "print('Teenager')",
+        "else:",
+        "print('Adult')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "number",
+        "if number >= 1 _____ number <= 10:",
+        "print('Number is between 1 and 10')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "boolean variable",
+        "flag",
+        "not operator",
+        "if _____ flag:",
+        "print('Flag is False')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "score",
+        "grade",
+        "if score > 90 _____ grade == 'A':",
+        "print('Excellent performance')"
+      ]
+    }
+  ]
+}

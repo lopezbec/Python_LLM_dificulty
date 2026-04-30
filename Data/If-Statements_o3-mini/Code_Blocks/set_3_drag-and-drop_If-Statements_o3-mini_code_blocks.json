@@ -1,0 +1,116 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "x > 0:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "else",
+        "elif",
+        "x == 10:",
+        "print('Equal to 10')",
+        "else:",
+        "print('Not equal to 10')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x ___ 5:",
+        "print('x is 5')",
+        "==",
+        "!=",
+        ">="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if y < 20___",
+        "print('Less than 20')",
+        ":",
+        ";",
+        ","
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if score >= 90:",
+        "print('A')",
+        "___ score >= 80:",
+        "print('B')",
+        "elif",
+        "else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if a > 0:",
+        "___ b > 0:",
+        "print('Both are positive')",
+        "if",
+        "else",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 0 ___ x < 10:",
+        "print('x is between 0 and 10')",
+        "and",
+        "or",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if temperature ___ 0:",
+        "print('Freezing')",
+        "<=",
+        ">",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "___ num % 2 == 0:",
+        "print('Even')",
+        "___ num % 2 != 0:",
+        "print('Odd')",
+        "___:",
+        "print('Unknown')",
+        "if",
+        "elif",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "___ day == 'Saturday' or day == 'Sunday':",
+        "print('Weekend')",
+        "___ day == 'Friday':",
+        "print('Almost Weekend')",
+        "___:",
+        "print('Weekday')",
+        "if",
+        "elif",
+        "else"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "Python",
+        "loop",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "iterations",
+        "condition",
+        "loop",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in ______(10): print(i)",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "dictionary",
+        "'data'",
+        "for key, value in data.________():",
+        "items"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "loop",
+        "condition",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "loop",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'while' loop",
+        "counter",
+        "increment"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "zip"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "list comprehension",
+        "lists",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "range",
+        "list(range(2, 21, 2))"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 5: print('x is greater than 5')",
+        "if (x > 5): print('x is greater than 5')",
+        "if x > 5; print('x is greater than 5')",
+        "if x > 5 print('x is greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10\nif x < 5:\n    print('Less than 5')\nelse:\n    print('5 or more')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x == 10:",
+        "x = '10'",
+        "x = 20",
+        "x = 10.0",
+        "x = 5"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5\nif x > 3:\n    if x < 10:\n        print('Within range')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 42\nif x % 2 == 0:\n    print('Even')\nelse:\n    print('Odd')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if not x:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = None",
+        "if x:\n    print('True')\nelse:\n    print('False')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = [1, 2, 3]\nif x[2] == 3:\n    print('Match')\nelse:\n    print('No Match')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 20\ny = 30\nif x > y:\n    print('x is greater than y')\nelse:\n    print('y is greater than or equal to x')",
+        "'>'",
+        "'=='",
+        "'='"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "In Python, to iterate a fixed number of times, we use the ________ keyword.",
+      "correct_answer": "for"
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "To repeat a block of code as long as a condition remains True, we use the ________ statement in Python.",
+      "correct_answer": "while"
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "The built-in function ________ can be used with a for loop to generate a sequence of numbers from 0 up to but not including a specified value.",
+      "correct_answer": "range"
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "In Python, the statement that immediately ends a loop, skipping all remaining iterations, is the ________ statement.",
+      "correct_answer": "break"
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Within nested loops, to move to the next iteration of the closest enclosing loop without completing the current iteration, we use the ________ statement.",
+      "correct_answer": "continue"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "When we need an iterable sequence of indices and their corresponding elements, we can use the built-in function ________ in a for loop.",
+      "correct_answer": "enumerate"
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "To create an infinite loop, we can use the 'while True' structure. However, to avoid a never-ending process, we must include a(n) ________ statement within that loop.",
+      "correct_answer": "break"
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "A concise way to create a list in Python using a loop inside square brackets is known as a ________.",
+      "correct_answer": "list comprehension"
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "When iterating over multiple iterables at once, we can use the ________ function in a single for loop to combine elements from each iterable.",
+      "correct_answer": "zip"
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "The optional else clause in a Python for loop is executed only when the loop completes without encountering a ________ statement.",
+      "correct_answer": "break"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "Python",
+        "if-statement",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "block of code",
+        "if-statement",
+        "body",
+        "indented"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "Python",
+        "else",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "elif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-else",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "compound if-statements",
+        "and",
+        "conditions",
+        "true"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Python",
+        "expression",
+        "if-statement",
+        "boolean",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "conditional expression",
+        "operator",
+        "ternary",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "Nested if-statements",
+        "subconditions"
+      ]
+    }
+  ]
+}

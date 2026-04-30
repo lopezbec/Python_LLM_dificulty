@@ -1,0 +1,101 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i ___ range(5):",
+        "in",
+        "on",
+        "into",
+        "within"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "i = 1",
+        "while i <= 3:",
+        "print(i)",
+        "i += 1"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "for i in range(5):\n    if i == 3:\n        ___\n    print(i)",
+        "continue",
+        "break",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "For Loop",
+        "While Loop",
+        "Iterates over a sequence of elements.",
+        "Continues execution as long as a condition is true."
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(3):\n    for j in range(3):\n        print('*', end=' ')\n    ___",
+        "print()",
+        "continue",
+        "break",
+        "pass"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "result = 1",
+        "number = 5",
+        "while number > 1:",
+        "result *= number",
+        "number -= 1",
+        "print(result)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "List Comprehension",
+        "Nested Loop",
+        "Creates a new list based on existing lists.",
+        "Loops within loops to handle multi-dimensional data."
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(1, 11):\n    if i % 2 == 0:\n        ___\n    print(i)",
+        "continue",
+        "break",
+        "pass",
+        "return"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for key in my_dict:",
+        "for key, value in ___:",
+        "print(key, value)",
+        "my_dict.items()"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "def generate_squares(n):\n    for i in range(1, n+1):\n        ___\n",
+        "yield i * i",
+        "return i * i",
+        "print(i * i)",
+        "yield i"
+      ]
+    }
+  ]
+}

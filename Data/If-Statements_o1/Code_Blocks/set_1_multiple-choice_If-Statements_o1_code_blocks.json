@@ -1,0 +1,97 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "switch",
+        "check",
+        "test"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "Indentation",
+        "braces",
+        "parentheses",
+        "semicolon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x>0: print('Positive') else: print('Non-positive')",
+        "if x>0\nprint('Positive')\nelse:\nprint('Non-positive')",
+        "if x>0:\n    print('Positive')\nelse:\n    print('Non-positive')",
+        "if (x>0):\n    print('Positive')\n} else {\n    print('Non-positive')\n}"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "a",
+        "b",
+        "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse\n    print('Both are equal')",
+        "if a > b:\n    print('a is greater')\nelif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')",
+        "if (a > b)\n    print('a is greater')\nelse if(a < b)\n    print('b is greater')\nelse:\n    print('Both are equal')",
+        "if a > b:\n    print('a is greater')\nelseif a < b:\n    print('b is greater')\nelse:\n    print('Both are equal')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5",
+        "if x > 0:\n    if x < 10:\n        print('Small positive number')\n    else:\n        print('Large positive number')\nelse:\n    print('Non-positive number')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 7",
+        "y = 3",
+        "if x > 0 and y > 0:\n    print('Both positive')\nelif x > 0 or y > 0:\n    print('At least one is positive')\nelse:\n    print('Both are non-positive')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "if x == 5 or 6:\n    print('x is 5 or 6')",
+        "if x in [5 or 6]:\n    print('x is 5 or 6')",
+        "if x == 5 or x == 6:\n    print('x is 5 or 6')",
+        "if (x == 5) or (6):\n    print('x is 5 or 6')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "result = if condition: x else: y",
+        "result = x if condition else y",
+        "result = x ? condition : y",
+        "result = if condition then x else y"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 4",
+        "y = 8",
+        "if x < y < 10:\n    print('y is between x and 10')\nelse:\n    print('Condition not met')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x",
+        "y",
+        "z",
+        "if x > y:\n    if x > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(y)\n    else:\n        print(z)",
+        "if x > y > z:\n    print(x)\nelif y > x > z:\n    print(y)\nelse:\n    print(z)",
+        "if x > y:\n    if y > z:\n        print(x)\n    else:\n        print(z)\nelse:\n    if y > z:\n        print(x)\n    else:\n        print(z)",
+        "x = max(x, y, z)\nprint(x)"
+      ]
+    }
+  ]
+}

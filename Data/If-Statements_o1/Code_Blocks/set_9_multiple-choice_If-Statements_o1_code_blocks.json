@@ -1,0 +1,105 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "for",
+        "while",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 5:",
+        "if x > 5 then:",
+        "if x > 5 =>",
+        "if (x > 5) {}"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "for",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "elseif",
+        "elif",
+        "else if",
+        "otherwise"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "and",
+        "or",
+        "not",
+        "both"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 10",
+        "if x < 5:",
+        "    print(\"Small\")",
+        "else:",
+        "    print(\"Large\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 8",
+        "if x > 0:",
+        "    if x < 10:",
+        "        print(\"Single digit positive number\")",
+        "    else:",
+        "        print(\"Multiple digit positive number\")",
+        "else:",
+        "    print(\"Negative number\")",
+        "x is 8"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 15",
+        "if x < 5:",
+        "    print(\"Very small\")",
+        "elif x < 10:",
+        "    print(\"Small\")",
+        "elif x < 20:",
+        "    print(\"Medium\")",
+        "else:",
+        "    print(\"Large\")",
+        "x = 15"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if statement",
+        "'and' operator",
+        "'and'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "print('Positive') if x > 0 else print('Non-positive')",
+        "if x > 0 ? print('Positive') : print('Non-positive')",
+        "print('Positive' if x > 0) else ('Non-positive')",
+        "if x > 0: print('Positive') else: print('Non-positive')",
+        "<expression1> if <condition> else <expression2>"
+      ]
+    }
+  ]
+}

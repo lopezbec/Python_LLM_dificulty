@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, 'if' is a reserved keyword for creating conditional statements.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 2,
+      "question": "An if-statement may optionally include an else clause to handle the case when its condition is false.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 3,
+      "question": "Indentation is not important in the body of a Python if-statement, so the code block can start at any column.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 4,
+      "question": "Python allows nesting one if-statement inside another.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 5,
+      "question": "Multiple conditions can be checked in a single if-statement using 'and', 'or', and 'not'.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 6,
+      "question": "If none of the conditions in an if-elif chain are met, Python automatically executes the code in the first if-block.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 7,
+      "question": "You can write a single-line if-statement in Python by placing the action on the same line after a colon.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 8,
+      "question": "By default, Python string comparisons within if-statements are case-insensitive.",
+      "correct_answer": "False"
+    },
+    {
+      "difficulty": 9,
+      "question": "Operators like <, <=, ==, !=, >=, and > can be used in if-statements to compare both numbers and strings.",
+      "correct_answer": "True"
+    },
+    {
+      "difficulty": 10,
+      "question": "Python uses short-circuit evaluation in if-statements with 'and' and 'or', skipping further checks if the outcome is already determined.",
+      "correct_answer": "True"
+    }
+  ]
+}

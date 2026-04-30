@@ -1,0 +1,84 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "if x ______ 10: print(\"x is larger than 10\")",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "status",
+        "if status ______ 'active': print(\"Status is active\")",
+        "=="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x < 0:",
+        "print(\"x is negative\")",
+        "________ x == 0:",
+        "print(\"x is zero\")",
+        "else:",
+        "print(\"x is positive\")",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > 0 ______ y > 0:",
+        "print(\"Both x and y are positive\")",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if ______ (x > 10):",
+        "print(\"x is not greater than 10\")",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "print(\"Positive\") if x > 0 ______ \"Non-positive\"",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if color == 'red' ______ color == 'blue':",
+        "print(\"Primary color\")",
+        "or"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if choice ______ ['start', 'stop']:",
+        "print(\"Valid choice\")",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "is_even = lambda x: True if x ______ 2 == 0 else False",
+        "%"
+      ]
+    }
+  ]
+}

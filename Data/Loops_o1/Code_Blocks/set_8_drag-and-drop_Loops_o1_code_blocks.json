@@ -1,0 +1,148 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):",
+        "print('Hello')",
+        "print('Bye')",
+        "for i in range(3):",
+        "print('Hello')",
+        "range(3)",
+        "print(\"Bye\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "print(num)",
+        "num = 1",
+        "while num <= 3:",
+        "num += 1",
+        "for i in range(3):",
+        "num = 1",
+        "while num <= 3:",
+        "print(num)",
+        "num += 1",
+        "for i in range(3):"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "numbers = [0, 1, 2]",
+        "print(num * num)",
+        "while numbers < 2:",
+        "for num in numbers:",
+        "numbers = [0, 1, 2]",
+        "for num in numbers:",
+        "print(num * num)",
+        "while numbers < 2:"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "print(char)",
+        "for char in 'cat':",
+        "char = 0",
+        "while char != 'cat':",
+        "for char in 'cat':",
+        "print(char)",
+        "char = 0",
+        "while char != 'cat':"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "total = 0",
+        "while num <= 5:",
+        "num = 1",
+        "total += num",
+        "num < 5",
+        "num += 1",
+        "num = 1",
+        "total = 0",
+        "while num <= 5:",
+        "total += num",
+        "num += 1"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "print(num)",
+        "if num % 2 == 0:",
+        "for num in [1, 2, 3, 4, 5, 6]:",
+        "while num <= 6:",
+        "for num in [1, 2, 3, 4, 5, 6]:",
+        "if num % 2 == 0:",
+        "print(num)",
+        "while num <= 6:"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "result = 1",
+        "while n > 0:",
+        "print(result)",
+        "n = 4",
+        "result *= n",
+        "n += 1",
+        "n = 4",
+        "result = 1",
+        "while n > 0:",
+        "result *= n",
+        "n -= 1",
+        "print(result)",
+        "n += 1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "print(i)",
+        "for i in range(3, 13, 3):",
+        "for i in range(12):",
+        "if i % 3 == 0:",
+        "for i in range(3, 13, 3):",
+        "print(i)",
+        "range(3, 13, 3)",
+        "if i % 3 == 0:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "user_input = ''",
+        "while user_input.lower() != 'stop':",
+        "user_input = input('Enter a value: ')",
+        "entries.append(user_input)",
+        "entries = []",
+        "if True: break",
+        "entries = []",
+        "user_input = ''",
+        "while user_input.lower() != 'stop':",
+        "user_input = input('Enter a value: ')",
+        "entries.append(user_input)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for color in ['red', 'green', 'blue']:",
+        "for fruit in ['apple', 'banana']:",
+        "print(fruit, 'is', color)",
+        "while color in ['red', 'green']:",
+        "while fruit in ['apple', 'banana']:",
+        "for fruit in ['apple', 'banana']:",
+        "for color in ['red', 'green', 'blue']:",
+        "print(fruit, 'is', color)",
+        "while color in ['red', 'green']:",
+        "while fruit in ['apple', 'banana']:"
+      ]
+    }
+  ]
+}

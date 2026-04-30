@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which of the following best describes a loop in Python?",
+      "options": [
+        "A conditional statement",
+        "A control flow statement for repeated execution",
+        "A function definition",
+        "An error message"
+      ],
+      "correct_answer": "A control flow statement for repeated execution"
+    },
+    {
+      "difficulty": 2,
+      "question": "What is the output of the following code snippet?\n\nfor i in range(3):\n    print(i)",
+      "options": [
+        "0 1 2",
+        "1 2 3",
+        "0 1 2 3",
+        "1 2 3 4"
+      ],
+      "correct_answer": "0 1 2"
+    },
+    {
+      "difficulty": 3,
+      "question": "What keyword is used to create an infinite loop in Python using a while statement?",
+      "options": [
+        "while True",
+        "while False",
+        "for True",
+        "if True"
+      ],
+      "correct_answer": "while True"
+    },
+    {
+      "difficulty": 4,
+      "question": "In a for loop iterating over a list, which option is the correct way to access both the index and the value?",
+      "options": [
+        "for index, value in enumerate(list):",
+        "for index, value in list.enumerate():",
+        "for index, value in enumerate(list()):",
+        "for index in range(len(list)):"
+      ],
+      "correct_answer": "for index, value in enumerate(list):"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which of the following is a valid way to prematurely exit a loop?",
+      "options": [
+        "continue",
+        "pass",
+        "break",
+        "exit()"
+      ],
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 6,
+      "question": "How many times will the loop execute in the following code?\n\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "An infinite loop"
+      ],
+      "correct_answer": "5"
+    },
+    {
+      "difficulty": 7,
+      "question": "In the context of loops, what does the 'continue' statement do?",
+      "options": [
+        "Exits the loop entirely.",
+        "Skips the current iteration and continues with the next.",
+        "Restarts the loop from the beginning.",
+        "Terminates the program."
+      ],
+      "correct_answer": "Skips the current iteration and continues with the next."
+    },
+    {
+      "difficulty": 8,
+      "question": "What is the output of the following code snippet?\n\ntotal = 0\nfor num in range(1, 5):\n    if num % 2 == 0:\n        continue\n    total += num\nprint(total)",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "Unexpected error"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "difficulty": 9,
+      "question": "Which of the following loop constructs in Python can be used to iterate over the keys and values of a dictionary, and what is the correct syntax?",
+      "options": [
+        "for key, value in dict.items():",
+        "for key, value in dict.iteritems():",
+        "for (key, value) in dict:",
+        "for key, value in dict.keys():"
+      ],
+      "correct_answer": "for key, value in dict.items():"
+    },
+    {
+      "difficulty": 10,
+      "question": "Given the nested loop code below, how many times will 'Hello' be printed?\n\nfor i in range(2):\n    for j in range(i):\n        print('Hello')",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_answer": "1"
+    }
+  ]
+}

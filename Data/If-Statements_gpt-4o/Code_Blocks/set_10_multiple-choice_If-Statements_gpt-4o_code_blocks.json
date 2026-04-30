@@ -1,0 +1,120 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if 5 > 3:\n    print('Hello')",
+        "print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x != 10",
+        "if x = 10",
+        "if x == 10",
+        "if x => 10",
+        "x",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 10\nif x > 5\n    print('x is greater than 5')",
+        "x = 10",
+        "if x > 5",
+        "print('x is greater than 5')",
+        ":",
+        "="
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "and",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10\ny = 5\nif x > y and y > 2:\n    print('Condition met')\nelse:\n    print('Condition not met')",
+        "x = 10",
+        "y = 5",
+        "if x > y and y > 2:",
+        "print('Condition met')",
+        "else:",
+        "print('Condition not met')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "print('Yes') if x > 10 else print('No')",
+        "if x > 10: print('Yes') else: print('No')",
+        "if (x > 10) print('Yes'); else print('No')",
+        "x = 10 if print('Yes') else print('No')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 10\ny = 8\nif x > 5:\n    if y < 10:\n        print('Both conditions met')\n    else:\n        print('Second condition not met')\nelse:\n    print('First condition not met')",
+        "x = 10",
+        "y = 8",
+        "if x > 5:",
+        "if y < 10:",
+        "print('Both conditions met')",
+        "else:",
+        "print('Second condition not met')",
+        "print('First condition not met')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 5\ny = 10\nz = 15\nif x < y:\n    if y < z:\n        if x + y > z:\n            print('Nested condition met')\n        else:\n            print('Inner condition not met')\n    else:\n        print('Middle condition not met')\nelse:\n    print('Outer condition not met')",
+        "x = 5",
+        "y = 10",
+        "z = 15",
+        "if x < y:",
+        "if y < z:",
+        "if x + y > z:",
+        "print('Nested condition met')",
+        "else:",
+        "print('Inner condition not met')",
+        "print('Middle condition not met')",
+        "print('Outer condition not met')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if not (condition):",
+        "if == not condition:",
+        "if !! condition:",
+        "if condition not:",
+        "not",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if condition1:",
+        "// code block",
+        "elif condition2:",
+        "// code block",
+        "else:",
+        "// code block",
+        "print('A')",
+        "print('B')",
+        "print('C')",
+        "condition1",
+        "condition2"
+      ]
+    }
+  ]
+}

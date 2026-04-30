@@ -1,0 +1,105 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "x > 0",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x > 10: print('Large') ______ x == 10: print('Exactly ten')",
+        "x",
+        "x > 10",
+        "print('Large')",
+        "x == 10",
+        "print('Exactly ten')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x >= 0: print('Positive or zero') ______: print('Negative')",
+        "x",
+        "x >= 0",
+        "print('Positive or zero')",
+        "print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x >= 0 ______ x <= 10: print('Between 0 and 10')",
+        "x",
+        "x >= 0",
+        "x <= 10",
+        "print('Between 0 and 10')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if fruit == 'apple' ______ fruit == 'banana': print('Fruit is either apple or banana')",
+        "fruit",
+        "fruit == 'apple'",
+        "fruit == 'banana'",
+        "print('Fruit is either apple or banana')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if x < 0: print('Negative') ______ x == 0: print('Zero') else: print('Positive')",
+        "x",
+        "x < 0",
+        "print('Negative')",
+        "x == 0",
+        "print('Zero')",
+        "print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 5: ______ x % 2 == 0: print('x is greater than 5 and even')",
+        "x",
+        "x > 5",
+        "x % 2 == 0",
+        "print('x is greater than 5 and even')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "status = 'valid' if x > 0 ______ 'invalid'",
+        "status",
+        "'valid'",
+        "x",
+        "x > 0",
+        "'invalid'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if ______ key in d: print('Key not found')",
+        "key",
+        "d",
+        "key in d",
+        "print('Key not found')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x < 0: ______ ValueError('Negative number!')",
+        "x",
+        "x < 0",
+        "ValueError('Negative number!')"
+      ]
+    }
+  ]
+}

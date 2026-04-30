@@ -1,0 +1,131 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x",
+        "==",
+        "5",
+        "if x == 5:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "number",
+        "if",
+        ">",
+        "10",
+        "print('High')",
+        "if number > 10:\n    print('High')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "char",
+        "if",
+        "!=",
+        "'a'",
+        "print('Not a')",
+        "if char != 'a':\n    print('Not a')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "score",
+        "if",
+        ">=",
+        "50",
+        "print('Pass')",
+        "if score >= 50:\n    print('Pass')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "number",
+        "if",
+        "<=",
+        "100",
+        "print('Valid')",
+        "if number <= 100:\n    print('Valid')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "height",
+        "weight",
+        "if",
+        ">=",
+        "and",
+        ">=",
+        "150",
+        "50",
+        "print('Eligible')",
+        "if height >= 150 and weight >= 50:\n    print('Eligible')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num",
+        "if",
+        "==",
+        "num > 0",
+        "num % 2 == 0",
+        "print('Positive Even')",
+        "if num > 0:\n    if num % 2 == 0:\n        print('Positive Even')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "score",
+        "if",
+        ">=",
+        "elif",
+        "else",
+        "print('Excellent')",
+        "print('Good')",
+        "print('Needs Improvement')",
+        "if score >= 90:\n    print('Excellent')\nelif score >= 60:\n    print('Good')\nelse:\n    print('Needs Improvement')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "n",
+        "if",
+        "<",
+        "elif",
+        "==",
+        "else",
+        "print('Negative')",
+        "print('Zero')",
+        "print('Positive')",
+        "if n < 0:\n    print('Negative')\nelif n == 0:\n    print('Zero')\nelse:\n    print('Positive')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "num",
+        "if",
+        ">=",
+        "and",
+        "<=",
+        "and",
+        "==",
+        "10",
+        "20",
+        "num % 2 == 0",
+        "print('Valid')",
+        "if num >= 10 and num <= 20 and num % 2 == 0:\n    print('Valid')"
+      ]
+    }
+  ]
+}

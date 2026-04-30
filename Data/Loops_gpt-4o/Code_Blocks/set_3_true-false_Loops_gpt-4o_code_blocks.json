@@ -1,0 +1,86 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "while loop",
+        "Python",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "'break' statement",
+        "for loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "For loops",
+        "Python",
+        "counter variable"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for loop",
+        "lists",
+        "strings",
+        "tuples"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for loop",
+        "while loop",
+        "code"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else clause",
+        "for loop",
+        "'break' statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'continue' statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "Nested loops",
+        "Python",
+        "loop",
+        "matrix"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "while loop",
+        "always-true condition",
+        "break statement"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "loop control constructs",
+        "break",
+        "continue",
+        "generator expressions"
+      ]
+    }
+  ]
+}

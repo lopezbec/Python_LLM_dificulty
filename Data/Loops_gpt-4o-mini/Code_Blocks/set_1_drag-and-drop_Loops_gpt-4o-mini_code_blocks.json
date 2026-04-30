@@ -1,0 +1,104 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "while",
+        "loop",
+        "each",
+        "______ i in range(5):"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for",
+        "while",
+        "until",
+        "repeat",
+        "______ condition:"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "print",
+        "display",
+        "output",
+        "log",
+        "for i in range(5): _____(i)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for",
+        "while",
+        "if",
+        "else",
+        "for i in range(3): for j in range(2): _____(i * j)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "break",
+        "continue",
+        "pass",
+        "stop",
+        "for i in range(10): if i % 2 == 0: _____"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "exit",
+        "break",
+        "return",
+        "stop",
+        "while True: if some_condition: _____"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for",
+        "in",
+        "print",
+        "each",
+        "______(value in my_list): print(value)"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "repeat",
+        "for",
+        "until",
+        "while",
+        "______(i in range(10))"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for i in range(5, 0, -1):",
+        "while i > 0:",
+        "for i in range(4, -1, -1):",
+        "while i < 5:",
+        "_____ print(i)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for",
+        "if",
+        "in",
+        "print",
+        "______(i in range(20)) : _____(i) if i % 2 == 0 else None"
+      ]
+    }
+  ]
+}

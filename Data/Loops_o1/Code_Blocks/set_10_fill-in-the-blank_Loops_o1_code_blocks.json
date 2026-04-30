@@ -1,0 +1,92 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for",
+        "loop",
+        "list",
+        "string"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "while",
+        "loop",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue",
+        "statement",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "range",
+        "function",
+        "for"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for",
+        "for",
+        "nested",
+        "loop"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else",
+        "for",
+        "while",
+        "loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while",
+        "indefinite",
+        "iteration"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "enumerate",
+        "for",
+        "index",
+        "value",
+        "sequence"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "[x**2 for x in range(10)]",
+        "list",
+        "comprehension",
+        "for",
+        "loop"
+      ]
+    }
+  ]
+}

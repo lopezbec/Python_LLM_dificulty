@@ -1,0 +1,114 @@
+```json
+[
+  {
+    "question": "What is the output of the following Python code?\n\nfor i in range(3):\n    print(i)",
+    "options": [
+      "0 1 2 3",
+      "1 2 3",
+      "0 1 2",
+      "1 2"
+    ],
+    "answer": "0 1 2",
+    "difficulty": 1
+  },
+  {
+    "question": "Which keyword is used to start a loop in Python?",
+    "options": [
+      "loop",
+      "for",
+      "iterate",
+      "repeat"
+    ],
+    "answer": "for",
+    "difficulty": 2
+  },
+  {
+    "question": "What will be the value of `x` after the loop?\n\nx = 0\nfor i in range(5):\n    x += i",
+    "options": [
+      "10",
+      "15",
+      "5",
+      "20"
+    ],
+    "answer": "10",
+    "difficulty": 3
+  },
+  {
+    "question": "How many times will the loop execute?\n\nfor letter in 'Python':\n    print(letter)",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "6",
+    "difficulty": 4
+  },
+  {
+    "question": "What is the output of the following code?\n\ncount = 0\nwhile count < 3:\n    print(count)\n    count += 1\nelse:\n    print('Done')",
+    "options": [
+      "0 1 2 3",
+      "0 1 2",
+      "0 1 2 Done",
+      "Done"
+    ],
+    "answer": "0 1 2 Done",
+    "difficulty": 5
+  },
+  {
+    "question": "Which statement correctly exits a loop prematurely?",
+    "options": [
+      "stop",
+      "exit",
+      "break",
+      "continue"
+    ],
+    "answer": "break",
+    "difficulty": 6
+  },
+  {
+    "question": "What is the purpose of the `continue` statement in a loop?",
+    "options": [
+      "To terminate the loop",
+      "To skip the rest of the current loop iteration and move to the next one",
+      "To restart the loop from the beginning",
+      "To pause the loop execution"
+    ],
+    "answer": "To skip the rest of the current loop iteration and move to the next one",
+    "difficulty": 7
+  },
+  {
+    "question": "Consider the following code snippet:\n\nfor i in range(2, 10, 3):\n    print(i)",
+    "options": [
+      "2 5 8",
+      "2 3 4 5 6 7 8 9",
+      "2 6 10",
+      "2 4 6 8"
+    ],
+    "answer": "2 5 8",
+    "difficulty": 8
+  },
+  {
+    "question": "What is the result of executing the following nested loop?\n\nfor i in range(2):\n    for j in range(3):\n        print(i, j)",
+    "options": [
+      "0 1 2\n1 1 2",
+      "0 0\n0 1\n0 2\n1 0\n1 1\n1 2",
+      "0 0 0\n1 1 1",
+      "0 1 2 3 4 5"
+    ],
+    "answer": "0 0\n0 1\n0 2\n1 0\n1 1\n1 2",
+    "difficulty": 9
+  },
+  {
+    "question": "Which of the following is a potential issue with using a `while` loop without a proper termination condition?",
+    "options": [
+      "Syntax error",
+      "Infinite loop",
+      "Type mismatch error",
+      "Memory leak"
+    ],
+    "answer": "Infinite loop",
+    "difficulty": 10
+  }
+]
+```

@@ -1,0 +1,80 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "condition",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "indentation",
+        "if statements"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if statement",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "else",
+        "if-else statement",
+        "if condition"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-elif-else chain",
+        "True",
+        "block"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "semicolon",
+        "if statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if statement",
+        "single line",
+        "conditional expression"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 0\n    print(\"Positive\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "condition",
+        "if statement",
+        "boolean value",
+        "TypeError"
+      ]
+    }
+  ]
+}

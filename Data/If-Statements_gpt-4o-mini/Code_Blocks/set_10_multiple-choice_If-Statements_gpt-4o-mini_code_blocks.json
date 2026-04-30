@@ -1,0 +1,64 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 10\nif x > 5:\n    print('Greater')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 3\nif x == 3:\n    print('Equal)\nelse:\n    print('Not Equal')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x = 7\nif x > 10:\n    print('High')\nelif x < 5:\n    print('Low')\nelse:\n    print('Medium')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 5\nif x != 5:\n    print('Not 5')\nelse:\n    print('Is 5')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 10\nif x >= 10:\n    print('Exactly or more')\nelif x < 10:\n    print('Less')\nelse:\n    print('Something else')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 20\ny = 15\nif x < 15:\n    print('x is less than y')\nelif y < 15:\n    print('y is less than x')\nelse:\n    print('y is not less')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 12\nif x in [5, 10, 15]:\n    print('Found')\nelse:\n    print('Not Found')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = -1\nif x > 0:\n    print('Positive')\nelif x < 0:\n    print('Negative')\nelse:\n    print('Zero')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = True\nif x:\n    print('True condition')\nelse:\n    print('False condition')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 0\nif x:\n    print('True')\nelif not x:\n    print('False')\nelse:\n    print('Neither')"
+      ]
+    }
+  ]
+}

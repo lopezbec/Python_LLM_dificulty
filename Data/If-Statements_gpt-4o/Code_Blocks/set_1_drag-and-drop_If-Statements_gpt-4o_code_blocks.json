@@ -1,0 +1,131 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x > 0:\n    <blank>",
+        "x",
+        ">",
+        "0",
+        "print('Hello World')",
+        "x = 0",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if <blank>:\n    print('y is 10')",
+        "y",
+        "==",
+        "10",
+        "y == 10",
+        "y != 10",
+        "y < 10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if <blank>:\n    print('Positive')\nelse:\n    <blank>",
+        "number > 0",
+        "print('Non-positive')",
+        "number == 0"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if a <blank>:\n    print('a is not 5')",
+        "a",
+        "!= 5",
+        "== 5",
+        "> 5"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if 3 <= b <blank> 7:\n    print('b is within range')",
+        "3",
+        "<=",
+        "b",
+        "<blank>",
+        "7",
+        "<=",
+        "==",
+        "<"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if day == 'Monday':\n    <blank>\nelif <blank>:\n    print('Midweek')\nelse:\n    print('Weekend')",
+        "day",
+        "==",
+        "'Monday'",
+        "print('Start of week')",
+        "day == 'Wednesday'",
+        "day == 'Friday'"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if score > 50:\n    <blank>\n        print('Pass')\n    else:\n        <blank>",
+        "score",
+        ">",
+        "50",
+        "if passed:",
+        "print('Fail')",
+        "print('Score is high')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if age < 13:\n    print('Child')\nelif <blank>:\n    <blank>\nelse:\n    print('Adult')",
+        "age",
+        "<",
+        "13",
+        "13 <= age < 18",
+        "print('Teen')",
+        "age > 18"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if <blank> or <blank>:\n    print('Conditions met')",
+        "a",
+        ">",
+        "0",
+        "b",
+        "<",
+        "0",
+        "a > 0",
+        "b < 0",
+        "a < 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if x > y and z < y:\n    <blank>\nelif x < y or z > x:\n    print('Condition B')\nelse:\n    <blank>",
+        "x",
+        ">",
+        "y",
+        "and",
+        "z",
+        "<",
+        "y",
+        "x < y",
+        "or",
+        "z > x",
+        "print('Condition A')",
+        "print('Condition C')",
+        "print('x is less than y')"
+      ]
+    }
+  ]
+}

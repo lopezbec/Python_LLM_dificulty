@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "difficulty": 1,
+      "question": "A simple if-statement in Python can have multiple else parts.",
+      "correct_answer": "False"
+    },
+    {
+      "question_number": 2,
+      "difficulty": 2,
+      "question": "The 'elif' keyword can be used multiple times in a single if-elif-else structure in Python.",
+      "correct_answer": "True"
+    },
+    {
+      "question_number": 3,
+      "difficulty": 3,
+      "question": "Python requires a colon (:) after the if keyword in an if-statement.",
+      "correct_answer": "True"
+    },
+    {
+      "question_number": 4,
+      "difficulty": 4,
+      "question": "An if-statement's condition in Python must always be enclosed in parentheses.",
+      "correct_answer": "False"
+    },
+    {
+      "question_number": 5,
+      "difficulty": 5,
+      "question": "Indentation does not affect the execution of code inside an if-statement in Python.",
+      "correct_answer": "False"
+    },
+    {
+      "question_number": 6,
+      "difficulty": 6,
+      "question": "An if-statement in Python can evaluate both numeric and string expressions as conditions.",
+      "correct_answer": "True"
+    },
+    {
+      "question_number": 7,
+      "difficulty": 7,
+      "question": "You can use the 'if' keyword inline in Python to conditionally assign a value with the syntax x = a if condition else b.",
+      "correct_answer": "True"
+    },
+    {
+      "question_number": 8,
+      "difficulty": 8,
+      "question": "The else part of an if-statement in Python is mandatory and cannot be omitted.",
+      "correct_answer": "False"
+    },
+    {
+      "question_number": 9,
+      "difficulty": 9,
+      "question": "An if-statement in Python cannot include logical operators such as 'and' or 'or'.",
+      "correct_answer": "False"
+    },
+    {
+      "question_number": 10,
+      "difficulty": 10,
+      "question": "It is possible to nest multiple if-statements inside one another in Python without any fixed limit, aside from memory constraints.",
+      "correct_answer": "True"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "keyword",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "list",
+        "fruits",
+        "for each fruit in fruits: print(fruit)",
+        "for fruit in fruits { print(fruit) }",
+        "for(item in fruits): print(item)",
+        "for fruit in fruits: print(fruit)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break",
+        "pass",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(2):\n    for j in range(3):\n        print(i, j)",
+        "print"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "range",
+        "range(5, 0, -1)",
+        "range(5, 1, -1)",
+        "range(5, 0, -2)",
+        "range(5, 2, -2)",
+        "[5, 3, 1]"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "for loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for index, value in enumerate(['a', 'b', 'c']):\n    print(index, value)",
+        "print",
+        "enumerate"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "break",
+        "while loop",
+        "while True:"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "for loop",
+        "list slicing",
+        "while loop",
+        "generator expression"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "list comprehension",
+        "Python"
+      ]
+    }
+  ]
+}

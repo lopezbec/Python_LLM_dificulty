@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "In Python, a _____ loop is used to iterate a specific number of times.",
+      "answer": "for"
+    },
+    {
+      "difficulty": 2,
+      "question": "A _____ loop continues executing as long as a specified condition is True.",
+      "answer": "while"
+    },
+    {
+      "difficulty": 3,
+      "question": "The _____ statement is used to terminate a loop prematurely.",
+      "answer": "break"
+    },
+    {
+      "difficulty": 4,
+      "question": "To skip the current iteration of a loop and continue with the next, we use the _____ statement.",
+      "answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "In a 'for' loop, to iterate over the items of a list called 'items', we write: 'for item in _____:'",
+      "answer": "items"
+    },
+    {
+      "difficulty": 6,
+      "question": "A loop that does not have a terminating condition is called an _____ loop.",
+      "answer": "infinite"
+    },
+    {
+      "difficulty": 7,
+      "question": "Using a 'for' loop, we can generate a range of numbers from 0 to 9 using the expression 'for i in range(___):'",
+      "answer": "10"
+    },
+    {
+      "difficulty": 8,
+      "question": "The 'else' block after a loop executes if the loop completed _____.",
+      "answer": "normally"
+    },
+    {
+      "difficulty": 9,
+      "question": "To iterate through each character of a string called 'text', we would use: 'for char in _____:'",
+      "answer": "text"
+    },
+    {
+      "difficulty": 10,
+      "question": "In a nested loop, if the outer loop runs _____ times and the inner loop runs _____ times, the total number of iterations will be the product of both.",
+      "answer": "m, n"
+    }
+  ]
+}

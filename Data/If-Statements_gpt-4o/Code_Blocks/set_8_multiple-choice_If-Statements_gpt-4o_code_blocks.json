@@ -1,0 +1,74 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if (x == 10)",
+        "if x == 10:",
+        "if x = 10:",
+        "if x 10 then:",
+        "if-statement",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if True:\n    print('Hello')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "else",
+        "elif",
+        "endif",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 5\nif x < 10:\n    y = 20\nelse:\n    y = 30",
+        "y"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "val = 10\nif val > 5:\n    print('A')\n    if val < 15:\n        print('B')\nelse:\n    print('C')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "number = 10\nif number > 5:\n    if number < 20:\n        print('Yes')\n    else:\n        print('Maybe')\nelse:\n    print('No')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for char in 'Programming':\n    if char in 'Python':\n        print('Python')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "num = 10\nif num > 5\n    print('Number is greater than 5')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 8\ny = 12\nif x > 10:\n    if y < 15:\n        print('Case 1')\n    else:\n        print('Case 2')\nelse:\n    if y < 10:\n        print('Case 3')\n    else:\n        print('Case 4')"
+      ]
+    }
+  ]
+}

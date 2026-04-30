@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "question": "True or False: The 'if' statement in Python is used to execute code only when a specified condition is true.",
+    "answer": true,
+    "difficulty": 1,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, the condition in an 'if' statement must always evaluate to a boolean value.",
+    "answer": false,
+    "difficulty": 2,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, the 'elif' keyword can be used after an 'if' statement to check another condition if the first condition is false.",
+    "answer": true,
+    "difficulty": 3,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, indentation is not important when writing the body of an 'if' statement.",
+    "answer": false,
+    "difficulty": 4,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: An 'if' statement in Python can have multiple 'else' clauses to handle different conditions.",
+    "answer": false,
+    "difficulty": 5,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, the 'if' statement can evaluate complex expressions using logical operators like 'and' and 'or'.",
+    "answer": true,
+    "difficulty": 6,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, when using an 'if' statement inside a loop, the 'if' condition is evaluated only once before the loop starts.",
+    "answer": false,
+    "difficulty": 7,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: Python allows the use of ternary conditional operators as a shorthand for simple 'if-else' statements.",
+    "answer": true,
+    "difficulty": 8,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: In Python, the scope of variables defined inside an 'if' statement is limited to the 'if' block.",
+    "answer": false,
+    "difficulty": 9,
+    "topic": "if-statements"
+  },
+  {
+    "question": "True or False: Python's 'if' statements can be nested within each other to handle multiple layers of conditional logic, but excessive nesting can lead to decreased code readability and maintainability.",
+    "answer": true,
+    "difficulty": 10,
+    "topic": "if-statements"
+  }
+]
+```

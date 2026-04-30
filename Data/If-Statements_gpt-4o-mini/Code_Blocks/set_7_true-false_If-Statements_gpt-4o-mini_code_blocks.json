@@ -1,0 +1,78 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "code"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "'else'"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "'and'",
+        "'or'"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if-statement",
+        "indentation",
+        "code block"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statements"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "'elif'",
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-statement",
+        "variables",
+        "logical operators"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "numerical types"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "condition",
+        "'else'",
+        "'elif'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "'if'",
+        "loop"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement",
+        "condition",
+        "true"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if-statement",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "'else'",
+        "if-else statement"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if-statements",
+        "switch statements"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if-elif-else chain",
+        "conditions"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if-statement",
+        "condition",
+        "functions"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "nested if-statements"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statements",
+        "condition",
+        "short-circuit evaluation"
+      ]
+    }
+  ]
+}

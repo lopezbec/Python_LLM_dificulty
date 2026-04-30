@@ -1,0 +1,101 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if ______:\n    print('Positive')",
+        "print('Positive')",
+        "x > 0"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if statement",
+        "colon"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "if ______:\n    print('Zero')",
+        "print('Zero')",
+        "x == 0"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x",
+        "if ______:\n    print('Between 1 and 9')",
+        "print('Between 1 and 9')",
+        "0 < x < 10"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x",
+        "if ______:\n    print('Even')",
+        "print('Even')",
+        "x % 2 == 0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "name",
+        "if ______:\n    print('Name is present')",
+        "print('Name is present')",
+        "name != \"\""
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x",
+        "if x > 10:\n    print('Big')\n______ x == 10:\n    print('Equal')\nelse:\n    print('Small')",
+        "x > 10",
+        "print('Big')",
+        "x == 10",
+        "print('Equal')",
+        "else",
+        "print('Small')",
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x",
+        "if x > 0:\n    ______ x % 2 == 1:\n        print('Positive odd number')",
+        "x > 0",
+        "x % 2 == 1",
+        "print('Positive odd number')",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x",
+        "y",
+        "if ______ and (y % x == 0):\n    print('y is divisible by x')",
+        "y % x == 0",
+        "print('y is divisible by x')",
+        "x != 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result",
+        "if ______:\n    print('Out of range')",
+        "print('Out of range')",
+        "result > 100 or result < -100"
+      ]
+    }
+  ]
+}

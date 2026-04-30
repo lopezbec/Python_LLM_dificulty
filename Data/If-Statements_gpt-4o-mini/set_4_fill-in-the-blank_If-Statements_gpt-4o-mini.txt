@@ -1,0 +1,71 @@
+Here are 10 fill-in-the-blank questions about If-Statements, with difficulty levels incrementing from 1 to 10. They are formatted as JSON objects:
+
+```json
+[
+    {
+        "question": "An if-statement in Python starts with the keyword __________.",
+        "answer": "if",
+        "difficulty": 1
+    },
+    {
+        "question": "To check if a condition is true, we use an if-statement followed by a __________ symbol.",
+        "answer": ":",
+        "difficulty": 2
+    },
+    {
+        "question": "The correct syntax for an if-statement to check if 'x' is greater than 5 is: if x __________ 5:",
+        "answer": ">",
+        "difficulty": 3
+    },
+    {
+        "question": "To create an alternate path in an if-statement, we use the keyword __________.",
+        "answer": "else",
+        "difficulty": 4
+    },
+    {
+        "question": "To check multiple conditions in an if-statement, we can use the keyword __________.",
+        "answer": "elif",
+        "difficulty": 5
+    },
+    {
+        "question": "If the if-statement condition is False, the code block inside it will __________ execute.",
+        "answer": "not",
+        "difficulty": 6
+    },
+    {
+        "question": "An if-statement can also evaluate multiple expressions using a sequence of __________ logical operators.",
+        "answer": "boolean",
+        "difficulty": 7
+    },
+    {
+        "question": "In Python, the proper way to compare two variables 'a' and 'b' for equality in an if-statement is to use __________.",
+        "answer": "==",
+        "difficulty": 8
+    },
+    {
+        "question": "A nested if-statement is an if-statement placed inside another if-statement, which can allow for __________ checks.",
+        "answer": "multiple",
+        "difficulty": 9
+    },
+    {
+        "question": "If you want to handle cases where 'x' is neither less than 5 nor greater than 10 using an if-statement, you would set up an __________ condition.",
+        "answer": "else if",
+        "difficulty": 10
+    }
+]
+```
+
+Here's a brief breakdown demonstrating that the questions and answers are appropriate for their respective difficulty levels, function correctly, and maintain clarity:
+
+1. **Question 1**: Easiest form; knowing what an if-statement starts with.
+2. **Question 2**: Recognizing the syntax characteristic of if-statements.
+3. **Question 3**: Understanding a comparison operator; slightly more complex.
+4. **Question 4**: Introduces the else clause, fundamental for logical branching.
+5. **Question 5**: Adds the concept of elif, more complex due to more conditions.
+6. **Question 6**: Tests understanding of if-statement flow and condition handling.
+7. **Question 7**: Involves logical operators, which require deeper understanding.
+8. **Question 8**: Equality checks reveal an essential aspect of condition evaluation in coding.
+9. **Question 9**: Explains nested conditions, showcasing a higher level of logic and structure.
+10. **Question 10**: Introduces a more complex branching scenario, requiring synthesis of knowledge.
+
+The difficulty level and the complexity of comprehension and answer formulation increases appropriately from 1 to 10.

@@ -1,0 +1,72 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "Python"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "result = []\nfor i in 'abcd':\n    result.append(i)\nprint(result)"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "continue",
+        "escape",
+        "pass",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "'while' loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "i = 0\nwhile i < 3:\n    i += 1\n    if i == 2:\n        continue\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "'else' clause",
+        "loop statement"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(3):\n    for j in range(2):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "range(start, stop, step)",
+        "'for' loop",
+        "'step' is set to 0"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = 0\nfor i in range(1, 4):\n    for j in range(1, 3):\n        if i * j % 2 == 0:\n            result += i + j\nprint(result)"
+      ]
+    }
+  ]
+}

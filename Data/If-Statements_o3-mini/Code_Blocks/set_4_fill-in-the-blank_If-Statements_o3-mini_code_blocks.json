@@ -1,0 +1,102 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "if ______:",
+        "print('x is greater than 5')",
+        "x > 5"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "n",
+        "if ______:",
+        "print('n is ten')",
+        "n == 10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "if x > 0:",
+        "if ______:",
+        "print('x is positive and even')",
+        "x % 2 == 0"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "score",
+        "if score >= 90:",
+        "print('A')",
+        "elif ______:",
+        "print('B')",
+        "score >= 80"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "age",
+        "if age > 18 ______ age < 65:",
+        "print('Eligible for working')",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "s",
+        "if ______:",
+        "print('Non-empty string')",
+        "s != \"\""
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "num",
+        "if num % 3 == 0 ______ num % 5 == 0:",
+        "print('FizzBuzz')",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "a",
+        "if a == 10\n    print('a is ten')",
+        ":"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "temperature",
+        "if temperature > 100:",
+        "status = 'Boiling'",
+        "else:",
+        "status = ______",
+        "'Normal'"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "status_code",
+        "if status_code == 200:",
+        "print('OK')",
+        "elif status_code == 404:",
+        "print('Not Found')",
+        "______:",
+        "print('Error')",
+        "else"
+      ]
+    }
+  ]
+}

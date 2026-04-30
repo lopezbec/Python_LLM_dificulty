@@ -1,0 +1,115 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if ____:",
+        "print(\"Condition is True\")",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x ____ 10:",
+        "print(\"x is 10\")",
+        "x",
+        "==",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if not ____:",
+        "print(\"Condition is False\")",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if num > ____:",
+        "print(\"Positive number\")",
+        "num",
+        "0"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if x > y:",
+        "print(\"x is greater\")",
+        "____:",
+        "print(\"y is greater or equal\")",
+        "x",
+        "y",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if num > 0:",
+        "if num ____ 2 == 0:",
+        "print(\"Positive even number\")",
+        "num",
+        "%",
+        "2",
+        "==",
+        "0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x > 0:",
+        "print(\"Positive\")",
+        "elif ____:",
+        "print(\"Zero\")",
+        "else:",
+        "print(\"Negative\")",
+        "x == 0"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if age >= 18 ____ citizen == True:",
+        "print(\"Eligible to vote\")",
+        "age",
+        ">=",
+        "18",
+        "citizen",
+        "==",
+        "True",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "result = \"Pass\" if score >= 50 else ____",
+        "score",
+        ">=",
+        "50",
+        "\"Fail\""
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (x > 0 and y > 0) ____ (x < 0 and y < 0):",
+        "print(\"Same sign\")",
+        "else:",
+        "print(\"Different signs\")",
+        "x",
+        ">",
+        "0",
+        "y",
+        "<",
+        "or"
+      ]
+    }
+  ]
+}

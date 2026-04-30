@@ -1,0 +1,94 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "continue",
+        "pass",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "while"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "count = 0\nfor i in range(3):\n    count += i\nprint(count)",
+        "count",
+        "for i in range(3):",
+        "count += i",
+        "print(count)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "letters = ['A', 'B']\nfor x in letters:\n    for y in letters:\n        print(x, y)",
+        "letters = ['A', 'B']",
+        "for x in letters:",
+        "for y in letters:",
+        "print(x, y)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "else",
+        "for",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "for",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for i in range(5):\n    if i == 2:\n        break\n    print(i, end=' ')",
+        "for i in range(5):",
+        "if i == 2:",
+        "break",
+        "print(i, end=' ')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "num = 5\nwhile num > 0:\n    num -= 1\n    if num == 2:\n        continue\n    print(num, end=' ')",
+        "num = 5",
+        "while num > 0:",
+        "num -= 1",
+        "if num == 2:",
+        "continue",
+        "print(num, end=' ')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for n in range(2, 10):\n    for x in range(2, n):\n        if n % x == 0:\n            print(n, 'equals', x, '*', n//x)\n            break\n    else:\n        print(n, 'is a prime number')",
+        "for n in range(2, 10):",
+        "for x in range(2, n):",
+        "if n % x == 0:",
+        "print(n, 'equals', x, '*', n//x)",
+        "break",
+        "else:",
+        "print(n, 'is a prime number')"
+      ]
+    }
+  ]
+}

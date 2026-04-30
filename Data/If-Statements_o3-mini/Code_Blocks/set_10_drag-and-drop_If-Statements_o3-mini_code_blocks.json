@@ -1,0 +1,118 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "x",
+        "x > 0:\n    print('x is positive')"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if",
+        "x",
+        ">",
+        "0",
+        "if ____ ____ ____:\n    print('x is positive')"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if",
+        "x",
+        ">",
+        "else",
+        "____ x ____ 0:\n    print('Positive')\n____:\n    print('Non-positive')"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if",
+        "x",
+        "if",
+        "%",
+        "==",
+        "0",
+        "____ x > 0:\n    ____ x % 2 ____ 0:\n        print('x is positive and even')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "x",
+        "x > 0",
+        "x == 0",
+        "____ x > 0:\n    print('Positive')\n____ x == 0:\n    print('Zero')\n____:\n    print('Negative')"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if",
+        "x",
+        "y",
+        ">",
+        "!=",
+        "and",
+        "if x > 0 ____ y > 0 ____ x != y:\n    print('x and y are positive and different')"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if",
+        "x",
+        ">",
+        "%",
+        "==",
+        "and",
+        "____ x > 0 ____ (x % 2 == 0 ____ x % 3 == 0):\n    print('x is positive and divisible by 2 and 3')"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if",
+        "x",
+        "y",
+        "<=",
+        "and",
+        "!=",
+        "____ (10 <= x <= 20) ____ (y ____ 0):\n    print('Valid input')"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if",
+        "x",
+        "%",
+        "==",
+        "else",
+        "____ x > 0:\n    if x % 2 ____ 0:\n        print('Positive even')\n    ____:\n        print('Positive odd')\n____:\n    print('Non-positive')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if",
+        "elif",
+        "else",
+        "and",
+        "x",
+        ">=",
+        "<=",
+        ">",
+        "<",
+        "____ x >= 10 and x <= 20:\n    print('x is between 10 and 20')\n____ x > 20 ____ x < 30:\n    print('x is between 21 and 29')\n____:\n    print('x is out of range')"
+      ]
+    }
+  ]
+}

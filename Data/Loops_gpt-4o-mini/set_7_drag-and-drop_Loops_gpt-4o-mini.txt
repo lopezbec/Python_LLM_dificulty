@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Drag and drop the correct code to complete the for loop statement: `for i in ___:`",
+      "options": ["(0, 10)", "[0, 10)", "range(10)", "0 to 10"],
+      "correctOption": "range(10)"
+    },
+    {
+      "difficulty": 2,
+      "question": "Drag and drop the correct code to finish the while loop: `while x ___:`",
+      "options": ["< 10", "== 10", "> 10", "= 10"],
+      "correctOption": "< 10"
+    },
+    {
+      "difficulty": 3,
+      "question": "Drag and drop the correct code for a nested loop: \n`for i in range(3):` \n`for j in ___:`",
+      "options": ["range(3)", "range(i)", "i", "3"],
+      "correctOption": "range(3)"
+    },
+    {
+      "difficulty": 4,
+      "question": "Drag and drop the correct code to use a break statement in a loop: \n`for i in range(10):`\n` if ___:` \n` break`",
+      "options": ["i == 5", "i = 5", "i > 5", "i != 5"],
+      "correctOption": "i == 5"
+    },
+    {
+      "difficulty": 5,
+      "question": "Drag and drop to complete the loop that iterates through a list:\n `my_list = [1, 2, 3]`\n `for item in ___:`",
+      "options": ["my_list", "item", "range(len(my_list))", "[1, 2, 3]"],
+      "correctOption": "my_list"
+    },
+    {
+      "difficulty": 6,
+      "question": "Drag and drop the statements to create a loop that collects even numbers: \n`even_numbers = []`\n `for i in range(10):`\n`___`",
+      "options": ["if i % 2 == 0:\n even_numbers.append(i)", "if i % 2 == 1:\n even_numbers.append(i)", "even_numbers += i", "even_numbers.append(i) if i % 2 == 0"],
+      "correctOption": "if i % 2 == 0:\n even_numbers.append(i)"
+    },
+    {
+      "difficulty": 7,
+      "question": "Drag and drop to create a loop that uses continue:\n `for i in range(5):`\n` if ___:`\n` continue`",
+      "options": ["i == 1", "i != 2", "i < 0", "i == 4"],
+      "correctOption": "i == 1"
+    },
+    {
+      "difficulty": 8,
+      "question": "Drag and drop to create a loop that outputs the product of numbers from 1 to n:\n`product = 1`\n `for i in ___:`\n` product *= i`",
+      "options": ["range(n + 1)", "range(n)", "1 to n", "n"],
+      "correctOption": "range(1, n + 1)"
+    },
+    {
+      "difficulty": 9,
+      "question": "Drag and drop to complete the loop that flattens a list of lists:\n`flattened = []`\n`for sublist in list_of_lists:`\n `for item in ___:`\n` flattened.append(item)`",
+      "options": ["sublist", "list_of_lists", "range(len(sublist))", "[item for item in sublist]"],
+      "correctOption": "sublist"
+    },
+    {
+      "difficulty": 10,
+      "question": "Drag and drop to make a generator expression within a for loop:\n`def generator(n):`\n` for i in ___:`\n` yield i`",
+      "options": ["range(n)", "[i for i in range(n)]", "(x for x in range(n))", "list(range(n))"],
+      "correctOption": "range(n)"
+    }
+  ]
+}

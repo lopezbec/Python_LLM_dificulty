@@ -1,0 +1,169 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = 5",
+        "if x [__op__] 3:",
+        "print(\"x is greater than 3\")",
+        ">",
+        "<",
+        "==",
+        "!=",
+        "__op__"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x = 4",
+        "if x % 2 [__op__] 0:",
+        "print(\"Even number\")",
+        "[__keyword__]:",
+        "print(\"Odd number\")",
+        "==",
+        "=",
+        "<=",
+        "else",
+        "__op__",
+        "__keyword__"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "age = 17",
+        "if age > 18:",
+        "print(\"Adult\")",
+        "[__keyword__] age >= 13:",
+        "print(\"Teenager\")",
+        "else:",
+        "print(\"Child\")",
+        "else if",
+        "elif",
+        "if",
+        "while",
+        "__keyword__"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "temp = 35",
+        "humidity = 60",
+        "if temp > 30 [__op__] humidity > 50:",
+        "print(\"Hot day\")",
+        "else:",
+        "print(\"Not a hot day\")",
+        "or",
+        "and",
+        "==",
+        "not",
+        "__op__"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "num = 0",
+        "if num > 0:",
+        "print(\"Positive\")",
+        "[__keyword1__] num < 0:",
+        "print(\"Negative\")",
+        "[__keyword2__]:",
+        "print(\"Zero\")",
+        "if",
+        "elif",
+        "else if",
+        "else",
+        "__keyword1__",
+        "__keyword2__"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "x = 6",
+        "[__keyword__] not (x % 3 == 0):",
+        "print(\"x is not divisible by 3\")",
+        "else:",
+        "print(\"x is divisible by 3\")",
+        "if",
+        "elif",
+        "while",
+        "for",
+        "__keyword__"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "x = 10",
+        "if x > 0:",
+        "[__keyword__] x % 2 == 0:",
+        "print(\"Positive even\")",
+        "else:",
+        "print(\"Positive odd\")",
+        "else:",
+        "print(\"Non-positive number\")",
+        "if",
+        "elif",
+        "else",
+        "while",
+        "__keyword__"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "grade = 95",
+        "if 90 [__op1__] grade [__op2__] 100:",
+        "print(\"A grade\")",
+        "else:",
+        "print(\"Not an A grade\")",
+        "<",
+        "<=",
+        ">",
+        "==",
+        "__op1__",
+        "__op2__"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "member_status = \"Gold\"",
+        "[__keyword1__] member_status == \"Gold\":",
+        "print(\"Welcome, Gold member!\")",
+        "[__keyword2__] member_status == \"Silver\":",
+        "print(\"Welcome, Silver member!\")",
+        "else:",
+        "print(\"Welcome, Guest!\")",
+        "if",
+        "elif",
+        "while",
+        "else if",
+        "__keyword1__",
+        "__keyword2__"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 120",
+        "if x % 2 == 0:",
+        "[__keyword__] x > 100:",
+        "print(\"x is an even number greater than 100\")",
+        "else:",
+        "print(\"x is an even number less or equal to 100\")",
+        "else:",
+        "print(\"x is odd\")",
+        "if",
+        "elif",
+        "while",
+        "else",
+        "__keyword__"
+      ]
+    }
+  ]
+}

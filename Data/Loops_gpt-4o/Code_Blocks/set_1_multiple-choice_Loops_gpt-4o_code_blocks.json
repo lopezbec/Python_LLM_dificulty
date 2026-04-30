@@ -1,0 +1,65 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for i in range(3):\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for i in range(2, 5):"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "n = 3\nwhile n < 3:\n    print(n)\n    n += 1"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "for i in range(6):\n    if i % 2 == 0:\n        continue\n    print(i)"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for i in range(2):\n    for j in range(3):\n        print(i, j)"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for i in range(5):\n      if i == 3:\n          break",
+        "while True:\n      break"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "n = 0\nwhile n < 3:\n    for i in range(n):\n        print(i, end='-')\n    n += 1"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "x = 0\nwhile x < 10:\n    x += 3"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "my_list = [1, 2, 3]\noutput = 0\nfor x in my_list:\n    if x % 2 == 0:\n        continue\n    output += x\nprint(output)"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "matrix = [[1, 2], [3, 4]]\nfor i in range(len(matrix)):\n    for j in range(len(matrix[i])):\n        if i == j:\n            print(matrix[i][j])"
+      ]
+    }
+  ]
+}

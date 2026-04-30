@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "question": "Drag and drop the correct condition to check if 'x' is greater than 3.",
+      "difficulty": 1,
+      "type": "drag-and-drop",
+      "codeSnippet": "x = 5\nif ( {CONDITION} ):\n    print(\"x is greater than 3\")",
+      "dragItems": [
+        "x > 3",
+        "x == 3",
+        "x < 3"
+      ],
+      "correctAnswer": [
+        "x > 3"
+      ]
+    },
+    {
+      "question": "Complete the if-else statement to print the correct message when 'x' is less than 10, and another message otherwise.",
+      "difficulty": 2,
+      "type": "drag-and-drop",
+      "codeSnippet": "x = 7\nif x < 10:\n    print(\"x is less than 10\")\n{KEYWORD}:\n    print(\"x is 10 or more\")",
+      "dragItems": [
+        "else",
+        "elif",
+        "try"
+      ],
+      "correctAnswer": [
+        "else"
+      ]
+    },
+    {
+      "question": "Fill in the missing condition to check if 'x' is not equal to 10, then print a message. Otherwise, print another message.",
+      "difficulty": 3,
+      "type": "drag-and-drop",
+      "codeSnippet": "x = 10\nif ( {CONDITION} ):\n    print(\"x is not 10\")\nelse:\n    print(\"x is 10\")",
+      "dragItems": [
+        "x != 10",
+        "x == 10",
+        "x > 10"
+      ],
+      "correctAnswer": [
+        "x != 10"
+      ]
+    },
+    {
+      "question": "Replace the placeholders to create an if-elif-else chain that checks if 'score' is above 80, above 60, or below 60.",
+      "difficulty": 4,
+      "type": "drag-and-drop",
+      "codeSnippet": "score = 75\nif {CONDITION1}:\n    print(\"High score\")\n{KEYWORD} {CONDITION2}:\n    print(\"Medium score\")\nelse:\n    print(\"Low score\")",
+      "dragItems": [
+        "elif",
+        "score > 80",
+        "score > 60",
+        "while"
+      ],
+      "correctAnswer": [
+        "score > 80",
+        "elif",
+        "score > 60"
+      ]
+    },
+    {
+      "question": "Complete the code to check two conditions with 'and': 'temperature' above 20 and 'weather' equals 'sunny'.",
+      "difficulty": 5,
+      "type": "drag-and-drop",
+      "codeSnippet": "temperature = 25\nweather = \"sunny\"\nif ( {CONDITION1} and {CONDITION2} ):\n    print(\"Perfect for a walk!\")",
+      "dragItems": [
+        "temperature > 20",
+        "temperature == 20",
+        "weather == \"sunny\"",
+        "weather != \"sunny\""
+      ],
+      "correctAnswer": [
+        "temperature > 20",
+        "weather == \"sunny\""
+      ]
+    },
+    {
+      "question": "Fill in the missing pieces to create a nested if-statement: first check if 'score' is positive, then check if it's greater than 100.",
+      "difficulty": 6,
+      "type": "drag-and-drop",
+      "codeSnippet": "score = 120\nif {CONDITION1}:\n    if {CONDITION2}:\n        print(\"High score\")\n    else:\n        print(\"Score is not that high\")\nelse:\n    print(\"Invalid score\")",
+      "dragItems": [
+        "score > 0",
+        "score < 0",
+        "score > 100",
+        "score == 100"
+      ],
+      "correctAnswer": [
+        "score > 0",
+        "score > 100"
+      ]
+    },
+    {
+      "question": "Drag and drop the correct keyword to check membership. Print a message if 'toy' is in the list of items.",
+      "difficulty": 7,
+      "type": "drag-and-drop",
+      "codeSnippet": "items = [\"book\", \"pen\", \"toy\", \"paper\"]\nif \"toy\" {KEYWORD} items:\n    print(\"Toy found!\")",
+      "dragItems": [
+        "in",
+        "is",
+        "not"
+      ],
+      "correctAnswer": [
+        "in"
+      ]
+    },
+    {
+      "question": "Supply the correct conditions to ensure that 'age' is at least 18 OR 'has_permission' is True.",
+      "difficulty": 8,
+      "type": "drag-and-drop",
+      "codeSnippet": "age = 16\nhas_permission = True\nif ( {CONDITION1} or {CONDITION2} ):\n    print(\"Access granted\")\nelse:\n    print(\"Access denied\")",
+      "dragItems": [
+        "age >= 18",
+        "age < 0",
+        "has_permission == True",
+        "age == 18"
+      ],
+      "correctAnswer": [
+        "age >= 18",
+        "has_permission == True"
+      ]
+    },
+    {
+      "question": "Complete the if-elif-else chain that prints different messages for x < 0, x == 0, or x > 0.",
+      "difficulty": 9,
+      "type": "drag-and-drop",
+      "codeSnippet": "x = 0\nif {CONDITION1}:\n    print(\"Negative\")\nelif {CONDITION2}:\n    print(\"Zero\")\nelse:\n    print(\"Positive\")",
+      "dragItems": [
+        "x < 0",
+        "x <= 0",
+        "x == 0",
+        "x != 0",
+        "x > 0"
+      ],
+      "correctAnswer": [
+        "x < 0",
+        "x == 0"
+      ]
+    },
+    {
+      "question": "Fill in the missing parts to cascade multiple elif conditions checking if a value 'x' is 10, 20, 30, or something else. Print matching messages accordingly.",
+      "difficulty": 10,
+      "type": "drag-and-drop",
+      "codeSnippet": "x = 20\nif x == 10:\n    print(\"x is 10\")\n{KEYWORD1} x == 20:\n    print(\"x is 20\")\n{KEYWORD2} x == 30:\n    print(\"x is 30\")\nelse:\n    print(\"x is not 10, 20, or 30\")",
+      "dragItems": [
+        "elif",
+        "else",
+        "while",
+        "if"
+      ],
+      "correctAnswer": [
+        "elif",
+        "elif"
+      ]
+    }
+  ]
+}

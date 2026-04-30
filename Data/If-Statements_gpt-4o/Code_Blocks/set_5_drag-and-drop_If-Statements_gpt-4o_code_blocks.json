@@ -1,0 +1,148 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x = True\nif ( ___ ):\n    print('Hello!')",
+        "x",
+        "True",
+        "x == True",
+        "x",
+        "False"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "y = 10\nif ( ___ == ___ ):\n    print('Equal')",
+        "y",
+        "10",
+        "20",
+        "==",
+        "=",
+        "y",
+        "10"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "number = -5\nif ( number ___ 0 ):\n    print('Positive')\nelse:\n    print('Negative')",
+        "number",
+        "<",
+        ">",
+        "==",
+        "!=",
+        "0",
+        ">"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "age = 15\nif ( ___ <= age ___ ___ ):\n    print('Teenager')",
+        "age",
+        "13",
+        "<=",
+        "==",
+        "19",
+        ">=",
+        "13",
+        "<=",
+        "19"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 4\nif ( x > 0 ):\n    if ( x % 2 ___ ___ ):\n        print('Positive and even')",
+        "x",
+        "x > 0",
+        "x % 2",
+        "==",
+        "0",
+        "!= 0",
+        "<",
+        ">",
+        "==",
+        "0"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "value = 0\nif ( value < 0 ):\n    print('Negative')\nelif ( ___ == ___ ):\n    print('Zero')\nelse:\n    print('Positive')",
+        "value",
+        "value < 0",
+        "value",
+        "0",
+        "1",
+        "<",
+        ">",
+        "value",
+        "0"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "score = 75\nif ( score < 50 ):\n    print('Low')\nelif ( 50 <= score < 80 ):\n    print('Medium')\nelse:\n    print('High')",
+        "score",
+        "score < 50",
+        "50 <= score < 80",
+        "<",
+        ">=",
+        "<=",
+        "score",
+        "80",
+        "50",
+        "80"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "password = 'mysecurepassword'\nif ( len(password) ___ 8 and 'secure' ___ password ):\n    print('Valid password')",
+        "password",
+        "len(password)",
+        ">",
+        "<",
+        "==",
+        "in",
+        "not in",
+        ">",
+        "in"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "numbers = [10, 12, -2, 8]\nif ( any(n > 0 for n in numbers) and ___(10 in numbers) ):\n    print('Criteria met')",
+        "numbers",
+        "any(n > 0 for n in numbers)",
+        "10 in numbers",
+        "all",
+        "any",
+        "not",
+        "all not",
+        "any"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "num = 8\nif ( ((5 < num < 15) and (___num % 2 == 0)) or (num in ___) ):\n    print('Condition met')",
+        "num",
+        "5 < num < 15",
+        "num % 2 == 0",
+        "not",
+        "even",
+        "{7, 14, 8}",
+        "{0}",
+        "set",
+        "not",
+        "{7, 14, 8}"
+      ]
+    }
+  ]
+}

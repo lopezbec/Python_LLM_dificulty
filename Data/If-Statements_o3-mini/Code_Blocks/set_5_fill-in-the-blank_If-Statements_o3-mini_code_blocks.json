@@ -1,0 +1,90 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "x",
+        "x > 10",
+        "______ x > 10:"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if x == 5______",
+        "x",
+        "5"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if x > 0:",
+        "print('Positive')",
+        "______:",
+        "print('Non-positive')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if x == 1:",
+        "print('One')",
+        "______ x == 2:",
+        "print('Two')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if ______(nums) > 0:",
+        "print('List is not empty')",
+        "nums"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if n % ______ == 0:",
+        "print('Even number!')",
+        "n"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x >= 1 ______ x <= 10:",
+        "print('x is between 1 and 10')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if grade == 'A' ______ grade == 'B':",
+        "print('Excellent!')",
+        "grade"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "result = 'Even' if num % 2 == 0 ______ 'Odd'",
+        "num"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if (n := len(my_list)) > 5:",
+        "print('Large list')",
+        "else:",
+        "print('List has', ______, 'elements')",
+        "n",
+        "my_list"
+      ]
+    }
+  ]
+}

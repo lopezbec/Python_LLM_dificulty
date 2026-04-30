@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "difficulty": 1,
+      "question": "Which loop in Python is typically used to iterate over a sequence (like a list, tuple, or string)?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "repeat loop"
+      ],
+      "correct_answer": "for loop"
+    },
+    {
+      "difficulty": 2,
+      "question": "Which keyword is used to exit a loop prematurely in Python?",
+      "options": [
+        "break",
+        "exit",
+        "stop",
+        "quit"
+      ],
+      "correct_answer": "break"
+    },
+    {
+      "difficulty": 3,
+      "question": "Select the code snippet that correctly prints the numbers 0 through 4 using a while loop.",
+      "options": [
+        "count = 0\nwhile count < 5:\n    print(count)\n    count += 1",
+        "count = 0\nwhile count <= 5:\n    print(count)\n    count += 1",
+        "for count in range(5):\n    print(count)",
+        "count = 0\nwhile count < 5:\n    print(count)\n    count = count + 1\n    break"
+      ],
+      "correct_answer": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1"
+    },
+    {
+      "difficulty": 4,
+      "question": "Which keyword can be used to skip the current iteration of a loop and move directly to the next iteration in Python?",
+      "options": [
+        "continue",
+        "pass",
+        "break",
+        "skip"
+      ],
+      "correct_answer": "continue"
+    },
+    {
+      "difficulty": 5,
+      "question": "Which of the following statements about infinite loops in Python is true?",
+      "options": [
+        "They always crash the program.",
+        "They can be intentional and used for server processes.",
+        "They are automatically stopped by Python after a certain time.",
+        "They only occur in 'for' loops."
+      ],
+      "correct_answer": "They can be intentional and used for server processes."
+    },
+    {
+      "difficulty": 6,
+      "question": "In a nested loop scenario, which break statement usage will only exit the inner loop?",
+      "options": [
+        "Using break in the inner loop.",
+        "Using break in the outer loop.",
+        "Using continue in the inner loop.",
+        "Using return in the inner loop."
+      ],
+      "correct_answer": "Using break in the inner loop."
+    },
+    {
+      "difficulty": 7,
+      "question": "Which loop constructs in Python support an optional 'else' clause that executes when the loop is not terminated by a break statement?",
+      "options": [
+        "for loop",
+        "while loop",
+        "Both for and while loops",
+        "Neither; only conditional statements have an 'else' clause"
+      ],
+      "correct_answer": "Both for and while loops"
+    },
+    {
+      "difficulty": 8,
+      "question": "What is the output of the following code snippet?\n\ni = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print('done')\n",
+      "options": [
+        "0\n1\n2\ndone",
+        "0\n1\n2\n3\ndone",
+        "0\ndone",
+        "Nothing is printed"
+      ],
+      "correct_answer": "0\n1\n2\ndone"
+    },
+    {
+      "difficulty": 9,
+      "question": "In Python, what happens when a 'for' loop iterates over an empty sequence and has an 'else' clause?",
+      "options": [
+        "The else clause is executed.",
+        "The else clause is not executed.",
+        "A runtime error occurs.",
+        "The code enters an infinite loop."
+      ],
+      "correct_answer": "The else clause is executed."
+    },
+    {
+      "difficulty": 10,
+      "question": "Consider the following code snippet:\n\n def generator():\n     for i in range(3):\n         yield i\n\n for value in generator():\n     if value == 1:\n         break\n else:\n     print('Completed')\n\nWhat is the output of this code?",
+      "options": [
+        "Completed",
+        "Nothing is printed",
+        "1",
+        "0 Completed"
+      ],
+      "correct_answer": "Nothing is printed"
+    }
+  ]
+}

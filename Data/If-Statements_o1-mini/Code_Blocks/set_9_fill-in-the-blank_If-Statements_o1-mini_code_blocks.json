@@ -1,0 +1,103 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if x ____ 5:",
+        "x",
+        "print(\"x is five.\")"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if y ____ 0:",
+        "y",
+        "print(\"y is not zero.\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if age ____ 18:",
+        "age",
+        "print(\"Adult\")"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score > 50:",
+        "score > 50",
+        "print(\"Pass\")",
+        "____:",
+        "print(\"Fail\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if temperature > 30:",
+        "temperature > 30",
+        "print(\"Hot\")",
+        "____ temperature > 20:",
+        "temperature > 20",
+        "print(\"Warm\")",
+        "else:",
+        "print(\"Cold\")"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if number % 2 ____ 0:",
+        "number % 2",
+        "print(\"Even\")",
+        "else:",
+        "print(\"Odd\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if not ____:",
+        "print(\"List is empty\")"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if a > b:",
+        "a > b",
+        "print(\"a is greater\")",
+        "elif a == b:",
+        "a == b",
+        "print(\"a and b are equal\")",
+        "____:",
+        "print(\"b is greater\")"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if x > 0:",
+        "x > 0",
+        "if x > 10:",
+        "x > 10",
+        "print(\"x is greater than 10\")",
+        "____",
+        "print(\"x is positive but not greater than 10\")"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if 10 <= num ____ num <= 20:",
+        "10 <= num",
+        "num <= 20",
+        "num",
+        "print(\"num is between 10 and 20\")"
+      ]
+    }
+  ]
+}

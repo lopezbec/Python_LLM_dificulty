@@ -1,0 +1,68 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "break"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "while",
+        "True"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "for color in ___:",
+        "colors"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "for"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "range"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "while True"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "flag"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "for i, value in enumerate(my_list):",
+        "my_list",
+        "index"
+      ]
+    }
+  ]
+}

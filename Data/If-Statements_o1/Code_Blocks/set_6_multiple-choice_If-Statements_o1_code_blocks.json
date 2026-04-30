@@ -1,0 +1,95 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "if"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "x",
+        "if x = 10:",
+        "if x == 10:",
+        "if x: 10",
+        "if 10 => x:",
+        "if x == 10:"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "x = 5\nif x > 3:\n    print('x is greater than 3')",
+        "print('x is greater than 3')"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "if-statement",
+        "{}",
+        ";"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "elif",
+        "if x > 10:\n    print(\"Greater than 10\")\nelse if x > 5:\n    print(\"Between 6 and 10\")",
+        "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")",
+        "if x > 10:\n    print(\"Greater than 10\")\nelseif x > 0:\n    print(\"Between 1 and 9\")",
+        "if x > 10():\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")",
+        "if x > 10:\n    print(\"Greater than 10\")\nelif x > 5:\n    print(\"Between 6 and 10\")"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if x >= 0 and x <= 10:",
+        "if x >= 0 or x <= 10:",
+        "if (x >= 0) + (x <= 10):",
+        "if x == range(0, 10):",
+        "if x >= 0 and x <= 10:"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "'and'",
+        "'or'",
+        "'and'",
+        "'and'"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "x = 12\nif x > 10:\n    if x < 15:\n        print('x is between 11 and 14')\n    else:\n        print('x is 15 or more')\nelse:\n    print('x is 10 or less')",
+        "print('x is between 11 and 14')",
+        "print('x is 10 or less')",
+        "print('x is 15 or more')"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "result = (x > 10) ? 'Greater' : 'Not Greater'",
+        "result = 'Greater' if x > 10 else 'Not Greater'",
+        "result = if x > 10 else 'Not Greater'",
+        "result = 'Greater' only if x > 10 else 'Not Greater'",
+        "result = 'Greater' if x > 10 else 'Not Greater'"
+      ]
+    }
+  ]
+}

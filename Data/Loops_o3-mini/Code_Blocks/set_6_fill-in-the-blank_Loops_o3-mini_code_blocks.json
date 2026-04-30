@@ -1,0 +1,82 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "loop",
+        "True",
+        "while"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "for loop",
+        "iterate",
+        "iterable"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "built-in function",
+        "for loop",
+        "range"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "keyword",
+        "exit a loop",
+        "break"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "keyword",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "nested loops",
+        "inner loop",
+        "outer"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "for loop",
+        "dictionary",
+        "keys()",
+        "keys"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "reversed()",
+        "reversed"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "operator",
+        ":=",
+        "assignment expression",
+        "walrus"
+      ]
+    }
+  ]
+}

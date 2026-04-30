@@ -1,0 +1,89 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if (condition) { doSomething(); }",
+        "doSomething()",
+        "condition"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "x",
+        "if x > 10: print(\"High\") else: print(\"Low\")",
+        "if x > 10: print(\"High\") else: print(\"Low\")"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "if (x == 10) { /* Code */ }",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if (user_age < 18) { print(\"Minor\") }",
+        "user_age",
+        "print(\"Minor\")"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "x = 20; if x < 15: print(1) elif x < 25: print(2) else: print(3)",
+        "x = 20",
+        "if x < 15: print(1) elif x < 25: print(2) else: print(3)",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "if (temperature > 30) { /* Code */ }",
+        "temperature"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "if A: if B: doX() else: doY()",
+        "A",
+        "B",
+        "doX()",
+        "doY()"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "if balance >= amount: withdraw()",
+        "balance",
+        "amount",
+        "withdraw()"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if (x < 1 && x > -1)",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "x = 5; y = 10; if x < y and y > 5: print(\"Yes\")",
+        "x = 5",
+        "y = 10",
+        "if x < y and y > 5: print(\"Yes\")",
+        "x",
+        "y",
+        "print(\"Yes\")"
+      ]
+    }
+  ]
+}

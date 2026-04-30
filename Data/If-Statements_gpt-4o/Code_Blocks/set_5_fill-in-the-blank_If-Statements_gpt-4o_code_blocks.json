@@ -1,0 +1,76 @@
+{
+  "code_segments": [
+    {
+      "difficulty": 1,
+      "content": [
+        "if-statement"
+      ]
+    },
+    {
+      "difficulty": 2,
+      "content": [
+        "if _____ < 10:",
+        "print('Less than 10')",
+        "x"
+      ]
+    },
+    {
+      "difficulty": 3,
+      "content": [
+        "else"
+      ]
+    },
+    {
+      "difficulty": 4,
+      "content": [
+        "if score >= 50 _____ score <= 100:",
+        "print('Good score!')",
+        "and"
+      ]
+    },
+    {
+      "difficulty": 5,
+      "content": [
+        "variable 'y'",
+        "if-statement",
+        "_____ y == 10.",
+        "not"
+      ]
+    },
+    {
+      "difficulty": 6,
+      "content": [
+        "elif"
+      ]
+    },
+    {
+      "difficulty": 7,
+      "content": [
+        "print('Hello') if name is not None _____ name is None.",
+        "else"
+      ]
+    },
+    {
+      "difficulty": 8,
+      "content": [
+        "list 'lst'",
+        "if _____(lst):",
+        "len"
+      ]
+    },
+    {
+      "difficulty": 9,
+      "content": [
+        "if-statement",
+        "continue"
+      ]
+    },
+    {
+      "difficulty": 10,
+      "content": [
+        "if-statement",
+        "try-except"
+      ]
+    }
+  ]
+}
